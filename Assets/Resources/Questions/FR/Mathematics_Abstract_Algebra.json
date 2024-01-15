@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'ordre du groupe cyclique généré par un seul élément?",
+            "TrueAnswer": "Finis",
+            "FalseAnswer": [
+              "Infini",
+              "Zéro",
+              "Négatif"
+            ],
+            "Explanation": "En algèbre abstraite, un groupe cyclique généré par un seul élément peut avoir un ordre fini ou infini."
+          },
+          {
+            "Question": "Quel est l'élément identité dans un groupe sous la multiplication?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "0",
+              "Infini",
+              "Négatif"
+            ],
+            "Explanation": "En algèbre abstraite, l'élément identité dans un groupe sous la multiplication est désigné par '1'."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un corps selon l'algèbre abstraite?",
+            "TrueAnswer": "Nombres réels",
+            "FalseAnswer": [
+              "Entiers",
+              "Nombres rationnels",
+              "Nombres complexes"
+            ],
+            "Explanation": "En algèbre abstraite, un corps est un ensemble de nombres qui inclut les nombres réels, les nombres rationnels et les nombres complexes."
+          },
+          {
+            "Question": "Combien d'éléments sont présents dans un groupe d'ordre 7?",
+            "TrueAnswer": "7",
+            "FalseAnswer": [
+              "6",
+              "8",
+              "10"
+            ],
+            "Explanation": "En algèbre abstraite, l'ordre d'un groupe fait référence au nombre d'éléments dans le groupe."
+          },
+          {
+            "Question": "Quelle est la définition d'un homomorphisme de groupe?",
+            "TrueAnswer": "Préserve l'opération",
+            "FalseAnswer": [
+              "Inverse les éléments",
+              "Eléments au carré",
+              "Multiplie par une constante"
+            ],
+            "Explanation": "Un homomorphisme de groupe en algèbre abstraite est une fonction entre deux groupes qui préserve l'opération de groupe."
+          },
+          {
+            "Question": "Lequel des structures suivantes possède un élément identité, un inverse et une propriété de fermeture?",
+            "TrueAnswer": "Groupe",
+            "FalseAnswer": [
+              "Anneau",
+              "Corps",
+              "Module"
+            ],
+            "Explanation": "En algèbre abstraite, un groupe est une structure avec un élément identité, un inverse pour chaque élément et une fermeture sous l'opération."
+          },
+          {
+            "Question": "Quel est l'ordre du groupe diédral D5?",
+            "TrueAnswer": "10",
+            "FalseAnswer": [
+              "5",
+              "8",
+              "12"
+            ],
+            "Explanation": "Le groupe diédral D5, représentant les symétries d'un pentagone régulier, a un ordre de 10."
+          },
+          {
+            "Question": "Quelle est la cardinalité de l'ensemble des symétries d'un carré?",
+            "TrueAnswer": "8",
+            "FalseAnswer": [
+              "4",
+              "6",
+              "10"
+            ],
+            "Explanation": "L'ensemble des symétries d'un carré, représenté par le groupe diédral D4, a une cardinalité de 8."
+          },
+          {
+            "Question": "Quel type de structure algébrique est un espace vectoriel sur un corps?",
+            "TrueAnswer": "Module",
+            "FalseAnswer": [
+              "Groupe",
+              "Anneau",
+              "Corps"
+            ],
+            "Explanation": "En algèbre abstraite, un espace vectoriel sur un corps est un exemple de module, qui généralise le concept de groupe."
+          },
+          {
+            "Question": "Quel est le déterminant d'une matrice 2x2 non singulière?",
+            "TrueAnswer": "Non nul",
+            "FalseAnswer": [
+              "Zéro",
+              "Positif",
+              "Négatif"
+            ],
+            "Explanation": "Une matrice 2x2 non singulière a un déterminant non nul, ce qui est une propriété fondamentale en algèbre linéaire et en algèbre abstraite."
+          },
+          {
+            "Question": "Quelle est la caractéristique d'un corps avec 5 éléments?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "0",
+              "1",
+              "10"
+            ],
+            "Explanation": "La caractéristique d'un corps avec un nombre premier d'éléments est égale à ce nombre premier, dans ce cas, 5."
+          },
+          {
+            "Question": "Quelle des structures suivantes manque de la propriété commutative?",
+            "TrueAnswer": "Anneau",
+            "FalseAnswer": [
+              "Groupe",
+              "Corps",
+              "Module"
+            ],
+            "Explanation": "En algèbre abstraite, un anneau est une structure qui manque de la propriété commutative pour la multiplication, contrairement à un corps."
+          },
+          {
+            "Question": "Quel est l'inverse multiplicatif d'un élément dans un corps?",
+            "TrueAnswer": "Réciproque",
+            "FalseAnswer": [
+              "Absolu",
+              "Exponentiel",
+              "Racine"
+            ],
+            "Explanation": "Dans un corps, l'inverse multiplicatif d'un élément a est désigné par a^-1, souvent appelé la réciproque de a."
+          },
+          {
+            "Question": "Quel est le degré d'un corps de décomposition d'un polynôme sur un corps?",
+            "TrueAnswer": "Degré du polynôme",
+            "FalseAnswer": [
+              "Valeur arbitraire",
+              "Constante",
+              "Dépend du corps"
+            ],
+            "Explanation": "En algèbre abstraite, le degré d'un corps de décomposition sur un corps donné est le degré du polynôme étant factorisé."
+          },
+          {
+            "Question": "Quel type d'élément dans un corps satisfait à l'équation x^n = 1?",
+            "TrueAnswer": "Racine de l'unité",
+            "FalseAnswer": [
+              "Élément premier",
+              "Élément inverse",
+              "Élément identité"
+            ],
+            "Explanation": "En algèbre abstraite, une racine de l'unité dans un corps satisfait à l'équation x^n = 1, où n est un entier positif."
+          },
+          {
+            "Question": "Quelle est la caractéristique de l'anneau des entiers?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "Positif",
+              "Négatif",
+              "Premier"
+            ],
+            "Explanation": "La caractéristique de l'anneau des entiers est 0, ce qui indique que l'ordre additif de 1 est infini."
+          },
+          {
+            "Question": "Quelle propriété distingue un groupe simple des autres groupes?",
+            "TrueAnswer": "Aucun sous-groupe normal non trivial",
+            "FalseAnswer": [
+              "Ordre fini",
+              "Structure abélienne",
+              "Éléments atomiques"
+            ],
+            "Explanation": "Un groupe simple en algèbre abstraite n'a aucun sous-groupe normal non trivial, ce qui en fait une pierre angulaire fondamentale de la théorie des groupes."
+          },
+          {
+            "Question": "Quelle est la dimension de l'espace vectoriel des polynômes de degré n ou moins?",
+            "TrueAnswer": "n+1",
+            "FalseAnswer": [
+              "2n",
+              "n-1",
+              "n^2"
+            ],
+            "Explanation": "La dimension de l'espace vectoriel des polynômes de degré n ou moins est n+1, reflétant le nombre d'éléments de base."
+          },
+          {
+            "Question": "Quelle est la propriété d'un idéal dans un anneau par rapport aux éléments de l'anneau?",
+            "TrueAnswer": "Absorber",
+            "FalseAnswer": [
+              "Réfléchir",
+              "Transmettre",
+              "Compléter"
+            ],
+            "Explanation": "En algèbre abstraite, un idéal dans un anneau est un sous-ensemble qui 'absorbe' les éléments de l'anneau sous l'addition et la multiplication."
+          },
+          {
+            "Question": "Dans un groupe, quel terme fait référence à un ensemble d'éléments avec une propriété donnée?",
+            "TrueAnswer": "Sous-groupe",
+            "FalseAnswer": [
+              "Cocycle",
+              "Noyau",
+              "Groupe cyclique"
+            ],
+            "Explanation": "Un sous-groupe en théorie des groupes est un sous-ensemble d'éléments qui forme un groupe sous la même opération que le groupe d'origine."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5967353289506994447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3125635636853960805}
+  - component: {fileID: 8582191271368148048}
+  m_Layer: 0
+  m_Name: TV Shows_TV Show Merchandise and Collectibles.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3125635636853960805
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5967353289506994447}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8582191271368148048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5967353289506994447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show features a group of friends living in New York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Big Bang Theory
+      - How I Met Your Mother
+      - Seinfeld
+      Explanation: Friends is a popular sitcom that revolves around the lives of
+        six friends in Manhattan.
+    - Question: What is the name of the fictional town in the TV show 'Stranger Things'?
+      TrueAnswer: Hawkins
+      FalseAnswer:
+      - Springfield
+      - Westeros
+      - Pawnee
+      Explanation: Stranger Things is set in the small town of Hawkins, Indiana,
+        where supernatural events occur.
+    - Question: Which TV show follows the lives of a group of survivors in a post-apocalyptic
+        world?
+      TrueAnswer: The Walking Dead
+      FalseAnswer:
+      - Breaking Bad
+      - Game of Thrones
+      - The Office
+      Explanation: The Walking Dead is a popular series that depicts the struggles
+        of survivors in a world overrun by zombies.
+    - Question: What is the name of the fictional high school in the TV show 'Riverdale'?
+      TrueAnswer: Riverdale High
+      FalseAnswer:
+      - Sunnydale High
+      - Hogwarts School of Witchcraft and Wizardry
+      - Degrassi High
+      Explanation: Riverdale High is the school attended by the main characters in
+        the TV show 'Riverdale'.
+    - Question: Which TV show is set in the fictional town of Stars Hollow?
+      TrueAnswer: Gilmore Girls
+      FalseAnswer:
+      - The Office
+      - Stranger Things
+      - Grey's Anatomy
+      Explanation: Gilmore Girls is a dramedy series that takes place in the charming
+        town of Stars Hollow.
+    - Question: What is the name of the spaceship in the TV show 'Firefly'?
+      TrueAnswer: Serenity
+      FalseAnswer:
+      - Enterprise
+      - Millennium Falcon
+      - TARDIS
+      Explanation: The spaceship in 'Firefly' is called Serenity, serving as the
+        main setting for the show.
+    - Question: Which TV show features a group of friends hanging out at a bar called
+        'MacLaren's'?
+      TrueAnswer: How I Met Your Mother
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Cheers
+      Explanation: How I Met Your Mother revolves around a group of friends who often
+        meet at the bar 'MacLaren's'.
+    - Question: What is the name of the fictional city in the TV show 'Gotham'?
+      TrueAnswer: Gotham City
+      FalseAnswer:
+      - Metropolis
+      - Central City
+      - Star City
+      Explanation: Gotham is set in the crime-ridden city of Gotham City, home to
+        Batman and other iconic characters.
+    - Question: Which TV show is set in the fictional town of Pawnee, Indiana?
+      TrueAnswer: Parks and Recreation
+      FalseAnswer:
+      - The Office
+      - Brooklyn Nine-Nine
+      - The Good Place
+      Explanation: Parks and Recreation is a comedy series that takes place in the
+        quirky town of Pawnee.
+    - Question: What is the name of the fictional hospital in the TV show 'Grey's
+        Anatomy'?
+      TrueAnswer: Grey Sloan Memorial Hospital
+      FalseAnswer:
+      - Sacred Heart Hospital
+      - Seattle Grace Hospital
+      - St. Eligius Hospital
+      Explanation: Grey's Anatomy is set in the fictional Grey Sloan Memorial Hospital,
+        where the characters work.
+    - Question: Which TV show is set in the fictional town of Twin Peaks?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - Stranger Things
+      - The X-Files
+      - Lost
+      Explanation: Twin Peaks is a mystery drama series that takes place in the eponymous
+        town of Twin Peaks.
+    - Question: What is the name of the fictional university in the TV show 'Community'?
+      TrueAnswer: Greendale Community College
+      FalseAnswer:
+      - Hillman College
+      - Bayside High School
+      - Ridgemont High School
+      Explanation: Community is set in the fictional Greendale Community College,
+        where the characters attend classes.
+    - Question: Which TV show is set in the fictional town of Sunnydale?
+      TrueAnswer: Buffy the Vampire Slayer
+      FalseAnswer:
+      - Supernatural
+      - The Vampire Diaries
+      - True Blood
+      Explanation: Buffy the Vampire Slayer is a supernatural drama series that takes
+        place in Sunnydale.
+    - Question: What is the name of the fictional island in the TV show 'Lost'?
+      TrueAnswer: The Island
+      FalseAnswer:
+      - Hawaii
+      - Alcatraz Island
+      - Isle of the Lost
+      Explanation: Lost is set on a mysterious island simply referred to as 'The
+        Island'.
+    - Question: Which TV show is set in the fictional town of Pawnee, Indiana?
+      TrueAnswer: Parks and Recreation
+      FalseAnswer:
+      - The Office
+      - Brooklyn Nine-Nine
+      - The Good Place
+      Explanation: Parks and Recreation is a comedy series that takes place in the
+        quirky town of Pawnee.
+    - Question: What is the name of the fictional hospital in the TV show 'Grey's
+        Anatomy'?
+      TrueAnswer: Grey Sloan Memorial Hospital
+      FalseAnswer:
+      - Sacred Heart Hospital
+      - Seattle Grace Hospital
+      - St. Eligius Hospital
+      Explanation: Grey's Anatomy is set in the fictional Grey Sloan Memorial Hospital,
+        where the characters work.
+    - Question: Which TV show is set in the fictional town of Twin Peaks?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - Stranger Things
+      - The X-Files
+      - Lost
+      Explanation: Twin Peaks is a mystery drama series that takes place in the eponymous
+        town of Twin Peaks.
+    - Question: What is the name of the fictional university in the TV show 'Community'?
+      TrueAnswer: Greendale Community College
+      FalseAnswer:
+      - Hillman College
+      - Bayside High School
+      - Ridgemont High School
+      Explanation: Community is set in the fictional Greendale Community College,
+        where the characters attend classes.
+    - Question: Which TV show is set in the fictional town of Sunnydale?
+      TrueAnswer: Buffy the Vampire Slayer
+      FalseAnswer:
+      - Supernatural
+      - The Vampire Diaries
+      - True Blood
+      Explanation: Buffy the Vampire Slayer is a supernatural drama series that takes
+        place in Sunnydale.
+    - Question: What is the name of the fictional island in the TV show 'Lost'?
+      TrueAnswer: The Island
+      FalseAnswer:
+      - Hawaii
+      - Alcatraz Island
+      - Isle of the Lost
+      Explanation: Lost is set on a mysterious island simply referred to as 'The
+        Island'.

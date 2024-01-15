@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la capitale de l'Australie?",
+            "TrueAnswer": "Canberra",
+            "FalseAnswer": [
+              "Sydney",
+              "Melbourne",
+              "Brisbane"
+            ],
+            "Explanation": "Canberra a été choisie comme capitale en 1908, conçue par l'architecte américain Walter Burley Griffin."
+          },
+          {
+            "Question": "Quel est le plus grand désert du monde?",
+            "TrueAnswer": "Antarctique",
+            "FalseAnswer": [
+              "Sahara",
+              "Arabie",
+              "Gobi"
+            ],
+            "Explanation": "Bien qu'il ne s'agisse pas d'un désert chaud, l'Antarctique est le plus grand désert de la Terre, couvrant une superficie d'environ 14 millions de kilomètres carrés."
+          },
+          {
+            "Question": "Quel pays possède la plus longue côte?",
+            "TrueAnswer": "Canada",
+            "FalseAnswer": [
+              "Norvège",
+              "Indonésie",
+              "Australie"
+            ],
+            "Explanation": "Le Canada possède la plus longue côte au monde, s'étendant sur plus de 202 080 kilomètres en raison de ses nombreuses îles et baies."
+          },
+          {
+            "Question": "Où se trouve le mont Everest?",
+            "TrueAnswer": "Népal",
+            "FalseAnswer": [
+              "Inde",
+              "Tibet",
+              "Bhoutan"
+            ],
+            "Explanation": "Le mont Everest, le plus haut sommet du monde, se situe à la frontière entre le Népal et le Tibet (Chine), le sommet étant situé dans les deux pays."
+          },
+          {
+            "Question": "Lequel des éléments suivants n'est PAS un type de limite de plaque?",
+            "TrueAnswer": "Océanique-Continental",
+            "FalseAnswer": [
+              "Transformante",
+              "Divergente",
+              "Convergente"
+            ],
+            "Explanation": "Les limites Océanique-Continental n'existent pas ; au lieu de cela, nous avons des limites Océanique-Océanique et Continental-Continental, qui sont associées aux trois autres types."
+          },
+          {
+            "Question": "Quel est le plus grand pays en superficie terrestre?",
+            "TrueAnswer": "Russie",
+            "FalseAnswer": [
+              "Chine",
+              "États-Unis",
+              "Canada"
+            ],
+            "Explanation": "La Russie couvre environ 17,1 millions de kilomètres carrés, ce qui en fait le plus grand pays du monde en superficie terrestre."
+          },
+          {
+            "Question": "Quel est le plus long fleuve du monde?",
+            "TrueAnswer": "Nil",
+            "FalseAnswer": [
+              "Amazone",
+              "Yangtsé",
+              "Mississippi"
+            ],
+            "Explanation": "Le Nil en Afrique est considéré comme le plus long fleuve du monde, avec une longueur d'environ 6 650 kilomètres."
+          },
+          {
+            "Question": "Quelle est l'océan la plus vaste par superficie?",
+            "TrueAnswer": "Pacifique",
+            "FalseAnswer": [
+              "Atlantique",
+              "Indien",
+              "Austral"
+            ],
+            "Explanation": "L'océan Pacifique est la plus grande et la plus profonde des divisions océaniques de la Terre, couvrant environ 63 millions de miles carrés de superficie."
+          },
+          {
+            "Question": "Quelle est la plus haute chute d'eau du monde?",
+            "TrueAnswer": "Chutes Angel",
+            "FalseAnswer": [
+              "Chutes du Niagara",
+              "Chutes Victoria",
+              "Chutes d'Iguazu"
+            ],
+            "Explanation": "Les chutes Angel au Venezuela sont les plus hautes chutes d'eau ininterrompues au monde, avec une chute totale de 979 mètres."
+          },
+          {
+            "Question": "Lequel des éléments suivants n'est PAS un Grand Lac?",
+            "TrueAnswer": "lac Ontario",
+            "FalseAnswer": [
+              "lac Supérieur",
+              "lac Michigan",
+              "lac Huron"
+            ],
+            "Explanation": "Le lac Ontario n'est pas un Grand Lac; les cinq Grands Lacs sont le Supérieur, le Michigan, le Huron, l'Érié et l'Ontario."
+          },
+          {
+            "Question": "Quelle est la ligne imaginaire qui divise la Terre en hémisphères?",
+            "TrueAnswer": "Équateur",
+            "FalseAnswer": [
+              "Méridien de Greenwich",
+              "Tropique du Cancer",
+              "Tropique du Capricorne"
+            ],
+            "Explanation": "L'Équateur est une ligne imaginaire autour du milieu de la Terre qui la divise en hémisphères nord et sud."
+          },
+          {
+            "Question": "Quelle est la plus haute chaîne de montagnes du monde?",
+            "TrueAnswer": "L'Himalaya",
+            "FalseAnswer": [
+              "Les Andes",
+              "Les Alpes",
+              "Les Rocheuses"
+            ],
+            "Explanation": "Les Himalayas, situés en Asie, s'étendent sur cinq pays : l'Inde, le Népal, le Bhoutan, la Chine et le Pakistan, et comprennent les plus hauts sommets de la Terre."
+          },
+          {
+            "Question": "Quelle est la capitale du Brésil?",
+            "TrueAnswer": "Brasília",
+            "FalseAnswer": [
+              "Rio de Janeiro",
+              "São Paulo",
+              "Salvador"
+            ],
+            "Explanation": "Brasília est devenue la capitale du Brésil en 1960, avec son architecture moderniste distinguée par son design blanc et futuriste."
+          },
+          {
+            "Question": "Quel pays africain est connu comme la 'Perle de l'Afrique'?",
+            "TrueAnswer": "Ouganda",
+            "FalseAnswer": [
+              "Kenya",
+              "Tanzanie",
+              "Rwanda"
+            ],
+            "Explanation": "Winston Churchill a surnommé l'Ouganda la 'Perle de l'Afrique' en raison de sa beauté naturelle époustouflante et de sa riche diversité de la faune."
+          },
+          {
+            "Question": "Quelle est la langue officielle du Nigeria?",
+            "TrueAnswer": "Anglais",
+            "FalseAnswer": [
+              "Yoruba",
+              "Igbo",
+              "Hausa"
+            ],
+            "Explanation": "L'anglais est la langue officielle du Nigeria, héritée de la colonisation britannique, et largement utilisée dans les affaires, la politique et l'éducation."
+          },
+          {
+            "Question": "Dans quel État américain se trouve le Grand Canyon?",
+            "TrueAnswer": "Arizona",
+            "FalseAnswer": [
+              "Colorado",
+              "Utah",
+              "Nevada"
+            ],
+            "Explanation": "Le Grand Canyon, creusé par le fleuve Colorado, est situé en Arizona et est célèbre pour sa taille immense et son paysage complexe."
+          },
+          {
+            "Question": "Quel est le plus grand archipel au monde?",
+            "TrueAnswer": "Indonésie",
+            "FalseAnswer": [
+              "Philippines",
+              "Japon",
+              "Fidji"
+            ],
+            "Explanation": "L'immense archipel indonésien, composé de plus de 17 000 îles, en fait le plus grand au monde, connu pour ses cultures diversifiées et ses paysages époustouflants."
+          },
+          {
+            "Question": "Où se trouve le désert d'Atacama?",
+            "TrueAnswer": "Chili",
+            "FalseAnswer": [
+              "Pérou",
+              "Argentine",
+              "Brésil"
+            ],
+            "Explanation": "Le désert d'Atacama, connu comme l'endroit le plus sec sur Terre, est situé principalement au Chili et dans certaines parties du Pérou et de la Bolivie."
+          },
+          {
+            "Question": "Quel est le plus grand système de récifs au monde?",
+            "TrueAnswer": "Grande Barrière de Corail",
+            "FalseAnswer": [
+              "Barrière de corail de Belize",
+              "Récif corallien de la mer Rouge",
+              "Récif corallien des Maldives"
+            ],
+            "Explanation": "La Grande Barrière de Corail, au large de la côte australienne, est le plus grand système de récifs au monde, s'étendant sur plus de 2 300 kilomètres."
+          },
+          {
+            "Question": "Quelle est la fleur nationale du Japon?",
+            "TrueAnswer": "Fleur de cerisier",
+            "FalseAnswer": [
+              "Lotus",
+              "Chrysanthème",
+              "Orchidée"
+            ],
+            "Explanation": "La fleur de cerisier, ou 'Sakura,' est vénérée comme la fleur nationale du Japon, symbolisant la nature éphémère de la vie et la beauté naturelle."
+          }
+        ]
+      }
+    }
+  ]
+}

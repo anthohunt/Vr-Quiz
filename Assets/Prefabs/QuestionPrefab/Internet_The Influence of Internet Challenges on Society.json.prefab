@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1673430956357072419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4446161356043423579}
+  - component: {fileID: 1128978972437749916}
+  m_Layer: 0
+  m_Name: Internet_The Influence of Internet Challenges on Society.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4446161356043423579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673430956357072419}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1128978972437749916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673430956357072419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the internet challenge where people pour ice
+        water over their heads?
+      TrueAnswer: Ice Bucket Challenge
+      FalseAnswer:
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      - Mannequin Challenge
+      Explanation: The Ice Bucket Challenge involved pouring a bucket of ice water
+        over one's head to raise awareness for ALS.
+    - Question: Which internet challenge involved eating a spoonful of cinnamon?
+      TrueAnswer: Cinnamon Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Tide Pod Challenge
+      - Mannequin Challenge
+      Explanation: The Cinnamon Challenge required participants to swallow a spoonful
+        of cinnamon without drinking water.
+    - Question: What internet challenge involved consuming laundry detergent pods?
+      TrueAnswer: Tide Pod Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Mannequin Challenge
+      Explanation: The Tide Pod Challenge was a dangerous trend where people filmed
+        themselves eating laundry detergent pods.
+    - Question: Which internet challenge required participants to freeze in place
+        like mannequins?
+      TrueAnswer: Mannequin Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Mannequin Challenge involved groups of people freezing in
+        place while a camera moved around them.
+    - Question: What is the name of the internet challenge where people dance to
+        a specific song?
+      TrueAnswer: Dance Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: Dance Challenges involve individuals or groups creating choreographed
+        dances to popular songs and sharing them online.
+    - Question: Which internet challenge involved stacking objects into a tower formation?
+      TrueAnswer: Tower Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Tower Challenge required participants to stack objects into
+        a tall tower without it toppling over.
+    - Question: What internet challenge involved creating intricate designs on a
+        Rubik's Cube?
+      TrueAnswer: Rubik's Cube Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Rubik's Cube Challenge involved solving a Rubik's Cube as
+        quickly as possible or creating complex patterns on it.
+    - Question: Which internet challenge involved creating art using only sand?
+      TrueAnswer: Sand Art Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Sand Art Challenge required participants to create intricate
+        designs or sculptures using only sand.
+    - Question: What is the name of the internet challenge where people imitate famous
+        paintings?
+      TrueAnswer: Art Museum Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Art Museum Challenge involved individuals recreating famous
+        paintings and sharing their photos online.
+    - Question: Which internet challenge involved creating elaborate domino setups?
+      TrueAnswer: Domino Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Domino Challenge required participants to set up intricate
+        domino patterns and then topple them in a chain reaction.
+    - Question: What is the name of the internet challenge where people attempt to
+        balance objects on their bodies?
+      TrueAnswer: Balancing Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Balancing Challenge involved individuals trying to balance
+        various objects on different parts of their bodies.
+    - Question: Which internet challenge involved creating sculptures using only
+        food items?
+      TrueAnswer: Food Sculpture Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Food Sculpture Challenge required participants to create artistic
+        sculptures using only edible items.
+    - Question: What internet challenge involved creating intricate designs using
+        only paper?
+      TrueAnswer: Paper Art Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Paper Art Challenge involved individuals creating detailed
+        designs or sculptures using only paper.
+    - Question: Which internet challenge involved creating elaborate structures using
+        playing cards?
+      TrueAnswer: Card Tower Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Card Tower Challenge required participants to build tall structures
+        using playing cards without them collapsing.
+    - Question: What is the name of the internet challenge where people attempt to
+        solve complex puzzles?
+      TrueAnswer: Puzzle Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Puzzle Challenge involved individuals trying to solve various
+        types of puzzles, such as crosswords or brain teasers.
+    - Question: Which internet challenge involved creating intricate designs using
+        only Legos?
+      TrueAnswer: Lego Art Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Lego Art Challenge required participants to create detailed
+        designs or sculptures using only Lego bricks.
+    - Question: What internet challenge involved creating artistic designs using
+        only makeup?
+      TrueAnswer: Makeup Art Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Makeup Art Challenge involved individuals creating intricate
+        designs or transformations using only makeup products.
+    - Question: Which internet challenge involved creating intricate designs using
+        only yarn or thread?
+      TrueAnswer: Yarn Art Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Yarn Art Challenge required participants to create detailed
+        designs or sculptures using only yarn or thread.
+    - Question: What is the name of the internet challenge where people attempt to
+        solve a Rubik's Cube blindfolded?
+      TrueAnswer: Blindfolded Rubik's Cube Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Blindfolded Rubik's Cube Challenge involved individuals solving
+        a Rubik's Cube without being able to see it.
+    - Question: Which internet challenge involved creating intricate designs using
+        only sand?
+      TrueAnswer: Sand Art Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Cinnamon Challenge
+      - Tide Pod Challenge
+      Explanation: The Sand Art Challenge required participants to create intricate
+        designs or sculptures using only sand.

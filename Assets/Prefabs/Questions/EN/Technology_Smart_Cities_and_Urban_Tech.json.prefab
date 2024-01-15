@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4110934223203387559
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2560343511535428011}
+  - component: {fileID: 1918148749253676059}
+  m_Layer: 0
+  m_Name: Technology_Smart_Cities_and_Urban_Tech.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2560343511535428011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4110934223203387559}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1918148749253676059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4110934223203387559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the concept of a smart city primarily focused on?
+      TrueAnswer: Sustainability
+      FalseAnswer:
+      - Profitability
+      - Convenience
+      - Innovation
+      Explanation: The concept of a smart city primarily focuses on sustainability
+        through the use of technology to improve efficiency and resource management.
+    - Question: What type of technology is used to monitor air quality in smart cities?
+      TrueAnswer: IoT sensors
+      FalseAnswer:
+      - Satellite imagery
+      - Weather radar
+      - Barometers
+      Explanation: IoT sensors are used to monitor air quality in smart cities by
+        collecting real-time data on pollution levels and environmental factors.
+    - Question: Which of the following is an example of smart infrastructure?
+      TrueAnswer: Intelligent street lighting
+      FalseAnswer:
+      - Traditional traffic lights
+      - Manual parking meters
+      - Basic road signs
+      Explanation: Intelligent street lighting is an example of smart infrastructure
+        in smart cities, as it is equipped with sensors to adjust brightness based
+        on usage and environmental conditions.
+    - Question: What is the primary goal of urban tech integration in smart cities?
+      TrueAnswer: Improving quality of life
+      FalseAnswer:
+      - Increasing surveillance
+      - Boosting economic growth
+      - Enhancing military defense
+      Explanation: The primary goal of urban tech integration in smart cities is
+        to improve the quality of life for residents through efficient public services
+        and sustainable urban development.
+    - Question: Which technology is commonly used for smart parking solutions in
+        urban areas?
+      TrueAnswer: RFID
+      FalseAnswer:
+      - QR codes
+      - NFC
+      - Barcodes
+      Explanation: RFID technology is commonly used for smart parking solutions in
+        urban areas, enabling seamless identification and management of parking spaces
+        through radio frequency communication.
+    - Question: What approach does a smart city take towards energy consumption?
+      TrueAnswer: Optimization
+      FalseAnswer:
+      - Maximization
+      - Stagnation
+      - Randomization
+      Explanation: A smart city takes an approach of optimization towards energy
+        consumption by utilizing technology to track and regulate energy usage for
+        maximum efficiency.
+    - Question: Which technology supports real-time traffic management in smart cities?
+      TrueAnswer: AI-powered analytics
+      FalseAnswer:
+      - Traditional traffic cameras
+      - GPS navigation systems
+      - LED traffic signal systems
+      Explanation: AI-powered analytics support real-time traffic management in smart
+        cities by processing data from various sources to enable dynamic traffic
+        control and congestion mitigation.
+    - Question: What is the main function of a smart grid in a city's infrastructure?
+      TrueAnswer: Balancing energy supply and demand
+      FalseAnswer:
+      - Generating renewable energy
+      - Controlling water distribution
+      - Managing waste disposal
+      Explanation: The main function of a smart grid in a city's infrastructure is
+        to balance energy supply and demand, optimizing energy distribution and reducing
+        peak load demands.
+    - Question: What technology is often used for smart waste management in urban
+        areas?
+      TrueAnswer: RFID tagging
+      FalseAnswer:
+      - Bluetooth beacons
+      - Drones
+      - Satellite imaging
+      Explanation: RFID tagging is often used for smart waste management in urban
+        areas, allowing for efficient waste collection and monitoring of disposal
+        activities.
+    - Question: Which technology enables enhanced public safety in smart cities?
+      TrueAnswer: Video analytics
+      FalseAnswer:
+      - Laser scanning
+      - Thermal imaging
+      - Biometric identification
+      Explanation: Video analytics technology enables enhanced public safety in smart
+        cities by providing real-time monitoring and analysis of public spaces and
+        potential security threats.
+    - Question: What is a key benefit of smart irrigation systems in urban agriculture?
+      TrueAnswer: Water conservation
+      FalseAnswer:
+      - Soil enrichment
+      - Pest control
+      - Crop yield enhancement
+      Explanation: A key benefit of smart irrigation systems in urban agriculture
+        is water conservation, achieved through precise monitoring and targeted water
+        distribution.
+    - Question: How do smart street lighting systems contribute to urban safety?
+      TrueAnswer: Enhanced visibility
+      FalseAnswer:
+      - Reduced energy costs
+      - Noise pollution reduction
+      - Reduced light pollution
+      Explanation: Smart street lighting systems contribute to urban safety by providing
+        enhanced visibility, particularly in areas with low natural light, improving
+        pedestrian and vehicular safety.
+    - Question: What is the primary purpose of smart public transportation systems
+        in cities?
+      TrueAnswer: Reducing congestion
+      FalseAnswer:
+      - Maximizing revenue
+      - Optimizing schedules
+      - Enhancing passenger comfort
+      Explanation: The primary purpose of smart public transportation systems in
+        cities is to reduce congestion and traffic-related issues by providing efficient
+        and interconnected transit solutions.
+    - Question: Which technology is utilized for noise pollution monitoring in smart
+        cities?
+      TrueAnswer: Acoustic sensors
+      FalseAnswer:
+      - Seismic detectors
+      - Thermographic cameras
+      - Chemical sensors
+      Explanation: Acoustic sensors are utilized for noise pollution monitoring in
+        smart cities, detecting and analyzing environmental noise levels to support
+        the implementation of noise control measures.
+    - Question: What role does data analytics play in smart city management?
+      TrueAnswer: Predictive insights
+      FalseAnswer:
+      - Historical documentation
+      - Real-time reporting
+      - Descriptive statistics
+      Explanation: Data analytics in smart city management provides predictive insights,
+        forecasting trends and patterns to support proactive decision-making and
+        resource allocation.
+    - Question: Which technology enables smart parking payment systems in urban areas?
+      TrueAnswer: Mobile apps
+      FalseAnswer:
+      - Contactless cards
+      - Biometric scanners
+      - Smartwatch integration
+      Explanation: Mobile apps enable smart parking payment systems in urban areas,
+        allowing drivers to conveniently manage parking payments and availability
+        through their smartphones.
+    - Question: What is a key benefit of smart water management systems in urban
+        environments?
+      TrueAnswer: Leak detection
+      FalseAnswer:
+      - Chemical purification
+      - Aesthetic enhancement
+      - Algae control
+      Explanation: A key benefit of smart water management systems in urban environments
+        is leak detection, enabling early identification and prevention of water
+        wastage and infrastructure damage.
+    - Question: How do smart building technologies contribute to energy efficiency
+        in cities?
+      TrueAnswer: Automated energy control
+      FalseAnswer:
+      - Facade aesthetics
+      - Interior comfort optimization
+      - Security surveillance
+      Explanation: Smart building technologies contribute to energy efficiency in
+        cities through automated energy control, managing lighting, heating, and
+        cooling systems based on occupancy and environmental conditions.
+    - Question: What is the primary function of connected infrastructure in smart
+        cities?
+      TrueAnswer: Data sharing
+      FalseAnswer:
+      - Physical connectivity
+      - Remote control
+      - Localized processing
+      Explanation: The primary function of connected infrastructure in smart cities
+        is data sharing, facilitating seamless communication and collaboration among
+        different urban systems and services.
+    - Question: Which technology supports automated waste collection in smart urban
+        environments?
+      TrueAnswer: Robotics
+      FalseAnswer:
+      - Drones
+      - Augmented reality
+      - 3D printing
+      Explanation: Robotics technology supports automated waste collection in smart
+        urban environments by enabling autonomous waste sorting and disposal processes,
+        maximizing efficiency and reducing manual labor.

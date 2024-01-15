@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the purpose of GIS software?",
+            "TrueAnswer": "Spatial analysis",
+            "FalseAnswer": [
+              "Graphic design",
+              "Audio processing",
+              "Text editing"
+            ],
+            "Explanation": "GIS software is designed to capture, store, manipulate, analyze, manage, and present all types of geographical data. It enables spatial analysis for various applications."
+          },
+          {
+            "Question": "Which of the following is a satellite-based navigation system?",
+            "TrueAnswer": "GPS",
+            "FalseAnswer": [
+              "RADAR",
+              "Sonar",
+              "LIDAR"
+            ],
+            "Explanation": "The Global Positioning System (GPS) is a satellite-based navigation system that provides location and time information in all weather conditions, anywhere on or near the Earth."
+          },
+          {
+            "Question": "What is the primary function of LiDAR technology?",
+            "TrueAnswer": "3D mapping",
+            "FalseAnswer": [
+              "Audio recording",
+              "Weather forecasting",
+              "Social networking"
+            ],
+            "Explanation": "LiDAR (Light Detection and Ranging) technology is used for generating precise and accurate 3D maps and models of the Earth's surface, terrain, and urban environments."
+          },
+          {
+            "Question": "What technology is used to create topographic maps?",
+            "TrueAnswer": "Remote sensing",
+            "FalseAnswer": [
+              "Augmented reality",
+              "Blockchain",
+              "Biometrics"
+            ],
+            "Explanation": "Remote sensing technology, such as aerial photography and satellite imagery, is essential for capturing data used in the creation of topographic maps."
+          },
+          {
+            "Question": "What technique is utilized in Geographic Information Systems (GIS) for data visualization?",
+            "TrueAnswer": "Spatial interpolation",
+            "FalseAnswer": [
+              "Temporal aggregation",
+              "Statistical regression",
+              "Sentiment analysis"
+            ],
+            "Explanation": "Spatial interpolation is the method used in GIS for predicting values at unsampled locations based on measurements from sampled locations, facilitating data visualization and analysis."
+          }
+        ]
+      }
+    }
+  ]
+}

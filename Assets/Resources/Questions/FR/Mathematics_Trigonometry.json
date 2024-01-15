@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Qu'est-ce que la fonction trigonométrique opposée sur hypoténuse est appelée?",
+            "TrueAnswer": "Sine",
+            "FalseAnswer": [
+              "Cosine",
+              "Tangent",
+              "Cotangent"
+            ],
+            "Explication": "Le sinus, abrégé en sin, est une fonction trigonométrique fondamentale représentant le rapport entre la longueur du côté opposé à un angle aigu donné et l'hypoténuse."
+          },
+          {
+            "Question": "Quel est le réciproque du cosinus?",
+            "TrueAnswer": "Sécante",
+            "FalseAnswer": [
+              "Cosecante",
+              "Tangente",
+              "Cotangente"
+            ],
+            "Explication": "La sécante, abrégée en sec, est le réciproque de la fonction cosinus. C'est le rapport de l'hypoténuse au côté adjacent d'un triangle rectangle."
+          },
+          {
+            "Question": "Quel est le rapport du côté adjacent à l'hypoténuse?",
+            "TrueAnswer": "Cosinus",
+            "FalseAnswer": [
+              "Sine",
+              "Tangente",
+              "Cosecante"
+            ],
+            "Explication": "Le cosinus, abrégé en cos, représente le rapport entre la longueur du côté adjacent à un angle aigu et la longueur de l'hypoténuse dans un triangle rectangle."
+          },
+          {
+            "Question": "Quelle fonction trigonométrique représente le rapport de l'opposé à l'adjacent?",
+            "TrueAnswer": "Tangente",
+            "FalseAnswer": [
+              "Cotangente",
+              "Sine",
+              "Sécante"
+            ],
+            "Explication": "La tangente, notée tan, est le rapport entre la longueur du côté opposé à un angle aigu et la longueur du côté adjacent à l'angle dans un triangle rectangle."
+          },
+          {
+            "Question": "Quel est le réciproque du sinus?",
+            "TrueAnswer": "Cosecante",
+            "FalseAnswer": [
+              "Sécante",
+              "Tangente",
+              "Cotangente"
+            ],
+            "Explication": "La cosecante, abrégée en csc, est le réciproque de la fonction sinus, représentant le rapport de l'hypoténuse au côté opposé à un angle aigu donné."
+          },
+          {
+            "Question": "Quelle est la relation entre la tangente et la cotangente en termes de réciproque?",
+            "TrueAnswer": "Inverse",
+            "FalseAnswer": [
+              "Égal",
+              "Opposé",
+              "Parallèle"
+            ],
+            "Explication": "La tangente et la cotangente sont des fonctions réciproques, ce qui signifie que le produit de leurs valeurs est toujours égal à 1 à n'importe quel angle donné."
+          },
+          {
+            "Question": "Quelle fonction trigonométrique représente le rapport de l'hypoténuse à l'adjacent?",
+            "TrueAnswer": "Sécante",
+            "FalseAnswer": [
+              "Sine",
+              "Tangente",
+              "Cotangente"
+            ],
+            "Explication": "La sécante, abrégée en sec, est le rapport entre la longueur de l'hypoténuse et la longueur du côté adjacent à un angle dans un triangle rectangle."
+          },
+          {
+            "Question": "Quel est le réciproque de la tangente?",
+            "TrueAnswer": "Cotangente",
+            "FalseAnswer": [
+              "Sécante",
+              "Sine",
+              "Cosecante"
+            ],
+            "Explication": "La cotangente, souvent écrite cot, est le réciproque de la fonction tangente, représentant le rapport du côté adjacent au côté opposé d'un triangle rectangle."
+          },
+          {
+            "Question": "Quelle est la relation entre le sinus et le cosinus en termes d'angles complémentaires?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "Le sinus et le cosinus sont égaux en valeur pour des angles complémentaires, ce qui signifie que le sinus d'un angle est égal au cosinus de son complément."
+          },
+          {
+            "Question": "Quelle est la dérivée de la fonction sinus par rapport à x?",
+            "TrueAnswer": "Cosinus",
+            "FalseAnswer": [
+              "Tangente",
+              "Cosecante",
+              "Sécante"
+            ],
+            "Explication": "La dérivée de la fonction sinus par rapport à la variable x est la fonction cosinus, représentant le taux de variation de la courbe sinus par rapport à x."
+          },
+          {
+            "Question": "Quelle est la relation entre le sinus et la cotangente en termes de réciproque?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "Le sinus et la cotangente sont des réciproques, ce qui signifie que le produit de leurs valeurs est toujours égal à 1 à n'importe quel angle donné."
+          },
+          {
+            "Question": "Quelle est l'intégrale de la fonction cosinus par rapport à x?",
+            "TrueAnswer": "Sine",
+            "FalseAnswer": [
+              "Tangente",
+              "Cosecante",
+              "Sécante"
+            ],
+            "Explication": "L'intégrale de la fonction cosinus par rapport à la variable x est la fonction sinus, représentant l'accumulation de la courbe cosinus sur l'intervalle."
+          },
+          {
+            "Question": "Quelle est la relation entre le cosinus et la sécante en termes de réciproque?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "Le cosinus et la sécante sont des réciproques, ce qui signifie que le produit de leurs valeurs est toujours égal à 1 à n'importe quel angle donné."
+          },
+          {
+            "Question": "Quelle fonction trigonométrique représente le rapport de l'hypoténuse à l'opposé?",
+            "TrueAnswer": "Cosecante",
+            "FalseAnswer": [
+              "Sine",
+              "Tangente",
+              "Sécante"
+            ],
+            "Explication": "La cosecante, abrégée en csc, représente le rapport de la longueur de l'hypoténuse au côté opposé à un angle aigu donné dans un triangle rectangle."
+          },
+          {
+            "Question": "Quelle est la relation entre le cosinus et la cotangente en termes de réciproque?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "Le cosinus et la cotangente sont des réciproques, ce qui signifie que le produit de leurs valeurs est toujours égal à 1 à n'importe quel angle donné."
+          },
+          {
+            "Question": "Quelle est l'intégrale de la fonction sinus par rapport à x?",
+            "TrueAnswer": "-Cosinus",
+            "FalseAnswer": [
+              "Tangente",
+              "Cosecante",
+              "Sécante"
+            ],
+            "Explication": "L'intégrale de la fonction sinus par rapport à la variable x est la fonction cosinus négative, représentant l'accumulation de la courbe sinus sur l'intervalle."
+          },
+          {
+            "Question": "Quelle est la relation entre la tangente et la sécante en termes de réciproque?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "La tangente et la sécante sont des réciproques, ce qui signifie que le produit de leurs valeurs est toujours égal à 1 à n'importe quel angle donné."
+          },
+          {
+            "Question": "Quelle est la relation entre le cosinus et le sinus en termes d'angles complémentaires?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "Le cosinus et le sinus sont égaux en valeur pour des angles complémentaires, ce qui signifie que le cosinus d'un angle est égal au sinus de son complément."
+          },
+          {
+            "Question": "Quelle est la dérivée de la fonction cosinus par rapport à x?",
+            "TrueAnswer": "-Sinus",
+            "FalseAnswer": [
+              "Tangente",
+              "Cosecante",
+              "Sécante"
+            ],
+            "Explication": "La dérivée de la fonction cosinus par rapport à la variable x est la fonction sinus négative, représentant le taux de variation de la courbe cosinus par rapport à x."
+          },
+          {
+            "Question": "Quelle est la relation entre la sécante et la cosecante en termes de réciproque?",
+            "TrueAnswer": "Égal",
+            "FalseAnswer": [
+              "Opposé",
+              "Parallèle",
+              "Inverse"
+            ],
+            "Explication": "La sécante et la cosecante sont des réciproques, ce qui signifie que le produit de leurs valeurs est toujours égal à 1 à n'importe quel angle donné."
+          }
+        ]
+      }
+    }
+  ]
+}

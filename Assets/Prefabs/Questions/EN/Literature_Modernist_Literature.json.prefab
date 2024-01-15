@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3881670737100198939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5135542724580240227}
+  - component: {fileID: 6151273066684150527}
+  m_Layer: 0
+  m_Name: Literature_Modernist_Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5135542724580240227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3881670737100198939}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6151273066684150527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3881670737100198939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the book 'Ulysses'?
+      TrueAnswer: James Joyce
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - Virginia Woolf
+      - Ernest Hemingway
+      Explanation: '''Ulysses'' is a groundbreaking modernist novel by James Joyce,
+        known for its complex narrative and experimental style.'
+    - Question: Which literary movement heavily influenced Modernist literature?
+      TrueAnswer: Symbolism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Naturalism
+      Explanation: Symbolism, characterized by the use of symbols and indirect suggestion,
+        deeply influenced the innovative nature of Modernist literature.
+    - Question: In which city is the novel 'Mrs. Dalloway' set?
+      TrueAnswer: London
+      FalseAnswer:
+      - New York
+      - Paris
+      - Dublin
+      Explanation: Virginia Woolf's 'Mrs. Dalloway' is set in post-World War I London,
+        reflecting the psychological and social changes of the era.
+    - Question: Who is the author of 'The Waste Land'?
+      TrueAnswer: T.S. Eliot
+      FalseAnswer:
+      - Ezra Pound
+      - William Faulkner
+      - Langston Hughes
+      Explanation: T.S. Eliot's 'The Waste Land' is celebrated for its fragmented,
+        multi-voiced structure, reflecting the disillusionment of the post-World
+        War I society.
+    - Question: Which writer is associated with the 'stream of consciousness' technique?
+      TrueAnswer: James Joyce
+      FalseAnswer:
+      - E.M. Forster
+      - D.H. Lawrence
+      - William Faulkner
+      Explanation: James Joyce's use of 'stream of consciousness' technique in 'Ulysses'
+        and 'A Portrait of the Artist as a Young Man' revolutionized the way characters'
+        thoughts were portrayed.
+    - Question: Who is the protagonist of 'The Great Gatsby'?
+      TrueAnswer: Jay Gatsby
+      FalseAnswer:
+      - Nick Carraway
+      - Daisy Buchanan
+      - Tom Buchanan
+      Explanation: F. Scott Fitzgerald's 'The Great Gatsby' centers around the enigmatic
+        and wealthy Jay Gatsby, capturing the excesses and disillusionment of the
+        Jazz Age.
+    - Question: What is the original language of 'The Stranger' by Albert Camus?
+      TrueAnswer: French
+      FalseAnswer:
+      - Spanish
+      - English
+      - German
+      Explanation: Albert Camus' existentialist novel 'The Stranger' was originally
+        written in French, exploring the absurdity of life and the concept of indifference.
+    - Question: Which work is considered a key example of 'magic realism'?
+      TrueAnswer: One Hundred Years of Solitude
+      FalseAnswer:
+      - To the Lighthouse
+      - The Sound and the Fury
+      - A Portrait of the Artist as a Young Man
+      Explanation: "Gabriel Garc\xEDa M\xE1rquez's 'One Hundred Years of Solitude'
+        is a prime example of magic realism, blending fantastical elements with realistic
+        narrative."
+    - Question: Who is the author of 'A Portrait of the Artist as a Young Man'?
+      TrueAnswer: James Joyce
+      FalseAnswer:
+      - Virginia Woolf
+      - F. Scott Fitzgerald
+      - William Faulkner
+      Explanation: James Joyce's semi-autobiographical novel 'A Portrait of the Artist
+        as a Young Man' follows the development of its protagonist, Stephen Dedalus,
+        and is considered a pioneering work of Modernist literature.
+    - Question: Which literary movement encouraged experimentation in narrative style?
+      TrueAnswer: Modernism
+      FalseAnswer:
+      - Naturalism
+      - Realism
+      - Romanticism
+      Explanation: Modernism sought to break away from traditional narrative forms,
+        embracing innovative techniques and fragmented structures in literature.
+    - Question: In which decade did Modernist literature flourish?
+      TrueAnswer: 1920s
+      FalseAnswer:
+      - 1930s
+      - 1940s
+      - 1950s
+      Explanation: The 1920s marked the peak of Modernist literature, with writers
+        challenging conventional norms and exploring themes of disillusionment and
+        identity in the aftermath of World War I.
+    - Question: Who is credited with coining the term 'Lost Generation'?
+      TrueAnswer: Gertrude Stein
+      FalseAnswer:
+      - Ernest Hemingway
+      - T.S. Eliot
+      - F. Scott Fitzgerald
+      Explanation: Gertrude Stein famously used the term 'Lost Generation' to describe
+        the disillusioned writers and artists who came of age during World War I,
+        including Hemingway and Fitzgerald.
+    - Question: Which novel is known for its 'Bildungsroman' narrative?
+      TrueAnswer: To the Lighthouse
+      FalseAnswer:
+      - The Waste Land
+      - The Sun Also Rises
+      - The Great Gatsby
+      Explanation: Virginia Woolf's 'To the Lighthouse' is a classic example of 'Bildungsroman,'
+        capturing the growth and development of its characters, particularly the
+        young James Ramsay.
+    - Question: Who penned the groundbreaking poem 'The Love Song of J. Alfred Prufrock'?
+      TrueAnswer: T.S. Eliot
+      FalseAnswer:
+      - Ezra Pound
+      - Langston Hughes
+      - Robert Frost
+      Explanation: T.S. Eliot's 'The Love Song of J. Alfred Prufrock' is a seminal
+        work of Modernist poetry, renowned for its introspective exploration of modern
+        anxiety and alienation.
+    - Question: Which literary work introduced the concept of 'stream of consciousness'
+        in a significant way?
+      TrueAnswer: Mrs. Dalloway
+      FalseAnswer:
+      - Dubliners
+      - Ulysses
+      - A Passage to India
+      Explanation: Virginia Woolf's 'Mrs. Dalloway' is a pioneering example of 'stream
+        of consciousness' writing, delving into the inner thoughts and perceptions
+        of its characters.
+    - Question: Who is the author of the 'The Sun Also Rises'?
+      TrueAnswer: Ernest Hemingway
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - Gertrude Stein
+      - Ezra Pound
+      Explanation: Ernest Hemingway's 'The Sun Also Rises' captures the disillusionment
+        and aimlessness of the post-World War I generation, often referred to as
+        the 'Lost Generation.'
+    - Question: Which author is noted for his use of 'Faulknerian' narrative style?
+      TrueAnswer: William Faulkner
+      FalseAnswer:
+      - Ernest Hemingway
+      - F. Scott Fitzgerald
+      - John Steinbeck
+      Explanation: William Faulkner is known for the 'Faulknerian' narrative, characterized
+        by nonlinear storytelling, shifting perspectives, and complex, dense prose.
+    - Question: Which novel features a narrative structure comprising of four distinct
+        parts or 'chapters'?
+      TrueAnswer: A Passage to India
+      FalseAnswer:
+      - The Sound and the Fury
+      - One Hundred Years of Solitude
+      - To the Lighthouse
+      Explanation: E.M. Forster's 'A Passage to India' follows a unique narrative
+        structure divided into four parts, reflecting the complexities of colonialism
+        and human relationships.
+    - Question: Who is often associated with the 'Southern Gothic' genre?
+      TrueAnswer: William Faulkner
+      FalseAnswer:
+      - Eudora Welty
+      - Tennessee Williams
+      - Harper Lee
+      Explanation: William Faulkner is a prominent figure in the Southern Gothic
+        genre, renowned for his dark, atmospheric settings and exploration of the
+        Southern United States' complex history and culture.
+    - Question: Which literary movement emerged as a response to the disillusionment
+        and fragmentation of modern life?
+      TrueAnswer: Existentialism
+      FalseAnswer:
+      - Surrealism
+      - Absurdism
+      - Nihilism
+      Explanation: Existentialism, with its focus on individual agency and the search
+        for meaning in an uncertain world, emerged as a philosophical and literary
+        response to the disruptions of modern existence.

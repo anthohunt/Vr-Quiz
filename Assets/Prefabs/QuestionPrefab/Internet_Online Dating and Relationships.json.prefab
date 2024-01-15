@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1499280750687112800
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3051627505333730604}
+  - component: {fileID: 2453079980767737681}
+  m_Layer: 0
+  m_Name: Internet_Online Dating and Relationships.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3051627505333730604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499280750687112800}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2453079980767737681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1499280750687112800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular social media platform?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Twitter
+      - Instagram
+      - Snapchat
+      Explanation: Facebook is the most widely used social media platform with over
+        2.8 billion monthly active users.
+    - Question: Which dating app is known for its swiping feature?
+      TrueAnswer: Tinder
+      FalseAnswer:
+      - Bumble
+      - OkCupid
+      - Match.com
+      Explanation: Tinder is a popular dating app where users swipe right or left
+        to indicate interest in potential matches.
+    - Question: What does the acronym 'LOL' stand for?
+      TrueAnswer: Laugh out loud
+      FalseAnswer:
+      - Lots of love
+      - Lots of luck
+      - League of Legends
+      Explanation: '''LOL'' is an abbreviation for ''laugh out loud'' and is commonly
+        used in online conversations to indicate amusement.'
+    - Question: What is the purpose of a dating profile?
+      TrueAnswer: To showcase oneself
+      FalseAnswer:
+      - To find friends
+      - To promote a business
+      - To share memes
+      Explanation: A dating profile is created to present oneself and attract potential
+        romantic partners.
+    - Question: What is the term for a romantic relationship that starts online?
+      TrueAnswer: Online dating
+      FalseAnswer:
+      - Virtual romance
+      - Digital love
+      - Cyber relationship
+      Explanation: Online dating refers to the practice of forming romantic connections
+        through internet platforms.
+    - Question: What is 'catfishing'?
+      TrueAnswer: Creating a fake identity online
+      FalseAnswer:
+      - Sharing cat pictures
+      - Fishing for compliments
+      - Dating someone who loves cats
+      Explanation: '''Catfishing'' is when someone creates a false identity online
+        to deceive others, often in romantic relationships.'
+    - Question: What is the main purpose of online dating?
+      TrueAnswer: Finding a romantic partner
+      FalseAnswer:
+      - Making new friends
+      - Sharing hobbies
+      - Learning about different cultures
+      Explanation: The primary goal of online dating is to find a romantic partner
+        or establish a romantic relationship.
+    - Question: What is the term for ending a relationship through text or online
+        communication?
+      TrueAnswer: Ghosting
+      FalseAnswer:
+      - Zombieing
+      - Haunting
+      - Caspering
+      Explanation: '''Ghosting'' is when someone abruptly ends a relationship by
+        cutting off all communication without explanation.'
+    - Question: What is the term for a person who pretends to be someone else online?
+      TrueAnswer: Impersonator
+      FalseAnswer:
+      - Poser
+      - Pretender
+      - Deceiver
+      Explanation: An 'impersonator' is someone who assumes a false identity online,
+        often for deceptive purposes.
+    - Question: What is the term for a person who is in a committed relationship
+        but uses dating apps?
+      TrueAnswer: Cheater
+      FalseAnswer:
+      - Explorer
+      - Adventurer
+      - Opportunist
+      Explanation: A 'cheater' is someone who is in a committed relationship but
+        seeks romantic or sexual connections outside of it.
+    - Question: What is the term for a person who sends unsolicited explicit messages
+        online?
+      TrueAnswer: Cyber harasser
+      FalseAnswer:
+      - Flirtatious
+      - Romantic
+      - Playful
+      Explanation: A 'cyber harasser' is someone who sends unwanted explicit messages
+        or engages in online harassment.
+    - Question: What is the term for a person who only seeks casual, non-committal
+        relationships online?
+      TrueAnswer: Serial dater
+      FalseAnswer:
+      - Loyal partner
+      - Monogamist
+      - Long-term seeker
+      Explanation: A 'serial dater' is someone who frequently engages in casual dating
+        without seeking long-term commitments.
+    - Question: What is the term for a person who uses online dating to scam others
+        for money?
+      TrueAnswer: Romance scammer
+      FalseAnswer:
+      - Love magician
+      - Heartbreaker
+      - Cupid's con artist
+      Explanation: A 'romance scammer' is someone who deceives others on dating platforms
+        to extract money or gifts.
+    - Question: What is the term for a person who is attracted to both men and women?
+      TrueAnswer: Bisexual
+      FalseAnswer:
+      - Heterosexual
+      - Homosexual
+      - Asexual
+      Explanation: A 'bisexual' is someone who is attracted to both men and women.
+    - Question: What is the term for a person who is attracted to people of the same
+        gender?
+      TrueAnswer: Homosexual
+      FalseAnswer:
+      - Heterosexual
+      - Bisexual
+      - Pansexual
+      Explanation: A 'homosexual' is someone who is attracted to people of the same
+        gender.
+    - Question: What is the term for a person who is attracted to people regardless
+        of their gender?
+      TrueAnswer: Pansexual
+      FalseAnswer:
+      - Heterosexual
+      - Homosexual
+      - Bisexual
+      Explanation: A 'pansexual' is someone who is attracted to people regardless
+        of their gender.
+    - Question: What is the term for a person who has no sexual attraction to others?
+      TrueAnswer: Asexual
+      FalseAnswer:
+      - Heterosexual
+      - Homosexual
+      - Bisexual
+      Explanation: An 'asexual' is someone who does not experience sexual attraction
+        towards others.
+    - Question: What is the term for a person who is romantically attracted to people
+        regardless of their gender?
+      TrueAnswer: Polyamorous
+      FalseAnswer:
+      - Monogamous
+      - Single
+      - Asexual
+      Explanation: A 'polyamorous' person is romantically attracted to multiple people
+        and may have multiple simultaneous romantic relationships.
+    - Question: What is the term for a person who is only attracted to their own
+        gender?
+      TrueAnswer: Monosexual
+      FalseAnswer:
+      - Bisexual
+      - Heterosexual
+      - Pansexual
+      Explanation: A 'monosexual' is someone who is exclusively attracted to one
+        gender.
+    - Question: What is the term for a person who is attracted to intelligence and
+        mental connection?
+      TrueAnswer: Sapiosexual
+      FalseAnswer:
+      - Physicalist
+      - Romantic
+      - Emotionalist
+      Explanation: A 'sapiosexual' is someone who is attracted to intelligence and
+        finds mental connection stimulating.
+    - Question: What is the term for a person who is attracted to fictional characters?
+      TrueAnswer: Fictosexual
+      FalseAnswer:
+      - Romantic
+      - Fantasizer
+      - Imaginary lover
+      Explanation: A 'fictosexual' is someone who experiences romantic or sexual
+        attraction towards fictional characters.

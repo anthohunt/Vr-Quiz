@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &771311798267609726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 605417069543293308}
+  - component: {fileID: 5834019895471292093}
+  m_Layer: 0
+  m_Name: Geography_Deserts and Arid Lands.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &605417069543293308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 771311798267609726}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5834019895471292093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 771311798267609726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest desert in the world?
+      TrueAnswer: Sahara
+      FalseAnswer:
+      - Gobi
+      - Atacama
+      - Arabian
+      Explanation: The Sahara is the largest hot desert in the world, covering most
+        of Northern Africa.
+    - Question: Which desert is located in South America?
+      TrueAnswer: Atacama
+      FalseAnswer:
+      - Sahara
+      - Gobi
+      - Arabian
+      Explanation: The Atacama Desert is located in Chile and is known as the driest
+        non-polar desert in the world.
+    - Question: What is the driest desert on Earth?
+      TrueAnswer: Atacama
+      FalseAnswer:
+      - Sahara
+      - Gobi
+      - Arabian
+      Explanation: The Atacama Desert is considered the driest desert on Earth, with
+        some areas not receiving rainfall for decades.
+    - Question: Which desert is located in Mongolia and China?
+      TrueAnswer: Gobi
+      FalseAnswer:
+      - Sahara
+      - Atacama
+      - Arabian
+      Explanation: The Gobi Desert is a large desert region in East Asia, covering
+        parts of northern and northwestern China and southern Mongolia.
+    - Question: What is the largest desert in Asia?
+      TrueAnswer: Gobi
+      FalseAnswer:
+      - Sahara
+      - Atacama
+      - Arabian
+      Explanation: The Gobi Desert is the largest desert in Asia, spanning across
+        China and Mongolia.
+    - Question: Which desert is located in the Arabian Peninsula?
+      TrueAnswer: Arabian
+      FalseAnswer:
+      - Sahara
+      - Atacama
+      - Gobi
+      Explanation: The Arabian Desert is a vast desert wilderness located in the
+        Arabian Peninsula, covering most of Saudi Arabia.
+    - Question: What is the largest hot desert in the world?
+      TrueAnswer: Sahara
+      FalseAnswer:
+      - Gobi
+      - Atacama
+      - Arabian
+      Explanation: The Sahara is the largest hot desert in the world, covering most
+        of Northern Africa.
+    - Question: Which desert is known for its sand dunes?
+      TrueAnswer: Sahara
+      FalseAnswer:
+      - Gobi
+      - Atacama
+      - Arabian
+      Explanation: The Sahara Desert is famous for its vast sand dunes, some of which
+        can reach heights of over 600 feet.
+    - Question: What is the largest desert in North America?
+      TrueAnswer: Great Basin
+      FalseAnswer:
+      - Sonoran
+      - Mojave
+      - Chihuahuan
+      Explanation: The Great Basin Desert is the largest desert in North America,
+        covering parts of Nevada, Utah, and California.
+    - Question: Which desert is located in Mexico and the United States?
+      TrueAnswer: Sonoran
+      FalseAnswer:
+      - Great Basin
+      - Mojave
+      - Chihuahuan
+      Explanation: The Sonoran Desert is a desert located in Mexico and the southwestern
+        United States, including parts of Arizona and California.
+    - Question: What is the driest desert in North America?
+      TrueAnswer: Atacama
+      FalseAnswer:
+      - Great Basin
+      - Sonoran
+      - Mojave
+      Explanation: The Atacama Desert in South America is the driest non-polar desert,
+        not the driest in North America.
+    - Question: Which desert is located in California, Nevada, Utah, and Arizona?
+      TrueAnswer: Mojave
+      FalseAnswer:
+      - Great Basin
+      - Sonoran
+      - Chihuahuan
+      Explanation: The Mojave Desert is a desert located in the southwestern United
+        States, primarily within southeastern California.
+    - Question: What is the largest desert in Mexico?
+      TrueAnswer: Chihuahuan
+      FalseAnswer:
+      - Great Basin
+      - Sonoran
+      - Mojave
+      Explanation: The Chihuahuan Desert is the largest desert in Mexico, covering
+        a significant portion of the country.
+    - Question: Which desert is known for its unique Joshua trees?
+      TrueAnswer: Mojave
+      FalseAnswer:
+      - Great Basin
+      - Sonoran
+      - Chihuahuan
+      Explanation: The Mojave Desert is known for its unique Joshua trees, which
+        are native to the region.
+    - Question: What is the largest desert in Australia?
+      TrueAnswer: Great Victoria
+      FalseAnswer:
+      - Simpson
+      - Gibson
+      - Tanami
+      Explanation: The Great Victoria Desert is the largest desert in Australia,
+        spanning across Western Australia and South Australia.
+    - Question: Which desert is located in the Northern Territory of Australia?
+      TrueAnswer: Simpson
+      FalseAnswer:
+      - Great Victoria
+      - Gibson
+      - Tanami
+      Explanation: The Simpson Desert is a large desert located in the Northern Territory
+        of Australia, known for its red sand dunes.
+    - Question: What is the largest desert in Africa?
+      TrueAnswer: Sahara
+      FalseAnswer:
+      - Kalahari
+      - Namib
+      - Libyan
+      Explanation: The Sahara is the largest desert in Africa, covering most of Northern
+        Africa.
+    - Question: Which desert is located in Namibia?
+      TrueAnswer: Namib
+      FalseAnswer:
+      - Sahara
+      - Kalahari
+      - Libyan
+      Explanation: The Namib Desert is a coastal desert located in Namibia, known
+        for its towering sand dunes.
+    - Question: What is the largest desert in South America?
+      TrueAnswer: Patagonian
+      FalseAnswer:
+      - Atacama
+      - Sahara
+      - Gobi
+      Explanation: The Patagonian Desert is the largest desert in South America,
+        covering parts of Argentina and Chile.
+    - Question: Which desert is located in Peru?
+      TrueAnswer: Sechura
+      FalseAnswer:
+      - Atacama
+      - Sahara
+      - Gobi
+      Explanation: The Sechura Desert is a desert located in northern Peru, characterized
+        by its arid and sandy landscapes.

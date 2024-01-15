@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom du scientifique qui a proposé la théorie de la sélection naturelle?",
+            "TrueAnswer": "Charles Darwin",
+            "FalseAnswer": [
+              "Gregor Mendel",
+              "Alfred Russel Wallace",
+              "Stephen Jay Gould"
+            ],
+            "Explanation": "Charles Darwin a proposé la théorie de la sélection naturelle dans son livre de 1859 intitulé 'De l'origine des espèces'. Son travail a révolutionné le domaine de la biologie évolutive."
+          },
+          {
+            "Question": "Quel processus décrit le changement des caractéristiques héritées des populations biologiques au fil des générations successives?",
+            "TrueAnswer": "Évolution",
+            "FalseAnswer": [
+              "Mutation",
+              "Sélection",
+              "Adaptation"
+            ],
+            "Explanation": "L'évolution est le processus par lequel les espèces changent progressivement au fil du temps, sous l'impulsion de facteurs tels que la mutation, la sélection naturelle et la dérive génétique."
+          },
+          {
+            "Question": "Quel est le nom du principe qui explique que les traits offrant un avantage en termes de survie tendent à être transmis aux générations futures?",
+            "TrueAnswer": "Sélection naturelle",
+            "FalseAnswer": [
+              "Dérive génétique",
+              "Mutation",
+              "Flux génique"
+            ],
+            "Explanation": "La sélection naturelle, proposée par Charles Darwin, est le mécanisme conduisant à l'évolution. Elle favorise les traits qui améliorent la capacité d'un organisme à s'adapter à son environnement."
+          },
+          {
+            "Question": "Quel scientifique a proposé la théorie de l'équilibre ponctué, suggérant que l'évolution se produit par intermittences plutôt que progressivement?",
+            "TrueAnswer": "Stephen Jay Gould",
+            "FalseAnswer": [
+              "Richard Dawkins",
+              "Carl Linnaeus",
+              "Ernst Mayr"
+            ],
+            "Explanation": "Stephen Jay Gould, avec Niles Eldredge, a développé la théorie de l'équilibre ponctué, remettant en question les vues traditionnelles du changement évolutif progressif."
+          },
+          {
+            "Question": "Quel est le terme désignant une extinction soudaine, significative et généralisée de nombreuses espèces?",
+            "TrueAnswer": "Extinction de masse",
+            "FalseAnswer": [
+              "Radiation adaptative",
+              "Dérive génétique",
+              "Spéciation"
+            ],
+            "Explanation": "Les extinctions de masse sont des événements au cours desquels un grand nombre d'espèces deviennent éteintes en un laps de temps relativement court, façonnant le cours de l'histoire évolutive."
+          },
+          {
+            "Question": "Quel terme décrit le processus par lequel une seule espèce se divise en deux espèces distinctes ou plus?",
+            "TrueAnswer": "Spéciation",
+            "FalseAnswer": [
+              "Évolution convergente",
+              "Évolution divergente",
+              "Radiation adaptative"
+            ],
+            "Explanation": "La spéciation est le processus fondamental en biologie évolutive qui conduit à la diversité de la vie sur Terre, créant de nouvelles espèces distinctes au fil du temps."
+          },
+          {
+            "Question": "Quel est le terme désignant la variété et la répartition des espèces dans une zone particulière?",
+            "TrueAnswer": "Biodiversité",
+            "FalseAnswer": [
+              "Biogéographie",
+              "Endémisme",
+              "Taxonomie"
+            ],
+            "Explanation": "La biodiversité désigne la variété de la vie sur Terre, englobant la diversité des écosystèmes, des espèces et des variations génétiques au sein des espèces."
+          },
+          {
+            "Question": "Quelle structure est considérée comme un organe vestigial chez les humains, suggérant des vestiges évolutifs d'un ancêtre passé?",
+            "TrueAnswer": "Appendice",
+            "FalseAnswer": [
+              "Foie",
+              "Cerveau",
+              "Cœur"
+            ],
+            "Explanation": "L'appendice humain est considéré comme un vestige d'un ancêtre herbivore ayant facilité la digestion de matières végétales riches en cellulose."
+          },
+          {
+            "Question": "Quel est le terme désignant l'adaptation évolutive où un organisme ressemble à un autre pour obtenir un avantage en termes de survie, souvent par dissuasion des prédateurs?",
+            "TrueAnswer": "Mimétisme",
+            "FalseAnswer": [
+              "Camouflage",
+              "Hibernation",
+              "Mue"
+            ],
+            "Explanation": "Le mimétisme est une forme d'adaptation protectrice dans laquelle une espèce évolue pour ressembler à un autre organisme, bénéficiant d'une protection ou de ressources partagées."
+          },
+          {
+            "Question": "Quel phénomène décrit la tendance des organismes à développer des traits similaires en réponse à des défis environnementaux similaires, malgré des liens de parenté éloignés?",
+            "TrueAnswer": "Évolution convergente",
+            "FalseAnswer": [
+              "Évolution divergente",
+              "Évolution parallèle",
+              "Coévolution"
+            ],
+            "Explanation": "L'évolution convergente est l'évolution indépendante de caractéristiques similaires dans différentes lignées, motivée par une adaptation à des conditions ou des défis environnementaux similaires."
+          },
+          {
+            "Question": "Quel phénomène génétique fait référence à la fluctuation aléatoire des fréquences alléliques dans une population, entraînant souvent des changements aléatoires d'apparence et de comportement?",
+            "TrueAnswer": "Dérive génétique",
+            "FalseAnswer": [
+              "Flux génique",
+              "Mutation",
+              "Sélection"
+            ],
+            "Explanation": "La dérive génétique est un processus stochastique pouvant entraîner des changements significatifs dans de petites populations, aboutissant souvent à la perte de diversité génétique."
+          },
+          {
+            "Question": "Quel concept désigne l'étude de la composition génétique des populations et de son évolution au fil du temps?",
+            "TrueAnswer": "Génétique des populations",
+            "FalseAnswer": [
+              "Phylogénétique",
+              "Paléontologie",
+              "Embryologie"
+            ],
+            "Explanation": "La génétique des populations se concentre sur la variation génétique et la dynamique au sein et entre les populations, fournissant un aperçu des processus évolutifs tels que la sélection naturelle et la dérive génétique."
+          },
+          {
+            "Question": "Quel terme décrit le changement des caractéristiques comportementales, physiologiques ou anatomiques d'une espèce en réponse aux pressions environnementales?",
+            "TrueAnswer": "Adaptation",
+            "FalseAnswer": [
+              "Mutation",
+              "Spéciation",
+              "Extinction"
+            ],
+            "Explanation": "L'adaptation est le processus fondamental qui conduit à l'évolution des espèces, permettant aux organismes de mieux survivre et se reproduire dans leur environnement spécifique."
+          },
+          {
+            "Question": "Quelle catégorie taxonomique est immédiatement supérieure à l'espèce mais subordonnée à la famille dans la classification biologique?",
+            "TrueAnswer": "Genre",
+            "FalseAnswer": [
+              "Ordre",
+              "Phylum",
+              "Classe"
+            ],
+            "Explanation": "Le genre est un rang dans la hiérarchie de la classification biologique, constitué d'une ou de plusieurs espèces étroitement liées sur le plan évolutif."
+          },
+          {
+            "Question": "Quel phénomène décrit la diversification d'une espèce ancestrale en un grand nombre d'espèces apparentées?",
+            "TrueAnswer": "Radiation adaptative",
+            "FalseAnswer": [
+              "Équilibre ponctué",
+              "Spéciation",
+              "Évolution convergente"
+            ],
+            "Explanation": "La radiation adaptative est une divergence évolutive rapide qui se traduit par un large éventail d'espèces adaptées à diverses niches écologiques, souvent déclenchée par des changements environnementaux."
+          },
+          {
+            "Question": "Quel concept suggère que le développement d'un organisme (ontogenèse) reflète son histoire évolutive (phylogénie) à travers les stades embryonnaires?",
+            "TrueAnswer": "Homologie embryonnaire",
+            "FalseAnswer": [
+              "Structures vestigiales",
+              "Évolution parallèle",
+              "Évolution convergente"
+            ],
+            "Explanation": "L'homologie embryonnaire est le principe selon lequel les similitudes dans le développement embryonnaire à travers différentes espèces reflètent leur ascendance évolutive commune."
+          },
+          {
+            "Question": "Quel scientifique est connu pour la théorie de l'évolution par l'hérédité des caractères acquis, later réfutée par la sélection naturelle?",
+            "TrueAnswer": "Jean-Baptiste Lamarck",
+            "FalseAnswer": [
+              "Thomas Huxley",
+              "Alfred Russel Wallace",
+              "Gregor Mendel"
+            ],
+            "Explanation": "Jean-Baptiste Lamarck a proposé l'idée d'héritage des caractères acquis, suggérant que les organismes pourraient transmettre des traits acquis au cours de leur vie. Ce concept a été plus tard réfuté par la théorie de la sélection naturelle."
+          },
+          {
+            "Question": "Quel processus implique la formation de nouvelles espèces par l'isolement géographique des populations, conduisant à des barrières reproductives?",
+            "TrueAnswer": "Spéciation allopatrique",
+            "FalseAnswer": [
+              "Spéciation sympatrique",
+              "Spéciation parapatrique",
+              "Spéciation péripatrique"
+            ],
+            "Explanation": "La spéciation allopatrique se produit lorsque une population est séparée par une barrière physique, créant une divergence génétique et conduisant éventuellement à la formation de nouvelles espèces."
+          },
+          {
+            "Question": "Quel est le terme désignant l'étude de la répartition géographique des espèces et des écosystèmes?",
+            "TrueAnswer": "Biogéographie",
+            "FalseAnswer": [
+              "Écologie",
+              "Éthologie",
+              "Paléontologie"
+            ],
+            "Explanation": "La biogéographie étudie la répartition des espèces et des écosystèmes à travers l'espace géographique et à travers le temps géologique, éclairant les facteurs influençant les schémas évolutifs."
+          },
+          {
+            "Question": "Quel principe suggère que la fréquence d'un allèle augmentera dans une population s'il confère un avantage en termes de survie ou de reproduction?",
+            "TrueAnswer": "Sélection",
+            "FalseAnswer": [
+              "Mutation",
+              "Dérive génétique",
+              "Flux génique"
+            ],
+            "Explanation": "La sélection, qu'elle soit naturelle ou artificielle, conduit à la survie et à la reproduction différentielles des individus dotés de traits génétiques avantageux, entraînant des changements évolutifs."
+          }
+        ]
+      }
+    }
+  ]
+}

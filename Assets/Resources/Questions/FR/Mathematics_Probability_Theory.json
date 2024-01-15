@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quelle est la probabilité d'obtenir un 6 en lançant un dé équitable à six faces?",
+            "TrueAnswer": "1/6",
+            "FalseAnswer": [
+              "1/3",
+              "1/2",
+              "2/3"
+            ],
+            "Explication": "La probabilité d'obtenir un 6 sur un dé à six faces est de 1 sur 6, car il y a 6 résultats également probables."
+          },
+          {
+            "Question": "Dans un jeu de 52 cartes standard, quelle est la probabilité de piocher un cœur?",
+            "TrueAnswer": "1/4",
+            "FalseAnswer": [
+              "1/2",
+              "1/13",
+              "1/3"
+            ],
+            "Explication": "Avec 52 cartes dans un jeu, 13 d'entre elles sont des cœurs, donc la probabilité de piocher un cœur est de 13/52, ce qui se simplifie à 1/4."
+          },
+          {
+            "Question": "Quelle est la probabilité de retourner deux pièces et d'obtenir des faces sur les deux?",
+            "TrueAnswer": "1/4",
+            "FalseAnswer": [
+              "1/2",
+              "1/3",
+              "3/4"
+            ],
+            "Explication": "En retournant deux pièces équitables, il y a 4 résultats possibles, et seul 1 d'entre eux donne des faces sur les deux pièces, ce qui donne une probabilité de 1/4."
+          },
+          {
+            "Question": "Si l'on lance deux dés, quelle est la probabilité d'obtenir une somme de 7?",
+            "TrueAnswer": "1/6",
+            "FalseAnswer": [
+              "1/12",
+              "1/8",
+              "1/9"
+            ],
+            "Explication": "La somme de 7 peut être obtenue dans 6 des 36 combinaisons possibles de deux dés, ce qui donne une probabilité de 6/36, qui se simplifie à 1/6."
+          },
+          {
+            "Question": "Quelle est la probabilité de choisir une bille rouge dans un bocal contenant 4 billes rouges et 6 billes bleues?",
+            "TrueAnswer": "2/5",
+            "FalseAnswer": [
+              "1/2",
+              "1/3",
+              "3/5"
+            ],
+            "Explication": "Le nombre total de billes est de 10, donc la probabilité de choisir une bille rouge est de 4/10, ce qui se simplifie à 2/5."
+          },
+          {
+            "Question": "Dans un groupe de 20 personnes, quelle est la probabilité qu'au moins 2 d'entre elles partagent la même date d'anniversaire?",
+            "TrueAnswer": "41%",
+            "FalseAnswer": [
+              "25%",
+              "33%",
+              "50%"
+            ],
+            "Explication": "La probabilité qu'au moins 2 personnes partagent un anniversaire dans un groupe de 20 est d'environ 41%, selon le paradoxe des anniversaires."
+          },
+          {
+            "Question": "Quelle est la probabilité de piocher un carreau ou un pique dans un jeu de cartes standard?",
+            "TrueAnswer": "1/2",
+            "FalseAnswer": [
+              "1/4",
+              "1/3",
+              "3/4"
+            ],
+            "Explication": "Il y a 26 cartes rouges (13 carreaux et 13 cœurs) et 26 cartes noires (13 trèfles et 13 piques) dans un jeu, ce qui donne une probabilité de 1/2."
+          },
+          {
+            "Question": "Dans une classe de 30 élèves, quelle est la probabilité qu'aucun deux élèves aient la même date d'anniversaire?",
+            "TrueAnswer": "0.9%",
+            "FalseAnswer": [
+              "10%",
+              "5%",
+              "1%"
+            ],
+            "Explication": "La probabilité que 30 personnes aient des anniversaires distincts est extrêmement faible, d'environ 0.9%, en raison de la forte probabilité de correspondance d'anniversaire."
+          },
+          {
+            "Question": "Quelle est la probabilité de retourner une pièce équitable et d'obtenir face?",
+            "TrueAnswer": "1/2",
+            "FalseAnswer": [
+              "1/3",
+              "3/4",
+              "1/10"
+            ],
+            "Explication": "Comme il n'y a que 2 résultats possibles lorsque l'on retourne une pièce équitable, la probabilité d'obtenir face est de 1/2."
+          },
+          {
+            "Question": "Si l'on lance un dé équitable à six faces, quelle est la probabilité d'obtenir un nombre impair?",
+            "TrueAnswer": "1/2",
+            "FalseAnswer": [
+              "1/3",
+              "1/4",
+              "2/3"
+            ],
+            "Explication": "Sur les six résultats également probables, trois sont des nombres impairs, ce qui donne une probabilité de 1/2 d'obtenir un nombre impair."
+          },
+          {
+            "Question": "Quelle est la probabilité de choisir un nombre de 1 à 10 et d'obtenir un nombre premier?",
+            "TrueAnswer": "4/10",
+            "FalseAnswer": [
+              "3/10",
+              "2/10",
+              "5/10"
+            ],
+            "Explication": "Sur les nombres de 1 à 10, il y a 4 nombres premiers (2, 3, 5, 7), ce qui donne une probabilité de 4/10."
+          },
+          {
+            "Question": "Si l'on tire une carte d'un jeu de cartes standard, quelle est la probabilité d'obtenir une carte à figure?",
+            "TrueAnswer": "3/13",
+            "FalseAnswer": [
+              "1/4",
+              "1/2",
+              "2/13"
+            ],
+            "Explication": "Il y a 12 cartes à figures dans un jeu de cartes standard, donc la probabilité d'en tirer une est de 12/52, ce qui se simplifie à 3/13."
+          },
+          {
+            "Question": "Quelle est la probabilité d'obtenir au moins un 6 en lançant deux fois un dé équitable à six faces?",
+            "TrueAnswer": "11/36",
+            "FalseAnswer": [
+              "1/6",
+              "1/3",
+              "1/2"
+            ],
+            "Explication": "En lançant deux dés, il y a 36 résultats également probables, et 11 d'entre eux contiennent au moins un 6."
+          },
+          {
+            "Question": "Dans une loterie provinciale, quelle est la probabilité de remporter le jackpot?",
+            "TrueAnswer": "Très faible",
+            "FalseAnswer": [
+              "50%",
+              "10%",
+              "25%"
+            ],
+            "Explication": "La probabilité de remporter un jackpot de loterie est incroyablement faible, souvent de l'ordre de 1 sur des millions, voire des milliards."
+          },
+          {
+            "Question": "Quelle est la probabilité de choisir une combinaison gagnante dans une loterie 6/49?",
+            "TrueAnswer": "Très faible",
+            "FalseAnswer": [
+              "50%",
+              "25%",
+              "10%"
+            ],
+            "Explication": "Les chances de choisir correctement les 6 numéros dans une loterie 6/49 sont extrêmement faibles, ce qui en fait un événement hautement improbable."
+          },
+          {
+            "Question": "Quelle est la probabilité d'obtenir une couleur (flush) dans une main de poker à 5 cartes?",
+            "TrueAnswer": "0.2%",
+            "FalseAnswer": [
+              "1%",
+              "5%",
+              "10%"
+            ],
+            "Explication": "La probabilité d'obtenir une couleur dans une main de poker à 5 cartes est d'environ 0.2%, ce qui en fait un événement rare dans le jeu."
+          },
+          {
+            "Question": "Dans un groupe de 50 personnes, quelle est la probabilité qu'aucune d'entre elles n'ait la même date d'anniversaire?",
+            "TrueAnswer": "Très faible",
+            "FalseAnswer": [
+              "50%",
+              "25%",
+              "10%"
+            ],
+            "Explication": "La probabilité que 50 personnes aient des dates d'anniversaire distinctes est extrêmement faible, en raison de la forte probabilité de correspondance d'anniversaire dans un groupe plus important."
+          },
+          {
+            "Question": "Quelle est la probabilité d'obtenir un 7 avec deux dés équitables à six faces?",
+            "TrueAnswer": "1/6",
+            "FalseAnswer": [
+              "1/12",
+              "1/8",
+              "1/9"
+            ],
+            "Explication": "Il y a 6 façons d'obtenir un total de 7 parmi les 36 résultats également probables, ce qui donne une probabilité de 6/36, qui se simplifie à 1/6."
+          },
+          {
+            "Question": "Sur une roulette équitable, quelle est la probabilité de tomber sur le rouge?",
+            "TrueAnswer": "18/37",
+            "FalseAnswer": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ],
+            "Explication": "Dans la roulette européenne, la probabilité de tomber sur le rouge est de 18/37, car il y a 18 cases rouges sur un total de 37 cases."
+          },
+          {
+            "Question": "Quelle est la probabilité d'obtenir un as dans un jeu de 52 cartes?",
+            "TrueAnswer": "1/13",
+            "FalseAnswer": [
+              "1/4",
+              "1/2",
+              "1/3"
+            ],
+            "Explication": "Il y a 4 as dans un jeu de 52 cartes, donc la probabilité d'obtenir un as est de 4/52, ce qui se simplifie à 1/13."
+          }
+        ]
+      }
+    }
+  ]
+}

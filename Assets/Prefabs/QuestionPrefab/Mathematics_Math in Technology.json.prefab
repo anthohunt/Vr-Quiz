@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4334420259260559601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2374043701193856970}
+  - component: {fileID: 713459014315647492}
+  m_Layer: 0
+  m_Name: Mathematics_Math in Technology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2374043701193856970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4334420259260559601}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &713459014315647492
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4334420259260559601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the binary number system used for?
+      TrueAnswer: Representing data
+      FalseAnswer:
+      - Solving equations
+      - Creating algorithms
+      - Designing user interfaces
+      Explanation: The binary number system is used to represent data in computers
+        and other digital devices.
+    - Question: What is the purpose of Boolean algebra in computer science?
+      TrueAnswer: Logic operations
+      FalseAnswer:
+      - Graphical rendering
+      - Data storage
+      - Network protocols
+      Explanation: Boolean algebra is used to perform logic operations in computer
+        science, such as AND, OR, and NOT.
+    - Question: What is the significance of prime numbers in cryptography?
+      TrueAnswer: Security
+      FalseAnswer:
+      - Compression
+      - Error correction
+      - Data transmission
+      Explanation: Prime numbers are used in cryptography to ensure the security
+        of encrypted data and communication.
+    - Question: What is the purpose of algorithms in computer programming?
+      TrueAnswer: Solving problems
+      FalseAnswer:
+      - Creating graphics
+      - Managing databases
+      - Optimizing hardware
+      Explanation: Algorithms are used in computer programming to solve problems
+        and perform specific tasks.
+    - Question: What is the role of matrices in computer graphics?
+      TrueAnswer: Transformation
+      FalseAnswer:
+      - Data storage
+      - Network routing
+      - Audio processing
+      Explanation: Matrices are used in computer graphics to perform transformations,
+        such as rotation and scaling.
+    - Question: What is the purpose of calculus in physics simulations?
+      TrueAnswer: Modeling motion
+      FalseAnswer:
+      - Generating random numbers
+      - Analyzing network traffic
+      - Detecting malware
+      Explanation: Calculus is used in physics simulations to model the motion of
+        objects and simulate real-world phenomena.
+    - Question: What is the significance of probability theory in machine learning?
+      TrueAnswer: Predictions
+      FalseAnswer:
+      - Data storage
+      - User interface design
+      - Network security
+      Explanation: Probability theory is used in machine learning to make predictions
+        and estimate uncertainties.
+    - Question: What is the purpose of linear algebra in data analysis?
+      TrueAnswer: Dimensionality reduction
+      FalseAnswer:
+      - Image recognition
+      - Speech synthesis
+      - Database querying
+      Explanation: Linear algebra is used in data analysis to reduce the dimensionality
+        of datasets and extract meaningful information.
+    - Question: What is the role of trigonometry in computer graphics?
+      TrueAnswer: Calculating angles
+      FalseAnswer:
+      - Text recognition
+      - Audio compression
+      - Network routing
+      Explanation: Trigonometry is used in computer graphics to calculate angles
+        and determine the position of objects.
+    - Question: What is the significance of statistics in data science?
+      TrueAnswer: Drawing conclusions
+      FalseAnswer:
+      - Generating random numbers
+      - Creating visualizations
+      - Optimizing algorithms
+      Explanation: Statistics is used in data science to analyze and interpret data,
+        drawing meaningful conclusions and making informed decisions.
+    - Question: What is the purpose of number systems in computer architecture?
+      TrueAnswer: Representation
+      FalseAnswer:
+      - User interaction
+      - Network communication
+      - Software development
+      Explanation: Number systems are used in computer architecture to represent
+        and manipulate data, such as integers and floating-point numbers.
+    - Question: What is the role of graph theory in network analysis?
+      TrueAnswer: Topology
+      FalseAnswer:
+      - Image recognition
+      - Speech synthesis
+      - Database querying
+      Explanation: Graph theory is used in network analysis to study the topology
+        and connectivity of networks.
+    - Question: What is the significance of linear regression in machine learning?
+      TrueAnswer: Predictive modeling
+      FalseAnswer:
+      - Data storage
+      - User interface design
+      - Network security
+      Explanation: Linear regression is used in machine learning for predictive modeling
+        and estimating relationships between variables.
+    - Question: What is the purpose of logic gates in digital circuits?
+      TrueAnswer: Boolean operations
+      FalseAnswer:
+      - Audio synthesis
+      - Data compression
+      - Network routing
+      Explanation: Logic gates are used in digital circuits to perform Boolean operations,
+        such as AND, OR, and NOT.
+    - Question: What is the role of differential equations in control systems?
+      TrueAnswer: Modeling dynamics
+      FalseAnswer:
+      - Generating random numbers
+      - Analyzing network traffic
+      - Detecting malware
+      Explanation: Differential equations are used in control systems to model the
+        dynamics and behavior of physical systems.
+    - Question: What is the significance of optimization algorithms in machine learning?
+      TrueAnswer: Improving performance
+      FalseAnswer:
+      - Data storage
+      - User interface design
+      - Network security
+      Explanation: Optimization algorithms are used in machine learning to improve
+        the performance and accuracy of models.
+    - Question: What is the purpose of probability distributions in statistics?
+      TrueAnswer: Describing data
+      FalseAnswer:
+      - Generating random numbers
+      - Creating visualizations
+      - Optimizing algorithms
+      Explanation: Probability distributions are used in statistics to describe and
+        analyze data, such as the normal distribution.
+    - Question: What is the role of numerical methods in scientific simulations?
+      TrueAnswer: Approximation
+      FalseAnswer:
+      - Text recognition
+      - Audio compression
+      - Network routing
+      Explanation: Numerical methods are used in scientific simulations to approximate
+        solutions to complex mathematical problems.
+    - Question: What is the significance of linear programming in optimization?
+      TrueAnswer: Maximization/minimization
+      FalseAnswer:
+      - Data storage
+      - User interface design
+      - Network security
+      Explanation: Linear programming is used in optimization to maximize or minimize
+        a linear objective function, subject to constraints.
+    - Question: What is the purpose of data structures in computer science?
+      TrueAnswer: Organizing data
+      FalseAnswer:
+      - Creating graphics
+      - Managing databases
+      - Optimizing hardware
+      Explanation: Data structures are used in computer science to organize and store
+        data efficiently for various operations and algorithms.

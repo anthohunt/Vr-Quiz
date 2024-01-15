@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7494335573780684044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4407973991251055490}
+  - component: {fileID: 8547007228089732904}
+  m_Layer: 0
+  m_Name: Movies_Film Festivals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4407973991251055490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7494335573780684044}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8547007228089732904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7494335573780684044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which film won the Palme d'Or at the 2019 Cannes Film Festival?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Once Upon a Time in Hollywood
+      - Pain and Glory
+      - The Lighthouse
+      Explanation: Parasite, directed by Bong Joon-ho, won the prestigious Palme
+        d'Or at the 2019 Cannes Film Festival.
+    - Question: In which city is the Sundance Film Festival held?
+      TrueAnswer: Park City
+      FalseAnswer:
+      - Los Angeles
+      - New York City
+      - Toronto
+      Explanation: The Sundance Film Festival takes place in Park City, Utah, showcasing
+        independent films.
+    - Question: Which film festival is known for its iconic red carpet?
+      TrueAnswer: Cannes Film Festival
+      FalseAnswer:
+      - Venice Film Festival
+      - Berlin International Film Festival
+      - Toronto International Film Festival
+      Explanation: The Cannes Film Festival is renowned for its glamorous red carpet
+        events and premieres.
+    - Question: Which film festival is considered the most prestigious in the world?
+      TrueAnswer: Cannes Film Festival
+      FalseAnswer:
+      - Sundance Film Festival
+      - Toronto International Film Festival
+      - Berlin International Film Festival
+      Explanation: The Cannes Film Festival is widely regarded as the most prestigious
+        film festival globally.
+    - Question: Which film festival is held annually in Colorado?
+      TrueAnswer: Telluride Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: The Telluride Film Festival is an annual event held in the scenic
+        town of Telluride, Colorado.
+    - Question: Which film festival is known for its focus on documentary films?
+      TrueAnswer: IDFA (International Documentary Film Festival Amsterdam)
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Berlin International Film Festival
+      Explanation: The IDFA is renowned for its emphasis on showcasing the best documentary
+        films from around the world.
+    - Question: Which film festival is held in the heart of Hollywood?
+      TrueAnswer: AFI Fest
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: The AFI Fest takes place in Hollywood, California, showcasing
+        a diverse range of films.
+    - Question: Which film festival is known for its midnight screenings of cult
+        films?
+      TrueAnswer: Sitges Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Toronto International Film Festival
+      Explanation: The Sitges Film Festival in Spain is famous for its midnight screenings
+        of cult and horror films.
+    - Question: Which film festival is held annually in Germany?
+      TrueAnswer: Berlin International Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: The Berlin International Film Festival, also known as the Berlinale,
+        is held annually in Germany.
+    - Question: Which film festival is known for its focus on LGBTQ+ cinema?
+      TrueAnswer: Outfest
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Toronto International Film Festival
+      Explanation: Outfest is a film festival that celebrates and showcases LGBTQ+
+        cinema and storytelling.
+    - Question: Which film festival is held annually in France?
+      TrueAnswer: Cannes Film Festival
+      FalseAnswer:
+      - Sundance Film Festival
+      - Toronto International Film Festival
+      - Berlin International Film Festival
+      Explanation: The Cannes Film Festival, held in Cannes, France, is one of the
+        most prestigious film festivals in the world.
+    - Question: Which film festival is known for its focus on Asian cinema?
+      TrueAnswer: Busan International Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: The Busan International Film Festival in South Korea is renowned
+        for its spotlight on Asian cinema.
+    - Question: Which film festival is held annually in Canada?
+      TrueAnswer: Toronto International Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Berlin International Film Festival
+      Explanation: The Toronto International Film Festival, also known as TIFF, is
+        held annually in Canada.
+    - Question: Which film festival is known for its focus on horror and fantasy
+        films?
+      TrueAnswer: Fantasia International Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: The Fantasia International Film Festival in Montreal showcases
+        a wide range of horror and fantasy films.
+    - Question: Which film festival is held annually in Italy?
+      TrueAnswer: Venice Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Berlin International Film Festival
+      Explanation: The Venice Film Festival, held in Venice, Italy, is one of the
+        oldest film festivals in the world.
+    - Question: Which film festival is known for its focus on independent cinema?
+      TrueAnswer: Sundance Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Toronto International Film Festival
+      - Berlin International Film Festival
+      Explanation: The Sundance Film Festival is renowned for its celebration of
+        independent films and emerging filmmakers.
+    - Question: Which film festival is held annually in Utah?
+      TrueAnswer: Sundance Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Toronto International Film Festival
+      - Berlin International Film Festival
+      Explanation: The Sundance Film Festival takes place annually in Park City,
+        Utah, showcasing independent films.
+    - Question: Which film festival is known for its focus on Nordic and Scandinavian
+        cinema?
+      TrueAnswer: "G\xF6teborg Film Festival"
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: "The G\xF6teborg Film Festival in Sweden highlights Nordic and
+        Scandinavian cinema."
+    - Question: Which film festival is held annually in Australia?
+      TrueAnswer: Sydney Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Berlin International Film Festival
+      Explanation: The Sydney Film Festival is an annual event that showcases a diverse
+        range of films in Australia.
+    - Question: Which film festival is known for its focus on African cinema?
+      TrueAnswer: Durban International Film Festival
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Toronto International Film Festival
+      Explanation: The Durban International Film Festival in South Africa highlights
+        African cinema and storytelling.
+    - Question: Which film festival is held annually in Spain?
+      TrueAnswer: "San Sebasti\xE1n International Film Festival"
+      FalseAnswer:
+      - Cannes Film Festival
+      - Sundance Film Festival
+      - Venice Film Festival
+      Explanation: "The San Sebasti\xE1n International Film Festival is an annual
+        event held in Spain."

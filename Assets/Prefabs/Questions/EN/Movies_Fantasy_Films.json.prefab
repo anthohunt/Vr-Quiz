@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7361073796711781670
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6176940449507733885}
+  - component: {fileID: 8292594413739689423}
+  m_Layer: 0
+  m_Name: Movies_Fantasy_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6176940449507733885
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7361073796711781670}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8292594413739689423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7361073796711781670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who directed the Harry Potter film series?
+      TrueAnswer: David Yates
+      FalseAnswer:
+      - Chris Columbus
+      - "Alfonso Cuar\xF3n"
+      - Mike Newell
+      Explanation: David Yates directed the final four Harry Potter films, starting
+        with 'Order of the Phoenix' in 2007.
+    - Question: What is the name of the fictional world in 'The Lord of the Rings'?
+      TrueAnswer: Middle-earth
+      FalseAnswer:
+      - Hogwarts
+      - Narnia
+      - Westeros
+      Explanation: Middle-earth is the setting for J.R.R. Tolkien's 'The Hobbit'
+        and 'The Lord of the Rings' series.
+    - Question: Who played the role of Gandalf in 'The Lord of the Rings' films?
+      TrueAnswer: Ian McKellen
+      FalseAnswer:
+      - Christopher Lee
+      - Patrick Stewart
+      - Anthony Hopkins
+      Explanation: Ian McKellen portrayed the wise and powerful wizard Gandalf throughout
+        'The Lord of the Rings' film trilogy.
+    - Question: In 'The Chronicles of Narnia' series, what is the name of the lion?
+      TrueAnswer: Aslan
+      FalseAnswer:
+      - Simba
+      - Mufasa
+      - Leo
+      Explanation: Aslan is a central character in C.S. Lewis's 'The Lion, the Witch,
+        and the Wardrobe' and subsequent Narnia books.
+    - Question: Who directed the 2001 fantasy film 'Spirited Away'?
+      TrueAnswer: Hayao Miyazaki
+      FalseAnswer:
+      - Isao Takahata
+      - Mamoru Hosoda
+      - Makoto Shinkai
+      Explanation: Hayao Miyazaki, renowned for Studio Ghibli's animated masterpieces,
+        directed the critically acclaimed 'Spirited Away'.
+    - Question: What is the primary magical school attended by Harry Potter?
+      TrueAnswer: Hogwarts School of Witchcraft and Wizardry
+      FalseAnswer:
+      - Beauxbatons Academy of Magic
+      - Durmstrang Institute
+      - Ilvermorny School of Witchcraft and Wizardry
+      Explanation: Hogwarts is the renowned institution where Harry Potter learns
+        about magic and wizardry under the mentorship of beloved professors.
+    - Question: In the film 'Pan's Labyrinth', what is the protagonist's name?
+      TrueAnswer: Ofelia
+      FalseAnswer:
+      - Elena
+      - Carmen
+      - Isabella
+      Explanation: Ofelia, a young girl, encounters magical creatures and undergoes
+        transformative challenges in Guillermo del Toro's dark fantasy tale.
+    - Question: What is the name of the kingdom in the 'Princess Bride' film?
+      TrueAnswer: Florin
+      FalseAnswer:
+      - Guilder
+      - Rohan
+      - Erebor
+      Explanation: '''The Princess Bride'' is set in the fictional kingdom of Florin,
+        filled with romance, adventure, and swashbuckling excitement.'
+    - Question: Who wrote the 'A Song of Ice and Fire' series, which inspired 'Game
+        of Thrones'?
+      TrueAnswer: George R.R. Martin
+      FalseAnswer:
+      - J.R.R. Tolkien
+      - Terry Brooks
+      - Brandon Sanderson
+      Explanation: George R.R. Martin created the epic and politically charged world
+        of Westeros in his 'A Song of Ice and Fire' novels.
+    - Question: What is the main goal of the characters in 'The NeverEnding Story'?
+      TrueAnswer: Save Fantasia
+      FalseAnswer:
+      - Defeat the Dark Lord
+      - Find the Fountain of Youth
+      - Escape From the Labyrinth
+      Explanation: The characters embark on a quest to save the magical world of
+        Fantasia from destruction and the spreading emptiness known as 'The Nothing'.
+    - Question: Who played the lead role in 'Stardust' as Tristan Thorn?
+      TrueAnswer: Charlie Cox
+      FalseAnswer:
+      - Henry Cavill
+      - Michael Fassbender
+      - Tom Hiddleston
+      Explanation: Charlie Cox portrayed the adventurous and lovestruck Tristan Thorn
+        in the enchanting film adaptation of Neil Gaiman's 'Stardust'.
+    - Question: In 'The Golden Compass' film, what is the main protagonist's animal
+        daemon?
+      TrueAnswer: Pantalaimon
+      FalseAnswer:
+      - Lyra
+      - Iorek Byrnison
+      - Marisa Coulter
+      Explanation: Pantalaimon, known as Pan, is the shape-shifting soul-externalization
+        of the main character, Lyra Belacqua, in Philip Pullman's epic trilogy.
+    - Question: Which mythical creature does Hagrid introduce in 'Harry Potter and
+        the Philosopher's Stone'?
+      TrueAnswer: Norbert the Norwegian Ridgeback
+      FalseAnswer:
+      - Fluffy the Three-Headed Dog
+      - Aragog the Acromantula
+      - Buckbeak the Hippogriff
+      Explanation: Hagrid smuggles a dragon egg, leading to the birth of Norbert,
+        creating chaos and an unforgettable adventure for Harry and his friends.
+    - Question: Who directed the 1985 fantasy film 'Legend' starring Tom Cruise?
+      TrueAnswer: Ridley Scott
+      FalseAnswer:
+      - Steven Spielberg
+      - James Cameron
+      - George Lucas
+      Explanation: Ridley Scott directed 'Legend', a visually stunning dark fantasy
+        with Tom Cruise and Tim Curry in memorable roles.
+    - Question: What object is essential for magic in 'The Sorcerer's Stone' in the
+        Harry Potter series?
+      TrueAnswer: The Philosopher's Stone
+      FalseAnswer:
+      - Elder Wand
+      - Invisibility Cloak
+      - Time-Turner
+      Explanation: The Philosopher's Stone is a legendary alchemical substance believed
+        to grant immortality and transform any metal into pure gold.
+    - Question: In 'The Wizard of Oz', what color is the Wicked Witch of the West's
+        skin?
+      TrueAnswer: Green
+      FalseAnswer:
+      - Blue
+      - Red
+      - Yellow
+      Explanation: The iconic green skin of the Wicked Witch of the West became a
+        symbol of wickedness and villainy in popular culture.
+    - Question: Who composed the musical score for 'The Lion King' animated film?
+      TrueAnswer: Hans Zimmer
+      FalseAnswer:
+      - Alan Menken
+      - John Williams
+      - Howard Shore
+      Explanation: Hans Zimmer's moving and majestic musical compositions added depth
+        and emotion to the classic tale of 'The Lion King'.
+    - Question: What is the sacred rule that Atreyu must follow in 'The NeverEnding
+        Story'?
+      TrueAnswer: Never Give Up
+      FalseAnswer:
+      - Never Tell a Lie
+      - Never Trust Strangers
+      - Never Look Back
+      Explanation: Atreyu must persevere and remain determined to fulfill his quest
+        to save Fantasia, embodying the essence of hope and resilience.
+    - Question: Which creature can be summoned with the incantation 'Expecto Patronum'
+        in Harry Potter?
+      TrueAnswer: Patronus
+      FalseAnswer:
+      - Boggart
+      - Dementor
+      - Acromantula
+      Explanation: The Patronus charm materializes a guardian animal embodying positive
+        energy, capable of repelling Dementors and other dark creatures.
+    - Question: What does the 'Thestral' possess the ability to do in the Harry Potter
+        series?
+      TrueAnswer: Invisibility to some
+      FalseAnswer:
+      - Speak human language
+      - Create illusions
+      - Teleport instantly
+      Explanation: Thestrals are magical creatures visible only to those who have
+        witnessed death and possess the ability to fly and appear invisible to many.

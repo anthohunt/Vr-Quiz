@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2711107962038953935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7716746711496096381}
+  - component: {fileID: 2014795069278592798}
+  m_Layer: 0
+  m_Name: Movies_Blockbuster_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7716746711496096381
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2711107962038953935}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2014795069278592798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2711107962038953935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In which year was the first 'Jurassic Park' film released?
+      TrueAnswer: 1993
+      FalseAnswer:
+      - 1995
+      - 1989
+      - 2001
+      Explanation: The first 'Jurassic Park' film was directed by Steven Spielberg
+        and released in 1993, revolutionizing visual effects in cinema.
+    - Question: Who directed the 'Lord of the Rings' film trilogy?
+      TrueAnswer: Peter Jackson
+      FalseAnswer:
+      - George Lucas
+      - James Cameron
+      - Christopher Nolan
+      Explanation: Peter Jackson directed the 'Lord of the Rings' film trilogy, adapting
+        the epic fantasy novel by J.R.R. Tolkien.
+    - Question: Which actor portrayed Neo in 'The Matrix' trilogy?
+      TrueAnswer: Keanu Reeves
+      FalseAnswer:
+      - Tom Cruise
+      - Will Smith
+      - Johnny Depp
+      Explanation: Keanu Reeves played the iconic role of Neo, a computer hacker
+        who discovers the truth about his reality in 'The Matrix' trilogy.
+    - Question: What is the highest-grossing film of all time, unadjusted for inflation?
+      TrueAnswer: Avatar
+      FalseAnswer:
+      - 'Avengers: Endgame'
+      - Titanic
+      - 'Star Wars: The Force Awakens'
+      Explanation: Directed by James Cameron, 'Avatar' holds the title of the highest-grossing
+        film, earning over $2.8 billion worldwide.
+    - Question: Which film won the Academy Award for Best Picture in 1994?
+      TrueAnswer: Forrest Gump
+      FalseAnswer:
+      - Pulp Fiction
+      - The Shawshank Redemption
+      - Braveheart
+      Explanation: '''Forrest Gump'', directed by Robert Zemeckis, won the 1994 Oscar
+        for Best Picture, portraying the extraordinary life of a simple man.'
+    - Question: Which movie featured the iconic line 'You can't handle the truth!'?
+      TrueAnswer: A Few Good Men
+      FalseAnswer:
+      - Top Gun
+      - Rain Man
+      - Good Will Hunting
+      Explanation: The line 'You can't handle the truth!' is delivered by Jack Nicholson
+        in the film 'A Few Good Men', directed by Rob Reiner.
+    - Question: Who played Jack Dawson in the film 'Titanic'?
+      TrueAnswer: Leonardo DiCaprio
+      FalseAnswer:
+      - Brad Pitt
+      - Matt Damon
+      - Tom Hanks
+      Explanation: Leonardo DiCaprio portrayed the character Jack Dawson in the epic
+        romance-disaster film 'Titanic', directed by James Cameron.
+    - Question: What is the title of the first film in the 'Alien' franchise?
+      TrueAnswer: Alien
+      FalseAnswer:
+      - Aliens
+      - Alien 3
+      - Prometheus
+      Explanation: The first film in the 'Alien' franchise, directed by Ridley Scott,
+        is simply titled 'Alien', introducing the iconic xenomorph creature.
+    - Question: Which actor portrayed Iron Man in the Marvel Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Mark Ruffalo
+      - Chris Hemsworth
+      Explanation: Robert Downey Jr. brought the character of Tony Stark/Iron Man
+        to life in the Marvel Cinematic Universe, starting with the 2008 film 'Iron
+        Man'.
+    - Question: In which year was the science fiction classic 'Blade Runner' released?
+      TrueAnswer: 1982
+      FalseAnswer:
+      - 1977
+      - 1990
+      - 2005
+      Explanation: Directed by Ridley Scott, 'Blade Runner' was released in 1982,
+        exploring complex themes of humanity and artificial intelligence.
+    - Question: Who directed the film 'Inception'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - Quentin Tarantino
+      - Darren Aronofsky
+      - David Fincher
+      Explanation: Christopher Nolan directed the mind-bending heist thriller 'Inception',
+        known for its stunning visual effects and intricate storytelling.
+    - Question: Which film features the iconic line 'Here's looking at you, kid'?
+      TrueAnswer: Casablanca
+      FalseAnswer:
+      - Gone with the Wind
+      - Citizen Kane
+      - The Wizard of Oz
+      Explanation: The line 'Here's looking at you, kid' is delivered by Humphrey
+        Bogart in the classic film 'Casablanca', directed by Michael Curtiz.
+    - Question: Which film won the Academy Award for Best Picture in 1999?
+      TrueAnswer: American Beauty
+      FalseAnswer:
+      - The Sixth Sense
+      - The Green Mile
+      - The Cider House Rules
+      Explanation: Directed by Sam Mendes, 'American Beauty' won the Oscar for Best
+        Picture in 1999, exploring the dark underbelly of suburban life.
+    - Question: Who directed the film 'Jaws'?
+      TrueAnswer: Steven Spielberg
+      FalseAnswer:
+      - Alfred Hitchcock
+      - Stanley Kubrick
+      - Martin Scorsese
+      Explanation: Steven Spielberg directed the suspenseful thriller 'Jaws', often
+        considered the first summer blockbuster, changing the landscape of movie
+        marketing.
+    - Question: In which film does a character say 'May the Force be with you'?
+      TrueAnswer: Star Wars
+      FalseAnswer:
+      - Star Trek
+      - Guardians of the Galaxy
+      - The Fifth Element
+      Explanation: The iconic line 'May the Force be with you' is uttered in the
+        'Star Wars' film series, created by George Lucas.
+    - Question: Who directed the science fiction film 'The Terminator'?
+      TrueAnswer: James Cameron
+      FalseAnswer:
+      - Ridley Scott
+      - Luc Besson
+      - Michael Bay
+      Explanation: James Cameron directed the groundbreaking science fiction film
+        'The Terminator', launching a successful franchise and propelling Arnold
+        Schwarzenegger's career.
+    - Question: Which film features the character Ellen Ripley battling alien creatures?
+      TrueAnswer: Aliens
+      FalseAnswer:
+      - The Thing
+      - Predator
+      - The Fly
+      Explanation: Sigourney Weaver portrays Ellen Ripley in the film 'Aliens', directed
+        by James Cameron, continuing the story of the iconic character facing off
+        against terrifying aliens.
+    - Question: Who played Batman in the film 'The Dark Knight'?
+      TrueAnswer: Christian Bale
+      FalseAnswer:
+      - Ben Affleck
+      - Michael Keaton
+      - George Clooney
+      Explanation: Christian Bale portrayed the vigilante hero Batman in Christopher
+        Nolan's 'The Dark Knight', earning critical acclaim for his performance.
+    - Question: In which year was the first 'Harry Potter' film released?
+      TrueAnswer: 2001
+      FalseAnswer:
+      - 1998
+      - 2004
+      - 2007
+      Explanation: The first 'Harry Potter' film, titled 'Harry Potter and the Sorcerer's
+        Stone' (or 'Philosopher's Stone' outside the US), was released in 2001, based
+        on J.K. Rowling's novel.
+    - Question: Who directed the film 'E.T. the Extra-Terrestrial'?
+      TrueAnswer: Steven Spielberg
+      FalseAnswer:
+      - Ron Howard
+      - George Lucas
+      - Tim Burton
+      Explanation: Steven Spielberg directed the heartwarming science fiction film
+        'E.T. the Extra-Terrestrial', capturing the imagination of audiences worldwide
+        and becoming a cultural phenomenon.

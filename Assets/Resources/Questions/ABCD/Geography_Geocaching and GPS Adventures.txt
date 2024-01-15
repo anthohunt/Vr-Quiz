@@ -1,0 +1,128 @@
+{
+    "Geography": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is geocaching?",
+                    "TrueAnswer": "A treasure hunting game using GPS coordinates",
+                    "FalseAnswer": ["A type of hiking", "A water sport", "A form of bird watching"],
+                    "Explanation": "Geocaching is a game where participants use GPS coordinates to find hidden treasures or caches."
+                },
+                {
+                    "Question": "What does GPS stand for?",
+                    "TrueAnswer": "Global Positioning System",
+                    "FalseAnswer": ["Geographical Positioning System", "Global Positioning Satellite", "Geocaching Positioning System"],
+                    "Explanation": "GPS stands for Global Positioning System, a network of satellites used for navigation and positioning."
+                },
+                {
+                    "Question": "What is the purpose of a GPS device in geocaching?",
+                    "TrueAnswer": "To locate hidden caches",
+                    "FalseAnswer": ["To measure distance", "To track wildlife", "To navigate through water"],
+                    "Explanation": "A GPS device is used in geocaching to accurately locate the coordinates of hidden caches."
+                },
+                {
+                    "Question": "What is the main goal of geocaching?",
+                    "TrueAnswer": "To find hidden caches",
+                    "FalseAnswer": ["To climb mountains", "To explore caves", "To photograph wildlife"],
+                    "Explanation": "The main goal of geocaching is to find hidden caches using GPS coordinates."
+                },
+                {
+                    "Question": "What is a cache in geocaching?",
+                    "TrueAnswer": "A hidden container",
+                    "FalseAnswer": ["A type of map", "A hiking trail", "A type of bird"],
+                    "Explanation": "In geocaching, a cache refers to a hidden container that participants search for using GPS coordinates."
+                },
+                {
+                    "Question": "What is the size of a typical geocache?",
+                    "TrueAnswer": "Varies (can be as small as a film canister or as large as a bucket)",
+                    "FalseAnswer": ["Always the size of a shoebox", "Always the size of a tennis ball", "Always the size of a car"],
+                    "Explanation": "The size of a geocache can vary greatly, ranging from as small as a film canister to as large as a bucket."
+                },
+                {
+                    "Question": "What is a trackable in geocaching?",
+                    "TrueAnswer": "An item that can be moved from cache to cache",
+                    "FalseAnswer": ["A type of GPS device", "A type of hiking shoe", "A type of bird"],
+                    "Explanation": "A trackable in geocaching is an item that can be moved from one cache to another by participants."
+                },
+                {
+                    "Question": "What is a waypoint in geocaching?",
+                    "TrueAnswer": "A specific location marked by GPS coordinates",
+                    "FalseAnswer": ["A type of hiking trail", "A type of bird", "A type of map"],
+                    "Explanation": "A waypoint in geocaching refers to a specific location marked by GPS coordinates."
+                },
+                {
+                    "Question": "What is the purpose of a logbook in geocaching?",
+                    "TrueAnswer": "To record the names of those who found the cache",
+                    "FalseAnswer": ["To navigate through water", "To measure distance", "To track wildlife"],
+                    "Explanation": "A logbook in geocaching is used to record the names of participants who found the cache."
+                },
+                {
+                    "Question": "What is the geocache difficulty rating based on?",
+                    "TrueAnswer": "The level of challenge in finding the cache",
+                    "FalseAnswer": ["The size of the cache", "The distance from the starting point", "The age of the cache"],
+                    "Explanation": "The geocache difficulty rating is based on the level of challenge in finding the cache, not its size or distance."
+                },
+                {
+                    "Question": "What is the geocache terrain rating based on?",
+                    "TrueAnswer": "The physical difficulty of reaching the cache",
+                    "FalseAnswer": ["The size of the cache", "The distance from the starting point", "The age of the cache"],
+                    "Explanation": "The geocache terrain rating is based on the physical difficulty of reaching the cache, not its size or distance."
+                },
+                {
+                    "Question": "What is the purpose of hints in geocaching?",
+                    "TrueAnswer": "To provide additional clues to find the cache",
+                    "FalseAnswer": ["To measure distance", "To track wildlife", "To navigate through water"],
+                    "Explanation": "Hints in geocaching are provided to give participants additional clues to help them find the cache."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that is no longer available?",
+                    "TrueAnswer": "Archived",
+                    "FalseAnswer": ["Hidden", "Discovered", "Expired"],
+                    "Explanation": "In geocaching, a cache that is no longer available is referred to as 'archived'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been recently hidden?",
+                    "TrueAnswer": "Newly published",
+                    "FalseAnswer": ["Found", "Expired", "Archived"],
+                    "Explanation": "In geocaching, a cache that has been recently hidden is referred to as 'newly published'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been found by a participant?",
+                    "TrueAnswer": "Logged",
+                    "FalseAnswer": ["Hidden", "Archived", "Expired"],
+                    "Explanation": "In geocaching, a cache that has been found by a participant is referred to as 'logged'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been temporarily removed?",
+                    "TrueAnswer": "Temporarily disabled",
+                    "FalseAnswer": ["Hidden", "Archived", "Expired"],
+                    "Explanation": "In geocaching, a cache that has been temporarily removed is referred to as 'temporarily disabled'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been permanently removed?",
+                    "TrueAnswer": "Retired",
+                    "FalseAnswer": ["Hidden", "Archived", "Expired"],
+                    "Explanation": "In geocaching, a cache that has been permanently removed is referred to as 'retired'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been replaced with a new container?",
+                    "TrueAnswer": "Replenished",
+                    "FalseAnswer": ["Hidden", "Archived", "Expired"],
+                    "Explanation": "In geocaching, a cache that has been replaced with a new container is referred to as 'replenished'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been damaged or vandalized?",
+                    "TrueAnswer": "Needs maintenance",
+                    "FalseAnswer": ["Hidden", "Archived", "Expired"],
+                    "Explanation": "In geocaching, a cache that has been damaged or vandalized is referred to as 'needs maintenance'."
+                },
+                {
+                    "Question": "What is the geocaching term for a cache that has been temporarily removed for maintenance?",
+                    "TrueAnswer": "Temporarily unavailable",
+                    "FalseAnswer": ["Hidden", "Archived", "Expired"],
+                    "Explanation": "In geocaching, a cache that has been temporarily removed for maintenance is referred to as 'temporarily unavailable'."
+                }
+            ]
+        }
+    ]
+}

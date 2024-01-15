@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5047141729269133259
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2527153545080546529}
+  - component: {fileID: 2095614603372341118}
+  m_Layer: 0
+  m_Name: Movies_Horror_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2527153545080546529
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5047141729269133259}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2095614603372341118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5047141729269133259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year was the first horror film released?
+      TrueAnswer: 1896
+      FalseAnswer:
+      - 1905
+      - 1922
+      - 1933
+      Explanation: "The first horror film is 'Le Manoir du Diable' (The House of
+        the Devil), directed by Georges M\xE9li\xE8s and released in 1896."
+    - Question: Who directed the classic horror film 'Psycho'?
+      TrueAnswer: Alfred Hitchcock
+      FalseAnswer:
+      - Stanley Kubrick
+      - Roman Polanski
+      - Steven Spielberg
+      Explanation: Alfred Hitchcock is known for his mastery in suspense and horror,
+        making 'Psycho' a timeless classic in the genre.
+    - Question: What is the name of the possessed girl in 'The Exorcist'?
+      TrueAnswer: Regan MacNeil
+      FalseAnswer:
+      - Carrie White
+      - Nancy Thompson
+      - Annie Wilkes
+      Explanation: Regan MacNeil, played by Linda Blair, became an iconic figure
+        in horror cinema due to her chilling depiction of possession.
+    - Question: In 'The Shining', what is written on the door when Jack goes mad?
+      TrueAnswer: Redrum
+      FalseAnswer:
+      - Help
+      - Run
+      - Danger
+      Explanation: The word 'Redrum' is actually 'Murder' spelled backwards and is
+        a significant chilling moment in the film.
+    - Question: Who is the iconic villain in the 'Nightmare on Elm Street' series?
+      TrueAnswer: Freddy Krueger
+      FalseAnswer:
+      - Michael Myers
+      - Jason Voorhees
+      - Ghostface
+      Explanation: Freddy Krueger, with his razor glove and burned face, haunts the
+        dreams of teenagers, creating a unique horror premise.
+    - Question: What is the name of the town in the movie 'It' by Stephen King?
+      TrueAnswer: Derry
+      FalseAnswer:
+      - Hawkins
+      - Haddonfield
+      - Springwood
+      Explanation: Derry, a fictional town in Maine created by Stephen King, serves
+        as the haunting setting for the story of 'It'.
+    - Question: Which classic horror film popularized the found footage genre?
+      TrueAnswer: The Blair Witch Project
+      FalseAnswer:
+      - Paranormal Activity
+      - Cloverfield
+      - REC
+      Explanation: The Blair Witch Project was one of the earliest and most successful
+        found footage horror films, inspiring many others.
+    - Question: Who directed the supernatural horror film 'The Conjuring'?
+      TrueAnswer: James Wan
+      FalseAnswer:
+      - Guillermo del Toro
+      - Ari Aster
+      - Jennifer Kent
+      Explanation: James Wan's skill in capturing suspense and dread is evident in
+        'The Conjuring', making it a modern horror classic.
+    - Question: What horror film was based on a real-life paranormal investigation
+        case?
+      TrueAnswer: The Amityville Horror
+      FalseAnswer:
+      - A Nightmare on Elm Street
+      - The Ring
+      - Scream
+      Explanation: The Amityville Horror was inspired by the reported paranormal
+        events that occurred in a house in Amityville, New York.
+    - Question: In 'The Silence of the Lambs', what is Hannibal Lecter's famous line?
+      TrueAnswer: Hello, Clarice
+      FalseAnswer:
+      - I ate his liver with some fava beans and a nice Chianti
+      - It places the lotion in the basket
+      - Quid pro quo
+      Explanation: Although often misquoted as 'Hello, Clarice', this line was never
+        actually said in 'The Silence of the Lambs'.

@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6038856295685235144
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7218013735818529686}
+  - component: {fileID: 2462334373086519548}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes from Historical Figures.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7218013735818529686
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6038856295685235144}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2462334373086519548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6038856295685235144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'I have a dream'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Abraham Lincoln
+      - Winston Churchill
+      - Nelson Mandela
+      Explanation: Martin Luther King Jr. delivered his famous 'I have a dream' speech
+        during the March on Washington in 1963.
+    - Question: Which historical figure said 'The only thing we have to fear is fear
+        itself'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Winston Churchill
+      - Abraham Lincoln
+      Explanation: Franklin D. Roosevelt spoke these words during his inaugural address
+        in 1933, addressing the Great Depression.
+    - Question: Who said 'Give me liberty, or give me death'?
+      TrueAnswer: Patrick Henry
+      FalseAnswer:
+      - George Washington
+      - Thomas Jefferson
+      - Benjamin Franklin
+      Explanation: Patrick Henry, a Founding Father, made this famous statement during
+        a speech in 1775, advocating for American independence.
+    - Question: Which historical figure said 'I am the way, the truth, and the life'?
+      TrueAnswer: Jesus Christ
+      FalseAnswer:
+      - Buddha
+      - Muhammad
+      - Confucius
+      Explanation: Jesus Christ, the central figure of Christianity, spoke these
+        words in the Bible, emphasizing his divinity.
+    - Question: Who said 'The only thing necessary for the triumph of evil is for
+        good men to do nothing'?
+      TrueAnswer: Edmund Burke
+      FalseAnswer:
+      - Thomas Paine
+      - Karl Marx
+      - John Locke
+      Explanation: Edmund Burke, an Irish statesman, philosopher, and writer, expressed
+        this idea in his work 'Thoughts on the Cause of the Present Discontents.'
+    - Question: Which historical figure said 'I came, I saw, I conquered'?
+      TrueAnswer: Julius Caesar
+      FalseAnswer:
+      - Alexander the Great
+      - Napoleon Bonaparte
+      - Genghis Khan
+      Explanation: Julius Caesar, the Roman general and statesman, used this phrase
+        to describe his victory in the Battle of Zela.
+    - Question: Who said 'The only true wisdom is in knowing you know nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates, the ancient Greek philosopher, believed that true wisdom
+        comes from recognizing one's own ignorance.
+    - Question: Which historical figure said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Albert Einstein
+      - Isaac Newton
+      - Galileo Galilei
+      Explanation: "Ren\xE9 Descartes, a French philosopher, introduced this famous
+        philosophical statement in his work 'Discourse on the Method.'"
+    - Question: Who said 'To be or not to be, that is the question'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Miguel de Cervantes
+      - John Milton
+      - Geoffrey Chaucer
+      Explanation: William Shakespeare, the renowned English playwright, wrote this
+        line in his play 'Hamlet.'
+    - Question: Which historical figure said 'I have nothing to offer but blood,
+        toil, tears, and sweat'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Adolf Hitler
+      - Joseph Stalin
+      - Franklin D. Roosevelt
+      Explanation: Winston Churchill, the British Prime Minister, delivered this
+        powerful statement during his first speech to the House of Commons.
+    - Question: Who said 'Injustice anywhere is a threat to justice everywhere'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Malcolm X
+      - Nelson Mandela
+      - Mahatma Gandhi
+      Explanation: Martin Luther King Jr. expressed this idea in his 'Letter from
+        Birmingham Jail' in 1963.
+    - Question: Which historical figure said 'I have not failed. I've just found
+        10,000 ways that won't work'?
+      TrueAnswer: Thomas Edison
+      FalseAnswer:
+      - Nikola Tesla
+      - Alexander Graham Bell
+      - Albert Einstein
+      Explanation: Thomas Edison, the American inventor, made this remark while working
+        on the development of the electric light bulb.
+    - Question: Who said 'The only thing that is constant is change'?
+      TrueAnswer: Heraclitus
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Socrates
+      Explanation: Heraclitus, the ancient Greek philosopher, believed that change
+        is the fundamental nature of the universe.
+    - Question: Which historical figure said 'I disapprove of what you say, but I
+        will defend to the death your right to say it'?
+      TrueAnswer: Voltaire
+      FalseAnswer:
+      - Jean-Jacques Rousseau
+      - John Locke
+      - Thomas Jefferson
+      Explanation: Voltaire, the French Enlightenment writer, expressed this belief
+        in defense of freedom of speech.
+    - Question: Who said 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates, the ancient Greek philosopher, emphasized the importance
+        of self-reflection and introspection.
+    - Question: Which historical figure said 'I have a rendezvous with death'?
+      TrueAnswer: Alan Seeger
+      FalseAnswer:
+      - Ernest Hemingway
+      - Wilfred Owen
+      - Robert Frost
+      Explanation: Alan Seeger, an American poet, wrote this line in his poem 'I
+        Have a Rendezvous with Death' during World War I.
+    - Question: Who said 'I know that I am intelligent, because I know that I know
+        nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates, the ancient Greek philosopher, believed that true wisdom
+        comes from recognizing one's own ignorance.
+    - Question: Which historical figure said 'The greatest glory in living lies not
+        in never falling, but in rising every time we fall'?
+      TrueAnswer: Nelson Mandela
+      FalseAnswer:
+      - Mahatma Gandhi
+      - Martin Luther King Jr.
+      - Winston Churchill
+      Explanation: Nelson Mandela, the South African anti-apartheid revolutionary,
+        spoke these words during his inaugural address in 1994.
+    - Question: Who said 'I have a dream that one day this nation will rise up'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Abraham Lincoln
+      - Winston Churchill
+      - Nelson Mandela
+      Explanation: Martin Luther King Jr. delivered his famous 'I have a dream' speech
+        during the March on Washington in 1963.
+    - Question: 'Which historical figure said ''We hold these truths to be self-evident:
+        that all men are created equal''?'
+      TrueAnswer: Thomas Jefferson
+      FalseAnswer:
+      - George Washington
+      - John Adams
+      - Benjamin Franklin
+      Explanation: Thomas Jefferson wrote these words in the Declaration of Independence,
+        declaring the equality of all individuals.

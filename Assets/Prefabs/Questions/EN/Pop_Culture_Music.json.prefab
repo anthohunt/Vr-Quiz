@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &252455037776522310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1246767344581004636}
+  - component: {fileID: 6340704851519532178}
+  m_Layer: 0
+  m_Name: Pop_Culture_Music.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1246767344581004636
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 252455037776522310}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6340704851519532178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 252455037776522310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year did The Beatles officially disband?
+      TrueAnswer: 1970
+      FalseAnswer:
+      - 1969
+      - 1971
+      - 1973
+      Explanation: The Beatles disbanded in 1970 due to internal conflicts and creative
+        differences among the band members.
+    - Question: Who is known as the 'King of Pop'?
+      TrueAnswer: Michael Jackson
+      FalseAnswer:
+      - Elvis Presley
+      - Prince
+      - Justin Timberlake
+      Explanation: Michael Jackson earned the title 'King of Pop' due to his groundbreaking
+        contributions to music and his iconic status in the industry.
+    - Question: What song holds the record for most weeks at number one on Billboard
+        Hot 100?
+      TrueAnswer: '"Old Town Road" by Lil Nas X'
+      FalseAnswer:
+      - '"Despacito" by Luis Fonsi'
+      - '"I Will Always Love You" by Whitney Houston'
+      - '"One Sweet Day" by Mariah Carey and Boyz II Men'
+      Explanation: Lil Nas X's "Old Town Road" achieved a record 19 weeks at number
+        one on the Billboard Hot 100 chart.
+    - Question: Which artist won the first season of American Idol?
+      TrueAnswer: Kelly Clarkson
+      FalseAnswer:
+      - Carrie Underwood
+      - Adam Lambert
+      - Jennifer Hudson
+      Explanation: Kelly Clarkson made history by winning the inaugural season of
+        American Idol in 2002, launching her successful music career.
+    - Question: Who is the best-selling girl group of all time?
+      TrueAnswer: Spice Girls
+      FalseAnswer:
+      - Destiny's Child
+      - TLC
+      - Fifth Harmony
+      Explanation: The Spice Girls became the best-selling girl group with their
+        chart-topping hits and worldwide cultural impact during the 1990s.
+    - Question: Which rock band released the album 'The Dark Side of the Moon'?
+      TrueAnswer: Pink Floyd
+      FalseAnswer:
+      - Led Zeppelin
+      - The Rolling Stones
+      - The Who
+      Explanation: '''The Dark Side of the Moon'' is Pink Floyd''s acclaimed eighth
+        studio album, known for its progressive rock and conceptual themes.'
+    - Question: What genre is Ariana Grande known for?
+      TrueAnswer: Pop
+      FalseAnswer:
+      - R&B
+      - Hip-hop
+      - Country
+      Explanation: Ariana Grande is recognized for her impressive vocal range and
+        her contributions to the pop music genre.
+    - Question: Which iconic artist performed the halftime show at Super Bowl XLVI?
+      TrueAnswer: Madonna
+      FalseAnswer:
+      - "Beyonc\xE9"
+      - Lady Gaga
+      - Katy Perry
+      Explanation: Madonna's electrifying performance at Super Bowl XLVI showcased
+        her enduring influence on pop culture and music.
+    - Question: Who is the only musician to win the Nobel Prize in Literature?
+      TrueAnswer: Bob Dylan
+      FalseAnswer:
+      - Paul McCartney
+      - Joni Mitchell
+      - Bruce Springsteen
+      Explanation: Bob Dylan was awarded the Nobel Prize in Literature in 2016 for
+        his poetic and influential songwriting.
+    - Question: Which city is considered the birthplace of Motown Records?
+      TrueAnswer: Detroit
+      FalseAnswer:
+      - Los Angeles
+      - New York City
+      - Memphis
+      Explanation: Detroit, Michigan, holds the distinction as the founding city
+        of Motown Records, a renowned hub for soul and R&B music.
+    - Question: Who wrote and released the song 'Purple Haze'?
+      TrueAnswer: Jimi Hendrix
+      FalseAnswer:
+      - Eric Clapton
+      - Jimmy Page
+      - Eddie Van Halen
+      Explanation: Jimi Hendrix, an influential guitarist, wrote and performed 'Purple
+        Haze' as a pivotal track in the history of rock music.
+    - Question: Which rapper is known as 'Slim Shady'?
+      TrueAnswer: Eminem
+      FalseAnswer:
+      - Dr. Dre
+      - Notorious B.I.G.
+      - Snoop Dogg
+      Explanation: Eminem's alter ego 'Slim Shady' emerged in his early career, representing
+        his edgier and provocative artistic persona.
+    - Question: Which country music legend released the hit song 'Jolene'?
+      TrueAnswer: Dolly Parton
+      FalseAnswer:
+      - Loretta Lynn
+      - Tammy Wynette
+      - Patsy Cline
+      Explanation: Dolly Parton, an iconic figure in country music, composed and
+        popularized the timeless classic 'Jolene' in 1973.
+    - Question: In which year did Elvis Presley receive his first Grammy Award?
+      TrueAnswer: 1967
+      FalseAnswer:
+      - 1958
+      - 1961
+      - 1972
+      Explanation: Elvis Presley earned his first Grammy Award in 1967 for Best Sacred
+        Performance with his album 'How Great Thou Art.'
+    - Question: Who is the lead vocalist of the rock band Queen?
+      TrueAnswer: Freddie Mercury
+      FalseAnswer:
+      - David Bowie
+      - Mick Jagger
+      - Bon Jovi
+      Explanation: Freddie Mercury, renowned for his powerful and versatile voice,
+        served as the charismatic lead singer of Queen until his passing.
+    - Question: Which artist released the album 'Hot Fuss' in 2004?
+      TrueAnswer: The Killers
+      FalseAnswer:
+      - Arctic Monkeys
+      - Franz Ferdinand
+      - The Strokes
+      Explanation: '''Hot Fuss'' marked The Killers'' debut album, gaining commercial
+        success and establishing them as a prominent rock band.'
+    - Question: What is the real name of the artist known as 50 Cent?
+      TrueAnswer: Curtis Jackson
+      FalseAnswer:
+      - Calvin Broadus
+      - Marshall Mathers
+      - Shawn Carter
+      Explanation: Curtis Jackson, professionally known as 50 Cent, rose to fame
+        as a prominent figure in the hip-hop and rap music industry.
+    - Question: Which famous music producer is known for his 'Wall of Sound' technique?
+      TrueAnswer: Phil Spector
+      FalseAnswer:
+      - Quincy Jones
+      - Rick Rubin
+      - Dr. Dre
+      Explanation: Phil Spector pioneered the 'Wall of Sound,' a dense and layered
+        production style, influencing numerous recording artists and producers.
+    - Question: Which singer is known for incorporating whistle register into her
+        songs?
+      TrueAnswer: Marian Carey
+      FalseAnswer:
+      - Whitney Houston
+      - Celine Dion
+      - "Beyonc\xE9"
+      Explanation: Mariah Carey's utilization of the whistle register, characterized
+        by soaring and piercing notes, sets her apart as a vocal virtuoso.
+    - Question: What is the stage name of the Australian singer born Alecia Beth
+        Moore?
+      TrueAnswer: Pink
+      FalseAnswer:
+      - Katy Perry
+      - "Beyonc\xE9"
+      - Rihanna
+      Explanation: Alecia Beth Moore adopted the stage name Pink, emerging as a bold
+        and versatile artist renowned for her impactful performances.

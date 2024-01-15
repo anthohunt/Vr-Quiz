@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7842926166449630289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8665286169843942836}
+  - component: {fileID: 1152697583214705618}
+  m_Layer: 0
+  m_Name: Pop Culture_TikTok Trends.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8665286169843942836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7842926166449630289}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1152697583214705618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7842926166449630289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular TikTok dance trend of 2020?
+      TrueAnswer: Renegade
+      FalseAnswer:
+      - Savage
+      - Say So
+      - Blinding Lights
+      Explanation: Renegade became a viral dance trend on TikTok, with millions of
+        users attempting to master its intricate moves.
+    - Question: Which TikTok trend involves transforming into different characters
+        using makeup?
+      TrueAnswer: E-Boy/E-Girl
+      FalseAnswer:
+      - VSCO Girl
+      - Harlem Shake
+      - In My Feelings Challenge
+      Explanation: The E-Boy/E-Girl trend on TikTok involves using makeup and fashion
+        to create a unique and alternative persona.
+    - Question: What is the name of the TikTok trend where users recreate famous
+        movie scenes?
+      TrueAnswer: Movie Scene Challenge
+      FalseAnswer:
+      - Duet Challenge
+      - Savage Challenge
+      - Renegade Challenge
+      Explanation: The Movie Scene Challenge on TikTok involves users reenacting
+        iconic moments from popular films.
+    - Question: Which TikTok trend involves lip-syncing to audio clips from movies
+        or TV shows?
+      TrueAnswer: Dubsmash
+      FalseAnswer:
+      - Dance Challenge
+      - Meme Review
+      - Flip the Switch Challenge
+      Explanation: Dubsmash is a popular TikTok trend where users lip-sync to audio
+        clips from movies or TV shows.
+    - Question: What is the name of the TikTok trend where users transform into their
+        favorite celebrities?
+      TrueAnswer: Celeb Lookalike
+      FalseAnswer:
+      - TikTok Dance Challenge
+      - Mukbang
+      - Ice Bucket Challenge
+      Explanation: The Celeb Lookalike trend on TikTok involves users using makeup
+        and costumes to resemble famous personalities.
+    - Question: Which TikTok trend involves users showcasing their artistic skills
+        through time-lapse videos?
+      TrueAnswer: Artistic Transformation
+      FalseAnswer:
+      - TikTok Prank Challenge
+      - TikTok Food Hacks
+      - TikTok Fitness Challenge
+      Explanation: The Artistic Transformation trend on TikTok showcases users' talent
+        in various art forms through time-lapse videos.
+    - Question: What is the name of the TikTok trend where users create comedic skits
+        with unexpected twists?
+      TrueAnswer: Plot Twist Challenge
+      FalseAnswer:
+      - TikTok Makeup Tutorial
+      - TikTok Pet Challenge
+      - TikTok DIY Crafts
+      Explanation: The Plot Twist Challenge on TikTok involves users creating short
+        comedic skits with unexpected twists at the end.
+    - Question: Which TikTok trend involves users showcasing their fashion sense
+        through outfit transitions?
+      TrueAnswer: Outfit Change Challenge
+      FalseAnswer:
+      - TikTok Dance Challenge
+      - TikTok Cooking Tutorial
+      - TikTok Fitness Challenge
+      Explanation: The Outfit Change Challenge on TikTok showcases users' fashion
+        sense by seamlessly transitioning between different outfits.
+    - Question: What is the name of the TikTok trend where users create videos with
+        optical illusions?
+      TrueAnswer: Magic Trick Challenge
+      FalseAnswer:
+      - TikTok Prank Challenge
+      - TikTok Food Hacks
+      - TikTok Fitness Challenge
+      Explanation: The Magic Trick Challenge on TikTok involves users creating videos
+        with optical illusions and mind-bending tricks.
+    - Question: Which TikTok trend involves users showcasing their dance skills to
+        popular songs?
+      TrueAnswer: Dance Challenge
+      FalseAnswer:
+      - Meme Review
+      - Flip the Switch Challenge
+      - Celeb Lookalike
+      Explanation: The Dance Challenge trend on TikTok showcases users' dance skills
+        as they perform choreographed routines to popular songs.
+    - Question: What is the name of the TikTok trend where users create videos with
+        visual effects and transitions?
+      TrueAnswer: Transition Challenge
+      FalseAnswer:
+      - TikTok Makeup Tutorial
+      - TikTok Pet Challenge
+      - TikTok DIY Crafts
+      Explanation: The Transition Challenge on TikTok involves users creating visually
+        stunning videos with seamless transitions and effects.
+    - Question: Which TikTok trend involves users showcasing their cooking skills
+        and sharing recipes?
+      TrueAnswer: Cooking Tutorial
+      FalseAnswer:
+      - TikTok Prank Challenge
+      - TikTok Fitness Challenge
+      - TikTok Dance Challenge
+      Explanation: The Cooking Tutorial trend on TikTok involves users sharing their
+        culinary skills and recipes through short videos.
+    - Question: What is the name of the TikTok trend where users create videos with
+        their pets?
+      TrueAnswer: Pet Challenge
+      FalseAnswer:
+      - TikTok Makeup Tutorial
+      - TikTok DIY Crafts
+      - TikTok Fitness Challenge
+      Explanation: The Pet Challenge on TikTok involves users creating videos featuring
+        their adorable pets and showcasing their unique behaviors.
+    - Question: Which TikTok trend involves users showcasing their DIY craft projects?
+      TrueAnswer: DIY Crafts
+      FalseAnswer:
+      - Meme Review
+      - Flip the Switch Challenge
+      - Celeb Lookalike
+      Explanation: The DIY Crafts trend on TikTok involves users sharing their creative
+        and crafty projects through short videos.
+    - Question: What is the name of the TikTok trend where users showcase their fitness
+        routines and workouts?
+      TrueAnswer: Fitness Challenge
+      FalseAnswer:
+      - TikTok Prank Challenge
+      - TikTok Cooking Tutorial
+      - TikTok Dance Challenge
+      Explanation: The Fitness Challenge on TikTok involves users sharing their workout
+        routines and fitness tips through short videos.
+    - Question: Which TikTok trend involves users showcasing their singing skills?
+      TrueAnswer: Sing Challenge
+      FalseAnswer:
+      - TikTok Makeup Tutorial
+      - TikTok Pet Challenge
+      - TikTok DIY Crafts
+      Explanation: The Sing Challenge on TikTok involves users showcasing their singing
+        skills by performing popular songs or original compositions.
+    - Question: What is the name of the TikTok trend where users create videos with
+        funny and relatable memes?
+      TrueAnswer: Meme Review
+      FalseAnswer:
+      - TikTok Prank Challenge
+      - TikTok Food Hacks
+      - TikTok Fitness Challenge
+      Explanation: The Meme Review trend on TikTok involves users creating videos
+        with funny and relatable memes that resonate with the community.
+    - Question: Which TikTok trend involves users recreating viral challenges from
+        other social media platforms?
+      TrueAnswer: Challenge Remix
+      FalseAnswer:
+      - VSCO Girl
+      - Harlem Shake
+      - In My Feelings Challenge
+      Explanation: The Challenge Remix trend on TikTok involves users recreating
+        popular challenges from other social media platforms.
+    - Question: What is the name of the TikTok trend where users create videos showcasing
+        their favorite food recipes?
+      TrueAnswer: Food Hacks
+      FalseAnswer:
+      - TikTok Dance Challenge
+      - TikTok Makeup Tutorial
+      - TikTok Pet Challenge
+      Explanation: The Food Hacks trend on TikTok involves users sharing creative
+        and innovative recipes and cooking techniques.
+    - Question: Which TikTok trend involves users showcasing their VSCO-inspired
+        fashion and lifestyle?
+      TrueAnswer: VSCO Girl
+      FalseAnswer:
+      - Duet Challenge
+      - Savage Challenge
+      - Renegade Challenge
+      Explanation: The VSCO Girl trend on TikTok showcases users' fashion and lifestyle
+        choices inspired by the VSCO aesthetic.

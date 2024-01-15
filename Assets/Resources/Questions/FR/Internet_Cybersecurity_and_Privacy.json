@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but d'un VPN (Virtual Private Network) ?",
+            "TrueAnswer": "Protéger la vie privée",
+            "FalseAnswer": [
+              "Augmenter la vitesse d'Internet",
+              "Bloquer l'accès à des sites web",
+              "Chiffrer des fichiers"
+            ],
+            "Explanation": "Un VPN permet aux utilisateurs d'accéder de manière sécurisée à un réseau privé et de partager des données à distance via des réseaux publics tout en préservant la confidentialité et la sécurité."
+          },
+          {
+            "Question": "Quelle est une forme courante de phishing parmi les suivantes ?",
+            "TrueAnswer": "Arnaques par e-mail",
+            "FalseAnswer": [
+              "Arnaques par SMS",
+              "Arnaques en personne",
+              "Arnaques sur les réseaux sociaux"
+            ],
+            "Explanation": "Les arnaques par e-mail (phishing) sont une tentative frauduleuse d'obtenir des informations sensibles en se faisant passer pour une entité de confiance dans une communication électronique."
+          },
+          {
+            "Question": "Que signifie HTTPS dans l'URL d'un site web ?",
+            "TrueAnswer": "Protocole de transfert hypertexte sécurisé",
+            "FalseAnswer": [
+              "Protocole de transmission hypertexte",
+              "Protocole de transfert à haute efficacité",
+              "Protocole de transport de liens hypertexte"
+            ],
+            "Explanation": "HTTPS est un protocole de communication sécurisée sur un réseau informatique largement utilisé sur Internet, offrant authentification et intégrité des données."
+          },
+          {
+            "Question": "Quel est le but de l'authentification à deux facteurs (2FA) ?",
+            "TrueAnswer": "Renforcer la sécurité",
+            "FalseAnswer": [
+              "Cacher des informations personnelles",
+              "Augmenter la vitesse d'Internet",
+              "Chiffrer des fichiers"
+            ],
+            "Explanation": "La 2FA ajoute une couche supplémentaire de sécurité en exigeant une deuxième forme d'authentification, telle qu'un code envoyé à un appareil mobile, en plus d'un mot de passe."
+          },
+          {
+            "Question": "Parmi les éléments suivants, lequel n'est PAS considéré comme des informations personnellement identifiables (PII) ?",
+            "TrueAnswer": "Couleur préférée",
+            "FalseAnswer": [
+              "Numéro de sécurité sociale",
+              "Date de naissance",
+              "Adresse domicile"
+            ],
+            "Explanation": "Bien que des préférences telles que la couleur préférée puissent être personnelles, elles ne sont généralement pas considérées comme des informations personnellement identifiables (PII) en vertu des lois sur la vie privée."
+          },
+          {
+            "Question": "Quel est le principal but d'un pare-feu en matière de sécurité réseau ?",
+            "TrueAnswer": "Surveiller et contrôler le trafic",
+            "FalseAnswer": [
+              "Augmenter la vitesse d'Internet",
+              "Chiffrer des fichiers",
+              "Bloquer l'accès à des sites web non autorisés"
+            ],
+            "Explanation": "Les pare-feu agissent comme une barrière entre un réseau interne de confiance et un réseau externe non fiable, surveillant et contrôlant le trafic entrant et sortant en fonction de règles de sécurité prédéfinies."
+          },
+          {
+            "Question": "Quel est l'objectif principal des cyber-attaquants lorsqu'ils mènent une attaque de type DDoS (Distributed Denial of Service) ?",
+            "TrueAnswer": "Perturber les services",
+            "FalseAnswer": [
+              "Accéder aux données",
+              "Ralentir la vitesse d'Internet",
+              "Chiffrer des fichiers"
+            ],
+            "Explanation": "Les attaques DDoS tentent de submerger un système, un service ou un réseau ciblé en le submergeant de trafic Internet, provoquant une perturbation ou même un arrêt des services."
+          },
+          {
+            "Question": "Quelle mesure de sécurité implique la dissimulation ou le masquage de données sensibles lors de leur transmission sur un réseau ?",
+            "TrueAnswer": "Chiffrement des données",
+            "FalseAnswer": [
+              "Compression des données",
+              "Anonymisation des données",
+              "Obfuscation des données"
+            ],
+            "Explanation": "Le chiffrement des données consiste à convertir la représentation originale des données en un format illisible pour empêcher l'accès non autorisé, assurant une transmission sécurisée sur un réseau."
+          },
+          {
+            "Question": "À quoi se réfère le terme 'pharming' en matière de cybersécurité ?",
+            "TrueAnswer": "Rediriger le trafic web",
+            "FalseAnswer": [
+              "Vol d'e-mails personnels",
+              "Surcharger les serveurs",
+              "Modifier le code logiciel"
+            ],
+            "Explanation": "Le pharming est une attaque informatique visant à rediriger le trafic d'un site web vers un autre site frauduleux, souvent dans le but de recueillir des informations sur les utilisateurs à des fins malveillantes."
+          },
+          {
+            "Question": "Quelle est une méthode courante pour sécuriser les comptes en ligne contre les accès non autorisés ?",
+            "TrueAnswer": "Des mots de passe forts",
+            "FalseAnswer": [
+              "Publication des informations de connexion",
+              "Utilisation du Wi-Fi public",
+              "Partage des détails du compte"
+            ],
+            "Explanation": "L'utilisation de mots de passe forts, uniques et complexes, associée à l'authentification à deux facteurs, constitue une mesure courante et efficace pour sécuriser les comptes en ligne contre les accès non autorisés."
+          },
+          {
+            "Question": "Quel type de logiciel malveillant est conçu pour bloquer l'accès à un système informatique jusqu'à ce qu'une somme d'argent soit payée ?",
+            "TrueAnswer": "Rançongiciel",
+            "FalseAnswer": [
+              "Logiciel publicitaire",
+              "Logiciel espion",
+              "Cheval de Troie"
+            ],
+            "Explanation": "Le rançongiciel est un type de logiciel malveillant qui chiffre les données d'un utilisateur et demande un paiement pour les restituer, causant souvent d'importantes perturbations et des pertes financières pour les particuliers et les organisations."
+          },
+          {
+            "Question": "Quelle est une technique courante pour protéger les données sensibles dans une communication par e-mail ?",
+            "TrueAnswer": "Chiffrement",
+            "FalseAnswer": [
+              "Partage ouvert",
+              "Signatures numériques",
+              "Protection des pièces jointes par mot de passe"
+            ],
+            "Explanation": "Le chiffrement permet une transmission sécurisée des données sensibles dans les communications par e-mail, rendant le contenu illisible pour des tiers non autorisés sans la clé de déchiffrement."
+          },
+          {
+            "Question": "Quel rôle joue un correctif de sécurité en matière de cybersécurité ?",
+            "TrueAnswer": "Correction des vulnérabilités",
+            "FalseAnswer": [
+              "Amélioration de la vitesse d'Internet",
+              "Ajout de nouvelles fonctionnalités",
+              "Amélioration de l'interface utilisateur"
+            ],
+            "Explanation": "Les correctifs de sécurité sont des mises à jour logicielles destinées à corriger les vulnérabilités des programmes informatiques ou des systèmes, palliant les failles potentielles exploitables par des cyber-attaquants."
+          },
+          {
+            "Question": "Quelle mesure de sécurité implique l'utilisation de données biométriques pour l'authentification ?",
+            "TrueAnswer": "Identification biométrique",
+            "FalseAnswer": [
+              "Rotation des mots de passe",
+              "Vérification par e-mail",
+              "Profilage sur les réseaux sociaux"
+            ],
+            "Explanation": "L'identification biométrique utilise des traits physiques ou comportementaux uniques, tels que des empreintes digitales ou la reconnaissance faciale, pour l'authentification des utilisateurs, renforçant la sécurité en minimisant la dépendance à des informations facilement reproductibles."
+          },
+          {
+            "Question": "Quel est le but d'un CAPTCHA en matière de sécurité en ligne ?",
+            "TrueAnswer": "Prévenir les bots automatisés",
+            "FalseAnswer": [
+              "Protéger les données personnelles",
+              "Vérifier les adresses e-mail",
+              "Filtrer le contenu offensant"
+            ],
+            "Explanation": "CAPTCHA est conçu pour distinguer entre systèmes informatiques automatisés et humains, réduisant ainsi le risque que des bots automatisés obtiennent un accès non autorisé ou mènent des activités malveillantes."
+          },
+          {
+            "Question": "Quel type d'attaque cybernétique implique l'interception et l'altération de la communication entre deux parties à leur insu ?",
+            "TrueAnswer": "L'homme du milieu",
+            "FalseAnswer": [
+              "Attaque par déni de service distribuée (DDoS)",
+              "Phishing",
+              "Rançongiciel"
+            ],
+            "Explanation": "Une attaque de l'homme du milieu survient lorsque l'attaquant cybernétique intercepte secrètement et éventuellement altère la communication entre deux parties pour espionner, voler des informations ou se faire passer pour l'un des communicateurs."
+          },
+          {
+            "Question": "Quel type de données n'est généralement pas chiffré par défaut dans les applications de messagerie ?",
+            "TrueAnswer": "Métadonnées",
+            "FalseAnswer": [
+              "Contenu textuel",
+              "Pièces jointes multimédias",
+              "Informations de contact de l'utilisateur"
+            ],
+            "Explanation": "Alors que le contenu textuel des messages et les pièces jointes multimédias sont souvent chiffrés, les métadonnées, telles que les informations sur l'expéditeur et le destinataire, les horodatages et les détails de routage, peuvent ne pas être chiffrées par défaut."
+          },
+          {
+            "Question": "À quoi fait référence le terme 'chapeau blanc' dans le contexte de la cybersécurité ?",
+            "TrueAnswer": "Hacker éthique",
+            "FalseAnswer": [
+              "Logiciel malveillant",
+              "Programme de stage",
+              "Enquête sur une violation de sécurité"
+            ],
+            "Explanation": "Le 'chapeau blanc' désigne des hackers éthiques qui utilisent leurs compétences pour identifier les vulnérabilités en matière de sécurité, effectuer des tests d'intrusion et améliorer les défenses en cybersécurité, souvent employés pour protéger les organisations contre les menaces cybernétiques."
+          },
+          {
+            "Question": "Quel est un risque courant associé à l'utilisation de réseaux Wi-Fi publics sans mesures de sécurité adéquates ?",
+            "TrueAnswer": "Interception des données",
+            "FalseAnswer": [
+              "Amélioration de la vie privée",
+              "Réduction de la vitesse d'Internet",
+              "Sauvegarde automatique des données"
+            ],
+            "Explanation": "Les réseaux Wi-Fi publics sont dépourvus de mesures de sécurité, exposant les utilisateurs à l'interception des données et à l'accès non autorisé par des acteurs malveillants sur le même réseau, compromettant potentiellement des informations sensibles."
+          }
+        ]
+      }
+    }
+  ]
+}

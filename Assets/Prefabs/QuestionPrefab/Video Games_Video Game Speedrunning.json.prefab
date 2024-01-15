@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2317992872827279822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6632412056397283916}
+  - component: {fileID: 7500657804559387629}
+  m_Layer: 0
+  m_Name: Video Games_Video Game Speedrunning.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6632412056397283916
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2317992872827279822}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7500657804559387629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2317992872827279822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the world record time for completing 'Super Mario 64'?
+      TrueAnswer: 1 hour and 38 minutes
+      FalseAnswer:
+      - 30 minutes
+      - 2 hours and 15 minutes
+      - 45 minutes
+      Explanation: The current world record time for completing 'Super Mario 64'
+        is 1 hour and 38 minutes.
+    - Question: Which game holds the record for the longest speedrun time?
+      TrueAnswer: 'The Elder Scrolls V: Skyrim'
+      FalseAnswer:
+      - Super Mario Bros.
+      - 'The Legend of Zelda: Ocarina of Time'
+      - Dark Souls
+      Explanation: 'The game ''The Elder Scrolls V: Skyrim'' holds the record for
+        the longest speedrun time.'
+    - Question: 'What is the most popular speedrunning category for ''The Legend
+        of Zelda: Ocarina of Time''?'
+      TrueAnswer: Any%
+      FalseAnswer:
+      - 100%
+      - Glitchless
+      - Master Sword
+      Explanation: 'The most popular speedrunning category for ''The Legend of Zelda:
+        Ocarina of Time'' is Any%.'
+    - Question: Which game introduced the concept of speedrunning to the gaming community?
+      TrueAnswer: Super Metroid
+      FalseAnswer:
+      - Super Mario Bros.
+      - The Legend of Zelda
+      - Pac-Man
+      Explanation: The game 'Super Metroid' is credited with introducing the concept
+        of speedrunning to the gaming community.
+    - Question: What is the current world record time for completing 'Dark Souls'?
+      TrueAnswer: 32 minutes and 54 seconds
+      FalseAnswer:
+      - 1 hour and 45 minutes
+      - 20 minutes and 10 seconds
+      - 50 minutes and 30 seconds
+      Explanation: The current world record time for completing 'Dark Souls' is 32
+        minutes and 54 seconds.
+    - Question: Which game has the most active speedrunning community?
+      TrueAnswer: Super Mario 64
+      FalseAnswer:
+      - Minecraft
+      - Fortnite
+      - 'Call of Duty: Warzone'
+      Explanation: The game 'Super Mario 64' has one of the most active speedrunning
+        communities.
+    - Question: 'What is the current world record time for completing ''The Legend
+        of Zelda: Breath of the Wild''?'
+      TrueAnswer: 27 minutes and 18 seconds
+      FalseAnswer:
+      - 45 minutes and 30 seconds
+      - 1 hour and 10 minutes
+      - 15 minutes and 50 seconds
+      Explanation: 'The current world record time for completing ''The Legend of
+        Zelda: Breath of the Wild'' is 27 minutes and 18 seconds.'
+    - Question: Which game has the most difficult speedrun to complete?
+      TrueAnswer: I Wanna Be The Boshy
+      FalseAnswer:
+      - Super Mario World
+      - 'Sekiro: Shadows Die Twice'
+      - Celeste
+      Explanation: The game 'I Wanna Be The Boshy' is known for having one of the
+        most difficult speedruns to complete.
+    - Question: What is the current world record time for completing 'Super Mario
+        Bros.'?
+      TrueAnswer: 4 minutes and 55 seconds
+      FalseAnswer:
+      - 10 minutes and 30 seconds
+      - 2 minutes and 15 seconds
+      - 7 minutes and 40 seconds
+      Explanation: The current world record time for completing 'Super Mario Bros.'
+        is 4 minutes and 55 seconds.
+    - Question: Which game has the most categories for speedrunning?
+      TrueAnswer: 'The Legend of Zelda: Ocarina of Time'
+      FalseAnswer:
+      - Mega Man X
+      - Super Mario 64
+      - 'Castlevania: Symphony of the Night'
+      Explanation: 'The game ''The Legend of Zelda: Ocarina of Time'' has the most
+        categories for speedrunning.'
+    - Question: What is the current world record time for completing 'Mega Man X'?
+      TrueAnswer: 32 minutes and 49 seconds
+      FalseAnswer:
+      - 1 hour and 15 minutes
+      - 20 minutes and 30 seconds
+      - 45 minutes and 10 seconds
+      Explanation: The current world record time for completing 'Mega Man X' is 32
+        minutes and 49 seconds.
+    - Question: Which game has the most glitches used in speedruns?
+      TrueAnswer: 'The Legend of Zelda: Majora''s Mask'
+      FalseAnswer:
+      - Super Mario 64
+      - Final Fantasy VII
+      - Resident Evil 2
+      Explanation: 'The game ''The Legend of Zelda: Majora''s Mask'' has the most
+        glitches used in speedruns.'
+    - Question: What is the current world record time for completing 'Celeste'?
+      TrueAnswer: 29 minutes and 29 seconds
+      FalseAnswer:
+      - 1 hour and 5 minutes
+      - 15 minutes and 40 seconds
+      - 40 minutes and 20 seconds
+      Explanation: The current world record time for completing 'Celeste' is 29 minutes
+        and 29 seconds.
+    - Question: Which game has the most precise inputs required for speedrunning?
+      TrueAnswer: Super Meat Boy
+      FalseAnswer:
+      - 'The Legend of Zelda: A Link to the Past'
+      - Super Mario World
+      - Metroid Prime
+      Explanation: The game 'Super Meat Boy' requires the most precise inputs for
+        speedrunning.
+    - Question: What is the current world record time for completing 'Metroid Prime'?
+      TrueAnswer: 1 hour and 6 minutes
+      FalseAnswer:
+      - 30 minutes and 45 seconds
+      - 2 hours and 30 minutes
+      - 45 minutes and 20 seconds
+      Explanation: The current world record time for completing 'Metroid Prime' is
+        1 hour and 6 minutes.
+    - Question: Which game has the most random elements that can affect speedruns?
+      TrueAnswer: The Binding of Isaac
+      FalseAnswer:
+      - Super Mario Bros.
+      - 'The Legend of Zelda: A Link to the Past'
+      - Dark Souls
+      Explanation: The game 'The Binding of Isaac' has the most random elements that
+        can affect speedruns.
+    - Question: What is the current world record time for completing 'Super Mario
+        World'?
+      TrueAnswer: 10 minutes and 31 seconds
+      FalseAnswer:
+      - 20 minutes and 15 seconds
+      - 5 minutes and 40 seconds
+      - 15 minutes and 50 seconds
+      Explanation: The current world record time for completing 'Super Mario World'
+        is 10 minutes and 31 seconds.
+    - Question: Which game has the most complex routing for speedrunning?
+      TrueAnswer: Final Fantasy VII
+      FalseAnswer:
+      - Super Mario 64
+      - 'The Legend of Zelda: Ocarina of Time'
+      - Dark Souls
+      Explanation: The game 'Final Fantasy VII' has the most complex routing for
+        speedrunning.
+    - Question: What is the current world record time for completing 'Resident Evil
+        2'?
+      TrueAnswer: 1 hour and 28 minutes
+      FalseAnswer:
+      - 45 minutes and 10 seconds
+      - 2 hours and 15 minutes
+      - 30 minutes and 50 seconds
+      Explanation: The current world record time for completing 'Resident Evil 2'
+        is 1 hour and 28 minutes.
+    - Question: Which game has the most precise timing required for speedrunning?
+      TrueAnswer: Super Mario Bros.
+      FalseAnswer:
+      - 'The Legend of Zelda: A Link to the Past'
+      - Mega Man X
+      - Dark Souls
+      Explanation: The game 'Super Mario Bros.' requires the most precise timing
+        for speedrunning.

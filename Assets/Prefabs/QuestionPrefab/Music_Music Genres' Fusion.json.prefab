@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1685958348611077652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 290965681954306217}
+  - component: {fileID: 4051355182400376551}
+  m_Layer: 0
+  m_Name: Music_Music Genres' Fusion.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &290965681954306217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1685958348611077652}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4051355182400376551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1685958348611077652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which genre combines elements of jazz and rock music?
+      TrueAnswer: Fusion
+      FalseAnswer:
+      - Country
+      - Hip Hop
+      - Classical
+      Explanation: Fusion is a genre that blends the improvisational nature of jazz
+        with the energy and instrumentation of rock music.
+    - Question: What genre fuses traditional African rhythms with electronic music?
+      TrueAnswer: Afrobeat
+      FalseAnswer:
+      - Reggae
+      - Salsa
+      - Blues
+      Explanation: Afrobeat is a genre that originated in Nigeria and combines traditional
+        African rhythms with elements of funk, jazz, and highlife.
+    - Question: Which genre mixes elements of punk rock and pop music?
+      TrueAnswer: Pop Punk
+      FalseAnswer:
+      - R&B
+      - Metal
+      - Reggaeton
+      Explanation: Pop punk is a genre that combines the catchy melodies and hooks
+        of pop music with the fast-paced and energetic sound of punk rock.
+    - Question: What genre blends traditional Indian music with electronic beats
+        and production?
+      TrueAnswer: Bhangra
+      FalseAnswer:
+      - Gospel
+      - Soul
+      - Folk
+      Explanation: Bhangra is a genre that originated in the Punjab region of India
+        and combines traditional Indian music with modern electronic beats and production.
+    - Question: Which genre fuses elements of hip hop and reggae music?
+      TrueAnswer: Reggaeton
+      FalseAnswer:
+      - Country
+      - Blues
+      - Classical
+      Explanation: Reggaeton is a genre that originated in Puerto Rico and combines
+        elements of hip hop, reggae, and Latin American music.
+    - Question: What genre combines elements of country music and rock music?
+      TrueAnswer: Country Rock
+      FalseAnswer:
+      - Jazz
+      - R&B
+      - Salsa
+      Explanation: Country rock is a genre that blends the instrumentation and storytelling
+        of country music with the energy and sound of rock music.
+    - Question: Which genre fuses elements of traditional Irish music with punk rock?
+      TrueAnswer: Celtic Punk
+      FalseAnswer:
+      - Pop
+      - Metal
+      - Hip Hop
+      Explanation: Celtic punk is a genre that combines the traditional melodies
+        and instruments of Irish music with the aggressive and rebellious sound of
+        punk rock.
+    - Question: What genre mixes elements of hip hop and soul music?
+      TrueAnswer: Neo-Soul
+      FalseAnswer:
+      - Reggae
+      - Classical
+      - Blues
+      Explanation: Neo-soul is a genre that blends the smooth vocals and soulful
+        melodies of traditional soul music with the rhythmic and lyrical elements
+        of hip hop.
+    - Question: Which genre fuses elements of heavy metal and electronic music?
+      TrueAnswer: Industrial Metal
+      FalseAnswer:
+      - Country
+      - Jazz
+      - Pop
+      Explanation: Industrial metal is a genre that combines the aggressive and heavy
+        sound of metal music with the electronic beats and production of industrial
+        music.
+    - Question: What genre blends elements of hip hop and jazz music?
+      TrueAnswer: Jazz Rap
+      FalseAnswer:
+      - Salsa
+      - Folk
+      - Reggae
+      Explanation: Jazz rap is a genre that combines the improvisational nature and
+        instrumentation of jazz with the rhythmic and lyrical elements of hip hop.
+    - Question: Which genre fuses elements of reggae and punk rock music?
+      TrueAnswer: Ska Punk
+      FalseAnswer:
+      - R&B
+      - Metal
+      - Classical
+      Explanation: Ska punk is a genre that combines the upbeat and energetic sound
+        of ska music with the aggressive and rebellious sound of punk rock.
+    - Question: What genre mixes elements of hip hop and electronic music?
+      TrueAnswer: Electro Hip Hop
+      FalseAnswer:
+      - Country
+      - Blues
+      - Pop
+      Explanation: Electro hip hop is a genre that blends the rhythmic and lyrical
+        elements of hip hop with the electronic beats and production of electronic
+        music.
+    - Question: Which genre fuses elements of traditional Japanese music with heavy
+        metal?
+      TrueAnswer: Visual Kei
+      FalseAnswer:
+      - Jazz
+      - R&B
+      - Salsa
+      Explanation: Visual kei is a genre that originated in Japan and combines the
+        visual aesthetics and theatrics of glam rock with the heavy sound of metal
+        music.
+    - Question: What genre combines elements of hip hop and trap music?
+      TrueAnswer: Trap Rap
+      FalseAnswer:
+      - Reggae
+      - Classical
+      - Blues
+      Explanation: Trap rap is a genre that blends the rhythmic and lyrical elements
+        of hip hop with the heavy bass and trap beats of trap music.
+    - Question: Which genre fuses elements of folk music and rock music?
+      TrueAnswer: Folk Rock
+      FalseAnswer:
+      - Country
+      - Jazz
+      - Pop
+      Explanation: Folk rock is a genre that combines the storytelling and acoustic
+        instruments of folk music with the energy and sound of rock music.
+    - Question: What genre mixes elements of hip hop and dance music?
+      TrueAnswer: Hip House
+      FalseAnswer:
+      - Reggae
+      - Metal
+      - Blues
+      Explanation: Hip house is a genre that blends the rhythmic and lyrical elements
+        of hip hop with the electronic beats and production of house music.
+    - Question: Which genre fuses elements of classical music and electronic music?
+      TrueAnswer: Classical Crossover
+      FalseAnswer:
+      - Country
+      - Jazz
+      - Pop
+      Explanation: Classical crossover is a genre that combines the traditional instrumentation
+        and composition of classical music with the electronic beats and production
+        of electronic music.
+    - Question: What genre combines elements of hip hop and funk music?
+      TrueAnswer: G-Funk
+      FalseAnswer:
+      - Reggae
+      - Classical
+      - Blues
+      Explanation: G-funk is a genre that blends the rhythmic and lyrical elements
+        of hip hop with the smooth and funky sound of funk music.
+    - Question: Which genre fuses elements of reggae and electronic music?
+      TrueAnswer: Dubstep
+      FalseAnswer:
+      - Country
+      - Jazz
+      - Pop
+      Explanation: Dubstep is a genre that originated in the UK and combines the
+        heavy bass and electronic beats of electronic music with the rhythmic elements
+        of reggae.
+    - Question: What genre mixes elements of hip hop and rock music?
+      TrueAnswer: Rap Rock
+      FalseAnswer:
+      - Salsa
+      - Folk
+      - Reggae
+      Explanation: Rap rock is a genre that combines the rhythmic and lyrical elements
+        of hip hop with the energy and sound of rock music.
+    - Question: Which genre fuses elements of traditional Latin American music with
+        hip hop?
+      TrueAnswer: Latin Hip Hop
+      FalseAnswer:
+      - R&B
+      - Metal
+      - Classical
+      Explanation: Latin hip hop is a genre that combines the rhythmic and lyrical
+        elements of hip hop with the traditional instruments and rhythms of Latin
+        American music.

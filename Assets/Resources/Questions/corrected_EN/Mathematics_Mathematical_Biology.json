@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the Fibonacci sequence used to model in population biology?",
+          "TrueAnswer": "Rabbits",
+          "FalseAnswer": [
+            "Fish",
+            "Bees",
+            "Birds"
+          ],
+          "Explanation": "The Fibonacci sequence can be used to model the population growth of rabbits in ideal conditions."
+        },
+        {
+          "Question": "What famous number sequence describes certain branching patterns found in nature?",
+          "TrueAnswer": "Fibonacci sequence",
+          "FalseAnswer": [
+            "Prime numbers",
+            "Fibonacci series",
+            "Golden ratio"
+          ],
+          "Explanation": "The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones."
+        },
+        {
+          "Question": "What is the Lotka-Volterra equation used to model?",
+          "TrueAnswer": "Predator-prey interactions",
+          "FalseAnswer": [
+            "Human population growth",
+            "Bacterial growth",
+            "Cancer growth"
+          ],
+          "Explanation": "The Lotka-Volterra equations describe the dynamics of biological systems in which two species interact, one as a predator and the other as prey."
+        },
+        {
+          "Question": "Which mathematical concept is applied to model the spread of diseases in a population?",
+          "TrueAnswer": "Differential equations",
+          "FalseAnswer": [
+            "Matrix multiplication",
+            "Linear regression",
+            "Pythagorean theorem"
+          ],
+          "Explanation": "Differential equations are used to model the spread of diseases in a population, taking into account factors such as infection rates and recovery rates."
+        },
+        {
+          "Question": "What is the main focus of mathematical ecology?",
+          "TrueAnswer": "Population dynamics",
+          "FalseAnswer": [
+            "Genetic algorithms",
+            "Network theory",
+            "Chaos theory"
+          ],
+          "Explanation": "Mathematical ecology primarily focuses on the study of populations and their interactions with the environment, including factors such as birth rates, death rates, and migration."
+        },
+        {
+          "Question": "What is the commonly used model to study continuous growth and decay of populations?",
+          "TrueAnswer": "Exponential growth model",
+          "FalseAnswer": [
+            "Logarithmic growth model",
+            "Linear growth model",
+            "Quadratic growth model"
+          ],
+          "Explanation": "The exponential growth model is often applied to study continuous growth and decay of populations, where the rate of change is proportional to the current population size."
+        },
+        {
+          "Question": "Which type of equation is often used to describe the logistic growth of populations?",
+          "TrueAnswer": "Logistic differential equation",
+          "FalseAnswer": [
+            "Quadratic equation",
+            "Cubic equation",
+            "Exponential equation"
+          ],
+          "Explanation": "The logistic differential equation is commonly used to describe the logistic growth of populations, taking into account factors such as carrying capacity and population density."
+        },
+        {
+          "Question": "What is the primary purpose of mathematical models in biological systems?",
+          "TrueAnswer": "Prediction and analysis",
+          "FalseAnswer": [
+            "Visualization and animation",
+            "Simulation and gaming",
+            "Optimization and design"
+          ],
+          "Explanation": "Mathematical models in biological systems are primarily used for predicting and analyzing the behavior and dynamics of biological phenomena, such as population growth or disease spread."
+        },
+        {
+          "Question": "Which concept uses graph theory to study the spread of information, diseases, or population dynamics?",
+          "TrueAnswer": "Network theory",
+          "FalseAnswer": [
+            "Chaos theory",
+            "Game theory",
+            "Number theory"
+          ],
+          "Explanation": "Network theory uses graph theory to study various types of networks, including social networks, transportation networks, and ecological networks, to understand the spread of information, diseases, or population dynamics."
+        },
+        {
+          "Question": "What is the primary mathematical tool used to analyze the stability of equilibrium points in population models?",
+          "TrueAnswer": "Eigenvalues",
+          "FalseAnswer": [
+            "Vector calculus",
+            "Inverse trigonometric functions",
+            "Bayesian statistics"
+          ],
+          "Explanation": "Eigenvalues are used to analyze the stability of equilibrium points in population models, providing insights into the behavior of populations near equilibrium."
+        },
+        {
+          "Question": "Which statistical concept is often applied to infer parameters in population models from limited data?",
+          "TrueAnswer": "Maximum likelihood estimation",
+          "FalseAnswer": [
+            "Mean square error",
+            "Central limit theorem",
+            "Hypothesis testing"
+          ],
+          "Explanation": "Maximum likelihood estimation is a method to infer unknown parameters in population models by maximizing the likelihood of the observed data, helping to find the most likely values for the model parameters."
+        },
+        {
+          "Question": "What type of competition involves resource use by different species in ecological models?",
+          "TrueAnswer": "Resource competition",
+          "FalseAnswer": [
+            "Predator-prey competition",
+            "Mating competition",
+            "Territorial competition"
+          ],
+          "Explanation": "Resource competition involves the competition for limited resources, such as food or nesting sites, among different species in ecological models, influencing population dynamics."
+        },
+        {
+          "Question": "Which statistical distribution is commonly used to describe the distribution of individuals in a population?",
+          "TrueAnswer": "Poisson distribution",
+          "FalseAnswer": [
+            "Normal distribution",
+            "Binomial distribution",
+            "Exponential distribution"
+          ],
+          "Explanation": "The Poisson distribution is often used to describe the distribution of individuals in a population over a given area or time period, particularly when events occur independently at a constant rate."
+        },
+        {
+          "Question": "What kind of relationship is typically modeled by the Michaelis-Menten equation in enzyme kinetics?",
+          "TrueAnswer": "Enzyme-substrate binding",
+          "FalseAnswer": [
+            "Competitive inhibition",
+            "Cooperative binding",
+            "Allosteric regulation"
+          ],
+          "Explanation": "The Michaelis-Menten equation describes the rate of enzymatic reactions and is used to model the typical relationship between enzyme and substrate during binding and catalysis."
+        },
+        {
+          "Question": "What mathematical concept is applied to model the interactions between genes and their regulatory elements?",
+          "TrueAnswer": "Boolean networks",
+          "FalseAnswer": [
+            "Vector fields",
+            "Taylor series",
+            "Fourier transforms"
+          ],
+          "Explanation": "Boolean networks are mathematical models used to study the interactions between genes and their regulatory elements, representing the on-off switching behavior of genes in regulatory networks."
+        },
+        {
+          "Question": "What type of equation is commonly used to describe the evolution of allele frequencies in populations?",
+          "TrueAnswer": "Hardy-Weinberg equation",
+          "FalseAnswer": [
+            "Quadratic equation",
+            "Exponential equation",
+            "Cubic equation"
+          ],
+          "Explanation": "The Hardy-Weinberg equation is a fundamental model in population genetics, used to describe the expected frequencies of genotypes in a population at equilibrium under specific conditions."
+        },
+        {
+          "Question": "What is the primary focus of spatial ecology in mathematical biology?",
+          "TrueAnswer": "Spatial patterning of populations",
+          "FalseAnswer": [
+            "Temporal dynamics of populations",
+            "Reproductive strategies",
+            "Community interactions"
+          ],
+          "Explanation": "Spatial ecology primarily focuses on understanding the spatial patterns and distribution of populations within ecological landscapes, taking into account factors such as habitat fragmentation and dispersal."
+        },
+        {
+          "Question": "Which concept uses differential geometry to model the shape and structure of biological surfaces and tissues?",
+          "TrueAnswer": "Morphological modeling",
+          "FalseAnswer": [
+            "Topological analysis",
+            "Fractal geometry",
+            "Geodesic curvature"
+          ],
+          "Explanation": "Morphological modeling utilizes differential geometry to study and simulate the shape and structure of biological surfaces and tissues, such as brain convolutions or vascular networks."
+        },
+        {
+          "Question": "What kind of mathematical models are used to study population genetics in conservation biology?",
+          "TrueAnswer": "Coalescent models",
+          "FalseAnswer": [
+            "Markov chain models",
+            "Game theory models",
+            "Epidemiological models"
+          ],
+          "Explanation": "Coalescent models are used in conservation biology to trace the evolutionary history of a population backward in time, helping to understand genetic diversity and population dynamics."
+        },
+        {
+          "Question": "Which mathematical concept is applied to analyze the spreading patterns of invasive species in biological ecosystems?",
+          "TrueAnswer": "Reaction-diffusion equations",
+          "FalseAnswer": [
+            "Partial differential equations",
+            "Stochastic processes",
+            "Chaotic dynamics"
+          ],
+          "Explanation": "Reaction-diffusion equations are used to study the spreading patterns of invasive species in biological ecosystems, considering both the diffusion and reaction processes that drive their expansion."
+        }
+      ]
+    }
+  ]
+}

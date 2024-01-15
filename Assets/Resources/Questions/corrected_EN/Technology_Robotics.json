@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the first known robot in history?",
+          "TrueAnswer": "The Antikythera Mechanism",
+          "FalseAnswer": [
+            "R.U.R.",
+            "ASIMO",
+            "Roomba"
+          ],
+          "Explanation": "The Antikythera Mechanism is an ancient Greek analogue computer and orrery used to predict astronomical positions and eclipses for calendrical and astrological purposes. It is considered one of the oldest known complex scientific devices."
+        },
+        {
+          "Question": "What is the term for the study and development of robots?",
+          "TrueAnswer": "Robotics",
+          "FalseAnswer": [
+            "Cybernetics",
+            "Nanotechnology",
+            "Biotechnology"
+          ],
+          "Explanation": "Robotics is a multidisciplinary field involving mechanical engineering, electrical engineering, computer science, and others, to design and build robots and study their behavior and functioning."
+        },
+        {
+          "Question": "Which company developed the robot dog 'Aibo'?",
+          "TrueAnswer": "Sony",
+          "FalseAnswer": [
+            "Boston Dynamics",
+            "SoftBank",
+            "iRobot"
+          ],
+          "Explanation": "Sony's Aibo is a series of robotic pets designed to mimic the behavior and intelligence of a dog. It was first introduced in 1999 and has since undergone several iterations and improvements."
+        },
+        {
+          "Question": "What is the term for a robot's ability to understand and respond to human emotions?",
+          "TrueAnswer": "Affective Computing",
+          "FalseAnswer": [
+            "Artificial Intelligence",
+            "Emotional Intelligence",
+            "Behavioral Robotics"
+          ],
+          "Explanation": "Affective computing is a branch of computer science that deals with creating systems and devices that can recognize, interpret, process, and simulate human affects. It aims to enable robots to perceive and respond to human emotions."
+        },
+        {
+          "Question": "What does the acronym 'AI' stand for in the context of robotics?",
+          "TrueAnswer": "Artificial Intelligence",
+          "FalseAnswer": [
+            "Advanced Invention",
+            "Automated Interaction",
+            "Adaptive Interface"
+          ],
+          "Explanation": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. In robotics, AI is crucial for enabling robots to learn from their environments and make decisions autonomously."
+        },
+        {
+          "Question": "Which robotics company developed the Baxter and Sawyer robots?",
+          "TrueAnswer": "Rethink Robotics",
+          "FalseAnswer": [
+            "Boston Dynamics",
+            "iRobot",
+            "UBTECH Robotics"
+          ],
+          "Explanation": "Rethink Robotics, founded by Rodney Brooks, developed the Baxter and Sawyer robots, which were designed to work alongside humans in industrial settings, performing tasks such as handling materials and assembling products."
+        },
+        {
+          "Question": "What is the term for a robot's ability to mimic or copy the actions of a human?",
+          "TrueAnswer": "Cobots",
+          "FalseAnswer": [
+            "Mimetic Robots",
+            "Replicant Machines",
+            "Humanoid Emulators"
+          ],
+          "Explanation": "Cobots, or collaborative robots, are designed to physically interact with humans in a shared workspace. They are intended to work alongside humans, assisting them in various tasks without the need for extensive programming."
+        },
+        {
+          "Question": "Who coined the term 'robot' in a play in 1920?",
+          "TrueAnswer": "Karel Čapek",
+          "FalseAnswer": [
+            "Isaac Asimov",
+            "Arthur C. Clarke",
+            "Philip K. Dick"
+          ],
+          "Explanation": "Karel Čapek, a Czech writer, introduced the term 'robot' in his play 'R.U.R.' ('Rossum's Universal Robots'). The word 'robot' comes from the Czech word 'robota', meaning 'forced labor'."
+        },
+        {
+          "Question": "What is the main function of the industrial robot 'Fanuc M-2000iA'?",
+          "TrueAnswer": "Heavy lifting",
+          "FalseAnswer": [
+            "Welding",
+            "Assembly",
+            "Painting"
+          ],
+          "Explanation": "Fanuc's M-2000iA is designed for heavy lifting and material handling tasks in industrial settings, capable of handling large and heavy objects with precision and efficiency."
+        },
+        {
+          "Question": "Which robot was famously featured in the 2015 science fiction film 'Ex Machina'?",
+          "TrueAnswer": "Ava",
+          "FalseAnswer": [
+            "C-3PO",
+            "Wall-E",
+            "Baymax"
+          ],
+          "Explanation": "'Ex Machina' depicts the story of a highly advanced humanoid robot named Ava, who possesses artificial intelligence and interacts with humans in a futuristic setting."
+        },
+        {
+          "Question": "What type of robot did Leonardo da Vinci design in the 15th century?",
+          "TrueAnswer": "Knight Automaton",
+          "FalseAnswer": [
+            "Flying Machine",
+            "Submarine",
+            "Mechanical Lion"
+          ],
+          "Explanation": "Leonardo da Vinci designed a mechanical knight automaton, which could sit, stand, and move its arms, head, and jaw. It was a groundbreaking invention for its time, showcasing early robotic principles."
+        },
+        {
+          "Question": "What was the first industrial robot designed for General Motors in 1961?",
+          "TrueAnswer": "Unimate",
+          "FalseAnswer": [
+            "PUMA",
+            "Baxter",
+            "UR5"
+          ],
+          "Explanation": "Unimate, developed by George Devol and Joseph Engelberger, was the first industrial robot used to perform tasks such as die-casting and spot welding at the General Motors plant. It revolutionized manufacturing processes by introducing automation."
+        },
+        {
+          "Question": "What is the humanoid robot created by Hanson Robotics and known for its realistic appearance?",
+          "TrueAnswer": "Sophia",
+          "FalseAnswer": [
+            "ASIMO",
+            "Pepper",
+            "Atlas"
+          ],
+          "Explanation": "Sophia, the brainchild of David Hanson, is a humanoid robot designed to interact with people, recognize faces, and engage in conversation. It has garnered attention for its lifelike appearance and advanced AI capabilities."
+        },
+        {
+          "Question": "Which programming language is commonly used for controlling robots in the ROS framework?",
+          "TrueAnswer": "C++",
+          "FalseAnswer": [
+            "Python",
+            "Java",
+            "Scala"
+          ],
+          "Explanation": "C++ is a widely used language for developing robot control software within the Robot Operating System (ROS) framework. It provides the speed and efficiency necessary for real-time processing and control of robotic systems."
+        },
+        {
+          "Question": "What software framework is commonly used for developing robot applications and research?",
+          "TrueAnswer": "ROS (Robot Operating System)",
+          "FalseAnswer": [
+            "MATLAB",
+            "LabVIEW",
+            "OpenCV"
+          ],
+          "Explanation": "ROS is a flexible and powerful open-source framework for building robotics applications. It provides a collection of tools, libraries, and conventions for simplifying the task of creating complex and robust robot behavior across a wide variety of platforms."
+        },
+        {
+          "Question": "Which scientist is often considered the 'father of modern robotics'?",
+          "TrueAnswer": "Joseph Engelberger",
+          "FalseAnswer": [
+            "Isaac Asimov",
+            "Nikola Tesla",
+            "Alan Turing"
+          ],
+          "Explanation": "Joseph Engelberger, an American engineer and entrepreneur, is known as the father of modern robotics for his pioneering work in industrial robotics and co-creation of the first industrial robot, Unimate, which revolutionized manufacturing automation."
+        },
+        {
+          "Question": "What was the first microcomputer-controlled industrial robot introduced in 1974?",
+          "TrueAnswer": "IRB 6",
+          "FalseAnswer": [
+            "PUMA",
+            "SCARA",
+            "UR5"
+          ],
+          "Explanation": "The IRB 6, developed by ASEA (now ABB), was the first microcomputer-controlled industrial robot. It represented a significant advancement in precision and versatility, leading to widespread adoption in manufacturing industries."
+        },
+        {
+          "Question": "What is the primary function of the medical robot 'da Vinci Surgical System'?",
+          "TrueAnswer": "Surgical procedures",
+          "FalseAnswer": [
+            "Physical therapy",
+            "Diagnostic imaging",
+            "Patient monitoring"
+          ],
+          "Explanation": "The da Vinci Surgical System is renowned for its use in minimally invasive surgical procedures, offering surgeons enhanced precision, control, and visualization during complex operations. It has revolutionized modern surgical practices."
+        },
+        {
+          "Question": "Which science fiction author introduced the 'Three Laws of Robotics'?",
+          "TrueAnswer": "Isaac Asimov",
+          "FalseAnswer": [
+            "Philip K. Dick",
+            "Arthur C. Clarke",
+            "H.G. Wells"
+          ],
+          "Explanation": "Isaac Asimov's 'Three Laws of Robotics' are a set of ethical rules designed to govern the behavior of robots and ensure their interactions with humans are safe and beneficial. They have significantly influenced the field of robotics and AI ethics."
+        },
+        {
+          "Question": "What is the largest and most powerful robot in the world, designed for assembling large structures?",
+          "TrueAnswer": "KUKA Titan",
+          "FalseAnswer": [
+            "Baxter",
+            "Boston Dynamics Atlas",
+            "UR5"
+          ],
+          "Explanation": "The KUKA Titan is a massive robotic system with a payload capacity of up to 1,000 kilograms. It is utilized for heavy-duty tasks such as assembling aircraft parts, ship components, and other large structures."
+        }
+      ]
+    }
+  ]
+}

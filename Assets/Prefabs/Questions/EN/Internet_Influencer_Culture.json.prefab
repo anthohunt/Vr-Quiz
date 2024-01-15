@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8836882791569688046
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7788213235534942395}
+  - component: {fileID: 7354934012190255581}
+  m_Layer: 0
+  m_Name: Internet_Influencer_Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7788213235534942395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8836882791569688046}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7354934012190255581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8836882791569688046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What does 'TFT' stand for in the context of gaming?
+      TrueAnswer: Teamfight Tactics
+      FalseAnswer:
+      - Terrific First Try
+      - Tactical Fantasy Tournament
+      - The Final Tournament
+      Explanation: Teamfight Tactics is an auto-battler game mode in 'League of Legends'
+        where players strategically build a team to compete against others.
+    - Question: Who is considered the 'Father of YouTube'?
+      TrueAnswer: Jawed Karim
+      FalseAnswer:
+      - Chad Hurley
+      - Steve Chen
+      - Mark Zuckerberg
+      Explanation: Jawed Karim is one of the co-founders of YouTube and uploaded
+        the first video, 'Me at the zoo', on April 23, 2005.
+    - Question: Which social media platform sparked the rise of TikTok influencers?
+      TrueAnswer: Musical.ly
+      FalseAnswer:
+      - Instagram
+      - Snapchat
+      - Twitter
+      Explanation: Musical.ly, a short-form video app, was later acquired by ByteDance
+        and rebranded as TikTok, attracting millions of influencers.
+    - Question: What is the main source of revenue for most influencers?
+      TrueAnswer: Brand partnerships
+      FalseAnswer:
+      - Ad revenue
+      - Merchandise sales
+      - Subscription services
+      Explanation: Brand partnerships, where influencers collaborate with companies
+        for sponsored content, are a significant income source.
+    - Question: Which platform introduced the concept of 'Stories'?
+      TrueAnswer: Snapchat
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - Pinterest
+      Explanation: Snapchat popularized the ephemeral content feature, 'Stories',
+        inspiring other platforms like Instagram and Facebook to adopt it.
+    - Question: What is the term for fake or purchased followers on social media?
+      TrueAnswer: Bots
+      FalseAnswer:
+      - Ghosts
+      - Spammers
+      - Trolls
+      Explanation: Bots are automated accounts created to mimic real users, often
+        used to inflate follower counts and engagement metrics.
+    - Question: Which of these is a popular platform for live streaming games and
+        content?
+      TrueAnswer: Twitch
+      FalseAnswer:
+      - YouTube
+      - Facebook Gaming
+      - Mixer
+      Explanation: Twitch is known for its live streaming of video games and esports
+        tournaments, attracting both gamers and influencers.
+    - Question: What is the phenomenon where influencers promote products without
+        disclosing paid partnerships?
+      TrueAnswer: Astroturfing
+      FalseAnswer:
+      - Covert Advertising
+      - Sponsored Seeding
+      - Influencer Whitewashing
+      Explanation: Astroturfing is the deceptive practice of creating the impression
+        of spontaneous grassroots support for a product or cause.
+    - Question: Which type of content is essential for an influencer to connect with
+        their audience?
+      TrueAnswer: Authenticity
+      FalseAnswer:
+      - Shock Value
+      - Visualization
+      - Glossy Editing
+      Explanation: Authenticity in content helps influencers build trust and credibility
+        with their audience, leading to stronger connections.
+    - Question: Who is the founder of the influencer marketing platform 'Famebit'?
+      TrueAnswer: David Kierzkowski
+      FalseAnswer:
+      - James Creech
+      - Rob Lissner
+      - Michael Miles
+      Explanation: David Kierzkowski co-founded Famebit, a platform that connects
+        influencers with brands for sponsorship opportunities.
+    - Question: What is the term for influencers endorsing products they don't actually
+        use or believe in?
+      TrueAnswer: Sponsored Content
+      FalseAnswer:
+      - Inauthentic Promotion
+      - Influencer Puffery
+      - Brand Endorsement
+      Explanation: Sponsored content refers to paid promotions, but influencer authenticity
+        can be compromised if they endorse irrelevant products.
+    - Question: Which of the following is a common metric for influencer performance?
+      TrueAnswer: Engagement rate
+      FalseAnswer:
+      - Follower count
+      - Reach
+      - Impressions
+      Explanation: Engagement rate measures the level of interaction and involvement
+        an influencer receives from their audience, indicating true influence.
+    - Question: What is the term for influencers purchasing products to feature as
+        their own?
+      TrueAnswer: Dropshipping
+      FalseAnswer:
+      - White-labeling
+      - Retail Arbitrage
+      - Affiliate Marketing
+      Explanation: Dropshipping involves influencers purchasing products directly
+        from the manufacturer and shipping them to customers without handling the
+        inventory.
+    - Question: Which social platform introduced the concept of 'influencer tags'
+        to label sponsored content?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Twitter
+      - LinkedIn
+      - Pinterest
+      Explanation: Instagram implemented 'paid partnership' tags to ensure transparency
+        and compliance with advertising regulations for sponsored posts.
+    - Question: What term describes influencers promoting themselves rather than
+        a particular brand or product?
+      TrueAnswer: Personal branding
+      FalseAnswer:
+      - Individual marketing
+      - Self-promotion strategy
+      - Influencer persona
+      Explanation: Personal branding involves influencers presenting themselves as
+        a distinct and marketable entity, often to attract brand partnerships.
+    - Question: What is the name for the process of paying a platform to boost an
+        influencer's content visibility?
+      TrueAnswer: Paid promotion
+      FalseAnswer:
+      - Boosted advertising
+      - Sponsored visibility
+      - Content amplification
+      Explanation: Paid promotions involve paying for increased visibility of content,
+        allowing influencers to reach a wider audience.
+    - Question: Which company is known for pioneering the concept of micro-influencers?
+      TrueAnswer: Ipsy
+      FalseAnswer:
+      - Huda Beauty
+      - Sephora
+      - MAC Cosmetics
+      Explanation: Ipsy leveraged the influence of everyday individuals to promote
+        beauty products, popularizing the concept of micro-influencers.
+    - Question: What term refers to the practice of influencers purchasing followers,
+        likes, or comments?
+      TrueAnswer: Social media fraud
+      FalseAnswer:
+      - Influence manipulation
+      - Follower farming
+      - Engagement inflating
+      Explanation: Social media fraud involves artificial inflation of metrics, misleading
+        brands and users about an influencer's true reach and impact.
+    - Question: Which platform introduced the 'Creator Marketplace' to connect brands
+        with influencers?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - LinkedIn
+      - Pinterest
+      - Snapchat
+      Explanation: Facebook's Creator Marketplace allows brands to discover and partner
+        with influencers for collaborations and sponsored content.
+    - Question: What term describes the process of an influencer gradually losing
+        their audience and influence?
+      TrueAnswer: Influencer decay
+      FalseAnswer:
+      - Audience erosion
+      - Follower attrition
+      - Influence dissolution
+      Explanation: Influencer decay refers to the decline in an influencer's reach
+        and impact, often due to changing trends or lack of innovation.

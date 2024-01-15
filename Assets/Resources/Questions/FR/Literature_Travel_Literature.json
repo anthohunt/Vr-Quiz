@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le livre de littérature de voyage le plus vendu de tous les temps?",
+            "TrueAnswer": "Sur la route de Jack Kerouac",
+            "FalseAnswer": [
+              "L'Alchimiste de Paulo Coelho",
+              "Mange, prie, aime d'Elizabeth Gilbert",
+              "Wild de Cheryl Strayed"
+            ],
+            "Explanation": "Publié en 1957, 'Sur la route' est une œuvre déterminante de la Beat Generation, connue pour explorer les thèmes de la liberté et de la rébellion."
+          },
+          {
+            "Question": "Qui a écrit 'Le Grand Bazar ferroviaire' documentant un voyage de Londres au Japon?",
+            "TrueAnswer": "Paul Theroux",
+            "FalseAnswer": [
+              "Bill Bryson",
+              "Ryszard Kapuscinski",
+              "Bruce Chatwin"
+            ],
+            "Explanation": "Le récit de voyage de 1975 de Paul Theroux a été pionnier dans le genre, décrivant les personnes et les lieux rencontrés au cours de son fascinant voyage en train."
+          },
+          {
+            "Question": "Quelle œuvre de voyage célèbre a été écrite par Mark Twain?",
+            "TrueAnswer": "Les Innocents à l'étranger",
+            "FalseAnswer": [
+              "Voyage avec Charley de John Steinbeck",
+              "Le Continent perdu de Bill Bryson",
+              "En Patagonie de Bruce Chatwin"
+            ],
+            "Explanation": "Publié en 1869, il narre les expériences et les aventures de Twain lors de son voyage en Europe et en Terre Sainte."
+          },
+          {
+            "Question": "Quel auteur a écrit 'Une année en Provence', un mémoire sur la restauration d'une maison en France?",
+            "TrueAnswer": "Peter Mayle",
+            "FalseAnswer": [
+              "Frances Mayes",
+              "Elizabeth Bard",
+              "Bill Bryson"
+            ],
+            "Explanation": "Le récit humoristique et charmant de Peter Mayle sur la vie en France rurale a captivé le cœur des lecteurs du monde entier."
+          },
+          {
+            "Question": "Quel est le sujet principal de 'Into the Wild' de Jon Krakauer?",
+            "TrueAnswer": "Christopher McCandless",
+            "FalseAnswer": [
+              "Faire de la moto à travers l'Amérique du Sud",
+              "Explorer le bush australien",
+              "Randonnée sur l'Appalachian Trail"
+            ],
+            "Explanation": "Krakauer présente l'histoire captivante et tragique de McCandless, qui s'est aventuré dans la nature sauvage de l'Alaska à la recherche de l'illumination."
+          },
+          {
+            "Question": "Quel explorateur a documenté son voyage périlleux à travers la forêt amazonienne?",
+            "TrueAnswer": "Percy Fawcett",
+            "FalseAnswer": [
+              "David Livingstone",
+              "Richard Francis Burton",
+              "Fridtjof Nansen"
+            ],
+            "Explanation": "Publié à titre posthume, 'La cité perdue de Z' de Fawcett raconte son obsession et sa disparition ultime alors qu'il cherchait une ville mythique."
+          },
+          {
+            "Question": "Qui a écrit 'Géographie de la félicité', une quête des endroits les plus heureux sur Terre?",
+            "TrueAnswer": "Eric Weiner",
+            "FalseAnswer": [
+              "Simon Winchester",
+              "John McPhee",
+              "Bill Bryson"
+            ],
+            "Explanation": "Le voyage de Weiner dans différents pays mêle humour et introspection, explorant l'essence du bonheur et les différences culturelles."
+          },
+          {
+            "Question": "Quel est le cadre de 'Sous le soleil de Toscane' de Frances Mayes?",
+            "TrueAnswer": "Toscane, Italie",
+            "FalseAnswer": [
+              "Provence, France",
+              "Santorin, Grèce",
+              "Côte Amalfitaine, Italie"
+            ],
+            "Explanation": "Mayes décrit ses expériences de rénovation d'une vieille villa en Toscane, dépeignant vividement la beauté captivante et la culture de la région."
+          },
+          {
+            "Question": "Quel livre retrace un voyage à travers différentes cuisines à travers le monde?",
+            "TrueAnswer": "Un tour du monde en cuisine d'Anthony Bourdain",
+            "FalseAnswer": [
+              "Cuisine et confidences d'Anthony Bourdain",
+              "Chaleur de Bill Buford",
+              "Ma vie en France de Julia Child"
+            ],
+            "Explanation": "Le récit culinaire de voyage de Bourdain englobe divers repas et cultures, mettant en valeur ses aventures éclectiques et son amour pour la nourriture."
+          },
+          {
+            "Question": "Qui a écrit 'Les Che Guevara Diaries', détaillant un voyage transformateur à travers l'Amérique du Sud?",
+            "TrueAnswer": "Ernesto Che Guevara",
+            "FalseAnswer": [
+              "Jack Kerouac",
+              "Paulo Coelho",
+              "José Saramago"
+            ],
+            "Explanation": "Le voyage révolutionnaire de Guevara l'a exposé à la pauvreté et à l'injustice de la région, façonnant ses futures idéologies révolutionnaires."
+          },
+          {
+            "Question": "Quelle œuvre littéraire dépeint un voyage en mer d'un an autour du monde?",
+            "TrueAnswer": "Seul autour du monde à la voile de Joshua Slocum",
+            "FalseAnswer": [
+              "Endurance d'Alfred Lansing",
+              "La Longue Route de Bernard Moitessier",
+              "Kon-Tiki de Thor Heyerdahl"
+            ],
+            "Explanation": "Le voyage en solitaire de Slocum à la fin des années 1800 l'a établi comme la première personne à avoir navigué seule autour du monde, capturant des aventures maritimes captivantes."
+          },
+          {
+            "Question": "Quel auteur a retracé une célèbre expédition africaine dans 'Safari Dark Star'?",
+            "TrueAnswer": "Paul Theroux",
+            "FalseAnswer": [
+              "Ryszard Kapuscinski",
+              "Bruce Chatwin",
+              "V. S. Naipaul"
+            ],
+            "Explanation": "L'odyssée africaine de Theroux explore les tourments politiques, la dépossession culturelle et les complexités de l'Afrique moderne, reflétant des expériences passées et présentes."
+          },
+          {
+            "Question": "Qui a documenté sa randonnée en solitaire du Pacific Crest Trail dans 'Wild'?",
+            "TrueAnswer": "Cheryl Strayed",
+            "FalseAnswer": [
+              "Elizabeth Gilbert",
+              "Rebecca Solnit",
+              "Frances Mayes"
+            ],
+            "Explanation": "Le mémoire de Strayed dépeint la découverte de soi, la guérison et l'autonomisation, racontant un voyage transformateur à travers des paysages accidentés, le chagrin et la rédemption."
+          },
+          {
+            "Question": "Quel ouvrage autobiographique raconte un voyage en Patagonie et dans les Andes?",
+            "TrueAnswer": "En Patagonie de Bruce Chatwin",
+            "FalseAnswer": [
+              "L'Express Patagonien de Paul Theroux",
+              "Les Lieux de l'Entre-deux de Rory Stewart",
+              "Tourner à droite à Machu Picchu de Mark Adams"
+            ],
+            "Explanation": "La narration innovante de Chatwin tisse histoire, mythe et expériences personnelles, créant une riche toile du dynamique paysage patagonien et de ses habitants."
+          },
+          {
+            "Question": "Quel récit de voyage capture un voyage dans les parcs nationaux emblématiques américains?",
+            "TrueAnswer": "Solitaire du désert d'Edward Abbey",
+            "FalseAnswer": [
+              "Autant en emporte la route de campagne de William Least Heat-Moon",
+              "Voyage avec Charley de John Steinbeck",
+              "Marcher pour écouter d'Andrew Forsthoefel"
+            ],
+            "Explanation": "Le récit passionné d'Abbey explore la connexion spirituelle avec la nature, faisant écho aux préoccupations environnementales et à la nécessité de préservation écologique."
+          },
+          {
+            "Question": "Quel est le sujet de 'L'Art du voyage' d'Alain de Botton?",
+            "TrueAnswer": "Réflexions philosophiques sur le voyage",
+            "FalseAnswer": [
+              "Un road trip à travers le pays",
+              "Cuisines culturelles à travers le monde",
+              "Exploration historique des ruines antiques"
+            ],
+            "Explanation": "Le récit contemplatif de De Botton explore l'impact émotionnel et psychologique du voyage, offrant des perspectives philosophiques et des réflexions sur nos perceptions du monde."
+          },
+          {
+            "Question": "Quel auteur a illustré son voyage en auto-stop à travers le pays dans 'Les routes secondaires bleues'?",
+            "TrueAnswer": "William Least Heat-Moon",
+            "FalseAnswer": [
+              "Jack Kerouac",
+              "Bill Bryson",
+              "Paul Theroux"
+            ],
+            "Explanation": "L'odyssée introspective de Heat-Moon à travers l'Amérique rurale révèle la beauté d'une vie simple, les rencontres culturelles et le lien avec la terre et ses habitants."
+          },
+          {
+            "Question": "Quel est le cadre principal de 'Voyage avec Charley' de John Steinbeck?",
+            "TrueAnswer": "États-Unis",
+            "FalseAnswer": [
+              "Europe",
+              "Asie",
+              "Amérique du Sud"
+            ],
+            "Explanation": "Le voyage introspectif de Steinbeck à travers les États-Unis avec son caniche, Charley, capture l'essence des paysages américains, des gens et des réflexions sociétales."
+          },
+          {
+            "Question": "Qui a rédigé 'Les Lieux de l'Entre-deux', relatant une marche à travers l'Afghanistan?",
+            "TrueAnswer": "Rory Stewart",
+            "FalseAnswer": [
+              "Bruce Chatwin",
+              "Peter Matthiessen",
+              "Bill Bryson"
+            ],
+            "Explanation": "La résilience et l'immergence culturelle de Stewart lors de sa marche ardue offrent un tableau poignant des divers paysages, populations et complexités géopolitiques de l'Afghanistan."
+          },
+          {
+            "Question": "Quel œuvre littéraire suit le voyage à vélo de l'auteur de l'Irlande à l'Inde?",
+            "TrueAnswer": "Les voyages de Jupiter de Ted Simon",
+            "FalseAnswer": [
+              "Zen et l'art de l'entretien des motos de Robert Pirsig",
+              "Train fantôme vers l'étoile orientale de Paul Theroux",
+              "Vagabondage de Rolf Potts"
+            ],
+            "Explanation": "L'odyssée épique de moto de Simon offre des perspectives profondes sur la diversité mondiale, les dynamiques sociétales et la quête universelle de connexions humaines au sein de paysages géographiques et culturels."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &914207309785902044
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3639230611741451698}
+  - component: {fileID: 5699871432039060650}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Cosmic Phenomena.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3639230611741451698
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914207309785902044}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5699871432039060650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914207309785902044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of about 86,881 miles.
+    - Question: What is the name of the galaxy that contains our solar system?
+      TrueAnswer: Milky Way
+      FalseAnswer:
+      - Andromeda
+      - Whirlpool
+      - Sombrero
+      Explanation: Our solar system is located in the Milky Way galaxy, which is
+        a barred spiral galaxy.
+    - Question: What is the phenomenon where a star explodes and becomes extremely
+        bright?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Black Hole
+      - Nebula
+      - Quasar
+      Explanation: A supernova is a powerful explosion that occurs at the end of
+        a star's life, releasing a tremendous amount of energy.
+    - Question: What is the name of the phenomenon where light is bent by a massive
+        object's gravity?
+      TrueAnswer: Gravitational Lensing
+      FalseAnswer:
+      - Redshift
+      - Dark Matter
+      - Cosmic Microwave Background
+      Explanation: Gravitational lensing is the bending of light by the gravitational
+        pull of a massive object, such as a galaxy or a black hole.
+    - Question: What is the name of the phenomenon where a black hole pulls in surrounding
+        matter?
+      TrueAnswer: Accretion
+      FalseAnswer:
+      - Eclipse
+      - Nova
+      - Supernova
+      Explanation: Accretion is the process by which a black hole pulls in and absorbs
+        surrounding matter, such as gas and dust.
+    - Question: What is the name of the phenomenon where a star collapses under its
+        own gravity?
+      TrueAnswer: Black Hole
+      FalseAnswer:
+      - White Dwarf
+      - Neutron Star
+      - Red Giant
+      Explanation: A black hole is formed when a massive star collapses under its
+        own gravity, creating a region of spacetime with extremely strong gravitational
+        forces.
+    - Question: What is the name of the phenomenon where a star emits a sudden burst
+        of energy?
+      TrueAnswer: Solar Flare
+      FalseAnswer:
+      - Comet
+      - Meteor
+      - Asteroid
+      Explanation: A solar flare is a sudden, intense burst of energy that occurs
+        on the surface of the Sun, releasing a large amount of radiation.
+    - Question: What is the name of the phenomenon where a planet passes in front
+        of a star?
+      TrueAnswer: Transit
+      FalseAnswer:
+      - Eclipse
+      - Occultation
+      - Conjunction
+      Explanation: A transit occurs when a planet passes in front of a star, causing
+        a slight decrease in the star's brightness as seen from Earth.
+    - Question: What is the name of the phenomenon where a planet or moon completely
+        blocks the light from a star?
+      TrueAnswer: Eclipse
+      FalseAnswer:
+      - Meteor Shower
+      - Aurora
+      - Zodiacal Light
+      Explanation: An eclipse occurs when a planet or moon passes between a star
+        and an observer, blocking the light from the star.
+    - Question: What is the name of the phenomenon where a comet's tail points away
+        from the Sun?
+      TrueAnswer: Solar Wind
+      FalseAnswer:
+      - Asteroid Belt
+      - Oort Cloud
+      - Kuiper Belt
+      Explanation: The solar wind is a stream of charged particles emitted by the
+        Sun, which pushes the tail of a comet away from the Sun.
+    - Question: What is the name of the phenomenon where a planet appears to move
+        backward in its orbit?
+      TrueAnswer: Retrograde Motion
+      FalseAnswer:
+      - Prograde Motion
+      - Orbital Precession
+      - Axial Tilt
+      Explanation: Retrograde motion is the apparent backward motion of a planet
+        in its orbit, as observed from Earth.
+    - Question: What is the name of the phenomenon where a star collapses and releases
+        a burst of energy?
+      TrueAnswer: Gamma Ray Burst
+      FalseAnswer:
+      - Solar Wind
+      - Stellar Evolution
+      - Planetary Nebula
+      Explanation: A gamma-ray burst is a highly energetic explosion that occurs
+        when a massive star collapses or when two neutron stars merge.
+    - Question: What is the name of the phenomenon where a star's brightness periodically
+        changes?
+      TrueAnswer: Variable Star
+      FalseAnswer:
+      - Binary Star
+      - Pulsar
+      - Redshift
+      Explanation: A variable star is a star whose brightness changes over time,
+        either due to intrinsic factors or external influences.
+    - Question: What is the name of the phenomenon where a star collapses and explodes,
+        releasing a shockwave?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nebula
+      - Quasar
+      - Red Giant
+      Explanation: A supernova is a powerful explosion that occurs at the end of
+        a star's life, releasing a shockwave of energy and creating new elements.
+    - Question: What is the name of the phenomenon where a star's core collapses
+        and becomes extremely dense?
+      TrueAnswer: Neutron Star
+      FalseAnswer:
+      - White Dwarf
+      - Black Hole
+      - Red Dwarf
+      Explanation: A neutron star is formed when a massive star's core collapses
+        under gravity, resulting in a highly dense object composed mainly of neutrons.
+    - Question: What is the name of the phenomenon where a star's outer layers expand
+        and cool?
+      TrueAnswer: Red Giant
+      FalseAnswer:
+      - Blue Supergiant
+      - White Dwarf
+      - Neutron Star
+      Explanation: A red giant is a large, luminous star that has exhausted its core
+        hydrogen fuel and has expanded and cooled.
+    - Question: What is the name of the phenomenon where a star's core fuses hydrogen
+        into helium?
+      TrueAnswer: Nuclear Fusion
+      FalseAnswer:
+      - Nuclear Fission
+      - Stellar Evolution
+      - Blackbody Radiation
+      Explanation: Nuclear fusion is the process by which a star's core fuses hydrogen
+        atoms together to form helium, releasing a tremendous amount of energy.
+    - Question: What is the name of the phenomenon where a star's light is stretched
+        towards longer wavelengths?
+      TrueAnswer: Redshift
+      FalseAnswer:
+      - Blueshift
+      - Doppler Effect
+      - Cosmic Microwave Background
+      Explanation: Redshift is the phenomenon where light from a distant object,
+        such as a galaxy, is stretched towards longer wavelengths due to the expansion
+        of the universe.
+    - Question: What is the name of the phenomenon where the universe rapidly expanded
+        after the Big Bang?
+      TrueAnswer: Inflation
+      FalseAnswer:
+      - Dark Energy
+      - Dark Matter
+      - Cosmic Microwave Background
+      Explanation: Inflation is the rapid expansion of the universe that occurred
+        shortly after the Big Bang, explaining the uniformity of the cosmic microwave
+        background radiation.
+    - Question: What is the name of the phenomenon where matter and energy are sucked
+        into a black hole?
+      TrueAnswer: Hawking Radiation
+      FalseAnswer:
+      - Event Horizon
+      - Singularity
+      - Spaghettification
+      Explanation: Hawking radiation is a theoretical prediction by physicist Stephen
+        Hawking, suggesting that black holes can emit particles and energy over time.

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but d'un lecteur d'écran dans la technologie d'assistance?",
+            "TrueAnswer": "Convertir le texte en discours pour les utilisateurs malvoyants.",
+            "FalseAnswer": [
+              "Traduire des langues pour les utilisateurs.",
+              "Projeter des images tactiles pour les utilisateurs.",
+              "Permettre des interactions avec un écran tactile pour les utilisateurs."
+            ],
+            "Explanation": "Les lecteurs d'écran fournissent des descriptions audibles du contenu à l'écran, permettant aux personnes malvoyantes d'accéder aux informations numériques."
+          },
+          {
+            "Question": "Quel dispositif d'entrée peut être utilisé avec la technologie de suivi oculaire?",
+            "TrueAnswer": "Tracker de regard oculaire.",
+            "FalseAnswer": [
+              "Manette de joystick.",
+              "Clavier et souris.",
+              "Pavé tactile."
+            ],
+            "Explanation": "Les trackers de regard oculaire permettent aux personnes ayant une mobilité réduite de contrôler un ordinateur ou de communiquer uniquement en utilisant les mouvements de leurs yeux."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'un exosquelette portable?",
+            "TrueAnswer": "Aider à la mobilité et à la rééducation physique.",
+            "FalseAnswer": [
+              "Améliorer les expériences de jeu.",
+              "Fournir des retours haptiques.",
+              "Surveiller les données de fitness et de santé."
+            ],
+            "Explanation": "Les exosquelettes portables sont conçus pour soutenir et augmenter les capacités physiques de l'utilisateur, en aidant principalement à la marche ou à se tenir debout."
+          },
+          {
+            "Question": "Quel est le but d'un commutateur sip-and-puff?",
+            "TrueAnswer": "Permettre le contrôle des appareils en utilisant l'entrée d'air.",
+            "FalseAnswer": [
+              "Mesurer la qualité de l'air.",
+              "Simuler des sensations de goût.",
+              "Réguler les paramètres de température."
+            ],
+            "Explanation": "Les commutateurs sip-and-puff permettent aux personnes à mobilité réduite d'effectuer différentes fonctions en inhalant et en expirant dans un embout buccal."
+          },
+          {
+            "Question": "Comment un système de sous-titrage codé soutient-il les utilisateurs ayant des déficiences auditives?",
+            "TrueAnswer": "En affichant du texte correspondant au dialogue ou à l'audio parlé.",
+            "FalseAnswer": [
+              "En amplifiant les volumes sonores.",
+              "En fournissant une interprétation en langue des signes.",
+              "En transmettant des vibrations pour des indices audio."
+            ],
+            "Explanation": "Les sous-titrages codés fournissent une représentation visuelle du contenu audio, permettant aux personnes malentendantes d'accéder aux informations dans les médias audiovisuels."
+          },
+          {
+            "Question": "Quel dispositif de substitution sensorielle convertit les informations visuelles en sensations tactiles?",
+            "TrueAnswer": "Le vOICe.",
+            "FalseAnswer": [
+              "La ceinture NavBelt.",
+              "Le BrainPort Vision Pro.",
+              "La caméra OrCam MyEye."
+            ],
+            "Explanation": "La technologie vOICe convertit les stimuli visuels en signaux auditifs, permettant aux utilisateurs malvoyants d'interpréter les scènes visuelles à travers des paysages sonores."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'un convertisseur texte-en-braille?",
+            "TrueAnswer": "Traduire un texte numérique en sortie braille.",
+            "FalseAnswer": [
+              "Générer des modèles imprimés en 3D.",
+              "Convertir la parole en texte écrit.",
+              "Fournir des retours haptiques pour les interactions tactiles."
+            ],
+            "Explanation": "Les convertisseurs texte-en-braille facilitent l'accès au contenu numérique pour les lecteurs en braille en transformant le texte électronique en sortie braille tactile."
+          },
+          {
+            "Question": "Quel type de capteur est couramment utilisé dans les membres prothétiques pour la détection de mouvement?",
+            "TrueAnswer": "Capteur EMG (électromyographie).",
+            "FalseAnswer": [
+              "Capteur d'accélération.",
+              "Capteur de température.",
+              "Capteur ultrasonique."
+            ],
+            "Explanation": "Les capteurs EMG détectent les signaux électriques des muscles, permettant un contrôle intuitif des membres prothétiques basé sur les mouvements musculaires de l'utilisateur."
+          },
+          {
+            "Question": "Comment fonctionne un commutateur d'assistance contrôlé par la langue?",
+            "TrueAnswer": "En utilisant les mouvements de la langue pour les commandes d'entrée.",
+            "FalseAnswer": [
+              "En interprétant les modèles d'ondes cérébrales.",
+              "En suivant les expressions du visage.",
+              "En reconnaissant les commandes vocales."
+            ],
+            "Explanation": "Les commutateurs contrôlés par la langue permettent aux personnes ayant un contrôle moteur limité de déclencher des appareils électroniques en déplaçant leur langue selon des modèles ou des positions spécifiques."
+          },
+          {
+            "Question": "Quel rôle un agrandisseur d'écran joue-t-il dans la technologie d'assistance?",
+            "TrueAnswer": "Agrandir le contenu à l'écran pour les personnes ayant une vision réduite.",
+            "FalseAnswer": [
+              "Filtrer les contrastes de couleurs pour une meilleure visibilité.",
+              "Créer des représentations visuelles en 3D.",
+              "Convertir du texte manuscrit en format numérique."
+            ],
+            "Explanation": "Les agrandisseurs d'écran aident les personnes ayant une vision réduite en augmentant la taille des éléments et du texte à l'écran, améliorant ainsi leur lisibilité et leur accessibilité."
+          },
+          {
+            "Question": "Quel type de système de contrôle environnemental peut être déclenché par des commandes vocales?",
+            "TrueAnswer": "Système d'automatisation domotique intelligent.",
+            "FalseAnswer": [
+              "Thermostat avec contrôles manuels.",
+              "Système d'éclairage activé par détecteur de mouvement.",
+              "Stores commandés à distance."
+            ],
+            "Explanation": "Les systèmes d'automatisation domotique intelligents permettent aux personnes ayant des difficultés de mobilité ou physiques de contrôler divers aspects de leur environnement domestique à l'aide de commandes vocales."
+          },
+          {
+            "Question": "Quel est le rôle principal d'un dispositif de navigation à l'écran dans la technologie d'assistance?",
+            "TrueAnswer": "Faciliter les interactions à l'écran pour les utilisateurs avec une mobilité manuelle limitée.",
+            "FalseAnswer": [
+              "Créer des projections holographiques.",
+              "Générer des cartes tactiles.",
+              "Convertir des signaux auditifs en indicateurs visuels."
+            ],
+            "Explanation": "Les dispositifs de navigation à l'écran, tels que les joysticks ou les trackballs, permettent aux personnes avec une dextérité manuelle limitée de contrôler les fonctions à l'écran et de naviguer dans les interfaces digitales."
+          },
+          {
+            "Question": "Quelle caractéristique commune des dispositifs de communication pour les personnes non verbales?",
+            "TrueAnswer": "Grilles de communication à base de symboles.",
+            "FalseAnswer": [
+              "Logiciel de synthèse de la parole en texte.",
+              "Capacités de reconnaissance d'écriture manuscrite.",
+              "Modulation de la voix et ajustement de la hauteur."
+            ],
+            "Explanation": "Les grilles de communication à base de symboles fournissent aux personnes non verbales un outil visuel structuré pour transmettre des messages et communiquer à l'aide de symboles ou d'images prédéfinis."
+          },
+          {
+            "Question": "Quelle fonction remplit un dispositif de technologie d'assistance contrôlé par l'esprit?",
+            "TrueAnswer": "Interpréter les signaux cérébraux pour contrôler des dispositifs externes.",
+            "FalseAnswer": [
+              "Induire une relaxation profonde à travers la thérapie sonore.",
+              "Améliorer les performances cognitives en utilisant la neurofeedback.",
+              "Analyser les schémas et la qualité du sommeil."
+            ],
+            "Explanation": "Les dispositifs de technologie d'assistance contrôlés par l'esprit exploitent les signaux cérébraux pour permettre aux personnes avec des handicaps physiques graves d'interagir avec et de contrôler des dispositifs ou des interfaces externes."
+          },
+          {
+            "Question": "Quelle capacité un aide cognitif soutient-il dans la technologie d'assistance?",
+            "TrueAnswer": "Amélioration de la mémoire et de la gestion des tâches.",
+            "FalseAnswer": [
+              "Augmentation de la force physique.",
+              "Amélioration de la dextérité pour les mouvements fins.",
+              "Optimisation de la perception sensorielle."
+            ],
+            "Explanation": "Les aides cognitives aident les personnes ayant des problèmes liés à la mémoire en fournissant des outils pour l'organisation, les rappels et la gestion des tâches afin d'améliorer le fonctionnement quotidien et l'indépendance."
+          },
+          {
+            "Question": "Comment un capteur de proximité bénéficie-t-il aux utilisateurs d'aides à la mobilité?",
+            "TrueAnswer": "En détectant les obstacles et en évitant les collisions.",
+            "FalseAnswer": [
+              "En fournissant une navigation GPS en temps réel.",
+              "En surveillant le rythme cardiaque et la pression artérielle.",
+              "En alertant sur les conditions météorologiques défavorables."
+            ],
+            "Explanation": "Les capteurs de proximité intégrés aux aides à la mobilité aident à prévenir les accidents en détectant les obstacles proches et en alertant l'utilisateur de collisions ou d'obstructions potentielles."
+          },
+          {
+            "Question": "Quel est le but principal d'un système d'alerte portable dans la technologie d'assistance?",
+            "TrueAnswer": "Notifier les soignants ou les services d'urgence en cas de problèmes médicaux.",
+            "FalseAnswer": [
+              "Suivre l'activité physique et les niveaux de forme physique.",
+              "Fournir une assistance en temps réel pour la traduction linguistique.",
+              "Générer des environnements sonores immersifs."
+            ],
+            "Explanation": "Les systèmes d'alerte portables offrent un filet de sécurité en alertant automatiquement les contacts désignés ou les services d'urgence lorsque le porteur nécessite de l'aide en cas d'urgence médicale ou d'événements liés à la santé."
+          },
+          {
+            "Question": "Quel type de dispositif d'entrée peut être utilisé en conjonction avec un joystick actionné par la bouche?",
+            "TrueAnswer": "Souris contrôlée par la tête.",
+            "FalseAnswer": [
+              "Clavier actionné par les pieds.",
+              "Télécommande activée par la voix.",
+              "Capteur de reconnaissance de gestes manuels."
+            ],
+            "Explanation": "Les joysticks actionnés par la bouche, souvent utilisés par des personnes ayant une mobilité manuelle limitée, peuvent être combinés avec des souris contrôlées par la tête pour étendre la gamme des interactions informatiques accessibles."
+          },
+          {
+            "Question": "Quel est le rôle principal d'un clavier adaptatif dans la technologie d'assistance?",
+            "TrueAnswer": "Personnaliser les agencements de touches et s'adapter aux besoins individuels.",
+            "FalseAnswer": [
+              "Permettre une configuration à double écran sur un seul ordinateur.",
+              "Projeter des interfaces de clavier virtuel.",
+              "Enregistrer et rejouer des rythmes de frappe personnalisés."
+            ],
+            "Explanation": "Les claviers adaptatifs offrent des agencements et des fonctionnalités de touches personnalisables pour répondre aux besoins et préférences uniques des personnes avec divers défis de contrôle moteur."
+          }
+        ]
+      }
+    }
+  ]
+}

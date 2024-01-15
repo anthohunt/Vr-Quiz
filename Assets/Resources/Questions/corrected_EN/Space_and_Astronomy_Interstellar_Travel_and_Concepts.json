@@ -1,0 +1,198 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the estimated distance to Alpha Centauri, the closest star system to Earth?",
+          "TrueAnswer": "4.37 light years",
+          "FalseAnswer": [
+            "50 light years",
+            "10 light years",
+            "2 light years"
+          ],
+          "Explanation": "Alpha Centauri is approximately 4.37 light years away, making it the closest star system to Earth."
+        },
+        {
+          "Question": "What was the first spacecraft to reach interstellar space?",
+          "TrueAnswer": "Voyager 1",
+          "FalseAnswer": [
+            "Pioneer 10",
+            "New Horizons",
+            "Cassini"
+          ],
+          "Explanation": "Voyager 1, launched by NASA in 1977, became the first spacecraft to enter interstellar space in 2012."
+        },
+        {
+          "Question": "What is the estimated travel time to reach Proxima Centauri, the closest exoplanet-hosting star?",
+          "TrueAnswer": "17,000 years",
+          "FalseAnswer": [
+            "10 years",
+            "100 years",
+            "1,000 years"
+          ],
+          "Explanation": "With current technology, it would take approximately 17,000 years to reach Proxima Centauri, making interstellar travel a significant challenge."
+        },
+        {
+          "Question": "What is the concept of using a laser to propel tiny spacecraft for interstellar travel?",
+          "TrueAnswer": "Photon propulsion",
+          "FalseAnswer": [
+            "Nuclear propulsion",
+            "Antimatter propulsion",
+            "Ion propulsion"
+          ],
+          "Explanation": "Photon propulsion, also known as laser propulsion, is a theoretical concept for interstellar travel using light beams to accelerate small spacecraft to high speeds."
+        },
+        {
+          "Question": "What is the theoretical concept for bending space-time to enable faster-than-light travel?",
+          "TrueAnswer": "Warp drive",
+          "FalseAnswer": [
+            "Hyperspace engine",
+            "Quantum tunneling",
+            "Subspace jump"
+          ],
+          "Explanation": "Warp drive, popularized in science fiction, is a hypothetical concept that could potentially allow spacecraft to bypass the traditional limitations of the speed of light by warping space-time."
+        },
+        {
+          "Question": "What is the concept of traveling through wormholes to bridge distant regions of space?",
+          "TrueAnswer": "Wormhole transportation",
+          "FalseAnswer": [
+            "Teleportation matrix",
+            "Hyperloop tunnel",
+            "Temporal vortex"
+          ],
+          "Explanation": "Wormholes, also known as Einstein-Rosen bridges, are hypothetical passages through space-time that could create shortcuts for interstellar travel, although their practicality remains purely theoretical."
+        },
+        {
+          "Question": "What is the potential advantage of using antimatter as a fuel source for interstellar propulsion?",
+          "TrueAnswer": "High energy density",
+          "FalseAnswer": [
+            "Low cost",
+            "Inexhaustible supply",
+            "Minimal radiation"
+          ],
+          "Explanation": "Antimatter possesses the highest energy density of any known fuel source, making it a theoretically efficient option for achieving the high speeds necessary for interstellar travel."
+        },
+        {
+          "Question": "What is the concept of using a Starshot to propel tiny spacecraft for interstellar exploration?",
+          "TrueAnswer": "Breakthrough Starshot",
+          "FalseAnswer": [
+            "Solar Sail",
+            "Stellar Wind Accelerator",
+            "Cosmic Cannon"
+          ],
+          "Explanation": "Breakthrough Starshot is a proposed initiative to develop a fleet of small, lightweight spacecraft propelled by powerful lasers to reach nearby star systems within our lifetime."
+        },
+        {
+          "Question": "What is the estimated distance to the nearest potentially habitable exoplanet, Proxima Centauri b?",
+          "TrueAnswer": "4.24 light years",
+          "FalseAnswer": [
+            "10 light years",
+            "1,000 light years",
+            "100 light years"
+          ],
+          "Explanation": "Proxima Centauri b, the closest known exoplanet in the habitable zone, orbits the star Proxima Centauri at a distance of approximately 4.24 light years from Earth."
+        },
+        {
+          "Question": "What is the primary challenge of achieving realistic interstellar travel within human lifespan?",
+          "TrueAnswer": "Limited speed",
+          "FalseAnswer": [
+            "Cosmic radiation",
+            "Resource scarcity",
+            "NullOrEmpty"
+          ],
+          "Explanation": "The primary obstacle to interstellar travel is the immense distances involved and the current inability to travel at speeds necessary to reach other star systems within a human lifespan."
+        },
+        {
+          "Question": "What is the concept of using magnetic sails for propulsion in interstellar travel?",
+          "TrueAnswer": "Magnetospheric sail",
+          "FalseAnswer": [
+            "Gravitational sail",
+            "Plasma sail",
+            "Aerodynamic sail"
+          ],
+          "Explanation": "Magnetospheric sails, also known as magnetic sails, use the pressure of solar wind or magnetic fields to propel spacecraft, offering a potential method for interstellar propulsion."
+        },
+        {
+          "Question": "What is the concept of unfurling a huge mirror to capture the light of distant stars for propulsion?",
+          "TrueAnswer": "Stellar mirror",
+          "FalseAnswer": [
+            "Luminous sail",
+            "Radiant reflector",
+            "Cosmic collector"
+          ],
+          "Explanation": "Stellar mirrors, a proposed method for propulsion, would rely on unfurling a massive mirror in space to capture and reflect starlight, providing a potential means of interstellar propulsion."
+        },
+        {
+          "Question": "What is the concept of using nuclear explosions for propulsion in interstellar travel?",
+          "TrueAnswer": "Project Orion",
+          "FalseAnswer": [
+            "Neptune Fusion",
+            "Plutonium Pulse",
+            "Saturn Stratagem"
+          ],
+          "Explanation": "Project Orion was a theoretical spacecraft propulsion concept that involved using nuclear detonations to propel a spacecraft, although it was never developed beyond initial research due to proliferation concerns."
+        },
+        {
+          "Question": "What is the estimated travel time to reach the nearest star, Proxima Centauri, with current technology?",
+          "TrueAnswer": "Tens of thousands of years",
+          "FalseAnswer": [
+            "1 year",
+            "100 years",
+            "1,000 years"
+          ],
+          "Explanation": "With conventional propulsion, it would take tens of thousands of years to reach Proxima Centauri, highlighting the significant time and energy requirements for interstellar travel."
+        },
+        {
+          "Question": "What is the concept of using a solar sail for propulsion in interstellar travel?",
+          "TrueAnswer": "Photon sail",
+          "FalseAnswer": [
+            "Plasma sail",
+            "Aerodynamic sail",
+            "Tachyon sail"
+          ],
+          "Explanation": "Solar sails, also known as photon sails, utilize the pressure of solar radiation to propel spacecraft, offering a potential method for interstellar travel without the need for traditional fuels."
+        },
+        {
+          "Question": "What is the estimated distance to the farthest human-made object, Voyager 1, as of 2021?",
+          "TrueAnswer": "14 billion miles",
+          "FalseAnswer": [
+            "5 billion miles",
+            "25 billion miles",
+            "50 billion miles"
+          ],
+          "Explanation": "As of 2021, Voyager 1, the farthest human-made object, is approximately 14 billion miles away from Earth, continuing its journey into interstellar space."
+        },
+        {
+          "Question": "What is the estimated distance to the nearest star, Proxima Centauri, from the perspective of light travel time?",
+          "TrueAnswer": "4.24 years",
+          "FalseAnswer": [
+            "1 year",
+            "10 years",
+            "100 years"
+          ],
+          "Explanation": "In terms of light travel time, the distance to Proxima Centauri is approximately 4.24 years, emphasizing the vast scale of interstellar distances."
+        },
+        {
+          "Question": "What is the proposed theoretical concept for creating a stable artificial wormhole for interstellar travel?",
+          "TrueAnswer": "Exotic matter stabilization",
+          "FalseAnswer": [
+            "Magnetic field anchoring",
+            "Quantum entanglement anchoring",
+            "Tachyon field stability"
+          ],
+          "Explanation": "Theoretical models suggest that exotic matter, possessing negative energy density, could potentially stabilize a traversable wormhole for interstellar travel, although the required exotic matter remains purely hypothetical."
+        },
+        {
+          "Question": "What is the estimated distance to the Andromeda Galaxy, the closest spiral galaxy to the Milky Way?",
+          "TrueAnswer": "2.537 million light years",
+          "FalseAnswer": [
+            "1 million light years",
+            "5 million light years",
+            "10 million light years"
+          ],
+          "Explanation": "The Andromeda Galaxy, our closest neighbor, is approximately 2.537 million light years away, making it the closest spiral galaxy to the Milky Way."
+        }
+      ]
+    }
+  ]
+}

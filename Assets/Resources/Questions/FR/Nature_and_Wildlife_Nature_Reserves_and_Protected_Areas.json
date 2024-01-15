@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle zone est souvent dédiée à la protection d'un grand nombre d'espèces endémiques ?",
+            "TrueAnswer": "Réserve d'espèces endémiques",
+            "FalseAnswer": [
+              "Zone marine protégée",
+              "Parc national",
+              "Zone sauvage"
+            ],
+            "Explanation": "Une Réserve d'espèces endémiques se concentre sur la conservation d'espèces uniques que l'on ne trouve que dans des zones géographiques spécifiques."
+          },
+          {
+            "Question": "Quel est le but principal d'une Zone marine protégée ?",
+            "TrueAnswer": "Conservation marine",
+            "FalseAnswer": [
+              "Développement touristique",
+              "Pêche industrielle",
+              "Navigation commerciale"
+            ],
+            "Explanation": "Les Zones marines protégées visent à protéger les écosystèmes marins, les habitats et les espèces, et à promouvoir une pêche et un tourisme durables."
+          },
+          {
+            "Question": "Quelle zone met l'accent sur la préservation de l'habitat naturel et de la faune avec une intervention humaine minimale ?",
+            "TrueAnswer": "Zone sauvage",
+            "FalseAnswer": [
+              "Réserve de biosphère",
+              "Zone de conservation",
+              "Site du patrimoine mondial"
+            ],
+            "Explanation": "Les Zones sauvages sont généralement non développées, offrant un refuge pour la flore et la faune pour prospérer sans perturbation humaine significative."
+          },
+          {
+            "Question": "Dans quel type de réserve la recherche scientifique et l'éducation ne sont-elles pas un objectif central ?",
+            "TrueAnswer": "Réserve de biosphère",
+            "FalseAnswer": [
+              "Réserve de chasse",
+              "Réserve zoologique",
+              "Jardin botanique"
+            ],
+            "Explanation": "Les Réserves de biosphère mettent l'accent sur le développement durable et l'éducation environnementale en plus de la conservation et de la recherche scientifique."
+          },
+          {
+            "Question": "Quel est l'objectif principal d'une Zone de conservation ?",
+            "TrueAnswer": "Conservation des ressources naturelles",
+            "FalseAnswer": [
+              "Monument naturel",
+              "Refuge faunique",
+              "Réserve de zones humides"
+            ],
+            "Explanation": "Les Zones de conservation sont conçues pour équilibrer les efforts de conservation avec une utilisation durable des ressources, comme les pratiques de chasse et de cueillette traditionnelles."
+          },
+          {
+            "Question": "Quel est l'objectif principal d'une Réserve de zones humides ?",
+            "TrueAnswer": "Conservation des zones humides",
+            "FalseAnswer": [
+              "Protection des montagnes",
+              "Restauration du désert",
+              "Préservation de la forêt tropicale"
+            ],
+            "Explanation": "Les Réserves de zones humides visent à préserver et restaurer les écosystèmes de zones humides critiques, fournissant des habitats essentiels pour une flore et une faune diversifiées."
+          },
+          {
+            "Question": "Quelle zone protège principalement des caractéristiques géologiques spécifiques ou des zones d'intérêt écologique ?",
+            "TrueAnswer": "Site du patrimoine géologique",
+            "FalseAnswer": [
+              "Couloir de faune",
+              "Zone de reboisement",
+              "Zone de contrôle de l'érosion"
+            ],
+            "Explanation": "Les Sites du patrimoine géologique protègent des caractéristiques géologiques ou géomorphologiques significatives, garantissant la conservation de paysages naturels distinctifs."
+          },
+          {
+            "Question": "Dans quel type de réserve la préservation d'espèces animales spécifiques est-elle l'objectif central ?",
+            "TrueAnswer": "Refuge faunique",
+            "FalseAnswer": [
+              "Site du patrimoine culturel",
+              "Zone d'observation des oiseaux",
+              "Zone de reproduction des insectes"
+            ],
+            "Explanation": "Les Réserves fauniques offrent un refuge pour les espèces vulnérables ou en voie de disparition, les protégeant de la chasse, du braconnage et de la destruction de l'habitat."
+          },
+          {
+            "Question": "Quel est le but principal d'une Zone d'observation des oiseaux ?",
+            "TrueAnswer": "Observation aviaire",
+            "FalseAnswer": [
+              "Construction d'une volière",
+              "Conservation des mammifères",
+              "Exposition de reptiles"
+            ],
+            "Explanation": "Les Zones d'observation des oiseaux sont établies pour faciliter l'observation et l'étude de différentes espèces d'oiseaux dans leurs habitats naturels, soutenant l'écotourisme et les efforts de conservation."
+          },
+          {
+            "Question": "Quelle zone est consacrée à la préservation de sites historiques ou culturels dans des paysages naturels ?",
+            "TrueAnswer": "Site du patrimoine culturel",
+            "FalseAnswer": [
+              "Réserve de formation géologique",
+              "Musée maritime",
+              "Zone de reproduction des amphibiens"
+            ],
+            "Explanation": "Les Sites du patrimoine culturel protègent les sites archéologiques ou historiques, les pratiques culturelles traditionnelles ou les connaissances autochtones au sein de paysages naturels ou mixtes."
+          }
+        ]
+      }
+    }
+  ]
+}

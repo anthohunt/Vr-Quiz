@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &216121835447581215
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4582603013095470941}
+  - component: {fileID: 6502706037225265130}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Positivity_and_Optimism_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4582603013095470941
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 216121835447581215}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6502706037225265130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 216121835447581215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of the quote 'The only way to do great work is
+        to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Elon Musk
+      - Bill Gates
+      - Mark Zuckerberg
+      Explanation: This quote is attributed to Steve Jobs, co-founder of Apple Inc.,
+        known for his passion for innovation and creativity.
+    - Question: Which famous author said, 'In the end, everything will be okay. If
+        it's not okay, it's not the end'?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - J.K. Rowling
+      - Ernest Hemingway
+      - Maya Angelou
+      Explanation: John Lennon, the legendary musician and member of the Beatles,
+        is credited with this optimistic and comforting quote.
+    - Question: Who is known for the quote, 'Believe you can and you're halfway there'?
+      TrueAnswer: Theodore Roosevelt
+      FalseAnswer:
+      - Abraham Lincoln
+      - Winston Churchill
+      - Franklin D. Roosevelt
+      Explanation: Theodore Roosevelt, the 26th President of the United States, emphasized
+        the importance of self-belief and determination.
+    - Question: Which influential figure said, 'The only way to do great work is
+        to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Nelson Mandela
+      - Oprah Winfrey
+      - Malala Yousafzai
+      Explanation: Steve Jobs, the visionary co-founder of Apple, emphasized the
+        significance of passion in achieving remarkable success.
+    - Question: Who famously said, 'Keep your face always toward the sunshine - and
+        shadows will fall behind you'?
+      TrueAnswer: Walt Whitman
+      FalseAnswer:
+      - Emily Dickinson
+      - Ralph Waldo Emerson
+      - Mark Twain
+      Explanation: Walt Whitman, a celebrated American poet, expressed the idea of
+        staying positive and focusing on the bright side of life.
+    - Question: Which influential leader is known for the quote, 'I have not failed.
+        I've just found 10,000 ways that won't work'?
+      TrueAnswer: Thomas Edison
+      FalseAnswer:
+      - Napoleon Bonaparte
+      - Alexander the Great
+      - Genghis Khan
+      Explanation: Thomas Edison, the prolific inventor, emphasized the value of
+        perseverance and learning from setbacks.
+    - Question: Who is known for the quote, 'In the middle of difficulty lies opportunity'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Stephen Hawking
+      - Marie Curie
+      Explanation: Albert Einstein, the renowned physicist, highlighted the potential
+        for growth and progress during challenging times.
+    - Question: Which famous comedian is known for the quote, 'You'll have bad times,
+        but it'll always wake you up to the good stuff you weren't paying attention
+        to'?
+      TrueAnswer: Robin Williams
+      FalseAnswer:
+      - Jim Carrey
+      - Ellen DeGeneres
+      - Chris Rock
+      Explanation: Robin Williams, the beloved actor and comedian, shared this insightful
+        perspective on the silver lining in difficult experiences.
+    - Question: Who emphasized the importance of optimism with the quote, 'Optimism
+        is the faith that leads to achievement'?
+      TrueAnswer: Helen Keller
+      FalseAnswer:
+      - Anne Sullivan
+      - Rosa Parks
+      - Amelia Earhart
+      Explanation: Helen Keller, an inspirational author and activist, expressed
+        the link between optimism and accomplishing one's goals.
+    - Question: Which influential figure is known for saying, 'It's not the years
+        in your life that count. It's the life in your years'?
+      TrueAnswer: Abraham Lincoln
+      FalseAnswer:
+      - George Washington
+      - Thomas Jefferson
+      - John F. Kennedy
+      Explanation: This uplifting quote is attributed to Abraham Lincoln, the 16th
+        President of the United States, emphasizing the quality of life over mere
+        existence.
+    - Question: 'Who is known for the quote, ''Success is not final, failure is not
+        fatal: It''s the courage to continue that counts''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Napoleon Bonaparte
+      - Margaret Thatcher
+      - Ronald Reagan
+      Explanation: Winston Churchill, the iconic British Prime Minister, emphasized
+        resilience and perseverance in the face of adversity.
+    - Question: Which famous author said, 'The best way to predict the future is
+        to create it'?
+      TrueAnswer: Peter Drucker
+      FalseAnswer:
+      - Stephen Covey
+      - Dale Carnegie
+      - John C. Maxwell
+      Explanation: Peter Drucker, a renowned management consultant, expressed the
+        proactive approach to shaping one's future with this quote.
+    - Question: Who is known for the quote, 'The only limit to our realization of
+        tomorrow will be our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Theodore Roosevelt
+      - Barack Obama
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        highlighted the role of self-assurance in shaping the future.
+    - Question: Which prominent leader emphasized hope with the quote, 'We must accept
+        finite disappointment, but never lose infinite hope'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Nelson Mandela
+      - Mahatma Gandhi
+      - Winston Churchill
+      Explanation: Martin Luther King Jr., a key figure in the American civil rights
+        movement, advocated for unwavering hope in the face of challenges.
+    - Question: Who famously said, 'You are never too old to set another goal or
+        to dream a new dream'?
+      TrueAnswer: C.S. Lewis
+      FalseAnswer:
+      - J.R.R. Tolkien
+      - J.K. Rowling
+      - George R.R. Martin
+      Explanation: C.S. Lewis, the esteemed author of 'The Chronicles of Narnia',
+        encouraged perpetual aspirations and the pursuit of new dreams.
+    - Question: Which renowned leader is known for the quote, 'The best way to find
+        yourself is to lose yourself in the service of others'?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Nelson Mandela
+      - Mother Teresa
+      - Dalai Lama
+      Explanation: Mahatma Gandhi, the influential advocate for nonviolence, highlighted
+        self-discovery through selfless service in this quote.
+    - Question: Who is known for the quote, 'Positive thinking will let you do everything
+        better than negative thinking will'?
+      TrueAnswer: Zig Ziglar
+      FalseAnswer:
+      - Tony Robbins
+      - Brian Tracy
+      - Napoleon Hill
+      Explanation: Zig Ziglar, a renowned motivational speaker, emphasized the power
+        of positive thinking in achieving excellence and success.
+    - Question: Which famous author emphasized optimism with the quote, 'We may encounter
+        many defeats but we must not be defeated'?
+      TrueAnswer: Maya Angelou
+      FalseAnswer:
+      - Harper Lee
+      - Toni Morrison
+      - Alice Walker
+      Explanation: Maya Angelou, a remarkable poet and author, conveyed the resilience
+        and strength needed to overcome adversity.
+    - Question: Who is known for the quote, 'The only way to do great work is to
+        love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Jeff Bezos
+      - Elon Musk
+      - Bill Gates
+      Explanation: This quote is attributed to Steve Jobs, co-founder of Apple Inc.,
+        known for his passion for innovation and creativity.

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8588729902858501680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8456607547655558593}
+  - component: {fileID: 1138069568964597129}
+  m_Layer: 0
+  m_Name: History_History_of_Philosophy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8456607547655558593
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8588729902858501680}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1138069568964597129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8588729902858501680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the father of Western philosophy?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates is often regarded as the founder of Western philosophy
+        and the first moral philosopher of the Western ethical tradition.
+    - Question: Where was the philosopher Plato from?
+      TrueAnswer: Athens
+      FalseAnswer:
+      - Sparta
+      - Thebes
+      - Rome
+      Explanation: Plato was an Athenian philosopher, mathematician, student of Socrates,
+        and the teacher of Aristotle.
+    - Question: Who wrote 'The Republic', a cornerstone of political philosophy?
+      TrueAnswer: Plato
+      FalseAnswer:
+      - Aristotle
+      - Socrates
+      - Seneca
+      Explanation: Plato's 'The Republic' is a Socratic dialogue, presenting the
+        discussion of justice and the ideal city-state led by philosopher-kings.
+    - Question: What was the famous philosophical school founded by Aristotle?
+      TrueAnswer: Lyceum
+      FalseAnswer:
+      - Academy
+      - Stoa
+      - Epicurus' Garden
+      Explanation: Aristotle founded the Lyceum in 335 BC, where he taught his philosophical
+        theories and conducted research in various disciplines.
+    - Question: Which ancient philosopher coined the term 'cogito, ergo sum' (I think,
+        therefore I am)?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Aristotle
+      - Plato
+      - Socrates
+      Explanation: "Ren\xE9 Descartes, a 17th-century philosopher, introduced the
+        concept to demonstrate the certainty of one's own existence."
+    - Question: Who wrote 'Meditations', a series of personal writings concerning
+        ideas on Stoic philosophy?
+      TrueAnswer: Marcus Aurelius
+      FalseAnswer:
+      - Seneca
+      - Epictetus
+      - Plato
+      Explanation: Marcus Aurelius, a Roman emperor and Stoic philosopher, wrote
+        'Meditations' as a source for his own guidance and self-improvement.
+    - Question: Which philosophical tradition emphasized the importance of reason
+        and logic in understanding the world?
+      TrueAnswer: Rationalism
+      FalseAnswer:
+      - Empiricism
+      - Existentialism
+      - Nihilism
+      Explanation: Rationalism advocates that reason and innate ideas are the primary
+        sources of knowledge, contrasting with empiricism's emphasis on experience
+        and sense perception.
+    - Question: Who is known for the concept of the 'categorical imperative' in ethical
+        philosophy?
+      TrueAnswer: Immanuel Kant
+      FalseAnswer:
+      - John Stuart Mill
+      - David Hume
+      - Friedrich Nietzsche
+      Explanation: Immanuel Kant's 'categorical imperative' established an unconditional
+        moral obligation based on pure reason and the concept of duty.
+    - Question: Which Enlightenment philosopher advocated for the separation of church
+        and state?
+      TrueAnswer: Voltaire
+      FalseAnswer:
+      - Rousseau
+      - Locke
+      - Hobbes
+      Explanation: Voltaire, a prominent figure of the Enlightenment, championed
+        civil liberties, including freedom of religion and separation of church and
+        state.
+    - Question: Who is credited with developing the concept of the 'veil of ignorance'
+        in political philosophy?
+      TrueAnswer: John Rawls
+      FalseAnswer:
+      - Thomas Hobbes
+      - Jean-Jacques Rousseau
+      - John Locke
+      Explanation: John Rawls' 'veil of ignorance' presents a method for determining
+        the fairest principles in the distribution of rights, opportunities, and
+        social benefits.

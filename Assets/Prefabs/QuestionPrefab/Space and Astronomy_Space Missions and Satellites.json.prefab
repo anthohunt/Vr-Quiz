@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5636322853039565118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9205314232450743387}
+  - component: {fileID: 5245329526305962071}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Space Missions and Satellites.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9205314232450743387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5636322853039565118}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5245329526305962071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5636322853039565118}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is the largest planet in our solar system, known for its
+        massive size and iconic Great Red Spot.
+    - Question: Which planet is known as the 'Red Planet'?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Mercury
+      - Uranus
+      Explanation: Mars is often referred to as the 'Red Planet' due to its reddish
+        appearance caused by iron oxide on its surface.
+    - Question: What is the name of the first satellite launched into space?
+      TrueAnswer: Sputnik 1
+      FalseAnswer:
+      - Explorer 1
+      - Vostok 1
+      - Apollo 11
+      Explanation: Sputnik 1 was the first artificial satellite launched into space
+        by the Soviet Union on October 4, 1957.
+    - Question: Which space mission successfully landed humans on the Moon?
+      TrueAnswer: Apollo 11
+      FalseAnswer:
+      - Mercury-Redstone 3
+      - Gemini 4
+      - Vostok 1
+      Explanation: Apollo 11 was the historic mission that landed the first humans,
+        Neil Armstrong and Buzz Aldrin, on the Moon on July 20, 1969.
+    - Question: What is the name of the space telescope launched by NASA in 1990?
+      TrueAnswer: Hubble Space Telescope
+      FalseAnswer:
+      - Spitzer Space Telescope
+      - Chandra X-ray Observatory
+      - James Webb Space Telescope
+      Explanation: The Hubble Space Telescope, launched in 1990, has provided breathtaking
+        images and valuable scientific data about the universe.
+    - Question: Which planet has the most moons in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Uranus
+      - Neptune
+      Explanation: Jupiter has the most moons in our solar system, with over 79 known
+        moons orbiting around it.
+    - Question: What is the name of the first satellite to orbit Mars?
+      TrueAnswer: Mariner 9
+      FalseAnswer:
+      - Viking 1
+      - Mars Global Surveyor
+      - Mars Odyssey
+      Explanation: Mariner 9 was the first satellite to successfully orbit Mars,
+        providing valuable data about the planet's surface and atmosphere.
+    - Question: Which space mission sent the first woman into space?
+      TrueAnswer: Vostok 6
+      FalseAnswer:
+      - Mercury-Redstone 3
+      - Gemini 4
+      - Apollo 11
+      Explanation: Vostok 6, launched by the Soviet Union, carried Valentina Tereshkova,
+        the first woman to travel to space, on June 16, 1963.
+    - Question: What is the name of the first space shuttle launched by NASA?
+      TrueAnswer: Columbia
+      FalseAnswer:
+      - Challenger
+      - Discovery
+      - Atlantis
+      Explanation: Columbia was the first space shuttle launched by NASA on April
+        12, 1981, marking the beginning of the Space Shuttle program.
+    - Question: Which planet is known for its beautiful rings?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Jupiter
+      - Uranus
+      - Neptune
+      Explanation: Saturn is famous for its stunning ring system, composed of ice
+        particles, rocks, and dust, encircling the planet.
+    - Question: What is the name of the first satellite to be launched into geostationary
+        orbit?
+      TrueAnswer: Syncom 3
+      FalseAnswer:
+      - Telstar 1
+      - Explorer 1
+      - Vostok 1
+      Explanation: Syncom 3, launched by NASA in 1964, was the first satellite to
+        achieve geostationary orbit, allowing continuous communication coverage.
+    - Question: Which space mission sent the first American into space?
+      TrueAnswer: Mercury-Redstone 3
+      FalseAnswer:
+      - Gemini 4
+      - Apollo 11
+      - Vostok 1
+      Explanation: Mercury-Redstone 3, also known as Freedom 7, carried Alan Shepard,
+        the first American astronaut, into space on May 5, 1961.
+    - Question: What is the name of the first satellite to be launched by the European
+        Space Agency?
+      TrueAnswer: Ariel 1
+      FalseAnswer:
+      - Rosetta
+      - Herschel
+      - Gaia
+      Explanation: Ariel 1, launched by the European Space Agency in 1962, was the
+        first satellite operated by the agency.
+    - Question: Which space mission sent the first human to orbit the Earth?
+      TrueAnswer: Vostok 1
+      FalseAnswer:
+      - Mercury-Redstone 3
+      - Gemini 4
+      - Apollo 11
+      Explanation: Vostok 1, launched by the Soviet Union, carried Yuri Gagarin,
+        the first human to orbit the Earth, on April 12, 1961.
+    - Question: What is the name of the first satellite to be launched by Japan?
+      TrueAnswer: Osumi
+      FalseAnswer:
+      - Hayabusa
+      - Akatsuki
+      - Kaguya
+      Explanation: Osumi, launched by Japan in 1970, was the first satellite to be
+        successfully launched by the country.
+    - Question: Which space mission sent the first American woman into space?
+      TrueAnswer: STS-7
+      FalseAnswer:
+      - Mercury-Redstone 3
+      - Gemini 4
+      - Apollo 11
+      Explanation: STS-7, part of the Space Shuttle program, carried Sally Ride,
+        the first American woman astronaut, into space on June 18, 1983.
+    - Question: What is the name of the first satellite to be launched by China?
+      TrueAnswer: Dong Fang Hong 1
+      FalseAnswer:
+      - Chang'e 1
+      - Tiangong 1
+      - Shenzhou 5
+      Explanation: Dong Fang Hong 1, launched by China in 1970, was the first satellite
+        to be successfully launched by the country.
+    - Question: Which space mission sent the first spacecraft to land on a comet?
+      TrueAnswer: Rosetta
+      FalseAnswer:
+      - Viking 1
+      - Mars Pathfinder
+      - Apollo 11
+      Explanation: Rosetta, launched by the European Space Agency, successfully landed
+        the Philae spacecraft on comet 67P/Churyumov-Gerasimenko in 2014.
+    - Question: What is the name of the first satellite to be launched by India?
+      TrueAnswer: Aryabhata
+      FalseAnswer:
+      - Chandrayaan-1
+      - Mangalyaan
+      - GSLV Mk III
+      Explanation: Aryabhata, launched by India in 1975, was the first satellite
+        to be successfully launched by the country.
+    - Question: Which space mission sent the first human to walk on the Moon?
+      TrueAnswer: Apollo 11
+      FalseAnswer:
+      - Mercury-Redstone 3
+      - Gemini 4
+      - Vostok 1
+      Explanation: Apollo 11, launched by NASA, allowed Neil Armstrong to become
+        the first human to set foot on the Moon on July 20, 1969.

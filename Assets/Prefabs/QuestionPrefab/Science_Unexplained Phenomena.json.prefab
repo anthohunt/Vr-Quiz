@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6109023813624897366
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5695370551193220011}
+  - component: {fileID: 2368426863763920333}
+  m_Layer: 0
+  m_Name: Science_Unexplained Phenomena.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5695370551193220011
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6109023813624897366}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2368426863763920333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6109023813624897366}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the mysterious area in the Bermuda Triangle?
+      TrueAnswer: Devil's Triangle
+      FalseAnswer:
+      - Dragon's Triangle
+      - Ghost's Triangle
+      - Witch's Triangle
+      Explanation: The Bermuda Triangle, also known as the Devil's Triangle, is a
+        region in the western part of the North Atlantic Ocean where numerous aircraft
+        and ships have disappeared under mysterious circumstances.
+    - Question: Which famous landmark is associated with the phenomenon of spontaneous
+        human combustion?
+      TrueAnswer: St. Peter's Basilica
+      FalseAnswer:
+      - Eiffel Tower
+      - Great Wall of China
+      - Taj Mahal
+      Explanation: Spontaneous human combustion is an unexplained phenomenon where
+        a person suddenly bursts into flames without an apparent external source
+        of ignition. St. Peter's Basilica is one of the reported locations.
+    - Question: What is the name of the alleged extraterrestrial spacecraft crash
+        site in Roswell, New Mexico?
+      TrueAnswer: Area 51
+      FalseAnswer:
+      - Hangar 18
+      - S-4 Facility
+      - Groom Lake
+      Explanation: The Roswell UFO incident refers to the alleged crash of an extraterrestrial
+        spacecraft in 1947 near Roswell, New Mexico. Area 51 is often associated
+        with this event.
+    - Question: Which creature is said to inhabit the Loch Ness in Scotland?
+      TrueAnswer: Nessie
+      FalseAnswer:
+      - Bigfoot
+      - Chupacabra
+      - Mothman
+      Explanation: Nessie, also known as the Loch Ness Monster, is a legendary creature
+        said to inhabit Loch Ness, a large freshwater lake in the Scottish Highlands.
+    - Question: What is the name of the mysterious radio signal from space discovered
+        in 2007?
+      TrueAnswer: Fast Radio Burst
+      FalseAnswer:
+      - Cosmic Microwave Background
+      - Solar Flare
+      - Pulsar
+      Explanation: Fast Radio Bursts (FRBs) are brief, intense pulses of radio waves
+        from unknown sources in space. They were first discovered in 2007.
+    - Question: Which ancient monument is associated with the unexplained phenomenon
+        of levitation?
+      TrueAnswer: Stonehenge
+      FalseAnswer:
+      - Pyramids of Giza
+      - Machu Picchu
+      - Colosseum
+      Explanation: Levitation is the alleged ability to defy gravity and float in
+        mid-air. Stonehenge, a prehistoric monument in England, has been linked to
+        this phenomenon.
+    - Question: What is the name of the unexplained phenomenon where objects move
+        on their own?
+      TrueAnswer: Telekinesis
+      FalseAnswer:
+      - Telepathy
+      - Clairvoyance
+      - Precognition
+      Explanation: Telekinesis, also known as psychokinesis, is the alleged ability
+        to move objects with the power of the mind, without physical contact.
+    - Question: Which city is associated with the unexplained phenomenon of the Tunguska
+        event?
+      TrueAnswer: Siberia
+      FalseAnswer:
+      - Tokyo
+      - New York
+      - Paris
+      Explanation: The Tunguska event was a powerful explosion that occurred near
+        the Podkamennaya Tunguska River in Siberia, Russia, in 1908.
+    - Question: What is the name of the unexplained phenomenon where people vanish
+        without a trace?
+      TrueAnswer: Missing 411
+      FalseAnswer:
+      - Alien Abduction
+      - Time Travel
+      - Parallel Universe
+      Explanation: Missing 411 refers to a series of unexplained disappearances of
+        people in national parks and forests, often under mysterious circumstances.
+    - Question: Which celestial body is associated with the unexplained phenomenon
+        of the Wow! signal?
+      TrueAnswer: Sagittarius
+      FalseAnswer:
+      - Andromeda
+      - Orion
+      - Ursa Major
+      Explanation: The Wow! signal was a strong narrowband radio signal detected
+        by astronomer Jerry R. Ehman in 1977 while working on a SETI project. It
+        originated from the direction of the Sagittarius constellation.
+    - Question: What is the name of the unexplained phenomenon where people experience
+        missing time?
+      TrueAnswer: Time Slip
+      FalseAnswer:
+      - Time Dilation
+      - Time Loop
+      - Time Warp
+      Explanation: Time slips are unexplained events where individuals claim to have
+        experienced a temporal discrepancy, often resulting in missing time or time
+        travel-like experiences.
+    - Question: Which ancient civilization is associated with the unexplained phenomenon
+        of the Nazca Lines?
+      TrueAnswer: Nazca
+      FalseAnswer:
+      - Maya
+      - Inca
+      - Egyptian
+      Explanation: The Nazca Lines are a series of ancient geoglyphs located in the
+        Nazca Desert of southern Peru. Their purpose and creation remain a mystery.
+    - Question: What is the name of the unexplained phenomenon where people have
+        near-death experiences?
+      TrueAnswer: NDE
+      FalseAnswer:
+      - OBE
+      - ESP
+      - PKE
+      Explanation: Near-death experiences (NDEs) are reported phenomena where individuals
+        have vivid and often transformative experiences during a close brush with
+        death.
+    - Question: Which natural phenomenon is associated with the unexplained phenomenon
+        of ball lightning?
+      TrueAnswer: Thunderstorms
+      FalseAnswer:
+      - Earthquakes
+      - Tornadoes
+      - Auroras
+      Explanation: Ball lightning is a rare and unexplained atmospheric phenomenon
+        often associated with thunderstorms, where glowing spheres of light appear
+        and move erratically.
+    - Question: What is the name of the unexplained phenomenon where people have
+        out-of-body experiences?
+      TrueAnswer: Astral Projection
+      FalseAnswer:
+      - Lucid Dreaming
+      - Remote Viewing
+      - Bilocation
+      Explanation: Astral projection, also known as out-of-body experiences, is the
+        alleged ability to separate one's consciousness from the physical body and
+        travel to different locations.
+    - Question: Which ancient civilization is associated with the unexplained phenomenon
+        of the Bermuda Triangle?
+      TrueAnswer: Atlantis
+      FalseAnswer:
+      - Ancient Greece
+      - Rome
+      - Egypt
+      Explanation: The Bermuda Triangle is sometimes linked to the lost city of Atlantis,
+        a mythical civilization said to have vanished under mysterious circumstances.
+    - Question: What is the name of the unexplained phenomenon where people have
+        premonitions of future events?
+      TrueAnswer: Precognition
+      FalseAnswer:
+      - Deja Vu
+      - Clairvoyance
+      - Telepathy
+      Explanation: Precognition is the alleged ability to perceive or predict future
+        events before they happen, often through dreams or intuitive feelings.
+    - Question: Which celestial body is associated with the unexplained phenomenon
+        of the Marfa Lights?
+      TrueAnswer: Earth
+      FalseAnswer:
+      - Mars
+      - Venus
+      - Jupiter
+      Explanation: The Marfa Lights are unexplained glowing orbs or lights that appear
+        in the night sky near Marfa, Texas. Their origin is still debated.
+    - Question: What is the name of the unexplained phenomenon where people communicate
+        with spirits?
+      TrueAnswer: Mediumship
+      FalseAnswer:
+      - Necromancy
+      - Witchcraft
+      - Sorcery
+      Explanation: Mediumship is the alleged ability to communicate with spirits
+        of the deceased, often through a person known as a medium or psychic.
+    - Question: Which ancient monument is associated with the unexplained phenomenon
+        of the Easter Island statues?
+      TrueAnswer: Rapa Nui
+      FalseAnswer:
+      - Angkor Wat
+      - Stonehenge
+      - Machu Picchu
+      Explanation: The Easter Island statues, also known as moai, are monolithic
+        human figures carved by the Rapa Nui people on Easter Island. Their purpose
+        and methods of construction remain a mystery.
+    - Question: What is the name of the unexplained phenomenon where people have
+        telepathic abilities?
+      TrueAnswer: ESP
+      FalseAnswer:
+      - PK
+      - OBE
+      - NDE
+      Explanation: ESP, or extrasensory perception, is the alleged ability to acquire
+        information through means other than the known senses, such as telepathy
+        or clairvoyance.

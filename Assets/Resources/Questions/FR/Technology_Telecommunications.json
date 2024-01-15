@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la vitesse maximale d'un réseau 4G LTE standard?",
+            "TrueAnswer": "100 Mbps",
+            "FalseAnswer": [
+              "50 Mbps",
+              "200 Mbps",
+              "500 Mbps"
+            ],
+            "Explanation": "Les réseaux 4G LTE peuvent atteindre des vitesses allant jusqu'à 100 Mbps dans des conditions idéales, les rendant plus rapides que la 3G mais plus lents que la 5G."
+          },
+          {
+            "Question": "Quelle technologie utilise la VoIP pour transmettre des appels téléphoniques sur Internet?",
+            "TrueAnswer": "IP",
+            "FalseAnswer": [
+              "ISDN",
+              "GSM",
+              "CDMA"
+            ],
+            "Explanation": "La VoIP, ou Voix sur protocole Internet (VoIP), utilise le protocole Internet (IP) pour transmettre des communications vocales via Internet."
+          },
+          {
+            "Question": "Quelle est la plage de fréquences des réseaux Wi-Fi traditionnels en gigahertz (GHz)?",
+            "TrueAnswer": "2,4 GHz",
+            "FalseAnswer": [
+              "5 GHz",
+              "1 GHz",
+              "3 GHz"
+            ],
+            "Explanation": "Les réseaux Wi-Fi traditionnels fonctionnent dans la plage de fréquences de 2,4 GHz, offrant une bonne portée mais potentiellement plus d'interférences avec d'autres appareils."
+          },
+          {
+            "Question": "Quel type de câbles est couramment utilisé pour transmettre des signaux audio et vidéo numériques?",
+            "TrueAnswer": "HDMI",
+            "FalseAnswer": [
+              "VGA",
+              "S/PDIF",
+              "RCA"
+            ],
+            "Explanation": "Les câbles HDMI (Interface multimédia haute définition) sont largement utilisés pour transmettre des signaux audio et vidéo numériques de haute qualité entre des appareils tels que des téléviseurs et des lecteurs multimédias."
+          },
+          {
+            "Question": "Quel est le rôle d'une adresse MAC dans un réseau de télécommunications?",
+            "TrueAnswer": "Identification de l'appareil",
+            "FalseAnswer": [
+              "Chiffrement des données",
+              "Routage du réseau",
+              "Modulation du signal"
+            ],
+            "Explanation": "Une adresse MAC (adresse de contrôle d'accès au support) est utilisée pour identifier de manière unique les appareils de réseau pour la communication dans un environnement de réseau local, tel qu'Ethernet ou Wi-Fi."
+          },
+          {
+            "Question": "Quel type de modulation est principalement utilisé dans les réseaux cellulaires 4G et 5G?",
+            "TrueAnswer": "OFDM",
+            "FalseAnswer": [
+              "AM",
+              "FM",
+              "PM"
+            ],
+            "Explanation": "La modulation par déplacement orthogonal de fréquence (OFDM) est la principale technique de modulation utilisée dans les réseaux cellulaires modernes tels que la 4G LTE et la 5G, permettant une transmission efficace des données dans les canaux sans fil."
+          },
+          {
+            "Question": "Quel est le débit de données maximal d'un câble Ethernet standard (en Mbps)?",
+            "TrueAnswer": "1000 Mbps",
+            "FalseAnswer": [
+              "500 Mbps",
+              "100 Mbps",
+              "10 Gbps"
+            ],
+            "Explanation": "Un câble Ethernet standard, communément appelé Cat 5e ou Cat 6, peut prendre en charge des débits de données allant jusqu'à 1000 Mbps, également appelé Ethernet Gigabit."
+          },
+          {
+            "Question": "Quelle organisation est responsable de définir les normes mondiales des télécommunications?",
+            "TrueAnswer": "UIT",
+            "FalseAnswer": [
+              "IEEE",
+              "ISO",
+              "FCC"
+            ],
+            "Explanation": "L'Union internationale des télécommunications (UIT) est l'agence spécialisée des Nations unies chargée de définir les normes mondiales pour les télécommunications et les technologies de l'information et de la communication."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'un routeur dans un réseau informatique?",
+            "TrueAnswer": "Transfert de paquets",
+            "FalseAnswer": [
+              "Stockage de données",
+              "Dissipation de chaleur",
+              "Distribution d'énergie"
+            ],
+            "Explanation": "Les routeurs gèrent le transfert de paquets de données entre différents réseaux, déterminant le meilleur chemin pour que les paquets atteignent leur destination à travers un réseau interconnecté complexe."
+          },
+          {
+            "Question": "Quelle technologie sans fil est couramment utilisée pour l'échange de données à courte portée entre les appareils?",
+            "TrueAnswer": "Bluetooth",
+            "FalseAnswer": [
+              "NFC",
+              "WiMax",
+              "Zigbee"
+            ],
+            "Explanation": "La technologie Bluetooth est largement utilisée pour la communication à courte portée entre les appareils, tels que les smartphones, les écouteurs et les périphériques informatiques, utilisant la bande de fréquence de 2,4 GHz."
+          },
+          {
+            "Question": "Quelle est la fonction principale du DNS dans les systèmes de télécommunications et de réseau?",
+            "TrueAnswer": "Résolution des noms de domaine",
+            "FalseAnswer": [
+              "Chiffrement des données",
+              "Façonnage du trafic",
+              "Modulation du signal"
+            ],
+            "Explanation": "Le système de noms de domaine (DNS) résout les noms de domaine en adresses IP, permettant aux utilisateurs d'accéder à des sites Web et à d'autres services de réseau à l'aide de noms de domaine faciles à retenir au lieu d'adresses IP complexes."
+          },
+          {
+            "Question": "Quel système de navigation par satellite fournit des informations de positionnement et de temps à l'échelle mondiale?",
+            "TrueAnswer": "GPS",
+            "FalseAnswer": [
+              "GLONASS",
+              "Galileo",
+              "BeiDou"
+            ],
+            "Explanation": "Le système de positionnement mondial (GPS) est un système de navigation par satellite détenu et exploité par le gouvernement des États-Unis, fournissant des services de positionnement et de synchronisation précis dans le monde entier."
+          },
+          {
+            "Question": "Quel est le protocole standard utilisé pour la communication sécurisée sur Internet?",
+            "TrueAnswer": "HTTPS",
+            "FalseAnswer": [
+              "FTP",
+              "SMTP",
+              "TELNET"
+            ],
+            "Explanation": "HTTPS (protocole de transfert hypertexte sécurisé) est le protocole standard pour la communication sécurisée sur Internet, garantissant la confidentialité et l'intégrité des données transmises entre les serveurs web et les clients."
+          },
+          {
+            "Question": "Quel est un type courant de connecteur à fibre optique utilisé dans les télécommunications?",
+            "TrueAnswer": "LC",
+            "FalseAnswer": [
+              "RJ45",
+              "USB",
+              "Thunderbolt"
+            ],
+            "Explanation": "Le connecteur LC (Lucent Connector) est un type courant de connecteur à fibre optique utilisé dans les applications de télécommunications et de communication de données, connu pour sa taille compacte et sa faible perte par insertion."
+          },
+          {
+            "Question": "En télécommunications, que signifie l'acronyme 'DSL'?",
+            "TrueAnswer": "Digital Subscriber Line",
+            "FalseAnswer": [
+              "Data Storage Locator",
+              "Dynamic Security Layer",
+              "Lien de signal numérique"
+            ],
+            "Explanation": "DSL, ou Digital Subscriber Line, est une technologie qui permet l'accès à Internet haut débit via les lignes téléphoniques en cuivre traditionnelles, permettant des communications de données et de voix simultanées."
+          },
+          {
+            "Question": "Quelle est la portée maximale d'une connexion sans fil Bluetooth typique (en mètres)?",
+            "TrueAnswer": "10 mètres",
+            "FalseAnswer": [
+              "100 mètres",
+              "1 mètre",
+              "50 mètres"
+            ],
+            "Explanation": "La portée typique d'une connexion sans fil Bluetooth est d'environ 10 mètres, permettant la communication à courte portée entre des appareils à proximité."
+          },
+          {
+            "Question": "Quel protocole est couramment utilisé pour envoyer et recevoir des messages électroniques sur Internet?",
+            "TrueAnswer": "SMTP",
+            "FalseAnswer": [
+              "SSH",
+              "POP3",
+              "IMAP"
+            ],
+            "Explanation": "Le protocole de transfert de courrier simple (SMTP) est le protocole standard utilisé pour envoyer et recevoir des messages électroniques sur Internet, facilitant le transfert de courrier électronique entre les serveurs."
+          },
+          {
+            "Question": "Que signifie l'acronyme 'VoLTE' dans les télécommunications?",
+            "TrueAnswer": "Voice over LTE",
+            "FalseAnswer": [
+              "Vidéo sur ligne terrestre",
+              "Téléphonie de bureau virtuelle",
+              "Optimisation visuelle de l'équipement de télécommunication"
+            ],
+            "Explanation": "VoLTE, ou Voice over LTE, permet la fourniture de communications vocales sur les réseaux 4G LTE, offrant des appels vocaux de haute qualité à haut débit aux côtés des services de données."
+          },
+          {
+            "Question": "Quel est l'objectif principal du registre de localisation domicile (HLR) d'un réseau mobile?",
+            "TrueAnswer": "Stockage des données abonné",
+            "FalseAnswer": [
+              "Transmission de signal",
+              "Maintenance du réseau",
+              "Suivi de localisation"
+            ],
+            "Explanation": "Le registre de localisation domicile (HLR) dans un réseau mobile est responsable du stockage des données des abonnés, y compris l'identité de l'utilisateur, les profils de service et les informations de localisation actuelles pour le routage des appels et la facturation."
+          },
+          {
+            "Question": "En télécommunications, que signifie l'acronyme 'OTT'?",
+            "TrueAnswer": "Over-the-Top",
+            "FalseAnswer": [
+              "Télécommunication à temps",
+              "Technologie de transmission sortante",
+              "Transfert de téléphonie optique"
+            ],
+            "Explanation": "Over-the-Top (OTT) fait référence à la fourniture de contenu multimédia et de communication via Internet sans l'intervention des fournisseurs de services traditionnels, contournant leur contrôle et leurs réglementations réseau."
+          }
+        ]
+      }
+    }
+  ]
+}

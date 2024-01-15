@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5917609507968895753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6398312834428851672}
+  - component: {fileID: 2834641009029451930}
+  m_Layer: 0
+  m_Name: Video_Games_Action-Adventure_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6398312834428851672
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5917609507968895753}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2834641009029451930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5917609507968895753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which game features an assassin named Ezio Auditore?
+      TrueAnswer: Assassin's Creed II
+      FalseAnswer:
+      - Tomb Raider
+      - Uncharted 2
+      - Gears of War 2
+      Explanation: Assassin's Creed II introduces Ezio Auditore as the main protagonist
+        set in Renaissance Italy.
+    - Question: 'In ''The Legend of Zelda: Ocarina of Time'', who is the main antagonist?'
+      TrueAnswer: Ganondorf
+      FalseAnswer:
+      - Bowser
+      - Dr. Robotnik
+      - Sephiroth
+      Explanation: Ganondorf serves as the primary antagonist, seeking the Triforce
+        to conquer Hyrule.
+    - Question: Which of these is not a 'Tomb Raider' game title?
+      TrueAnswer: Throne of Eldraine
+      FalseAnswer:
+      - Legend
+      - Angel of Darkness
+      - Underworld
+      Explanation: '''Throne of Eldraine'' is not a ''Tomb Raider'' game title, but
+        a set in the ''Magic: The Gathering'' card game.'
+    - Question: In 'Red Dead Redemption 2', who is the leader of the Van der Linde
+        Gang?
+      TrueAnswer: Dutch van der Linde
+      FalseAnswer:
+      - Arthur Morgan
+      - John Marston
+      - Josiah Trelawny
+      Explanation: Dutch van der Linde is the charismatic and manipulative leader
+        of the gang, guiding them through the Wild West era.
+    - Question: Which game features protagonist Nathan Drake as a treasure hunter?
+      TrueAnswer: Uncharted 2
+      FalseAnswer:
+      - The Last of Us
+      - Horizon Zero Dawn
+      - Bloodborne
+      Explanation: Nathan Drake is the main character in 'Uncharted 2', where he
+        embarks on perilous adventures in search of mythical treasures.
+    - Question: What is the name of the island where 'Far Cry 3' is set?
+      TrueAnswer: Rook Islands
+      FalseAnswer:
+      - Liberty City
+      - Arkham City
+      - Los Santos
+      Explanation: The tropical setting of 'Far Cry 3' takes place on the Rook Islands,
+        known for its stunning landscapes and dangerous inhabitants.
+    - Question: Which of these is not a playable character in 'God of War' (2018)?
+      TrueAnswer: Aloy
+      FalseAnswer:
+      - Kratos
+      - Atreus
+      - Baldur
+      Explanation: Aloy is the protagonist of the 'Horizon Zero Dawn' series and
+        is not a playable character in the 'God of War' game.
+    - Question: What is the main objective in 'Shadow of the Colossus'?
+      TrueAnswer: Defeat the Colossi
+      FalseAnswer:
+      - Collect Artifacts
+      - Unlock Power-Ups
+      - Solve Puzzles
+      Explanation: The game revolves around the protagonist's quest to defeat massive
+        colossi, in the hope of reviving a deceased maiden.
+    - Question: Which game series features the character Bayek as an assassin?
+      TrueAnswer: Assassin's Creed Origins
+      FalseAnswer:
+      - Watch Dogs
+      - Dishonored
+      - Metal Gear Solid V
+      Explanation: Bayek is the main character in 'Assassin's Creed Origins', set
+        in ancient Egypt during the formation of the Assassin Brotherhood.
+    - Question: 'In ''The Witcher 3: Wild Hunt'', what is Geralt''s profession?'
+      TrueAnswer: Witcher
+      FalseAnswer:
+      - Bounty Hunter
+      - Mercenary
+      - Blacksmith
+      Explanation: Geralt is a professional monster hunter known as a witcher, proficient
+        in combat and alchemy.
+    - Question: Which of these is not a location in the game 'The Last of Us'?
+      TrueAnswer: Iceland
+      FalseAnswer:
+      - Boston
+      - Salt Lake City
+      - Pittsburgh
+      Explanation: '''Iceland'' is not a location featured in ''The Last of Us''
+        game, which mainly takes place across the United States.'
+    - Question: What is the main character's name in the 'Arkham' series of games?
+      TrueAnswer: Batman
+      FalseAnswer:
+      - Superman
+      - The Joker
+      - Catwoman
+      Explanation: The 'Arkham' series features Batman as the central character,
+        navigating the sprawling and ominous Arkham Asylum and Gotham City.
+    - Question: In 'Horizon Zero Dawn', what are the robotic creatures called?
+      TrueAnswer: Machines
+      FalseAnswer:
+      - Dinosaurs
+      - Dragons
+      - Mechanoids
+      Explanation: The robotic animals in 'Horizon Zero Dawn' are known as 'Machines',
+        embodying diverse designs and behaviors within the game's post-apocalyptic
+        world.
+    - Question: Which game stars a protagonist named Kratos and is based on Greek
+        mythology?
+      TrueAnswer: God of War
+      FalseAnswer:
+      - Devil May Cry
+      - Bayonetta
+      - Dynasty Warriors
+      Explanation: '''God of War'' features Kratos, a Spartan warrior seeking vengeance
+        against the gods of Olympus within the realm of Greek mythology.'
+    - Question: In 'Bioshock Infinite', what is the floating city called?
+      TrueAnswer: Columbia
+      FalseAnswer:
+      - Rapture
+      - Midgar
+      - Skyrim
+      Explanation: The game is set in the airborne city of 'Columbia', a utopian
+        society hiding dark secrets and political intrigue.
+    - Question: Which game involves time-traveling as part of its storyline?
+      TrueAnswer: 'Prince of Persia: The Sands of Time'
+      FalseAnswer:
+      - Metal Gear Solid V
+      - Resident Evil 4
+      - Dark Souls
+      Explanation: 'The ''Prince of Persia: The Sands of Time'' incorporates time
+        manipulation as a core mechanic, allowing players to rewind and alter events
+        in the game.'
+    - Question: What is the name of the fictional city in the 'Assassin's Creed'
+        series?
+      TrueAnswer: Rome
+      FalseAnswer:
+      - Athens
+      - Paris
+      - Venice
+      Explanation: The 'Assassin's Creed' series features various historical settings,
+        including 'Rome', where significant events unfold within the Assassin-Templar
+        conflict.
+    - Question: Which game emphasizes environmental puzzles and platforming elements?
+      TrueAnswer: 'Prince of Persia: The Two Thrones'
+      FalseAnswer:
+      - 'Call of Duty: Modern Warfare'
+      - 'Splinter Cell: Blacklist'
+      - Destiny 2
+      Explanation: '''Prince of Persia: The Two Thrones'' showcases challenging environmental
+        puzzles and acrobatic platforming as integral aspects of the gameplay experience.'
+    - Question: In 'Darksiders II', who is the main protagonist?
+      TrueAnswer: Death
+      FalseAnswer:
+      - War
+      - Fury
+      - Strife
+      Explanation: The main protagonist in 'Darksiders II' is Death, one of the Four
+        Horsemen of the Apocalypse, on a mission to clear his brother War's name.
+    - Question: Which game allows players to control a character named Aloy in a
+        post-apocalyptic world?
+      TrueAnswer: Horizon Zero Dawn
+      FalseAnswer:
+      - 'Detroit: Become Human'
+      - Days Gone
+      - The Last of Us Part II
+      Explanation: '''Horizon Zero Dawn'' unfolds in a post-apocalyptic world where
+        players assume the role of Aloy, a skilled hunter seeking to unravel the
+        mysteries of her origins and the world''s fate.'

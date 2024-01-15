@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3756975096233441297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6395301104613346537}
+  - component: {fileID: 2562307810040822320}
+  m_Layer: 0
+  m_Name: Science_Astronomy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6395301104613346537
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3756975096233441297}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2562307810040822320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3756975096233441297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Neptune
+      - Mars
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of 86,881 miles, making it over 11 times wider than Earth.
+    - Question: What is the brightest star in the night sky?
+      TrueAnswer: Sirius
+      FalseAnswer:
+      - Venus
+      - Polaris
+      - Betelgeuse
+      Explanation: Sirius, also known as the Dog Star, is the brightest star in the
+        night sky and is twice as bright as Canopus, the next brightest star.
+    - Question: How many moons does Mars have?
+      TrueAnswer: 2
+      FalseAnswer:
+      - 1
+      - 3
+      - 0
+      Explanation: Mars has two small moons, Phobos and Deimos, which are thought
+        to be captured asteroids from the asteroid belt.
+    - Question: What causes the green color in the auroras?
+      TrueAnswer: Oxygen
+      FalseAnswer:
+      - Nitrogen
+      - Helium
+      - Hydrogen
+      Explanation: The green color in auroras is caused by charged oxygen atoms,
+        about 60 miles above the Earth's surface, emitting photons.
+    - Question: Which planet has the hottest surface temperature in our solar system?
+      TrueAnswer: Venus
+      FalseAnswer:
+      - Mercury
+      - Earth
+      - Jupiter
+      Explanation: "Venus has the hottest surface temperature, reaching about 900\xB0F,
+        due to its thick atmosphere and runaway greenhouse effect."
+    - Question: What is the largest known planet in the universe?
+      TrueAnswer: TrES-4b
+      FalseAnswer:
+      - Jupiter
+      - HD 100546 b
+      - Kepler-10c
+      Explanation: TrES-4b is currently the largest known exoplanet, with a radius
+        about 1.7 times greater than that of Jupiter.
+    - Question: How long does it take for light from the Sun to reach Earth?
+      TrueAnswer: 8 minutes
+      FalseAnswer:
+      - 1 hour
+      - 30 seconds
+      - 1 day
+      Explanation: It takes about 8 minutes for light to travel from the Sun to Earth,
+        covering a distance of about 93 million miles.
+    - Question: Which NASA space telescope was launched in 1990?
+      TrueAnswer: Hubble Space Telescope
+      FalseAnswer:
+      - Spitzer Space Telescope
+      - Kepler Space Telescope
+      - Chandra X-ray Observatory
+      Explanation: The Hubble Space Telescope, launched in 1990, orbits the Earth
+        and has provided some of the most detailed images of distant galaxies and
+        nebulae.
+    - Question: How many Earth years does it take for Neptune to orbit the Sun once?
+      TrueAnswer: 165
+      FalseAnswer:
+      - 104
+      - 246
+      - 57
+      Explanation: Neptune takes about 165 Earth years to complete one orbit around
+        the Sun due to its great distance from the Sun.
+    - Question: What is the name of the process by which a star generates energy?
+      TrueAnswer: Nuclear Fusion
+      FalseAnswer:
+      - Nuclear Fission
+      - Gravitational Collapse
+      - Radiation Cooling
+      Explanation: Nuclear fusion is the process where two atomic nuclei combine
+        to form a heavier nucleus, releasing energy in the form of light and heat.
+    - Question: What is the approximate age of the universe?
+      TrueAnswer: 13.8 billion years
+      FalseAnswer:
+      - 5.4 billion years
+      - 20 million years
+      - 100 trillion years
+      Explanation: The universe is estimated to be around 13.8 billion years old,
+        based on measurements of the cosmic microwave background radiation.
+    - Question: What is the most abundant element in the universe?
+      TrueAnswer: Hydrogen
+      FalseAnswer:
+      - Carbon
+      - Oxygen
+      - Helium
+      Explanation: Hydrogen is the most abundant element in the universe, making
+        up about 75% of its elemental mass.
+    - Question: Which constellation is known as 'The Hunter'?
+      TrueAnswer: Orion
+      FalseAnswer:
+      - Ursa Major
+      - Cassiopeia
+      - Leo
+      Explanation: Orion is a prominent constellation, named after a hunter in Greek
+        mythology, and contains the bright stars Betelgeuse and Rigel.
+    - Question: What is the name of the closest galaxy to the Milky Way?
+      TrueAnswer: Andromeda
+      FalseAnswer:
+      - Triangulum
+      - Canis Major Dwarf
+      - Whirlpool Galaxy
+      Explanation: Andromeda, also known as M31, is the closest spiral galaxy to
+        the Milky Way, located about 2.537 million light-years away.
+    - Question: What is the term for the explosive death of a massive star?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Neutron Star
+      - Quasar
+      - Black Hole
+      Explanation: A supernova is the cataclysmic explosion of a massive star, leading
+        to the release of an immense amount of energy and the formation of new elements.
+    - Question: How long does it take for the Moon to orbit the Earth once?
+      TrueAnswer: 27 days
+      FalseAnswer:
+      - 12 hours
+      - 365 days
+      - 7 days
+      Explanation: The Moon takes approximately 27 days to complete one orbit around
+        the Earth, known as its sidereal period.
+    - Question: What is the scientific term for a shooting star?
+      TrueAnswer: Meteor
+      FalseAnswer:
+      - Comet
+      - Asteroid
+      - Meteorite
+      Explanation: A meteor is the visible passage of a meteoroid through Earth's
+        atmosphere, creating a streak of light as it burns up due to friction.
+    - Question: What is the nearest star to the Earth, aside from the Sun?
+      TrueAnswer: Proxima Centauri
+      FalseAnswer:
+      - Alpha Centauri A
+      - Barnard's Star
+      - Wolf 359
+      Explanation: Proxima Centauri is a red dwarf star located about 4.24 light-years
+        away, making it the closest known star to the Solar System.
+    - Question: What is the name of the point above an observer diametrically opposite
+        to the zenith?
+      TrueAnswer: Nadir
+      FalseAnswer:
+      - Apex
+      - Horizon
+      - Meridian
+      Explanation: The nadir is the point on the celestial sphere directly below
+        an observer and diametrically opposite to the zenith, or the point directly
+        above.
+    - Question: What is the tallest mountain in the solar system?
+      TrueAnswer: Olympus Mons
+      FalseAnswer:
+      - Mauna Kea
+      - Mount Everest
+      - Mount Sharp
+      Explanation: Olympus Mons is a shield volcano on Mars and is the tallest known
+        volcano and mountain in the solar system, reaching a height of about 13.6
+        miles.

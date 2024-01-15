@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the maximum number of edges in a complete graph with 10 vertices?",
+          "TrueAnswer": "45",
+          "FalseAnswer": [
+            "55",
+            "35",
+            "60"
+          ],
+          "Explanation": "In a complete graph with n vertices, there are n(n-1)/2 edges, giving 10(10-1)/2 = 45 edges."
+        },
+        {
+          "Question": "Which famous problem is centered around finding a path that visits every vertex exactly once?",
+          "TrueAnswer": "Traveling Salesman Problem",
+          "FalseAnswer": [
+            "Knapsack Problem",
+            "Tower of Hanoi",
+            "Fermat's Last Theorem"
+          ],
+          "Explanation": "The Traveling Salesman Problem asks for the shortest possible route that visits each city once and returns to the original city."
+        },
+        {
+          "Question": "What is the minimum number of colors needed to color any planar map so that no two adjacent regions have the same color?",
+          "TrueAnswer": "Four",
+          "FalseAnswer": [
+            "Three",
+            "Five",
+            "Six"
+          ],
+          "Explanation": "The Four Color Theorem states that any map on a plane can be colored using at most four colors in such a way that no two adjacent regions have the same color."
+        },
+        {
+          "Question": "In graph theory, what does the term 'degree' refer to?",
+          "TrueAnswer": "Number of edges incident to a vertex",
+          "FalseAnswer": [
+            "Number of edges in a graph",
+            "Number of vertices in a graph",
+            "Length of a path in a graph"
+          ],
+          "Explanation": "The degree of a vertex in a graph is the number of edges incident to it and loops are counted twice."
+        },
+        {
+          "Question": "Which algorithm is used to find the shortest path in a weighted graph?",
+          "TrueAnswer": "Dijkstra's algorithm",
+          "FalseAnswer": [
+            "Breadth-first search",
+            "Depth-first search",
+            "Prim's algorithm"
+          ],
+          "Explanation": "Dijkstra's algorithm is an algorithm for finding the shortest path from a single source vertex to all other vertices in a weighted graph."
+        },
+        {
+          "Question": "Which type of graph has edges that are directed from one vertex to another?",
+          "TrueAnswer": "Directed graph",
+          "FalseAnswer": [
+            "Undirected graph",
+            "Complete graph",
+            "Bipartite graph"
+          ],
+          "Explanation": "A directed graph is a graph in which edges have a direction, indicating which vertex is the source and which is the destination."
+        },
+        {
+          "Question": "What type of graph has no cycles and is connected?",
+          "TrueAnswer": "Tree",
+          "FalseAnswer": [
+            "Complete graph",
+            "Planar graph",
+            "Eulerian graph"
+          ],
+          "Explanation": "A tree is an undirected graph in which any two vertices are connected by exactly one simple path without any cycles."
+        },
+        {
+          "Question": "What is the sum of the degrees of all the vertices in a graph?",
+          "TrueAnswer": "Twice the number of edges",
+          "FalseAnswer": [
+            "The number of vertices",
+            "The number of edges",
+            "Four times the number of edges"
+          ],
+          "Explanation": "The sum of the degrees of all vertices in a graph is always twice the number of edges, as each edge contributes to the degree of two vertices."
+        },
+        {
+          "Question": "Which mathematician formulated the famous 'Four Color Theorem'?",
+          "TrueAnswer": "Kenneth Appel and Wolfgang Haken",
+          "FalseAnswer": [
+            "Leonhard Euler",
+            "Pierre de Fermat",
+            "Andrew Wiles"
+          ],
+          "Explanation": "Kenneth Appel and Wolfgang Haken famously proved the Four Color Theorem in 1976 using a computer to systematically check all possible configurations."
+        },
+        {
+          "Question": "What is the minimum number of edges needed to connect an undirected graph with 4 vertices?",
+          "TrueAnswer": "3",
+          "FalseAnswer": [
+            "2",
+            "4",
+            "5"
+          ],
+          "Explanation": "To connect an undirected graph with 4 vertices, at least 3 edges are needed to ensure that every vertex is connected to at least one other vertex."
+        },
+        {
+          "Question": "In graph theory, what is a 'bipartite graph' characterized by?",
+          "TrueAnswer": "Having no odd cycles",
+          "FalseAnswer": [
+            "Being planar",
+            "Being complete",
+            "Having a Hamiltonian cycle"
+          ],
+          "Explanation": "A bipartite graph is a graph whose vertices can be divided into two disjoint and independent sets, such that no two vertices within the same set are adjacent."
+        },
+        {
+          "Question": "What does the term 'chromatic number' refer to in graph theory?",
+          "TrueAnswer": "The minimum number of colors needed to color the vertices of a graph",
+          "FalseAnswer": [
+            "The number of edges in a graph",
+            "The number of vertices in a graph",
+            "The length of a path in a graph"
+          ],
+          "Explanation": "The chromatic number of a graph is the minimum number of colors needed to color the vertices so that no two adjacent vertices have the same color."
+        },
+        {
+          "Question": "Which famous problem is concerned with finding a subgraph that is a tree and includes all the vertices of the original graph?",
+          "TrueAnswer": "Minimum Spanning Tree Problem",
+          "FalseAnswer": [
+            "Maximum Flow Problem",
+            "Shortest Path Problem",
+            "Eulerian Path Problem"
+          ],
+          "Explanation": "The Minimum Spanning Tree Problem seeks to find a tree that connects all the vertices of the original graph with the smallest possible total edge weight."
+        },
+        {
+          "Question": "What is the maximum number of edges in an acyclic undirected graph with 8 vertices?",
+          "TrueAnswer": "7",
+          "FalseAnswer": [
+            "20",
+            "18",
+            "12"
+          ],
+          "Explanation": "In an acyclic undirected graph with n vertices, the maximum number of edges is n-1, giving 8-1 = 7 edges."
+        },
+        {
+          "Question": "Which type of graph has edges that connect every pair of distinct vertices?",
+          "TrueAnswer": "Complete graph",
+          "FalseAnswer": [
+            "Connected graph",
+            "Eulerian graph",
+            "Planar graph"
+          ],
+          "Explanation": "A complete graph is a simple undirected graph in which every pair of distinct vertices is connected by a unique edge."
+        },
+        {
+          "Question": "What is the maximum number of regions that can be formed in a planar graph with 7 vertices and 9 edges?",
+          "TrueAnswer": "11",
+          "FalseAnswer": [
+            "17",
+            "14",
+            "9"
+          ],
+          "Explanation": "The maximum number of regions in a planar graph is given by R = E - V + 2, where E is the number of edges and V is the number of vertices, resulting in 9 - 7 + 2 = 11 regions."
+        },
+        {
+          "Question": "Which algorithm is used to detect cycles in a directed graph?",
+          "TrueAnswer": "Tarjan's algorithm",
+          "FalseAnswer": [
+            "Floyd-Warshall algorithm",
+            "Prim's algorithm",
+            "Bellman-Ford algorithm"
+          ],
+          "Explanation": "Tarjan's algorithm is a graph algorithm used to find the strongly connected components in a graph, and thus can also detect cycles in a directed graph."
+        },
+        {
+          "Question": "What is the maximum number of edges in a simple undirected graph with 6 vertices?",
+          "TrueAnswer": "15",
+          "FalseAnswer": [
+            "14",
+            "20",
+            "18"
+          ],
+          "Explanation": "In a simple undirected graph with n vertices, the maximum number of edges is n*(n-1)/2, resulting in 6*(6-1)/2 = 15 edges."
+        },
+        {
+          "Question": "Which mathematician developed the theory of graphs?",
+          "TrueAnswer": "Leonhard Euler",
+          "FalseAnswer": [
+            "Carl Friedrich Gauss",
+            "Pierre-Simon Laplace",
+            "David Hilbert"
+          ],
+          "Explanation": "Leonhard Euler is considered the father of graph theory for his seminal work in the 18th century on the Seven Bridges of Königsberg problem."
+        },
+        {
+          "Question": "What is the minimum number of edges in a connected planar graph with 6 vertices?",
+          "TrueAnswer": "9",
+          "FalseAnswer": [
+            "5",
+            "11",
+            "8"
+          ],
+          "Explanation": "In a connected planar graph with n vertices, the minimum number of edges is 3n - 6, resulting in 3*6 - 6 = 9 edges."
+        }
+      ]
+    }
+  ]
+}

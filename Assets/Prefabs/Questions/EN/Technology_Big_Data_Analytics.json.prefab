@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2864026927762030834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5270573838549433751}
+  - component: {fileID: 2224243276955727104}
+  m_Layer: 0
+  m_Name: Technology_Big_Data_Analytics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5270573838549433751
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2864026927762030834}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2224243276955727104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2864026927762030834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of Big Data Analytics?
+      TrueAnswer: To analyze large data sets for insights
+      FalseAnswer:
+      - To create data visualizations
+      - To store data securely
+      - To develop new software
+      Explanation: Big Data Analytics involves examining large and varied data sets
+        to uncover hidden patterns, market trends, customer preferences, and other
+        valuable information to aid businesses in making informed decisions.
+    - Question: Which coding language is commonly used in Big Data Analytics?
+      TrueAnswer: Python
+      FalseAnswer:
+      - Java
+      - C++
+      - Ruby
+      Explanation: Python is a popular language for Big Data Analytics due to its
+        simplicity, flexibility, and a wide range of libraries like Pandas, NumPy,
+        and SciPy, which are essential for data analysis.
+    - Question: What is the primary function of Hadoop in Big Data Analytics?
+      TrueAnswer: Distributed storage and processing
+      FalseAnswer:
+      - Data visualization
+      - Database management
+      - Statistical analysis
+      Explanation: Hadoop is designed for distributed storage and processing of large
+        data sets across clusters of computers. It is essential for handling big
+        data in a reliable and efficient manner.
+    - Question: What is the goal of predictive analytics in Big Data?
+      TrueAnswer: Forecast future outcomes based on patterns
+      FalseAnswer:
+      - Retroactive data analysis
+      - Data encryption
+      - Data compression
+      Explanation: Predictive analytics aims to forecast future trends, behaviors,
+        and outcomes based on historical data. It helps organizations make proactive,
+        data-driven decisions and reduce risks.
+    - Question: What does ETL stand for in Big Data Analytics?
+      TrueAnswer: Extract, Transform, Load
+      FalseAnswer:
+      - Error Tolerance Level
+      - Enterprise Technology Language
+      - Evaluate, Track, Locate
+      Explanation: ETL is the process of extracting data from various sources, transforming
+        it into a consistent format, and loading it into a target data warehouse
+        for analysis and reporting purposes.
+    - Question: Which technology is integral for real-time Big Data Analytics?
+      TrueAnswer: Apache Kafka
+      FalseAnswer:
+      - MySQL
+      - Microsoft Excel
+      - MongoDB
+      Explanation: Apache Kafka is a distributed streaming platform that is crucial
+        for real-time data processing and analytics. It enables the ingestion, processing,
+        and storage of high-throughput data streams in real time.
+    - Question: Which type of data is NOT considered in Big Data Analytics?
+      TrueAnswer: Structured data
+      FalseAnswer:
+      - Unstructured data
+      - Semi-structured data
+      - Internal data
+      Explanation: While Big Data Analytics can handle various data types, structured
+        data, which is well-organized and formatted, is not the primary focus. Unstructured
+        and semi-structured data pose greater analytical challenges.
+    - Question: What role does machine learning play in Big Data Analytics?
+      TrueAnswer: Automated data analysis and pattern recognition
+      FalseAnswer:
+      - Manual data entry
+      - User interface design
+      - Database maintenance
+      Explanation: Machine learning algorithms enable automated data analysis, pattern
+        recognition, and predictive modeling in Big Data Analytics. They help uncover
+        insights, detect anomalies, and make data-driven predictions.
+    - Question: Which of the following is a popular Big Data Analytics tool?
+      TrueAnswer: Tableau
+      FalseAnswer:
+      - Microsoft Word
+      - Adobe Photoshop
+      - Notepad++
+      Explanation: Tableau is a widely used data visualization and business intelligence
+        tool in Big Data Analytics. It empowers users to create interactive and shareable
+        dashboards for data analysis and storytelling.
+    - Question: What does OLAP stand for in the context of Big Data Analytics?
+      TrueAnswer: Online Analytical Processing
+      FalseAnswer:
+      - Optimized Load Analysis Protocol
+      - Offline Application Programming
+      - Overlapping Logarithmic Algorithm
+      Explanation: OLAP facilitates multi-dimensional analysis of big data by allowing
+        users to slice, dice, and pivot data for in-depth insights. It supports complex
+        queries and aids in decision-making processes.
+    - Question: Which process involves identifying and correcting errors in data?
+      TrueAnswer: Data cleansing
+      FalseAnswer:
+      - Data harmonization
+      - Data encryption
+      - Data aggregation
+      Explanation: Data cleansing, also known as data scrubbing, refers to the process
+        of detecting and correcting errors or inconsistencies in data to improve
+        its quality and reliability for analysis and decision-making.
+    - Question: What is the main aim of correlation analysis in Big Data Analytics?
+      TrueAnswer: To measure relationships between variables
+      FalseAnswer:
+      - To categorize data
+      - To compress data
+      - To create data models
+      Explanation: Correlation analysis assesses the strength and direction of relationships
+        between variables in large datasets, aiding in understanding dependencies,
+        predictive modeling, and identifying patterns in the data.
+    - Question: Which of the following is a common data type in Big Data Analytics?
+      TrueAnswer: Time series data
+      FalseAnswer:
+      - Boolean data
+      - Music files
+      - CAD drawings
+      Explanation: Time series data, which consists of sequential data points indexed
+        by time, is a crucial data type for Big Data Analytics. It is often used
+        for trend analysis and forecasting.
+    - Question: What is the purpose of sentiment analysis in Big Data Analytics?
+      TrueAnswer: To assess opinions and emotions from text data
+      FalseAnswer:
+      - To encrypt sensitive data
+      - To optimize data storage
+      - To visualize data relationships
+      Explanation: Sentiment analysis uses natural language processing and machine
+        learning to analyze and understand the sentiment, opinions, and emotions
+        expressed in textual data such as social media posts, reviews, and customer
+        feedback.
+    - Question: Which technique is used to identify patterns and anomalies in data?
+      TrueAnswer: Data mining
+      FalseAnswer:
+      - Data encryption
+      - Data compression
+      - Data deduplication
+      Explanation: Data mining involves the exploration and analysis of large datasets
+        to discover meaningful patterns, correlations, and anomalies that may not
+        be immediately apparent, helping in decision-making and forecasting.
+    - Question: What does MapReduce enable in the context of Big Data Analytics?
+      TrueAnswer: Parallel processing of large datasets
+      FalseAnswer:
+      - Data visualization
+      - Sequential data processing
+      - Data encryption
+      Explanation: MapReduce is a programming model for processing and generating
+        large data sets with parallel distributed algorithms on a cluster. It enables
+        efficient and scalable processing of big data across multiple nodes.
+    - Question: Which statistic measures the central tendency of a dataset in Big
+        Data Analytics?
+      TrueAnswer: Mean
+      FalseAnswer:
+      - Standard deviation
+      - Median
+      - Variance
+      Explanation: The mean, also known as the average, is a measure of the central
+        tendency that represents the arithmetic average of a set of values. It is
+        commonly used in statistical analysis and data interpretation.
+    - Question: What is the purpose of data visualization in Big Data Analytics?
+      TrueAnswer: To present complex data in graphical format
+      FalseAnswer:
+      - To encrypt data
+      - To secure data storage
+      - To prevent data analysis
+      Explanation: Data visualization helps in visually presenting large and complex
+        datasets to uncover trends, insights, and patterns. It aids in effective
+        communication of information and supports informed decision-making.
+    - Question: Which technique focuses on uncovering previously unknown patterns
+        in Big Data Analytics?
+      TrueAnswer: Anomaly detection
+      FalseAnswer:
+      - Data aggregation
+      - Data normalization
+      - Data summarization
+      Explanation: Anomaly detection aims to identify rare events, outliers, or patterns
+        that deviate from the norm in large datasets. It is crucial for fraud detection,
+        error identification, and security monitoring.
+    - Question: What does the acronym BI stand for in the domain of Big Data Analytics?
+      TrueAnswer: Business Intelligence
+      FalseAnswer:
+      - Big Innovation
+      - Binary Input
+      - Block Interference
+      Explanation: BI refers to the technologies and strategies used for data analysis
+        and decision-making within businesses. It involves gathering, analyzing,
+        and presenting information to aid in strategic and tactical business decisions.

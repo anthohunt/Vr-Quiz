@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5025629293674589055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1930915203267118655}
+  - component: {fileID: 3446720374108503549}
+  m_Layer: 0
+  m_Name: History_History_of_Fashion_and_Lifestyle.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1930915203267118655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5025629293674589055}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3446720374108503549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5025629293674589055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In what decade did the miniskirt gain popularity?
+      TrueAnswer: 1960s
+      FalseAnswer:
+      - 1970s
+      - 1950s
+      - 1980s
+      Explanation: The miniskirt's popularity surged in the 1960s with fashion icon
+        Twiggy promoting its bold, youthful style.
+    - Question: Which designer revolutionized women's fashion with the 'New Look'?
+      TrueAnswer: Christian Dior
+      FalseAnswer:
+      - Coco Chanel
+      - Gianni Versace
+      - Ralph Lauren
+      Explanation: In 1947, Christian Dior's 'New Look' marked a return to opulence
+        and feminity in post-war fashion.
+    - Question: What era popularized the corset as an essential undergarment?
+      TrueAnswer: Victorian era
+      FalseAnswer:
+      - Renaissance
+      - Roaring Twenties
+      - Baroque era
+      Explanation: The Victorian era (1837-1901) saw the widespread use of corsets
+        to achieve the fashionable hourglass silhouette.
+    - Question: Which historical period inspired the Bohemian fashion style of the
+        1960s?
+      TrueAnswer: Victorian era
+      FalseAnswer:
+      - Ancient Egypt
+      - Medieval Europe
+      - Renaissance
+      Explanation: The Bohemian fashion movement of the 1960s drew inspiration from
+        the free-spirited style of the Victorian era.
+    - Question: What fashion trend was popularized during the 'Roaring Twenties'?
+      TrueAnswer: Flapper dresses
+      FalseAnswer:
+      - Hobble skirts
+      - Poodle skirts
+      - A-line skirts
+      Explanation: The 'Roaring Twenties' introduced the rebellious flapper style
+        with its iconic beaded and fringed dresses.
+    - Question: Which historical figure influenced men's fashion with the dandy style
+        in the 19th century?
+      TrueAnswer: Beau Brummell
+      FalseAnswer:
+      - Napoleon Bonaparte
+      - King Louis XIV
+      - Winston Churchill
+      Explanation: Beau Brummell, considered the original dandy, shaped men's fashion
+        with his elegant and understated aesthetic in Regency England.
+    - Question: Which revolutionized garment production during the Industrial Revolution?
+      TrueAnswer: Sewing machine
+      FalseAnswer:
+      - Loom
+      - Spinning wheel
+      - Cotton gin
+      Explanation: The invention of the sewing machine in the mid-19th century revolutionized
+        clothing production, leading to mass manufacturing and accessible fashion.
+    - Question: Who popularized the use of the little black dress in the 1920s?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Madame Vionnet
+      - Elsa Schiaparelli
+      - Diana Vreeland
+      Explanation: Coco Chanel's iconic little black dress in the 1920s set a new
+        standard for understated elegance and practicality in women's fashion.
+    - Question: In what decade did denim jeans become a symbol of rebellious youth
+        culture?
+      TrueAnswer: 1950s
+      FalseAnswer:
+      - 1940s
+      - 1960s
+      - 1970s
+      Explanation: Denim jeans gained popularity among the youth as a symbol of rebellion
+        and non-conformity in the 1950s, popularized by iconic figures like James
+        Dean.
+    - Question: Which fabric was central to the fashion of the Regency era in early
+        19th-century England?
+      TrueAnswer: Muslin
+      FalseAnswer:
+      - Velvet
+      - Brocade
+      - Taffeta
+      Explanation: Muslin, a lightweight cotton fabric, was favored for its delicate
+        drape and suitability for the neoclassical silhouettes of the Regency era.

@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the most common form of cybercrime?",
+          "TrueAnswer": "Phishing",
+          "FalseAnswer": [
+            "Hacking",
+            "Malware",
+            "Identity theft"
+          ],
+          "Explanation": "Phishing is the fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity."
+        },
+        {
+          "Question": "What is the main purpose of the Dark Web?",
+          "TrueAnswer": "Anonymity",
+          "FalseAnswer": [
+            "Online shopping",
+            "Social networking",
+            "Entertainment"
+          ],
+          "Explanation": "The Dark Web provides anonymity to its users by encrypting their online activities and hiding their identities."
+        },
+        {
+          "Question": "Which currency is commonly used in Dark Web transactions?",
+          "TrueAnswer": "Bitcoin",
+          "FalseAnswer": [
+            "Ethereum",
+            "Ripple",
+            "Litecoin"
+          ],
+          "Explanation": "Bitcoin is the most commonly used cryptocurrency for anonymous transactions on the Dark Web."
+        },
+        {
+          "Question": "What is a common method used to access the Dark Web?",
+          "TrueAnswer": "Tor",
+          "FalseAnswer": [
+            "Google Chrome",
+            "Mozilla Firefox",
+            "Safari"
+          ],
+          "Explanation": "Tor (The Onion Router) is a software that enables anonymous communication and access to the Dark Web."
+        },
+        {
+          "Question": "What is the term for a website on the Dark Web?",
+          "TrueAnswer": "Hidden service",
+          "FalseAnswer": [
+            "Public service",
+            "Visible service",
+            "Open service"
+          ],
+          "Explanation": "A hidden service is a website that can only be accessed through the Tor network."
+        },
+        {
+          "Question": "What is the primary purpose of cybercriminals on the Dark Web?",
+          "TrueAnswer": "Financial gain",
+          "FalseAnswer": [
+            "Political activism",
+            "Information sharing",
+            "Charitable activities"
+          ],
+          "Explanation": "Cybercriminals on the Dark Web are primarily motivated by financial gain through illegal activities."
+        },
+        {
+          "Question": "What is the term for a person who carries out cybercrimes?",
+          "TrueAnswer": "Hacker",
+          "FalseAnswer": [
+            "Programmer",
+            "Analyst",
+            "Designer"
+          ],
+          "Explanation": "A hacker is an individual who uses their technical skills to gain unauthorized access to computer systems."
+        },
+        {
+          "Question": "What is the act of gaining unauthorized access to a computer system?",
+          "TrueAnswer": "Hacking",
+          "FalseAnswer": [
+            "Phishing",
+            "Malware",
+            "Identity theft"
+          ],
+          "Explanation": "Hacking refers to the act of gaining unauthorized access to computer systems or networks."
+        },
+        {
+          "Question": "What is the term for a malicious software designed to harm a computer system?",
+          "TrueAnswer": "Malware",
+          "FalseAnswer": [
+            "Firewall",
+            "Antivirus",
+            "Encryption"
+          ],
+          "Explanation": "Malware is any software intentionally designed to cause damage or gain unauthorized access to computer systems."
+        },
+        {
+          "Question": "What is the illegal practice of using someone else's personal information for financial gain?",
+          "TrueAnswer": "Identity theft",
+          "FalseAnswer": [
+            "Phishing",
+            "Hacking",
+            "Malware"
+          ],
+          "Explanation": "Identity theft involves the unauthorized use of someone's personal information for financial gain or fraudulent activities."
+        },
+        {
+          "Question": "What is the term for a network of infected computers controlled by a cybercriminal?",
+          "TrueAnswer": "Botnet",
+          "FalseAnswer": [
+            "Firewall",
+            "Router",
+            "Server"
+          ],
+          "Explanation": "A botnet is a network of infected computers or devices that are controlled remotely by a cybercriminal."
+        },
+        {
+          "Question": "What is the act of sending unsolicited emails for malicious purposes?",
+          "TrueAnswer": "Spamming",
+          "FalseAnswer": [
+            "Phishing",
+            "Hacking",
+            "Malware"
+          ],
+          "Explanation": "Spamming refers to the act of sending unsolicited emails, often for advertising or malicious purposes."
+        },
+        {
+          "Question": "What is the term for a program that automatically performs tasks on the internet?",
+          "TrueAnswer": "Bot",
+          "FalseAnswer": [
+            "Virus",
+            "Worm",
+            "Trojan"
+          ],
+          "Explanation": "A bot is a program that performs automated tasks on the internet, often without the user's knowledge."
+        },
+        {
+          "Question": "What is the act of manipulating individuals into revealing sensitive information?",
+          "TrueAnswer": "Social engineering",
+          "FalseAnswer": [
+            "Phishing",
+            "Hacking",
+            "Malware"
+          ],
+          "Explanation": "Social engineering involves manipulating individuals to disclose sensitive information or perform certain actions."
+        },
+        {
+          "Question": "What is the term for a program that appears harmless but actually carries out malicious activities?",
+          "TrueAnswer": "Trojan",
+          "FalseAnswer": [
+            "Firewall",
+            "Antivirus",
+            "Encryption"
+          ],
+          "Explanation": "A Trojan is a type of malware that disguises itself as a legitimate program but performs malicious activities."
+        },
+        {
+          "Question": "What is the act of intercepting and reading private communication without authorization?",
+          "TrueAnswer": "Eavesdropping",
+          "FalseAnswer": [
+            "Phishing",
+            "Hacking",
+            "Malware"
+          ],
+          "Explanation": "Eavesdropping refers to the unauthorized interception and monitoring of private communication, often for malicious purposes."
+        },
+        {
+          "Question": "What is the term for a program that replicates itself and spreads to other computers?",
+          "TrueAnswer": "Virus",
+          "FalseAnswer": [
+            "Worm",
+            "Trojan",
+            "Bot"
+          ],
+          "Explanation": "A virus is a type of malware that replicates itself and spreads to other computers or devices."
+        },
+        {
+          "Question": "What is the act of stealing sensitive information by intercepting wireless communication?",
+          "TrueAnswer": "Sniffing",
+          "FalseAnswer": [
+            "Phishing",
+            "Hacking",
+            "Malware"
+          ],
+          "Explanation": "Sniffing involves the unauthorized interception and monitoring of wireless communication to steal sensitive information."
+        },
+        {
+          "Question": "What is the term for a program that spreads independently and does not require user interaction?",
+          "TrueAnswer": "Worm",
+          "FalseAnswer": [
+            "Virus",
+            "Trojan",
+            "Bot"
+          ],
+          "Explanation": "A worm is a self-replicating type of malware that spreads independently without requiring user interaction."
+        },
+        {
+          "Question": "What is the act of encrypting data and demanding a ransom for its release?",
+          "TrueAnswer": "Ransomware",
+          "FalseAnswer": [
+            "Phishing",
+            "Hacking",
+            "Malware"
+          ],
+          "Explanation": "Ransomware is a type of malware that encrypts data and demands a ransom for its release."
+        },
+        {
+          "Question": "What is the term for a program that protects a computer network from unauthorized access?",
+          "TrueAnswer": "Firewall",
+          "FalseAnswer": [
+            "Antivirus",
+            "Encryption",
+            "Router"
+          ],
+          "Explanation": "A firewall is a security system that monitors and controls incoming and outgoing network traffic to prevent unauthorized access."
+        }
+      ]
+    }
+  ]
+}

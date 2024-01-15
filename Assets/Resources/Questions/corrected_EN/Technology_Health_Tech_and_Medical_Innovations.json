@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What technology uses sound waves to produce images of the body's internal tissues and organs?",
+          "TrueAnswer": "Ultrasound",
+          "FalseAnswer": [
+            "CT scan",
+            "MRI",
+            "X-ray"
+          ],
+          "Explanation": "Ultrasound, also known as sonography, is a non-invasive imaging technique used for examining organs and monitoring fetal development."
+        },
+        {
+          "Question": "Which wearable device monitors heart rate and tracks physical activities?",
+          "TrueAnswer": "Fitness tracker",
+          "FalseAnswer": [
+            "Blood glucose monitor",
+            "Pulse oximeter",
+            "Electrocardiogram (ECG)"
+          ],
+          "Explanation": "Fitness trackers, such as Fitbit and Garmin, are popular for promoting physical fitness and monitoring daily activity levels."
+        },
+        {
+          "Question": "What technology is used for visually representing the physical and biological aspects of the brain?",
+          "TrueAnswer": "MRI",
+          "FalseAnswer": [
+            "PET scan",
+            "EEG",
+            "X-ray"
+          ],
+          "Explanation": "Magnetic Resonance Imaging (MRI) provides detailed images of the brain's structure and can help detect abnormalities or injuries."
+        },
+        {
+          "Question": "Which technology allows insulin administration without the need for multiple daily injections?",
+          "TrueAnswer": "Insulin pump",
+          "FalseAnswer": [
+            "Glucose meter",
+            "Continuous glucose monitor",
+            "Insulin pen"
+          ],
+          "Explanation": "Insulin pumps deliver insulin in a continuous, controlled manner, reducing the need for frequent injections and providing better glucose management."
+        },
+        {
+          "Question": "What technology involves embedding sensors in medication to track ingestion?",
+          "TrueAnswer": "Digital pill",
+          "FalseAnswer": [
+            "Nanotechnology",
+            "Microfluidics",
+            "3D printing"
+          ],
+          "Explanation": "Digital pills contain ingestible sensors that communicate with external devices, providing information on medication adherence and effects."
+        },
+        {
+          "Question": "What type of technology assists individuals with impaired vision by converting visual information into auditory signals?",
+          "TrueAnswer": "Brainport",
+          "FalseAnswer": [
+            "Argus II",
+            "OrCam MyEye",
+            "eSight"
+          ],
+          "Explanation": "The Brainport device uses a small camera to convert visual data into electrical signals, which are then sent to the tongue to be interpreted as tactile sensations."
+        },
+        {
+          "Question": "Which technology uses virtual reality to help alleviate anxiety and pain during medical procedures?",
+          "TrueAnswer": "VR therapy",
+          "FalseAnswer": [
+            "Telemedicine",
+            "Robotic surgery",
+            "Telehealth"
+          ],
+          "Explanation": "VR therapy immerses patients in virtual environments to distract them from pain, reduce anxiety, and improve overall well-being during medical treatments."
+        },
+        {
+          "Question": "What technology assists in training medical professionals through simulated surgical procedures?",
+          "TrueAnswer": "Surgical simulation",
+          "FalseAnswer": [
+            "Telemedicine",
+            "Robotic surgery",
+            "EHR (Electronic Health Record)"
+          ],
+          "Explanation": "Surgical simulation platforms offer realistic training experiences for surgeons to practice various procedures and refine their skills in a controlled environment."
+        },
+        {
+          "Question": "Which technology combines genetic information with patient data to personalize medical treatments?",
+          "TrueAnswer": "Precision medicine",
+          "FalseAnswer": [
+            "Gene therapy",
+            "Stem cell therapy",
+            "Immunotherapy"
+          ],
+          "Explanation": "Precision medicine utilizes genetic and clinical data to tailor medical interventions, improving treatment outcomes and minimizing potential side effects."
+        },
+        {
+          "Question": "What technology uses AI algorithms to analyze medical images and aid in diagnostic decision-making?",
+          "TrueAnswer": "Medical imaging AI",
+          "FalseAnswer": [
+            "Telepathology",
+            "Telepsychiatry",
+            "Teleophthalmology"
+          ],
+          "Explanation": "Medical imaging AI enhances diagnostic accuracy by rapidly interpreting scans, identifying anomalies, and assisting radiologists in detecting diseases at early stages."
+        },
+        {
+          "Question": "Which technology allows remote monitoring of patients' vital signs and health data?",
+          "TrueAnswer": "Remote patient monitoring",
+          "FalseAnswer": [
+            "Robotic surgery",
+            "Telemedicine",
+            "Telehealth"
+          ],
+          "Explanation": "Remote patient monitoring systems enable healthcare providers to track patients' health metrics from a distance, facilitating proactive interventions and personalized care."
+        },
+        {
+          "Question": "What technology delivers electrical stimulation to the spinal cord to alleviate chronic pain?",
+          "TrueAnswer": "Spinal cord stimulation",
+          "FalseAnswer": [
+            "Deep brain stimulation",
+            "Transcranial magnetic stimulation",
+            "Electroconvulsive therapy"
+          ],
+          "Explanation": "Spinal cord stimulation involves implanting devices that deliver electrical signals to spinal nerves, effectively managing chronic pain and improving quality of life for patients."
+        },
+        {
+          "Question": "Which technology uses nanoscale particles for targeted drug delivery to specific areas of the body?",
+          "TrueAnswer": "Nanomedicine",
+          "FalseAnswer": [
+            "Bioprinting",
+            "Tissue engineering",
+            "3D bioprinting"
+          ],
+          "Explanation": "Nanomedicine leverages nanoparticles to precisely transport therapeutic agents, enabling localized treatment of diseases and minimizing adverse effects on healthy tissues."
+        },
+        {
+          "Question": "What technology involves the use of robotic exoskeletons to assist individuals with mobility impairments?",
+          "TrueAnswer": "Exoskeleton technology",
+          "FalseAnswer": [
+            "Telehealth",
+            "Robotic surgery",
+            "Haptic technology"
+          ],
+          "Explanation": "Exoskeleton technology offers wearable robotic devices that support and enhance mobility for people with neurological or musculoskeletal conditions."
+        },
+        {
+          "Question": "Which technology utilizes artificial organs or devices to replace the function of failed biological organs?",
+          "TrueAnswer": "Implantable medical devices",
+          "FalseAnswer": [
+            "Bioprinting",
+            "Organoids",
+            "Tissue engineering"
+          ],
+          "Explanation": "Implantable medical devices, such as pacemakers and artificial joints, are designed to replace or support the function of damaged or impaired organs."
+        },
+        {
+          "Question": "What technology involves non-invasive stimulation of the brain to modulate neural activity and treat neurological disorders?",
+          "TrueAnswer": "Transcranial magnetic stimulation",
+          "FalseAnswer": [
+            "Optogenetics",
+            "Deep brain stimulation",
+            "Neuromodulation"
+          ],
+          "Explanation": "Transcranial magnetic stimulation applies magnetic fields to induce electric currents in specific brain regions, offering therapeutic potential for various neurological and psychiatric conditions."
+        },
+        {
+          "Question": "Which technology provides real-time analysis and interpretation of continuous glucose monitoring data for diabetes management?",
+          "TrueAnswer": "Artificial pancreas system",
+          "FalseAnswer": [
+            "Insulin pen",
+            "Glucose meter",
+            "Continuous glucose monitor (CGM)"
+          ],
+          "Explanation": "The artificial pancreas system automates insulin delivery based on CGM data, mimicking the function of a healthy pancreas and enhancing glycemic control in diabetes management."
+        },
+        {
+          "Question": "What technology involves the use of CRISPR gene editing to treat genetic disorders and modify DNA sequences?",
+          "TrueAnswer": "Genome editing",
+          "FalseAnswer": [
+            "Cell therapy",
+            "RNA interference (RNAi)",
+            "Gene therapy"
+          ],
+          "Explanation": "Genome editing techniques, including CRISPR-Cas9, enable precise modification of genetic material, holding tremendous potential for addressing hereditary diseases and advancing gene-based therapies."
+        },
+        {
+          "Question": "Which technology revolutionizes organ transplantation by creating custom-tailored tissues and organs?",
+          "TrueAnswer": "Bioprinting",
+          "FalseAnswer": [
+            "Stem cell therapy",
+            "Organoids",
+            "Nanomedicine"
+          ],
+          "Explanation": "Bioprinting enables the layer-by-layer fabrication of functional tissues and organ constructs, paving the way for personalized organ replacements and regenerative medicine applications."
+        },
+        {
+          "Question": "What technology integrates electronic components into the human body to restore or enhance physiological functions?",
+          "TrueAnswer": "Bionic implants",
+          "FalseAnswer": [
+            "Cochlear implants",
+            "Prosthetics",
+            "Orthotics"
+          ],
+          "Explanation": "Bionic implants, such as retinal implants and bionic limbs, aim to restore sensory perception and motor abilities, offering new perspectives for individuals with disabilities."
+        }
+      ]
+    }
+  ]
+}

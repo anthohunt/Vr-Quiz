@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6839431469376021254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7719145403639396049}
+  - component: {fileID: 4843237380700993743}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Motivational_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7719145403639396049
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6839431469376021254}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4843237380700993743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6839431469376021254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: 'Who said, ''Success is not final, failure is not fatal: It is the
+        courage to continue that counts''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Elon Musk
+      - Albert Einstein
+      - Steve Jobs
+      Explanation: Winston Churchill, the British Prime Minister during World War
+        II, uttered these words to inspire perseverance and resilience in the face
+        of adversity.
+    - Question: According to motivational speaker Zig Ziglar, 'You don't have to
+        be great to start, but you have to______?'
+      TrueAnswer: Start to be great
+      FalseAnswer:
+      - Be wealthy to start
+      - Be famous to be great
+      - Be perfect to start
+      Explanation: Zig Ziglar's quote emphasizes that one doesn't need to be perfect
+        or accomplished to begin, but starting is essential to achieving greatness.
+    - Question: Who wrote the motivational book 'The 7 Habits of Highly Effective
+        People'?
+      TrueAnswer: Stephen Covey
+      FalseAnswer:
+      - Dale Carnegie
+      - Napoleon Hill
+      - Tony Robbins
+      Explanation: Stephen Covey's influential book emphasizes principles for personal
+        and professional effectiveness, focusing on habits that lead to success and
+        fulfillment.
+    - Question: Which famous basketball player said, 'I can accept failure, everyone
+        fails at something. But I can't accept not trying'?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Jordan's statement reflects his mindset of resilience
+        and determination, highlighting the importance of effort and persistence
+        in achieving success.
+    - Question: Who penned the quote, 'The only way to do great work is to love what
+        you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, the co-founder of Apple Inc., emphasized the significance
+        of passion and commitment in achieving excellence and fulfillment in one's
+        work.
+    - Question: According to whom, 'The best way to predict the future is to create
+        it'?
+      TrueAnswer: Peter Drucker
+      FalseAnswer:
+      - Warren Buffett
+      - Jeff Bezos
+      - Richard Branson
+      Explanation: Peter Drucker, a renowned management consultant, highlights the
+        proactive approach to shaping one's destiny through deliberate action and
+        strategic planning.
+    - Question: Who is known for saying, 'The only thing standing between you and
+        your goal is the story you keep telling yourself'?
+      TrueAnswer: Jordan Belfort
+      FalseAnswer:
+      - Tony Robbins
+      - Grant Cardone
+      - Eric Thomas
+      Explanation: Jordan Belfort, the real-life inspiration behind 'The Wolf of
+        Wall Street,' emphasizes the role of self-belief and mindset in achieving
+        personal goals and success.
+    - Question: Which author stated, 'You miss 100% of the shots you don't take'?
+      TrueAnswer: Wayne Gretzky
+      FalseAnswer:
+      - Stephen King
+      - J.K. Rowling
+      - Maya Angelou
+      Explanation: Wayne Gretzky, a legendary ice hockey player, underscores the
+        importance of seizing opportunities and taking action to achieve success
+        and fulfillment.
+    - Question: According to ____, 'Don't count the days, make the days count.'
+      TrueAnswer: Muhammad Ali
+      FalseAnswer:
+      - Bruce Lee
+      - Mike Tyson
+      - Jackie Robinson
+      Explanation: Muhammad Ali, the iconic boxer, encourages individuals to prioritize
+        making each day meaningful and impactful rather than simply marking time.
+    - Question: Who stated, 'I am not a product of my circumstances. I am a product
+        of my decisions'?
+      TrueAnswer: Stephen R. Covey
+      FalseAnswer:
+      - Tony Robbins
+      - Deepak Chopra
+      - Les Brown
+      Explanation: Stephen R. Covey, the renowned author and educator, emphasizes
+        the power of personal choice and responsibility in shaping one's life and
+        destiny.
+    - Question: Which American author said, 'The only way to achieve the impossible
+        is to believe it is possible'?
+      TrueAnswer: Charles Kingsleigh
+      FalseAnswer:
+      - Mark Twain
+      - Ernest Hemingway
+      - J.D. Salinger
+      Explanation: Charles Kingsleigh, a fictional character from 'Alice in Wonderland,'
+        embodies the idea that unwavering belief is essential to accomplishing extraordinary
+        feats.
+    - Question: Who said, 'It does not matter how slowly you go as long as you do
+        not stop'?
+      TrueAnswer: Confucius
+      FalseAnswer:
+      - Buddha
+      - Lao Tzu
+      - Socrates
+      Explanation: This timeless wisdom is attributed to Confucius, the influential
+        Chinese philosopher, emphasizing the importance of perseverance and continuous
+        progress.
+    - Question: Which influential leader urged, 'Believe you can and you're halfway
+        there'?
+      TrueAnswer: Theodore Roosevelt
+      FalseAnswer:
+      - Winston Churchill
+      - Napoleon Bonaparte
+      - Martin Luther King Jr.
+      Explanation: The steadfast belief in one's capabilities is emphasized by Theodore
+        Roosevelt, conveying the significance of self-confidence in achieving aspirations
+        and goals.
+    - Question: Who emphasized, 'You are never too old to set another goal or to
+        dream a new dream'?
+      TrueAnswer: C.S. Lewis
+      FalseAnswer:
+      - J.R.R. Tolkien
+      - Jane Austen
+      - Leo Tolstoy
+      Explanation: C.S. Lewis, the renowned author of 'The Chronicles of Narnia,'
+        encourages individuals to embrace possibility and pursue aspirations at any
+        stage of life.
+    - Question: Which tech mogul stated, 'I'm convinced that about half of what separates
+        successful entrepreneurs from the non-successful ones is pure perseverance'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Elon Musk
+      - Mark Zuckerberg
+      - Jeff Bezos
+      Explanation: Steve Jobs, the visionary behind Apple Inc., underscores the pivotal
+        role of persistence and determination in the entrepreneurial journey towards
+        success.
+    - Question: According to whom, 'Success is walking from failure to failure with
+        no loss of enthusiasm'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Napoleon Bonaparte
+      - Martin Luther King Jr.
+      Explanation: Winston Churchill's quotation encapsulates the resilience and
+        optimism required to persevere and thrive despite inevitable setbacks and
+        obstacles.
+    - Question: Who stated, 'The only place where success comes before work is in
+        the dictionary'?
+      TrueAnswer: Vidal Sassoon
+      FalseAnswer:
+      - Coco Chanel
+      - Giorgio Armani
+      - Yves Saint Laurent
+      Explanation: Vidal Sassoon, the legendary hairstylist, humorously highlights
+        the irrefutable correlation between effort and achievement in one's pursuit
+        of success.
+    - Question: Which philosopher spoke the words, 'The only true wisdom is in knowing
+        you know nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates, the revered Athenian philosopher, expressed the significance
+        of humility and intellectual curiosity in the pursuit of genuine knowledge
+        and understanding.
+    - Question: According to ____,'It always seems impossible until it is done.'
+      TrueAnswer: Nelson Mandela
+      FalseAnswer:
+      - Mahatma Gandhi
+      - Winston Churchill
+      - Martin Luther King Jr.
+      Explanation: Nelson Mandela, the anti-apartheid revolutionary, highlights the
+        transformative power of determination and persistence in overcoming seemingly
+        insurmountable challenges.
+    - Question: Who emphasized that 'Your time is limited, so don't waste it living
+        someone else's life'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs' profound insight underscores the importance of pursuing
+        individual passions and priorities rather than conforming to external expectations
+        and influences.

@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1851363749262278282
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5610726514357789863}
+  - component: {fileID: 2839337949255042266}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Textile_Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5610726514357789863
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1851363749262278282}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2839337949255042266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1851363749262278282}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary purpose of textile design?
+      TrueAnswer: Creating fabric patterns
+      FalseAnswer:
+      - Designing buildings
+      - Developing software
+      - Producing music
+      Explanation: Textile design focuses on creating patterns for fabrics, often
+        using techniques such as printing, weaving, or knitting.
+    - Question: Which software is commonly used for digital textile design?
+      TrueAnswer: Adobe Photoshop
+      FalseAnswer:
+      - Autodesk AutoCAD
+      - Microsoft Excel
+      - Avid Pro Tools
+      Explanation: Adobe Photoshop is a popular tool for creating and manipulating
+        digital designs for textiles, allowing for intricate patterns and color schemes.
+    - Question: In textile design, what does the term 'warp' refer to?
+      TrueAnswer: Vertical threads
+      FalseAnswer:
+      - Horizontal threads
+      - Pattern repetition
+      - Color intensity
+      Explanation: The warp refers to the vertical threads in a woven fabric, which
+        are typically stronger and form the foundation for the textile's structure.
+    - Question: What is the purpose of a mood board in textile design?
+      TrueAnswer: Gathering inspiration
+      FalseAnswer:
+      - Calculating fabric yield
+      - Testing fabric durability
+      - Creating marketing materials
+      Explanation: A mood board compiles visual and tactile elements to inspire and
+        guide the design process, including color palettes, textures, and reference
+        images.
+    - Question: Which of these is a traditional textile dyeing technique?
+      TrueAnswer: Batik
+      FalseAnswer:
+      - Embroidery
+      - Quilting
+      - Patchwork
+      Explanation: Batik is a wax-resistant dyeing technique used to create intricate
+        patterns on fabric, originating from Indonesia and other Southeast Asian
+        countries.
+    - Question: What is a jacquard loom commonly used for in textile design?
+      TrueAnswer: Complex pattern weaving
+      FalseAnswer:
+      - Fabric cutting
+      - Thread spinning
+      - Fabric dyeing
+      Explanation: Jacquard looms are known for their ability to produce complex
+        woven patterns, allowing for intricate designs and textures in textiles.
+    - Question: Which fiber is NOT commonly used in textile design?
+      TrueAnswer: Asbestos
+      FalseAnswer:
+      - Cotton
+      - Silk
+      - Wool
+      Explanation: Asbestos is not commonly used in textiles due to its health risks
+        and is banned for use in many countries. Cotton, silk, and wool are traditional
+        and widely used fibers.
+    - Question: What is a defining characteristic of ikat textile design?
+      TrueAnswer: Blurry patterns
+      FalseAnswer:
+      - Geometric precision
+      - Pastel colors
+      - Smooth textures
+      Explanation: Ikat design features a distinct blurry or feathered appearance
+        in the pattern, achieved through a tie-and-dye process before weaving the
+        fabric.
+    - Question: Which technique involves adding metallic threads to fabric in textile
+        design?
+      TrueAnswer: Lurex
+      FalseAnswer:
+      - Batting
+      - Flocking
+      - Brocading
+      Explanation: Lurex is a type of yarn or thread that incorporates metallic fibers,
+        adding shimmer and sparkle to the fabric, commonly used in eveningwear and
+        luxury textiles.
+    - Question: What is the primary focus of sustainable textile design?
+      TrueAnswer: Environmental impact
+      FalseAnswer:
+      - Cost efficiency
+      - Speed of production
+      - Trend conformity
+      Explanation: Sustainable textile design prioritizes minimizing environmental
+        impact, encompassing ethical sourcing, eco-friendly production processes,
+        and biodegradable materials.
+    - Question: Which printing technique uses engraved plates in textile design?
+      TrueAnswer: Intaglio
+      FalseAnswer:
+      - Lithography
+      - Serigraphy
+      - Offset
+      Explanation: Intaglio printing involves incising a design onto a metal plate,
+        which is then inked and pressed onto the fabric, resulting in precise and
+        intricate prints.
+    - Question: What is 'nap' in the context of textile design?
+      TrueAnswer: Surface texture
+      FalseAnswer:
+      - Fiber length
+      - Thread count
+      - Fabric weight
+      Explanation: Nap refers to the raised or fuzzy surface of a fabric, created
+        by fibers that are brushed up during the finishing process, affecting the
+        texture and appearance.
+    - Question: Which designer is known for revolutionary textile patterns in the
+        20th century?
+      TrueAnswer: Ray Eames
+      FalseAnswer:
+      - Gianni Versace
+      - Coco Chanel
+      - Yves Saint Laurent
+      Explanation: Ray Eames, along with her husband Charles, is renowned for innovative
+        textile patterns and their contributions to modern furniture and fabric design.
+    - Question: What is a key characteristic of houndstooth pattern in textile design?
+      TrueAnswer: Broken checks
+      FalseAnswer:
+      - Floral motifs
+      - Stripes
+      - Polka dots
+      Explanation: Houndstooth features a distinctive broken check pattern, often
+        in black and white, creating a visual illusion and adding a classic touch
+        to textiles.
+    - Question: Which designer is associated with the concept of 'fashion for the
+        home' in textile design?
+      TrueAnswer: Vera Wang
+      FalseAnswer:
+      - Ralph Lauren
+      - Donatella Versace
+      - Tom Ford
+      Explanation: Vera Wang expanded her design expertise into home collections,
+        introducing elegant and luxurious textile patterns for interior furnishings
+        and decor.
+    - Question: What is the purpose of 'twill' weave in textile design?
+      TrueAnswer: Creating diagonal lines
+      FalseAnswer:
+      - Achieving high luster
+      - Adding fringes
+      - Reducing fabric stretch
+      Explanation: Twill weave produces diagonal lines on the fabric surface, creating
+        a durable and visually appealing texture, commonly used in denim and suiting
+        fabrics.
+    - Question: Which cultural influence is evident in paisley pattern in textile
+        design?
+      TrueAnswer: Persian
+      FalseAnswer:
+      - Japanese
+      - African
+      - Scandinavian
+      Explanation: Paisley pattern originated from Persia (modern-day Iran), featuring
+        intricate curved motifs and teardrop shapes, reflecting Persian artistic
+        influence.
+    - Question: What does 'selvage' indicate in the context of textile design?
+      TrueAnswer: Fabric edge
+      FalseAnswer:
+      - Colorfastness
+      - Fabric stretch
+      - Weft yarn count
+      Explanation: Selvage refers to the self-finished edge of the fabric, often
+        distinct in appearance and used to prevent fraying, indicating high-quality
+        production.
+    - Question: Which environmental factor has a significant impact on textile design?
+      TrueAnswer: Climate
+      FalseAnswer:
+      - Altitude
+      - Geology
+      - Ocean currents
+      Explanation: Climate directly influences material choices, production processes,
+        and consumer preferences, shaping the design and functionality of textiles
+        in different regions.
+    - Question: What is a defining feature of chenille yarn in textile design?
+      TrueAnswer: Soft and fuzzy texture
+      FalseAnswer:
+      - High tensile strength
+      - Metallic sheen
+      - Thermo-regulation
+      Explanation: Chenille yarn is characterized by its plush and velvety texture,
+        resembling caterpillar fur, commonly used for upholstery and decorative textiles.

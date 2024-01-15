@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1833124972025871169
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6292243266168229984}
+  - component: {fileID: 3254963522178885380}
+  m_Layer: 0
+  m_Name: Cartoons_Animation Techniques.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6292243266168229984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833124972025871169}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3254963522178885380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1833124972025871169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the iconic cartoon character created by Walt
+        Disney?
+      TrueAnswer: Mickey Mouse
+      FalseAnswer:
+      - Donald Duck
+      - Bugs Bunny
+      - SpongeBob SquarePants
+      Explanation: Mickey Mouse is the beloved cartoon character created by Walt
+        Disney in 1928.
+    - Question: Which animation technique involves manipulating clay figures to create
+        movement?
+      TrueAnswer: Claymation
+      FalseAnswer:
+      - Stop motion
+      - 2D animation
+      - Computer-generated imagery
+      Explanation: Claymation is an animation technique that uses clay figures and
+        stop motion to create movement.
+    - Question: What is the term for the process of creating movement in a cartoon?
+      TrueAnswer: Animation
+      FalseAnswer:
+      - Illustration
+      - Storyboarding
+      - Voice acting
+      Explanation: Animation is the term used to describe the process of creating
+        movement in a cartoon.
+    - Question: Which animation technique involves drawing each frame by hand?
+      TrueAnswer: Traditional animation
+      FalseAnswer:
+      - Computer animation
+      - Motion capture
+      - Rotoscoping
+      Explanation: Traditional animation involves drawing each frame by hand to create
+        the illusion of movement.
+    - Question: What is the name of the animation technique that combines 2D and
+        3D elements?
+      TrueAnswer: Hybrid animation
+      FalseAnswer:
+      - Cel animation
+      - Cutout animation
+      - Pixilation
+      Explanation: Hybrid animation is a technique that combines 2D and 3D elements
+        to create a unique visual style.
+    - Question: Which animation technique involves moving real objects frame by frame?
+      TrueAnswer: Stop motion
+      FalseAnswer:
+      - Digital animation
+      - Puppet animation
+      - Claymation
+      Explanation: Stop motion involves moving real objects frame by frame to create
+        the illusion of movement.
+    - Question: What is the term for the individual images that make up an animation?
+      TrueAnswer: Frames
+      FalseAnswer:
+      - Cells
+      - Pixels
+      - Layers
+      Explanation: Frames are the individual images that make up an animation, creating
+        the illusion of movement when played in sequence.
+    - Question: Which animation technique involves tracing over live-action footage?
+      TrueAnswer: Rotoscoping
+      FalseAnswer:
+      - Cutout animation
+      - Pixilation
+      - Motion capture
+      Explanation: Rotoscoping is an animation technique that involves tracing over
+        live-action footage to create realistic movement.
+    - Question: What is the term for the exaggerated facial expressions and movements
+        in cartoons?
+      TrueAnswer: Cartoon physics
+      FalseAnswer:
+      - Squash and stretch
+      - Anticipation
+      - Timing
+      Explanation: Cartoon physics refers to the exaggerated facial expressions and
+        movements that defy real-world physics in cartoons.
+    - Question: Which animation technique involves creating characters and objects
+        from cut-out materials?
+      TrueAnswer: Cutout animation
+      FalseAnswer:
+      - Pixilation
+      - Rotoscoping
+      - Motion capture
+      Explanation: Cutout animation involves creating characters and objects from
+        cut-out materials, such as paper or fabric.
+    - Question: What is the term for the process of planning out a cartoon scene?
+      TrueAnswer: Storyboarding
+      FalseAnswer:
+      - Inking
+      - Keyframing
+      - Modeling
+      Explanation: Storyboarding is the process of planning out a cartoon scene by
+        creating a sequence of drawings or sketches.
+    - Question: Which animation technique involves creating movement using computer
+        software?
+      TrueAnswer: Computer animation
+      FalseAnswer:
+      - Traditional animation
+      - Stop motion
+      - Cel animation
+      Explanation: Computer animation involves creating movement using computer software,
+        such as 3D modeling and rendering.
+    - Question: What is the term for the process of giving voices to cartoon characters?
+      TrueAnswer: Voice acting
+      FalseAnswer:
+      - Sound design
+      - Foley art
+      - ADR
+      Explanation: Voice acting is the process of giving voices to cartoon characters,
+        bringing them to life through dialogue and expressions.
+    - Question: Which animation technique involves creating movement using a series
+        of photographs?
+      TrueAnswer: Pixilation
+      FalseAnswer:
+      - Cutout animation
+      - Rotoscoping
+      - Motion capture
+      Explanation: Pixilation is an animation technique that involves creating movement
+        using a series of photographs of real people or objects.
+    - Question: What is the term for the process of adding color to a black and white
+        cartoon?
+      TrueAnswer: Colorization
+      FalseAnswer:
+      - Inking
+      - Shading
+      - Texturing
+      Explanation: Colorization is the process of adding color to a black and white
+        cartoon, enhancing its visual appeal.
+    - Question: Which animation technique involves creating movement using puppets
+        or figurines?
+      TrueAnswer: Puppet animation
+      FalseAnswer:
+      - Digital animation
+      - Stop motion
+      - Claymation
+      Explanation: Puppet animation involves creating movement using puppets or figurines,
+        manipulating them frame by frame.
+    - Question: What is the term for the anticipation of an action before it happens
+        in a cartoon?
+      TrueAnswer: Anticipation
+      FalseAnswer:
+      - Exaggeration
+      - Follow-through
+      - Secondary action
+      Explanation: Anticipation is the term for the preparation or buildup of an
+        action before it happens in a cartoon.
+    - Question: Which animation technique involves capturing the movements of real
+        actors for digital characters?
+      TrueAnswer: Motion capture
+      FalseAnswer:
+      - Rotoscoping
+      - Cutout animation
+      - Pixilation
+      Explanation: Motion capture involves capturing the movements of real actors
+        and applying them to digital characters in animation.
+    - Question: What is the term for the process of adding shading and highlights
+        to a cartoon?
+      TrueAnswer: Rendering
+      FalseAnswer:
+      - Modeling
+      - Texturing
+      - Rigging
+      Explanation: Rendering is the process of adding shading, highlights, and other
+        visual effects to a cartoon to enhance its appearance.
+    - Question: Which animation technique involves creating movement using hand-drawn
+        transparent sheets?
+      TrueAnswer: Cel animation
+      FalseAnswer:
+      - Traditional animation
+      - Computer animation
+      - Stop motion
+      Explanation: Cel animation involves creating movement using hand-drawn transparent
+        sheets called cels, which are layered to create the final image.
+    - Question: What is the term for the process of giving depth and structure to
+        a 2D cartoon?
+      TrueAnswer: Layering
+      FalseAnswer:
+      - Tweening
+      - Keyframing
+      - Compositing
+      Explanation: Layering is the process of giving depth and structure to a 2D
+        cartoon by placing elements on different layers.

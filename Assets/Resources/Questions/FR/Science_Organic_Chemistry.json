@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'élément le plus abondant dans les composés organiques ?",
+            "TrueAnswer": "Carbone",
+            "FalseAnswer": [
+              "Oxygène",
+              "Hydrogène",
+              "Azote"
+            ],
+            "Explanation": "Le carbone est l'élément principal des composés organiques en raison de ses capacités de liaison polyvalentes, formant l'ossature des molécules organiques."
+          },
+          {
+            "Question": "Quel processus décrit la conversion d'un groupe fonctionnel en un autre ?",
+            "TrueAnswer": "Interconversion des groupes fonctionnels",
+            "FalseAnswer": [
+              "Hydrogénation",
+              "Oxydation",
+              "Substitution"
+            ],
+            "Explanation": "L'interconversion des groupes fonctionnels consiste à changer un groupe fonctionnel en un autre tout en maintenant le squelette carboné intact, un principe clé dans la synthèse organique."
+          },
+          {
+            "Question": "Quel nom est donné aux composés ayant la même formule moléculaire mais des structures différentes ?",
+            "TrueAnswer": "Isomères",
+            "FalseAnswer": [
+              "Homologues",
+              "Analogues",
+              "Isotopes"
+            ],
+            "Explanation": "Les isomères ont la même formule moléculaire mais des agencements structuraux différents, ce qui conduit à des propriétés chimiques et physiques distinctes."
+          },
+          {
+            "Question": "Quel est le groupe fonctionnel présent dans les alcools ?",
+            "TrueAnswer": "Hydroxyle (-OH)",
+            "FalseAnswer": [
+              "Carbonyle (>C=O)",
+              "Amine (-NH2)",
+              "Éther (R-O-R)"
+            ],
+            "Explanation": "Le groupe hydroxyle (-OH) est le groupe fonctionnel caractéristique des alcools, conférant leur réactivité chimique et leurs propriétés uniques."
+          },
+          {
+            "Question": "Quel type de réaction convertit un alcanne en un alcène ?",
+            "TrueAnswer": "Élimination",
+            "FalseAnswer": [
+              "Addition",
+              "Oxydation",
+              "Substitution"
+            ],
+            "Explanation": "Les réactions d'élimination entraînent l'élimination d'atomes ou de groupes d'une molécule, conduisant à la formation d'une double liaison dans les alcènes."
+          },
+          {
+            "Question": "Quel est le groupe fonctionnel principal des acides carboxyliques ?",
+            "TrueAnswer": "Carboxyle (-COOH)",
+            "FalseAnswer": [
+              "Aldéhyde (-CHO)",
+              "Ester (-COOR)",
+              "Cétone (R-CO-R)"
+            ],
+            "Explanation": "Le groupe carboxyle (-COOH) est le groupe fonctionnel caractéristique des acides carboxyliques, contribuant à leurs propriétés acides et à leur réactivité."
+          },
+          {
+            "Question": "Combien de liaisons pi sont présentes dans une triple liaison entre deux atomes de carbone ?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "1",
+              "3",
+              "4"
+            ],
+            "Explanation": "Une triple liaison est composée d'une liaison sigma et de deux liaisons pi, offrant un total de trois régions d'électrons partagés entre les atomes de carbone."
+          },
+          {
+            "Question": "Quel groupe fonctionnel caractérise les amines ?",
+            "TrueAnswer": "Amino (-NH2)",
+            "FalseAnswer": [
+              "Alcène (C=C)",
+              "Alcool (-OH)",
+              "Halogénure d'alkyle (R-X)"
+            ],
+            "Explanation": "Le groupe amino (-NH2) est la caractéristique des amines, contribuant à leurs propriétés basiques et à leur participation dans des réactions nucléophiles."
+          },
+          {
+            "Question": "Quel type d'isomérie est exemplifié par l'isomérie cis-trans ?",
+            "TrueAnswer": "Isomérie géométrique",
+            "FalseAnswer": [
+              "Isomérie structurale",
+              "Isomérie optique",
+              "Isomérie tautomérique"
+            ],
+            "Explanation": "L'isomérie cis-trans, une forme d'isomérie géométrique, résulte de la rotation restreinte autour d'une double liaison, menant à différentes configurations spatiales."
+          },
+          {
+            "Question": "Quel groupe fonctionnel caractérise les éthers ?",
+            "TrueAnswer": "R-O-R",
+            "FalseAnswer": [
+              "Carbonyle (>C=O)",
+              "Hydroxyle (-OH)",
+              "Amine (-NH2)"
+            ],
+            "Explanation": "Les éthers sont caractérisés par la liaison éther R-O-R, où deux groupes alkyles ou aryles sont reliés par un atome d'oxygène, conférant des propriétés uniques."
+          },
+          {
+            "Question": "Quelle est la formule générale des alcènes ?",
+            "TrueAnswer": "CnH2n",
+            "FalseAnswer": [
+              "CnH2n+2",
+              "CnH2n-1",
+              "CnH2n+1"
+            ],
+            "Explanation": "Les alcènes suivent la formule générale CnH2n, reflétant la présence d'une double liaison entre les atomes de carbone et le nombre correspondant d'atomes d'hydrogène."
+          },
+          {
+            "Question": "Quel groupe fonctionnel caractérise les aldéhydes ?",
+            "TrueAnswer": "Aldéhyde (-CHO)",
+            "FalseAnswer": [
+              "Cétone (R-CO-R)",
+              "Carboxyle (-COOH)",
+              "Alcool (-OH)"
+            ],
+            "Explanation": "Le groupe aldéhyde (-CHO) est le groupe fonctionnel caractéristique des aldéhydes, contribuant à leurs modèles chimiques et de réactivité uniques."
+          },
+          {
+            "Question": "Quel est le produit principal de l'hydrogénation d'un alcène ?",
+            "TrueAnswer": "Alcane",
+            "FalseAnswer": [
+              "Alcène",
+              "Alcool",
+              "Cétone"
+            ],
+            "Explanation": "L'hydrogénation d'un alcène implique l'addition d'hydrogène, conduisant à la formation d'un alcane comme produit principal."
+          },
+          {
+            "Question": "Quel groupe fonctionnel est présent dans les esters ?",
+            "TrueAnswer": "Ester (-COOR)",
+            "FalseAnswer": [
+              "Carboxyle (-COOH)",
+              "Carbonyle (>C=O)",
+              "Alcool (-OH)"
+            ],
+            "Explanation": "Les esters sont caractérisés par le groupe fonctionnel ester (-COOR), composé d'un groupe carbonyle lié à un groupe alcoxyle."
+          },
+          {
+            "Question": "Quelle est une étape clé dans le mécanisme de réaction de substitution aromatique ?",
+            "TrueAnswer": "Formation d'un complexe sigma",
+            "FalseAnswer": [
+              "Protonation de l'anneau aromatique",
+              "Attaque nucléophile",
+              "Élimination bêta"
+            ],
+            "Explanation": "La substitution aromatique implique la formation initiale d'un complexe sigma, facilitant la substitution d'un substituant sur l'anneau aromatique."
+          },
+          {
+            "Question": "Quel groupe fonctionnel caractérise les amides ?",
+            "TrueAnswer": "Amide (-CONH2)",
+            "FalseAnswer": [
+              "Amine (-NH2)",
+              "Alcool (-OH)",
+              "Carboxyle (-COOH)"
+            ],
+            "Explanation": "Les amides sont définis par le groupe fonctionnel amide (-CONH2), issu de la réaction de condensation entre un acide carboxylique et une amine."
+          },
+          {
+            "Question": "Quel type de réaction est caractéristique des acides carboxyliques et des alcools ?",
+            "TrueAnswer": "Estérification",
+            "FalseAnswer": [
+              "Oxydation",
+              "Addition",
+              "Hydrolyse"
+            ],
+            "Explanation": "L'estérification implique la réaction de condensation entre un acide carboxylique et un alcool, conduisant à la formation d'un ester et d'eau."
+          },
+          {
+            "Question": "Quel groupe fonctionnel caractérise les cétones ?",
+            "TrueAnswer": "Cétone (R-CO-R)",
+            "FalseAnswer": [
+              "Aldéhyde (-CHO)",
+              "Carboxyle (-COOH)",
+              "Alcool (-OH)"
+            ],
+            "Explanation": "Les cétones sont caractérisées par le groupe fonctionnel cétone (R-CO-R), composé d'un groupe carbonyle lié à deux groupes alkyles ou aryles."
+          },
+          {
+            "Question": "Dans l'addition électrophilique, quel type d'intermédiaire se forme ?",
+            "TrueAnswer": "Carbocation",
+            "FalseAnswer": [
+              "Radical",
+              "Carbanion",
+              "Radical libre"
+            ],
+            "Explanation": "L'addition électrophilique se déroule par la formation initiale d'un intermédiaire carbocation chargé positivement, conduisant à une attaque nucléophile ultérieure."
+          },
+          {
+            "Question": "Quel type d'isomérie se produit dans les composés avec des centres chiraux ?",
+            "TrueAnswer": "Isomérie optique",
+            "FalseAnswer": [
+              "Isomérie structurale",
+              "Isomérie géométrique",
+              "Isomérie tautomérique"
+            ],
+            "Explanation": "La chiralité des composés se traduit par une isomérie optique, où les énantiomères présentent des interactions différentes avec la lumière polarisée en raison de leur nature en miroir."
+          }
+        ]
+      }
+    }
+  ]
+}

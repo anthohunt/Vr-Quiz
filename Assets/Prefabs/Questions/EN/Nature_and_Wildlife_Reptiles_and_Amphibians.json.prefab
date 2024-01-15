@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1811784007258701053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5438830055194504639}
+  - component: {fileID: 5040062785056992945}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Reptiles_and_Amphibians.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5438830055194504639
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1811784007258701053}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5040062785056992945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1811784007258701053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest reptile by body length?
+      TrueAnswer: Green Anaconda
+      FalseAnswer:
+      - American Alligator
+      - Komodo Dragon
+      - Saltwater Crocodile
+      Explanation: The Green Anaconda can reach lengths of over 25 feet and weigh
+        up to 550 pounds, making it the largest reptile in the world.
+    - Question: Which amphibian has the longest lifespan?
+      TrueAnswer: Japanese Giant Salamander
+      FalseAnswer:
+      - American Bullfrog
+      - Axolotl
+      - Common Frog
+      Explanation: The Japanese Giant Salamander can live for over 50 years, making
+        it one of the longest-living amphibians in the world.
+    - Question: What is the largest species of turtle?
+      TrueAnswer: Leatherback Sea Turtle
+      FalseAnswer:
+      - Galapagos Giant Tortoise
+      - Aldabra Giant Tortoise
+      - Loggerhead Sea Turtle
+      Explanation: The Leatherback Sea Turtle is the largest turtle species, with
+        adults reaching lengths of up to 7 feet and weights exceeding 2,000 pounds.
+    - Question: Which reptile is known for its ability to change color?
+      TrueAnswer: Panther Chameleon
+      FalseAnswer:
+      - Green Iguana
+      - Veiled Chameleon
+      - Leopard Gecko
+      Explanation: The Panther Chameleon is famous for its ability to change colors,
+        and its vibrant hues and patterns are used for communication and camouflage.
+    - Question: What is the largest species of frog?
+      TrueAnswer: Goliath Frog
+      FalseAnswer:
+      - Bullfrog
+      - Tree Frog
+      - Poison Dart Frog
+      Explanation: The Goliath Frog can grow up to 32 centimeters in length and weigh
+        over 3 kilograms, making it the largest frog species in the world.
+    - Question: Which amphibian has a transparent belly?
+      TrueAnswer: Glass Frog
+      FalseAnswer:
+      - Firebelly Toad
+      - Mud Puppy
+      - Salamander
+      Explanation: The Glass Frog's ventral side is translucent, allowing one to
+        see its internal organs, including its beating heart and digestive system.
+    - Question: What is the world's most venomous lizard?
+      TrueAnswer: Gila Monster
+      FalseAnswer:
+      - Komodo Dragon
+      - Nile Monitor
+      - Black Tree Monitor
+      Explanation: The Gila Monster has potent venom, making it one of the few venomous
+        lizards. It is native to the southwestern United States and northwestern
+        Mexican states.
+    - Question: Which reptile gives birth to live young instead of laying eggs?
+      TrueAnswer: Boa Constrictor
+      FalseAnswer:
+      - Bearded Dragon
+      - Green Anaconda
+      - Reticulated Python
+      Explanation: Boa Constrictors are viviparous, meaning they give birth to live
+        young, while most reptiles are oviparous, laying eggs.
+    - Question: Which amphibian has the ability to regenerate lost limbs?
+      TrueAnswer: Axolotl
+      FalseAnswer:
+      - American Bullfrog
+      - Cane Toad
+      - Salamander
+      Explanation: Axolotls are unique in their ability to regenerate limbs, gills,
+        and even parts of their brain and spinal cord throughout their lifespan.
+    - Question: What is the only species of marine iguana?
+      TrueAnswer: Galapagos Marine Iguana
+      FalseAnswer:
+      - Fiji Banded Iguana
+      - Spiny-Tailed Iguana
+      - Green Iguana
+      Explanation: The Galapagos Marine Iguana is the only species of marine iguana
+        and is found exclusively on the Galapagos Islands in the Pacific Ocean.
+    - Question: Which reptile is known for its horned, armor-like scales?
+      TrueAnswer: Thorny Devil
+      FalseAnswer:
+      - Frilled Dragon
+      - Gila Monster
+      - King Cobra
+      Explanation: The Thorny Devil has a distinctive spiky appearance, with thorn-like
+        scales covering its body, providing protection from predators in arid environments.
+    - Question: Which amphibian is also known as the 'Mexican walking fish'?
+      TrueAnswer: Axolotl
+      FalseAnswer:
+      - Oriental Fire-Bellied Toad
+      - Red-Eyed Tree Frog
+      - American Bullfrog
+      Explanation: The Axolotl, native to Mexico, is often called the 'Mexican walking
+        fish' due to its aquatic nature and external gills.
+    - Question: Which reptile is the largest of all living lizards?
+      TrueAnswer: Komodo Dragon
+      FalseAnswer:
+      - Green Iguana
+      - Black Tree Monitor
+      - Nile Monitor
+      Explanation: The Komodo Dragon can grow up to 10 feet in length and weigh over
+        150 pounds, making it the largest living lizard in the world.
+    - Question: What is the most widespread tortoise species in the world?
+      TrueAnswer: African Spurred Tortoise
+      FalseAnswer:
+      - Galapagos Giant Tortoise
+      - Leopard Tortoise
+      - Red-Footed Tortoise
+      Explanation: The African Spurred Tortoise is native to the southern edge of
+        the Sahara Desert and is the most widespread tortoise species globally.
+    - Question: Which amphibian is often referred to as a 'living fossil'?
+      TrueAnswer: Japanese Giant Salamander
+      FalseAnswer:
+      - American Bullfrog
+      - Marbled Salamander
+      - Fire Salamander
+      Explanation: The Japanese Giant Salamander has remained relatively unchanged
+        for millions of years, earning it the nickname 'living fossil.'
+    - Question: What is the largest species of alligator?
+      TrueAnswer: Chinese Alligator
+      FalseAnswer:
+      - American Alligator
+      - Spectacled Caiman
+      - Black Caiman
+      Explanation: The Chinese Alligator is the smallest species of alligator, with
+        adults typically reaching lengths of 5 to 7 feet.
+    - Question: Which reptile is famous for its ability to glide from tree to tree?
+      TrueAnswer: Paradise Tree Snake
+      FalseAnswer:
+      - Flying Gecko
+      - Pond Slider Turtle
+      - Veiled Chameleon
+      Explanation: The Paradise Tree Snake, also known as the Paradise Flying Snake,
+        is remarkable for launching itself from high branches and gliding through
+        the air.
+    - Question: Where can the exotic Tuatara reptile be found in the wild?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - Madagascar
+      - Australia
+      - Brazil
+      Explanation: The Tuatara is found only in New Zealand, and it is the last surviving
+        species of its order, which dates back to the time of the dinosaurs.
+    - Question: Which amphibian is known for its vibrant and toxic skin secretions?
+      TrueAnswer: Golden Poison Frog
+      FalseAnswer:
+      - American Bullfrog
+      - California Newt
+      - Mediterranean Tree Frog
+      Explanation: The Golden Poison Frog's skin secretions contain one of the most
+        potent neurotoxins, making it one of the most toxic animals on the planet.
+    - Question: What is the largest species of crocodile?
+      TrueAnswer: Saltwater Crocodile
+      FalseAnswer:
+      - Nile Crocodile
+      - American Crocodile
+      - Morelet's Crocodile
+      Explanation: The Saltwater Crocodile is the largest extant species of crocodile
+        and holds the record for the largest confirmed individual size of any crocodilian.

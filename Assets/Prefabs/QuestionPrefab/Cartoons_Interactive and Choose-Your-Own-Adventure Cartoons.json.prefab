@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5446549416046485706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 922299630365914970}
+  - component: {fileID: 8051374790074801723}
+  m_Layer: 0
+  m_Name: Cartoons_Interactive and Choose-Your-Own-Adventure Cartoons.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &922299630365914970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5446549416046485706}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8051374790074801723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5446549416046485706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the outcome?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Peppa Pig
+      - Paw Patrol
+      Explanation: Dora the Explorer is an interactive cartoon series where viewers
+        can choose the outcome of Dora's adventures.
+    - Question: Which cartoon allows viewers to make choices for the main character,
+        a young boy with a magical backpack?
+      TrueAnswer: Blue's Clues
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Adventure Time
+      Explanation: Blue's Clues is a cartoon where viewers can make choices for the
+        main character, a young boy named Steve.
+    - Question: In which interactive cartoon series can viewers help the main character
+        solve mysteries?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Tom and Jerry
+      - Looney Tunes
+      - The Flintstones
+      Explanation: Scooby-Doo is an interactive cartoon series where viewers can
+        help the main character and his friends solve mysteries.
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the path of the story?
+      TrueAnswer: 'Dora and Friends: Into the City!'
+      FalseAnswer:
+      - The Fairly OddParents
+      - Rugrats
+      - Hey Arnold!
+      Explanation: 'Dora and Friends: Into the City! is an interactive cartoon series
+        where viewers can choose the path of the story.'
+    - Question: Which interactive cartoon series features a group of animal friends
+        who go on adventures?
+      TrueAnswer: Go, Diego, Go!
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - South Park
+      Explanation: Go, Diego, Go! is an interactive cartoon series that features
+        a group of animal friends who go on adventures.
+    - Question: In which interactive cartoon series can viewers help the main character,
+        a young girl with a talking backpack?
+      TrueAnswer: 'Dora and Friends: Into the City!'
+      FalseAnswer:
+      - 'My Little Pony: Friendship is Magic'
+      - Paw Patrol
+      - PJ Masks
+      Explanation: 'Dora and Friends: Into the City! is an interactive cartoon series
+        where viewers can help the main character, a young girl named Dora, and her
+        talking backpack.'
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the outcome of the story?
+      TrueAnswer: Paw Patrol
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Peppa Pig
+      - Dora the Explorer
+      Explanation: Paw Patrol is an interactive cartoon series where viewers can
+        choose the outcome of the story and help the main characters, a group of
+        rescue dogs.
+    - Question: Which interactive cartoon series features a young boy who can transform
+        into different animals?
+      TrueAnswer: Wild Kratts
+      FalseAnswer:
+      - Ben 10
+      - Teenage Mutant Ninja Turtles
+      - The Powerpuff Girls
+      Explanation: Wild Kratts is an interactive cartoon series that features a young
+        boy who can transform into different animals with the help of special suits.
+    - Question: In which interactive cartoon series can viewers help the main character,
+        a young girl with a magical crown?
+      TrueAnswer: Shimmer and Shine
+      FalseAnswer:
+      - The Little Mermaid
+      - Frozen
+      - Moana
+      Explanation: Shimmer and Shine is an interactive cartoon series where viewers
+        can help the main character, a young girl named Leah, and her magical crown.
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the path of the story?
+      TrueAnswer: Blaze and the Monster Machines
+      FalseAnswer:
+      - Sesame Street
+      - Barney & Friends
+      - Thomas & Friends
+      Explanation: Blaze and the Monster Machines is an interactive cartoon series
+        where viewers can choose the path of the story and help the main character,
+        a monster truck named Blaze.
+    - Question: Which interactive cartoon series features a group of superhero puppies
+        who go on rescue missions?
+      TrueAnswer: Paw Patrol
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Adventure Time
+      Explanation: Paw Patrol is an interactive cartoon series that features a group
+        of superhero puppies who go on rescue missions to protect Adventure Bay.
+    - Question: In which interactive cartoon series can viewers help the main character,
+        a young boy with a magical paintbrush?
+      TrueAnswer: Creative Galaxy
+      FalseAnswer:
+      - Bob the Builder
+      - Handy Manny
+      - Thomas & Friends
+      Explanation: Creative Galaxy is an interactive cartoon series where viewers
+        can help the main character, a young boy named Arty, and his magical paintbrush.
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the outcome of the story?
+      TrueAnswer: 'Dora and Friends: Into the City!'
+      FalseAnswer:
+      - The Fairly OddParents
+      - Rugrats
+      - Hey Arnold!
+      Explanation: 'Dora and Friends: Into the City! is an interactive cartoon series
+        where viewers can choose the outcome of the story and help the main character,
+        Dora.'
+    - Question: Which interactive cartoon series features a young girl who can talk
+        to animals?
+      TrueAnswer: Littlest Pet Shop
+      FalseAnswer:
+      - 'My Little Pony: Friendship is Magic'
+      - Paw Patrol
+      - PJ Masks
+      Explanation: Littlest Pet Shop is an interactive cartoon series that features
+        a young girl named Blythe who can talk to animals and help them with their
+        problems.
+    - Question: In which interactive cartoon series can viewers help the main character,
+        a young boy with a magical hat?
+      TrueAnswer: Wallykazam!
+      FalseAnswer:
+      - Peppa Pig
+      - Paw Patrol
+      - PJ Masks
+      Explanation: Wallykazam! is an interactive cartoon series where viewers can
+        help the main character, a young boy named Wally, and his magical hat.
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the outcome of the story?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Peppa Pig
+      - Paw Patrol
+      Explanation: Dora the Explorer is an interactive cartoon series where viewers
+        can choose the outcome of Dora's adventures and help her solve problems.
+    - Question: Which interactive cartoon series features a group of animal friends
+        who go on adventures?
+      TrueAnswer: Go, Diego, Go!
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - South Park
+      Explanation: Go, Diego, Go! is an interactive cartoon series that features
+        a group of animal friends who go on adventures and help animals in need.
+    - Question: In which interactive cartoon series can viewers help the main character,
+        a young girl with a talking backpack?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - 'My Little Pony: Friendship is Magic'
+      - Paw Patrol
+      - PJ Masks
+      Explanation: Dora the Explorer is an interactive cartoon series where viewers
+        can help the main character, a young girl named Dora, and her talking backpack.
+    - Question: What is the name of the interactive cartoon series where viewers
+        can choose the path of the story?
+      TrueAnswer: Paw Patrol
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Peppa Pig
+      - 'Dora and Friends: Into the City!'
+      Explanation: Paw Patrol is an interactive cartoon series where viewers can
+        choose the path of the story and help the main characters, a group of rescue
+        dogs.
+    - Question: Which interactive cartoon series features a young boy who can transform
+        into different animals?
+      TrueAnswer: Wild Kratts
+      FalseAnswer:
+      - Ben 10
+      - Teenage Mutant Ninja Turtles
+      - The Powerpuff Girls
+      Explanation: Wild Kratts is an interactive cartoon series that features a young
+        boy who can transform into different animals with the help of special suits
+        and learn about their habitats.

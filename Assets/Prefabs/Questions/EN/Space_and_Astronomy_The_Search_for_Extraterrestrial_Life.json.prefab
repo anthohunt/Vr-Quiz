@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8573846394125178637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3881499156488070251}
+  - component: {fileID: 7441076195932639418}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_The_Search_for_Extraterrestrial_Life.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3881499156488070251
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8573846394125178637}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7441076195932639418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8573846394125178637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What does SETI stand for?
+      TrueAnswer: Search for Extraterrestrial Intelligence
+      FalseAnswer:
+      - Study of Extraterrestrial Investigations
+      - Seeking Extraterrestrial Interactions
+      - Survey for Extraterrestrial Information
+      Explanation: SETI is an organization dedicated to the scientific search for
+        intelligent extraterrestrial life using radio telescopes and signal analysis.
+    - Question: Which planet in our solar system is the best candidate for hosting
+        extraterrestrial life?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Jupiter
+      - Neptune
+      Explanation: Mars has water ice and evidence of past liquid water, making it
+        a prime target for the search for microbial life.
+    - Question: What is the name of the famous radio telescope facility in Puerto
+        Rico used in the search for extraterrestrial intelligence?
+      TrueAnswer: Arecibo Observatory
+      FalseAnswer:
+      - Mauna Kea Observatory
+      - Goldstone Deep Space Communications Complex
+      - Very Large Array
+      Explanation: Arecibo Observatory was used for radio astronomy and atmospheric
+        science, and famously featured in the movie 'Contact'.
+    - Question: What is the famous equation formulated to estimate the number of
+        active extraterrestrial civilizations in the Milky Way galaxy?
+      TrueAnswer: Drake Equation
+      FalseAnswer:
+      - Hawking Equation
+      - Sagan Equation
+      - Kepler Equation
+      Explanation: The Drake Equation considers factors such as star formation rate
+        and the likelihood of life-bearing planets to estimate potential alien civilizations.
+    - Question: What type of star is most likely to host habitable exoplanets?
+      TrueAnswer: K-type dwarf star
+      FalseAnswer:
+      - Red giant star
+      - White dwarf star
+      - O-type main-sequence star
+      Explanation: K-type dwarf stars have stable energy output, allowing planets
+        to be within the habitable zone for extended periods, increasing the chances
+        for life to develop.
+    - Question: Which moon in our solar system exhibits evidence of a subsurface
+        ocean with potential for life?
+      TrueAnswer: Europa
+      FalseAnswer:
+      - Io
+      - Ganymede
+      - Titan
+      Explanation: Europa's subsurface ocean is believed to contain twice the amount
+        of water found on Earth, making it a prime target for the search for life
+        beyond Earth.
+    - Question: What is the main method used to detect exoplanets in the search for
+        extraterrestrial life?
+      TrueAnswer: Transit method
+      FalseAnswer:
+      - Gravitational microlensing
+      - Direct imaging
+      - Radial velocity method
+      Explanation: The transit method looks for a dip in a star's brightness caused
+        by a planet passing in front of it, allowing scientists to infer the existence
+        of exoplanets.
+    - Question: Which of these molecules is considered a potential biosignature in
+        the search for extraterrestrial life?
+      TrueAnswer: Methane
+      FalseAnswer:
+      - Carbon monoxide
+      - Nitrogen
+      - Carbon dioxide
+      Explanation: Methane can be a byproduct of biological activity and has been
+        identified in the atmospheres of some exoplanets, making it a key target
+        for astrobiologists.
+    - Question: What is the distance unit used to define the habitable zone around
+        a star?
+      TrueAnswer: Astronomical Unit (AU)
+      FalseAnswer:
+      - Parsec (pc)
+      - Light-year (ly)
+      - Kilometer (km)
+      Explanation: The habitable zone refers to the region around a star where conditions
+        may be right for liquid water to exist, crucial for the potential development
+        of life.
+    - Question: What is the name of the interstellar object discovered in 2017 that
+        generated interest as a possible extraterrestrial probe?
+      TrueAnswer: Oumuamua
+      FalseAnswer:
+      - Borasisi
+      - C/2020 F3 (NEOWISE)
+      - Gigayear
+      Explanation: Oumuamua's unusual characteristics, such as its elongated shape
+        and non-gravitational acceleration, led to speculation about its nature as
+        an artificial object sent by an alien civilization.
+    - Question: What is the name of the NASA mission that focuses on the search for
+        habitable exoplanets and life beyond our solar system?
+      TrueAnswer: Kepler
+      FalseAnswer:
+      - Hubble
+      - Spitzer
+      - Tess
+      Explanation: The Kepler mission used a space telescope to discover thousands
+        of exoplanets and assess their potential habitability, revolutionizing our
+        understanding of planetary systems.
+    - Question: What type of environmental conditions are typically considered as
+        extreme habitats that could support alien life forms?
+      TrueAnswer: Extremeophiles
+      FalseAnswer:
+      - Moderateophiles
+      - Standardophiles
+      - Adaptiveophiles
+      Explanation: Extremeophiles are microorganisms capable of surviving and thriving
+        in extreme conditions such as high radiation, extreme temperature, or high
+        acidity, providing insights into potential extraterrestrial habitats.
+    - Question: What is the name of the famous signal detected by SETI in 1977, often
+        referred to as the 'Wow! Signal'?
+      TrueAnswer: 6EQUJ5
+      FalseAnswer:
+      - 8JQK2T
+      - 3KLM7N
+      - 9RST3V
+      Explanation: The 6EQUJ5 signal, received by the Big Ear radio telescope, remains
+        one of the most unexplained and potentially significant events in the search
+        for extraterrestrial intelligence.
+    - Question: What is the term for the hypothetical concept where advanced civilizations
+        may be harnessing energy from stars for interstellar communication?
+      TrueAnswer: Dyson sphere
+      FalseAnswer:
+      - Hawking ring
+      - Sagan shell
+      - Kardashev veil
+      Explanation: The Dyson sphere concept, proposed by physicist Freeman Dyson,
+        suggests that highly advanced civilizations could encase stars to harness
+        their energy for technological purposes, providing a potential signature
+        for detection.
+    - Question: What is the name of the famous equation used to estimate the likelihood
+        of detecting extraterrestrial civilizations through their electromagnetic
+        transmissions?
+      TrueAnswer: Kardashev Scale
+      FalseAnswer:
+      - Fermi Paradox
+      - Great Filter
+      - Drake Equation
+      Explanation: The Kardashev Scale categorizes civilizations based on their energy
+        consumption, offering a framework for understanding the potential technological
+        capabilities and detectability of extraterrestrial civilizations.
+    - Question: Which of the following is a method used to explore the possibility
+        of panspermia, the transfer of life between celestial bodies?
+      TrueAnswer: Meteorite analysis
+      FalseAnswer:
+      - Dark matter detection
+      - Neutrino observation
+      - Gravitational wave detection
+      Explanation: Meteorite analysis seeks to identify potential extraterrestrial
+        microbial life or organic molecules, providing important insights into the
+        possibility of panspermia and the origin of life.
+    - Question: What is the concept that suggests life on Earth may have originated
+        from extraterrestrial microbial life transported through space?
+      TrueAnswer: Panspermia
+      FalseAnswer:
+      - Exogenesis
+      - Astrobiogenesis
+      - Interstellargenesis
+      Explanation: Panspermia proposes that life exists throughout the universe and
+        can be spread through comets, meteoroids, and space dust, potentially leading
+        to the seeding of life on habitable planets.
+    - Question: Which telescope, launched in 1990, contributed to expanding our understanding
+        of the universe and our search for other life forms?
+      TrueAnswer: Hubble Space Telescope
+      FalseAnswer:
+      - James Webb Space Telescope
+      - Chandra X-ray Observatory
+      - Fermi Gamma-ray Space Telescope
+      Explanation: The Hubble Space Telescope has captured breathtaking images of
+        the cosmos, discovered exoplanets, and provided key data to refine estimations
+        of the abundance of exoplanets and potential habitability.
+    - Question: What is the name of the exoplanet discovered within the habitable
+        zone of its star that has generated interest in the search for potential
+        alien life?
+      TrueAnswer: Proxima Centauri b
+      FalseAnswer:
+      - LHS 1140 b
+      - TRAPPIST-1e
+      - HD 40307g
+      Explanation: Proxima Centauri b, located in the habitable zone of the closest
+        star to the Sun, is a prime target for the search for extraterrestrial life
+        due to its potential to support liquid water and habitable conditions.

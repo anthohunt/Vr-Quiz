@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8517558896435981671
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8437923595396361132}
+  - component: {fileID: 326760295636387042}
+  m_Layer: 0
+  m_Name: Literature_Autobiographies_and_Memoirs.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8437923595396361132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8517558896435981671}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &326760295636387042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8517558896435981671}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the title of Mark Twain's autobiography?
+      TrueAnswer: Life on the Mississippi
+      FalseAnswer:
+      - The Adventures of Tom Sawyer
+      - The Prince and the Pauper
+      - Huckleberry Finn
+      Explanation: Mark Twain's 'Life on the Mississippi' is an autobiographical
+        account of his experiences as a steamboat pilot on the Mississippi River,
+        offering insightful anecdotes about the era and culture of the time.
+    - Question: Who authored the memoir 'In the Country of Men'?
+      TrueAnswer: Hisham Matar
+      FalseAnswer:
+      - Maya Angelou
+      - Tara Westover
+      - Jeanette Walls
+      Explanation: Hisham Matar's 'In the Country of Men' depicts his childhood experiences
+        in Libya during the oppressive Gaddafi regime and the impact of political
+        turmoil on family life.
+    - Question: Which memoir chronicles Malala Yousafzai's fight for education?
+      TrueAnswer: I Am Malala
+      FalseAnswer:
+      - Educated
+      - The Glass Castle
+      - A Long Way Gone
+      Explanation: Malala Yousafzai's 'I Am Malala' recounts her courageous advocacy
+        for female education in Pakistan and surviving a targeted assassination attempt
+        by the Taliban.
+    - Question: Who wrote the autobiographical novel 'Becoming'?
+      TrueAnswer: Michelle Obama
+      FalseAnswer:
+      - Tina Fey
+      - Marie Kondo
+      - Anthony Bourdain
+      Explanation: Michelle Obama's 'Becoming' offers a captivating glimpse into
+        her life, from her roots in Chicago to her transformative years as the First
+        Lady of the United States.
+    - Question: What is the title of Trevor Noah's autobiography?
+      TrueAnswer: Born a Crime
+      FalseAnswer:
+      - The Glass Castle
+      - Educated
+      - Wild
+      Explanation: Trevor Noah's 'Born a Crime' illuminates his upbringing in apartheid-era
+        South Africa, navigating the complexities of race, identity, and survival
+        with humor and resilience.
+    - Question: Who wrote 'Angela's Ashes', an acclaimed memoir set in Ireland?
+      TrueAnswer: Frank McCourt
+      FalseAnswer:
+      - David Sedaris
+      - Jeannette Walls
+      - Maya Angelou
+      Explanation: Frank McCourt's 'Angela's Ashes' portrays his impoverished childhood
+        in Limerick, Ireland, and the enduring spirit that emerged from the adversities
+        of his upbringing.
+    - Question: What memoir delves into the culinary world of Anthony Bourdain?
+      TrueAnswer: Kitchen Confidential
+      FalseAnswer:
+      - Bossypants
+      - Born a Crime
+      - In the Country of Men
+      Explanation: Anthony Bourdain's 'Kitchen Confidential' provides an unfiltered
+        behind-the-scenes exploration of the restaurant industry, revealing its vibrant,
+        chaotic, and often unseen aspects.
+    - Question: Who penned the memoir 'The Year of Magical Thinking'?
+      TrueAnswer: Joan Didion
+      FalseAnswer:
+      - Chimamanda Ngozi Adichie
+      - Maya Angelou
+      - Tara Westover
+      Explanation: Joan Didion's 'The Year of Magical Thinking' intertwines grief
+        and reflection, chronicling the aftermath of the sudden loss of her husband
+        and navigating the disorienting landscape of bereavement.
+    - Question: Which memoir details Elie Wiesel's experiences during the Holocaust?
+      TrueAnswer: Night
+      FalseAnswer:
+      - Long Walk to Freedom
+      - A Long Way Gone
+      - The Glass Castle
+      Explanation: Elie Wiesel's 'Night' is a haunting recollection of his time in
+        Auschwitz and Buchenwald, bearing witness to the atrocities of the Holocaust
+        and the enduring human spirit.
+    - Question: Who chronicled her radical self-discovery in 'Wild'?
+      TrueAnswer: Cheryl Strayed
+      FalseAnswer:
+      - Roxane Gay
+      - Tara Westover
+      - Hanya Yanagihara
+      Explanation: Cheryl Strayed's 'Wild' captures her transformative solo hike
+        on the Pacific Crest Trail, navigating profound personal loss and finding
+        strength and redemption in nature's unforgiving terrain.
+    - Question: What is the title of Nelson Mandela's memoir?
+      TrueAnswer: Long Walk to Freedom
+      FalseAnswer:
+      - Dreams from My Father
+      - The Year of Magical Thinking
+      - Born a Crime
+      Explanation: Nelson Mandela's 'Long Walk to Freedom' details his lifelong commitment
+        to justice, freedom, and equality in the face of apartheid, reflecting his
+        extraordinary resilience and leadership.
+    - Question: Who penned the memoir 'Educated'?
+      TrueAnswer: Tara Westover
+      FalseAnswer:
+      - Malala Yousafzai
+      - Michelle Obama
+      - Anthony Bourdain
+      Explanation: Tara Westover's 'Educated' recounts her journey from a restrictive
+        childhood in rural Idaho to pursuing higher education, navigating family
+        complexities and forging her own path to independence.
+    - Question: Which memoir details Jeannette Walls' upbringing in a dysfunctional
+        family?
+      TrueAnswer: The Glass Castle
+      FalseAnswer:
+      - In the Country of Men
+      - Wild
+      - Kitchen Confidential
+      Explanation: Jeannette Walls' 'The Glass Castle' vividly portrays her tumultuous
+        childhood marked by poverty, family dynamics, and her ultimate quest for
+        resilience and independence.
+    - Question: Who wrote the memoir 'Dreams from My Father'?
+      TrueAnswer: Barack Obama
+      FalseAnswer:
+      - Trevor Noah
+      - Cheryl Strayed
+      - Frank McCourt
+      Explanation: Barack Obama's 'Dreams from My Father' intricately explores his
+        multiracial heritage, familial complexities, and the profound journey of
+        self-discovery that shaped his identity and aspirations.
+    - Question: What memoir details the plight of a boy during the Sierra Leone Civil
+        War?
+      TrueAnswer: A Long Way Gone
+      FalseAnswer:
+      - Kitchen Confidential
+      - In the Country of Men
+      - The Year of Magical Thinking
+      Explanation: Ishmael Beah's 'A Long Way Gone' grippingly narrates his harrowing
+        experiences as a child soldier, reflecting the resilience, trauma, and quest
+        for redemption amidst the ravages of war.
+    - Question: Who chronicled her journey of resilience in 'The Diary of a Young
+        Girl'?
+      TrueAnswer: Anne Frank
+      FalseAnswer:
+      - Mary Karr
+      - Maya Angelou
+      - Joan Didion
+      Explanation: Anne Frank's 'The Diary of a Young Girl' presents her unwavering
+        spirit amidst the horrors of the Holocaust, capturing the resilience of the
+        human soul in the face of adversity and intolerance.
+    - Question: What is the title of Maya Angelou's autobiographical series?
+      TrueAnswer: I Know Why the Caged Bird Sings
+      FalseAnswer:
+      - Life on the Mississippi
+      - Long Walk to Freedom
+      - Born a Crime
+      Explanation: Maya Angelou's 'I Know Why the Caged Bird Sings' unveils the profound
+        challenges and triumphs of her early life, portraying her indomitable spirit
+        and quest for self-discovery amidst adversity and prejudice.
+    - Question: Who penned the memoir 'Running with Scissors'?
+      TrueAnswer: Augusten Burroughs
+      FalseAnswer:
+      - Michelle Obama
+      - Angela Davis
+      - Cheryl Strayed
+      Explanation: Augusten Burroughs' 'Running with Scissors' candidly portrays
+        his unconventional upbringing and tumultuous family dynamics, offering an
+        unflinching exploration of resilience and survival amid dysfunction.
+    - Question: Which memoir details the author's journey through addiction and recovery?
+      TrueAnswer: The Liars' Club
+      FalseAnswer:
+      - A Long Way Gone
+      - Kitchen Confidential
+      - The Diary of a Young Girl
+      Explanation: Mary Karr's 'The Liars' Club' delves into her turbulent upbringing
+        and struggles with alcoholism while depicting the transformative nature of
+        resilience, forgiveness, and healing.
+    - Question: Who wrote the memoir 'The Girl with Seven Names'?
+      TrueAnswer: Hyeonseo Lee
+      FalseAnswer:
+      - Nelson Mandela
+      - Trevor Noah
+      - Elie Wiesel
+      Explanation: Hyeonseo Lee's 'The Girl with Seven Names' narrates her escape
+        from North Korea and the challenges of rebuilding a new identity while navigating
+        the complexities of freedom and assimilation.

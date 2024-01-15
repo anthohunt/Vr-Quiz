@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifie SETI?",
+            "TrueAnswer": "Recherche d'une Intelligence Extraterrestre",
+            "FalseAnswer": [
+              "Étude des Investigations Extraterrestres",
+              "Recherche d'Interactions Extraterrestres",
+              "Enquête d'Informations Extraterrestres"
+            ],
+            "Explanation": "SETI est une organisation dédiée à la recherche scientifique de vie extraterrestre intelligente en utilisant des radiotélescopes et l'analyse des signaux."
+          },
+          {
+            "Question": "Quelle planète de notre système solaire est le meilleur candidat pour accueillir une vie extraterrestre?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Vénus",
+              "Jupiter",
+              "Neptune"
+            ],
+            "Explanation": "Mars possède de la glace d'eau et des preuves d'eau liquide passée, ce qui en fait une cible principale pour la recherche de vie microbienne."
+          },
+          {
+            "Question": "Quel est le nom du célèbre observatoire de radioastronomie à Porto Rico utilisé dans la recherche d'une intelligence extraterrestre?",
+            "TrueAnswer": "Observatoire d'Arecibo",
+            "FalseAnswer": [
+              "Observatoire du Mauna Kea",
+              "Complexe de communications spatiales de Goldstone",
+              "Très grande Array"
+            ],
+            "Explanation": "L'observatoire d'Arecibo a été utilisé pour l'astronomie radio et les sciences atmosphériques, et a été mis en vedette dans le film 'Contact'."
+          },
+          {
+            "Question": "Quelle est la célèbre équation formulée pour estimer le nombre de civilisations extraterrestres actives dans la galaxie de la Voie Lactée?",
+            "TrueAnswer": "Équation de Drake",
+            "FalseAnswer": [
+              "Équation de Hawking",
+              "Équation de Sagan",
+              "Équation de Kepler"
+            ],
+            "Explanation": "L'équation de Drake prend en compte des facteurs tels que le taux de formation des étoiles et la probabilité de planètes porteuses de vie pour estimer les civilisations extraterrestres potentielles."
+          },
+          {
+            "Question": "Quel type d'étoile est le plus susceptible d'abriter des exoplanètes habitables?",
+            "TrueAnswer": "Étoile naine de type K",
+            "FalseAnswer": [
+              "Étoile géante rouge",
+              "Naine blanche",
+              "Étoile de type O à séquence principale"
+            ],
+            "Explanation": "Les étoiles naines de type K ont une production d'énergie stable, permettant aux planètes d'être dans la zone habitable pendant de longues périodes, augmentant ainsi les chances de développement de la vie."
+          },
+          {
+            "Question": "Quelle lune de notre système solaire présente des preuves d'un océan souterrain avec un potentiel de vie?",
+            "TrueAnswer": "Europe",
+            "FalseAnswer": [
+              "Io",
+              "Ganymède",
+              "Titan"
+            ],
+            "Explanation": "L'océan souterrain d'Europe est censé contenir deux fois plus d'eau que sur Terre, ce qui en fait une cible principale pour la recherche de vie au-delà de la Terre."
+          },
+          {
+            "Question": "Quelle est la méthode principale utilisée pour détecter les exoplanètes dans la recherche de vie extraterrestre?",
+            "TrueAnswer": "Méthode de transit",
+            "FalseAnswer": [
+              "Microlentille gravitationnelle",
+              "Imagerie directe",
+              "Méthode de la vitesse radiale"
+            ],
+            "Explanation": "La méthode de transit recherche un diminue dans la luminosité d'une étoile causé par le passage d'une planète devant elle, permettant aux scientifiques de déduire l'existence d'exoplanètes."
+          },
+          {
+            "Question": "Laquelle de ces molécules est considérée comme une biosignature potentielle dans la recherche de vie extraterrestre?",
+            "TrueAnswer": "Méthane",
+            "FalseAnswer": [
+              "Monoxyde de carbone",
+              "Azote",
+              "Dioxyde de carbone"
+            ],
+            "Explanation": "Le méthane peut être un sous-produit de l'activité biologique et a été identifié dans les atmosphères de certaines exoplanètes, ce qui en fait une cible importante pour les astrobiologistes."
+          },
+          {
+            "Question": "Quelle est l'unité de distance utilisée pour définir la zone habitable autour d'une étoile?",
+            "TrueAnswer": "Unité astronomique (UA)",
+            "FalseAnswer": [
+              "Parsec (pc)",
+              "Année-lumière (al)",
+              "Kilomètre (km)"
+            ],
+            "Explanation": "La zone habitable fait référence à la région autour d'une étoile où les conditions peuvent être propices à l'existence d'eau liquide, cruciale pour le développement potentiel de la vie."
+          },
+          {
+            "Question": "Quel est le nom de l'objet interstellaire découvert en 2017 qui a suscité l'intérêt en tant que sonde extraterrestre possible?",
+            "TrueAnswer": "Oumuamua",
+            "FalseAnswer": [
+              "Borasisi",
+              "C/2020 F3 (NEOWISE)",
+              "Gigayear"
+            ],
+            "Explanation": "Les caractéristiques inhabituelles d'Oumuamua, telles que sa forme allongée et son accélération non gravitationnelle, ont suscité des spéculations sur sa nature en tant qu'objet artificiel envoyé par une civilisation extraterrestre."
+          },
+          {
+            "Question": "Quel est le nom de la mission de la NASA qui se concentre sur la recherche d'exoplanètes habitables et de vie au-delà de notre système solaire?",
+            "TrueAnswer": "Kepler",
+            "FalseAnswer": [
+              "Hubble",
+              "Spitzer",
+              "Tess"
+            ],
+            "Explanation": "La mission Kepler utilisait un télescope spatial pour découvrir des milliers d'exoplanètes et évaluer leur habitabilité potentielle, révolutionnant notre compréhension des systèmes planétaires."
+          },
+          {
+            "Question": "Quel type de conditions environnementales est généralement considéré comme des habitats extrêmes pouvant soutenir des formes de vie extraterrestres?",
+            "TrueAnswer": "Extrémophiles",
+            "FalseAnswer": [
+              "Modérémentophiles",
+              "Standardophiles",
+              "Adaptativophiles"
+            ],
+            "Explanation": "Les extrémophiles sont des microorganismes capables de survivre et de prospérer dans des conditions extrêmes telles que des niveaux élevés de radiation, des températures extrêmes ou une acidité élevée, offrant des aperçus sur les habitats extraterrestres potentiels."
+          },
+          {
+            "Question": "Quel est le nom du célèbre signal détecté par SETI en 1977, souvent appelé 'Wow! Signal'?",
+            "TrueAnswer": "6EQUJ5",
+            "FalseAnswer": [
+              "8JQK2T",
+              "3KLM7N",
+              "9RST3V"
+            ],
+            "Explanation": "Le signal 6EQUJ5, reçu par le radiotélescope Big Ear, reste l'un des événements les plus inexpliqués et potentiellement significatifs dans la recherche d'une intelligence extraterrestre."
+          },
+          {
+            "Question": "Quel est le terme pour le concept hypothétique selon lequel des civilisations avancées pourraient exploiter l'énergie des étoiles pour la communication intersidérale?",
+            "TrueAnswer": "Sphère de Dyson",
+            "FalseAnswer": [
+              "Anneau de Hawking",
+              "Coquille de Sagan",
+              "Voile de Kardachev"
+            ],
+            "Explanation": "Le concept de la sphère de Dyson, proposé par le physicien Freeman Dyson, suggère que des civilisations très avancées pourraient envelopper des étoiles pour exploiter leur énergie à des fins technologiques, offrant une signature potentielle pour la détection."
+          },
+          {
+            "Question": "Quel est le nom de l'équation célèbre utilisée pour estimer la probabilité de détecter des civilisations extraterrestres à travers leurs émissions électromagnétiques?",
+            "TrueAnswer": "Échelle de Kardashev",
+            "FalseAnswer": [
+              "Paradoxe de Fermi",
+              "Grand Filtre",
+              "Équation de Drake"
+            ],
+            "Explanation": "L'échelle de Kardashev catégorise les civilisations en fonction de leur consommation d'énergie, offrant un cadre pour comprendre les capacités technologiques potentielles et la détectabilité des civilisations extraterrestres."
+          },
+          {
+            "Question": "Lequel des éléments suivants est une méthode utilisée pour explorer la possibilité de panspermie, le transfert de vie entre des corps célestes?",
+            "TrueAnswer": "Analyse de météorites",
+            "FalseAnswer": [
+              "Détection de matière noire",
+              "Observation de neutrinos",
+              "Détection d'ondes gravitationnelles"
+            ],
+            "Explanation": "L'analyse de météorites vise à identifier d'éventuelles formes de vie microbienne extraterrestres ou des molécules organiques, offrant d'importantes informations sur la possibilité de panspermie et l'origine de la vie."
+          },
+          {
+            "Question": "Quel est le concept qui suggère que la vie sur Terre pourrait avoir été originaire d'une vie microbienne extraterrestre transportée à travers l'espace?",
+            "TrueAnswer": "Panspermie",
+            "FalseAnswer": [
+              "Exogenèse",
+              "Astrobiogenèse",
+              "Interstellargenèse"
+            ],
+            "Explanation": "La panspermie propose que la vie existe dans tout l'univers et peut être disséminée à travers des comètes, des météoroïdes et des poussières spatiales, pouvant éventuellement mener à l'ensemencement de la vie sur des planètes habitables."
+          },
+          {
+            "Question": "Quel télescope, lancé en 1990, a contribué à étendre notre compréhension de l'univers et notre recherche d'autres formes de vie?",
+            "TrueAnswer": "Télescope spatial Hubble",
+            "FalseAnswer": [
+              "Télescope spatial James Webb",
+              "Observatoire de rayons X Chandra",
+              "Télescope spatial Fermi Gamma-ray"
+            ],
+            "Explanation": "Le télescope spatial Hubble a capturé des images stupéfiantes de l'univers, découvert des exoplanètes et fourni des données clés pour affiner les estimations de l'abondance des exoplanètes et de l'habitabilité potentielle."
+          },
+          {
+            "Question": "Quel est le nom de l'exoplanète découverte dans la zone habitable de son étoile qui a suscité l'intérêt dans la recherche de vie extraterrestre potentielle?",
+            "TrueAnswer": "Proxima Centauri b",
+            "FalseAnswer": [
+              "LHS 1140 b",
+              "TRAPPIST-1e",
+              "HD 40307g"
+            ],
+            "Explanation": "Proxima Centauri b, située dans la zone habitable de l'étoile la plus proche du Soleil, est une cible privilégiée pour la recherche de vie extraterrestre en raison de son potentiel de soutien d'eau liquide et de conditions habitables."
+          }
+        ]
+      }
+    }
+  ]
+}

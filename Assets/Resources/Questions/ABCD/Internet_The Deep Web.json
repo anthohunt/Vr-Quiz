@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the World Wide Web commonly referred to as?",
+          "TrueAnswer": "Internet",
+          "FalseAnswer": [
+            "Deep Web",
+            "Dark Web",
+            "Intranet"
+          ],
+          "Explanation": "The World Wide Web is often called the Internet, which is a global network of interconnected computers."
+        },
+        {
+          "Question": "Which part of the Internet is not indexed by search engines?",
+          "TrueAnswer": "Deep Web",
+          "FalseAnswer": [
+            "Surface Web",
+            "Dark Web",
+            "Clear Web"
+          ],
+          "Explanation": "The Deep Web refers to the part of the Internet that is not indexed by search engines."
+        },
+        {
+          "Question": "What is the primary purpose of the Deep Web?",
+          "TrueAnswer": "Privacy",
+          "FalseAnswer": [
+            "Illegal activities",
+            "Hacking",
+            "Censorship"
+          ],
+          "Explanation": "The Deep Web is primarily used for maintaining privacy and anonymity online."
+        },
+        {
+          "Question": "Which browser is commonly used to access the Deep Web?",
+          "TrueAnswer": "Tor",
+          "FalseAnswer": [
+            "Google Chrome",
+            "Safari",
+            "Firefox"
+          ],
+          "Explanation": "Tor is a popular browser used to access the Deep Web, known for its anonymity features."
+        },
+        {
+          "Question": "What is the main difference between the Deep Web and the Dark Web?",
+          "TrueAnswer": "Content accessibility",
+          "FalseAnswer": [
+            "Encryption",
+            "Illegal activities",
+            "Geographical restrictions"
+          ],
+          "Explanation": "The Deep Web refers to unindexed content, while the Dark Web is a subset known for illegal activities."
+        },
+        {
+          "Question": "Which of the following is a common misconception about the Deep Web?",
+          "TrueAnswer": "It is entirely illegal",
+          "FalseAnswer": [
+            "It is accessible to everyone",
+            "It is only used by hackers",
+            "It is a separate network"
+          ],
+          "Explanation": "Contrary to popular belief, the Deep Web is not entirely illegal and contains various legitimate content."
+        },
+        {
+          "Question": "What is the primary reason for using the Dark Web?",
+          "TrueAnswer": "Anonymity",
+          "FalseAnswer": [
+            "Online shopping",
+            "Social networking",
+            "Research"
+          ],
+          "Explanation": "The Dark Web is primarily used for anonymous activities, often involving illegal transactions."
+        },
+        {
+          "Question": "Which currency is commonly used for transactions on the Dark Web?",
+          "TrueAnswer": "Bitcoin",
+          "FalseAnswer": [
+            "Ethereum",
+            "Ripple",
+            "Litecoin"
+          ],
+          "Explanation": "Bitcoin is the most commonly used cryptocurrency for transactions on the Dark Web due to its pseudonymous nature."
+        },
+        {
+          "Question": "What is the primary concern associated with accessing the Dark Web?",
+          "TrueAnswer": "Legal consequences",
+          "FalseAnswer": [
+            "Slow internet speed",
+            "Identity theft",
+            "Malware"
+          ],
+          "Explanation": "Accessing the Dark Web can lead to legal consequences as it is associated with illegal activities."
+        },
+        {
+          "Question": "Which of the following is a common use of the Deep Web?",
+          "TrueAnswer": "Private messaging",
+          "FalseAnswer": [
+            "Online shopping",
+            "Social media",
+            "Streaming movies"
+          ],
+          "Explanation": "The Deep Web is often used for private messaging platforms that prioritize user privacy."
+        },
+        {
+          "Question": "What is the primary purpose of the Clear Web?",
+          "TrueAnswer": "Information sharing",
+          "FalseAnswer": [
+            "Illegal activities",
+            "Censorship",
+            "Hacking"
+          ],
+          "Explanation": "The Clear Web, also known as the Surface Web, is used for information sharing and accessible by search engines."
+        },
+        {
+          "Question": "Which of the following is a characteristic of the Deep Web?",
+          "TrueAnswer": "Encrypted communication",
+          "FalseAnswer": [
+            "Public access",
+            "Geographical restrictions",
+            "High-speed connection"
+          ],
+          "Explanation": "The Deep Web often involves encrypted communication to ensure privacy and security."
+        },
+        {
+          "Question": "What is the primary concern associated with the Deep Web?",
+          "TrueAnswer": "Illegal content",
+          "FalseAnswer": [
+            "Slow internet speed",
+            "Identity theft",
+            "Censorship"
+          ],
+          "Explanation": "The Deep Web can contain illegal content, making it a concern for law enforcement agencies."
+        },
+        {
+          "Question": "Which of the following is a common use of the Dark Web?",
+          "TrueAnswer": "Drug trade",
+          "FalseAnswer": [
+            "Online gaming",
+            "Educational resources",
+            "News publishing"
+          ],
+          "Explanation": "The Dark Web is notorious for facilitating illegal activities, including the drug trade."
+        },
+        {
+          "Question": "What is the primary purpose of the Dark Web?",
+          "TrueAnswer": "Anonymity",
+          "FalseAnswer": [
+            "Online shopping",
+            "Social networking",
+            "Research"
+          ],
+          "Explanation": "The Dark Web is primarily used for anonymous activities, often involving illegal transactions."
+        },
+        {
+          "Question": "Which of the following is a characteristic of the Dark Web?",
+          "TrueAnswer": "Hidden IP addresses",
+          "FalseAnswer": [
+            "Public access",
+            "Geographical restrictions",
+            "High-speed connection"
+          ],
+          "Explanation": "The Dark Web utilizes hidden IP addresses to maintain anonymity and evade detection."
+        },
+        {
+          "Question": "What is the primary concern associated with the Dark Web?",
+          "TrueAnswer": "Cybercrime",
+          "FalseAnswer": [
+            "Slow internet speed",
+            "Identity theft",
+            "Censorship"
+          ],
+          "Explanation": "The Dark Web is a breeding ground for cybercrime, including hacking, fraud, and illegal activities."
+        },
+        {
+          "Question": "Which of the following is a common use of the Deep Web?",
+          "TrueAnswer": "Academic research",
+          "FalseAnswer": [
+            "Online shopping",
+            "Social media",
+            "Streaming movies"
+          ],
+          "Explanation": "The Deep Web is often utilized by researchers for accessing academic databases and scholarly resources."
+        },
+        {
+          "Question": "What is the primary purpose of the Deep Web?",
+          "TrueAnswer": "Privacy",
+          "FalseAnswer": [
+            "Illegal activities",
+            "Hacking",
+            "Censorship"
+          ],
+          "Explanation": "The Deep Web is primarily used for maintaining privacy and anonymity online."
+        },
+        {
+          "Question": "Which of the following is a characteristic of the Deep Web?",
+          "TrueAnswer": "Restricted access",
+          "FalseAnswer": [
+            "Public availability",
+            "Geographical restrictions",
+            "High-speed connection"
+          ],
+          "Explanation": "The Deep Web often requires specific credentials or permissions for access, limiting its availability."
+        }
+      ]
+    }
+  ]
+}

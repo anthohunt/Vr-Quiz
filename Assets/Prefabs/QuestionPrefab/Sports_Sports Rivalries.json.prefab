@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3924159188180359148
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6029867076777485466}
+  - component: {fileID: 4576373700078704521}
+  m_Layer: 0
+  m_Name: Sports_Sports Rivalries.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6029867076777485466
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3924159188180359148}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4576373700078704521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3924159188180359148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which two teams are known for their intense rivalry in soccer's El
+        Clasico?
+      TrueAnswer: Barcelona and Real Madrid
+      FalseAnswer:
+      - Manchester United and Manchester City
+      - Liverpool and Everton
+      - AC Milan and Inter Milan
+      Explanation: Barcelona and Real Madrid have a long-standing rivalry in Spanish
+        soccer, with matches often filled with passion and intensity.
+    - Question: Which two tennis players have a famous rivalry known as the 'Fedal'
+        rivalry?
+      TrueAnswer: Roger Federer and Rafael Nadal
+      FalseAnswer:
+      - Novak Djokovic and Andy Murray
+      - Serena Williams and Maria Sharapova
+      - Steffi Graf and Monica Seles
+      Explanation: Roger Federer and Rafael Nadal have a storied rivalry in tennis,
+        with many epic matches played between them.
+    - Question: Which two basketball teams have a historic rivalry known as the 'Lakers-Celtics
+        rivalry'?
+      TrueAnswer: Los Angeles Lakers and Boston Celtics
+      FalseAnswer:
+      - Chicago Bulls and Detroit Pistons
+      - Golden State Warriors and Cleveland Cavaliers
+      - San Antonio Spurs and Miami Heat
+      Explanation: The Lakers-Celtics rivalry is one of the most famous rivalries
+        in NBA history, with multiple finals matchups between the two teams.
+    - Question: Which two Formula 1 drivers had a fierce rivalry in the late 1980s
+        and early 1990s?
+      TrueAnswer: Ayrton Senna and Alain Prost
+      FalseAnswer:
+      - Michael Schumacher and Mika Hakkinen
+      - Lewis Hamilton and Sebastian Vettel
+      - Niki Lauda and James Hunt
+      Explanation: Ayrton Senna and Alain Prost had a heated rivalry in Formula 1,
+        with numerous on-track clashes and intense competition.
+    - Question: Which two baseball teams have a historic rivalry known as the 'Yankees-Red
+        Sox rivalry'?
+      TrueAnswer: New York Yankees and Boston Red Sox
+      FalseAnswer:
+      - Los Angeles Dodgers and San Francisco Giants
+      - Chicago Cubs and St. Louis Cardinals
+      - Atlanta Braves and New York Mets
+      Explanation: The Yankees-Red Sox rivalry is one of the most intense and storied
+        rivalries in baseball, with a long history of memorable games and moments.
+    - Question: Which two cricket teams have a fierce rivalry known as the 'Ashes'?
+      TrueAnswer: England and Australia
+      FalseAnswer:
+      - India and Pakistan
+      - South Africa and New Zealand
+      - West Indies and Sri Lanka
+      Explanation: The Ashes is a Test cricket series played between England and
+        Australia, with a history dating back to 1882.
+    - Question: Which two ice hockey teams have a heated rivalry known as the 'Battle
+        of Alberta'?
+      TrueAnswer: Calgary Flames and Edmonton Oilers
+      FalseAnswer:
+      - Montreal Canadiens and Toronto Maple Leafs
+      - Chicago Blackhawks and Detroit Red Wings
+      - Pittsburgh Penguins and Philadelphia Flyers
+      Explanation: The Battle of Alberta is a fierce rivalry between the Flames and
+        Oilers, both based in the province of Alberta, Canada.
+    - Question: Which two golfers had a memorable rivalry known as the 'Tiger-Phil
+        rivalry'?
+      TrueAnswer: Tiger Woods and Phil Mickelson
+      FalseAnswer:
+      - Jack Nicklaus and Arnold Palmer
+      - Rory McIlroy and Jordan Spieth
+      - Greg Norman and Ernie Els
+      Explanation: Tiger Woods and Phil Mickelson had a notable rivalry in golf,
+        with both players achieving great success and competing against each other
+        in major tournaments.
+    - Question: Which two national soccer teams have a fierce rivalry known as the
+        'Superclasico'?
+      TrueAnswer: Argentina and Brazil
+      FalseAnswer:
+      - Germany and Italy
+      - Spain and Portugal
+      - England and Scotland
+      Explanation: The Superclasico is a highly anticipated rivalry match between
+        Argentina and Brazil, two of the most successful national teams in soccer
+        history.
+    - Question: Which two college football teams have a historic rivalry known as
+        'The Game'?
+      TrueAnswer: Harvard and Yale
+      FalseAnswer:
+      - Ohio State and Michigan
+      - Alabama and Auburn
+      - USC and UCLA
+      Explanation: The Game refers to the annual matchup between Harvard and Yale,
+        two Ivy League universities with a long-standing football rivalry.
+    - Question: Which two rugby teams have a fierce rivalry known as the 'Bledisloe
+        Cup'?
+      TrueAnswer: New Zealand and Australia
+      FalseAnswer:
+      - England and Wales
+      - South Africa and Argentina
+      - Ireland and Scotland
+      Explanation: The Bledisloe Cup is contested between New Zealand and Australia,
+        two rugby powerhouses in the Southern Hemisphere.
+    - Question: Which two NFL teams have a historic rivalry known as the 'Steelers-Ravens
+        rivalry'?
+      TrueAnswer: Pittsburgh Steelers and Baltimore Ravens
+      FalseAnswer:
+      - New England Patriots and New York Jets
+      - Dallas Cowboys and Washington Football Team
+      - San Francisco 49ers and Seattle Seahawks
+      Explanation: The Steelers-Ravens rivalry is known for hard-hitting games and
+        intense competition between two successful NFL franchises.
+    - Question: Which two motorsport teams have a fierce rivalry known as the 'Ferrari-Mercedes
+        rivalry'?
+      TrueAnswer: Ferrari and Mercedes
+      FalseAnswer:
+      - Red Bull Racing and McLaren
+      - Williams and Renault
+      - Lotus and Sauber
+      Explanation: Ferrari and Mercedes have a long-standing rivalry in Formula 1,
+        with both teams competing for championships and pushing each other to the
+        limit.
+    - Question: Which two NBA players had a memorable rivalry known as the 'Bird-Magic
+        rivalry'?
+      TrueAnswer: Larry Bird and Magic Johnson
+      FalseAnswer:
+      - Michael Jordan and Isiah Thomas
+      - Kobe Bryant and Shaquille O'Neal
+      - LeBron James and Kevin Durant
+      Explanation: Larry Bird and Magic Johnson had a legendary rivalry in the NBA,
+        with their teams, the Celtics and Lakers, facing off in multiple NBA Finals.
+    - Question: Which two cycling teams have a fierce rivalry known as the 'Tour
+        de France rivalry'?
+      TrueAnswer: Team Ineos and Team Jumbo-Visma
+      FalseAnswer:
+      - Team Sky and Team Sunweb
+      - Bora-Hansgrohe and UAE Team Emirates
+      - Deceuninck-Quick-Step and Movistar Team
+      Explanation: Team Ineos and Team Jumbo-Visma are two dominant teams in the
+        Tour de France, often competing for the overall victory and engaging in tactical
+        battles.
+    - Question: Which two NBA teams have a historic rivalry known as the 'Celtics-Lakers
+        rivalry'?
+      TrueAnswer: Boston Celtics and Los Angeles Lakers
+      FalseAnswer:
+      - Miami Heat and Chicago Bulls
+      - Golden State Warriors and Cleveland Cavaliers
+      - San Antonio Spurs and Dallas Mavericks
+      Explanation: The Celtics-Lakers rivalry is one of the most storied rivalries
+        in NBA history, with multiple finals matchups and legendary players involved.
+    - Question: Which two cricket teams have a fierce rivalry known as the 'India-Pakistan
+        rivalry'?
+      TrueAnswer: India and Pakistan
+      FalseAnswer:
+      - Australia and England
+      - South Africa and New Zealand
+      - West Indies and Sri Lanka
+      Explanation: The India-Pakistan rivalry is one of the most intense and passionate
+        rivalries in cricket, with matches between the two teams often attracting
+        huge audiences.
+    - Question: Which two soccer teams have a historic rivalry known as the 'Old
+        Firm'?
+      TrueAnswer: Celtic and Rangers
+      FalseAnswer:
+      - Manchester United and Manchester City
+      - Liverpool and Everton
+      - AC Milan and Inter Milan
+      Explanation: The Old Firm refers to the fierce rivalry between Celtic and Rangers,
+        two Glasgow-based football clubs with a long history of competition.
+    - Question: Which two golfers had a memorable rivalry known as the 'Nicklaus-Palmer
+        rivalry'?
+      TrueAnswer: Jack Nicklaus and Arnold Palmer
+      FalseAnswer:
+      - Tiger Woods and Phil Mickelson
+      - Rory McIlroy and Jordan Spieth
+      - Greg Norman and Ernie Els
+      Explanation: Jack Nicklaus and Arnold Palmer had a legendary rivalry in golf,
+        with both players achieving great success and captivating fans with their
+        battles on the course.
+    - Question: Which two ice hockey teams have a heated rivalry known as the 'Original
+        Six rivalry'?
+      TrueAnswer: Montreal Canadiens and Toronto Maple Leafs
+      FalseAnswer:
+      - Chicago Blackhawks and Detroit Red Wings
+      - Boston Bruins and New York Rangers
+      - Edmonton Oilers and Calgary Flames
+      Explanation: The Original Six rivalry refers to the intense competition between
+        the Canadiens and Maple Leafs, two of the original six teams in the NHL.
+    - Question: Which two college basketball teams have a historic rivalry known
+        as the 'Duke-UNC rivalry'?
+      TrueAnswer: Duke Blue Devils and North Carolina Tar Heels
+      FalseAnswer:
+      - Kentucky Wildcats and Louisville Cardinals
+      - Kansas Jayhawks and Missouri Tigers
+      - UCLA Bruins and Arizona Wildcats
+      Explanation: The Duke-UNC rivalry is one of the most intense and closely followed
+        rivalries in college basketball, with both teams located in North Carolina.

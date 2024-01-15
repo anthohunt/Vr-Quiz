@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7249976904100478076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 676463957544485213}
+  - component: {fileID: 2911238435051503746}
+  m_Layer: 0
+  m_Name: Science_Science and Health Innovations.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &676463957544485213
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7249976904100478076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2911238435051503746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7249976904100478076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the first antibiotic discovered?
+      TrueAnswer: Penicillin
+      FalseAnswer:
+      - Aspirin
+      - Ibuprofen
+      - Paracetamol
+      Explanation: Penicillin, discovered by Alexander Fleming in 1928, revolutionized
+        the treatment of bacterial infections.
+    - Question: Which scientist is credited with the discovery of the structure of
+        DNA?
+      TrueAnswer: James Watson
+      FalseAnswer:
+      - Albert Einstein
+      - Marie Curie
+      - Isaac Newton
+      Explanation: James Watson, along with Francis Crick, unraveled the double helix
+        structure of DNA in 1953.
+    - Question: What is the main component of the Earth's atmosphere?
+      TrueAnswer: Nitrogen
+      FalseAnswer:
+      - Oxygen
+      - Carbon Dioxide
+      - Hydrogen
+      Explanation: Nitrogen makes up about 78% of the Earth's atmosphere, providing
+        the necessary gas for life.
+    - Question: Which organ in the human body produces insulin?
+      TrueAnswer: Pancreas
+      FalseAnswer:
+      - Liver
+      - Kidney
+      - Heart
+      Explanation: The pancreas is responsible for producing insulin, a hormone that
+        regulates blood sugar levels.
+    - Question: What is the smallest unit of life?
+      TrueAnswer: Cell
+      FalseAnswer:
+      - Atom
+      - Molecule
+      - Organism
+      Explanation: Cells are the basic building blocks of life, containing all the
+        necessary components for living organisms.
+    - Question: Which vitamin is essential for healthy vision?
+      TrueAnswer: Vitamin A
+      FalseAnswer:
+      - Vitamin C
+      - Vitamin D
+      - Vitamin E
+      Explanation: Vitamin A is crucial for maintaining good vision, especially in
+        low-light conditions.
+    - Question: What is the largest organ in the human body?
+      TrueAnswer: Skin
+      FalseAnswer:
+      - Heart
+      - Liver
+      - Brain
+      Explanation: The skin is the largest organ, serving as a protective barrier
+        and regulating body temperature.
+    - Question: Which gas is responsible for the greenhouse effect?
+      TrueAnswer: Carbon Dioxide
+      FalseAnswer:
+      - Oxygen
+      - Nitrogen
+      - Methane
+      Explanation: Carbon dioxide is a greenhouse gas that traps heat in the Earth's
+        atmosphere, contributing to global warming.
+    - Question: What is the process by which plants convert sunlight into energy?
+      TrueAnswer: Photosynthesis
+      FalseAnswer:
+      - Respiration
+      - Fermentation
+      - Digestion
+      Explanation: Photosynthesis is the process by which plants use sunlight to
+        convert carbon dioxide and water into glucose and oxygen.
+    - Question: Which scientist is known for the theory of general relativity?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Marie Curie
+      - Charles Darwin
+      Explanation: Albert Einstein developed the theory of general relativity, revolutionizing
+        our understanding of gravity and space-time.
+    - Question: What is the largest bone in the human body?
+      TrueAnswer: Femur
+      FalseAnswer:
+      - Skull
+      - Tibia
+      - Humerus
+      Explanation: The femur, or thigh bone, is the largest and strongest bone in
+        the human body.
+    - Question: Which disease is caused by a deficiency of vitamin C?
+      TrueAnswer: Scurvy
+      FalseAnswer:
+      - Malaria
+      - Diabetes
+      - Tuberculosis
+      Explanation: Scurvy is a disease caused by a lack of vitamin C, leading to
+        weakness, gum disease, and fatigue.
+    - Question: What is the process by which cells divide and reproduce?
+      TrueAnswer: Mitosis
+      FalseAnswer:
+      - Meiosis
+      - Fertilization
+      - Apoptosis
+      Explanation: Mitosis is the process of cell division, resulting in two identical
+        daughter cells with the same number of chromosomes.
+    - Question: Which element is the most abundant in the universe?
+      TrueAnswer: Hydrogen
+      FalseAnswer:
+      - Oxygen
+      - Carbon
+      - Helium
+      Explanation: Hydrogen is the most abundant element in the universe, making
+        up about 75% of its elemental mass.
+    - Question: What is the unit of measurement for electrical resistance?
+      TrueAnswer: Ohm
+      FalseAnswer:
+      - Volt
+      - Ampere
+      - Watt
+      Explanation: The ohm is the unit of measurement for electrical resistance,
+        named after German physicist Georg Simon Ohm.
+    - Question: Which planet is known as the 'Red Planet'?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Jupiter
+      - Saturn
+      Explanation: Mars is often referred to as the 'Red Planet' due to its reddish
+        appearance caused by iron oxide on its surface.
+    - Question: What is the process by which liquid water turns into vapor?
+      TrueAnswer: Evaporation
+      FalseAnswer:
+      - Condensation
+      - Freezing
+      - Melting
+      Explanation: Evaporation is the process in which liquid water changes into
+        water vapor, driven by heat energy.
+    - Question: Which scientist is known for the theory of evolution by natural selection?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - Gregor Mendel
+      - Louis Pasteur
+      - Rosalind Franklin
+      Explanation: Charles Darwin proposed the theory of evolution by natural selection,
+        explaining the diversity of life on Earth.
+    - Question: What is the unit of measurement for sound intensity?
+      TrueAnswer: Decibel
+      FalseAnswer:
+      - Hertz
+      - Watt
+      - Ampere
+      Explanation: The decibel is the unit of measurement for sound intensity, representing
+        the logarithmic scale of sound pressure levels.
+    - Question: Which gas is essential for respiration in humans?
+      TrueAnswer: Oxygen
+      FalseAnswer:
+      - Carbon Dioxide
+      - Nitrogen
+      - Helium
+      Explanation: Oxygen is necessary for cellular respiration, providing energy
+        for the body's metabolic processes.
+    - Question: What is the process by which an organism develops from an egg?
+      TrueAnswer: Fertilization
+      FalseAnswer:
+      - Germination
+      - Pollination
+      - Metamorphosis
+      Explanation: Fertilization is the process in which a sperm cell fuses with
+        an egg cell, initiating the development of a new organism.

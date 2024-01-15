@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1285619867252298963
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 78272374464103951}
+  - component: {fileID: 8779275816951195570}
+  m_Layer: 0
+  m_Name: History_History of Artifacts.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &78272374464103951
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285619867252298963}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8779275816951195570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1285619867252298963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the artifact discovered in King Tut's tomb?
+      TrueAnswer: Tutankhamun's Mask
+      FalseAnswer:
+      - The Rosetta Stone
+      - The Venus de Milo
+      - The Mona Lisa
+      Explanation: Tutankhamun's Mask is a gold death mask found in the tomb of the
+        ancient Egyptian pharaoh Tutankhamun.
+    - Question: Which artifact is associated with the Hanging Gardens of Babylon?
+      TrueAnswer: The Hanging Gardens
+      FalseAnswer:
+      - The Colosseum
+      - The Great Wall of China
+      - The Taj Mahal
+      Explanation: The Hanging Gardens were a terraced garden complex, one of the
+        Seven Wonders of the Ancient World.
+    - Question: What is the significance of the Rosetta Stone?
+      TrueAnswer: Deciphering Hieroglyphs
+      FalseAnswer:
+      - Creating Mosaics
+      - Inventing the Printing Press
+      - Discovering America
+      Explanation: The Rosetta Stone played a crucial role in deciphering ancient
+        Egyptian hieroglyphs.
+    - Question: Which artifact is associated with the Terracotta Army?
+      TrueAnswer: Terracotta Warriors
+      FalseAnswer:
+      - The Sistine Chapel
+      - The Eiffel Tower
+      - The Statue of Liberty
+      Explanation: The Terracotta Warriors are a collection of life-sized sculptures
+        depicting the armies of Qin Shi Huang, the first Emperor of China.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Pompeii?
+      TrueAnswer: The Pompeii Mosaics
+      FalseAnswer:
+      - The Mona Lisa
+      - The Parthenon
+      - The Great Wall of China
+      Explanation: The Pompeii Mosaics are intricate artworks made of small pieces
+        of colored glass or stone, found in the ruins of Pompeii.
+    - Question: Which artifact is associated with the ancient city of Petra?
+      TrueAnswer: The Treasury
+      FalseAnswer:
+      - The Statue of Liberty
+      - The Taj Mahal
+      - The Great Wall of China
+      Explanation: The Treasury is an elaborate rock-cut building in the ancient
+        city of Petra, Jordan.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Machu Picchu?
+      TrueAnswer: Intihuatana Stone
+      FalseAnswer:
+      - The Eiffel Tower
+      - The Colosseum
+      - The Mona Lisa
+      Explanation: The Intihuatana Stone is a ritual stone pillar in Machu Picchu,
+        believed to have astronomical and religious significance.
+    - Question: Which artifact is associated with the ancient city of Athens?
+      TrueAnswer: The Parthenon
+      FalseAnswer:
+      - The Statue of Liberty
+      - The Great Wall of China
+      - The Taj Mahal
+      Explanation: The Parthenon is a temple dedicated to the goddess Athena, located
+        on the Acropolis in Athens, Greece.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Angkor Wat?
+      TrueAnswer: The Angkor Wat Temple
+      FalseAnswer:
+      - The Mona Lisa
+      - The Colosseum
+      - The Statue of Liberty
+      Explanation: The Angkor Wat Temple is a massive temple complex in Cambodia,
+        known for its intricate carvings and religious significance.
+    - Question: Which artifact is associated with the ancient city of Rome?
+      TrueAnswer: The Colosseum
+      FalseAnswer:
+      - The Taj Mahal
+      - The Great Wall of China
+      - The Statue of Liberty
+      Explanation: The Colosseum is an amphitheater in Rome, known for its gladiatorial
+        contests and spectacles.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Chichen Itza?
+      TrueAnswer: El Castillo
+      FalseAnswer:
+      - The Eiffel Tower
+      - The Mona Lisa
+      - The Parthenon
+      Explanation: El Castillo, also known as the Temple of Kukulcan, is a step pyramid
+        in Chichen Itza, Mexico.
+    - Question: Which artifact is associated with the ancient city of Giza?
+      TrueAnswer: The Great Sphinx
+      FalseAnswer:
+      - The Taj Mahal
+      - The Statue of Liberty
+      - The Colosseum
+      Explanation: The Great Sphinx is a limestone statue with the head of a human
+        and the body of a lion, located in Giza, Egypt.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Stonehenge?
+      TrueAnswer: Stonehenge
+      FalseAnswer:
+      - The Mona Lisa
+      - The Parthenon
+      - The Great Wall of China
+      Explanation: Stonehenge is a prehistoric monument consisting of massive stone
+        circles, located in Wiltshire, England.
+    - Question: Which artifact is associated with the ancient city of Istanbul?
+      TrueAnswer: Hagia Sophia
+      FalseAnswer:
+      - The Eiffel Tower
+      - The Taj Mahal
+      - The Statue of Liberty
+      Explanation: Hagia Sophia is a former Greek Orthodox Christian patriarchal
+        cathedral, later an Ottoman imperial mosque, and now a museum in Istanbul,
+        Turkey.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Teotihuacan?
+      TrueAnswer: The Pyramid of the Sun
+      FalseAnswer:
+      - The Colosseum
+      - The Mona Lisa
+      - The Parthenon
+      Explanation: The Pyramid of the Sun is the largest building in Teotihuacan,
+        an ancient Mesoamerican city in Mexico.
+    - Question: Which artifact is associated with the ancient city of Kyoto?
+      TrueAnswer: Kinkaku-ji
+      FalseAnswer:
+      - The Taj Mahal
+      - The Statue of Liberty
+      - The Great Wall of China
+      Explanation: Kinkaku-ji, also known as the Golden Pavilion, is a Zen Buddhist
+        temple in Kyoto, Japan.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Ephesus?
+      TrueAnswer: The Library of Celsus
+      FalseAnswer:
+      - The Eiffel Tower
+      - The Mona Lisa
+      - The Colosseum
+      Explanation: The Library of Celsus is an ancient Roman building in Ephesus,
+        Turkey, known for its grand architecture and historical significance.
+    - Question: Which artifact is associated with the ancient city of Cairo?
+      TrueAnswer: The Egyptian Museum
+      FalseAnswer:
+      - The Taj Mahal
+      - The Statue of Liberty
+      - The Great Wall of China
+      Explanation: The Egyptian Museum is home to a vast collection of ancient Egyptian
+        artifacts, including the treasures of Tutankhamun.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Tikal?
+      TrueAnswer: Temple I
+      FalseAnswer:
+      - The Mona Lisa
+      - The Parthenon
+      - The Great Wall of China
+      Explanation: Temple I, also known as the Temple of the Great Jaguar, is a Mayan
+        temple in Tikal, Guatemala.
+    - Question: Which artifact is associated with the ancient city of Luxor?
+      TrueAnswer: Karnak Temple
+      FalseAnswer:
+      - The Eiffel Tower
+      - The Taj Mahal
+      - The Statue of Liberty
+      Explanation: Karnak Temple is a vast ancient Egyptian temple complex in Luxor,
+        known for its impressive columns and historical significance.
+    - Question: What is the name of the artifact associated with the ancient city
+        of Palenque?
+      TrueAnswer: The Temple of the Inscriptions
+      FalseAnswer:
+      - The Colosseum
+      - The Mona Lisa
+      - The Parthenon
+      Explanation: The Temple of the Inscriptions is a Mayan temple in Palenque,
+        Mexico, known for its hieroglyphic inscriptions and burial chamber.

@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3016821702549939639
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1606929504912500857}
+  - component: {fileID: 3010275885772221802}
+  m_Layer: 0
+  m_Name: Music_Folk_Music.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1606929504912500857
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016821702549939639}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3010275885772221802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3016821702549939639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country is known for its rich tradition of Folk Music?
+      TrueAnswer: Ireland
+      FalseAnswer:
+      - Germany
+      - France
+      - Spain
+      Explanation: Ireland has a long history of Folk Music, with influences from
+        Celtic, English, and Scottish traditions.
+    - Question: What instrument is often associated with Appalachian Folk Music?
+      TrueAnswer: Banjo
+      FalseAnswer:
+      - Violin
+      - Accordion
+      - Saxophone
+      Explanation: The banjo is a prominent instrument in Appalachian Folk Music,
+        contributing to its distinctive sound and style.
+    - Question: Who is considered the 'Father of American Folk Music'?
+      TrueAnswer: Woody Guthrie
+      FalseAnswer:
+      - Bob Dylan
+      - Pete Seeger
+      - Joni Mitchell
+      Explanation: Woody Guthrie's influence on the folk music genre is widely recognized
+        for his social activism and poetic songwriting style.
+    - Question: In what decade did the American folk music revival begin?
+      TrueAnswer: 1930s
+      FalseAnswer:
+      - 1960s
+      - 1990s
+      - 2000s
+      Explanation: The American folk music revival gained momentum in the 1930s,
+        with artists like Woody Guthrie and Lead Belly gaining popularity.
+    - Question: Which folk singer composed 'This Land Is Your Land'?
+      TrueAnswer: Woody Guthrie
+      FalseAnswer:
+      - Bob Dylan
+      - Pete Seeger
+      - Jonny Cash
+      Explanation: Woody Guthrie's iconic song 'This Land Is Your Land' has become
+        a symbol of unity and social justice in the folk music genre.
+    - Question: What is the traditional dance associated with Irish Folk Music?
+      TrueAnswer: Jig
+      FalseAnswer:
+      - Waltz
+      - Tango
+      - Samba
+      Explanation: The energetic and lively nature of the Irish Jig reflects the
+        spirited tradition of Irish Folk Music and culture.
+    - Question: Who popularized the term 'Folk Music' in the United States?
+      TrueAnswer: John Lomax
+      FalseAnswer:
+      - Alan Lomax
+      - Bob Dylan
+      - Pete Seeger
+      Explanation: John Lomax, along with his son Alan Lomax, played a significant
+        role in preserving and promoting American Folk Music in the early 20th century.
+    - Question: Which region is known for its rich history of traditional Bluegrass
+        music?
+      TrueAnswer: Appalachia
+      FalseAnswer:
+      - Mississippi Delta
+      - Pacific Northwest
+      - Great Plains
+      Explanation: Appalachia, with its mountainous terrain, fostered the development
+        of bluegrass music, characterized by its fast tempo and unique vocal harmonies.
+    - Question: What is the folk instrument that originated in the Andes region of
+        South America?
+      TrueAnswer: Charango
+      FalseAnswer:
+      - Sitar
+      - Balalaika
+      - Dobro
+      Explanation: The charango, a small stringed instrument, is a significant symbol
+        of Andean folk music, known for its distinctive sound and cultural significance.
+    - Question: Who is known for popularizing Folk Rock in the 1960s?
+      TrueAnswer: Bob Dylan
+      FalseAnswer:
+      - Joni Mitchell
+      - Joan Baez
+      - Leonard Cohen
+      Explanation: Bob Dylan's fusion of folk and rock elements created a new musical
+        genre, inspiring a wave of Folk Rock artists in the 1960s and beyond.
+    - Question: Which folk music tradition is deeply rooted in the African-American
+        experience?
+      TrueAnswer: Gospel
+      FalseAnswer:
+      - Country
+      - Celtic
+      - Klezmer
+      Explanation: Gospel music, originating from African-American spirituals and
+        hymns, has a profound impact on American folk music traditions.
+    - Question: Who is often credited as the founder of modern American folk music?
+      TrueAnswer: Alan Lomax
+      FalseAnswer:
+      - Pete Seeger
+      - Joni Mitchell
+      - Arlo Guthrie
+      Explanation: Alan Lomax's pioneering work in ethnomusicology and folk song
+        collecting significantly shaped modern American folk music.
+    - Question: Which famous festival played a crucial role in popularizing folk
+        music in the United States?
+      TrueAnswer: Newport Folk Festival
+      FalseAnswer:
+      - Bonnaroo Music Festival
+      - Coachella Valley Music and Arts Festival
+      - Woodstock
+      Explanation: The Newport Folk Festival became a symbol of the 1960s folk music
+        revival, hosting iconic performances by Bob Dylan and other luminaries.
+    - Question: What is the name of the traditional vocal style in Appalachian folk
+        music?
+      TrueAnswer: Old-Time Singing
+      FalseAnswer:
+      - Scat Singing
+      - Yodeling
+      - Operatic
+      Explanation: Old-Time Singing, emphasizing raw and unadorned vocals, is a central
+        element of Appalachian folk music traditions.
+    - Question: In which European country did the tradition of sea shanties originate?
+      TrueAnswer: United Kingdom
+      FalseAnswer:
+      - Sweden
+      - Italy
+      - Greece
+      Explanation: Sea shanties, historically sung by sailors, emerged from the maritime
+        culture of the United Kingdom and spread across the world.
+    - Question: What is the main theme found in most Folk Music lyrics?
+      TrueAnswer: Storytelling
+      FalseAnswer:
+      - Romance
+      - Wars
+      - Religious
+      Explanation: Folk Music often revolves around storytelling, representing the
+        shared narratives and experiences of different cultures and communities.
+    - Question: What is the traditional string instrument in flamenco music of Spain?
+      TrueAnswer: Guitar
+      FalseAnswer:
+      - Violin
+      - Dulcimer
+      - Bagpipes
+      Explanation: The guitar is central to the passionate and soulful expression
+        of flamenco music, reflecting the rich cultural heritage of Spain.
+    - Question: Which artist is known for infusing reggae and folk influences into
+        their music?
+      TrueAnswer: Bob Marley
+      FalseAnswer:
+      - Johnny Cash
+      - Joni Mitchell
+      - Pete Seeger
+      Explanation: Bob Marley's distinctive blend of reggae and folk elements revolutionized
+        the music landscape, advocating for social justice and unity.
+    - Question: What is the traditional percussive instrument in Irish folk music?
+      TrueAnswer: "Bodhr\xE1n"
+      FalseAnswer:
+      - Djembe
+      - Maracas
+      - Tambourine
+      Explanation: "The bodhr\xE1n, a frame drum, provides rhythmic depth to Irish
+        folk music, echoing the cultural heritage and musical traditions of Ireland."
+    - Question: Who is often hailed as the 'Queen of American folk music'?
+      TrueAnswer: Judy Collins
+      FalseAnswer:
+      - Joan Baez
+      - Joni Mitchell
+      - Odetta
+      Explanation: Judy Collins, with her soulful interpretations and poetic songwriting,
+        holds a revered position in American folk music history.

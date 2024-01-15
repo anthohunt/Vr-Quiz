@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the approximate number of known exoplanets as of 2021?",
+            "TrueAnswer": "4300",
+            "FalseAnswer": [
+              "2500",
+              "3600",
+              "5500"
+            ],
+            "Explanation": "As of 2021, there are over 4300 confirmed exoplanets, with thousands more awaiting confirmation."
+          },
+          {
+            "Question": "Which star system is home to the first confirmed exoplanet?",
+            "TrueAnswer": "51 Pegasi",
+            "FalseAnswer": [
+              "Alpha Centauri",
+              "Kepler-186",
+              "TRAPPIST-1"
+            ],
+            "Explanation": "Michel Mayor and Didier Queloz discovered 51 Pegasi b in 1995, making it the first confirmed exoplanet."
+          },
+          {
+            "Question": "How do scientists detect exoplanets around other stars?",
+            "TrueAnswer": "Transit method",
+            "FalseAnswer": [
+              "Pulsar timing",
+              "Direct imaging",
+              "Microlensing"
+            ],
+            "Explanation": "The transit method observes the slight dimming of a star's light when a planet passes in front of it."
+          },
+          {
+            "Question": "What type of exoplanet is considered to be habitable?",
+            "TrueAnswer": "Goldilocks zone",
+            "FalseAnswer": [
+              "Hot Jupiter",
+              "Super-Earth",
+              "Gas giant"
+            ],
+            "Explanation": "Planets in the habitable zone, or 'Goldilocks zone', have conditions suitable for liquid water and potentially life."
+          },
+          {
+            "Question": "Which exoplanet holds the record for the shortest orbital period?",
+            "TrueAnswer": "Kepler-70b",
+            "FalseAnswer": [
+              "HD 80606 b",
+              "PSR J1719-1438 b",
+              "WASP-18b"
+            ],
+            "Explanation": "Kepler-70b orbits its star every 5.76 hours, making it the exoplanet with the shortest known orbital period."
+          },
+          {
+            "Question": "What is the alias for the exoplanet HD 209458 b?",
+            "TrueAnswer": "Osiris",
+            "FalseAnswer": [
+              "Tatooine",
+              "Pandora",
+              "Narnia"
+            ],
+            "Explanation": "HD 209458 b is commonly referred to as Osiris due to its significance in the study of exoplanet atmospheres."
+          },
+          {
+            "Question": "Which exoplanet discovery method found the first confirmed exomoon?",
+            "TrueAnswer": "Transit timing variation",
+            "FalseAnswer": [
+              "Direct imaging",
+              "Radial velocity",
+              "Microlensing"
+            ],
+            "Explanation": "In 2017, the transit timing variation method detected the potential presence of an exomoon around the exoplanet Kepler-1625b."
+          },
+          {
+            "Question": "What is the hottest known exoplanet?",
+            "TrueAnswer": "KELT-9b",
+            "FalseAnswer": [
+              "55 Cancri e",
+              "WASP-12b",
+              "HD 149026 b"
+            ],
+            "Explanation": "KELT-9b reaches temperatures exceeding 4300 Celsius, making it one of the hottest exoplanets known."
+          },
+          {
+            "Question": "Which exoplanet has the potential for diamond rain?",
+            "TrueAnswer": "55 Cancri e",
+            "FalseAnswer": [
+              "HD 189733 b",
+              "Gliese 436 b",
+              "TrES-2b"
+            ],
+            "Explanation": "55 Cancri e is a super-Earth where conditions may lead to the formation of diamond rain in its atmosphere."
+          },
+          {
+            "Question": "Which exoplanet candidate orbits the nearest single star to the Sun?",
+            "TrueAnswer": "Proxima Centauri b",
+            "FalseAnswer": [
+              "TRAPPIST-1e",
+              "LHS 1140 b",
+              "Kepler-186f"
+            ],
+            "Explanation": "Proxima Centauri b is an exoplanet candidate orbiting the closest known star to the Sun, potentially in its habitable zone."
+          },
+          {
+            "Question": "What are the two major types of exoplanets based on their composition?",
+            "TrueAnswer": "Rocky and gaseous",
+            "FalseAnswer": [
+              "Icy and metallic",
+              "Ocean and desert",
+              "Forest and mountainous"
+            ],
+            "Explanation": "Exoplanets are categorized as rocky or gaseous based on their composition and density, influencing their potential habitability."
+          },
+          {
+            "Question": "Which exoplanet was the first to be directly imaged with its parent star?",
+            "TrueAnswer": "Beta Pictoris b",
+            "FalseAnswer": [
+              "51 Eridani b",
+              "Fomalhaut b",
+              "HR 8799 c"
+            ],
+            "Explanation": "Beta Pictoris b was the first exoplanet to be directly imaged within its star's circumstellar disk."
+          },
+          {
+            "Question": "What is the term for a planetary system with multiple suns?",
+            "TrueAnswer": "Binary star system",
+            "FalseAnswer": [
+              "Trinary solar system",
+              "Dual star system",
+              "Multiple star cluster"
+            ],
+            "Explanation": "Binary star systems consist of two stars orbiting a common center of mass, potentially hosting exoplanets around both stars."
+          },
+          {
+            "Question": "What is the most common type of exoplanet discovered to date?",
+            "TrueAnswer": "Hot Jupiter",
+            "FalseAnswer": [
+              "Super-Earth",
+              "Mini-Neptune",
+              "Gas giant"
+            ],
+            "Explanation": "Hot Jupiters, large gas giants close to their stars, were among the first exoplanets discovered due to their detectability."
+          },
+          {
+            "Question": "Which exoplanet holds the title for the highest average density?",
+            "TrueAnswer": "CoRoT-7b",
+            "FalseAnswer": [
+              "OGLE-2005-BLG-390Lb",
+              "HD 219134 b",
+              "Kepler-10b"
+            ],
+            "Explanation": "CoRoT-7b is a rocky exoplanet with an average density higher than Earth's, making it the densest exoplanet known."
+          },
+          {
+            "Question": "What causes the unique diamond rain phenomenon on certain exoplanets?",
+            "TrueAnswer": "Extreme pressure",
+            "FalseAnswer": [
+              "Ultra-high temperatures",
+              "Magnetic fields",
+              "Volcanic activity"
+            ],
+            "Explanation": "Extreme pressures in the atmospheres of certain exoplanets lead to carbon transforming into diamond particles, creating 'diamond rain.'"
+          },
+          {
+            "Question": "Which exoplanet has a retrograde orbit compared to its parent star's rotation?",
+            "TrueAnswer": "WASP-17b",
+            "FalseAnswer": [
+              "HD 80606 b",
+              "OGLE-05-390Lb",
+              "GJ 1214 b"
+            ],
+            "Explanation": "WASP-17b orbits in the opposite direction of its star's rotation, a rare and puzzling feature among exoplanets."
+          },
+          {
+            "Question": "Which exoplanet is widely considered a 'super-Earth'?",
+            "TrueAnswer": "Kepler-20b",
+            "FalseAnswer": [
+              "GJ 1214 b",
+              "Corot-7b",
+              "51 Pegasi b"
+            ],
+            "Explanation": "Kepler-20b is a super-Earth, larger than Earth but smaller than Uranus, and is located within its star's habitable zone."
+          },
+          {
+            "Question": "Which star hosts the largest known exoplanet relative to its size?",
+            "TrueAnswer": "Kappa Andromedae",
+            "FalseAnswer": [
+              "WD 0806-661",
+              "TrES-4",
+              "PSR B1620-26 b"
+            ],
+            "Explanation": "Kappa Andromedae b is a gas giant orbiting its host star, and its mass is perhaps the most disproportionate to its host."
+          },
+          {
+            "Question": "What is the term for a planetary system with at least three stars?",
+            "TrueAnswer": "Trinary star system",
+            "FalseAnswer": [
+              "Multiple star cluster",
+              "Binary star system",
+              "Quadruple star system"
+            ],
+            "Explanation": "Trinary star systems involve the interaction of three stars and have the potential to host unique and complex planetary systems."
+          }
+        ]
+      }
+    }
+  ]
+}

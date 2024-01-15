@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1193274178553039791
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8467412222992777066}
+  - component: {fileID: 2074345425001918377}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Fashion_and_Cultural_Appropriation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8467412222992777066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193274178553039791}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2074345425001918377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1193274178553039791}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is cultural appropriation in fashion?
+      TrueAnswer: Adopting elements from a marginalized culture.
+      FalseAnswer:
+      - Creating original designs.
+      - Showing appreciation for other cultures.
+      - Respecting cultural traditions.
+      Explanation: Cultural appropriation in fashion involves borrowing or adopting
+        elements from a marginalized culture without permission or understanding,
+        often perpetuating stereotypes and exploiting the culture.
+    - Question: Which of the following is an example of cultural appropriation in
+        fashion?
+      TrueAnswer: Using sacred symbols as fashion accessories.
+      FalseAnswer:
+      - Displaying traditional cultural attire.
+      - Acknowledging and crediting the original culture.
+      - Exchanging fashion influences with different cultures.
+      Explanation: Using sacred symbols or traditional attire from a specific culture
+        without understanding their significance and spiritual importance is a clear
+        example of cultural appropriation in fashion.
+    - Question: Why is cultural appropriation harmful in the fashion industry?
+      TrueAnswer: It perpetuates stereotypes and disrespects traditions.
+      FalseAnswer:
+      - It encourages diversity and inclusivity.
+      - It promotes global fashion trends.
+      - It fosters cross-cultural exchange.
+      Explanation: Cultural appropriation in fashion can perpetuate stereotypes,
+        undermine cultural traditions, and exploit the labor and creativity of marginalized
+        communities, contributing to social inequality and discrimination.
+    - Question: What should fashion designers do to avoid cultural appropriation?
+      TrueAnswer: Engage with and gain permission from the culture they are drawing
+        inspiration from.
+      FalseAnswer:
+      - Ignore cultural influences and trends.
+      - Commercialize traditional clothing directly.
+      - Use cultural elements without understanding their meaning.
+      Explanation: Fashion designers should engage in respectful collaboration, obtain
+        permissions, and understand the significance of cultural elements they are
+        incorporating to avoid appropriation.
+    - Question: What is the impact of cultural appropriation on indigenous fashion?
+      TrueAnswer: Diminishment of cultural authenticity and exploitation.
+      FalseAnswer:
+      - Promotion of traditional craftsmanship.
+      - Encouragement of cultural revitalization.
+      - Preservation of indigenous identity.
+      Explanation: Cultural appropriation can lead to the exploitation and commercialization
+        of indigenous designs, diminishing the authenticity and economic value of
+        traditional craftsmanship within indigenous communities.

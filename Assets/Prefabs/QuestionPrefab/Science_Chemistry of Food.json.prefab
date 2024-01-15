@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5949440150633823721
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8549333044787479221}
+  - component: {fileID: 8544511759261223394}
+  m_Layer: 0
+  m_Name: Science_Chemistry of Food.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8549333044787479221
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5949440150633823721}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8544511759261223394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5949440150633823721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the chemical formula for water?
+      TrueAnswer: H2O
+      FalseAnswer:
+      - CO2
+      - NaCl
+      - C6H12O6
+      Explanation: Water is composed of two hydrogen atoms bonded to one oxygen atom.
+    - Question: Which element is responsible for the red color of tomatoes?
+      TrueAnswer: Lycopene
+      FalseAnswer:
+      - Chlorophyll
+      - Anthocyanin
+      - Carotene
+      Explanation: Lycopene is a pigment that gives tomatoes their characteristic
+        red color.
+    - Question: What is the main component of table salt?
+      TrueAnswer: Sodium chloride
+      FalseAnswer:
+      - Calcium carbonate
+      - Potassium iodide
+      - Magnesium sulfate
+      Explanation: Table salt is primarily composed of sodium chloride, which is
+        essential for various bodily functions.
+    - Question: Which gas is responsible for the fizz in carbonated drinks?
+      TrueAnswer: Carbon dioxide
+      FalseAnswer:
+      - Oxygen
+      - Nitrogen
+      - Hydrogen
+      Explanation: Carbon dioxide dissolves in the liquid and forms bubbles, creating
+        the fizz in carbonated drinks.
+    - Question: What is the main component of protein?
+      TrueAnswer: Amino acids
+      FalseAnswer:
+      - Fatty acids
+      - Glucose
+      - Vitamins
+      Explanation: Proteins are made up of chains of amino acids, which are essential
+        for growth and repair in the body.
+    - Question: Which compound gives garlic its distinctive smell?
+      TrueAnswer: Allicin
+      FalseAnswer:
+      - Caffeine
+      - Capsaicin
+      - Curcumin
+      Explanation: Allicin is a sulfur-containing compound responsible for the pungent
+        odor of garlic.
+    - Question: What is the main component of carbohydrates?
+      TrueAnswer: Sugars
+      FalseAnswer:
+      - Lipids
+      - Proteins
+      - Minerals
+      Explanation: Carbohydrates are composed of sugars, which provide energy for
+        the body.
+    - Question: Which compound gives chili peppers their spiciness?
+      TrueAnswer: Capsaicin
+      FalseAnswer:
+      - Caffeine
+      - Curcumin
+      - Resveratrol
+      Explanation: Capsaicin stimulates nerve endings, creating a burning sensation
+        and spiciness in chili peppers.
+    - Question: What is the main component of fats and oils?
+      TrueAnswer: Fatty acids
+      FalseAnswer:
+      - Amino acids
+      - Glucose
+      - Vitamins
+      Explanation: Fats and oils are composed of fatty acids, which are important
+        for energy storage and insulation.
+    - Question: Which compound gives oranges their citrusy scent?
+      TrueAnswer: Limonene
+      FalseAnswer:
+      - Linalool
+      - Eugenol
+      - Menthol
+      Explanation: Limonene is a compound found in the peel of oranges, responsible
+        for their characteristic scent.
+    - Question: What is the main component of vinegar?
+      TrueAnswer: Acetic acid
+      FalseAnswer:
+      - Citric acid
+      - Lactic acid
+      - Ascorbic acid
+      Explanation: Vinegar is primarily composed of acetic acid, which gives it its
+        sour taste and pungent smell.
+    - Question: Which compound gives cinnamon its distinctive flavor?
+      TrueAnswer: Cinnamaldehyde
+      FalseAnswer:
+      - Vanillin
+      - Menthol
+      - Capsaicin
+      Explanation: Cinnamaldehyde is the main compound responsible for the warm and
+        sweet flavor of cinnamon.
+    - Question: What is the main component of chocolate?
+      TrueAnswer: Cocoa solids
+      FalseAnswer:
+      - Milk
+      - Sugar
+      - Vanilla
+      Explanation: Cocoa solids, derived from cocoa beans, are the main component
+        of chocolate, providing its rich flavor.
+    - Question: Which compound gives coffee its stimulating effect?
+      TrueAnswer: Caffeine
+      FalseAnswer:
+      - Theobromine
+      - L-theanine
+      - Nicotine
+      Explanation: Caffeine is a stimulant that increases alertness and reduces fatigue,
+        commonly found in coffee.
+    - Question: What is the main component of chili powder?
+      TrueAnswer: Capsaicin
+      FalseAnswer:
+      - Cumin
+      - Paprika
+      - Turmeric
+      Explanation: Capsaicin is the primary compound responsible for the heat and
+        spiciness of chili powder.
+    - Question: Which compound gives strawberries their sweet aroma?
+      TrueAnswer: Furaneol
+      FalseAnswer:
+      - Linalool
+      - Geraniol
+      - Eugenol
+      Explanation: Furaneol is a compound found in strawberries, contributing to
+        their sweet and fruity aroma.
+    - Question: What is the main component of vinegar?
+      TrueAnswer: Acetic acid
+      FalseAnswer:
+      - Citric acid
+      - Lactic acid
+      - Ascorbic acid
+      Explanation: Vinegar is primarily composed of acetic acid, which gives it its
+        sour taste and pungent smell.
+    - Question: Which compound gives garlic its distinctive smell?
+      TrueAnswer: Allicin
+      FalseAnswer:
+      - Caffeine
+      - Capsaicin
+      - Curcumin
+      Explanation: Allicin is a sulfur-containing compound responsible for the pungent
+        odor of garlic.
+    - Question: What is the main component of protein?
+      TrueAnswer: Amino acids
+      FalseAnswer:
+      - Fatty acids
+      - Glucose
+      - Vitamins
+      Explanation: Proteins are made up of chains of amino acids, which are essential
+        for growth and repair in the body.
+    - Question: Which element is responsible for the red color of tomatoes?
+      TrueAnswer: Lycopene
+      FalseAnswer:
+      - Chlorophyll
+      - Anthocyanin
+      - Carotene
+      Explanation: Lycopene is a pigment that gives tomatoes their characteristic
+        red color.

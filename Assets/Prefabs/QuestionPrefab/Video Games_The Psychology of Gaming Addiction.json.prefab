@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4293355628548680604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2972669604573673178}
+  - component: {fileID: 8372594740865639967}
+  m_Layer: 0
+  m_Name: Video Games_The Psychology of Gaming Addiction.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2972669604573673178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4293355628548680604}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8372594740865639967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4293355628548680604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular video game of all time?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - Fortnite
+      - Call of Duty
+      - Super Mario Bros.
+      Explanation: Minecraft is the best-selling video game of all time, with over
+        200 million copies sold.
+    - Question: What is the average age of a video game player?
+      TrueAnswer: 35
+      FalseAnswer:
+      - 18
+      - 25
+      - 40
+      Explanation: The average age of a video game player is 35 years old.
+    - Question: What is the term used to describe excessive gaming that interferes
+        with daily life?
+      TrueAnswer: Gaming addiction
+      FalseAnswer:
+      - Gaming disorder
+      - Gaming obsession
+      - Gaming compulsion
+      Explanation: Gaming addiction refers to the excessive and compulsive use of
+        video games that negatively impacts daily life.
+    - Question: Which neurotransmitter is associated with the pleasure and reward
+        system in the brain?
+      TrueAnswer: Dopamine
+      FalseAnswer:
+      - Serotonin
+      - Endorphins
+      - GABA
+      Explanation: Dopamine is the neurotransmitter associated with the brain's pleasure
+        and reward system, which can be activated by gaming.
+    - Question: What percentage of gamers are female?
+      TrueAnswer: 46%
+      FalseAnswer:
+      - 30%
+      - 60%
+      - 75%
+      Explanation: Approximately 46% of gamers are female, showing that gaming is
+        enjoyed by a diverse audience.
+    - Question: Which gaming console was released by Sony in 1994?
+      TrueAnswer: PlayStation
+      FalseAnswer:
+      - Xbox
+      - Nintendo 64
+      - Sega Genesis
+      Explanation: Sony released the PlayStation console in 1994, revolutionizing
+        the gaming industry.
+    - Question: What is the term for in-game purchases using real-world currency?
+      TrueAnswer: Microtransactions
+      FalseAnswer:
+      - Loot boxes
+      - DLC
+      - Virtual currency
+      Explanation: Microtransactions refer to small in-game purchases made with real-world
+        currency, often for cosmetic items or additional content.
+    - Question: Which country has the highest video game revenue?
+      TrueAnswer: China
+      FalseAnswer:
+      - United States
+      - Japan
+      - South Korea
+      Explanation: China has the highest video game revenue, surpassing the United
+        States and other major markets.
+    - Question: What is the term for the fear of missing out on in-game events or
+        rewards?
+      TrueAnswer: FOMO
+      FalseAnswer:
+      - LOL
+      - BRB
+      - AFK
+      Explanation: FOMO stands for 'fear of missing out' and refers to the anxiety
+        or desire to participate in in-game events or obtain rewards.
+    - Question: Which game genre is known for its competitive multiplayer gameplay?
+      TrueAnswer: First-person shooter
+      FalseAnswer:
+      - Role-playing game
+      - Simulation
+      - Platformer
+      Explanation: First-person shooter games are known for their competitive multiplayer
+        gameplay, where players battle against each other.
+    - Question: What is the term for the psychological desire to continue playing
+        a game?
+      TrueAnswer: Game craving
+      FalseAnswer:
+      - Game fixation
+      - Game obsession
+      - Game compulsion
+      Explanation: Game craving refers to the psychological desire or urge to continue
+        playing a game, often leading to excessive gaming.
+    - Question: Which gaming platform is known for its motion-sensing controllers?
+      TrueAnswer: Nintendo Switch
+      FalseAnswer:
+      - PlayStation 4
+      - Xbox One
+      - PC
+      Explanation: The Nintendo Switch is known for its motion-sensing controllers,
+        allowing for interactive and immersive gameplay.
+    - Question: What is the term for the phenomenon of losing track of time while
+        gaming?
+      TrueAnswer: Time distortion
+      FalseAnswer:
+      - Time dilation
+      - Time manipulation
+      - Time suspension
+      Explanation: Time distortion refers to the phenomenon of losing track of time
+        while gaming, leading to extended play sessions.
+    - Question: Which game is often associated with the rise of esports?
+      TrueAnswer: League of Legends
+      FalseAnswer:
+      - World of Warcraft
+      - Fortnite
+      - Minecraft
+      Explanation: League of Legends is often associated with the rise of esports,
+        with professional tournaments and a dedicated competitive scene.
+    - Question: What is the term for the feeling of accomplishment or satisfaction
+        after achieving in-game goals?
+      TrueAnswer: Eustress
+      FalseAnswer:
+      - Distress
+      - Euphoria
+      - Exhaustion
+      Explanation: Eustress refers to the positive feeling of accomplishment or satisfaction
+        after achieving in-game goals, motivating further gameplay.
+    - Question: Which game console introduced the concept of motion-controlled gaming?
+      TrueAnswer: Wii
+      FalseAnswer:
+      - PlayStation 3
+      - Xbox 360
+      - GameCube
+      Explanation: The Wii console introduced the concept of motion-controlled gaming,
+        allowing players to physically interact with games.
+    - Question: What is the term for the practice of playing video games for long
+        periods without breaks?
+      TrueAnswer: Gaming marathons
+      FalseAnswer:
+      - Gaming binges
+      - Gaming sessions
+      - Gaming sprees
+      Explanation: Gaming marathons refer to the practice of playing video games
+        for long periods without breaks, often resulting in fatigue or health issues.
+    - Question: Which game is known for its addictive gameplay and social interactions?
+      TrueAnswer: World of Warcraft
+      FalseAnswer:
+      - The Sims
+      - Animal Crossing
+      - Candy Crush
+      Explanation: World of Warcraft is known for its addictive gameplay and social
+        interactions, creating a sense of community among players.
+    - Question: What is the term for the phenomenon of experiencing withdrawal-like
+        symptoms when unable to play games?
+      TrueAnswer: Gaming withdrawal
+      FalseAnswer:
+      - Gaming separation
+      - Gaming detachment
+      - Gaming isolation
+      Explanation: Gaming withdrawal refers to the phenomenon of experiencing withdrawal-like
+        symptoms, such as irritability or restlessness, when unable to play games.
+    - Question: Which game genre is known for its immersive storytelling and decision-making?
+      TrueAnswer: Role-playing game
+      FalseAnswer:
+      - Sports
+      - Puzzle
+      - Racing
+      Explanation: Role-playing games are known for their immersive storytelling
+        and decision-making, allowing players to shape the game's narrative.
+    - Question: What is the term for the excessive use of video games as a coping
+        mechanism?
+      TrueAnswer: Escapism
+      FalseAnswer:
+      - Addiction
+      - Obsession
+      - Compulsion
+      Explanation: Escapism refers to the excessive use of video games as a coping
+        mechanism to avoid real-life problems or emotions.

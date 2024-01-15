@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &426371929537620298
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7548746164866731606}
+  - component: {fileID: 862510301038033728}
+  m_Layer: 0
+  m_Name: Literature_Gothic Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7548746164866731606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426371929537620298}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &862510301038033728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426371929537620298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of the novel 'Frankenstein'?
+      TrueAnswer: Mary Shelley
+      FalseAnswer:
+      - Emily Bronte
+      - Charlotte Bronte
+      - Jane Austen
+      Explanation: Mary Shelley is the author of the Gothic novel 'Frankenstein',
+        published in 1818.
+    - Question: Which of the following is a common theme in Gothic literature?
+      TrueAnswer: Supernatural
+      FalseAnswer:
+      - Romance
+      - Comedy
+      - Adventure
+      Explanation: The supernatural is a common theme in Gothic literature, often
+        involving ghosts, monsters, or otherworldly elements.
+    - Question: What is the setting of Bram Stoker's 'Dracula'?
+      TrueAnswer: Transylvania
+      FalseAnswer:
+      - London
+      - Paris
+      - New York
+      Explanation: Bram Stoker's 'Dracula' is set in the region of Transylvania,
+        known for its association with vampires and folklore.
+    - Question: Who is the protagonist in Edgar Allan Poe's 'The Fall of the House
+        of Usher'?
+      TrueAnswer: Roderick Usher
+      FalseAnswer:
+      - Montresor
+      - Ligeia
+      - The Red Death
+      Explanation: Roderick Usher is the main character in Edgar Allan Poe's Gothic
+        tale 'The Fall of the House of Usher'.
+    - Question: Which of the following is a famous Gothic novel by Charlotte Bronte?
+      TrueAnswer: Jane Eyre
+      FalseAnswer:
+      - Wuthering Heights
+      - Pride and Prejudice
+      - Sense and Sensibility
+      Explanation: Charlotte Bronte's 'Jane Eyre' is a well-known Gothic novel, exploring
+        themes of love, identity, and madness.
+    - Question: What is the name of the monster in Robert Louis Stevenson's 'Strange
+        Case of Dr Jekyll and Mr Hyde'?
+      TrueAnswer: Mr Hyde
+      FalseAnswer:
+      - Dr Jekyll
+      - Frankenstein's Monster
+      - Count Dracula
+      Explanation: The monster in Robert Louis Stevenson's novella is named Mr Hyde,
+        representing the dark side of Dr Jekyll's personality.
+    - Question: Which of the following is a famous Gothic novel by Emily Bronte?
+      TrueAnswer: Wuthering Heights
+      FalseAnswer:
+      - Jane Eyre
+      - Pride and Prejudice
+      - Sense and Sensibility
+      Explanation: Emily Bronte's 'Wuthering Heights' is a renowned Gothic novel,
+        known for its passionate and haunting love story.
+    - Question: Who is the author of the Gothic novel 'The Picture of Dorian Gray'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Bram Stoker
+      - Edgar Allan Poe
+      - Mary Shelley
+      Explanation: Oscar Wilde is the author of the Gothic novel 'The Picture of
+        Dorian Gray', exploring themes of beauty and morality.
+    - Question: What is the name of the madwoman locked in the attic in 'Jane Eyre'?
+      TrueAnswer: Bertha
+      FalseAnswer:
+      - Catherine
+      - Elizabeth
+      - Margaret
+      Explanation: Bertha is the name of the madwoman locked in the attic in Charlotte
+        Bronte's 'Jane Eyre'.
+    - Question: Which of the following is a famous Gothic novel by Ann Radcliffe?
+      TrueAnswer: The Mysteries of Udolpho
+      FalseAnswer:
+      - Dracula
+      - Frankenstein
+      - The Strange Case of Dr Jekyll and Mr Hyde
+      Explanation: Ann Radcliffe's 'The Mysteries of Udolpho' is a classic Gothic
+        novel, known for its suspense and supernatural elements.
+    - Question: What is the name of the protagonist in Mary Shelley's 'Frankenstein'?
+      TrueAnswer: Victor Frankenstein
+      FalseAnswer:
+      - Robert Walton
+      - Henry Clerval
+      - The Creature
+      Explanation: Victor Frankenstein is the main character in Mary Shelley's 'Frankenstein',
+        a scientist who creates a monster.
+    - Question: Which of the following is a famous Gothic novel by Edgar Allan Poe?
+      TrueAnswer: The Fall of the House of Usher
+      FalseAnswer:
+      - Pride and Prejudice
+      - Sense and Sensibility
+      - Wuthering Heights
+      Explanation: Edgar Allan Poe's 'The Fall of the House of Usher' is a well-known
+        Gothic tale, exploring themes of madness and decay.
+    - Question: What is the name of the estate in 'Wuthering Heights'?
+      TrueAnswer: Wuthering Heights
+      FalseAnswer:
+      - Thornfield Hall
+      - Pemberley
+      - Manderley
+      Explanation: The name of the estate in Emily Bronte's 'Wuthering Heights' is
+        also Wuthering Heights, reflecting the wild and turbulent nature of the story.
+    - Question: Who is the author of the Gothic novel 'Rebecca'?
+      TrueAnswer: Daphne du Maurier
+      FalseAnswer:
+      - Emily Bronte
+      - Charlotte Bronte
+      - Jane Austen
+      Explanation: Daphne du Maurier is the author of the Gothic novel 'Rebecca',
+        known for its atmospheric and suspenseful storytelling.
+    - Question: What is the name of the vampire in Bram Stoker's 'Dracula'?
+      TrueAnswer: Count Dracula
+      FalseAnswer:
+      - Lucy Westenra
+      - Jonathan Harker
+      - Mina Murray
+      Explanation: Count Dracula is the name of the vampire in Bram Stoker's 'Dracula',
+        a classic Gothic novel.
+    - Question: Which of the following is a famous Gothic novel by Mary Shelley?
+      TrueAnswer: Frankenstein
+      FalseAnswer:
+      - Jane Eyre
+      - Wuthering Heights
+      - Pride and Prejudice
+      Explanation: Mary Shelley's 'Frankenstein' is a renowned Gothic novel, exploring
+        themes of creation, ambition, and humanity.
+    - Question: What is the name of the narrator in Edgar Allan Poe's 'The Tell-Tale
+        Heart'?
+      TrueAnswer: Unknown
+      FalseAnswer:
+      - Roderick Usher
+      - Montresor
+      - Ligeia
+      Explanation: The narrator in Edgar Allan Poe's 'The Tell-Tale Heart' remains
+        unknown, adding to the story's suspense and mystery.
+    - Question: Which of the following is a famous Gothic novel by Ann Radcliffe?
+      TrueAnswer: The Italian
+      FalseAnswer:
+      - Dracula
+      - Frankenstein
+      - The Strange Case of Dr Jekyll and Mr Hyde
+      Explanation: Ann Radcliffe's 'The Italian' is a classic Gothic novel, known
+        for its dark secrets and dramatic plot.
+    - Question: What is the name of the ghostly woman in 'The Woman in White' by
+        Wilkie Collins?
+      TrueAnswer: Anne Catherick
+      FalseAnswer:
+      - Laura Fairlie
+      - Marian Halcombe
+      - Count Fosco
+      Explanation: Anne Catherick is the name of the ghostly woman in Wilkie Collins'
+        'The Woman in White', a Victorian Gothic novel.
+    - Question: Which of the following is a famous Gothic novel by Sheridan Le Fanu?
+      TrueAnswer: Carmilla
+      FalseAnswer:
+      - Jane Eyre
+      - Wuthering Heights
+      - Pride and Prejudice
+      Explanation: Sheridan Le Fanu's 'Carmilla' is a notable Gothic novella, featuring
+        a female vampire and themes of desire and obsession.
+    - Question: What is the name of the protagonist in 'The Strange Case of Dr Jekyll
+        and Mr Hyde'?
+      TrueAnswer: Dr Jekyll
+      FalseAnswer:
+      - Mr Hyde
+      - Victor Frankenstein
+      - Count Dracula
+      Explanation: Dr Jekyll is the name of the protagonist in Robert Louis Stevenson's
+        'The Strange Case of Dr Jekyll and Mr Hyde'.

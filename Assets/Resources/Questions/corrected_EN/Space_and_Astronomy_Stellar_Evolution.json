@@ -1,0 +1,108 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the last stage in the life of a massive star?",
+          "TrueAnswer": "Supernova",
+          "FalseAnswer": [
+            "White dwarf",
+            "Neutron star",
+            "Black hole"
+          ],
+          "Explanation": "When a massive star finishes burning its nuclear fuel, it undergoes a supernova explosion, scattering elements into space."
+        },
+        {
+          "Question": "How do stars generate energy during the main sequence phase?",
+          "TrueAnswer": "Nuclear fusion",
+          "FalseAnswer": [
+            "Nuclear fission",
+            "Chemical reactions",
+            "Convection"
+          ],
+          "Explanation": "During the main sequence phase, stars convert hydrogen into helium through nuclear fusion, releasing energy in the process."
+        },
+        {
+          "Question": "What prevents a neutron star from collapsing under its own gravity?",
+          "TrueAnswer": "Neutron degeneracy pressure",
+          "FalseAnswer": [
+            "Electromagnetic repulsion",
+            "Gravitational pull",
+            "Nuclear fusion"
+          ],
+          "Explanation": "Neutron degeneracy pressure is a force that counteracts gravity, preventing the collapse of neutron stars into black holes."
+        },
+        {
+          "Question": "What causes a supernova to occur in a binary star system?",
+          "TrueAnswer": "Mass transfer from a companion star",
+          "FalseAnswer": [
+            "Planetary collision",
+            "Gamma-ray burst",
+            "Magnetic field disruption"
+          ],
+          "Explanation": "In a binary star system, a supernova can occur when the companion star transfers mass onto the other, triggering a runaway nuclear reaction."
+        },
+        {
+          "Question": "What determines the final fate of a low-mass star after the red giant phase?",
+          "TrueAnswer": "Planetary nebula",
+          "FalseAnswer": [
+            "White dwarf",
+            "Black dwarf",
+            "Neutron star"
+          ],
+          "Explanation": "After the red giant phase, a low-mass star sheds its outer layers to form a planetary nebula, leaving behind a white dwarf."
+        },
+        {
+          "Question": "What is the primary energy source for a red giant star?",
+          "TrueAnswer": "Helium fusion",
+          "FalseAnswer": [
+            "Hydrogen fusion",
+            "Carbon fusion",
+            "Nuclear fission"
+          ],
+          "Explanation": "Red giant stars undergo helium fusion in their cores after exhausting hydrogen, generating energy and expanding in size."
+        },
+        {
+          "Question": "Which process is responsible for the formation of heavy elements in a supernova?",
+          "TrueAnswer": "R-process nucleosynthesis",
+          "FalseAnswer": [
+            "Pulsar wind accretion",
+            "CNO cycle",
+            "Photodisintegration"
+          ],
+          "Explanation": "During a supernova, rapid neutron capture in the r-process leads to the creation of heavy elements beyond iron."
+        },
+        {
+          "Question": "What feature distinguishes a Type II supernova from a Type Ia supernova?",
+          "TrueAnswer": "Presence of hydrogen in spectral lines",
+          "FalseAnswer": [
+            "Presence of helium in spectral lines",
+            "Explosion of a white dwarf",
+            "Lack of an accompanying gamma-ray burst"
+          ],
+          "Explanation": "Type II supernovae exhibit hydrogen spectral lines, indicating the explosion of a massive star, unlike Type Ia supernovae."
+        },
+        {
+          "Question": "Which stage follows the protostar phase in stellar evolution?",
+          "TrueAnswer": "T Tauri star",
+          "FalseAnswer": [
+            "Herbig-Haro object",
+            "Main sequence star",
+            "Red dwarf star"
+          ],
+          "Explanation": "After the protostar phase, a young star enters the T Tauri stage, characterized by strong stellar winds and intense magnetic activity."
+        },
+        {
+          "Question": "What is the end result of the core collapse of a high-mass star?",
+          "TrueAnswer": "Neutron star",
+          "FalseAnswer": [
+            "White dwarf",
+            "Red giant",
+            "Black hole"
+          ],
+          "Explanation": "The core collapse of a high-mass star leads to the formation of a neutron star, a dense remnant supported by neutron degeneracy pressure."
+        }
+      ]
+    }
+  ]
+}

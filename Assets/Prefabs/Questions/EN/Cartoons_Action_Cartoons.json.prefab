@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5033931328260785115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5335362133340133197}
+  - component: {fileID: 349262403914788885}
+  m_Layer: 0
+  m_Name: Cartoons_Action_Cartoons.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5335362133340133197
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5033931328260785115}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &349262403914788885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5033931328260785115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which animated series features a team of superhero teenagers?
+      TrueAnswer: Teen Titans
+      FalseAnswer:
+      - Ben 10
+      - The Powerpuff Girls
+      - Steven Universe
+      Explanation: Teen Titans follows a group of young superheroes as they battle
+        evil and face the trials of adolescence.
+    - Question: What is the name of the superhero group in 'Big Hero 6'?
+      TrueAnswer: Big Hero 6
+      FalseAnswer:
+      - Super Six
+      - Mighty Five
+      - Power Pack
+      Explanation: Big Hero 6 is a team of six superheroes in the Marvel Comics and
+        Disney animated film of the same name.
+    - Question: 'In ''Avatar: The Last Airbender'', who is the last surviving Airbender?'
+      TrueAnswer: Aang
+      FalseAnswer:
+      - Zuko
+      - Katara
+      - Toph
+      Explanation: Aang, the protagonist, is the last surviving Airbender and the
+        Avatar who must bring balance to the world.
+    - Question: What is the name of the superhero who leads the X-Men?
+      TrueAnswer: Professor X
+      FalseAnswer:
+      - Wolverine
+      - Cyclops
+      - Magneto
+      Explanation: Professor X, also known as Charles Xavier, is the founder and
+        leader of the X-Men, advocating peaceful coexistence between mutants and
+        humans.
+    - Question: Which animated series follows a team of kids with superpowered martial
+        arts skills?
+      TrueAnswer: Xiaolin Showdown
+      FalseAnswer:
+      - Danny Phantom
+      - Samurai Jack
+      - The Powerpuff Girls
+      Explanation: Xiaolin Showdown features a group of young heroes who use martial
+        arts and mystical powers to protect the world from evil forces.
+    - Question: 'Who is the primary antagonist in ''Voltron: Legendary Defender''?'
+      TrueAnswer: Zarkon
+      FalseAnswer:
+      - Lotor
+      - Haggar
+      - Shiro
+      Explanation: 'Zarkon is the ruthless leader of the Galra Empire and the main
+        adversary of the Paladins in ''Voltron: Legendary Defender''.'
+    - Question: Which character is known for the catchphrase 'By the power of Grayskull'?
+      TrueAnswer: He-Man
+      FalseAnswer:
+      - Lion-O
+      - She-Ra
+      - Skeletor
+      Explanation: He-Man, the alter ego of Prince Adam, transforms into the mighty
+        warrior by proclaiming 'By the power of Grayskull' in the classic animated
+        series.
+    - Question: In 'ThunderCats', what planet do the ThunderCats come from?
+      TrueAnswer: Thundera
+      FalseAnswer:
+      - Eternia
+      - Etheria
+      - Third Earth
+      Explanation: The ThunderCats hail from the now-destroyed planet Thundera, seeking
+        refuge and battling evil on Third Earth.
+    - Question: Which character wields a mystical artifact known as the Keyblade?
+      TrueAnswer: Sora
+      FalseAnswer:
+      - Riku
+      - Kairi
+      - Roxas
+      Explanation: Sora is the main protagonist in the 'Kingdom Hearts' series, wielding
+        the Keyblade to combat darkness and protect worlds from malevolent forces.
+    - Question: What is the name of the samurai who wields a magic sword in 'Samurai
+        Jack'?
+      TrueAnswer: Jack
+      FalseAnswer:
+      - Aku
+      - Scaramouche
+      - Ashi
+      Explanation: Jack, also known as Samurai Jack, wields a mystical katana to
+        battle the shape-shifting demon Aku and find a way back to his time.
+    - Question: Which character is the leader of the Autobots in 'Transformers'?
+      TrueAnswer: Optimus Prime
+      FalseAnswer:
+      - Megatron
+      - Bumblebee
+      - Starscream
+      Explanation: Optimus Prime is the noble leader of the Autobots, dedicated to
+        protecting Earth and the universe from the tyranny of the Decepticons.
+    - Question: What is the name of the team of ducks led by a superhero known as
+        Darkwing Duck?
+      TrueAnswer: The Quack Pack
+      FalseAnswer:
+      - Mighty Ducks
+      - DuckTales
+      - Duck Dodgers
+      Explanation: The Quack Pack is a group of anthropomorphic ducks led by Darkwing
+        Duck, known for their crime-fighting adventures in the city of St. Canard.
+    - Question: In 'Rise of the Teenage Mutant Ninja Turtles', who is the eldest
+        turtle?
+      TrueAnswer: Leonardo
+      FalseAnswer:
+      - Raphael
+      - Michelangelo
+      - Donatello
+      Explanation: Leonardo is the disciplined leader and the eldest of the Teenage
+        Mutant Ninja Turtles, known for his proficiency in ninjutsu and katana skills.
+    - Question: Which animated series features a team of heroes called the Crystal
+        Gems?
+      TrueAnswer: Steven Universe
+      FalseAnswer:
+      - Adventure Time
+      - Rick and Morty
+      - The Owl House
+      Explanation: Steven Universe follows the adventures of the Crystal Gems, alien
+        heroes protecting Earth and nurturing Steven, a half-Gem boy.
+    - Question: Who is the main protagonist in 'Ben 10'?
+      TrueAnswer: Ben Tennyson
+      FalseAnswer:
+      - Kevin Levin
+      - Gwen Tennyson
+      - Max Tennyson
+      Explanation: Ben Tennyson, equipped with the Omnitrix, can transform into various
+        alien forms to battle villains and protect the universe.
+    - Question: In 'Young Justice', who is the protege of Batman and the team's leader?
+      TrueAnswer: Nightwing
+      FalseAnswer:
+      - Robin
+      - Superboy
+      - Aqualad
+      Explanation: Nightwing, formerly known as Robin, matures into a capable leader,
+        coordinating the covert operations of the young superhero team, Young Justice.
+    - Question: What is the name of the characters' superhero group in 'Code Lyoko'?
+      TrueAnswer: Lyoko Warriors
+      FalseAnswer:
+      - Cyber Knights
+      - Digital Defenders
+      - Tech Titans
+      Explanation: The Lyoko Warriors are a group of students who enter a virtual
+        world to combat an artificial intelligence named XANA threatening the real
+        world.
+    - Question: Which character transforms into a powerful green monster in 'The
+        Incredible Hulk'?
+      TrueAnswer: Bruce Banner
+      FalseAnswer:
+      - Tony Stark
+      - Thor Odinson
+      - Peter Parker
+      Explanation: Bruce Banner, when subjected to intense anger or stress, transforms
+        into the Hulk, a giant, green-skinned, immensely strong creature.
+    - Question: What is the name of the sorcerer who trains the title character in
+        'Young Justice'?
+      TrueAnswer: Doctor Fate
+      FalseAnswer:
+      - Zatanna
+      - Etrigan
+      - Klarion
+      Explanation: Doctor Fate is a powerful sorcerer who mentors and guides the
+        young heroes in learning the mystic arts and facing supernatural threats.
+    - Question: In 'Spectacular Spider-Man', who is Peter Parker's love interest?
+      TrueAnswer: Gwen Stacy
+      FalseAnswer:
+      - Mary Jane Watson
+      - Liz Allan
+      - Felicia Hardy
+      Explanation: Gwen Stacy is Peter Parker's first love interest, a classmate
+        and aspiring young scientist who becomes entangled in his heroic endeavors.

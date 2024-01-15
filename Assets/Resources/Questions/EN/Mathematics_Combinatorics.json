@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "How many ways can you arrange the letters in the word 'MATHEMATICS'?",
+            "TrueAnswer": "3628800",
+            "FalseAnswer": [
+              "720",
+              "40320",
+              "40321"
+            ],
+            "Explanation": "The word 'MATHEMATICS' has 11 letters, with 2 M's, 2 A's, 2 T's, and 2 C's, so the total arrangements would be 11!/ (2!*2!*2!*2!) = 3628800."
+          },
+          {
+            "Question": "In how many ways can a 5-card hand be dealt from a standard 52-card deck?",
+            "TrueAnswer": "2598960",
+            "FalseAnswer": [
+              "3125",
+              "52",
+              "120"
+            ],
+            "Explanation": "The number of ways can be calculated using combinations, 52 choose 5, which equals 2598960."
+          },
+          {
+            "Question": "How many different ways can you order 8 books on a shelf?",
+            "TrueAnswer": "40320",
+            "FalseAnswer": [
+              "56",
+              "64",
+              "720"
+            ],
+            "Explanation": "The number of permutations of 8 books can be calculated as 8! = 40320."
+          },
+          {
+            "Question": "What is the number of ways to select a committee of 4 people from 10 candidates?",
+            "TrueAnswer": "210",
+            "FalseAnswer": [
+              "35",
+              "45",
+              "120"
+            ],
+            "Explanation": "The number of combinations of 10 candidates taken 4 at a time is given by 10 choose 4 = 210."
+          },
+          {
+            "Question": "How many different ways can 5 different keys be placed on a keychain?",
+            "TrueAnswer": "120",
+            "FalseAnswer": [
+              "35",
+              "20",
+              "60"
+            ],
+            "Explanation": "The ways to arrange 5 different keys can be found by calculating the permutations of 5 objects, which is 5! = 120."
+          },
+          {
+            "Question": "What is the number of ways to choose a subcommittee of 3 people from a committee of 7?",
+            "TrueAnswer": "35",
+            "FalseAnswer": [
+              "21",
+              "45",
+              "56"
+            ],
+            "Explanation": "The number of combinations of 7 people taken 3 at a time can be calculated as 7 choose 3 = 35."
+          },
+          {
+            "Question": "How many different ways can a dozen people stand in a line?",
+            "TrueAnswer": "479001600",
+            "FalseAnswer": [
+              "132",
+              "144",
+              "1440"
+            ],
+            "Explanation": "The number of permutations of 12 people can be calculated as 12! = 479001600."
+          },
+          {
+            "Question": "In how many ways can 6 different color paints be arranged on a palette?",
+            "TrueAnswer": "720",
+            "FalseAnswer": [
+              "120",
+              "210",
+              "560"
+            ],
+            "Explanation": "The ways to arrange 6 different color paints can be found by calculating the permutations of 6 objects, which is 6! = 720."
+          },
+          {
+            "Question": "What is the number of ways to arrange the letters in the word 'COMBINATORICS'?",
+            "TrueAnswer": "3326400",
+            "FalseAnswer": [
+              "5040",
+              "720",
+              "362880"
+            ],
+            "Explanation": "The word 'COMBINATORICS' has 13 letters, with 2 C's and 2 I's, so the total arrangements would be 13!/(2!*2!) = 3326400."
+          },
+          {
+            "Question": "How many different ways can you distribute 15 candies to 5 children?",
+            "TrueAnswer": "3003",
+            "FalseAnswer": [
+              "45",
+              "120",
+              "252"
+            ],
+            "Explanation": "The number of ways to distribute 15 candies to 5 children is given by 15+5-1 choose 5-1, which equals 3003."
+          },
+          {
+            "Question": "In how many ways can a 4-letter code be formed using the letters A, B, C, and D, with no repetitions?",
+            "TrueAnswer": "24",
+            "FalseAnswer": [
+              "12",
+              "36",
+              "6"
+            ],
+            "Explanation": "The number of permutations can be calculated as 4! = 24, as there are 4 options for the first position, 3 for the second, 2 for the third, and 1 for the last."
+          },
+          {
+            "Question": "What is the number of ways to arrange the numbers 1 to 9 in a 3x3 grid with no repetitions in each row or column?",
+            "TrueAnswer": "362880",
+            "FalseAnswer": [
+              "720",
+              "40320",
+              "40321"
+            ],
+            "Explanation": "The number of ways can be calculated using the principle of permutations and is given by 9!/(3!)^3 = 362880."
+          },
+          {
+            "Question": "How many different seating arrangements are possible if there are 7 people and 3 chairs?",
+            "TrueAnswer": "210",
+            "FalseAnswer": [
+              "45",
+              "56",
+              "35"
+            ],
+            "Explanation": "The number of permutations of 7 people in 3 chairs can be calculated as P(7,3) = 7!/(7-3)! = 210."
+          },
+          {
+            "Question": "What is the number of ways to arrange the letters in the word 'PERMUTATION'?",
+            "TrueAnswer": "3628800",
+            "FalseAnswer": [
+              "720",
+              "40320",
+              "5040"
+            ],
+            "Explanation": "The word 'PERMUTATION' has 11 letters, with 3 E's, 2 T's, 2 O's, and 2 N's, so the total arrangements would be 11!/(3!*2!*2!*2!) = 3628800."
+          },
+          {
+            "Question": "How many distinct arrangements can be formed using the letters in the word 'ABRACADABRA'?",
+            "TrueAnswer": "83160",
+            "FalseAnswer": [
+              "128",
+              "5040",
+              "6561"
+            ],
+            "Explanation": "The word 'ABRACADABRA' has 11 letters, with 5 A's and 2 B's, so the total arrangements would be 11!/(5!*2!) = 83160."
+          },
+          {
+            "Question": "What is the number of ways to select 3 toppings from 10 for a pizza?",
+            "TrueAnswer": "120",
+            "FalseAnswer": [
+              "45",
+              "210",
+              "56"
+            ],
+            "Explanation": "The number of combinations of 10 toppings taken 3 at a time is given by 10 choose 3 = 120."
+          },
+          {
+            "Question": "How many different ways can you arrange 10 different colored beads on a bracelet?",
+            "TrueAnswer": "3628800",
+            "FalseAnswer": [
+              "210",
+              "120",
+              "40320"
+            ],
+            "Explanation": "The ways to arrange 10 different colored beads on a bracelet can be found by calculating the permutations of 10 objects, which is 10! = 3628800."
+          },
+          {
+            "Question": "What is the number of ways to form a line of 7 people with 3 women and 4 men?",
+            "TrueAnswer": "35",
+            "FalseAnswer": [
+              "21",
+              "45",
+              "56"
+            ],
+            "Explanation": "The number of combinations of 7 people with 3 women and 4 men can be calculated as 7 choose 3 = 35."
+          },
+          {
+            "Question": "How many different ways can 9 different cars be arranged in a parking lot?",
+            "TrueAnswer": "362880",
+            "FalseAnswer": [
+              "120",
+              "5040",
+              "40320"
+            ],
+            "Explanation": "The number of permutations of 9 cars can be calculated as 9! = 362880."
+          },
+          {
+            "Question": "What is the number of ways to arrange the colors red, blue, and green in a row?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "3",
+              "9",
+              "2"
+            ],
+            "Explanation": "The number of ways to arrange three colors in a row can be found by calculating the permutations of 3 objects, which is 3! = 6."
+          }
+        ]
+      }
+    }
+  ]
+}

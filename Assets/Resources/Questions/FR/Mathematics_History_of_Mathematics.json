@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Qui est considéré comme le père des mathématiques modernes?",
+            "TrueAnswer": "Euclide",
+            "FalseAnswer": [
+              "Pythagore",
+              "Archimède",
+              "Newton"
+            ],
+            "Explication": "Euclide est connu pour son œuvre 'Éléments' qui est considérée comme l'une des œuvres les plus influentes de l'histoire des mathématiques."
+          },
+          {
+            "Question": "Quelle ancienne civilisation est créditée de la découverte du concept de zéro?",
+            "TrueAnswer": "Mayas",
+            "FalseAnswer": [
+              "Grecs",
+              "Romains",
+              "Égyptiens"
+            ],
+            "Explication": "Les Mayas ont été la première culture à utiliser un système de valeur de position avec zéro comme un espace réservé, un concept crucial pour les mathématiques."
+          },
+          {
+            "Question": "Qui a introduit le système de numération décimal moderne en Europe?",
+            "TrueAnswer": "Fibonacci",
+            "FalseAnswer": [
+              "Pythagore",
+              "Newton",
+              "Euclide"
+            ],
+            "Explication": "Fibonacci a popularisé le système de numération hindou-arabe, révolutionnant la façon dont les problèmes mathématiques étaient écrits et résolus en Europe."
+          },
+          {
+            "Question": "Quel mathématicien a posé les fondations du calcul infinitésimal?",
+            "TrueAnswer": "Newton",
+            "FalseAnswer": [
+              "Pythagore",
+              "Euclide",
+              "Gauss"
+            ],
+            "Explication": "Le travail novateur de Newton sur le calcul infinitésimal a formé la base de nombreuses avancées en mathématiques modernes et en physique."
+          },
+          {
+            "Question": "Quel concept mathématique est nommé d'après l'érudit du 8e siècle Al-Khwarizmi?",
+            "TrueAnswer": "Algorithme",
+            "FalseAnswer": [
+              "Fractale",
+              "Nombre premier",
+              "Parabole"
+            ],
+            "Explication": "Le travail d'Al-Khwarizmi sur le système de numération hindou-arabe et les équations a conduit au terme 'algorithme', un concept fondamental en mathématiques modernes et en informatique."
+          },
+          {
+            "Question": "Quand le concept de nombres imaginaires a-t-il été introduit pour la première fois?",
+            "TrueAnswer": "16e siècle",
+            "FalseAnswer": [
+              "4e siècle",
+              "12e siècle",
+              "18e siècle"
+            ],
+            "Explication": "Le concept de nombres imaginaires a été introduit pour la première fois au 16e siècle par Rafael Bombelli dans son travail sur les équations cubiques."
+          },
+          {
+            "Question": "Qui a été la première mathématicienne dont la vie est connue en détail?",
+            "TrueAnswer": "Hypatie",
+            "FalseAnswer": [
+              "Emmy Noether",
+              "Sofia Kovalevskaïa",
+              "Ada Lovelace"
+            ],
+            "Explication": "Hypatie était une mathématicienne et astronome de renom dans l'Alexandrie antique, apportant des contributions significatives à la géométrie et à l'algèbre."
+          },
+          {
+            "Question": "Quelle est la valeur de Pi correcte à deux décimales près?",
+            "TrueAnswer": "3.14",
+            "FalseAnswer": [
+              "3.16",
+              "3.21",
+              "3.27"
+            ],
+            "Explication": "Pi, le rapport de la circonférence d'un cercle à son diamètre, est approximativement égal à 3,14, une constante fondamentale en mathématiques."
+          },
+          {
+            "Question": "Quelle ancienne civilisation a utilisé les mathématiques dans l'astronomie et les calendriers?",
+            "TrueAnswer": "Babyloniens",
+            "FalseAnswer": [
+              "Perses",
+              "Chinois",
+              "Grecs"
+            ],
+            "Explication": "Les mathématiques babyloniennes ont été cruciales pour leurs avancées en astronomie, y compris la prédiction précise des éclipses et l'astronomie positionnelle."
+          },
+          {
+            "Question": "Qui est connu pour la découverte du théorème de Pythagore?",
+            "TrueAnswer": "Pythagore",
+            "FalseAnswer": [
+              "Euclide",
+              "Archimède",
+              "Aristote"
+            ],
+            "Explication": "Pythagore, un mathématicien de la Grèce antique, est crédité pour avoir découvert la relation entre les côtés d'un triangle rectangle."
+          },
+          {
+            "Question": "Qui a été le premier à calculer la circonférence de la Terre avec une précision notable?",
+            "TrueAnswer": "Ératosthène",
+            "FalseAnswer": [
+              "Aristarque",
+              "Ptolémée",
+              "Hipparque"
+            ],
+            "Explication": "La mesure de la circonférence de la Terre par Ératosthène au 3e siècle av. J.-C. était remarquablement proche de la valeur réelle."
+          },
+          {
+            "Question": "Quel est le nom du plus ancien manuel de mathématiques existant de la Mésopotamie antique?",
+            "TrueAnswer": "Plimpton 322",
+            "FalseAnswer": [
+              "Papyrus mathématique Rhind",
+              "Tablette d'argile babylonienne",
+              "Éléments d'Euclide"
+            ],
+            "Explication": "Plimpton 322 est une tablette d'argile babylonienne datant de 1800 av. J.-C., contenant des tables mathématiques et éventuellement des calculs trigonométriques."
+          },
+          {
+            "Question": "Quel célèbre mathématicien allemand a développé la notion de nombres complexes?",
+            "TrueAnswer": "Gauss",
+            "FalseAnswer": [
+              "Euler",
+              "Riemann",
+              "Hilbert"
+            ],
+            "Explication": "Gauss a contribué à la compréhension des nombres complexes, ouvrant la voie à leur introduction formelle et à leur utilisation extensive en mathématiques."
+          },
+          {
+            "Question": "Qui est reconnu pour son travail sur les séries et le nombre 'e' en calcul infinitésimal?",
+            "TrueAnswer": "Euler",
+            "FalseAnswer": [
+              "Leibniz",
+              "Lagrange",
+              "Galois"
+            ],
+            "Explication": "Euler a apporté d'importantes contributions à la théorie des séries infinies et a introduit le nombre 'e' comme la base du logarithme naturel."
+          },
+          {
+            "Question": "Dans la Grèce antique, qui était connu comme le 'plus grand géomètre'?",
+            "TrueAnswer": "Archimède",
+            "FalseAnswer": [
+              "Thalès",
+              "Hipparque",
+              "Euclide"
+            ],
+            "Explication": "Archimède est renommé pour ses contributions à la géométrie, y compris le calcul de pi et le développement de la méthode d'épuisement."
+          },
+          {
+            "Question": "Quel mathématicien indien a introduit le concept de zéro en tant que nombre?",
+            "TrueAnswer": "Brahmagupta",
+            "FalseAnswer": [
+              "Aryabhata",
+              "Bhaskara",
+              "Pāṇini"
+            ],
+            "Explication": "Brahmagupta, un ancien mathématicien indien, a formalisé le concept de zéro en tant que nombre avec ses propriétés arithmétiques."
+          },
+          {
+            "Question": "À qui est attribuée la première preuve enregistrée du théorème de Pythagore?",
+            "TrueAnswer": "Euclide",
+            "FalseAnswer": [
+              "Thalès",
+              "Pythagore",
+              "Eudoxe"
+            ],
+            "Explication": "Les 'Éléments' d'Euclide contiennent les premières preuves déductives enregistrées du théorème de Pythagore et de ses diverses corollaires."
+          },
+          {
+            "Question": "Quel mathématicien a introduit le concept de limites et de dérivées en calcul infinitésimal?",
+            "TrueAnswer": "Newton",
+            "FalseAnswer": [
+              "Leibniz",
+              "Euler",
+              "Lagrange"
+            ],
+            "Explication": "Le travail fondateur de Newton en calcul infinitésimal impliquait le concept de limites et de dérivées, révolutionnant l'analyse mathématique."
+          },
+          {
+            "Question": "Quel était le texte mathématique chinois ancien qui a introduit l'algorithme 'inconnu de Chuquet'?",
+            "TrueAnswer": "Les Neuf Chapitres sur l'Art Mathématique",
+            "FalseAnswer": [
+              "Le Classique Arithmétique du Gnonmon et des Circuits Circulaires",
+              "Le Grand Art",
+              "Traité Mathématique en Neuf Sections"
+            ],
+            "Explication": "Les Neuf Chapitres sur l'Art Mathématique, datant de la dynastie des Han, contient divers problèmes mathématiques et l'algorithme de l'inconnu de Chuquet."
+          },
+          {
+            "Question": "Qui est largement considéré comme le fondateur de la géométrie analytique?",
+            "TrueAnswer": "Descartes",
+            "FalseAnswer": [
+              "Fermat",
+              "Pascal",
+              "Galois"
+            ],
+            "Explication": "L'introduction des coordonnées et des équations par René Descartes a donné naissance au champ de la géométrie analytique, fusionnant l'algèbre et la géométrie."
+          }
+        ]
+      }
+    }
+  ]
+}

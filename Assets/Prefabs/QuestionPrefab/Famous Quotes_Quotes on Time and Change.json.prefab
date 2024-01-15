@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9049407215047226599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4229835537133397247}
+  - component: {fileID: 8930735449769591558}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes on Time and Change.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4229835537133397247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9049407215047226599}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8930735449769591558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9049407215047226599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said the famous quote 'Time is money'?
+      TrueAnswer: Benjamin Franklin
+      FalseAnswer:
+      - Albert Einstein
+      - William Shakespeare
+      - Abraham Lincoln
+      Explanation: Benjamin Franklin, one of the Founding Fathers of the United States,
+        coined the phrase 'Time is money' to emphasize the value of time.
+    - Question: Which famous author said 'The only thing that is constant is change'?
+      TrueAnswer: Heraclitus
+      FalseAnswer:
+      - Mark Twain
+      - J.K. Rowling
+      - Ernest Hemingway
+      Explanation: Heraclitus, a Greek philosopher, is credited with the quote 'The
+        only thing that is constant is change,' highlighting the ever-changing nature
+        of the world.
+    - Question: Who said 'Lost time is never found again'?
+      TrueAnswer: Benjamin Franklin
+      FalseAnswer:
+      - Winston Churchill
+      - Martin Luther King Jr.
+      - Pablo Picasso
+      Explanation: Benjamin Franklin, known for his wisdom, expressed the importance
+        of not wasting time in his quote 'Lost time is never found again.'
+    - Question: Which famous scientist said 'Time is what prevents everything from
+        happening at once'?
+      TrueAnswer: John Archibald Wheeler
+      FalseAnswer:
+      - Isaac Newton
+      - Albert Einstein
+      - Stephen Hawking
+      Explanation: John Archibald Wheeler, an American theoretical physicist, humorously
+        described the concept of time in his quote.
+    - Question: Who said 'The future belongs to those who believe in the beauty of
+        their dreams'?
+      TrueAnswer: Eleanor Roosevelt
+      FalseAnswer:
+      - Barack Obama
+      - Oprah Winfrey
+      - Steve Jobs
+      Explanation: Eleanor Roosevelt, the former First Lady of the United States,
+        encouraged people to believe in their dreams and shape their own future.
+    - Question: Which famous poet said 'Nothing gold can stay'?
+      TrueAnswer: Robert Frost
+      FalseAnswer:
+      - Maya Angelou
+      - Emily Dickinson
+      - Langston Hughes
+      Explanation: Robert Frost, a renowned American poet, wrote the line 'Nothing
+        gold can stay' in his poem 'Nothing Gold Can Stay.'
+    - Question: Who said 'The only way to make sense out of change is to plunge into
+        it, move with it, and join the dance'?
+      TrueAnswer: Alan Watts
+      FalseAnswer:
+      - Sigmund Freud
+      - Carl Jung
+      - Friedrich Nietzsche
+      Explanation: Alan Watts, a British philosopher, emphasized the need to embrace
+        change and adapt to it in order to find meaning.
+    - Question: Which famous musician said 'Time you enjoy wasting is not wasted
+        time'?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - Elvis Presley
+      - Bob Dylan
+      - Michael Jackson
+      Explanation: John Lennon, a member of the Beatles, believed that time spent
+        doing things you enjoy is never wasted.
+    - Question: Who said 'The only reason for time is so that everything doesn't
+        happen at once'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Galileo Galilei
+      - Nikola Tesla
+      Explanation: Albert Einstein, the renowned physicist, humorously explained
+        the purpose of time in his quote.
+    - Question: Which famous philosopher said 'Change is the only constant'?
+      TrueAnswer: Heraclitus
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Socrates
+      Explanation: Heraclitus, an ancient Greek philosopher, believed that change
+        is an inherent and unchanging aspect of the universe.
+    - Question: Who said 'Time flies like an arrow; fruit flies like a banana'?
+      TrueAnswer: Groucho Marx
+      FalseAnswer:
+      - Charlie Chaplin
+      - Buster Keaton
+      - Marilyn Monroe
+      Explanation: Groucho Marx, a famous comedian, used wordplay to create a humorous
+        quote about the perception of time.
+    - Question: Which famous writer said 'The past is always tense, the future perfect'?
+      TrueAnswer: Zadie Smith
+      FalseAnswer:
+      - Virginia Woolf
+      - Ernest Hemingway
+      - F. Scott Fitzgerald
+      Explanation: Zadie Smith, a contemporary British writer, played with grammar
+        to convey the different aspects of time.
+    - Question: Who said 'Time is a game played beautifully by children'?
+      TrueAnswer: Heraclitus
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Jean-Paul Sartre
+      - Socrates
+      Explanation: Heraclitus, the Greek philosopher, used a metaphor to describe
+        the innocent and joyful perception of time by children.
+    - Question: Which famous artist said 'Every artist dips his brush in his own
+        soul, and paints his own nature into his pictures'?
+      TrueAnswer: Henry Ward Beecher
+      FalseAnswer:
+      - Pablo Picasso
+      - Leonardo da Vinci
+      - Vincent van Gogh
+      Explanation: Henry Ward Beecher, an influential clergyman, emphasized the personal
+        and unique expression of artists in their work.
+    - Question: Who said 'Time is the longest distance between two places'?
+      TrueAnswer: Tennessee Williams
+      FalseAnswer:
+      - William Shakespeare
+      - Arthur Miller
+      - Samuel Beckett
+      Explanation: Tennessee Williams, a renowned playwright, used time as a metaphor
+        for the emotional and physical distance between people.
+    - Question: Which famous philosopher said 'Time is the wisest counselor of all'?
+      TrueAnswer: Pericles
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Socrates
+      Explanation: Pericles, an influential statesman in ancient Greece, recognized
+        the wisdom that comes with the passage of time.
+    - Question: Who said 'Time is what we want most, but what we use worst'?
+      TrueAnswer: William Penn
+      FalseAnswer:
+      - Thomas Jefferson
+      - George Washington
+      - Benjamin Franklin
+      Explanation: William Penn, the founder of Pennsylvania, reflected on the human
+        tendency to mismanage and waste time.
+    - Question: Which famous author said 'The past is a foreign country; they do
+        things differently there'?
+      TrueAnswer: L.P. Hartley
+      FalseAnswer:
+      - George Orwell
+      - Jane Austen
+      - Charles Dickens
+      Explanation: L.P. Hartley, an English novelist, expressed the idea that the
+        past is fundamentally different from the present.
+    - Question: Who said 'Time is the school in which we learn, time is the fire
+        in which we burn'?
+      TrueAnswer: Delmore Schwartz
+      FalseAnswer:
+      - Ralph Waldo Emerson
+      - Henry David Thoreau
+      - Walt Whitman
+      Explanation: Delmore Schwartz, an American poet, used time as a metaphor for
+        the experiences and challenges that shape us.
+    - Question: Which famous scientist said 'The only reason time exists is so that
+        everything doesn't happen at once'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Stephen Hawking
+      - Marie Curie
+      Explanation: Albert Einstein humorously explained the concept of time as a
+        means to prevent events from occurring simultaneously.

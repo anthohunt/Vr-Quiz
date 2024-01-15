@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est l'équivalent décimal du nombre binaire 1011?",
+            "TrueAnswer": "11",
+            "FalseAnswer": [
+              "7",
+              "13",
+              "15"
+            ],
+            "Explanation": "Le nombre binaire 1011 est équivalent à 11 en décimal comme (1x2^3) + (0x2^2) + (1x2^1) + (1x2^0) = 8 + 0 + 2 + 1 = 11."
+          },
+          {
+            "Question": "Dans le système hexadécimal, quelle est la valeur de la lettre 'A'?",
+            "TrueAnswer": "10",
+            "FalseAnswer": [
+              "7",
+              "12",
+              "15"
+            ],
+            "Explanation": "Dans le système hexadécimal, 'A' représente la valeur 10. Les chiffres de 0 à 9 sont représentés comme d'habitude."
+          },
+          {
+            "Question": "Dans quelle base est le nombre octal '52' en décimal?",
+            "TrueAnswer": "42",
+            "FalseAnswer": [
+              "12",
+              "23",
+              "68"
+            ],
+            "Explanation": "Le nombre octal 52 est équivalent à 42 en décimal, comme (5x8^1) + (2x8^0) = 40 + 2 = 42."
+          },
+          {
+            "Question": "Lequel des éléments suivants est une base valide pour les systèmes numériques?",
+            "TrueAnswer": "Base-5",
+            "FalseAnswer": [
+              "Base-11",
+              "Base-8",
+              "Base-16"
+            ],
+            "Explanation": "La base-5 est une base de système numérique valide, tandis que la base-11, la base-8 et la base-16 sont également communes."
+          },
+          {
+            "Question": "Quelle est la prochaine ligne dans la séquence de Fibonacci après 13?",
+            "TrueAnswer": "21",
+            "FalseAnswer": [
+              "16",
+              "18",
+              "24"
+            ],
+            "Explanation": "Le nombre suivant dans la séquence de Fibonacci après 13 est 21, obtenu en ajoutant les deux nombres précédents (8 + 13 = 21)."
+          },
+          {
+            "Question": "Quelle est la représentation en chiffres romains du nombre 50?",
+            "TrueAnswer": "L",
+            "FalseAnswer": [
+              "C",
+              "X",
+              "D"
+            ],
+            "Explanation": "La représentation en chiffres romains du nombre 50 est 'L', représentant 50 dans le système de chiffres romains."
+          },
+          {
+            "Question": "Quel est l'équivalent en base-3 du nombre décimal 20?",
+            "TrueAnswer": "202",
+            "FalseAnswer": [
+              "212",
+              "102",
+              "120"
+            ],
+            "Explanation": "L'équivalent en base-3 du nombre décimal 20 est 202, comme (2x3^2) + (0x3^1) + (2x3^0) = 18 + 0 + 2 = 20."
+          },
+          {
+            "Question": "Quelle est la valeur du chiffre '6' dans le système en base-7?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "36",
+              "12",
+              "20"
+            ],
+            "Explanation": "Dans le système en base-7, le chiffre '6' a la valeur 6, similaire à sa valeur dans le système décimal."
+          },
+          {
+            "Question": "Comment représentez-vous le nombre 1011 en base octale?",
+            "TrueAnswer": "13",
+            "FalseAnswer": [
+              "12",
+              "15",
+              "17"
+            ],
+            "Explanation": "Le nombre 1011 en base octale est représenté comme 13, comme chaque regroupement de 3 chiffres binaires correspond à 1 chiffre octal."
+          },
+          {
+            "Question": "Quel système numérique utilise le moins d'éléments?",
+            "TrueAnswer": "Binaire",
+            "FalseAnswer": [
+              "Ternaire",
+              "Quinaire",
+              "Quaternaire"
+            ],
+            "Explanation": "Le système numérique binaire utilise uniquement 0 et 1, ce qui en fait le système numérique avec le moins d'éléments."
+          }
+        ]
+      }
+    }
+  ]
+}

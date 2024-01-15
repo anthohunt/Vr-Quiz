@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8247935467864849060
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2001330480907077842}
+  - component: {fileID: 5691571401998724521}
+  m_Layer: 0
+  m_Name: Movies_Oscar-Winning Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2001330480907077842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8247935467864849060}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5691571401998724521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8247935467864849060}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which film won the Best Picture Oscar in 2020?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Joker
+      - 1917
+      - Once Upon a Time in Hollywood
+      Explanation: Parasite, directed by Bong Joon-ho, made history as the first
+        South Korean film to win Best Picture.
+    - Question: Who won the Best Actor Oscar in 2019?
+      TrueAnswer: Rami Malek
+      FalseAnswer:
+      - Brad Pitt
+      - Joaquin Phoenix
+      - Leonardo DiCaprio
+      Explanation: Rami Malek won the Best Actor Oscar for his portrayal of Freddie
+        Mercury in 'Bohemian Rhapsody.'
+    - Question: Which film won the Best Animated Feature Oscar in 2018?
+      TrueAnswer: Coco
+      FalseAnswer:
+      - 'Spider-Man: Into the Spider-Verse'
+      - Toy Story 4
+      - Zootopia
+      Explanation: Coco, a heartwarming film about the Day of the Dead, won the Best
+        Animated Feature Oscar.
+    - Question: Who won the Best Actress Oscar in 2017?
+      TrueAnswer: Emma Stone
+      FalseAnswer:
+      - Meryl Streep
+      - Natalie Portman
+      - Cate Blanchett
+      Explanation: Emma Stone won the Best Actress Oscar for her role in 'La La Land.'
+    - Question: Which film won the Best Picture Oscar in 2016?
+      TrueAnswer: Moonlight
+      FalseAnswer:
+      - La La Land
+      - The Shape of Water
+      - Birdman
+      Explanation: Moonlight, a coming-of-age drama, won the Best Picture Oscar in
+        2016.
+    - Question: Who won the Best Director Oscar in 2015?
+      TrueAnswer: "Alejandro Gonz\xE1lez I\xF1\xE1rritu"
+      FalseAnswer:
+      - Martin Scorsese
+      - Quentin Tarantino
+      - Steven Spielberg
+      Explanation: "Alejandro Gonz\xE1lez I\xF1\xE1rritu won the Best Director Oscar
+        for 'Birdman.'"
+    - Question: Which film won the Best Original Screenplay Oscar in 2014?
+      TrueAnswer: Her
+      FalseAnswer:
+      - The Grand Budapest Hotel
+      - Birdman
+      - Spotlight
+      Explanation: Her, written by Spike Jonze, won the Best Original Screenplay
+        Oscar in 2014.
+    - Question: Who won the Best Supporting Actor Oscar in 2013?
+      TrueAnswer: Jared Leto
+      FalseAnswer:
+      - Bradley Cooper
+      - Michael Fassbender
+      - Mark Ruffalo
+      Explanation: Jared Leto won the Best Supporting Actor Oscar for his role in
+        'Dallas Buyers Club.'
+    - Question: Which film won the Best Picture Oscar in 2012?
+      TrueAnswer: Argo
+      FalseAnswer:
+      - The Artist
+      - 12 Years a Slave
+      - The King's Speech
+      Explanation: Argo, directed by Ben Affleck, won the Best Picture Oscar in 2012.
+    - Question: Who won the Best Actress Oscar in 2011?
+      TrueAnswer: Natalie Portman
+      FalseAnswer:
+      - Jennifer Lawrence
+      - Cate Blanchett
+      - Meryl Streep
+      Explanation: Natalie Portman won the Best Actress Oscar for her role in 'Black
+        Swan.'
+    - Question: Which film won the Best Animated Feature Oscar in 2010?
+      TrueAnswer: Toy Story 3
+      FalseAnswer:
+      - Up
+      - Frozen
+      - Inside Out
+      Explanation: Toy Story 3, the third installment in the beloved franchise, won
+        the Best Animated Feature Oscar.
+    - Question: Who won the Best Actor Oscar in 2009?
+      TrueAnswer: Jeff Bridges
+      FalseAnswer:
+      - Colin Firth
+      - Daniel Day-Lewis
+      - Leonardo DiCaprio
+      Explanation: Jeff Bridges won the Best Actor Oscar for his role in 'Crazy Heart.'
+    - Question: Which film won the Best Picture Oscar in 2008?
+      TrueAnswer: Slumdog Millionaire
+      FalseAnswer:
+      - No Country for Old Men
+      - The Departed
+      - The Shape of Water
+      Explanation: Slumdog Millionaire, directed by Danny Boyle, won the Best Picture
+        Oscar in 2008.
+    - Question: Who won the Best Director Oscar in 2007?
+      TrueAnswer: Ethan Coen and Joel Coen
+      FalseAnswer:
+      - Christopher Nolan
+      - David Fincher
+      - Martin Scorsese
+      Explanation: Ethan Coen and Joel Coen won the Best Director Oscar for 'No Country
+        for Old Men.'
+    - Question: Which film won the Best Original Screenplay Oscar in 2006?
+      TrueAnswer: Little Miss Sunshine
+      FalseAnswer:
+      - Juno
+      - The Social Network
+      - Spotlight
+      Explanation: Little Miss Sunshine, written by Michael Arndt, won the Best Original
+        Screenplay Oscar in 2006.
+    - Question: Who won the Best Supporting Actress Oscar in 2005?
+      TrueAnswer: Rachel Weisz
+      FalseAnswer:
+      - Amy Adams
+      - Julianne Moore
+      - Kate Winslet
+      Explanation: Rachel Weisz won the Best Supporting Actress Oscar for her role
+        in 'The Constant Gardener.'
+    - Question: Which film won the Best Picture Oscar in 2004?
+      TrueAnswer: Million Dollar Baby
+      FalseAnswer:
+      - 'The Lord of the Rings: The Return of the King'
+      - Crash
+      - Birdman
+      Explanation: Million Dollar Baby, directed by Clint Eastwood, won the Best
+        Picture Oscar in 2004.
+    - Question: Who won the Best Actress Oscar in 2003?
+      TrueAnswer: Charlize Theron
+      FalseAnswer:
+      - Halle Berry
+      - Nicole Kidman
+      - "Ren\xE9e Zellweger"
+      Explanation: Charlize Theron won the Best Actress Oscar for her transformative
+        role in 'Monster.'
+    - Question: Which film won the Best Animated Feature Oscar in 2002?
+      TrueAnswer: Spirited Away
+      FalseAnswer:
+      - Finding Nemo
+      - Shrek
+      - Frozen
+      Explanation: Spirited Away, directed by Hayao Miyazaki, won the Best Animated
+        Feature Oscar in 2002.
+    - Question: Who won the Best Actor Oscar in 2001?
+      TrueAnswer: Denzel Washington
+      FalseAnswer:
+      - Russell Crowe
+      - Sean Penn
+      - Tom Hanks
+      Explanation: Denzel Washington won the Best Actor Oscar for his role in 'Training
+        Day.'

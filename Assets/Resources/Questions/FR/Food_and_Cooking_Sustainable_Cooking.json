@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est une alternative durable au film plastique pour conserver les aliments ?",
+            "TrueAnswer": "Film à la cire d'abeille",
+            "FalseAnswer": [
+              "Papier d'aluminium",
+              "Contenants en plastique",
+              "Sacs Ziplock"
+            ],
+            "Explanation": "Le film à la cire d'abeille est une alternative naturelle et réutilisable au film plastique, fabriqué à partir de tissu imprégné de cire d'abeille, d'huile de jojoba et de résine d'arbre."
+          },
+          {
+            "Question": "Quelle est considérée comme la méthode de cuisson la plus durable?",
+            "TrueAnswer": "Utiliser une cocotte-minute",
+            "FalseAnswer": [
+              "Griller",
+              "Frire",
+              "Réchauffer au micro-ondes"
+            ],
+            "Explanation": "Les cocottes-minute utilisent moins d'eau et d'énergie, tout en conservant plus de nutriments par rapport à d'autres méthodes de cuisson."
+          },
+          {
+            "Question": "Quelle huile de cuisson a le plus faible impact environnemental?",
+            "TrueAnswer": "Huile de tournesol",
+            "FalseAnswer": [
+              "Huile de palme",
+              "Huile de coco",
+              "Huile de soja"
+            ],
+            "Explanation": "L'huile de tournesol a une empreinte carbone inférieure et nécessite moins d'utilisation des terres par rapport à l'huile de palme, l'huile de coco et l'huile de soja."
+          },
+          {
+            "Question": "Quelle est une pratique durable pour réduire le gaspillage alimentaire dans la cuisine ?",
+            "TrueAnswer": "Composter les restes de nourriture",
+            "FalseAnswer": [
+              "Jeter les restes de nourriture à la poubelle",
+              "Utiliser un broyeur à déchets",
+              "Congeler les restes"
+            ],
+            "Explanation": "Le compostage des restes de nourriture réduit les émissions de méthane des décharges et crée un sol riche en nutriments pour le jardinage."
+          },
+          {
+            "Question": "Quel type de fruits de mer est considéré comme le choix le plus durable ?",
+            "TrueAnswer": "Sardines",
+            "FalseAnswer": [
+              "Crevettes",
+              "Thon",
+              "Saumon"
+            ],
+            "Explanation": "Les sardines sont abondantes, faibles en mercure et sont pêchées à l'aide de méthodes de pêche durables, ce qui en fait un choix de fruits de mer respectueux de l'environnement."
+          },
+          {
+            "Question": "Quel ingrédient durable peut être utilisé comme substitut à la viande dans les plats ?",
+            "TrueAnswer": "Lentilles",
+            "FalseAnswer": [
+              "Quinoa",
+              "Tofu",
+              "Seitan"
+            ],
+            "Explanation": "Les lentilles sont riches en protéines, nécessitent moins d'eau pour pousser par rapport à la viande, et ont une empreinte carbone inférieure."
+          },
+          {
+            "Question": "Quel est un matériau respectueux de l'environnement pour les ustensiles de cuisine et la batterie de cuisine ?",
+            "TrueAnswer": "Bambou",
+            "FalseAnswer": [
+              "Plastique",
+              "Acier inoxydable",
+              "Céramique"
+            ],
+            "Explanation": "Le bambou est une ressource renouvelable et durable qui pousse rapidement et peut être utilisé pour fabriquer des outils de cuisine durables et biodégradables."
+          },
+          {
+            "Question": "Quel appareil de cuisine est le plus économe en énergie pour la cuisson ?",
+            "TrueAnswer": "Plaque à induction",
+            "FalseAnswer": [
+              "Cuisinière à gaz",
+              "Plaque électrique",
+              "Micro-ondes"
+            ],
+            "Explanation": "Les plaques à induction utilisent la technologie électromagnétique pour chauffer uniquement la batterie de cuisine, ce qui se traduit par une plus grande efficacité énergétique par rapport aux cuisinières à gaz et électriques."
+          },
+          {
+            "Question": "Quelle est une méthode durable pour conserver les fruits et légumes ?",
+            "TrueAnswer": "Mise en conserve",
+            "FalseAnswer": [
+              "Congélation",
+              "Déshydratation",
+              "Mise en saumure"
+            ],
+            "Explanation": "La mise en conserve prolonge la durée de conservation des produits sans réfrigération, ce qui réduit la consommation d'énergie et le gaspillage alimentaire."
+          },
+          {
+            "Question": "Quelle pratique en cuisine favorise la consommation durable de fruits de mer ?",
+            "TrueAnswer": "Vérifier la certification MSC",
+            "FalseAnswer": [
+              "Acheter des fruits de mer d'élevage",
+              "Choisir des espèces exotiques",
+              "Ignorer les étiquettes des produits"
+            ],
+            "Explanation": "La certification du Marine Stewardship Council (MSC) garantit que les fruits de mer sont pêchés de manière durable, préservant ainsi les écosystèmes marins."
+          },
+          {
+            "Question": "Quelle est une alternative durable aux couverts jetables en plastique ?",
+            "TrueAnswer": "Couverts biodégradables",
+            "FalseAnswer": [
+              "Couverts en métal",
+              "Couverts en plastique",
+              "Couverts en plastique réutilisables"
+            ],
+            "Explanation": "Les couverts biodégradables fabriqués à partir de matériaux d'origine végétale se décomposent naturellement, réduisant la pollution plastique dans les décharges et les océans."
+          },
+          {
+            "Question": "Quelle méthode de cuisson durable réduit les émissions de gaz à effet de serre ?",
+            "TrueAnswer": "Utiliser des cuiseurs solaires",
+            "FalseAnswer": [
+              "Braiser",
+              "Sauter",
+              "Cuire à la vapeur"
+            ],
+            "Explanation": "Les cuiseurs solaires exploitent l'énergie solaire renouvelable et ne produisent aucune émission de carbone lors de la cuisson des aliments."
+          },
+          {
+            "Question": "Quelle est une option plus durable pour sucrer les plats par rapport au sucre ?",
+            "TrueAnswer": "Sirop d'érable",
+            "FalseAnswer": [
+              "Nectar d'agave",
+              "Miel",
+              "Édulcorants artificiels"
+            ],
+            "Explanation": "Le sirop d'érable est dérivé de la sève des érables et est un édulcorant naturel et non transformé ayant un impact environnemental moindre par rapport au sucre raffiné."
+          },
+          {
+            "Question": "Quelle pratique culinaire durable est en accord avec l'agriculture durable et l'approvisionnement local ?",
+            "TrueAnswer": "Cuisiner de saison",
+            "FalseAnswer": [
+              "Importer des ingrédients exotiques",
+              "Utiliser des produits hors saison",
+              "Ignorer la provenance des produits"
+            ],
+            "Explanation": "La cuisine de saison soutient les agriculteurs locaux, réduit les émissions liées au transport et favorise des ingrédients plus frais et plus savoureux."
+          },
+          {
+            "Question": "Quel substitut durable peut être utilisé à la place des essuie-tout en papier dans la cuisine ?",
+            "TrueAnswer": "Serviettes en tissu",
+            "FalseAnswer": [
+              "Serviettes en papier",
+              "Éponge",
+              "Essuie-tout réutilisables"
+            ],
+            "Explanation": "Les serviettes en tissu sont lavables et réutilisables, minimisant le gaspillage de papier et l'impact environnemental par rapport aux essuie-tout en papier à usage unique."
+          },
+          {
+            "Question": "Quelle pratique culinaire durable minimise l'utilisation de l'eau ?",
+            "TrueAnswer": "La cuisson en une seule casserole",
+            "FalseAnswer": [
+              "Laisser couler l'eau pendant la cuisson",
+              "Utiliser plusieurs casseroles",
+              "Vérifier constamment la casserole"
+            ],
+            "Explanation": "La cuisson en une seule casserole réduit la consommation d'eau en cuisant plusieurs ingrédients ensemble dans une seule casserole, minimisant le gaspillage d'eau lors du nettoyage."
+          },
+          {
+            "Question": "Quelle alternative durable aux assaisonnements traditionnels à base de fruits de mer comme la sauce de poisson ?",
+            "TrueAnswer": "Assaisonnement à base d'algues",
+            "FalseAnswer": [
+              "Sauce soja",
+              "Sauce d'huître",
+              "Sauce Worcestershire"
+            ],
+            "Explanation": "L'assaisonnement à base d'algues apporte une saveur umami savoureuse et constitue une alternative durable aux assaisonnements à base de poisson, réduisant la pression sur les ressources marines."
+          },
+          {
+            "Question": "Quelle méthode de cuisson durable aide à conserver les nutriments des légumes ?",
+            "TrueAnswer": "La cuisson à la vapeur",
+            "FalseAnswer": [
+              "Faire bouillir",
+              "Frire",
+              "Rôtir"
+            ],
+            "Explanation": "La cuisson à la vapeur minimise la perte de nutriments par rapport à la cuisson à l'eau bouillante, à la friture ou à la cuisson au four, préservant ainsi la valeur nutritionnelle des légumes."
+          },
+          {
+            "Question": "Quelle est une option durable pour réduire les déchets plastiques dans l'emballage alimentaire ?",
+            "TrueAnswer": "Emballages alimentaires écologiques",
+            "FalseAnswer": [
+              "Film alimentaire en plastique",
+              "Emballages en mousse",
+              "Sacs en plastique à usage unique"
+            ],
+            "Explanation": "Les emballages alimentaires écologiques fabriqués à partir de cire d'abeille ou de tissu sont réutilisables et contribuent à réduire la dépendance aux emballages plastiques à usage unique."
+          },
+          {
+            "Question": "Quelle pratique culinaire durable favorise la diversité et réduit le gaspillage alimentaire ?",
+            "TrueAnswer": "Utiliser les restes de nourriture dans des recettes créatives",
+            "FalseAnswer": [
+              "Jeter les restes de nourriture",
+              "Se limiter à des recettes traditionnelles",
+              "Surstocker des ingrédients périssables"
+            ],
+            "Explanation": "L'utilisation des restes de nourriture dans des recettes innovantes réduit le gaspillage alimentaire et encourage une approche diversifiée et durable de la cuisine."
+          }
+        ]
+      }
+    }
+  ]
+}

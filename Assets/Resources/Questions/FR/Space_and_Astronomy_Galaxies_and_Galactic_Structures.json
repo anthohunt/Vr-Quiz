@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la plus grande galaxie connue en termes de diamètre?",
+            "TrueAnswer": "IC 1101",
+            "FalseAnswer": [
+              "Voie lactée",
+              "Andromède",
+              "Triangulum"
+            ],
+            "Explanation": "IC 1101 est une supergéante galaxie elliptique et est l'une des plus grandes galaxies connues, avec un diamètre de 6 millions d'années-lumière."
+          },
+          {
+            "Question": "Combien de galaxies naines orbitent autour de la Voie lactée?",
+            "TrueAnswer": "Plus de 50",
+            "FalseAnswer": [
+              "Moins de 20",
+              "Environ 30",
+              "Environ 40"
+            ],
+            "Explanation": "Bien que le décompte exact soit incertain, on estime que la Voie lactée a plus de 50 galaxies naines en orbite."
+          },
+          {
+            "Question": "Quelle est la source principale d'énergie dans un noyau actif de galaxie (AGN)?",
+            "TrueAnswer": "Disque d'accrétion autour d'un trou noir supermassif",
+            "FalseAnswer": [
+              "Fusion solaire",
+              "Collisions stellaires",
+              "Annihilation de matière noire"
+            ],
+            "Explanation": "Le rayonnement intense émis par un AGN est alimenté par l'accrétion de matériau autour d'un trou noir supermassif au centre de la galaxie."
+          },
+          {
+            "Question": "Quelle structure galactique se compose d'un noyau dense d'étoiles et de restes stellaires?",
+            "TrueAnswer": "Amas globulaire",
+            "FalseAnswer": [
+              "Nébuleuse",
+              "Amas ouvert",
+              "Halo galactique"
+            ],
+            "Explanation": "Les amas globulaires contiennent des centaines de milliers à des millions d'étoiles étroitement liées par la gravité, créant une structure sphérique autour du centre de la galaxie."
+          },
+          {
+            "Question": "Quel est le terme désignant deux galaxies ou plus liées ensemble par la gravité?",
+            "TrueAnswer": "Amas de galaxies",
+            "FalseAnswer": [
+              "Fusion galactique",
+              "Galaxie satellite",
+              "Amas globulaire"
+            ],
+            "Explanation": "Les amas de galaxies sont les plus grandes structures gravitationnellement liées connues dans l'univers, contenant des centaines à des milliers de galaxies."
+          },
+          {
+            "Question": "Quelles sont les plus grandes structures cosmiques connues, contenant des milliers de galaxies?",
+            "TrueAnswer": "Superamas de galaxies",
+            "FalseAnswer": [
+              "Quasars",
+              "Filaments galactiques",
+              "Protogalaxies"
+            ],
+            "Explanation": "Les superamas de galaxies figurent parmi les plus grandes structures de l'univers, s'étendant sur des centaines de millions d'années-lumière et formant souvent des réseaux interconnectés."
+          },
+          {
+            "Question": "Quel type de galaxie possède une protubérance centrale distincte et des bras spiraux?",
+            "TrueAnswer": "Galaxie spirale",
+            "FalseAnswer": [
+              "Galaxie elliptique",
+              "Galaxie irrégulière",
+              "Galaxie lenticulaire"
+            ],
+            "Explanation": "Les galaxies spirales ont une protubérance centrale proéminente, entourée de bras spiraux contenant de jeunes étoiles et des bandes de poussière."
+          },
+          {
+            "Question": "Quelle est la caractéristique distinctive d'une galaxie irrégulière?",
+            "TrueAnswer": "Absence d'une structure régulière",
+            "FalseAnswer": [
+              "Absence d'étoiles",
+              "Absence de matière noire",
+              "Distribution uniforme d'étoiles"
+            ],
+            "Explanation": "Les galaxies irrégulières manquent des formes et des structures distinctes des galaxies spirales ou elliptiques, présentant souvent des apparences chaotiques et asymétriques."
+          },
+          {
+            "Question": "Quel type de galaxies contiennent peu ou pas de gaz et de poussière, avec une population stellaire vieillissante?",
+            "TrueAnswer": "Galaxies elliptiques",
+            "FalseAnswer": [
+              "Galaxies naines",
+              "Galaxies en sursaut de formation d'étoiles",
+              "Galaxies actives"
+            ],
+            "Explanation": "Les galaxies elliptiques se caractérisent par leur apparence lisse et uniforme, principalement composée d'anciennes étoiles et dépourvue du gaz et de la poussière présents dans les galaxies spirales."
+          },
+          {
+            "Question": "Qu'est-ce qui détermine la classification d'une galaxie comme une spirale barrée?",
+            "TrueAnswer": "Présence d'une structure centrale en forme de barre",
+            "FalseAnswer": [
+              "Absence de bras spiralés",
+              "Absence d'amas globulaires",
+              "Haute métallicité"
+            ],
+            "Explanation": "Les galaxies spirales barrées présentent une barre centrale allongée prominente s'étendant du noyau, influençant la structure et le mouvement des étoiles au sein de la galaxie."
+          },
+          {
+            "Question": "Quel phénomène gravitationnel renforce l'effet de lentille gravitationnelle dans les amas de galaxies?",
+            "TrueAnswer": "Matière noire",
+            "FalseAnswer": [
+              "Neutrinos",
+              "Photons",
+              "Rayons cosmiques"
+            ],
+            "Explanation": "La présence de matière noire dans les amas de galaxies amplifie l'effet de lentille gravitationnelle, déformant et amplifiant la lumière des objets en arrière-plan."
+          },
+          {
+            "Question": "Comment s'appelle un groupe de galaxies associées par attraction gravitationnelle mutuelle?",
+            "TrueAnswer": "Groupe de galaxies",
+            "FalseAnswer": [
+              "Amas d'étoiles",
+              "Toile cosmique",
+              "Filament galactique"
+            ],
+            "Explanation": "Les groupes de galaxies se composent généralement de quelques dizaines de galaxies qui sont liées par leur influence gravitationnelle partagée au sein d'une structure cosmique plus vaste."
+          },
+          {
+            "Question": "Quelle caractéristique joue un rôle significatif dans la formation de la morphologie des galaxies?",
+            "TrueAnswer": "Les interactions de marée avec d'autres galaxies",
+            "FalseAnswer": [
+              "Expansion cosmique",
+              "Impacts d'astéroïdes",
+              "Émissions de quasars"
+            ],
+            "Explanation": "Les interactions de marée entre les galaxies peuvent induire des forces gravitationnelles qui perturbent ou réarrangent leurs structures, impactant leur apparence et leur évolution globales."
+          },
+          {
+            "Question": "Quelle est la galaxie spirale la plus proche de la Voie lactée?",
+            "TrueAnswer": "Andromède",
+            "FalseAnswer": [
+              "Pinwheel",
+              "Whirlpool",
+              "Triangulum"
+            ],
+            "Explanation": "Andromède, également connue sous le nom de M31, est la galaxie spirale la plus proche de la Voie lactée, située à environ 2,537 millions d'années-lumière."
+          },
+          {
+            "Question": "Quel type de galaxies est souvent trouvé en périphérie des amas de galaxies?",
+            "TrueAnswer": "Galaxies naines",
+            "FalseAnswer": [
+              "Galaxies spirales",
+              "Galaxies elliptiques",
+              "Galaxies irrégulières"
+            ],
+            "Explanation": "Les galaxies naines, en raison de leur taille et de leur masse plus petites, sont couramment trouvées en périphérie des amas de galaxies, influencées par les interactions gravitationnelles de l'amas."
+          },
+          {
+            "Question": "Quel est le nombre estimé de galaxies dans l'univers observable?",
+            "TrueAnswer": "Des centaines de milliards",
+            "FalseAnswer": [
+              "Des dizaines de milliers",
+              "Des millions",
+              "Des trillions"
+            ],
+            "Explanation": "Les estimations actuelles suggèrent qu'il y a des centaines de milliards de galaxies dans l'univers observable, chacune contenant des nombres variables d'étoiles et d'objets célestes."
+          },
+          {
+            "Question": "Qu'est-ce qui provoque un décalage vers le bleu dans le spectre d'une galaxie?",
+            "TrueAnswer": "Approche de la Terre",
+            "FalseAnswer": [
+              "Éloignement de la Terre",
+              "Reste stationnaire",
+              "Absorption de rayonnement cosmique"
+            ],
+            "Explanation": "Un décalage vers le bleu se produit lorsque la lumière d'une galaxie est décalée vers des longueurs d'onde plus courtes, indiquant que la galaxie se rapproche de la Terre."
+          },
+          {
+            "Question": "Quelle est la couleur prédominante des nuages de gaz et de poussière dans le disque galactique de la Voie lactée?",
+            "TrueAnswer": "Brun rougeâtre",
+            "FalseAnswer": [
+              "Vert",
+              "Bleu",
+              "Noir"
+            ],
+            "Explanation": "Les nuages de gaz et de poussière dans le disque galactique de la Voie lactée apparaissent brun rougeâtre en raison de la diffusion et de l'absorption de la lumière par les particules interstellaires et les composés organiques."
+          },
+          {
+            "Question": "Quelle est la distance impressionnante couverte par les plus grands filaments galactiques de l'univers?",
+            "TrueAnswer": "Des centaines de millions d'années-lumière",
+            "FalseAnswer": [
+              "Des milliers d'années-lumière",
+              "Des milliards d'années-lumière",
+              "Des dizaines d'années-lumière"
+            ],
+            "Explanation": "Les filaments galactiques, les structures les plus vastes connues, peuvent s'étendre sur des centaines de millions d'années-lumière à travers la toile cosmique, reliant les amas de galaxies dans l'univers."
+          },
+          {
+            "Question": "Quel type de structures galactiques se caractérisent par une forme plate et en forme de disque?",
+            "TrueAnswer": "Galaxies lenticulaires",
+            "FalseAnswer": [
+              "Galaxies elliptiques",
+              "Galaxies irrégulières",
+              "Galaxies spirales"
+            ],
+            "Explanation": "Les galaxies lenticulaires ont une structure en forme de disque similaire aux galaxies spirales mais sans les bras spiraux proéminents, ressemblant souvent à un croisement entre les galaxies elliptiques et spirales."
+          }
+        ]
+      }
+    }
+  ]
+}

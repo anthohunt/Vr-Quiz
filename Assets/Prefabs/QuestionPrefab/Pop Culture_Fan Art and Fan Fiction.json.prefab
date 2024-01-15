@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2910665681703278625
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1060294709229688168}
+  - component: {fileID: 1310012119392326240}
+  m_Layer: 0
+  m_Name: Pop Culture_Fan Art and Fan Fiction.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1060294709229688168
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2910665681703278625}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1310012119392326240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2910665681703278625}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of the 'Harry Potter' book series?
+      TrueAnswer: J.K. Rowling
+      FalseAnswer:
+      - Stephenie Meyer
+      - Suzanne Collins
+      - George R.R. Martin
+      Explanation: J.K. Rowling is the British author who created the magical world
+        of Harry Potter.
+    - Question: Which superhero is known as the 'Man of Steel'?
+      TrueAnswer: Superman
+      FalseAnswer:
+      - Batman
+      - Spider-Man
+      - Iron Man
+      Explanation: Superman, also known as Clark Kent, is a DC Comics superhero with
+        superhuman abilities.
+    - Question: What is the name of the fictional city in 'The Simpsons'?
+      TrueAnswer: Springfield
+      FalseAnswer:
+      - Quahog
+      - South Park
+      - Hill Valley
+      Explanation: Springfield is the name of the town where the Simpson family resides
+        in the long-running animated series.
+    - Question: Who is the main character in the 'Twilight' book series?
+      TrueAnswer: Bella Swan
+      FalseAnswer:
+      - Edward Cullen
+      - Jacob Black
+      - Alice Cullen
+      Explanation: Bella Swan is the protagonist of the 'Twilight' series, a human
+        caught in a love triangle with vampires.
+    - Question: Which band released the album 'Abbey Road'?
+      TrueAnswer: The Beatles
+      FalseAnswer:
+      - The Rolling Stones
+      - Led Zeppelin
+      - Queen
+      Explanation: '''Abbey Road'' is the eleventh studio album by The Beatles, released
+        in 1969.'
+    - Question: Who is the lead singer of the band 'Queen'?
+      TrueAnswer: Freddie Mercury
+      FalseAnswer:
+      - Mick Jagger
+      - Robert Plant
+      - David Bowie
+      Explanation: Freddie Mercury was the charismatic frontman of the British rock
+        band 'Queen'.
+    - Question: Which actor played the character Tony Stark in the 'Iron Man' movies?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Mark Ruffalo
+      Explanation: Robert Downey Jr. portrayed the billionaire genius Tony Stark
+        in the Marvel Cinematic Universe.
+    - Question: What is the name of the fictional school in the 'Harry Potter' series?
+      TrueAnswer: Hogwarts
+      FalseAnswer:
+      - Beauxbatons
+      - Durmstrang
+      - Ilvermorny
+      Explanation: Hogwarts School of Witchcraft and Wizardry is the magical school
+        attended by Harry Potter and his friends.
+    - Question: Which character is known for saying 'I'll be back' in the movie 'The
+        Terminator'?
+      TrueAnswer: The Terminator
+      FalseAnswer:
+      - John Connor
+      - Sarah Connor
+      - Kyle Reese
+      Explanation: The Terminator, portrayed by Arnold Schwarzenegger, utters the
+        famous line 'I'll be back' in the film.
+    - Question: Who is the main character in the 'Star Wars' film series?
+      TrueAnswer: Luke Skywalker
+      FalseAnswer:
+      - Darth Vader
+      - Han Solo
+      - Princess Leia
+      Explanation: Luke Skywalker is the central figure in the 'Star Wars' saga,
+        a Jedi Knight fighting against the dark side.
+    - Question: Which character is known for wearing a red and blue suit in the 'Spider-Man'
+        comics?
+      TrueAnswer: Spider-Man
+      FalseAnswer:
+      - Iron Man
+      - Captain America
+      - Wolverine
+      Explanation: Spider-Man, also known as Peter Parker, dons a red and blue suit
+        while fighting crime.
+    - Question: What is the name of the fictional town in the TV show 'Stranger Things'?
+      TrueAnswer: Hawkins
+      FalseAnswer:
+      - Derry
+      - Hill Valley
+      - Sunnydale
+      Explanation: Hawkins is the town where the supernatural events of 'Stranger
+        Things' take place.
+    - Question: Which character is known for saying 'May the Force be with you' in
+        'Star Wars'?
+      TrueAnswer: Obi-Wan Kenobi
+      FalseAnswer:
+      - Yoda
+      - Darth Vader
+      - Han Solo
+      Explanation: Obi-Wan Kenobi, played by Alec Guinness, imparts the famous phrase
+        in the original 'Star Wars' film.
+    - Question: Who is the main character in the 'Hunger Games' book series?
+      TrueAnswer: Katniss Everdeen
+      FalseAnswer:
+      - Peeta Mellark
+      - Gale Hawthorne
+      - Primrose Everdeen
+      Explanation: Katniss Everdeen is the courageous protagonist of 'The Hunger
+        Games', fighting against a dystopian regime.
+    - Question: Which character is known for wearing a red cape and blue tights in
+        DC Comics?
+      TrueAnswer: Superman
+      FalseAnswer:
+      - Batman
+      - Wonder Woman
+      - The Flash
+      Explanation: Superman, also known as the Man of Steel, sports a red cape and
+        blue tights as his iconic costume.
+    - Question: What is the name of the fictional planet in the 'Star Trek' series?
+      TrueAnswer: Vulcan
+      FalseAnswer:
+      - Tatooine
+      - Krypton
+      - Alderaan
+      Explanation: Vulcan is the homeworld of the logical and pointy-eared Vulcan
+        species in the 'Star Trek' universe.
+    - Question: Who is the main character in the 'Game of Thrones' book series?
+      TrueAnswer: Jon Snow
+      FalseAnswer:
+      - Daenerys Targaryen
+      - Tyrion Lannister
+      - Arya Stark
+      Explanation: Jon Snow, portrayed by Kit Harington, is a central figure in the
+        'Game of Thrones' epic fantasy series.
+    - Question: Which character is known for wielding a lightsaber in 'Star Wars'?
+      TrueAnswer: Luke Skywalker
+      FalseAnswer:
+      - Darth Vader
+      - Yoda
+      - Obi-Wan Kenobi
+      Explanation: Luke Skywalker, following in his father's footsteps, becomes a
+        Jedi Knight and wields a lightsaber.
+    - Question: What is the name of the fictional city in the 'Batman' comics?
+      TrueAnswer: Gotham City
+      FalseAnswer:
+      - Metropolis
+      - Central City
+      - Star City
+      Explanation: Gotham City is the dark and crime-ridden metropolis where Batman
+        fights against villains like the Joker.
+    - Question: Who is the main character in the 'Sherlock Holmes' detective stories?
+      TrueAnswer: Sherlock Holmes
+      FalseAnswer:
+      - John Watson
+      - Mycroft Holmes
+      - Irene Adler
+      Explanation: Sherlock Holmes is the brilliant and eccentric detective created
+        by Sir Arthur Conan Doyle.
+    - Question: Which character is known for saying 'I am Iron Man' in the Marvel
+        Cinematic Universe?
+      TrueAnswer: Tony Stark
+      FalseAnswer:
+      - Steve Rogers
+      - Thor Odinson
+      - Natasha Romanoff
+      Explanation: Tony Stark, portrayed by Robert Downey Jr., declares 'I am Iron
+        Man' in the first 'Iron Man' film.

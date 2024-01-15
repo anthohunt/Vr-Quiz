@@ -1,0 +1,140 @@
+{
+    "Mathematics and the Fibonacci Sequence": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the Fibonacci sequence?",
+                    "TrueAnswer": "A series of numbers in which each number is the sum of the two preceding ones.",
+                    "FalseAnswer": ["A sequence of prime numbers.", "A series of numbers in which each number is multiplied by the previous one.", "A sequence of numbers in which each number is the difference of the two preceding ones."],
+                    "Explanation": "The Fibonacci sequence is a series of numbers in which each number is the sum of the two preceding ones. For example, 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ..."
+                },
+                {
+                    "Question": "Who discovered the Fibonacci sequence?",
+                    "TrueAnswer": "Leonardo of Pisa",
+                    "FalseAnswer": ["Isaac Newton", "Albert Einstein", "Euclid"],
+                    "Explanation": "The Fibonacci sequence was named after Leonardo of Pisa, also known as Fibonacci, an Italian mathematician who introduced it to the Western world in his book 'Liber Abaci' in 1202."
+                },
+                {
+                    "Question": "What is the first number in the Fibonacci sequence?",
+                    "TrueAnswer": "0",
+                    "FalseAnswer": ["1", "2", "-1"],
+                    "Explanation": "The first number in the Fibonacci sequence is 0. Some variations of the sequence start with 1, but the original definition begins with 0."
+                },
+                {
+                    "Question": "What is the second number in the Fibonacci sequence?",
+                    "TrueAnswer": "1",
+                    "FalseAnswer": ["0", "2", "-1"],
+                    "Explanation": "The second number in the Fibonacci sequence is 1. It is obtained by adding the first number (0) and the previous number (also 0)."
+                },
+                {
+                    "Question": "What is the third number in the Fibonacci sequence?",
+                    "TrueAnswer": "1",
+                    "FalseAnswer": ["0", "2", "-1"],
+                    "Explanation": "The third number in the Fibonacci sequence is 1. It is obtained by adding the second number (1) and the previous number (0)."
+                },
+                {
+                    "Question": "What is the fourth number in the Fibonacci sequence?",
+                    "TrueAnswer": "2",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The fourth number in the Fibonacci sequence is 2. It is obtained by adding the third number (1) and the previous number (1)."
+                },
+                {
+                    "Question": "What is the fifth number in the Fibonacci sequence?",
+                    "TrueAnswer": "3",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The fifth number in the Fibonacci sequence is 3. It is obtained by adding the fourth number (2) and the previous number (1)."
+                },
+                {
+                    "Question": "What is the sixth number in the Fibonacci sequence?",
+                    "TrueAnswer": "5",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The sixth number in the Fibonacci sequence is 5. It is obtained by adding the fifth number (3) and the previous number (2)."
+                },
+                {
+                    "Question": "What is the seventh number in the Fibonacci sequence?",
+                    "TrueAnswer": "8",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The seventh number in the Fibonacci sequence is 8. It is obtained by adding the sixth number (5) and the previous number (3)."
+                },
+                {
+                    "Question": "What is the eighth number in the Fibonacci sequence?",
+                    "TrueAnswer": "13",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The eighth number in the Fibonacci sequence is 13. It is obtained by adding the seventh number (8) and the previous number (5)."
+                },
+                {
+                    "Question": "What is the ninth number in the Fibonacci sequence?",
+                    "TrueAnswer": "21",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The ninth number in the Fibonacci sequence is 21. It is obtained by adding the eighth number (13) and the previous number (8)."
+                },
+                {
+                    "Question": "What is the tenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "34",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The tenth number in the Fibonacci sequence is 34. It is obtained by adding the ninth number (21) and the previous number (13)."
+                },
+                {
+                    "Question": "What is the eleventh number in the Fibonacci sequence?",
+                    "TrueAnswer": "55",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The eleventh number in the Fibonacci sequence is 55. It is obtained by adding the tenth number (34) and the previous number (21)."
+                },
+                {
+                    "Question": "What is the twelfth number in the Fibonacci sequence?",
+                    "TrueAnswer": "89",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The twelfth number in the Fibonacci sequence is 89. It is obtained by adding the eleventh number (55) and the previous number (34)."
+                },
+                {
+                    "Question": "What is the thirteenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "144",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The thirteenth number in the Fibonacci sequence is 144. It is obtained by adding the twelfth number (89) and the previous number (55)."
+                },
+                {
+                    "Question": "What is the fourteenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "233",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The fourteenth number in the Fibonacci sequence is 233. It is obtained by adding the thirteenth number (144) and the previous number (89)."
+                },
+                {
+                    "Question": "What is the fifteenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "377",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The fifteenth number in the Fibonacci sequence is 377. It is obtained by adding the fourteenth number (233) and the previous number (144)."
+                },
+                {
+                    "Question": "What is the sixteenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "610",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The sixteenth number in the Fibonacci sequence is 610. It is obtained by adding the fifteenth number (377) and the previous number (233)."
+                },
+                {
+                    "Question": "What is the seventeenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "987",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The seventeenth number in the Fibonacci sequence is 987. It is obtained by adding the sixteenth number (610) and the previous number (377)."
+                },
+                {
+                    "Question": "What is the eighteenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "1597",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The eighteenth number in the Fibonacci sequence is 1597. It is obtained by adding the seventeenth number (987) and the previous number (610)."
+                },
+                {
+                    "Question": "What is the nineteenth number in the Fibonacci sequence?",
+                    "TrueAnswer": "2584",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The nineteenth number in the Fibonacci sequence is 2584. It is obtained by adding the eighteenth number (1597) and the previous number (987)."
+                },
+                {
+                    "Question": "What is the twentieth number in the Fibonacci sequence?",
+                    "TrueAnswer": "4181",
+                    "FalseAnswer": ["0", "1", "-1"],
+                    "Explanation": "The twentieth number in the Fibonacci sequence is 4181. It is obtained by adding the nineteenth number (2584) and the previous number (1597)."
+                }
+            ]
+        }
+    ]
+}

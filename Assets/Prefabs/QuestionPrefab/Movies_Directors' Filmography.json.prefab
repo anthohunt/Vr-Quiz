@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4483961603685098544
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1083775685181651239}
+  - component: {fileID: 3781468637627469483}
+  m_Layer: 0
+  m_Name: Movies_Directors' Filmography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1083775685181651239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4483961603685098544}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3781468637627469483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4483961603685098544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who directed the movie 'Pulp Fiction'?
+      TrueAnswer: Quentin Tarantino
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Christopher Nolan
+      Explanation: Quentin Tarantino directed the iconic movie 'Pulp Fiction' released
+        in 1994.
+    - Question: Which director is known for the 'Lord of the Rings' trilogy?
+      TrueAnswer: Peter Jackson
+      FalseAnswer:
+      - James Cameron
+      - Tim Burton
+      - Ridley Scott
+      Explanation: Peter Jackson is the director famous for bringing 'The Lord of
+        the Rings' trilogy to life.
+    - Question: Who directed the movie 'The Shawshank Redemption'?
+      TrueAnswer: Frank Darabont
+      FalseAnswer:
+      - David Fincher
+      - Stanley Kubrick
+      - Alfred Hitchcock
+      Explanation: Frank Darabont directed the critically acclaimed film 'The Shawshank
+        Redemption' in 1994.
+    - Question: Which director is known for the 'Harry Potter' film series?
+      TrueAnswer: Chris Columbus
+      FalseAnswer:
+      - George Lucas
+      - J.J. Abrams
+      - Guillermo del Toro
+      Explanation: Chris Columbus directed the first two movies in the 'Harry Potter'
+        film series.
+    - Question: Who directed the movie 'Inception'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - Quentin Tarantino
+      - Steven Spielberg
+      - Martin Scorsese
+      Explanation: Christopher Nolan directed the mind-bending film 'Inception' released
+        in 2010.
+    - Question: Which director is known for the 'Star Wars' original trilogy?
+      TrueAnswer: George Lucas
+      FalseAnswer:
+      - James Cameron
+      - Tim Burton
+      - Ridley Scott
+      Explanation: George Lucas is the director behind the iconic 'Star Wars' original
+        trilogy.
+    - Question: Who directed the movie 'The Dark Knight'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - Quentin Tarantino
+      - Steven Spielberg
+      - Martin Scorsese
+      Explanation: Christopher Nolan directed the critically acclaimed film 'The
+        Dark Knight' in 2008.
+    - Question: Which director is known for the 'Jurassic Park' franchise?
+      TrueAnswer: Steven Spielberg
+      FalseAnswer:
+      - James Cameron
+      - Tim Burton
+      - Ridley Scott
+      Explanation: Steven Spielberg is the director famous for the 'Jurassic Park'
+        franchise.
+    - Question: Who directed the movie 'Fight Club'?
+      TrueAnswer: David Fincher
+      FalseAnswer:
+      - Quentin Tarantino
+      - Martin Scorsese
+      - Alfred Hitchcock
+      Explanation: David Fincher directed the cult classic film 'Fight Club' released
+        in 1999.
+    - Question: Which director is known for the 'Alien' franchise?
+      TrueAnswer: Ridley Scott
+      FalseAnswer:
+      - James Cameron
+      - Tim Burton
+      - Steven Spielberg
+      Explanation: Ridley Scott is the director famous for the 'Alien' franchise.
+    - Question: Who directed the movie 'The Godfather'?
+      TrueAnswer: Francis Ford Coppola
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Quentin Tarantino
+      Explanation: Francis Ford Coppola directed the iconic film 'The Godfather'
+        released in 1972.
+    - Question: Which director is known for the 'The Avengers' film series?
+      TrueAnswer: Joss Whedon
+      FalseAnswer:
+      - George Lucas
+      - J.J. Abrams
+      - Guillermo del Toro
+      Explanation: Joss Whedon directed the first two 'The Avengers' films in the
+        Marvel Cinematic Universe.
+    - Question: Who directed the movie 'The Shining'?
+      TrueAnswer: Stanley Kubrick
+      FalseAnswer:
+      - David Fincher
+      - Frank Darabont
+      - Alfred Hitchcock
+      Explanation: Stanley Kubrick directed the psychological horror film 'The Shining'
+        released in 1980.
+    - Question: Which director is known for the 'The Matrix' trilogy?
+      TrueAnswer: The Wachowskis
+      FalseAnswer:
+      - James Cameron
+      - Tim Burton
+      - Ridley Scott
+      Explanation: The Wachowskis, consisting of Lana and Lilly Wachowski, directed
+        'The Matrix' trilogy.
+    - Question: Who directed the movie 'Schindler's List'?
+      TrueAnswer: Steven Spielberg
+      FalseAnswer:
+      - David Fincher
+      - Frank Darabont
+      - Alfred Hitchcock
+      Explanation: Steven Spielberg directed the powerful film 'Schindler's List'
+        released in 1993.
+    - Question: Which director is known for the 'The Hobbit' film series?
+      TrueAnswer: Peter Jackson
+      FalseAnswer:
+      - George Lucas
+      - J.J. Abrams
+      - Guillermo del Toro
+      Explanation: Peter Jackson directed 'The Hobbit' film series, a prequel to
+        'The Lord of the Rings'.
+    - Question: Who directed the movie 'Taxi Driver'?
+      TrueAnswer: Martin Scorsese
+      FalseAnswer:
+      - Quentin Tarantino
+      - Steven Spielberg
+      - Christopher Nolan
+      Explanation: Martin Scorsese directed the influential film 'Taxi Driver' released
+        in 1976.
+    - Question: Which director is known for the 'Titanic'?
+      TrueAnswer: James Cameron
+      FalseAnswer:
+      - Tim Burton
+      - Ridley Scott
+      - Steven Spielberg
+      Explanation: James Cameron is the director famous for the epic romance-disaster
+        film 'Titanic'.
+    - Question: Who directed the movie 'Psycho'?
+      TrueAnswer: Alfred Hitchcock
+      FalseAnswer:
+      - David Fincher
+      - Frank Darabont
+      - Stanley Kubrick
+      Explanation: Alfred Hitchcock directed the classic psychological thriller film
+        'Psycho' released in 1960.
+    - Question: Which director is known for the 'Pan's Labyrinth'?
+      TrueAnswer: Guillermo del Toro
+      FalseAnswer:
+      - George Lucas
+      - J.J. Abrams
+      - Chris Columbus
+      Explanation: Guillermo del Toro is the director famous for the dark fantasy
+        film 'Pan's Labyrinth'.

@@ -1,0 +1,134 @@
+{
+    "Internet and Net Neutrality": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the term for the unique address of a website on the internet?",
+                    "TrueAnswer": "URL",
+                    "FalseAnswer": ["IP address", "Domain name", "HTML"],
+                    "Explanation": "URL stands for Uniform Resource Locator and is used to locate a specific webpage on the internet."
+                },
+                {
+                    "Question": "Which organization is responsible for assigning IP addresses?",
+                    "TrueAnswer": "ICANN",
+                    "FalseAnswer": ["FCC", "NSA", "Google"],
+                    "Explanation": "ICANN (Internet Corporation for Assigned Names and Numbers) is responsible for managing IP address allocation."
+                },
+                {
+                    "Question": "What does ISP stand for?",
+                    "TrueAnswer": "Internet Service Provider",
+                    "FalseAnswer": ["Internet Security Protocol", "Internet Speed Provider", "Internet Search Platform"],
+                    "Explanation": "ISP stands for Internet Service Provider, which is a company that provides internet access to customers."
+                },
+                {
+                    "Question": "What is the term for the process of sending data from one computer to another over the internet?",
+                    "TrueAnswer": "Data transmission",
+                    "FalseAnswer": ["Data encryption", "Data storage", "Data compression"],
+                    "Explanation": "Data transmission refers to the process of sending data from one computer to another over the internet."
+                },
+                {
+                    "Question": "What is the term for a network of computers that are connected and can communicate with each other?",
+                    "TrueAnswer": "Internet",
+                    "FalseAnswer": ["Intranet", "Extranet", "LAN"],
+                    "Explanation": "The internet is a global network of computers that are connected and can communicate with each other."
+                },
+                {
+                    "Question": "What is the term for the rules and protocols that govern how data is transmitted over the internet?",
+                    "TrueAnswer": "Internet Protocol",
+                    "FalseAnswer": ["Internet Privacy", "Internet Security", "Internet Speed"],
+                    "Explanation": "Internet Protocol (IP) refers to the rules and protocols that govern how data is transmitted over the internet."
+                },
+                {
+                    "Question": "What is the term for the process of converting a domain name into an IP address?",
+                    "TrueAnswer": "DNS resolution",
+                    "FalseAnswer": ["IP conversion", "Domain mapping", "URL translation"],
+                    "Explanation": "DNS resolution is the process of converting a domain name into an IP address."
+                },
+                {
+                    "Question": "What is the term for the practice of charging different prices for different internet speeds or access to certain websites?",
+                    "TrueAnswer": "Net Neutrality",
+                    "FalseAnswer": ["Data throttling", "Internet censorship", "Bandwidth allocation"],
+                    "Explanation": "Net Neutrality refers to the principle that all internet traffic should be treated equally, without discrimination or preference."
+                },
+                {
+                    "Question": "Which government agency in the United States is responsible for regulating the internet?",
+                    "TrueAnswer": "FCC",
+                    "FalseAnswer": ["NSA", "CIA", "FBI"],
+                    "Explanation": "The Federal Communications Commission (FCC) is responsible for regulating the internet in the United States."
+                },
+                {
+                    "Question": "What is the term for the process of encrypting data to protect it from unauthorized access?",
+                    "TrueAnswer": "Data encryption",
+                    "FalseAnswer": ["Data transmission", "Data storage", "Data compression"],
+                    "Explanation": "Data encryption is the process of converting data into a form that cannot be easily understood by unauthorized users."
+                },
+                {
+                    "Question": "What is the term for a computer program that can replicate itself and spread to other computers?",
+                    "TrueAnswer": "Virus",
+                    "FalseAnswer": ["Firewall", "Malware", "Spyware"],
+                    "Explanation": "A virus is a type of malicious computer program that can replicate itself and spread to other computers."
+                },
+                {
+                    "Question": "What is the term for a website that allows users to collaborate and contribute content?",
+                    "TrueAnswer": "Wiki",
+                    "FalseAnswer": ["Blog", "Social media", "E-commerce"],
+                    "Explanation": "A wiki is a website that allows users to collaborate and contribute content, such as Wikipedia."
+                },
+                {
+                    "Question": "What is the term for a malicious program that can damage or disrupt computer systems?",
+                    "TrueAnswer": "Malware",
+                    "FalseAnswer": ["Firewall", "Virus", "Spyware"],
+                    "Explanation": "Malware is a type of malicious software that can damage or disrupt computer systems."
+                },
+                {
+                    "Question": "What is the term for a system that allows users to access and manage their email over the internet?",
+                    "TrueAnswer": "Webmail",
+                    "FalseAnswer": ["SMTP", "POP3", "IMAP"],
+                    "Explanation": "Webmail is a system that allows users to access and manage their email over the internet, such as Gmail or Yahoo Mail."
+                },
+                {
+                    "Question": "What is the term for a program that searches the internet for specific information?",
+                    "TrueAnswer": "Search engine",
+                    "FalseAnswer": ["Web browser", "Social media", "Email client"],
+                    "Explanation": "A search engine is a program that searches the internet for specific information, such as Google or Bing."
+                },
+                {
+                    "Question": "What is the term for a website that allows users to communicate and share information?",
+                    "TrueAnswer": "Social media",
+                    "FalseAnswer": ["E-commerce", "Blog", "Forum"],
+                    "Explanation": "Social media refers to websites and applications that allow users to communicate and share information with others."
+                },
+                {
+                    "Question": "What is the term for a system that allows users to access and view web pages?",
+                    "TrueAnswer": "Web browser",
+                    "FalseAnswer": ["Search engine", "Email client", "FTP client"],
+                    "Explanation": "A web browser is a software application that allows users to access and view web pages on the internet."
+                },
+                {
+                    "Question": "What is the term for a website that allows users to buy and sell products or services?",
+                    "TrueAnswer": "E-commerce",
+                    "FalseAnswer": ["Social media", "Blog", "Forum"],
+                    "Explanation": "E-commerce refers to websites that allow users to buy and sell products or services online, such as Amazon or eBay."
+                },
+                {
+                    "Question": "What is the term for a system that allows users to send and receive email?",
+                    "TrueAnswer": "Email client",
+                    "FalseAnswer": ["Webmail", "SMTP", "POP3"],
+                    "Explanation": "An email client is a software application that allows users to send and receive email messages."
+                },
+                {
+                    "Question": "What is the term for a program that protects a computer or network from unauthorized access?",
+                    "TrueAnswer": "Firewall",
+                    "FalseAnswer": ["Virus", "Malware", "Spyware"],
+                    "Explanation": "A firewall is a program or device that acts as a barrier between a computer or network and potential threats."
+                },
+                {
+                    "Question": "What is the term for a system that allows users to send and receive email messages?",
+                    "TrueAnswer": "SMTP",
+                    "FalseAnswer": ["Webmail", "Email client", "POP3"],
+                    "Explanation": "SMTP (Simple Mail Transfer Protocol) is a standard for sending email messages between servers."
+                }
+            ]
+        }
+    ]
+}

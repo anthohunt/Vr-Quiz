@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1630081362996789076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5159740373378868479}
+  - component: {fileID: 6323010421969817350}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoons as Educational Tools.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5159740373378868479
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630081362996789076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6323010421969817350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1630081362996789076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cartoon teaches children about friendship and teamwork?
+      TrueAnswer: 'My Little Pony: Friendship is Magic'
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - The Simpsons
+      - Family Guy
+      Explanation: 'My Little Pony: Friendship is Magic focuses on the importance
+        of friendship and working together.'
+    - Question: Which cartoon teaches children about problem-solving and critical
+        thinking?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - Tom and Jerry
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      Explanation: Dora the Explorer encourages children to solve problems and think
+        critically through interactive adventures.
+    - Question: Which cartoon teaches children about cultural diversity and acceptance?
+      TrueAnswer: 'Avatar: The Last Airbender'
+      FalseAnswer:
+      - South Park
+      - Rick and Morty
+      - Adventure Time
+      Explanation: 'Avatar: The Last Airbender promotes cultural diversity, acceptance,
+        and understanding of different backgrounds.'
+    - Question: Which cartoon teaches children about environmental conservation and
+        sustainability?
+      TrueAnswer: Captain Planet and the Planeteers
+      FalseAnswer:
+      - The Flintstones
+      - Looney Tunes
+      - Bob's Burgers
+      Explanation: Captain Planet and the Planeteers educates children about the
+        importance of protecting the environment and being sustainable.
+    - Question: Which cartoon teaches children about history and historical figures?
+      TrueAnswer: Peppa Pig
+      FalseAnswer:
+      - Scooby-Doo
+      - The Fairly OddParents
+      - The Powerpuff Girls
+      Explanation: Peppa Pig introduces children to historical events and figures
+        in a fun and engaging way.
+    - Question: Which cartoon teaches children about science and the natural world?
+      TrueAnswer: The Magic School Bus
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - SpongeBob SquarePants
+      Explanation: The Magic School Bus explores scientific concepts and the wonders
+        of the natural world through exciting adventures.
+    - Question: Which cartoon teaches children about empathy and emotional intelligence?
+      TrueAnswer: Daniel Tiger's Neighborhood
+      FalseAnswer:
+      - Rick and Morty
+      - South Park
+      - Adventure Time
+      Explanation: Daniel Tiger's Neighborhood helps children develop empathy and
+        emotional intelligence through relatable stories and characters.
+    - Question: Which cartoon teaches children about healthy eating and nutrition?
+      TrueAnswer: VeggieTales
+      FalseAnswer:
+      - The Flintstones
+      - Looney Tunes
+      - Bob's Burgers
+      Explanation: VeggieTales promotes healthy eating habits and teaches children
+        about the importance of nutrition.
+    - Question: Which cartoon teaches children about math and problem-solving?
+      TrueAnswer: Cyberchase
+      FalseAnswer:
+      - Tom and Jerry
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      Explanation: Cyberchase engages children in math-related adventures, teaching
+        problem-solving skills along the way.
+    - Question: Which cartoon teaches children about cultural traditions and celebrations?
+      TrueAnswer: Mickey Mouse Clubhouse
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - SpongeBob SquarePants
+      Explanation: Mickey Mouse Clubhouse introduces children to various cultural
+        traditions and celebrations from around the world.
+    - Question: Which cartoon teaches children about teamwork and leadership?
+      TrueAnswer: Paw Patrol
+      FalseAnswer:
+      - Scooby-Doo
+      - The Fairly OddParents
+      - The Powerpuff Girls
+      Explanation: Paw Patrol emphasizes the importance of teamwork and leadership
+        skills through exciting rescue missions.
+    - Question: Which cartoon teaches children about creativity and imagination?
+      TrueAnswer: Peppa Pig
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - The Simpsons
+      - Family Guy
+      Explanation: Peppa Pig encourages children to use their creativity and imagination
+        in everyday activities.
+    - Question: Which cartoon teaches children about social skills and manners?
+      TrueAnswer: Arthur
+      FalseAnswer:
+      - South Park
+      - Rick and Morty
+      - Adventure Time
+      Explanation: Arthur helps children develop social skills and learn about proper
+        manners and behavior.
+    - Question: Which cartoon teaches children about different cultures and languages?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - Tom and Jerry
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      Explanation: Dora the Explorer introduces children to different cultures and
+        languages through interactive adventures.
+    - Question: Which cartoon teaches children about emotions and self-expression?
+      TrueAnswer: Inside Out
+      FalseAnswer:
+      - The Flintstones
+      - Looney Tunes
+      - Bob's Burgers
+      Explanation: Inside Out helps children understand and express their emotions
+        in a relatable and engaging way.
+    - Question: Which cartoon teaches children about friendship and kindness?
+      TrueAnswer: 'My Little Pony: Friendship is Magic'
+      FalseAnswer:
+      - Scooby-Doo
+      - The Fairly OddParents
+      - The Powerpuff Girls
+      Explanation: 'My Little Pony: Friendship is Magic emphasizes the values of
+        friendship and kindness.'
+    - Question: Which cartoon teaches children about problem-solving and perseverance?
+      TrueAnswer: Paw Patrol
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - SpongeBob SquarePants
+      Explanation: Paw Patrol encourages problem-solving skills and teaches children
+        the importance of perseverance.
+    - Question: Which cartoon teaches children about the importance of honesty and
+        integrity?
+      TrueAnswer: The Berenstain Bears
+      FalseAnswer:
+      - South Park
+      - Rick and Morty
+      - Adventure Time
+      Explanation: The Berenstain Bears promotes honesty, integrity, and making good
+        choices.
+    - Question: Which cartoon teaches children about the animal kingdom and wildlife
+        conservation?
+      TrueAnswer: Wild Kratts
+      FalseAnswer:
+      - Tom and Jerry
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      Explanation: Wild Kratts educates children about animals, their habitats, and
+        the importance of wildlife conservation.
+    - Question: Which cartoon teaches children about the importance of reading and
+        literacy?
+      TrueAnswer: WordWorld
+      FalseAnswer:
+      - The Flintstones
+      - Looney Tunes
+      - Bob's Burgers
+      Explanation: WordWorld promotes reading and literacy skills by bringing words
+        to life in a vibrant and imaginative world.

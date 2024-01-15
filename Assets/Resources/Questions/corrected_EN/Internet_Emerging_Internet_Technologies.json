@@ -1,0 +1,108 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the primary function of blockchain technology?",
+          "TrueAnswer": "Decentralized ledger",
+          "FalseAnswer": [
+            "Centralized database",
+            "Peer-to-peer messaging",
+            "Cloud storage"
+          ],
+          "Explanation": "Blockchain technology's primary function is to enable decentralized, secure, and transparent recording of transactions or data, without the need for a central authority or intermediary."
+        },
+        {
+          "Question": "Which programming language is commonly used for developing smart contracts on Ethereum?",
+          "TrueAnswer": "Solidity",
+          "FalseAnswer": [
+            "Python",
+            "Java",
+            "C++"
+          ],
+          "Explanation": "Solidity is a programming language specifically designed for writing smart contracts on the Ethereum blockchain. It has a syntax similar to JavaScript and C++."
+        },
+        {
+          "Question": "What is the purpose of IPFS in the context of decentralized file storage?",
+          "TrueAnswer": "Distributed file system",
+          "FalseAnswer": [
+            "Server-based cloud storage",
+            "Peer-to-peer file sharing",
+            "Centralized data backup"
+          ],
+          "Explanation": "IPFS (InterPlanetary File System) is a protocol and network designed to create a distributed method of storing and accessing files, making it resistant to censorship and single points of failure."
+        },
+        {
+          "Question": "Which consensus algorithm is utilized by the Ethereum network as of 2021?",
+          "TrueAnswer": "Proof of Stake (PoS)",
+          "FalseAnswer": [
+            "Proof of Work (PoW)",
+            "Delegated Proof of Stake (DPoS)",
+            "Byzantine Fault Tolerance (BFT)"
+          ],
+          "Explanation": "Ethereum is in the process of transitioning from Proof of Work to Proof of Stake, a more energy-efficient consensus algorithm that offers rewards to validators for creating and verifying new blocks."
+        },
+        {
+          "Question": "What is the main advantage of using a decentralized VPN (dVPN) over a traditional VPN?",
+          "TrueAnswer": "Enhanced privacy and security",
+          "FalseAnswer": [
+            "Faster speed",
+            "Lower cost",
+            "Access to geo-blocked content"
+          ],
+          "Explanation": "Decentralized VPNs leverage blockchain technology to provide enhanced privacy and security by eliminating the need for central servers, reducing the risk of data breaches and unauthorized access to user information."
+        },
+        {
+          "Question": "Which emerging technology aims to enable automated and trustless execution of agreements and contracts?",
+          "TrueAnswer": "Smart contracts",
+          "FalseAnswer": [
+            "Quantum computing",
+            "Biometric authentication",
+            "Augmented reality"
+          ],
+          "Explanation": "Smart contracts are self-executing contracts with the terms of the agreement directly written into code. They aim to automate processes and ensure trustless execution without the need for intermediaries."
+        },
+        {
+          "Question": "What is the primary objective of decentralized finance (DeFi) platforms?",
+          "TrueAnswer": "Providing financial services without intermediaries",
+          "FalseAnswer": [
+            "Offering traditional banking services",
+            "Facilitating centralized investment",
+            "Regulating global financial markets"
+          ],
+          "Explanation": "DeFi platforms aim to enable access to financial services, such as borrowing, lending, and trading, without relying on traditional intermediaries like banks or financial institutions, using blockchain technology for transparency and security."
+        },
+        {
+          "Question": "Which emerging internet technology facilitates the creation and trade of unique digital assets?",
+          "TrueAnswer": "Non-fungible tokens (NFTs)",
+          "FalseAnswer": [
+            "Centralized digital currency",
+            "Ethereum Virtual Machine (EVM)",
+            "Decentralized autonomous organization (DAO)"
+          ],
+          "Explanation": "NFTs are digital assets representing ownership or proof of authenticity of unique items, using blockchain technology to enable the creation, ownership, and trade of one-of-a-kind digital content, such as art, collectibles, and virtual real estate."
+        },
+        {
+          "Question": "In the context of decentralized storage, what role does Filecoin play?",
+          "TrueAnswer": "Decentralized storage marketplace",
+          "FalseAnswer": [
+            "Blockchain consensus protocol",
+            "Crypto exchange platform",
+            "Decentralized identity management"
+          ],
+          "Explanation": "Filecoin is a decentralized storage network that transforms cloud storage into an algorithmic market. Users can effectively rent out their unused storage space and earn Filecoin tokens as incentives for storing and retrieving data."
+        },
+        {
+          "Question": "Which technology aims to provide a decentralized and censorship-resistant domain name system?",
+          "TrueAnswer": "Handshake",
+          "FalseAnswer": [
+            "Internet Corporation for Assigned Names and Numbers (ICANN)",
+            "Domain Name System Security Extensions (DNSSEC)",
+            "Centralized domain registrar"
+          ],
+          "Explanation": "Handshake is a decentralized, permissionless naming protocol compatible with the existing domain name system. It seeks to create an alternative, censorship-resistant internet naming system by using blockchain technology."
+        }
+      ]
+    }
+  ]
+}

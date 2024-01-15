@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7595588512591308053
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8206056663693878560}
+  - component: {fileID: 8100121435328809170}
+  m_Layer: 0
+  m_Name: Science_Evolutionary_Biology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8206056663693878560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7595588512591308053}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8100121435328809170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7595588512591308053}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the scientist who proposed the theory of natural
+        selection?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - Gregor Mendel
+      - Alfred Russel Wallace
+      - Stephen Jay Gould
+      Explanation: Charles Darwin proposed the theory of natural selection in his
+        1859 book 'On the Origin of Species.' His work revolutionized the field of
+        evolutionary biology.
+    - Question: What process describes the change in the inherited characteristics
+        of biological populations over successive generations?
+      TrueAnswer: Evolution
+      FalseAnswer:
+      - Mutation
+      - Selection
+      - Adaptation
+      Explanation: Evolution is the process by which species gradually change over
+        time, driven by factors like mutation, natural selection, and genetic drift.
+    - Question: What is the name of the principle that explains that traits that
+        offer a survival advantage tend to be passed on to future generations?
+      TrueAnswer: Natural selection
+      FalseAnswer:
+      - Genetic drift
+      - Mutation
+      - Gene flow
+      Explanation: Natural selection, proposed by Charles Darwin, is the mechanism
+        driving evolution. It favors traits that improve an organism's fitness in
+        its environment.
+    - Question: Which scientist proposed the theory of punctuated equilibrium, suggesting
+        that evolution occurs in sporadic bursts rather than gradually?
+      TrueAnswer: Stephen Jay Gould
+      FalseAnswer:
+      - Richard Dawkins
+      - Carl Linnaeus
+      - Ernst Mayr
+      Explanation: Stephen Jay Gould, along with Niles Eldredge, developed the theory
+        of punctuated equilibrium, challenging traditional views of gradual evolutionary
+        change.
+    - Question: What is the term for a sudden, significant, and widespread extinction
+        of many species?
+      TrueAnswer: Mass extinction
+      FalseAnswer:
+      - Adaptive radiation
+      - Genetic drift
+      - Speciation
+      Explanation: Mass extinctions are events in which a large number of species
+        become extinct in a relatively short period, shaping the course of evolutionary
+        history.
+    - Question: Which term describes the process by which a single species splits
+        into two or more separate species?
+      TrueAnswer: Speciation
+      FalseAnswer:
+      - Convergent evolution
+      - Divergent evolution
+      - Adaptive radiation
+      Explanation: Speciation is the fundamental process in evolutionary biology
+        that leads to the diversity of life on Earth, creating new distinct species
+        over time.
+    - Question: What is the term for the variety and distribution of species in a
+        particular area?
+      TrueAnswer: Biodiversity
+      FalseAnswer:
+      - Biogeography
+      - Endemism
+      - Taxonomy
+      Explanation: Biodiversity refers to the variety of life on Earth, encompassing
+        the diversity of ecosystems, species, and genetic variations within species.
+    - Question: Which structure is considered a vestigial organ in humans, suggesting
+        evolutionary remnants of a past ancestor?
+      TrueAnswer: Appendix
+      FalseAnswer:
+      - Liver
+      - Brain
+      - Heart
+      Explanation: The human appendix is thought to be a vestigial remnant from a
+        herbivorous ancestor that facilitated the digestion of cellulose-rich plant
+        materials.
+    - Question: What is the term for the evolutionary adaptation where an organism
+        resembles another to gain a survival advantage, often through predator deterrence?
+      TrueAnswer: Mimicry
+      FalseAnswer:
+      - Camouflage
+      - Hibernation
+      - Molt
+      Explanation: Mimicry is a form of protective adaptation in which a species
+        evolves to resemble another organism, benefiting from shared protection or
+        resources.
+    - Question: Which phenomenon describes the tendency for organisms to evolve similar
+        traits in response to similar environmental challenges, despite not being
+        closely related?
+      TrueAnswer: Convergent evolution
+      FalseAnswer:
+      - Divergent evolution
+      - Parallel evolution
+      - Co-evolution
+      Explanation: Convergent evolution is the independent evolution of similar features
+        in different lineages, driven by adaptation to similar environmental conditions
+        or challenges.
+    - Question: What genetic phenomenon refers to the random fluctuation of allele
+        frequencies in a population, often leading to random changes in appearance
+        and behavior?
+      TrueAnswer: Genetic drift
+      FalseAnswer:
+      - Gene flow
+      - Mutation
+      - Selection
+      Explanation: Genetic drift is a stochastic process that can lead to significant
+        changes in small populations, often resulting in the loss of genetic diversity.
+    - Question: Which concept refers to the study of the genetic composition of populations
+        and how it changes over time?
+      TrueAnswer: Population genetics
+      FalseAnswer:
+      - Phylogenetics
+      - Paleontology
+      - Embryology
+      Explanation: Population genetics focuses on the genetic variation and dynamics
+        within and between populations, providing insight into evolutionary processes
+        such as natural selection and genetic drift.
+    - Question: What term describes the change in a species' behavioral, physiological,
+        or anatomical traits in response to environmental pressures?
+      TrueAnswer: Adaptation
+      FalseAnswer:
+      - Mutation
+      - Speciation
+      - Extinction
+      Explanation: Adaptation is the fundamental process driving the evolution of
+        species, enabling organisms to better survive and reproduce in their specific
+        environment.
+    - Question: Which taxonomic category is immediately superior to species but subordinate
+        to family in biological classification?
+      TrueAnswer: Genus
+      FalseAnswer:
+      - Order
+      - Phylum
+      - Class
+      Explanation: The genus is a rank in the biological classification hierarchy,
+        consisting of one or more species closely related in evolutionary terms.
+    - Question: What phenomenon describes the diversification of a single ancestral
+        species into a large number of related species?
+      TrueAnswer: Adaptive radiation
+      FalseAnswer:
+      - Punctuated equilibrium
+      - Speciation
+      - Convergent evolution
+      Explanation: Adaptive radiation is a rapid evolutionary divergence that results
+        in a wide array of species adapted to various ecological niches, often triggered
+        by environmental changes.
+    - Question: What concept suggests that the development of an organism (ontogeny)
+        reflects its evolutionary history (phylogeny) through embryonic stages?
+      TrueAnswer: Embryological homology
+      FalseAnswer:
+      - Vestigial structures
+      - Parallel evolution
+      - Convergent evolution
+      Explanation: Embryological homology is the principle that similarities in embryonic
+        development across different species reflect their shared evolutionary ancestry.
+    - Question: Which scientist is known for the theory of evolution through the
+        inheritance of acquired characteristics, later disproven by natural selection?
+      TrueAnswer: Jean-Baptiste Lamarck
+      FalseAnswer:
+      - Thomas Huxley
+      - Alfred Russel Wallace
+      - Gregor Mendel
+      Explanation: Jean-Baptiste Lamarck proposed the idea of inheritance of acquired
+        characteristics, suggesting that organisms could pass on traits acquired
+        during their lifetime. This concept was later refuted by the theory of natural
+        selection.
+    - Question: What process involves the formation of new species through the geographic
+        isolation of populations, leading to reproductive barriers?
+      TrueAnswer: Allopatric speciation
+      FalseAnswer:
+      - Sympatric speciation
+      - Parapatric speciation
+      - Peripatric speciation
+      Explanation: Allopatric speciation occurs when a population is separated by
+        a physical barrier, creating genetic divergence and eventually leading to
+        the formation of new species.
+    - Question: What is the term for the study of the geographical distribution of
+        species and ecosystems?
+      TrueAnswer: Biogeography
+      FalseAnswer:
+      - Ecology
+      - Ethology
+      - Paleontology
+      Explanation: Biogeography investigates the distribution of species and ecosystems
+        across geographic space and through geological time, shedding light on factors
+        influencing evolutionary patterns.
+    - Question: Which principle suggests that the frequency of an allele will increase
+        in a population if it provides a survival or reproductive advantage?
+      TrueAnswer: Selection
+      FalseAnswer:
+      - Mutation
+      - Genetic drift
+      - Gene flow
+      Explanation: Selection, whether natural or artificial, leads to the differential
+        survival and reproduction of individuals with advantageous genetic traits,
+        driving evolutionary change.

@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9051302059972803041
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5815106668777731316}
+  - component: {fileID: 287683158684663904}
+  m_Layer: 0
+  m_Name: TV Shows_Sitcoms and Comedies.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5815106668777731316
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9051302059972803041}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &287683158684663904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9051302059972803041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the main character in the sitcom 'Friends'?
+      TrueAnswer: Rachel
+      FalseAnswer:
+      - Monica
+      - Phoebe
+      - Joey
+      Explanation: Rachel Green, played by Jennifer Aniston, is one of the main characters
+        in the sitcom 'Friends'.
+    - Question: Which sitcom features a group of scientists and their socially awkward
+        friend?
+      TrueAnswer: The Big Bang Theory
+      FalseAnswer:
+      - How I Met Your Mother
+      - Seinfeld
+      - Friends
+      Explanation: The Big Bang Theory revolves around a group of scientists, including
+        the socially awkward Sheldon Cooper.
+    - Question: In 'The Office', which character is known for his love of bears,
+        beets, and Battlestar Galactica?
+      TrueAnswer: Dwight
+      FalseAnswer:
+      - Jim
+      - Michael
+      - Pam
+      Explanation: Dwight Schrute, played by Rainn Wilson, is known for his eccentricities
+        and love for bears, beets, and Battlestar Galactica.
+    - Question: Which sitcom is set in a bar called Cheers?
+      TrueAnswer: Cheers
+      FalseAnswer:
+      - Friends
+      - Seinfeld
+      - The Office
+      Explanation: Cheers is a sitcom set in a bar in Boston, where the characters
+        gather to socialize and share their lives.
+    - Question: Which sitcom features a group of six friends living in New York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - How I Met Your Mother
+      - The Big Bang Theory
+      - Seinfeld
+      Explanation: Friends follows the lives of six friends, Monica, Chandler, Ross,
+        Rachel, Joey, and Phoebe, in New York City.
+    - Question: In 'Parks and Recreation', who is the enthusiastic and optimistic
+        deputy director of the Parks Department?
+      TrueAnswer: Leslie
+      FalseAnswer:
+      - Ron
+      - Tom
+      - April
+      Explanation: Leslie Knope, played by Amy Poehler, is the enthusiastic and optimistic
+        deputy director of the Parks Department in 'Parks and Recreation'.
+    - Question: Which sitcom features a group of friends hanging out at a coffee
+        shop called Central Perk?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Big Bang Theory
+      - How I Met Your Mother
+      - Seinfeld
+      Explanation: Friends revolves around a group of friends who frequently meet
+        at the coffee shop called Central Perk.
+    - Question: In 'Brooklyn Nine-Nine', who is the detective known for his love
+        of yogurt and his catchphrase 'Cool, cool, cool'?
+      TrueAnswer: Jake
+      FalseAnswer:
+      - Terry
+      - Amy
+      - Rosa
+      Explanation: Jake Peralta, played by Andy Samberg, is the detective known for
+        his love of yogurt and his catchphrase 'Cool, cool, cool' in 'Brooklyn Nine-Nine'.
+    - Question: Which sitcom features a group of friends living across the hall from
+        each other in an apartment building?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Big Bang Theory
+      - How I Met Your Mother
+      - Seinfeld
+      Explanation: Friends showcases the lives of a group of friends who live across
+        the hall from each other in an apartment building.
+    - Question: In 'The Office', who is the regional manager of Dunder Mifflin Scranton?
+      TrueAnswer: Michael
+      FalseAnswer:
+      - Jim
+      - Dwight
+      - Pam
+      Explanation: Michael Scott, played by Steve Carell, is the regional manager
+        of Dunder Mifflin Scranton in 'The Office'.
+    - Question: Which sitcom features a group of friends hanging out at a bar called
+        MacLaren's?
+      TrueAnswer: How I Met Your Mother
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Seinfeld
+      Explanation: How I Met Your Mother revolves around a group of friends who frequently
+        meet at the bar called MacLaren's.
+    - Question: In 'Parks and Recreation', who is the libertarian director of the
+        Parks Department?
+      TrueAnswer: Ron
+      FalseAnswer:
+      - Leslie
+      - Tom
+      - April
+      Explanation: Ron Swanson, played by Nick Offerman, is the libertarian director
+        of the Parks Department in 'Parks and Recreation'.
+    - Question: Which sitcom features a group of friends living in an apartment building
+        in New York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Big Bang Theory
+      - How I Met Your Mother
+      - Seinfeld
+      Explanation: Friends showcases the lives of a group of friends living in an
+        apartment building in New York City.
+    - Question: In 'Brooklyn Nine-Nine', who is the tough and no-nonsense captain
+        of the 99th precinct?
+      TrueAnswer: Holt
+      FalseAnswer:
+      - Jake
+      - Terry
+      - Amy
+      Explanation: Captain Raymond Holt, played by Andre Braugher, is the tough and
+        no-nonsense captain of the 99th precinct in 'Brooklyn Nine-Nine'.
+    - Question: Which sitcom features a group of friends living in an apartment building
+        in Los Angeles?
+      TrueAnswer: Seinfeld
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - How I Met Your Mother
+      Explanation: Seinfeld follows the lives of a group of friends living in an
+        apartment building in Los Angeles.
+    - Question: In 'The Office', who is the receptionist known for her artistic talents
+        and love for cats?
+      TrueAnswer: Pam
+      FalseAnswer:
+      - Jim
+      - Dwight
+      - Michael
+      Explanation: Pam Beesly, played by Jenna Fischer, is the receptionist known
+        for her artistic talents and love for cats in 'The Office'.
+    - Question: "Which sitcom features a group of friends hanging out at Monk's Caf\xE9?"
+      TrueAnswer: Seinfeld
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - How I Met Your Mother
+      Explanation: "Seinfeld revolves around a group of friends who frequently meet
+        at Monk's Caf\xE9."
+    - Question: In 'Parks and Recreation', who is the sarcastic and apathetic intern
+        at the Parks Department?
+      TrueAnswer: April
+      FalseAnswer:
+      - Leslie
+      - Ron
+      - Tom
+      Explanation: April Ludgate, played by Aubrey Plaza, is the sarcastic and apathetic
+        intern at the Parks Department in 'Parks and Recreation'.
+    - Question: Which sitcom features a group of friends hanging out at a coffee
+        shop called Central Perk?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Big Bang Theory
+      - How I Met Your Mother
+      - Seinfeld
+      Explanation: Friends revolves around a group of friends who frequently meet
+        at the coffee shop called Central Perk.
+    - Question: In 'Brooklyn Nine-Nine', who is the ambitious and competitive detective
+        known for her love of organizing?
+      TrueAnswer: Amy
+      FalseAnswer:
+      - Jake
+      - Terry
+      - Holt
+      Explanation: Amy Santiago, played by Melissa Fumero, is the ambitious and competitive
+        detective known for her love of organizing in 'Brooklyn Nine-Nine'.

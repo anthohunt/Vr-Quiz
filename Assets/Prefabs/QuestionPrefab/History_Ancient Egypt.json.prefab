@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5767523881772661272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6347357510981092792}
+  - component: {fileID: 5333495373656745578}
+  m_Layer: 0
+  m_Name: History_Ancient Egypt.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6347357510981092792
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5767523881772661272}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5333495373656745578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5767523881772661272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who was the pharaoh who built the Great Pyramid of Giza?
+      TrueAnswer: Khufu
+      FalseAnswer:
+      - Tutankhamun
+      - Ramses II
+      - Hatshepsut
+      Explanation: Khufu, also known as Cheops, was the pharaoh who commissioned
+        the construction of the Great Pyramid of Giza, one of the Seven Wonders of
+        the Ancient World.
+    - Question: What river was the lifeblood of Ancient Egypt?
+      TrueAnswer: Nile
+      FalseAnswer:
+      - Tigris
+      - Euphrates
+      - Indus
+      Explanation: The Nile River was crucial to the survival and prosperity of Ancient
+        Egypt, providing fertile soil for agriculture and transportation.
+    - Question: Which ancient Egyptian god was associated with the sun?
+      TrueAnswer: Ra
+      FalseAnswer:
+      - Osiris
+      - Isis
+      - Horus
+      Explanation: Ra, the sun god, was one of the most important deities in ancient
+        Egyptian mythology and was often depicted with a sun disk on his head.
+    - Question: What was the ancient Egyptian writing system called?
+      TrueAnswer: Hieroglyphics
+      FalseAnswer:
+      - Cuneiform
+      - Alphabet
+      - Kanji
+      Explanation: Hieroglyphics was the writing system used by ancient Egyptians,
+        consisting of pictorial symbols that represented words and sounds.
+    - Question: Who was the female pharaoh known for ruling as a man?
+      TrueAnswer: Hatshepsut
+      FalseAnswer:
+      - Cleopatra
+      - Nefertiti
+      - Nefertari
+      Explanation: Hatshepsut was a female pharaoh who took on the appearance and
+        regalia of a male ruler during her reign.
+    - Question: What was the purpose of the pyramids in Ancient Egypt?
+      TrueAnswer: Tombs
+      FalseAnswer:
+      - Temples
+      - Palaces
+      - Observatories
+      Explanation: The pyramids in Ancient Egypt were primarily built as tombs for
+        pharaohs and their families, serving as their final resting places.
+    - Question: Which ancient Egyptian queen was known for her beauty?
+      TrueAnswer: Cleopatra
+      FalseAnswer:
+      - Nefertiti
+      - Hatshepsut
+      - Nefertari
+      Explanation: Cleopatra, the last active pharaoh of Ancient Egypt, was renowned
+        for her beauty and her relationships with Julius Caesar and Mark Antony.
+    - Question: What was the main crop grown by ancient Egyptians?
+      TrueAnswer: Wheat
+      FalseAnswer:
+      - Rice
+      - Corn
+      - Barley
+      Explanation: Wheat was the main crop cultivated by ancient Egyptians, providing
+        a staple food source for the population.
+    - Question: Which ancient Egyptian god was depicted with the head of a jackal?
+      TrueAnswer: Anubis
+      FalseAnswer:
+      - Thoth
+      - Horus
+      - Osiris
+      Explanation: Anubis, the god of embalming and the afterlife, was often depicted
+        with the head of a jackal or a jackal-like animal.
+    - Question: What was the purpose of the Sphinx in Ancient Egypt?
+      TrueAnswer: Guardian
+      FalseAnswer:
+      - Tomb
+      - Temple
+      - Statue
+      Explanation: The Sphinx in Ancient Egypt was believed to serve as a guardian,
+        protecting the pyramids and temples from evil spirits and intruders.
+    - Question: Which ancient Egyptian queen was known for her famous bust?
+      TrueAnswer: Nefertiti
+      FalseAnswer:
+      - Cleopatra
+      - Hatshepsut
+      - Nefertari
+      Explanation: Nefertiti, the queen of Egypt and wife of Pharaoh Akhenaten, is
+        famous for her beautifully crafted bust, now displayed in Berlin.
+    - Question: What was the ancient Egyptian afterlife called?
+      TrueAnswer: Duat
+      FalseAnswer:
+      - Elysium
+      - Valhalla
+      - Hades
+      Explanation: The Duat was the ancient Egyptian concept of the afterlife, a
+        realm where the souls of the deceased would journey and be judged.
+    - Question: Which ancient Egyptian god was associated with mummification?
+      TrueAnswer: Osiris
+      FalseAnswer:
+      - Anubis
+      - Horus
+      - Ra
+      Explanation: Osiris, the god of the afterlife, was closely associated with
+        mummification and the resurrection of the dead.
+    - Question: What was the capital city of Ancient Egypt?
+      TrueAnswer: Memphis
+      FalseAnswer:
+      - Thebes
+      - Alexandria
+      - Luxor
+      Explanation: Memphis, located near the Nile River, served as the capital city
+        of Ancient Egypt for much of its history.
+    - Question: Which ancient Egyptian god was depicted with the head of a falcon?
+      TrueAnswer: Horus
+      FalseAnswer:
+      - Anubis
+      - Thoth
+      - Osiris
+      Explanation: Horus, the god of the sky and kingship, was often depicted with
+        the head of a falcon or as a falcon itself.
+    - Question: What was the purpose of the Book of the Dead in Ancient Egypt?
+      TrueAnswer: Guide
+      FalseAnswer:
+      - History
+      - Prayer
+      - Spell
+      Explanation: The Book of the Dead was a collection of spells and rituals intended
+        to guide the deceased through the afterlife.
+    - Question: Which ancient Egyptian queen was the wife of Ramses II?
+      TrueAnswer: Nefertari
+      FalseAnswer:
+      - Cleopatra
+      - Nefertiti
+      - Hatshepsut
+      Explanation: Nefertari was the principal wife of Ramses II, one of the most
+        powerful pharaohs of Ancient Egypt.
+    - Question: What was the ancient Egyptian calendar based on?
+      TrueAnswer: Lunar
+      FalseAnswer:
+      - Solar
+      - Gregorian
+      - Mayan
+      Explanation: The ancient Egyptian calendar was primarily based on the lunar
+        cycle, with 12 months of 30 days each and 5 additional festival days.
+    - Question: Which ancient Egyptian god was associated with wisdom and writing?
+      TrueAnswer: Thoth
+      FalseAnswer:
+      - Anubis
+      - Horus
+      - Osiris
+      Explanation: Thoth, the god of wisdom, writing, and knowledge, was often depicted
+        with the head of an ibis or as an ibis itself.
+    - Question: What was the purpose of the obelisks in Ancient Egypt?
+      TrueAnswer: Symbol
+      FalseAnswer:
+      - Tomb
+      - Marker
+      - Statue
+      Explanation: Obelisks in Ancient Egypt were erected as symbols of the sun god
+        Ra and to commemorate important events or individuals.

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le plus grand télescope radio au monde?",
+            "TrueAnswer": "FAST",
+            "FalseAnswer": [
+              "Arecibo",
+              "Green Bank",
+              "Lovell"
+            ],
+            "Explanation": "Le télescope radio sphérique à ouverture de cinq cents mètres (FAST) en Chine est le plus grand télescope radio à ouverture remplie au monde, surpassant Arecibo."
+          },
+          {
+            "Question": "Quel est le but principal d'un spectrographe en astronomie?",
+            "TrueAnswer": "Analyser la lumière",
+            "FalseAnswer": [
+              "Collecte d'échantillons d'astéroïdes",
+              "Détection des rayons cosmiques",
+              "Cartographie des surfaces planétaires"
+            ],
+            "Explanation": "Les spectrographes analysent la lumière en ses couleurs composantes, permettant aux astronomes d'étudier les compositions chimiques, les températures et les vitesses des objets célestes."
+          },
+          {
+            "Question": "Quel est le nom de la première exoplanète jamais découverte?",
+            "TrueAnswer": "51 Pegasi b",
+            "FalseAnswer": [
+              "Kepler-186f",
+              "HD 209458 b",
+              "TRAPPIST-1e"
+            ],
+            "Explanation": "Découvert en 1995, 51 Pegasi b était la première exoplanète confirmée en orbite autour d'une étoile de séquence principale, révolutionnant notre compréhension des systèmes planétaires au-delà du nôtre."
+          },
+          {
+            "Question": "Quel type de télescopes est utilisé pour étudier les objets faibles et lointains dans l'espace?",
+            "TrueAnswer": "Télescopes à réflexion",
+            "FalseAnswer": [
+              "Télescopes à réfraction",
+              "Télescopes radio",
+              "Télescopes à rayons X"
+            ],
+            "Explanation": "Les télescopes à réflexion, utilisant des miroirs, sont mieux capables de recueillir et de focaliser la lumière par rapport aux télescopes à réfraction, ce qui les rend idéaux pour l'étude des objets faibles et lointains."
+          },
+          {
+            "Question": "Quel est le phénomène où la lumière se plie en passant à travers un champ gravitationnel?",
+            "TrueAnswer": "Lentille gravitationnelle",
+            "FalseAnswer": [
+              "Réfraction de la lumière",
+              "Déviation des astéroïdes",
+              "Résonance magnétique"
+            ],
+            "Explanation": "La lentille gravitationnelle est un outil clé pour les astronomes afin d'étudier les galaxies lointaines et la matière noire, car la courbure de la lumière peut agir comme une loupe cosmique."
+          },
+          {
+            "Question": "Quel est le but d'un dispositif à couplage de charges (CCD) dans les observations astronomiques?",
+            "TrueAnswer": "Capturer des images",
+            "FalseAnswer": [
+              "Mesurer la température",
+              "Détecter les champs magnétiques",
+              "Enregistrer l'audio"
+            ],
+            "Explanation": "Les CCD sont les détecteurs principaux dans les télescopes modernes, convertissant la lumière en signaux électroniques pour produire des images numériques à analyser et étudier par les astronomes."
+          },
+          {
+            "Question": "Quel est le diamètre du miroir primaire du télescope spatial Hubble?",
+            "TrueAnswer": "2,4 mètres",
+            "FalseAnswer": [
+              "3,5 mètres",
+              "5 mètres",
+              "1 mètre"
+            ],
+            "Explanation": "Le miroir primaire du télescope spatial Hubble, d'un diamètre de 2,4 mètres, capture et concentre la lumière pour produire des images haute résolution d'objets célestes."
+          },
+          {
+            "Question": "Quel est le phénomène céleste lié à l'apparition de lumières vives et colorées dans les régions polaires de la Terre?",
+            "TrueAnswer": "Aurores",
+            "FalseAnswer": [
+              "Pluies de météores",
+              "Éclipses solaires",
+              "Queues de comètes"
+            ],
+            "Explanation": "Les aurores, telles que les aurores boréales et australes, sont causées par l'interaction des particules du vent solaire avec la magnétosphère de la Terre, produisant de superbes spectacles de lumière."
+          },
+          {
+            "Question": "Qu'est-ce qu'un pulsar, souvent appelé 'phare cosmique'?",
+            "TrueAnswer": "Étoile à neutrons en rotation",
+            "FalseAnswer": [
+              "Trou noir supermassif",
+              "Étoile géante rouge",
+              "Magnétar"
+            ],
+            "Explanation": "Les pulsars sont des étoiles à neutrons fortement magnétisées en rotation qui émettent des faisceaux de rayonnement électromagnétique, ressemblant aux flashes rythmiques d'un phare."
+          },
+          {
+            "Question": "Quel est le processus par lequel une étoile convertit l'hydrogène en hélium, libérant de l'énergie sous forme de lumière et de chaleur?",
+            "TrueAnswer": "Fusion nucléaire",
+            "FalseAnswer": [
+              "Fission nucléaire",
+              "Sublimation",
+              "Ionisation"
+            ],
+            "Explanation": "La fusion nucléaire alimente le cœur des étoiles, où la chaleur et la pression extrêmes amènent les atomes d'hydrogène à se combiner pour former de l'hélium, libérant une énorme quantité d'énergie."
+          },
+          {
+            "Question": "Quel instrument est utilisé pour mesurer la luminosité des étoiles et d'autres objets célestes?",
+            "TrueAnswer": "Photomètre",
+            "FalseAnswer": [
+              "Spectromètre",
+              "Chronomètre",
+              "Baromètre"
+            ],
+            "Explanation": "Les photomètres quantifient la sortie de lumière des étoiles et d'autres objets, fournissant des données cruciales aux astronomes pour étudier la luminosité variable et le comportement de ces corps célestes."
+          },
+          {
+            "Question": "Quel est l'objectif principal de l'imagerie directe en astronomie observationnelle?",
+            "TrueAnswer": "Visualiser les exoplanètes",
+            "FalseAnswer": [
+              "Étudier les amas d'étoiles",
+              "Cartographie des surfaces d'astéroïdes",
+              "Détecter les sursauts gamma"
+            ],
+            "Explanation": "L'imagerie directe vise à capturer des images réelles d'exoplanètes, permettant aux astronomes d'étudier directement leurs atmosphères et leurs propriétés, plutôt que de les déduire par des méthodes indirectes."
+          },
+          {
+            "Question": "Quel est le nom du télescope qui a découvert les restes d'une étoile explosée, la nébuleuse du Crabe?",
+            "TrueAnswer": "Hale Telescope de l'Observatoire Palomar",
+            "FalseAnswer": [
+              "Télescope spatial James Webb",
+              "Observatoire Keck",
+              "VLT (Très Grand Télescope)"
+            ],
+            "Explanation": "Le télescope Hale de l'observatoire Palomar a joué un rôle primordial dans la découverte de la nébuleuse du Crabe, fournissant des images détaillées des restes en expansion de cette explosion de supernova."
+          },
+          {
+            "Question": "Comment s'appelle l'étude des mouvements et des positions relatives des corps célestes?",
+            "TrueAnswer": "Mécanique céleste",
+            "FalseAnswer": [
+              "Astrophotographie",
+              "Géologie planétaire",
+              "Évolution stellaire"
+            ],
+            "Explanation": "La mécanique céleste se concentre sur la modélisation mathématique des interactions gravitationnelles entre les corps célestes, contribuant à notre compréhension de la dynamique orbitale et à la prédiction des événements célestes."
+          },
+          {
+            "Question": "Quels sont les deux principaux types d'observations astronomiques réalisées à l'aide d'observatoires terrestres?",
+            "TrueAnswer": "Photométrie et spectroscopie",
+            "FalseAnswer": [
+              "Radiométrie et astronomie micro-ondes",
+              "Polarimétrie et interférométrie",
+              "Astrométrie et planetologie"
+            ],
+            "Explanation": "La photométrie mesure la luminosité des objets célestes, tandis que la spectroscopie analyse leur lumière pour déterminer la composition, la température et le mouvement, tous deux cruciaux pour la recherche astronomique."
+          },
+          {
+            "Question": "Quel observatoire spatial est dédié à l'étude des phénomènes astrophysiques de haute énergie tels que les sursauts gamma et les trous noirs?",
+            "TrueAnswer": "Télescope spatial Fermi pour les rayons gamma",
+            "FalseAnswer": [
+              "Télescope spatial Hubble",
+              "Télescope spatial Spitzer",
+              "Observatoire X-ray Chandra"
+            ],
+            "Explanation": "Le télescope spatial Fermi pour les rayons gamma joue un rôle vital dans la détection et l'étude des sursauts gamma, offrant des aperçus sur les événements les plus énergétiques de l'univers et sur la nature des trous noirs."
+          },
+          {
+            "Question": "Quelle technologie est utilisée pour corriger la turbulence atmosphérique dans les télescopes terrestres?",
+            "TrueAnswer": "Optique adaptative",
+            "FalseAnswer": [
+              "Interférométrie radio",
+              "Spectroscopie infrarouge",
+              "Télémétrie laser"
+            ],
+            "Explanation": "Les systèmes d'optique adaptative utilisent des miroirs déformables pour contrer les effets de flou de l'atmosphère terrestre, permettant aux télescopes terrestres d'obtenir des images plus nettes et plus détaillées des objets célestes."
+          },
+          {
+            "Question": "Quel est le but de l'interférométrie en astronomie observationnelle?",
+            "TrueAnswer": "Combiner les signaux de plusieurs télescopes",
+            "FalseAnswer": [
+              "Détection des micro-ondes cosmiques",
+              "Cartographie des orbites planétaires",
+              "Classification des galaxies"
+            ],
+            "Explanation": "L'interférométrie consiste à combiner les signaux de télescopes séparés pour créer un télescope virtuel plus grand, améliorant la résolution et la sensibilité pour l'étude des détails fins des objets célestes."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'un coronographe dans les observations astronomiques?",
+            "TrueAnswer": "Bloquer la lumière d'une étoile",
+            "FalseAnswer": [
+              "Mesurer le flux de rayons cosmiques",
+              "Détecter les collisions d'astéroïdes",
+              "Étudier les éclipses lunaires"
+            ],
+            "Explanation": "Les coronographes créent une éclipse artificielle, bloquant la lumière intense des étoiles pour révéler des objets plus faibles à proximité, y compris les exoplanètes, les disques protoplanétaires et les galaxies lointaines."
+          },
+          {
+            "Question": "Quel pays abrite les observatoires du Mauna Kea, un site de renommée mondiale pour la recherche astronomique?",
+            "TrueAnswer": "États-Unis",
+            "FalseAnswer": [
+              "Australie",
+              "Chili",
+              "Russie"
+            ],
+            "Explanation": "Situés sur l'île d'Hawaï, les observatoires du Mauna Kea accueillent de nombreux télescopes et installations astronomiques, contribuant à des découvertes significatives et à des recherches en cours en astronomie."
+          }
+        ]
+      }
+    }
+  ]
+}

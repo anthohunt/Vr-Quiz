@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3275037045772945551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8478613613363223611}
+  - component: {fileID: 5993422051169127811}
+  m_Layer: 0
+  m_Name: Internet_Internet Trolls and Cyberbullying.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8478613613363223611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3275037045772945551}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5993422051169127811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3275037045772945551}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for someone who intentionally stirs up trouble online?
+      TrueAnswer: Internet troll
+      FalseAnswer:
+      - Social media influencer
+      - Online activist
+      - Digital marketer
+      Explanation: An internet troll is someone who deliberately provokes and upsets
+        others online for their own amusement.
+    - Question: What is the act of using the internet to harass or intimidate others?
+      TrueAnswer: Cyberbullying
+      FalseAnswer:
+      - Online shopping
+      - Social networking
+      - Digital advertising
+      Explanation: Cyberbullying refers to the use of electronic communication to
+        harm, threaten, or humiliate others.
+    - Question: Which of the following is a common motive for internet trolls?
+      TrueAnswer: Seeking attention
+      FalseAnswer:
+      - Promoting positivity
+      - Building relationships
+      - Sharing knowledge
+      Explanation: Many internet trolls engage in disruptive behavior to gain attention
+        and provoke reactions from others.
+    - Question: What is the term for a false online identity used by an internet
+        troll?
+      TrueAnswer: Sock puppet
+      FalseAnswer:
+      - Digital avatar
+      - Online alias
+      - Virtual persona
+      Explanation: A sock puppet is a fake online persona created by an internet
+        troll to deceive or manipulate others.
+    - Question: Which of the following is a common platform for internet trolls?
+      TrueAnswer: Social media
+      FalseAnswer:
+      - Online banking
+      - Email communication
+      - Search engines
+      Explanation: Social media platforms provide a wide audience and easy access
+        for internet trolls to spread their disruptive behavior.
+    - Question: What is the term for a group of internet trolls working together
+        to target someone?
+      TrueAnswer: Troll army
+      FalseAnswer:
+      - Digital squad
+      - Online alliance
+      - Virtual battalion
+      Explanation: A troll army is a coordinated group of internet trolls who collaborate
+        to harass or attack a specific target.
+    - Question: Which of the following is a common tactic used by internet trolls?
+      TrueAnswer: Flaming
+      FalseAnswer:
+      - Complimenting
+      - Supporting
+      - Educating
+      Explanation: Flaming is the act of posting hostile or insulting messages online
+        to provoke and upset others.
+    - Question: What is the term for the act of spreading false information online
+        to deceive others?
+      TrueAnswer: Disinformation
+      FalseAnswer:
+      - Information sharing
+      - Fact-checking
+      - Knowledge dissemination
+      Explanation: Disinformation involves intentionally spreading false or misleading
+        information to manipulate or deceive others.
+    - Question: Which of the following is a common consequence of cyberbullying?
+      TrueAnswer: Emotional distress
+      FalseAnswer:
+      - Physical fitness
+      - Intellectual growth
+      - Social popularity
+      Explanation: Cyberbullying can cause significant emotional distress, leading
+        to anxiety, depression, and other psychological effects.
+    - Question: What is the term for the act of excluding or ostracizing someone
+        online?
+      TrueAnswer: Digital exclusion
+      FalseAnswer:
+      - Online inclusion
+      - Virtual integration
+      - Digital acceptance
+      Explanation: Digital exclusion refers to intentionally excluding or isolating
+        someone from online communities or social interactions.
+    - Question: Which of the following is a common target of internet trolls and
+        cyberbullies?
+      TrueAnswer: Children and teenagers
+      FalseAnswer:
+      - Elderly individuals
+      - Professionals
+      - Celebrities
+      Explanation: Children and teenagers are often targeted by internet trolls and
+        cyberbullies due to their vulnerability and potential for emotional harm.
+    - Question: What is the term for the act of impersonating someone else online?
+      TrueAnswer: Identity theft
+      FalseAnswer:
+      - Digital authentication
+      - Online replication
+      - Virtual duplication
+      Explanation: Identity theft involves pretending to be someone else online,
+        often for malicious purposes or to deceive others.
+    - Question: Which of the following is a common characteristic of internet trolls?
+      TrueAnswer: Anonymity
+      FalseAnswer:
+      - Transparency
+      - Accountability
+      - Visibility
+      Explanation: Internet trolls often hide behind anonymity, allowing them to
+        engage in disruptive behavior without facing consequences or repercussions.
+    - Question: What is the term for the act of spreading rumors or gossip about
+        someone online?
+      TrueAnswer: Cyber rumor-mongering
+      FalseAnswer:
+      - Digital truth-telling
+      - Online fact-checking
+      - Virtual news-sharing
+      Explanation: Cyber rumor-mongering involves spreading false or unverified information
+        about someone online to damage their reputation or cause harm.
+    - Question: Which of the following is a common emotion experienced by victims
+        of cyberbullying?
+      TrueAnswer: Fear
+      FalseAnswer:
+      - Joy
+      - Excitement
+      - Contentment
+      Explanation: Victims of cyberbullying often experience fear, anxiety, and a
+        sense of insecurity due to the harassment and threats they receive online.
+    - Question: What is the term for the act of sharing someone's private or sensitive
+        information online without consent?
+      TrueAnswer: Doxing
+      FalseAnswer:
+      - Digital sharing
+      - Online collaboration
+      - Virtual disclosure
+      Explanation: Doxing involves publicly revealing and sharing someone's personal
+        or private information online without their permission.
+    - Question: Which of the following is a common strategy to combat internet trolls
+        and cyberbullying?
+      TrueAnswer: Block and report
+      FalseAnswer:
+      - Engage and argue
+      - Ignore and tolerate
+      - Encourage and support
+      Explanation: Blocking and reporting internet trolls and cyberbullies helps
+        limit their access to victims and allows platforms to take appropriate action.
+    - Question: What is the term for the act of manipulating or deceiving others
+        through online interactions?
+      TrueAnswer: Online manipulation
+      FalseAnswer:
+      - Digital honesty
+      - Virtual sincerity
+      - Online authenticity
+      Explanation: Online manipulation involves using deceptive tactics to influence
+        or control others during internet interactions.
+    - Question: Which of the following is a common effect of cyberbullying on academic
+        performance?
+      TrueAnswer: Decreased grades
+      FalseAnswer:
+      - Improved grades
+      - Unchanged grades
+      - Higher motivation
+      Explanation: Cyberbullying can negatively impact academic performance, leading
+        to decreased grades and a decline in overall educational achievement.
+    - Question: What is the term for the act of sending threatening or abusive messages
+        online?
+      TrueAnswer: Online harassment
+      FalseAnswer:
+      - Digital support
+      - Virtual encouragement
+      - Online admiration
+      Explanation: Online harassment involves sending harmful, threatening, or abusive
+        messages to someone with the intent to intimidate or harm.
+    - Question: Which of the following is a common characteristic of cyberbullying?
+      TrueAnswer: Persistent
+      FalseAnswer:
+      - Temporary
+      - Occasional
+      - Inconsistent
+      Explanation: Cyberbullying often involves persistent and repeated acts of harassment
+        or intimidation over an extended period of time.

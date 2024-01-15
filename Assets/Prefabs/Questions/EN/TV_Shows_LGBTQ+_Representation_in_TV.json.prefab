@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7099355900252926974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5310744392605528907}
+  - component: {fileID: 8915515919354733364}
+  m_Layer: 0
+  m_Name: TV_Shows_LGBTQ+_Representation_in_TV.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5310744392605528907
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7099355900252926974}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8915515919354733364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7099355900252926974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show features a transgender character played by Laverne
+        Cox?
+      TrueAnswer: Orange is the New Black
+      FalseAnswer:
+      - The L Word
+      - Queer as Folk
+      - Sense8
+      Explanation: Laverne Cox portrays Sophia Burset, a transgender woman, in the
+        acclaimed series 'Orange is the New Black,' bringing visibility to the transgender
+        community.
+    - Question: In 'The Fosters,' who is the adoptive son part of a gay couple?
+      TrueAnswer: Jude
+      FalseAnswer:
+      - Callie
+      - Mariana
+      - Brandon
+      Explanation: '''The Fosters'' features Jude as the adoptive son of a same-sex
+        couple, exploring LGBTQ+ family dynamics and fostering acceptance and understanding.'
+    - Question: Which show has an asexual character named Todd Chavez?
+      TrueAnswer: BoJack Horseman
+      FalseAnswer:
+      - Brooklyn Nine-Nine
+      - GLOW
+      - Euphoria
+      Explanation: Todd Chavez in 'BoJack Horseman' is a rare representation of asexual
+        identity, shedding light on a marginalized orientation within the LGBTQ+
+        community.
+    - Question: Who plays the bisexual character Rosa Diaz in 'Brooklyn Nine-Nine'?
+      TrueAnswer: Stephanie Beatriz
+      FalseAnswer:
+      - Chelsea Peretti
+      - Melissa Fumero
+      - Terry Crews
+      Explanation: Stephanie Beatriz's portrayal of Rosa Diaz in 'Brooklyn Nine-Nine'
+        has been celebrated for authentic and positive bisexual representation in
+        mainstream media.
+    - Question: In 'Supergirl,' what is the superhero identity of Nia Nal, a transgender
+        character?
+      TrueAnswer: Dreamer
+      FalseAnswer:
+      - Starfire
+      - Black Canary
+      - Power Girl
+      Explanation: Nia Nal, as Dreamer in 'Supergirl,' marks a significant step forward
+        in superhero storytelling by introducing a transgender superhero to television
+        audiences.

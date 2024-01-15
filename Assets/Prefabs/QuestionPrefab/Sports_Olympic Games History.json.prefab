@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7092533085634338837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4805162018300178228}
+  - component: {fileID: 2013987877845787694}
+  m_Layer: 0
+  m_Name: Sports_Olympic Games History.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4805162018300178228
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7092533085634338837}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2013987877845787694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7092533085634338837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country has won the most gold medals in Olympic history?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Germany
+      Explanation: The United States has won the most gold medals in Olympic history,
+        with a total of 1,022 as of 2021.
+    - Question: In which year were the first modern Olympic Games held?
+      TrueAnswer: 1896
+      FalseAnswer:
+      - 1900
+      - 1920
+      - 1936
+      Explanation: The first modern Olympic Games were held in 1896 in Athens, Greece.
+    - Question: Which city has hosted the most Olympic Games?
+      TrueAnswer: London
+      FalseAnswer:
+      - Tokyo
+      - Paris
+      - Los Angeles
+      Explanation: London has hosted the Olympic Games three times, in 1908, 1948,
+        and 2012.
+    - Question: Who is the most decorated Olympian of all time?
+      TrueAnswer: Michael Phelps
+      FalseAnswer:
+      - Usain Bolt
+      - Simone Biles
+      - Carl Lewis
+      Explanation: Michael Phelps, an American swimmer, holds the record for the
+        most Olympic medals with a total of 28.
+    - Question: Which country boycotted the 1980 Summer Olympics in Moscow?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Soviet Union
+      - China
+      - Germany
+      Explanation: The United States boycotted the 1980 Summer Olympics in Moscow
+        as a political protest against the Soviet invasion of Afghanistan.
+    - Question: Which sport has been a part of every modern Olympic Games?
+      TrueAnswer: Athletics
+      FalseAnswer:
+      - Swimming
+      - Gymnastics
+      - Cycling
+      Explanation: Athletics, also known as track and field, has been a part of every
+        modern Olympic Games since 1896.
+    - Question: Which country has won the most medals in Olympic basketball?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Soviet Union
+      - Spain
+      - Argentina
+      Explanation: The United States has won the most medals in Olympic basketball,
+        with a total of 23 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic soccer?
+      TrueAnswer: Hungary
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Argentina
+      Explanation: Hungary has won the most medals in Olympic soccer, with a total
+        of 3 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic tennis?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Spain
+      - Switzerland
+      - Serbia
+      Explanation: The United States has won the most medals in Olympic tennis, with
+        a total of 50 as of 2021.
+    - Question: Which country has won the most medals in Olympic swimming?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Australia
+      - China
+      - Russia
+      Explanation: The United States has won the most medals in Olympic swimming,
+        with a total of 553 as of 2021.
+    - Question: Which country has won the most medals in Olympic gymnastics?
+      TrueAnswer: Soviet Union
+      FalseAnswer:
+      - United States
+      - China
+      - Japan
+      Explanation: The Soviet Union has won the most medals in Olympic gymnastics,
+        with a total of 180 as of 2021.
+    - Question: Which country has won the most medals in Olympic wrestling?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - United States
+      - Iran
+      - Turkey
+      Explanation: Russia has won the most medals in Olympic wrestling, with a total
+        of 189 as of 2021.
+    - Question: Which country has won the most medals in Olympic boxing?
+      TrueAnswer: Cuba
+      FalseAnswer:
+      - United States
+      - Russia
+      - Kazakhstan
+      Explanation: Cuba has won the most medals in Olympic boxing, with a total of
+        73 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic weightlifting?
+      TrueAnswer: China
+      FalseAnswer:
+      - Russia
+      - United States
+      - Iran
+      Explanation: China has won the most medals in Olympic weightlifting, with a
+        total of 82 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic judo?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - France
+      - South Korea
+      - Brazil
+      Explanation: Japan has won the most medals in Olympic judo, with a total of
+        84 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic taekwondo?
+      TrueAnswer: South Korea
+      FalseAnswer:
+      - China
+      - United States
+      - Iran
+      Explanation: South Korea has won the most medals in Olympic taekwondo, with
+        a total of 19 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic archery?
+      TrueAnswer: South Korea
+      FalseAnswer:
+      - United States
+      - China
+      - Russia
+      Explanation: South Korea has won the most medals in Olympic archery, with a
+        total of 39 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic rowing?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Great Britain
+      - Germany
+      - Australia
+      Explanation: The United States has won the most medals in Olympic rowing, with
+        a total of 89 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic equestrian?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - United States
+      - Great Britain
+      - Netherlands
+      Explanation: Germany has won the most medals in Olympic equestrian, with a
+        total of 50 gold medals as of 2021.
+    - Question: Which country has won the most medals in Olympic sailing?
+      TrueAnswer: Great Britain
+      FalseAnswer:
+      - United States
+      - Australia
+      - Netherlands
+      Explanation: Great Britain has won the most medals in Olympic sailing, with
+        a total of 58 gold medals as of 2021.

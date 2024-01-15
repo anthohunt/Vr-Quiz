@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel langage de programmation est fréquemment utilisé pour le développement d'applications iOS?",
+            "TrueAnswer": "Swift",
+            "FalseAnswer": [
+              "Java",
+              "Python",
+              "C++"
+            ],
+            "Explanation": "Swift est un langage de programmation populaire pour le développement d'applications iOS, connu pour ses fonctionnalités de sécurité et sa syntaxe moderne."
+          },
+          {
+            "Question": "Que signifie API dans le contexte du développement d'applications?",
+            "TrueAnswer": "Interface de programmation d'application",
+            "FalseAnswer": [
+              "Interface de protocole avancée",
+              "Intégration de protocole d'application",
+              "Interaction de programme automatisée"
+            ],
+            "Explanation": "Une API est un ensemble de protocoles et d'outils pour le développement de logiciels, spécifiant comment les composants logiciels doivent interagir."
+          },
+          {
+            "Question": "Quelle est la taille maximale pour une application dans l'App Store d'Apple?",
+            "TrueAnswer": "4 Go",
+            "FalseAnswer": [
+              "2 Go",
+              "6 Go",
+              "8 Go"
+            ],
+            "Explanation": "La taille maximale d'une application pour l'App Store d'Apple est de 4 Go, incluant l'exécutable et tous les éléments."
+          },
+          {
+            "Question": "Quelle est la base de données principale utilisée pour le développement d'applications Android?",
+            "TrueAnswer": "SQLite",
+            "FalseAnswer": [
+              "MySQL",
+              "NoSQL",
+              "Oracle"
+            ],
+            "Explanation": "SQLite est un moteur de base de données SQL transactionnel et sans serveur principalement utilisé dans le développement d'applications Android."
+          },
+          {
+            "Question": "Quel est le but d'un framework d'application mobile tel que React Native?",
+            "TrueAnswer": "Développement multiplateforme",
+            "FalseAnswer": [
+              "Optimisation d'application native",
+              "Intégration côté serveur",
+              "Chiffrement des données"
+            ],
+            "Explanation": "React Native permet aux développeurs de construire des applications mobiles en utilisant JavaScript qui peuvent fonctionner à la fois sur les plateformes iOS et Android."
+          },
+          {
+            "Question": "Quel langage de programmation est principalement utilisé pour la construction d'applications Android?",
+            "TrueAnswer": "Java",
+            "FalseAnswer": [
+              "C#",
+              "Kotlin",
+              "Objective-C"
+            ],
+            "Explanation": "Java est le langage de programmation traditionnel et principal utilisé pour le développement d'applications Android en raison de sa polyvalence et de son support de longue date."
+          },
+          {
+            "Question": "Que signifie SDK dans le contexte du développement d'applications?",
+            "TrueAnswer": "Kit de développement logiciel",
+            "FalseAnswer": [
+              "Noyau de développement système",
+              "Kit de données source",
+              "Clé de développement de sécurité"
+            ],
+            "Explanation": "Un SDK est un ensemble d'outils et de bibliothèques conçus spécifiquement pour créer des applications pour une plateforme ou un environnement de développement spécifique."
+          },
+          {
+            "Question": "Quelle est la principale différence entre les applications web mobiles et les applications mobiles natives?",
+            "TrueAnswer": "Accès aux fonctionnalités du dispositif",
+            "FalseAnswer": [
+              "Performance",
+              "Temps de développement",
+              "Interface utilisateur"
+            ],
+            "Explanation": "Les applications mobiles natives ont accès aux fonctionnalités du dispositif telles que l'appareil photo et le GPS, contrairement aux applications web, qui sont limitées en termes d'accès au matériel."
+          },
+          {
+            "Question": "Quel rôle joue le fichier de manifeste dans le développement d'applications mobiles pour Android?",
+            "TrueAnswer": "Décrit les informations essentielles sur l'application",
+            "FalseAnswer": [
+              "Gère les requêtes réseau",
+              "Gère l'authentification des utilisateurs",
+              "Optimise les performances de l'application"
+            ],
+            "Explanation": "Le fichier AndroidManifest.xml contient des informations essentielles sur l'application, telles que son nom de package, les permissions et les composants déclarés."
+          },
+          {
+            "Question": "Quelle méthode de test évalue le comportement d'une application mobile en simulant les interactions des utilisateurs?",
+            "TrueAnswer": "Test d'interface utilisateur/UX",
+            "FalseAnswer": [
+              "Test de charge",
+              "Test d'intégration",
+              "Test de compatibilité"
+            ],
+            "Explanation": "Le test d'interface utilisateur/UX évalue comment les utilisateurs interagissent avec l'interface de l'application pour identifier et résoudre les problèmes de conception et d'utilisabilité."
+          },
+          {
+            "Question": "Dans le développement d'applications mobiles, quelle est une méthode populaire pour sécuriser les données des utilisateurs lors de la transmission?",
+            "TrueAnswer": "Chiffrement SSL/TLS",
+            "FalseAnswer": [
+              "Algorithme de hachage",
+              "Rotation des identifiants",
+              "Liste blanche IP"
+            ],
+            "Explanation": "Le chiffrement SSL/TLS sécurise les données transmises entre l'application et le serveur, les protégeant contre l'interception et la falsification."
+          },
+          {
+            "Question": "Que signifie APK dans le contexte de la distribution d'applications Android?",
+            "TrueAnswer": "Package d'application Android",
+            "FalseAnswer": [
+              "Clé de programmation d'application",
+              "Kit de provisionnement avancé",
+              "Gestionnaire de package automatisé"
+            ],
+            "Explanation": "Un fichier APK est le format de fichier de package utilisé pour distribuer et installer des applications Android sur les appareils, similaire aux fichiers .exe sur Windows."
+          },
+          {
+            "Question": "Quel est le rôle de la console Google Play dans le développement d'applications?",
+            "TrueAnswer": "Gestion et distribution d'applications",
+            "FalseAnswer": [
+              "Analyse de code et optimisation",
+              "Collecte de commentaires des utilisateurs",
+              "Monétisation des annonces"
+            ],
+            "Explanation": "La console Google Play permet aux développeurs de gérer les applications, de surveiller les performances et de distribuer des mises à jour et de nouvelles versions sur le Play Store."
+          },
+          {
+            "Question": "Quelle est une approche courante pour la monétisation des applications mobiles gratuites?",
+            "TrueAnswer": "Publicités intégrées à l'application",
+            "FalseAnswer": [
+              "Modèle d'abonnement",
+              "Paiement au téléchargement",
+              "Achats intégrés à l'application"
+            ],
+            "Explanation": "De nombreuses applications mobiles gratuites génèrent des revenus grâce à des publicités intégrées à l'application, où les annonceurs paient pour afficher des annonces aux utilisateurs de l'application."
+          },
+          {
+            "Question": "Quel est le rôle du fichier Info.plist dans le développement d'applications iOS?",
+            "TrueAnswer": "Configuration et paramètres du système",
+            "FalseAnswer": [
+              "Disposition de l'interface utilisateur",
+              "Gestion du stockage des données",
+              "Protocoles de communication réseau"
+            ],
+            "Explanation": "Le fichier Info.plist contient des informations de configuration pour l'application, notamment des paramètres système, des autorisations et des orientations de dispositifs prises en charge."
+          },
+          {
+            "Question": "Quelle est l'exigence minimale pour qu'une application soit considérée comme une Progressive Web App (PWA)?",
+            "TrueAnswer": "Fonctionne hors ligne",
+            "FalseAnswer": [
+              "Prend en charge les notifications push",
+              "Utilise un langage de programmation particulier",
+              "Nécessite une authentification de l'utilisateur"
+            ],
+            "Explanation": "Une caractéristique clé des PWA est la capacité à fonctionner hors ligne, permettant aux utilisateurs d'accéder au contenu de l'application même lorsqu'ils ne sont pas connectés à Internet."
+          },
+          {
+            "Question": "Quelle est une étape essentielle dans le développement d'applications pour assurer l'accessibilité aux utilisateurs handicapés?",
+            "TrueAnswer": "Implémentation d'une conception inclusive",
+            "FalseAnswer": [
+              "Optimisation des performances",
+              "Intégration des médias sociaux",
+              "Implémentation de microtransactions"
+            ],
+            "Explanation": "La conception inclusive garantit que les applications sont accessibles et utilisables par les personnes handicapées, améliorant l'expérience utilisateur globale pour tous les utilisateurs."
+          },
+          {
+            "Question": "Quel est le principal avantage de l'utilisation de plateformes de développement d'applications mobiles basées sur le cloud?",
+            "TrueAnswer": "Scalabilité et flexibilité",
+            "FalseAnswer": [
+              "Mesures de sécurité renforcées",
+              "Fonctionnalité hors ligne",
+              "Compatibilité avec les systèmes hérités"
+            ],
+            "Explanation": "Les plateformes basées sur le cloud offrent une scalabilité et une flexibilité, permettant aux développeurs de construire, tester et déployer efficacement des applications mobiles tout en s'adaptant aux demandes variées des utilisateurs."
+          },
+          {
+            "Question": "Quel est le rôle d'un IDE dans le développement d'applications mobiles?",
+            "TrueAnswer": "Environnement de développement intégré",
+            "FalseAnswer": [
+              "Chiffrement des données sur Internet",
+              "Environnement de développement interactif",
+              "Environnement de débogage intégré"
+            ],
+            "Explanation": "Un IDE est une application logicielle qui offre des fonctionnalités complètes pour le développement d'applications, notamment l'édition de code, le débogage et la construction automatique."
+          },
+          {
+            "Question": "Quelle est une considération importante lors de la conception de l'interface utilisateur pour une application mobile?",
+            "TrueAnswer": "Taille et résolution de l'écran",
+            "FalseAnswer": [
+              "Vitesse de chargement de l'application",
+              "Architecture de base de données en backend",
+              "Logique de routage côté serveur"
+            ],
+            "Explanation": "Concevoir pour différentes tailles et résolutions d'écran garantit que l'interface utilisateur soit cohérente et attrayante visuellement sur différents appareils."
+          }
+        ]
+      }
+    }
+  ]
+}

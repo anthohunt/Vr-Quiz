@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8766547358780742383
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1285998955634808592}
+  - component: {fileID: 2700233415161648414}
+  m_Layer: 0
+  m_Name: Internet_Internet_Regulation_and_Governance.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1285998955634808592
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8766547358780742383}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2700233415161648414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8766547358780742383}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of net neutrality?
+      TrueAnswer: Equal access for all
+      FalseAnswer:
+      - Promote internet speed
+      - Limit online content
+      - Block certain websites
+      Explanation: Net neutrality ensures that all internet traffic is treated equally,
+        preventing internet service providers from blocking or slowing down specific
+        content or websites.
+    - Question: Which organization oversees domain name registration?
+      TrueAnswer: ICANN
+      FalseAnswer:
+      - ISOC
+      - IETF
+      - IEEE
+      Explanation: The Internet Corporation for Assigned Names and Numbers (ICANN)
+        is responsible for coordinating the maintenance and procedures of several
+        databases related to the namespaces and numerical spaces of the internet,
+        ensuring the network's stable and secure operation.
+    - Question: What does GDPR regulate regarding internet privacy?
+      TrueAnswer: Data protection
+      FalseAnswer:
+      - Online advertising
+      - Content moderation
+      - Network infrastructure
+      Explanation: The General Data Protection Regulation (GDPR) is a regulation
+        that aims to give individuals control over their personal data and to simplify
+        the regulatory environment for international business by unifying the regulation
+        within the EU.
+    - Question: Who is responsible for enforcing the Children's Online Privacy Protection
+        Act (COPPA)?
+      TrueAnswer: FTC
+      FalseAnswer:
+      - FCC
+      - CDC
+      - EPA
+      Explanation: The Federal Trade Commission (FTC) is responsible for enforcing
+        COPPA, which requires websites to obtain parental consent before collecting
+        personal information from children under 13.
+    - Question: What is the purpose of the Digital Millennium Copyright Act (DMCA)?
+      TrueAnswer: Protect digital content
+      FalseAnswer:
+      - Regulate internet speed
+      - Enforce online censorship
+      - Tax internet transactions
+      Explanation: The DMCA provides a safe harbor for online service providers by
+        protecting them from liability for copyright infringement by users, as long
+        as they promptly remove infringing content at the request of the copyright
+        owner.
+    - Question: Which entity is responsible for allocating IP addresses?
+      TrueAnswer: IANA
+      FalseAnswer:
+      - ISO
+      - IEEE
+      - ICANN
+      Explanation: The Internet Assigned Numbers Authority (IANA) is a department
+        of ICANN responsible for coordinating the global pool of IP and AS (Autonomous
+        System) numbers, providing unique identifiers and maintaining the stability
+        and security of the internet's global inter-domain routing system.
+    - Question: What is the purpose of the Communications Decency Act (CDA)?
+      TrueAnswer: Regulate online content
+      FalseAnswer:
+      - Promote internet access
+      - Enforce data encryption
+      - Tax internet transactions
+      Explanation: The CDA regulates indecent or obscene material on the internet
+        to protect minors from accessing harmful content, particularly through the
+        use of parental control software and educational tools.
+    - Question: Who oversees the regulation of radio and television broadcasting?
+      TrueAnswer: FCC
+      FalseAnswer:
+      - FTC
+      - NTIA
+      - FBI
+      Explanation: The Federal Communications Commission (FCC) is an independent
+        agency responsible for regulating interstate and international communications
+        by radio, television, wire, satellite, and cable in the United States.
+    - Question: What is the primary goal of censoring the internet in some countries?
+      TrueAnswer: Control information
+      FalseAnswer:
+      - Promote free speech
+      - Encourage online privacy
+      - Increase internet speed
+      Explanation: Censorship aims to control and restrict access to certain information
+        or suppress viewpoints that are deemed objectionable or potentially harmful
+        to the ruling government.
+    - Question: Which international organization deals with internet governance issues?
+      TrueAnswer: UN
+      FalseAnswer:
+      - EU
+      - NATO
+      - WHO
+      Explanation: The United Nations (UN) addresses internet governance issues through
+        various methods to ensure open, secure, and stable functioning of the internet
+        and to address challenges such as cybersecurity, human rights, and economic
+        development in the digital age.
+    - Question: What does the term 'throttling' refer to in internet regulation?
+      TrueAnswer: Bandwidth restriction
+      FalseAnswer:
+      - Hyper-speed internet
+      - Data encryption
+      - Content filtering
+      Explanation: Throttling involves intentional slowing of internet service by
+        an internet service provider, usually for specific websites or online services,
+        as a means of regulating network traffic or prioritizing certain content.
+    - Question: Which policy aims to protect consumer privacy in California?
+      TrueAnswer: CCPA
+      FalseAnswer:
+      - HIPPA
+      - FERPA
+      - COPPA
+      Explanation: The California Consumer Privacy Act (CCPA) enhances privacy rights
+        and consumer protection for residents of California, giving consumers more
+        control over the personal information that businesses collect about them.
+    - Question: Who establishes technical standards for the internet's operation?
+      TrueAnswer: IETF
+      FalseAnswer:
+      - IEEE
+      - ISO
+      - ITC
+      Explanation: The Internet Engineering Task Force (IETF) develops and promotes
+        voluntary internet standards, in particular the standards that comprise the
+        Internet protocol suite (TCP/IP) and other related standards.
+    - Question: What does the Telecommunications Act of 1996 regulate?
+      TrueAnswer: Communication services
+      FalseAnswer:
+      - Advertising practices
+      - Antitrust legislation
+      - Environmental regulations
+      Explanation: The Act aims to promote competition and reduce regulation in order
+        to secure lower prices and higher quality services for American telecommunications
+        consumers, while encouraging innovation and investment in telecommunications
+        infrastructure.
+    - Question: What is the main purpose of the Electronic Communications Privacy
+        Act (ECPA)?
+      TrueAnswer: Protect electronic communications
+      FalseAnswer:
+      - Monitor internet usage
+      - Tax online transactions
+      - Subsidize broadband internet
+      Explanation: ECPA sets the standards for when the government can access private
+        and sensitive information, ensuring the secure and private transmission of
+        electronic communications, like emails or online messages, from unauthorized
+        interception or disclosure.
+    - Question: Who manages the assignment of top-level domain names?
+      TrueAnswer: IANA
+      FalseAnswer:
+      - ICANN
+      - IETF
+      - ISOC
+      Explanation: The Internet Assigned Numbers Authority (IANA) manages the assignment
+        of DNS root zone and top-level domain names, ensuring the global coordination
+        of the DNS root, IP addressing, and other internet protocol resources.
+    - Question: What legislation allows authorities to monitor communications across
+        networks?
+      TrueAnswer: USA PATRIOT Act
+      FalseAnswer:
+      - ACA
+      - FOIA
+      - HIPAA
+      Explanation: The USA PATRIOT Act expanded the authority of law enforcement
+        and intelligence agencies to monitor and intercept electronic communications,
+        including internet communications, in order to combat terrorism and other
+        related threats to national security.
+    - Question: Who develops and promotes internet standards?
+      TrueAnswer: IETF
+      FalseAnswer:
+      - IEEE
+      - ISOC
+      - ICANN
+      Explanation: The Internet Engineering Task Force (IETF) develops and promotes
+        voluntary internet standards, including the standards that comprise the Internet
+        protocol suite (TCP/IP) and other related standards for the internet's stable
+        and secure operation.
+    - Question: What is the primary goal of internet governance?
+      TrueAnswer: Ensure stable and secure operation
+      FalseAnswer:
+      - Maximize internet speed
+      - Regulate content censorship
+      - Promote online anonymity
+      Explanation: Internet governance aims to ensure the stable and secure operation
+        of the internet, addressing technical, legal, economic, and public policy
+        issues to facilitate global interconnectivity and enhance user trust and
+        confidence in the digital environment.

@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1617532334076269865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4115180078234847679}
+  - component: {fileID: 6812443232800146851}
+  m_Layer: 0
+  m_Name: Literature_World Mythology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4115180078234847679
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617532334076269865}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6812443232800146851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1617532334076269865}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of 'Pride and Prejudice'?
+      TrueAnswer: Jane Austen
+      FalseAnswer:
+      - Emily Bronte
+      - Charlotte Bronte
+      - Virginia Woolf
+      Explanation: '''Pride and Prejudice'' was written by Jane Austen and published
+        in 1813.'
+    - Question: Which epic poem tells the story of the Trojan War?
+      TrueAnswer: The Iliad
+      FalseAnswer:
+      - The Odyssey
+      - Beowulf
+      - Paradise Lost
+      Explanation: The Iliad, written by Homer, narrates the events of the Trojan
+        War.
+    - Question: Who wrote the play 'Romeo and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - George Bernard Shaw
+      - Arthur Miller
+      Explanation: '''Romeo and Juliet'' is a tragedy written by William Shakespeare
+        in the late 16th century.'
+    - Question: Which ancient Greek poet wrote 'The Odyssey'?
+      TrueAnswer: Homer
+      FalseAnswer:
+      - Sophocles
+      - Euripides
+      - Aristophanes
+      Explanation: Homer, an ancient Greek poet, is credited with writing the epic
+        poem 'The Odyssey'.
+    - Question: Who is the author of 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - Mark Twain
+      - F. Scott Fitzgerald
+      - John Steinbeck
+      Explanation: '''To Kill a Mockingbird'' was written by Harper Lee and published
+        in 1960.'
+    - Question: Which novel features the character Holden Caulfield?
+      TrueAnswer: The Catcher in the Rye
+      FalseAnswer:
+      - 1984
+      - The Great Gatsby
+      - Moby-Dick
+      Explanation: Holden Caulfield is the protagonist in the novel 'The Catcher
+        in the Rye' by J.D. Salinger.
+    - Question: Who wrote the play 'Hamlet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Arthur Miller
+      - Tennessee Williams
+      - Samuel Beckett
+      Explanation: '''Hamlet'' is a tragedy written by William Shakespeare, believed
+        to be written between 1599 and 1601.'
+    - Question: Which author wrote the 'Harry Potter' series?
+      TrueAnswer: J.K. Rowling
+      FalseAnswer:
+      - Stephen King
+      - George R.R. Martin
+      - J.R.R. Tolkien
+      Explanation: J.K. Rowling is the author of the popular 'Harry Potter' series,
+        first published in 1997.
+    - Question: Who is the author of '1984'?
+      TrueAnswer: George Orwell
+      FalseAnswer:
+      - Aldous Huxley
+      - Ray Bradbury
+      - Kurt Vonnegut
+      Explanation: '''1984'' was written by George Orwell and published in 1949,
+        depicting a dystopian society.'
+    - Question: Which novel features the character Jay Gatsby?
+      TrueAnswer: The Great Gatsby
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Catcher in the Rye
+      Explanation: Jay Gatsby is a central character in the novel 'The Great Gatsby'
+        by F. Scott Fitzgerald.
+    - Question: Who wrote the play 'Macbeth'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Anton Chekhov
+      - Henrik Ibsen
+      - Oscar Wilde
+      Explanation: '''Macbeth'' is a tragedy written by William Shakespeare, believed
+        to be written in 1606.'
+    - Question: Which author wrote 'The Lord of the Rings' trilogy?
+      TrueAnswer: J.R.R. Tolkien
+      FalseAnswer:
+      - C.S. Lewis
+      - George R.R. Martin
+      - Terry Pratchett
+      Explanation: J.R.R. Tolkien is the author of 'The Lord of the Rings' trilogy,
+        published between 1954 and 1955.
+    - Question: Who is the author of 'The Canterbury Tales'?
+      TrueAnswer: Geoffrey Chaucer
+      FalseAnswer:
+      - John Milton
+      - William Wordsworth
+      - Samuel Taylor Coleridge
+      Explanation: '''The Canterbury Tales'' was written by Geoffrey Chaucer in the
+        late 14th century.'
+    - Question: Which novel features the character Atticus Finch?
+      TrueAnswer: To Kill a Mockingbird
+      FalseAnswer:
+      - The Great Gatsby
+      - Moby-Dick
+      - The Catcher in the Rye
+      Explanation: Atticus Finch is a central character in the novel 'To Kill a Mockingbird'
+        by Harper Lee.
+    - Question: Who wrote the play 'Othello'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Arthur Miller
+      - Tennessee Williams
+      - Samuel Beckett
+      Explanation: '''Othello'' is a tragedy written by William Shakespeare, believed
+        to be written in 1603.'
+    - Question: Which author wrote 'The Odyssey'?
+      TrueAnswer: Homer
+      FalseAnswer:
+      - Sophocles
+      - Euripides
+      - Aristophanes
+      Explanation: Homer, an ancient Greek poet, is credited with writing the epic
+        poem 'The Odyssey'.
+    - Question: Who is the author of 'Jane Eyre'?
+      TrueAnswer: Charlotte Bronte
+      FalseAnswer:
+      - Emily Bronte
+      - Jane Austen
+      - Virginia Woolf
+      Explanation: '''Jane Eyre'' was written by Charlotte Bronte and published in
+        1847.'
+    - Question: Which novel features the character Captain Ahab?
+      TrueAnswer: Moby-Dick
+      FalseAnswer:
+      - Pride and Prejudice
+      - The Great Gatsby
+      - The Catcher in the Rye
+      Explanation: Captain Ahab is the obsessed captain in the novel 'Moby-Dick'
+        by Herman Melville.
+    - Question: Who wrote the play 'Romeo and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - George Bernard Shaw
+      - Arthur Miller
+      Explanation: '''Romeo and Juliet'' is a tragedy written by William Shakespeare
+        in the late 16th century.'
+    - Question: Which author wrote 'The Divine Comedy'?
+      TrueAnswer: Dante Alighieri
+      FalseAnswer:
+      - Miguel de Cervantes
+      - Leo Tolstoy
+      - Fyodor Dostoevsky
+      Explanation: '''The Divine Comedy'' was written by Dante Alighieri in the 14th
+        century, depicting the journey through Hell, Purgatory, and Heaven.'

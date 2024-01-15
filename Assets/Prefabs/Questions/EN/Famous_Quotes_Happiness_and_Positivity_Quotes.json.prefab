@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3323713151308442935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7412077747444062158}
+  - component: {fileID: 1182352692876143021}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Happiness_and_Positivity_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7412077747444062158
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3323713151308442935}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1182352692876143021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3323713151308442935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Mark Zuckerberg
+      - Elon Musk
+      - Bill Gates
+      Explanation: Steve Jobs, co-founder of Apple Inc., famously believed that passion
+        for one's work leads to exceptional achievements. He articulated this in
+        various interviews and speeches.
+    - Question: According to Dalai Lama, what is the purpose of our lives?
+      TrueAnswer: To be happy
+      FalseAnswer:
+      - To achieve success
+      - To find love
+      - To gain wealth
+      Explanation: The Dalai Lama, spiritual leader of Tibetan Buddhism, emphasizes
+        the pursuit of happiness as a fundamental goal for all individuals, promoting
+        inner peace and compassion.
+    - Question: Who said, 'Happiness depends upon ourselves'?
+      TrueAnswer: Aristotle
+      FalseAnswer:
+      - Socrates
+      - Plato
+      - Confucius
+      Explanation: Aristotle, the ancient Greek philosopher, stressed the internal
+        nature of happiness, asserting that personal choices and actions greatly
+        influence one's own happiness.
+    - Question: What did Bob Marley believe is better than silver and gold?
+      TrueAnswer: Happiness
+      FalseAnswer:
+      - Fame
+      - Power
+      - Health
+      Explanation: Bob Marley, the legendary reggae musician, conveyed the message
+        that genuine happiness surpasses material possessions, highlighting its intrinsic
+        value and significance in life.
+    - Question: According to Albert Camus, what is the most important thing in life?
+      TrueAnswer: To be happy
+      FalseAnswer:
+      - To seek knowledge
+      - To achieve immortality
+      - To find love
+      Explanation: Albert Camus, the influential existentialist philosopher, asserted
+        that the pursuit of happiness holds ultimate significance in the face of
+        life's inherent absurdity and uncertainties.

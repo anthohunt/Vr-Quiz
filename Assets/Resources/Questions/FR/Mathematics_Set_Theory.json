@@ -1,0 +1,170 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la cardinalité de l'ensemble vide?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "1",
+              "Infini",
+              "Indéfini"
+            ],
+            "Explanation": "La cardinalité de l'ensemble vide, notée comme ∅, est zéro, car il ne contient aucun élément."
+          },
+          {
+            "Question": "Quel symbole représente un sous-ensemble en théorie des ensembles?",
+            "TrueAnswer": "⊆",
+            "FalseAnswer": [
+              "∪",
+              "∩",
+              "∖"
+            ],
+            "Explanation": "Le symbole ⊆ représente un sous-ensemble en théorie des ensembles, ce qui indique qu'un ensemble est un sous-ensemble ou égal à un autre ensemble."
+          },
+          {
+            "Question": "Quel est l'ensemble des parties d'un ensemble avec 3 éléments?",
+            "TrueAnswer": "8",
+            "FalseAnswer": [
+              "3",
+              "12",
+              "5"
+            ],
+            "Explanation": "L'ensemble des parties d'un ensemble avec n éléments a 2^n sous-ensembles. Par conséquent, l'ensemble des parties d'un ensemble avec 3 éléments est 2^3 = 8."
+          },
+          {
+            "Question": "En théorie des ensembles, qu'est-ce que le complément d'un ensemble A inclut?",
+            "TrueAnswer": "Les éléments non présents dans A",
+            "FalseAnswer": [
+              "Tous les éléments",
+              "Ensemble vide",
+              "Intersection avec A"
+            ],
+            "Explanation": "Le complément d'un ensemble A inclut tous les éléments qui ne sont pas dans l'ensemble A dans l'ensemble universel."
+          },
+          {
+            "Question": "Quelle est l'union des ensembles {1, 2, 3} et {3, 4, 5}?",
+            "TrueAnswer": "{1, 2, 3, 4, 5}",
+            "FalseAnswer": [
+              "{1, 2, 3}",
+              "{3}",
+              "{1, 2, 4, 5}"
+            ],
+            "Explanation": "L'union des ensembles A et B contient tous les éléments qui sont dans A, dans B, ou dans les deux ensembles."
+          },
+          {
+            "Question": "Combien de sous-ensembles propres un ensemble avec 4 éléments a-t-il?",
+            "TrueAnswer": "15",
+            "FalseAnswer": [
+              "4",
+              "8",
+              "16"
+            ],
+            "Explanation": "Un sous-ensemble propre d'un ensemble n'inclut pas l'ensemble lui-même, donc un ensemble avec n éléments a 2^n - 1 sous-ensembles propres."
+          },
+          {
+            "Question": "Quelle opération ensembliste donne comme résultat l'ensemble vide lorsque les ensembles sont disjoints?",
+            "TrueAnswer": "Intersection",
+            "FalseAnswer": [
+              "Union",
+              "Complément",
+              "Produit cartésien"
+            ],
+            "Explanation": "Lorsque deux ensembles sont disjoints (n'ont aucun élément en commun), leur intersection donne comme résultat l'ensemble vide."
+          },
+          {
+            "Question": "Quelle est l'intersection des ensembles {1, 2, 3} et {2, 3, 4}?",
+            "TrueAnswer": "{2, 3}",
+            "FalseAnswer": [
+              "{1, 2, 3, 4}",
+              "{2, 3, 4}",
+              "{3}"
+            ],
+            "Explanation": "L'intersection des ensembles A et B contient uniquement les éléments qui sont à la fois dans l'ensemble A et dans l'ensemble B."
+          },
+          {
+            "Question": "Quel est un sous-ensemble propre de l'ensemble des nombres naturels?",
+            "TrueAnswer": "Nombres pairs",
+            "FalseAnswer": [
+              "Nombres premiers",
+              "Entiers négatifs",
+              "Nombres entiers"
+            ],
+            "Explanation": "Les nombres pairs sont un sous-ensemble propre des nombres naturels, car ils sont un sous-ensemble et ne sont pas égaux à l'ensemble des nombres naturels."
+          },
+          {
+            "Question": "Quel est le produit cartésien des ensembles {a, b} et {1, 2}?",
+            "TrueAnswer": "{(a, 1), (a, 2), (b, 1), (b, 2)}",
+            "FalseAnswer": [
+              "{(a, b), (1, 2)}",
+              "{a, 1, b, 2}",
+              "{(a, 1)}"
+            ],
+            "Explanation": "Le produit cartésien des ensembles A et B est l'ensemble de tous les paires ordonnées possibles (a, b) où a provient de A et b provient de B."
+          },
+          {
+            "Question": "Combien d'éléments sont présents dans l'ensemble {x ∊ N: x < 5}?",
+            "TrueAnswer": "4",
+            "FalseAnswer": [
+              "5",
+              "∞",
+              "3"
+            ],
+            "Explanation": "L'ensemble {x ∊ N: x < 5} contient les nombres naturels inférieurs à 5, qui sont 1, 2, 3 et 4, ce qui donne 4 éléments."
+          },
+          {
+            "Question": "Quel est l'union disjoints des ensembles {1, 2} et {3, 4}?",
+            "TrueAnswer": "{(1, 1), (2, 1), (3, 2), (4, 2)}",
+            "FalseAnswer": [
+              "{(1, 2), (3, 4)}",
+              "{1, 2, 3, 4}",
+              "{(1, 1), (1, 2), (2, 1), (2, 2)}"
+            ],
+            "Explanation": "L'union disjoints des ensembles A et B est l'union des ensembles avec des éléments distincts marqués par leurs ensembles d'origine."
+          },
+          {
+            "Question": "Quelle est la différence entre les ensembles {1, 2, 3} et {3, 4, 5}?",
+            "TrueAnswer": "{1, 2}",
+            "FalseAnswer": [
+              "{1, 2, 3, 4, 5}",
+              "{4, 5}",
+              "{3}"
+            ],
+            "Explanation": "La différence entre les ensembles A et B contient les éléments qui sont dans A mais pas dans B."
+          },
+          {
+            "Question": "Quel est le sous-ensemble propre de l'ensemble des nombres entiers?",
+            "TrueAnswer": "Nombres entiers positifs",
+            "FalseAnswer": [
+              "Nombres rationnels",
+              "Nombres naturels",
+              "Nombres entiers"
+            ],
+            "Explanation": "Les nombres entiers positifs forment un sous-ensemble propre de l'ensemble des nombres entiers, car ils sont un sous-ensemble et ne sont pas égaux à l'ensemble des nombres entiers."
+          },
+          {
+            "Question": "Quelle est la différence symétrique des ensembles {a, b, c} et {b, c, d}?",
+            "TrueAnswer": "{a, d}",
+            "FalseAnswer": [
+              "{b, c}",
+              "{a, b, c, d}",
+              "{b, c, d}"
+            ],
+            "Explanation": "La différence symétrique des ensembles A et B contient les éléments présents soit dans A, soit dans B, mais pas dans les deux, ce qui donne l'ensemble {a, d}."
+          },
+          {
+            "Question": "Quelle est la différence entre les ensembles {1, 2, 3} et {2, 3, 4}?",
+            "TrueAnswer": "{1}",
+            "FalseAnswer": [
+              "{2, 3}",
+              "{3, 4}",
+              "{1, 2, 3, 4}"
+            ],
+            "Explanation": "La différence entre les ensembles A et B contient les éléments qui sont présents dans A mais pas dans B, donnant ainsi l'ensemble {1}."
+          }
+        ]
+      }
+    }
+  ]
+}

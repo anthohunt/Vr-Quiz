@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la distance estimée de Alpha Centauri, le système stellaire le plus proche de la Terre?",
+            "TrueAnswer": "4,37 années-lumière",
+            "FalseAnswer": [
+              "50 années-lumière",
+              "10 années-lumière",
+              "2 années-lumière"
+            ],
+            "Explanation": "Alpha Centauri est à environ 4,37 années-lumière, ce qui en fait le système stellaire le plus proche de la Terre."
+          },
+          {
+            "Question": "Quel fut le premier vaisseau spatial à atteindre l'espace interstellaire?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "Pioneer 10",
+              "New Horizons",
+              "Cassini"
+            ],
+            "Explanation": "Voyager 1, lancé par la NASA en 1977, est devenu le premier vaisseau spatial à pénétrer dans l'espace interstellaire en 2012."
+          },
+          {
+            "Question": "Quel est le temps de voyage estimé pour atteindre Proxima Centauri, l'étoile la plus proche hébergeant une exoplanète?",
+            "TrueAnswer": "17 000 ans",
+            "FalseAnswer": [
+              "10 ans",
+              "100 ans",
+              "1 000 ans"
+            ],
+            "Explanation": "Avec la technologie actuelle, il faudrait environ 17 000 ans pour atteindre Proxima Centauri, ce qui rend les voyages interstellaires très difficiles."
+          },
+          {
+            "Question": "Quel est le concept d'utilisation d'un laser pour propulser de petits vaisseaux spatiaux pour les voyages interstellaires?",
+            "TrueAnswer": "Propulsion photonique",
+            "FalseAnswer": [
+              "Propulsion nucléaire",
+              "Propulsion par antimatière",
+              "Propulsion ionique"
+            ],
+            "Explanation": "La propulsion photonique, aussi connue sous le nom de propulsion laser, est un concept théorique pour les voyages interstellaires utilisant des faisceaux de lumière pour accélérer de petits vaisseaux spatiaux à des vitesses élevées."
+          },
+          {
+            "Question": "Quel est le concept théorique pour courber l'espace-temps afin de permettre des voyages plus rapides que la lumière?",
+            "TrueAnswer": "Propulsion en distorsion",
+            "FalseAnswer": [
+              "Moteur d'hyperespace",
+              "Tunnel quantique",
+              "Saut en sous-espace"
+            ],
+            "Explanation": "La propulsion en distorsion, popularisée dans la science-fiction, est un concept hypothétique qui pourrait potentiellement permettre aux vaisseaux spatiaux de contourner les limitations traditionnelles de la vitesse de la lumière en déformant l'espace-temps."
+          },
+          {
+            "Question": "Quel est le concept de voyage à travers des trous de ver pour relier des régions éloignées de l'espace?",
+            "TrueAnswer": "Transport par trous de ver",
+            "FalseAnswer": [
+              "Matrice de téléportation",
+              "Tunnel à haute vitesse",
+              "Vortex temporel"
+            ],
+            "Explanation": "Les trous de ver, également connus sous le nom de ponts Einstein-Rosen, sont des passages hypothétiques à travers l'espace-temps qui pourraient créer des raccourcis pour les voyages interstellaires, bien que leur praticité reste purement théorique."
+          },
+          {
+            "Question": "Quel est l'avantage potentiel de l'utilisation de l'antimatière comme source de carburant pour la propulsion interstellaire?",
+            "TrueAnswer": "Haute densité énergétique",
+            "FalseAnswer": [
+              "Faible coût",
+              "Approvisionnement inépuisable",
+              "Rayonnement minimal"
+            ],
+            "Explanation": "L'antimatière possède la plus haute densité énergétique de toutes les sources de carburant connues, ce qui en fait une option théoriquement efficace pour atteindre les vitesses élevées nécessaires aux voyages interstellaires."
+          },
+          {
+            "Question": "Quel est le concept d'utilisation d'un Starshot pour propulser de petits vaisseaux spatiaux pour l'exploration interstellaire?",
+            "TrueAnswer": "Breakthrough Starshot",
+            "FalseAnswer": [
+              "Voile solaire",
+              "Accélérateur de vent stellaire",
+              "Canon cosmique"
+            ],
+            "Explanation": "Breakthrough Starshot est une initiative proposée pour développer une flotte de petits vaisseaux spatiaux légers propulsés par de puissants lasers pour atteindre les systèmes stellaires proches de nous dans notre vie."
+          },
+          {
+            "Question": "Quelle est la distance estimée vers la plus proche exoplanète potentiellement habitable, Proxima Centauri b?",
+            "TrueAnswer": "4,24 années-lumière",
+            "FalseAnswer": [
+              "10 années-lumière",
+              "1 000 années-lumière",
+              "100 années-lumière"
+            ],
+            "Explanation": "Proxima Centauri b, la plus proche exoplanète connue dans la zone habitable, orbite autour de l'étoile Proxima Centauri à une distance d'environ 4,24 années-lumière de la Terre."
+          },
+          {
+            "Question": "Quel est le principal défi à relever pour réaliser des voyages interstellaires réalistes dans la vie humaine?",
+            "TrueAnswer": "Vitesse limitée",
+            "FalseAnswer": [
+              "Rayonnement cosmique",
+              "Rareté des ressources",
+              "NullOrEmpty"
+            ],
+            "Explanation": "L'obstacle principal aux voyages interstellaires est l'immensité des distances impliquées et l'incapacité actuelle à voyager à des vitesses nécessaires pour atteindre d'autres systèmes stellaires dans une vie humaine."
+          },
+          {
+            "Question": "Quel est le concept d'utilisation de voiles magnétiques pour la propulsion dans les voyages interstellaires?",
+            "TrueAnswer": "Voile magnétosphérique",
+            "FalseAnswer": [
+              "Voile gravitationnelle",
+              "Voile de plasma",
+              "Voile aérodynamique"
+            ],
+            "Explanation": "Les voiles magnétosphériques, également connues sous le nom de voiles magnétiques, utilisent la pression du vent solaire ou des champs magnétiques pour propulser les vaisseaux spatiaux, offrant une méthode potentiel pour la propulsion interstellaire."
+          },
+          {
+            "Question": "Quel est le concept de déployer un énorme miroir pour capturer la lumière des étoiles lointaines pour la propulsion?",
+            "TrueAnswer": "Miroir stellaire",
+            "FalseAnswer": [
+              "Voile lumineux",
+              "Réflecteur rayonnant",
+              "Collecteur cosmique"
+            ],
+            "Explanation": "Les miroirs stellaires, une méthode de propulsion proposée, reposeraient sur le déploiement d'un miroir massif dans l'espace pour capturer et refléter la lumière des étoiles, offrant un moyen potentiel de propulsion interstellaire."
+          },
+          {
+            "Question": "Quel est le concept d'utilisation d'explosions nucléaires pour la propulsion dans les voyages interstellaires?",
+            "TrueAnswer": "Projet Orion",
+            "FalseAnswer": [
+              "Fusion de Neptune",
+              "Impulsion de plutonium",
+              "Stratagème de Saturne"
+            ],
+            "Explanation": "Le projet Orion était un concept théorique de propulsion spatiale qui impliquait l'utilisation de détonations nucléaires pour propulser un vaisseau spatial, bien qu'il n'ait jamais été développé au-delà de la recherche initiale en raison de préoccupations de prolifération."
+          },
+          {
+            "Question": "Quel est le temps de voyage estimé pour atteindre l'étoile la plus proche, Proxima Centauri, avec la technologie actuelle?",
+            "TrueAnswer": "Des dizaines de milliers d'années",
+            "FalseAnswer": [
+              "1 an",
+              "100 ans",
+              "1 000 ans"
+            ],
+            "Explanation": "Avec la propulsion conventionnelle, il faudrait des dizaines de milliers d'années pour atteindre Proxima Centauri, soulignant les exigences en temps et en énergie significatives pour les voyages interstellaires."
+          },
+          {
+            "Question": "Quel est le concept d'utilisation d'une voile solaire pour la propulsion dans les voyages interstellaires?",
+            "TrueAnswer": "Voile photonique",
+            "FalseAnswer": [
+              "Voile de plasma",
+              "Voile aérodynamique",
+              "Voile de tachyon"
+            ],
+            "Explanation": "Les voiles solaires, aussi connues sous le nom de voiles photoniques, utilisent la pression du rayonnement solaire pour propulser les vaisseaux spatiaux, offrant une méthode potentielle pour les voyages interstellaires sans avoir besoin de carburants traditionnels."
+          },
+          {
+            "Question": "Quelle est la distance estimée de l'objet fabriqué par l'homme le plus éloigné, Voyager 1, en 2021?",
+            "TrueAnswer": "14 milliards de milles",
+            "FalseAnswer": [
+              "5 milliards de milles",
+              "25 milliards de milles",
+              "50 milliards de milles"
+            ],
+            "Explanation": "En 2021, Voyager 1, l'objet fabriqué par l'homme le plus éloigné, se trouve à environ 14 milliards de milles de la Terre, poursuivant son voyage dans l'espace interstellaire."
+          },
+          {
+            "Question": "Quelle est la distance estimée vers l'étoile la plus proche, Proxima Centauri, du point de vue du temps de voyage de la lumière?",
+            "TrueAnswer": "4,24 ans",
+            "FalseAnswer": [
+              "1 an",
+              "10 ans",
+              "100 ans"
+            ],
+            "Explanation": "En termes de temps de voyage de la lumière, la distance jusqu'à Proxima Centauri est d'environ 4,24 ans, soulignant l'immensité des distances interstellaires."
+          },
+          {
+            "Question": "Quel est le concept théorique proposé pour la création d'un trou de ver artificiel stable pour les voyages interstellaires?",
+            "TrueAnswer": "Stabilisation par matière exotique",
+            "FalseAnswer": [
+              "Ancrage par champ magnétique",
+              "Ancrage par intrication quantique",
+              "Stabilité par champ de tachyons"
+            ],
+            "Explanation": "Les modèles théoriques suggèrent que la matière exotique, possédant une densité d'énergie négative, pourrait potentiellement stabiliser un trou de ver traversable pour les voyages interstellaires, bien que la matière exotique requise reste purement hypothétique."
+          },
+          {
+            "Question": "Quelle est la distance estimée jusqu'à la Galaxie d'Andromède, la galaxie spirale la plus proche de la Voie lactée?",
+            "TrueAnswer": "2,537 millions d'années-lumière",
+            "FalseAnswer": [
+              "1 million d'années-lumière",
+              "5 millions d'années-lumière",
+              "10 millions d'années-lumière"
+            ],
+            "Explanation": "La Galaxie d'Andromède, notre plus proche voisine, est située à environ 2,537 millions d'années-lumière, ce qui en fait la galaxie spirale la plus proche de la Voie lactée."
+          }
+        ]
+      }
+    }
+  ]
+}

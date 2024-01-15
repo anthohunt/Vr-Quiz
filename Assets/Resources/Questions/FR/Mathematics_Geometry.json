@@ -1,0 +1,170 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la somme des angles intérieurs d'un triangle?",
+            "TrueAnswer": "180",
+            "FalseAnswer": [
+              "90",
+              "270",
+              "360"
+            ],
+            "Explanation": "La somme des angles intérieurs d'un triangle est toujours de 180 degrés, une propriété fondamentale de la géométrie euclidienne."
+          },
+          {
+            "Question": "Quel est le terme désignant une droite qui touche un cercle en un seul point?",
+            "TrueAnswer": "Tangente",
+            "FalseAnswer": [
+              "Corde",
+              "Sécante",
+              "Arc"
+            ],
+            "Explanation": "Une tangente est une droite qui touche un cercle en un seul point, perpendiculaire au rayon au point de contact."
+          },
+          {
+            "Question": "Quelle est la mesure de l'angle central d'un cercle complet?",
+            "TrueAnswer": "360",
+            "FalseAnswer": [
+              "180",
+              "270",
+              "90"
+            ],
+            "Explanation": "Un cercle complet mesure 360 degrés, et l'angle central d'un cercle complet englobe l'ensemble du cercle."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un polygone régulier?",
+            "TrueAnswer": "Hexagone",
+            "FalseAnswer": [
+              "Pentagone",
+              "Heptagone",
+              "Octogone"
+            ],
+            "Explanation": "Un polygone régulier a tous ses côtés et angles congruents, et un hexagone est un polygone régulier à six côtés."
+          },
+          {
+            "Question": "Quelle est la formule pour trouver l'aire d'un carré?",
+            "TrueAnswer": "Côté²",
+            "FalseAnswer": [
+              "2 * Côté",
+              "Côté * Hauteur",
+              "Côté * Périmètre"
+            ],
+            "Explanation": "L'aire d'un carré se calcule en multipliant la longueur d'un côté par lui-même, exprimé comme côté au carré."
+          },
+          {
+            "Question": "Quel théorème énonce que le carré de l'hypoténuse est égal à la somme des carrés des deux autres côtés dans un triangle rectangle?",
+            "TrueAnswer": "Pythagore",
+            "FalseAnswer": [
+              "Dernier théorème de Fermat",
+              "Nombre premier",
+              "Converse"
+            ],
+            "Explanation": "Le théorème de Pythagore est un principe fondamental en géométrie euclidienne, nommé d'après l'ancien mathématicien grec Pythagore."
+          },
+          {
+            "Question": "Quel type de quadrilatère a des côtés opposés parallèles et de même longueur?",
+            "TrueAnswer": "Parallélogramme",
+            "FalseAnswer": [
+              "Losange",
+              "Rectangle",
+              "Trapèze"
+            ],
+            "Explanation": "Un parallélogramme a des côtés opposés à la fois parallèles et de même longueur, formant des angles opposés égaux."
+          },
+          {
+            "Question": "Quel est le terme désignant un polygone à huit côtés?",
+            "TrueAnswer": "Octogone",
+            "FalseAnswer": [
+              "Décagone",
+              "Hexagone",
+              "Nonagone"
+            ],
+            "Explanation": "Un octogone est un polygone à huit côtés et huit angles, souvent rencontré en architecture et en design."
+          },
+          {
+            "Question": "Combien de faces, d'arêtes et de sommets a un cube?",
+            "TrueAnswer": "6, 12, 8",
+            "FalseAnswer": [
+              "8, 12, 6",
+              "12, 6, 8",
+              "6, 8, 12"
+            ],
+            "Explanation": "Un cube a 6 faces, 12 arêtes et 8 sommets, ce qui en fait un polyèdre régulier et l'un des cinq solides de Platon."
+          },
+          {
+            "Question": "Quelle est la mesure de chaque angle intérieur d'un pentagone régulier?",
+            "TrueAnswer": "108",
+            "FalseAnswer": [
+              "90",
+              "120",
+              "72"
+            ],
+            "Explanation": "Dans un pentagone régulier, chaque angle intérieur mesure 108 degrés, calculé à l'aide de la formule (n-2) * 180 / n, où n est le nombre de côtés."
+          },
+          {
+            "Question": "Quelle section conique a une courbe unique qui ne se referme jamais sur elle-même?",
+            "TrueAnswer": "Hyperbole",
+            "FalseAnswer": [
+              "Parabole",
+              "Ellipse",
+              "Cercle"
+            ],
+            "Explanation": "Une hyperbole est formée par l'intersection d'un plan avec deux cônes égaux et de direction opposée, donnant une courbe non fermée, asymptotique."
+          },
+          {
+            "Question": "Quel est le terme désignant l'analogue tridimensionnel d'un carré?",
+            "TrueAnswer": "Cube",
+            "FalseAnswer": [
+              "Prisme rectangulaire",
+              "Pyramide",
+              "Cylindre"
+            ],
+            "Explanation": "Un cube est l'analogue tridimensionnel d'un carré, avec tous les côtés de même longueur et tous les angles droits."
+          },
+          {
+            "Question": "Quelle est la mesure de l'angle au centre d'un cercle sous-tendu par un arc équivalent au quart de la circonférence?",
+            "TrueAnswer": "90",
+            "FalseAnswer": [
+              "180",
+              "45",
+              "60"
+            ],
+            "Explanation": "Un angle au centre d'un cercle sous-tendu par un arc équivalent au quart de la circonférence mesure 90 degrés, formant un angle droit."
+          },
+          {
+            "Question": "Quel type d'angle mesure plus de 90 degrés mais moins de 180 degrés?",
+            "TrueAnswer": "Obtus",
+            "FalseAnswer": [
+              "Aigu",
+              "Droit",
+              "Plat"
+            ],
+            "Explanation": "Un angle obtus mesure plus de 90 degrés mais moins de 180 degrés, souvent trouvé dans diverses formes géométriques et structures."
+          },
+          {
+            "Question": "Quel type de quadrilatère a quatre côtés de même longueur mais des angles inégaux?",
+            "TrueAnswer": "Losange",
+            "FalseAnswer": [
+              "Rectangle",
+              "Carré",
+              "Parallélogramme"
+            ],
+            "Explanation": "Un losange est un quadrilatère dont tous les côtés ont la même longueur, mais contrairement à un carré, ses angles ne sont pas droits."
+          },
+          {
+            "Question": "Quel est le terme désignant la distance du centre d'un cercle à n'importe quel point sur sa circonférence?",
+            "TrueAnswer": "Rayon",
+            "FalseAnswer": [
+              "Circonférence",
+              "Diamètre",
+              "Corde"
+            ],
+            "Explanation": "Le rayon d'un cercle est la distance entre le centre du cercle et n'importe quel point sur sa circonférence, jouant un rôle crucial dans divers calculs liés au cercle."
+          }
+        ]
+      }
+    }
+  ]
+}

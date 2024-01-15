@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4135825062147404195
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1943272286390082701}
+  - component: {fileID: 3379027158788633114}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Oceans_and_Marine_Life.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1943272286390082701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4135825062147404195}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3379027158788633114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4135825062147404195}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest ocean in the world?
+      TrueAnswer: Pacific
+      FalseAnswer:
+      - Atlantic
+      - Indian
+      - Arctic
+      Explanation: "The Pacific Ocean covers more than 30% of the Earth's surface
+        and is larger than all the Earth\u2019s land area combined."
+    - Question: What is the deepest part of the ocean called?
+      TrueAnswer: Mariana Trench
+      FalseAnswer:
+      - Sunda Trench
+      - Puerto Rico Trench
+      - Tonga Trench
+      Explanation: The Mariana Trench reaches a depth of about 36,070 feet (10,994
+        meters) in the Pacific Ocean.
+    - Question: Which marine animal is known for its bioluminescence?
+      TrueAnswer: Firefly squid
+      FalseAnswer:
+      - Giant squid
+      - Anglerfish
+      - Nautilus
+      Explanation: The firefly squid inhabits the deep ocean and has light-producing
+        organs called photophores, which it uses as a form of camouflage and communication.
+    - Question: What is the process of the ocean absorbing carbon dioxide from the
+        atmosphere called?
+      TrueAnswer: Ocean Acidification
+      FalseAnswer:
+      - Ocean Warming
+      - Ocean Eutrophication
+      - Ocean Salinization
+      Explanation: Ocean acidification can have detrimental effects on shell-forming
+        organisms and coral reefs, impacting the entire marine food web.
+    - Question: Which marine mammal is known as the 'sea cow'?
+      TrueAnswer: Manatee
+      FalseAnswer:
+      - Beluga Whale
+      - Dolphin
+      - Orca
+      Explanation: Manatees are herbivorous marine mammals that inhabit the shallow,
+        marshy coastal areas and rivers of the Caribbean and the Gulf of Mexico.
+    - Question: What is the name of the largest fish in the ocean?
+      TrueAnswer: Whale Shark
+      FalseAnswer:
+      - Great White Shark
+      - Mako Shark
+      - Tiger Shark
+      Explanation: Whale sharks are filter feeders and are not dangerous to humans.
+        They are the largest fish species, capable of growing over 40 feet in length.
+    - Question: Which marine reptile is known for its long migratory journey to lay
+        eggs?
+      TrueAnswer: Sea Turtle
+      FalseAnswer:
+      - Saltwater Crocodile
+      - Marine Iguana
+      - Komodo Dragon
+      Explanation: Female sea turtles return to the same beach where they were born
+        to lay their eggs, sometimes traveling thousands of kilometers.
+    - Question: What is the largest animal on Earth, found in the ocean?
+      TrueAnswer: Blue Whale
+      FalseAnswer:
+      - Sperm Whale
+      - Orca
+      - Humpback Whale
+      Explanation: The blue whale holds the title for the largest animal on the planet,
+        with some reaching lengths of over 100 feet and weighing more than 200 tons.
+    - Question: Which marine organism is known for building coral reefs?
+      TrueAnswer: Coral Polyps
+      FalseAnswer:
+      - Sea Anemones
+      - Jellyfish
+      - Sponges
+      Explanation: Coral polyps play a crucial role in building and maintaining coral
+        reefs, which are some of the most diverse and productive ecosystems on earth.
+    - Question: What is the phenomenon where warm water displaces cooler, nutrient-rich
+        water, affecting marine life?
+      TrueAnswer: "El Ni\xF1o"
+      FalseAnswer:
+      - "La Ni\xF1a"
+      - Thermocline
+      - Halocline
+      Explanation: "During El Ni\xF1o events, changes in sea surface temperatures
+        can have widespread effects on weather patterns, marine ecosystems, and fisheries."
+    - Question: Which marine creature has the ability to change color for camouflage
+        and communication?
+      TrueAnswer: Cuttlefish
+      FalseAnswer:
+      - Octopus
+      - Squid
+      - Nautilus
+      Explanation: Cuttlefish have specialized cells called chromatophores that allow
+        them to rapidly change color and pattern, blending into their surroundings
+        and signaling to other cuttlefish.
+    - Question: Which marine species is crucial in maintaining balance in the ocean
+        ecosystem through filtration?
+      TrueAnswer: Oysters
+      FalseAnswer:
+      - Sea Cucumbers
+      - Sea Urchins
+      - Crabs
+      Explanation: Oysters play a vital role in marine ecosystems by filtering water,
+        removing excess nutrients, and providing habitat for other species.
+    - Question: What is the collective term for microscopic floating organisms that
+        are the foundation of the marine food web?
+      TrueAnswer: Plankton
+      FalseAnswer:
+      - Nekton
+      - Benthos
+      - Neuston
+      Explanation: Plankton includes both plants (phytoplankton) and animals (zooplankton)
+        that drift with ocean currents, serving as food for a wide range of marine
+        organisms.
+    - Question: Which marine animal is known for forming symbiotic relationships
+        with clownfish in sea anemones?
+      TrueAnswer: Anemonefish
+      FalseAnswer:
+      - Damsel Fish
+      - Surgeonfish
+      - Butterfly Fish
+      Explanation: Anemonefish are protected by the stinging tentacles of sea anemones
+        and in turn, defend the anemone from predators, forming a mutually beneficial
+        relationship.
+    - Question: What is the process of tiny marine organisms turning sunlight and
+        carbon dioxide into energy known as?
+      TrueAnswer: Photosynthesis
+      FalseAnswer:
+      - Chemosynthesis
+      - Respiration
+      - Decomposition
+      Explanation: Photosynthesis is performed by phytoplankton and other marine
+        plants, providing the foundation of the marine food chain and producing a
+        substantial portion of the Earth's oxygen.
+    - Question: Which marine arthropod is known for its intricate, multicolored exoskeleton?
+      TrueAnswer: Mantis Shrimp
+      FalseAnswer:
+      - Hermit Crab
+      - Lobster
+      - Crab
+      Explanation: Mantis shrimp have remarkable vision and possess one of the most
+        complex visual systems of any animal, capable of perceiving colors and polarized
+        light.
+    - Question: What is the name for the underwater mountain range that extends through
+        all the world's oceans?
+      TrueAnswer: Mid-Ocean Ridge
+      FalseAnswer:
+      - Trench
+      - Seamount
+      - Abyssal Plain
+      Explanation: The mid-ocean ridge is a continuous underwater mountain system
+        formed by plate tectonics, with immense volcanic activity and hydrothermal
+        vents supporting unique ecosystems.
+    - Question: Which marine invertebrates release bioluminescent light in response
+        to disturbances?
+      TrueAnswer: Comb Jelly
+      FalseAnswer:
+      - Sea Star
+      - Sea Slug
+      - Sea Urchin
+      Explanation: Comb jellies emit a dazzling display of light when disturbed,
+        a form of defense and communication in the dark depths of the ocean.
+    - Question: What is the most abundant type of marine mammal found in the Antarctic?
+      TrueAnswer: Krill
+      FalseAnswer:
+      - Seal
+      - Penguin
+      - Whale
+      Explanation: Krill are small crustaceans that form a crucial component of the
+        Antarctic food web and are a primary food source for many marine animals,
+        including whales and seals.
+    - Question: Which marine phenomenon is characterized by a rapid increase of algae
+        leading to oxygen depletion?
+      TrueAnswer: Harmful Algal Blooms
+      FalseAnswer:
+      - Coral Bleaching
+      - Red Tide
+      - Ocean Acidification
+      Explanation: Harmful algal blooms, or HABs, can have detrimental effects on
+        marine life and human health, impacting fisheries and coastal ecosystems.

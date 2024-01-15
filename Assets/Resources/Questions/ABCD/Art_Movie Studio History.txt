@@ -1,0 +1,136 @@
+{
+    "Art": [
+        {
+            "Questions": [
+                {
+                    "Question": "Who painted the Mona Lisa?",
+                    "TrueAnswer": "Leonardo da Vinci",
+                    "FalseAnswer": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+                    "Explanation": "Leonardo da Vinci is the artist behind the iconic painting, Mona Lisa, created in the 16th century."
+                },
+                {
+                    "Question": "Which artist is known for his 'Campbell's Soup Cans' artwork?",
+                    "TrueAnswer": "Andy Warhol",
+                    "FalseAnswer": ["Salvador Dali", "Jackson Pollock", "Vincent van Gogh"],
+                    "Explanation": "Andy Warhol, a leading figure in the pop art movement, created the famous 'Campbell's Soup Cans' artwork in 1962."
+                },
+                {
+                    "Question": "Who sculpted the statue of David?",
+                    "TrueAnswer": "Michelangelo",
+                    "FalseAnswer": ["Auguste Rodin", "Pablo Picasso", "Leonardo da Vinci"],
+                    "Explanation": "Michelangelo, an Italian Renaissance artist, sculpted the iconic statue of David between 1501 and 1504."
+                },
+                {
+                    "Question": "Which artist is known for his 'Starry Night' painting?",
+                    "TrueAnswer": "Vincent van Gogh",
+                    "FalseAnswer": ["Claude Monet", "Pablo Picasso", "Leonardo da Vinci"],
+                    "Explanation": "Vincent van Gogh, a Dutch post-impressionist painter, created the masterpiece 'Starry Night' in 1889."
+                },
+                {
+                    "Question": "Who painted 'The Scream'?",
+                    "TrueAnswer": "Edvard Munch",
+                    "FalseAnswer": ["Salvador Dali", "Pablo Picasso", "Vincent van Gogh"],
+                    "Explanation": "Edvard Munch, a Norwegian painter, is the artist behind the famous painting 'The Scream' from 1893."
+                },
+                {
+                    "Question": "Which artist is known for his 'Guernica' painting?",
+                    "TrueAnswer": "Pablo Picasso",
+                    "FalseAnswer": ["Salvador Dali", "Vincent van Gogh", "Leonardo da Vinci"],
+                    "Explanation": "Pablo Picasso, a Spanish painter, created the powerful anti-war painting 'Guernica' in 1937."
+                },
+                {
+                    "Question": "Who painted the ceiling of the Sistine Chapel?",
+                    "TrueAnswer": "Michelangelo",
+                    "FalseAnswer": ["Leonardo da Vinci", "Raphael", "Vincent van Gogh"],
+                    "Explanation": "Michelangelo painted the breathtaking ceiling of the Sistine Chapel in Vatican City between 1508 and 1512."
+                },
+                {
+                    "Question": "Which artist is known for his 'Water Lilies' series?",
+                    "TrueAnswer": "Claude Monet",
+                    "FalseAnswer": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci"],
+                    "Explanation": "Claude Monet, a French impressionist painter, is famous for his 'Water Lilies' series created in the late 19th and early 20th centuries."
+                },
+                {
+                    "Question": "Who created the sculpture 'The Thinker'?",
+                    "TrueAnswer": "Auguste Rodin",
+                    "FalseAnswer": ["Michelangelo", "Pablo Picasso", "Vincent van Gogh"],
+                    "Explanation": "Auguste Rodin, a French sculptor, is the artist behind the renowned sculpture 'The Thinker' from 1902."
+                },
+                {
+                    "Question": "Which artist is known for his 'The Persistence of Memory' painting?",
+                    "TrueAnswer": "Salvador Dali",
+                    "FalseAnswer": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci"],
+                    "Explanation": "Salvador Dali, a Spanish surrealist painter, created the famous 'The Persistence of Memory' painting in 1931."
+                }
+            ]
+        },
+        {
+            "Movie Studio History": [
+                {
+                    "Questions": [
+                        {
+                            "Question": "Which movie studio produced 'Gone with the Wind'?",
+                            "TrueAnswer": "Metro-Goldwyn-Mayer",
+                            "FalseAnswer": ["Universal Pictures", "Warner Bros.", "Paramount Pictures"],
+                            "Explanation": "Metro-Goldwyn-Mayer (MGM) is the movie studio that produced the classic film 'Gone with the Wind' in 1939."
+                        },
+                        {
+                            "Question": "Who founded Pixar Animation Studios?",
+                            "TrueAnswer": "Steve Jobs",
+                            "FalseAnswer": ["George Lucas", "Walt Disney", "Steven Spielberg"],
+                            "Explanation": "Steve Jobs, along with Edwin Catmull and John Lasseter, founded Pixar Animation Studios in 1986."
+                        },
+                        {
+                            "Question": "Which movie studio is known for its 'Marvel Cinematic Universe' films?",
+                            "TrueAnswer": "Marvel Studios",
+                            "FalseAnswer": ["Warner Bros.", "Universal Pictures", "Paramount Pictures"],
+                            "Explanation": "Marvel Studios is the movie studio behind the successful 'Marvel Cinematic Universe' films, featuring superheroes like Iron Man and Captain America."
+                        },
+                        {
+                            "Question": "Who directed the 'Lord of the Rings' trilogy?",
+                            "TrueAnswer": "Peter Jackson",
+                            "FalseAnswer": ["Steven Spielberg", "Christopher Nolan", "James Cameron"],
+                            "Explanation": "Peter Jackson, a New Zealand filmmaker, directed the epic 'Lord of the Rings' trilogy released between 2001 and 2003."
+                        },
+                        {
+                            "Question": "Which movie studio produced the 'Harry Potter' film series?",
+                            "TrueAnswer": "Warner Bros.",
+                            "FalseAnswer": ["Universal Pictures", "Paramount Pictures", "20th Century Fox"],
+                            "Explanation": "Warner Bros. is the movie studio that produced the successful 'Harry Potter' film series based on J.K. Rowling's books."
+                        },
+                        {
+                            "Question": "Who founded DreamWorks Animation?",
+                            "TrueAnswer": "Steven Spielberg",
+                            "FalseAnswer": ["George Lucas", "Walt Disney", "Jeffrey Katzenberg"],
+                            "Explanation": "Steven Spielberg, along with Jeffrey Katzenberg and David Geffen, founded DreamWorks Animation in 1994."
+                        },
+                        {
+                            "Question": "Which movie studio is known for its 'Star Wars' films?",
+                            "TrueAnswer": "Lucasfilm",
+                            "FalseAnswer": ["Marvel Studios", "Warner Bros.", "Paramount Pictures"],
+                            "Explanation": "Lucasfilm is the movie studio behind the iconic 'Star Wars' film franchise created by George Lucas."
+                        },
+                        {
+                            "Question": "Who directed the 'Jurassic Park' film series?",
+                            "TrueAnswer": "Steven Spielberg",
+                            "FalseAnswer": ["Christopher Nolan", "James Cameron", "Peter Jackson"],
+                            "Explanation": "Steven Spielberg directed the thrilling 'Jurassic Park' film series, starting with the first film in 1993."
+                        },
+                        {
+                            "Question": "Which movie studio produced the 'James Bond' film series?",
+                            "TrueAnswer": "Eon Productions",
+                            "FalseAnswer": ["Universal Pictures", "Paramount Pictures", "20th Century Fox"],
+                            "Explanation": "Eon Productions is the movie studio responsible for producing the long-running 'James Bond' film series."
+                        },
+                        {
+                            "Question": "Who founded Studio Ghibli?",
+                            "TrueAnswer": "Hayao Miyazaki",
+                            "FalseAnswer": ["Walt Disney", "Steven Spielberg", "George Lucas"],
+                            "Explanation": "Hayao Miyazaki, along with Isao Takahata, founded Studio Ghibli, a renowned Japanese animation studio, in 1985."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

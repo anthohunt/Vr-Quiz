@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nombre d'arêtes dans un graphe complet avec 7 sommets?",
+            "TrueAnswer": "21",
+            "FalseAnswer": [
+              "15",
+              "28",
+              "36"
+            ],
+            "Explanation": "Un graphe complet avec n sommets a n(n-1)/2 arêtes. Dans ce cas, 7*6/2 = 21 arêtes."
+          },
+          {
+            "Question": "Quel est le nombre de sous-ensembles d'un ensemble avec 5 éléments?",
+            "TrueAnswer": "32",
+            "FalseAnswer": [
+              "15",
+              "25",
+              "40"
+            ],
+            "Explanation": "Un ensemble avec n éléments a 2^n sous-ensembles. Ici, 2^5 = 32 sous-ensembles."
+          },
+          {
+            "Question": "Lequel des graphes suivants est non-planar?",
+            "TrueAnswer": "K3,3",
+            "FalseAnswer": [
+              "K4",
+              "Graphe de Petersen",
+              "Graphe complet"
+            ],
+            "Explanation": "Le K3,3 (graphe biparti complet avec 3 sommets dans chaque partition) est non-planar selon le théorème de Kuratowski."
+          },
+          {
+            "Question": "Quel est le nombre chromatique d'un graphe complet?",
+            "TrueAnswer": "N",
+            "FalseAnswer": [
+              "1",
+              "2",
+              "N-1"
+            ],
+            "Explanation": "Le nombre chromatique d'un graphe complet avec n sommets est n. Il faut n couleurs pour colorier chaque sommet de telle sorte que deux sommets adjacents n'aient pas la même couleur."
+          },
+          {
+            "Question": "Quel est le complément du graphe G avec 4 sommets et 3 arêtes?",
+            "TrueAnswer": "Graphe complet K4",
+            "FalseAnswer": [
+              "Graphe en étoile K1,3",
+              "Graphe cyclique C4",
+              "Graphe biparti K2,2"
+            ],
+            "Explanation": "Le complément de G a une arête entre chaque paire de sommets distincts qui ne sont pas déjà reliés par une arête dans G."
+          },
+          {
+            "Question": "Quelle affirmation concernant les arbres est vraie?",
+            "TrueAnswer": "Tout graphe connexe avec n sommets et n-1 arêtes est un arbre.",
+            "FalseAnswer": [
+              "Les arbres ont des cycles",
+              "Les arbres peuvent avoir plusieurs nœuds racines",
+              "Les graphes avec des boucles peuvent être des arbres"
+            ],
+            "Explanation": "C'est une propriété fondamentale des arbres selon la définition d'un arbre en théorie des graphes."
+          },
+          {
+            "Question": "Quel est le nombre minimum de sommets nécessaires pour qu'un graphe soit connexe?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "2",
+              "3",
+              "4"
+            ],
+            "Explanation": "Un graphe avec un seul sommet est toujours connexe par définition, car il n'y a pas de sommets déconnectés."
+          },
+          {
+            "Question": "Lequel des suivants est un cycle hamiltonien?",
+            "TrueAnswer": "Un cycle qui visite chaque sommet exactement une fois et se termine au sommet de départ.",
+            "FalseAnswer": [
+              "Un cycle avec un seul sommet",
+              "Un cycle avec des sommets répétés",
+              "Un cycle avec plusieurs points de départ"
+            ],
+            "Explanation": "Un cycle hamiltonien est un type particulier de cycle dans un graphe qui parcourt chaque sommet exactement une fois et se termine au sommet de départ."
+          },
+          {
+            "Question": "Quelle est la séquence de degrés d'un graphe complet?",
+            "TrueAnswer": "n-1 répété n fois",
+            "FalseAnswer": [
+              "n répété n-1 fois",
+              "Nombres pairs",
+              "Séquence croissante"
+            ],
+            "Explanation": "Dans un graphe complet avec n sommets, chaque sommet est connecté à tous les autres sommets, ce qui donne une séquence de degrés de n-1 répété n fois."
+          },
+          {
+            "Question": "Quel est le nombre maximal d'arêtes dans un graphe biparti avec m et n sommets?",
+            "TrueAnswer": "m*n",
+            "FalseAnswer": [
+              "m+n",
+              "m^2",
+              "2^n"
+            ],
+            "Explanation": "Dans un graphe biparti, le nombre maximal d'arêtes est atteint lorsque chaque sommet d'un ensemble est connecté à tous les sommets de l'autre ensemble, ce qui donne m*n arêtes."
+          },
+          {
+            "Question": "Quel est le degré minimum d'un sommet dans un arbre avec n sommets?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "0",
+              "2",
+              "n-1"
+            ],
+            "Explanation": "Dans un arbre, le degré minimum d'un sommet est 1, car chaque sommet, sauf la racine, est connecté à au moins un autre sommet par une arête."
+          },
+          {
+            "Question": "Quel est le nombre maximal d'arêtes dans un graphe simple avec n sommets?",
+            "TrueAnswer": "n*(n-1)/2",
+            "FalseAnswer": [
+              "n",
+              "n^2",
+              "2^n"
+            ],
+            "Explanation": "Un graphe avec n sommets peut avoir un maximum de n*(n-1)/2 arêtes si chaque paire de sommets distincts est connectée par une arête, et s'il n'y a ni boucles ni arêtes multiples."
+          },
+          {
+            "Question": "Lequel de ces énoncés est une propriété d'un graphe eulérien?",
+            "TrueAnswer": "Il a tous ses sommets de degré pair.",
+            "FalseAnswer": [
+              "Il est toujours planaire",
+              "Il a un cycle hamiltonien",
+              "Il n'a pas de ponts"
+            ],
+            "Explanation": "Un graphe eulérien est un graphe connexe dans lequel chaque sommet a un degré pair. Cette propriété est essentielle pour l'existence d'un circuit ou d'un chemin eulérien."
+          },
+          {
+            "Question": "Quel est le nombre d'arêtes dans un arbre avec n sommets?",
+            "TrueAnswer": "n-1",
+            "FalseAnswer": [
+              "n",
+              "2n",
+              "n^2"
+            ],
+            "Explanation": "Un arbre avec n sommets a n-1 arêtes, formant un graphe acyclique connecté avec le moins d'arêtes possible."
+          },
+          {
+            "Question": "Quel est le nombre de chemins simples entre deux sommets dans un arbre?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "n",
+              "n-1",
+              "n^2"
+            ],
+            "Explanation": "Dans un arbre, il n'y a qu'un seul chemin simple entre chaque paire de sommets, car il n'y a pas de cycles et des chemins uniques existent entre les sommets."
+          },
+          {
+            "Question": "Quelle assertion concernant les graphes planaires est vraie?",
+            "TrueAnswer": "Un graphe planaire peut être dessiné sur un plan sans aucune intersection d'arêtes.",
+            "FalseAnswer": [
+              "Tous les graphes complets sont planaires",
+              "Les graphes planaires ont un cycle hamiltonien",
+              "Un graphe planaire a un nombre chromatique supérieur à 4"
+            ],
+            "Explanation": "Cette assertion correspond à la définition des graphes planaires, qui peuvent être représentés sur un plan avec leurs arêtes dessinées sans intersection."
+          },
+          {
+            "Question": "Quel est le nombre maximal d'arêtes dans un graphe connexe avec n sommets?",
+            "TrueAnswer": "n*(n-1)/2",
+            "FalseAnswer": [
+              "n-1",
+              "n+1",
+              "2^n"
+            ],
+            "Explanation": "Il s'agit du nombre maximal d'arêtes dans n'importe quel graphe, pas seulement des graphes simples. Cela représente un graphe totalement connecté sans boucles ni arêtes multiples."
+          },
+          {
+            "Question": "Laquelle des affirmations suivantes est une propriété d'un graphe planaire?",
+            "TrueAnswer": "Il ne contient pas K5 ou K3,3 en tant que mineur.",
+            "FalseAnswer": [
+              "Il a un cycle hamiltonien",
+              "Tous les sommets ont le même degré",
+              "Il a seulement une composante"
+            ],
+            "Explanation": "Cette propriété empêche l'existence d'un graphe complet avec 5 sommets (K5) ou un graphe biparti complet avec des partitions de 3 sommets (K3,3) au sein du graphe planaire."
+          },
+          {
+            "Question": "Quel est le nombre d'arêtes dans un graphe en roue avec n sommets?",
+            "TrueAnswer": "n",
+            "FalseAnswer": [
+              "2n",
+              "n-1",
+              "n^2"
+            ],
+            "Explanation": "Un graphe en roue avec n sommets se compose d'un graphe cyclique sur n-1 sommets et d'un sommet supplémentaire connecté à tous les autres sommets, ce qui donne n arêtes."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1396343776753929836
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4161956809065020683}
+  - component: {fileID: 2583199739766843843}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Dark Matter and Energy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4161956809065020683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396343776753929836}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2583199739766843843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396343776753929836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the estimated age of the universe?
+      TrueAnswer: 13.8 billion years
+      FalseAnswer:
+      - 1 million years
+      - 100 billion years
+      - 10 trillion years
+      Explanation: The estimated age of the universe is 13.8 billion years, based
+        on scientific observations and calculations.
+    - Question: What is the most abundant element in the universe?
+      TrueAnswer: Hydrogen
+      FalseAnswer:
+      - Oxygen
+      - Carbon
+      - Helium
+      Explanation: Hydrogen is the most abundant element in the universe, making
+        up about 75% of its elemental mass.
+    - Question: What is the name of the galaxy that contains our solar system?
+      TrueAnswer: Milky Way
+      FalseAnswer:
+      - Andromeda
+      - Whirlpool
+      - Sombrero
+      Explanation: Our solar system is located in the Milky Way galaxy, a barred
+        spiral galaxy.
+    - Question: What is the force that opposes gravity and causes the universe to
+        expand?
+      TrueAnswer: Dark energy
+      FalseAnswer:
+      - Dark matter
+      - Electromagnetic force
+      - Strong nuclear force
+      Explanation: Dark energy is the mysterious force that counteracts gravity and
+        drives the accelerated expansion of the universe.
+    - Question: What is the hypothetical form of matter that does not interact with
+        light?
+      TrueAnswer: Dark matter
+      FalseAnswer:
+      - Anti-matter
+      - Neutrinos
+      - Plasma
+      Explanation: Dark matter is a hypothetical form of matter that does not emit,
+        absorb, or reflect light, making it invisible.
+    - Question: What is the estimated percentage of dark matter in the universe?
+      TrueAnswer: 27%
+      FalseAnswer:
+      - 10%
+      - 50%
+      - 75%
+      Explanation: Dark matter is estimated to make up about 27% of the total mass-energy
+        content of the universe.
+    - Question: What is the name of the space telescope launched by NASA in 1990?
+      TrueAnswer: Hubble Space Telescope
+      FalseAnswer:
+      - Spitzer Space Telescope
+      - Chandra X-ray Observatory
+      - James Webb Space Telescope
+      Explanation: The Hubble Space Telescope, launched in 1990, has provided stunning
+        images and valuable data about the universe.
+    - Question: What is the term for the explosion that marks the death of a massive
+        star?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nebula
+      - Black hole
+      - White dwarf
+      Explanation: A supernova is a powerful explosion that occurs at the end of
+        a massive star's life, releasing a tremendous amount of energy.
+    - Question: What is the name of the first human-made object to reach interstellar
+        space?
+      TrueAnswer: Voyager 1
+      FalseAnswer:
+      - New Horizons
+      - Cassini
+      - Pioneer 10
+      Explanation: Voyager 1, launched in 1977, became the first human-made object
+        to enter interstellar space in 2012.
+    - Question: What is the term for a region in space with extremely high gravitational
+        pull?
+      TrueAnswer: Black hole
+      FalseAnswer:
+      - Neutron star
+      - White dwarf
+      - Red giant
+      Explanation: A black hole is a region in space where gravity is so strong that
+        nothing, not even light, can escape its pull.
+    - Question: What is the name of the theory that describes the origin of the universe?
+      TrueAnswer: Big Bang theory
+      FalseAnswer:
+      - Steady State theory
+      - String theory
+      - Multiverse theory
+      Explanation: The Big Bang theory is the prevailing scientific explanation for
+        the origin and evolution of the universe.
+    - Question: What is the name of the largest moon in our solar system?
+      TrueAnswer: Ganymede
+      FalseAnswer:
+      - Titan
+      - Europa
+      - Callisto
+      Explanation: Ganymede, one of Jupiter's moons, is the largest moon in our solar
+        system and even larger than the planet Mercury.
+    - Question: What is the name of the phenomenon where light is bent by a massive
+        object's gravity?
+      TrueAnswer: Gravitational lensing
+      FalseAnswer:
+      - Redshift
+      - Doppler effect
+      - Cosmic microwave background
+      Explanation: Gravitational lensing is the bending of light by the gravitational
+        field of a massive object, creating distorted or magnified images.
+    - Question: What is the name of the process by which stars convert hydrogen into
+        helium?
+      TrueAnswer: Nuclear fusion
+      FalseAnswer:
+      - Nuclear fission
+      - Radioactive decay
+      - Electron capture
+      Explanation: Nuclear fusion is the process in which stars convert hydrogen
+        nuclei into helium, releasing a tremendous amount of energy.
+    - Question: What is the name of the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Neptune
+      - Uranus
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        more than 11 times that of Earth.
+    - Question: What is the name of the phenomenon where a star collapses under its
+        own gravity?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nova
+      - White dwarf
+      - Red giant
+      Explanation: A supernova occurs when a massive star collapses under its own
+        gravity, resulting in a powerful explosion.
+    - Question: What is the name of the process by which stars produce energy?
+      TrueAnswer: Nuclear fusion
+      FalseAnswer:
+      - Nuclear fission
+      - Radioactive decay
+      - Electron capture
+      Explanation: Stars produce energy through the process of nuclear fusion, where
+        hydrogen nuclei combine to form helium.
+    - Question: What is the name of the phenomenon where a star collapses to a point
+        of infinite density?
+      TrueAnswer: Black hole
+      FalseAnswer:
+      - Neutron star
+      - White dwarf
+      - Red giant
+      Explanation: A black hole is formed when a massive star collapses to a point
+        of infinite density, creating a gravitational singularity.
+    - Question: What is the name of the spacecraft that landed humans on the moon?
+      TrueAnswer: Apollo
+      FalseAnswer:
+      - Mercury
+      - Gemini
+      - Vostok
+      Explanation: The Apollo program, specifically Apollo 11, successfully landed
+        humans on the moon for the first time in 1969.
+    - Question: What is the name of the phenomenon where the universe is expanding
+        at an accelerating rate?
+      TrueAnswer: Dark energy
+      FalseAnswer:
+      - Dark matter
+      - Cosmic inflation
+      - Quantum entanglement
+      Explanation: Dark energy is the mysterious force causing the accelerated expansion
+        of the universe, discovered through observations of distant supernovae.

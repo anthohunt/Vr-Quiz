@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la température idéale pour la fermentation de la pâte?",
+            "TrueAnswer": "75-85°F",
+            "FalseAnswer": [
+              "65-75°F",
+              "90-100°F",
+              "55-65°F"
+            ],
+            "Explanation": "La fermentation de la pâte à 75-85°F permet une fermentation et une levée appropriées sans suractiver la levure."
+          },
+          {
+            "Question": "Quel est le but de piquer la pâte à tarte?",
+            "TrueAnswer": "Empêche la formation de bulles d'air",
+            "FalseAnswer": [
+              "Améliore la friabilité",
+              "Ajoute de la saveur",
+              "Crée une croûte dorée"
+            ],
+            "Explanation": "Le piquage de la pâte à tarte aide à empêcher la formation de bulles d'air pendant la cuisson, assurant une texture uniforme et lisse."
+          },
+          {
+            "Question": "Quel ingrédient est essentiel pour créer une pâte feuilletée friable?",
+            "TrueAnswer": "Beurre froid",
+            "FalseAnswer": [
+              "Oeufs à température ambiante",
+              "Lait tiède",
+              "Huile végétale"
+            ],
+            "Explanation": "L'incorporation de beurre froid dans la farine crée des couches lors de la cuisson, ce qui donne une croûte friable et tendre."
+          },
+          {
+            "Question": "Quelle est la principale source de levure dans la pâte feuilletée?",
+            "TrueAnswer": "Couches de beurre",
+            "FalseAnswer": [
+              "Levure chimique",
+              "Levure",
+              "Oeufs"
+            ],
+            "Explanation": "Les couches de beurre à l'intérieur de la pâte feuilletée créent de la vapeur lors de la cuisson, ce qui la fait gonfler."
+          },
+          {
+            "Question": "Quel est le but de la cuisson à blanc d'une croûte à tarte?",
+            "TrueAnswer": "Empêche le fond humide",
+            "FalseAnswer": [
+              "Ajoute de la saveur",
+              "Crée une croûte croustillante",
+              "Améliore la texture de la garniture"
+            ],
+            "Explanation": "La cuisson à blanc d'une croûte à tarte forme une barrière, garantissant que la garniture ne rende pas la croûte humide et maintienne sa croustillance."
+          },
+          {
+            "Question": "Quel type de sucre est souvent utilisé dans les meringues?",
+            "TrueAnswer": "Sucre en poudre",
+            "FalseAnswer": [
+              "Sucre brun",
+              "Sucre glace",
+              "Sucre granulé"
+            ],
+            "Explanation": "Le sucre en poudre se dissout rapidement et uniformément dans les blancs d'œufs, produisant une meringue lisse et stable."
+          },
+          {
+            "Question": "Qu'est-ce qui rend un gâteau dense et lourd?",
+            "TrueAnswer": "Trop de mélange",
+            "FalseAnswer": [
+              "Cuisson insuffisante",
+              "Température de four basse",
+              "Levure excessive"
+            ],
+            "Explanation": "Trop de mélange entraîne le développement du gluten, produisant un gâteau dense et lourd au lieu d'une mie tendre."
+          },
+          {
+            "Question": "Quelle est la fonction principale de la crème de tartre dans une meringue?",
+            "TrueAnswer": "Stabilisant",
+            "FalseAnswer": [
+              "Édulcorant",
+              "Améliorant de couleur",
+              "Améliorant de saveur"
+            ],
+            "Explanation": "La crème de tartre aide à stabiliser les blancs d'œufs, les empêchant de s'effondrer et contribuant à une structure plus solide dans la meringue."
+          },
+          {
+            "Question": "Quelle matière grasse est couramment utilisée pour la pâte feuilletée?",
+            "TrueAnswer": "Beurre non salé",
+            "FalseAnswer": [
+              "Shortening",
+              "Huile végétale",
+              "Margarine"
+            ],
+            "Explanation": "Le beurre non salé contribue à la saveur riche et aux couches feuilletées de la pâte feuilletée, comme les croissants et les pâtes feuilletées."
+          },
+          {
+            "Question": "Quel rôle joue la levure dans la pâte à pain?",
+            "TrueAnswer": "Agent de levage",
+            "FalseAnswer": [
+              "Liante",
+              "Émulsifiant",
+              "Améliorant de saveur"
+            ],
+            "Explanation": "La levure produit du dioxyde de carbone par fermentation, faisant lever la pâte et créant une texture légère et aérée dans le pain."
+          },
+          {
+            "Question": "Quelle est une fonction courante des jaunes d'œufs dans la pâte à tarte?",
+            "TrueAnswer": "Ajoute de la richesse",
+            "FalseAnswer": [
+              "Augmente la levée",
+              "Fournit de la structure",
+              "Améliore la couleur"
+            ],
+            "Explanation": "Les jaunes d'œufs contribuent à une texture veloutée et à la richesse de la pâte à tarte grâce à leurs propriétés grasses et émulsifiantes."
+          },
+          {
+            "Question": "Quel type de farine est souvent utilisé pour les pâtisseries délicates, comme le sablé?",
+            "TrueAnswer": "Farine à gâteaux",
+            "FalseAnswer": [
+              "Farine tout usage",
+              "Farine de blé entier",
+              "Farine à pain"
+            ],
+            "Explanation": "La farine à gâteaux a une teneur en protéines plus faible, ce qui donne une texture tendre et délicate recherchée dans les pâtisseries comme le sablé."
+          },
+          {
+            "Question": "Que se passe-t-il si une quantité excessive de sucre est utilisée dans la pâte à tarte?",
+            "TrueAnswer": "Augmente le brunissement",
+            "FalseAnswer": [
+              "Améliore la texture",
+              "Améliore la levée",
+              "Ajoute de la tendresse"
+            ],
+            "Explanation": "Un excès de sucre caramelise lors de la cuisson, ce qui donne une croûte de pâte trop dorée voire brûlée."
+          },
+          {
+            "Question": "Comment le fait de réfrigérer la pâte à cookies avant la cuisson affecte-t-il les cookies?",
+            "TrueAnswer": "Empêche l'expansion",
+            "FalseAnswer": [
+              "Améliore la saveur",
+              "Accélère la cuisson",
+              "Favorise le brunissement"
+            ],
+            "Explanation": "Le fait de réfrigérer la pâte à cookies solidifie les matières grasses, empêchant les cookies de trop s'étaler lors de la cuisson et donnant une texture plus épaisse."
+          },
+          {
+            "Question": "Quelle étape est cruciale lors de la réalisation de pâte feuilletée, telle que les croissants?",
+            "TrueAnswer": "Un bon lamination et pliage",
+            "FalseAnswer": [
+              "Trop mélanger la pâte",
+              "Pétrissage excessif",
+              "Fermentation rapide"
+            ],
+            "Explanation": "Un bon lamination et pliage de la pâte avec le beurre créent des couches distinctes, essentielles pour obtenir la texture feuilletée et beurrée des croissants."
+          },
+          {
+            "Question": "Quel effet l'acidité, comme le vinaigre ou le jus de citron, a-t-elle sur une meringue?",
+            "TrueAnswer": "Stabilise les blancs d'œufs",
+            "FalseAnswer": [
+              "Réduit la douceur",
+              "Améliore le brunissement",
+              "Facilite la levée"
+            ],
+            "Explanation": "L'acidité stabilise les blancs d'œufs, empêchant un mélange excessif et assurant une structure de meringue stable et volumineuse."
+          },
+          {
+            "Question": "Quelle est la fonction de la fécule de maïs dans la crème pâtissière?",
+            "TrueAnswer": "Épaississant",
+            "FalseAnswer": [
+              "Colorant",
+              "Agent aromatisant",
+              "Agent de levée"
+            ],
+            "Explanation": "La fécule de maïs aide à épaissir la crème pâtissière en absorbant le liquide et en lui donnant une consistance lisse et crémeuse."
+          },
+          {
+            "Question": "Comment l'utilisation de lait ribot affecte-t-elle la texture des produits de boulangerie?",
+            "TrueAnswer": "Attendrit",
+            "FalseAnswer": [
+              "Augmente la douceur",
+              "Réduit le brunissement",
+              "Favorise la levée"
+            ],
+            "Explanation": "La nature acide du lait ribot attendrit le gluten, ce qui donne des produits de boulangerie moelleux et tendres avec une saveur subtilement acide."
+          },
+          {
+            "Question": "Quel est le but de scarifier la pâte à pain avant la cuisson?",
+            "TrueAnswer": "Contrôle l'expansion",
+            "FalseAnswer": [
+              "Ajoute de la saveur",
+              "Augmente la levée",
+              "Aide au brunissement"
+            ],
+            "Explanation": "Le scarifiage guide l'expansion du pain pendant la cuisson, permettant à la vapeur de s'échapper et contrôlant la forme et la texture de la pâte."
+          }
+        ]
+      }
+    }
+  ]
+}

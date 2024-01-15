@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5395426129895625196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1970706312379856909}
+  - component: {fileID: 7140194976463239551}
+  m_Layer: 0
+  m_Name: Geography_Population_Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1970706312379856909
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5395426129895625196}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7140194976463239551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5395426129895625196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for the maximum number of people a region can sustain?
+      TrueAnswer: Carrying capacity
+      FalseAnswer:
+      - Demographic transition
+      - Urbanization
+      - Gentrification
+      Explanation: Carrying capacity refers to the maximum population size that an
+        environment can sustain indefinitely. It is influenced by resources and environmental
+        conditions.
+    - Question: What is the most populous country in the world?
+      TrueAnswer: China
+      FalseAnswer:
+      - India
+      - United States
+      - Indonesia
+      Explanation: China has the largest population with over 1.4 billion people.
+        It is also the fourth largest country by land area.
+    - Question: What is the measure of the average number of children born to a woman
+        in a population?
+      TrueAnswer: Total fertility rate
+      FalseAnswer:
+      - Life expectancy
+      - Infant mortality rate
+      - Population density
+      Explanation: The total fertility rate represents the average number of children
+        a woman would have during her reproductive years. It impacts population growth.
+    - Question: Which country has the highest population density?
+      TrueAnswer: Bangladesh
+      FalseAnswer:
+      - Russia
+      - Canada
+      - Australia
+      Explanation: Bangladesh has a high population density due to its small land
+        area and large population, with over 1,200 people per square kilometer.
+    - Question: What is the process of people moving from rural areas to urban areas
+        called?
+      TrueAnswer: Rural-urban migration
+      FalseAnswer:
+      - Suburban sprawl
+      - Transhumance
+      - Deforestation
+      Explanation: Rural-urban migration is the movement of people from countryside
+        to cities, often driven by economic opportunities and lifestyle improvements.
+    - Question: What is the term for the number of deaths per 1,000 individuals in
+        a population per year?
+      TrueAnswer: Death rate
+      FalseAnswer:
+      - Birth rate
+      - Mortality rate
+      - Life expectancy
+      Explanation: The death rate measures the number of deaths in a population over
+        a specific time period, providing insights into population trends and healthcare
+        needs.
+    - Question: Which continent has the highest population growth rate?
+      TrueAnswer: Africa
+      FalseAnswer:
+      - Asia
+      - Europe
+      - North America
+      Explanation: Africa experiences the highest population growth rate due to high
+        fertility rates, declining mortality, and improved healthcare leading to
+        longer life expectancy.
+    - Question: What is the term for the movement of people into a country they are
+        not natives of?
+      TrueAnswer: Immigration
+      FalseAnswer:
+      - Emigration
+      - Refugee
+      - Asylum seeker
+      Explanation: Immigration involves the movement of individuals into a country
+        with the intention of residing there, influencing demographic and cultural
+        dynamics.
+    - Question: Which country has the highest proportion of elderly population (65
+        years and older)?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - Germany
+      - Italy
+      - United States
+      Explanation: Japan has the highest proportion of elderly population, with almost
+        30% aged 65 and older, attributed to longevity and low birth rates.
+    - Question: What is the term for a region that experiences more people leaving
+        than arriving?
+      TrueAnswer: Population decline
+      FalseAnswer:
+      - Natural increase
+      - Migration
+      - Population momentum
+      Explanation: Population decline occurs when the number of births and immigrants
+        is outweighed by deaths and emigration, leading to a net decrease in population.
+    - Question: Which city is the most populous in the world?
+      TrueAnswer: Tokyo
+      FalseAnswer:
+      - Delhi
+      - Shanghai
+      - Mumbai
+      Explanation: Tokyo, the capital of Japan, is the most populous city globally,
+        with over 37 million residents in the metropolitan area.
+    - Question: What is the term for areas with a lower-than-average proportion of
+        people living in them?
+      TrueAnswer: Depopulated areas
+      FalseAnswer:
+      - Urban areas
+      - Megacities
+      - Population distribution
+      Explanation: Depopulated areas have experienced significant population decline,
+        often due to economic shifts, rural-urban migration, and natural disasters.
+    - Question: Which region has the highest urban population percentage?
+      TrueAnswer: Latin America
+      FalseAnswer:
+      - Europe
+      - North America
+      - Asia
+      Explanation: Latin America has a high percentage of urban population, with
+        over 80% residing in urban areas, driven by rapid urbanization and industrialization.
+    - Question: What is the term for a large cluster of people living within a particular
+        area?
+      TrueAnswer: Population agglomeration
+      FalseAnswer:
+      - Population dispersal
+      - Population density
+      - Megacity
+      Explanation: Population agglomeration refers to the concentration of people
+        in one area, often resulting from economic activities and urban development.
+    - Question: Which country has the lowest population growth rate?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - Japan
+      - Italy
+      - Greece
+      Explanation: Germany has one of the lowest population growth rates due to low
+        fertility rates, an aging population, and limited immigration.
+    - Question: What is the term for the movement of people within a country from
+        one region to another?
+      TrueAnswer: Internal migration
+      FalseAnswer:
+      - International migration
+      - Transnational migration
+      - Reverse migration
+      Explanation: Internal migration involves the relocation of individuals within
+        a country, impacting regional demographics, economy, and social dynamics.
+    - Question: Which continent has the highest population?
+      TrueAnswer: Asia
+      FalseAnswer:
+      - Africa
+      - Europe
+      - North America
+      Explanation: Asia is the most populous continent, home to over 4.6 billion
+        people, accounting for more than half of the world's population.
+    - Question: What is the term for the movement of people from urban areas to rural
+        areas?
+      TrueAnswer: Urban-rural migration
+      FalseAnswer:
+      - Gentrification
+      - Counterurbanization
+      - Transmigration
+      Explanation: Urban-rural migration involves individuals relocating from cities
+        to rural areas, influenced by lifestyle preferences, employment opportunities,
+        and environmental factors.
+    - Question: Which country has the highest life expectancy?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - Switzerland
+      - Singapore
+      - Australia
+      Explanation: Japan has the highest life expectancy, with an average of over
+        85 years, attributed to a combination of advanced healthcare, diet, and lifestyle.
+    - Question: What is the term for determining the number of people per unit of
+        area?
+      TrueAnswer: Population density
+      FalseAnswer:
+      - Population distribution
+      - Population growth
+      - Urbanization
+      Explanation: Population density calculates the average number of people per
+        square unit of land, providing insights into resource allocation and environmental
+        impact.

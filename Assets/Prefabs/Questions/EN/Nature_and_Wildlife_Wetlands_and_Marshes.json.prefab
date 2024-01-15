@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7579898822515990170
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9121857976122526802}
+  - component: {fileID: 443590222797946853}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Wetlands_and_Marshes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9121857976122526802
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7579898822515990170}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &443590222797946853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7579898822515990170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What percentage of Earth's animal species live in wetlands?
+      TrueAnswer: 40%
+      FalseAnswer:
+      - 20%
+      - 60%
+      - 80%
+      Explanation: Approximately 40% of the world's animal species live in or depend
+        on wetlands, making them rich and diverse ecosystems.
+    - Question: Which bird is a common sight in wetlands and has long legs and neck?
+      TrueAnswer: Heron
+      FalseAnswer:
+      - Penguin
+      - Eagle
+      - Owl
+      Explanation: Herons are wading birds commonly found in wetland habitats, with
+        their long legs and necks adapted for hunting in the water.
+    - Question: What is the primary cause of wetland loss?
+      TrueAnswer: Human activity
+      FalseAnswer:
+      - Climate change
+      - Natural disasters
+      - Wildlife predation
+      Explanation: Human activities such as urbanization, agriculture, and pollution
+        are the leading causes of wetland loss and degradation worldwide.
+    - Question: Which of these animals is NOT commonly found in wetlands?
+      TrueAnswer: Polar bear
+      FalseAnswer:
+      - Alligator
+      - Beaver
+      - Swan
+      Explanation: Polar bears are not commonly found in wetlands, as they primarily
+        inhabit arctic and coastal areas in search of sea ice for hunting seals.
+    - Question: What is the term for the transition zone between wetlands and dry
+        land?
+      TrueAnswer: Ecotone
+      FalseAnswer:
+      - Estuary
+      - Aquifer
+      - Tributary
+      Explanation: An ecotone is the transition area between two distinct ecosystems,
+        such as wetlands and upland habitats, supporting unique biodiversity.
+    - Question: Which of these is a floating wetland plant with large, round leaves?
+      TrueAnswer: Water lily
+      FalseAnswer:
+      - Cattail
+      - Bulrush
+      - Reed
+      Explanation: Water lilies are aquatic plants with large, round leaves that
+        float on the water surface, providing habitat for fish and invertebrates.
+    - Question: What is the purpose of a wetland's spongy soil and plant roots?
+      TrueAnswer: Filter water
+      FalseAnswer:
+      - Trap insects
+      - Generate heat
+      - Prevent erosion
+      Explanation: The spongy soil and plant roots of wetlands act as natural filters,
+        removing pollutants and sediments from water, improving water quality.
+    - Question: Which type of wetland is dominated by mosses, lichens, and peat deposits?
+      TrueAnswer: Bog
+      FalseAnswer:
+      - Marsh
+      - Swamp
+      - Fen
+      Explanation: Bogs are acidic wetlands characterized by peat deposits, low nutrient
+        levels, and a unique community of mosses, lichens, and specialized plants.
+    - Question: Which small, colorful amphibian is commonly found in wetland habitats?
+      TrueAnswer: Poison dart frog
+      FalseAnswer:
+      - Salamander
+      - Toad
+      - Newt
+      Explanation: Poison dart frogs are brightly colored amphibians found in tropical
+        wetlands, known for their toxic skin secretions and intricate mating behavior.
+    - Question: What is the purpose of wetlands in mitigating floods and storm surges?
+      TrueAnswer: Natural buffer
+      FalseAnswer:
+      - Water storage
+      - Groundwater recharge
+      - Sediment deposition
+      Explanation: Wetlands act as natural buffers by absorbing and slowing floodwaters,
+        reducing the impacts of storms and protecting adjacent areas from inundation.
+    - Question: Which wetland predator is known for its stealth and ambush hunting
+        technique?
+      TrueAnswer: Snapping turtle
+      FalseAnswer:
+      - Cormorant
+      - Osprey
+      - Muskrat
+      Explanation: Snapping turtles are adept ambush predators in wetland habitats,
+        using their sharp beaks and powerful jaws to capture prey with stealth.
+    - Question: What type of wetland plant forms dense floating mats and provides
+        habitat for wildlife?
+      TrueAnswer: Spartina
+      FalseAnswer:
+      - Cattail
+      - Phragmites
+      - Sawgrass
+      Explanation: Spartina, or cordgrass, forms dense floating mats in coastal wetlands,
+        providing nesting and foraging habitat for birds and fish.
+    - Question: Which of these animals is considered a keystone species in wetlands?
+      TrueAnswer: Beaver
+      FalseAnswer:
+      - Moose
+      - Raccoon
+      - Bobcat
+      Explanation: Beavers are considered keystone species in wetlands, as their
+        dam-building activities create diverse aquatic habitats benefiting numerous
+        species.
+    - Question: What is the global extent of wetland loss and degradation in the
+        last century?
+      TrueAnswer: Over 50%
+      FalseAnswer:
+      - Under 10%
+      - Around 25%
+      - Approximately 40%
+      Explanation: Wetland loss and degradation have exceeded 50% globally in the
+        last century due to human development and exploitation of natural resources.
+    - Question: Which wetland bird is known for its haunting call and is revered
+        as a symbol of wilderness?
+      TrueAnswer: Common loon
+      FalseAnswer:
+      - Great blue heron
+      - Wood duck
+      - Sandhill crane
+      Explanation: The common loon is known for its haunting calls and is often revered
+        as a symbol of wilderness, inhabiting northern wetland areas.
+    - Question: What role do wetlands play in carbon storage and climate regulation?
+      TrueAnswer: Carbon sink
+      FalseAnswer:
+      - Greenhouse gas emitter
+      - Heat absorber
+      - Oxygen producer
+      Explanation: Wetlands serve as crucial carbon sinks, storing carbon in plant
+        biomass and soil, playing a vital role in regulating climate and mitigating
+        global warming.
+    - Question: What adaptation do wetland plants possess to thrive in waterlogged
+        conditions?
+      TrueAnswer: Aerenchyma
+      FalseAnswer:
+      - Thorns
+      - Waxy leaves
+      - Pungent odor
+      Explanation: Aerenchyma is a specialized plant tissue that allows for efficient
+        gas exchange in waterlogged soils, helping wetland plants survive anaerobic
+        conditions.
+    - Question: Which of the following is a critical function of wetlands in supporting
+        biodiversity?
+      TrueAnswer: Nursery habitat
+      FalseAnswer:
+      - Breeding ground for insects
+      - Food source for predators
+      - Migratory bird stopover
+      Explanation: Wetlands serve as vital nursery habitats, providing shelter and
+        food for young fish, amphibians, and invertebrates, supporting diverse ecosystems.
+    - Question: Which type of wetland is characterized by seasonally flooded grasslands
+        and shallow water?
+      TrueAnswer: Prairie pothole
+      FalseAnswer:
+      - Oxbow lake
+      - Playa
+      - Floodplain
+      Explanation: Prairie potholes are shallow wetlands that form in glacial depressions,
+        serving as essential breeding and foraging grounds for waterfowl.
+    - Question: What is the primary purpose of wetland restoration and conservation
+        efforts?
+      TrueAnswer: Preserving biodiversity
+      FalseAnswer:
+      - Enhancing recreational activities
+      - Flood control
+      - Promoting ecotourism
+      Explanation: Wetland restoration and conservation aim to preserve and restore
+        the diverse biological communities supported by wetland habitats, protecting
+        biodiversity.

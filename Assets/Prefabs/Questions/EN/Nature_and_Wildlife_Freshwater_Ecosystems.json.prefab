@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &62332846659586868
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3286798733214205096}
+  - component: {fileID: 8521586968817046949}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Freshwater_Ecosystems.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3286798733214205096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 62332846659586868}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8521586968817046949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 62332846659586868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which of the following is a primary producer in freshwater ecosystems?
+      TrueAnswer: Algae
+      FalseAnswer:
+      - Fish
+      - Frog
+      - Turtle
+      Explanation: Algae, through photosynthesis, produces oxygen and is the foundation
+        of the food web in freshwater ecosystems.
+    - Question: What is the primary factor affecting the health of a freshwater ecosystem?
+      TrueAnswer: Water Quality
+      FalseAnswer:
+      - Air Temperature
+      - Soil Composition
+      - Human Population Density
+      Explanation: Water quality directly impacts the survival of aquatic organisms
+        and the overall balance of a freshwater ecosystem.
+    - Question: Which species is considered an apex predator in freshwater ecosystems?
+      TrueAnswer: Alligator
+      FalseAnswer:
+      - Trout
+      - Crayfish
+      - Catfish
+      Explanation: As an apex predator, alligators regulate populations of prey species,
+        contributing to the balance of freshwater ecosystems.
+    - Question: What is a common characteristic of freshwater wetlands?
+      TrueAnswer: High Biodiversity
+      FalseAnswer:
+      - Low Oxygen Levels
+      - Sandy Soil
+      - Excessive Salinity
+      Explanation: Freshwater wetlands support diverse flora and fauna, making them
+        reservoirs of biodiversity and vital for ecosystem health.
+    - Question: How do freshwater mussels contribute to the ecosystem?
+      TrueAnswer: Water Filtration
+      FalseAnswer:
+      - Air Purification
+      - Soil Nutrient Absorption
+      - Pollination
+      Explanation: Freshwater mussels are filter feeders, helping to maintain water
+        clarity and quality by removing particulates and impurities.
+    - Question: What can disrupt the migration patterns of freshwater fish?
+      TrueAnswer: Dam Construction
+      FalseAnswer:
+      - Rainfall Variability
+      - Temperature Fluctuations
+      - Predator Population Increase
+      Explanation: Dams obstruct natural water flows and hinder the migration of
+        fish, affecting their reproductive and feeding behaviors.
+    - Question: Which organism is vital for nutrient recycling in freshwater ecosystems?
+      TrueAnswer: Bacteria
+      FalseAnswer:
+      - Dragonfly
+      - Snail
+      - Crab
+      Explanation: Bacteria play a crucial role in decomposing organic matter and
+        recycling nutrients in freshwater ecosystems.
+    - Question: What is a common impact of invasive plant species in freshwater ecosystems?
+      TrueAnswer: Habitat Degradation
+      FalseAnswer:
+      - Biodiversity Increase
+      - Water Clarity Improvement
+      - Oxygen Saturation
+      Explanation: Invasive plants can outcompete native species, alter habitats,
+        and disrupt the balance of freshwater ecosystems.
+    - Question: What is the primary factor influencing the distribution of freshwater
+        species?
+      TrueAnswer: Temperature
+      FalseAnswer:
+      - Humidity
+      - Sunlight Intensity
+      - Wind Speed
+      Explanation: Temperature affects the metabolic rates, growth, and reproduction
+        of freshwater organisms, shaping their distribution patterns.
+    - Question: Which nutrient is often a limiting factor for freshwater ecosystem
+        productivity?
+      TrueAnswer: Phosphorus
+      FalseAnswer:
+      - Calcium
+      - Nitrogen
+      - Potassium
+      Explanation: Phosphorus availability influences the growth of primary producers
+        and can limit the overall productivity of freshwater ecosystems.
+    - Question: What is a defining feature of an oxbow lake in a freshwater ecosystem?
+      TrueAnswer: Crescent Shape
+      FalseAnswer:
+      - Linear Extension
+      - Circular Depth
+      - Irregular Shoreline
+      Explanation: Oxbow lakes are formed from the meandering of rivers, creating
+        crescent-shaped water bodies that support diverse ecological niches.
+    - Question: How do beavers impact freshwater ecosystems?
+      TrueAnswer: Habitat Modification
+      FalseAnswer:
+      - Air Pollution
+      - Water Desalination
+      - Soil Erosion
+      Explanation: Beavers alter freshwater landscapes by building dams and creating
+        wetlands, influencing water flow, biodiversity, and nutrient cycling.
+    - Question: Which characteristic distinguishes a lentic freshwater habitat from
+        a lotic habitat?
+      TrueAnswer: Still Water
+      FalseAnswer:
+      - Rapid Flow
+      - High Salinity
+      - Deep Channel
+      Explanation: Lentic habitats, with stagnant or slow-moving water, contrast
+        with lotic habitats characterized by flowing water.
+    - Question: What role do macroinvertebrates play in freshwater ecosystems?
+      TrueAnswer: Decomposition
+      FalseAnswer:
+      - Pollination
+      - Seed Dispersal
+      - Predation
+      Explanation: Macroinvertebrates aid in the breakdown of organic matter, contributing
+        to nutrient cycling and energy flow within freshwater ecosystems.
+    - Question: What process leads to eutrophication in freshwater ecosystems?
+      TrueAnswer: Excessive Nutrient Runoff
+      FalseAnswer:
+      - Aerobic Respiration
+      - Sediment Deposition
+      - Decreased Algal Growth
+      Explanation: Excessive nutrient runoff, often from agricultural activities,
+        accelerates algal blooms and degrades water quality, leading to eutrophication.
+    - Question: Which factor contributes to the formation of river meanders in freshwater
+        ecosystems?
+      TrueAnswer: Erosion and Deposition
+      FalseAnswer:
+      - Tectonic Forces
+      - Surface Infiltration
+      - Major Climate Shifts
+      Explanation: Gradual erosion and sediment deposition reshape river channels,
+        forming meanders that support diverse habitats in freshwater ecosystems.
+    - Question: What is a keystone species in freshwater ecosystems?
+      TrueAnswer: River Otter
+      FalseAnswer:
+      - Bluegill Fish
+      - Freshwater Snail
+      - Mosquito Larvae
+      Explanation: As a keystone species, river otters regulate prey populations
+        and contribute to the overall health and diversity of freshwater ecosystems.
+    - Question: How do mangrove forests influence freshwater ecosystems adjacent
+        to coastal areas?
+      TrueAnswer: Nutrient Filtering
+      FalseAnswer:
+      - Sediment Accumulation
+      - Saltwater Intrusion
+      - Tidal Erosion
+      Explanation: Mangroves act as natural filters, trapping sediments and absorbing
+        nutrients, enhancing water quality in adjacent freshwater ecosystems.
+    - Question: What is a significant threat to freshwater biodiversity?
+      TrueAnswer: Habitat Destruction
+      FalseAnswer:
+      - Climate Stability
+      - Water Temperature Variation
+      - Algal Blooms
+      Explanation: Habitat destruction, through land conversion and pollution, poses
+        a major threat to the diverse species inhabiting freshwater ecosystems.
+    - Question: How do seasonal changes in precipitation impact freshwater ecosystems?
+      TrueAnswer: Flow Rate Variation
+      FalseAnswer:
+      - Salinity Fluctuation
+      - Temperature Stability
+      - Turbidity Reduction
+      Explanation: Seasonal precipitation fluctuations influence the flow rates of
+        rivers and streams, affecting the habitats and life cycles of freshwater
+        organisms.

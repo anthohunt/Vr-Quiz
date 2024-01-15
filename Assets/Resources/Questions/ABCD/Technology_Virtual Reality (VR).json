@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What does VR stand for?",
+          "TrueAnswer": "Virtual Reality",
+          "FalseAnswer": [
+            "Video Recording",
+            "Visual Representation",
+            "Virtual Realm"
+          ],
+          "Explanation": "VR stands for Virtual Reality, which refers to a simulated experience that can be similar to or completely different from the real world."
+        },
+        {
+          "Question": "Which sense does VR primarily aim to stimulate?",
+          "TrueAnswer": "Sight",
+          "FalseAnswer": [
+            "Hearing",
+            "Taste",
+            "Smell"
+          ],
+          "Explanation": "VR primarily aims to stimulate the sense of sight through immersive visual experiences."
+        },
+        {
+          "Question": "What is the purpose of VR?",
+          "TrueAnswer": "Enhance experiences",
+          "FalseAnswer": [
+            "Replace reality",
+            "Create illusions",
+            "Cause disorientation"
+          ],
+          "Explanation": "The purpose of VR is to enhance experiences by providing a realistic or imaginative environment."
+        },
+        {
+          "Question": "What is a VR headset?",
+          "TrueAnswer": "Device worn on the head",
+          "FalseAnswer": [
+            "Handheld controller",
+            "Computer software",
+            "Virtual environment"
+          ],
+          "Explanation": "A VR headset is a device worn on the head that displays virtual reality content and tracks head movements."
+        },
+        {
+          "Question": "Which industry has adopted VR for training simulations?",
+          "TrueAnswer": "Military",
+          "FalseAnswer": [
+            "Fashion",
+            "Food",
+            "Sports"
+          ],
+          "Explanation": "The military industry has adopted VR for training simulations to enhance soldier readiness and reduce risks."
+        },
+        {
+          "Question": "What is the term for feeling dizzy or nauseous in VR?",
+          "TrueAnswer": "Simulator sickness",
+          "FalseAnswer": [
+            "Virtual vertigo",
+            "Cyber sickness",
+            "Digital dizziness"
+          ],
+          "Explanation": "The term for feeling dizzy or nauseous in VR is simulator sickness, which can occur due to sensory conflicts."
+        },
+        {
+          "Question": "What is the field that combines VR with physical reality?",
+          "TrueAnswer": "Augmented Reality",
+          "FalseAnswer": [
+            "Mixed Reality",
+            "Virtual Environment",
+            "Simulated Reality"
+          ],
+          "Explanation": "The field that combines VR with physical reality is called Augmented Reality, where virtual elements are overlaid on the real world."
+        },
+        {
+          "Question": "What is the term for the feeling of being present in a virtual environment?",
+          "TrueAnswer": "Presence",
+          "FalseAnswer": [
+            "Immersiveness",
+            "Virtual immersion",
+            "Simulation sensation"
+          ],
+          "Explanation": "The term for the feeling of being present in a virtual environment is presence, which enhances the sense of realism."
+        },
+        {
+          "Question": "What is the name of the handheld controllers used in VR?",
+          "TrueAnswer": "Oculus Touch",
+          "FalseAnswer": [
+            "Vive Wands",
+            "PlayStation Move",
+            "Windows Mixed Reality Controllers"
+          ],
+          "Explanation": "Oculus Touch is the name of the handheld controllers used in VR with Oculus Rift headsets."
+        },
+        {
+          "Question": "Which company developed the Oculus Rift VR headset?",
+          "TrueAnswer": "Oculus VR",
+          "FalseAnswer": [
+            "Sony",
+            "Microsoft",
+            "HTC"
+          ],
+          "Explanation": "The Oculus Rift VR headset was developed by Oculus VR, a subsidiary of Facebook."
+        },
+        {
+          "Question": "What is the term for a realistic representation of a user in VR?",
+          "TrueAnswer": "Avatar",
+          "FalseAnswer": [
+            "Hologram",
+            "Simulacrum",
+            "Virtual being"
+          ],
+          "Explanation": "The term for a realistic representation of a user in VR is avatar, which can be customized to reflect the user's appearance."
+        },
+        {
+          "Question": "Which of the following is not a VR application?",
+          "TrueAnswer": "Email",
+          "FalseAnswer": [
+            "Gaming",
+            "Education",
+            "Healthcare"
+          ],
+          "Explanation": "While VR can be used for gaming, education, and healthcare, it is not typically used for email communication."
+        },
+        {
+          "Question": "What is the term for the area that a user can physically move within in VR?",
+          "TrueAnswer": "Play space",
+          "FalseAnswer": [
+            "Virtual zone",
+            "Movement area",
+            "Simulation field"
+          ],
+          "Explanation": "The term for the area that a user can physically move within in VR is play space, which may be limited by the physical environment."
+        },
+        {
+          "Question": "Which of the following is a popular VR game?",
+          "TrueAnswer": "Beat Saber",
+          "FalseAnswer": [
+            "Minecraft",
+            "Fortnite",
+            "Call of Duty"
+          ],
+          "Explanation": "Beat Saber is a popular VR game where players use virtual lightsabers to slice through blocks to the rhythm of music."
+        },
+        {
+          "Question": "What is the term for the technology that tracks the position of a user's head in VR?",
+          "TrueAnswer": "Head tracking",
+          "FalseAnswer": [
+            "Eye tracking",
+            "Body tracking",
+            "Hand tracking"
+          ],
+          "Explanation": "Head tracking is the technology that tracks the position of a user's head in VR to provide a realistic perspective."
+        },
+        {
+          "Question": "Which of the following is not a VR headset brand?",
+          "TrueAnswer": "PlayStation VR",
+          "FalseAnswer": [
+            "Oculus Quest",
+            "HTC Vive",
+            "Samsung Gear VR"
+          ],
+          "Explanation": "While Oculus Quest, HTC Vive, and Samsung Gear VR are VR headset brands, PlayStation VR is a console-based VR system."
+        },
+        {
+          "Question": "What is the term for the feeling of motion in VR when the user is stationary?",
+          "TrueAnswer": "Cybersickness",
+          "FalseAnswer": [
+            "Virtual motion",
+            "Simulator vertigo",
+            "Digital dizziness"
+          ],
+          "Explanation": "The term for the feeling of motion in VR when the user is stationary is cybersickness, similar to motion sickness."
+        },
+        {
+          "Question": "Which of the following is not a VR input method?",
+          "TrueAnswer": "Telepathy",
+          "FalseAnswer": [
+            "Hand gestures",
+            "Voice commands",
+            "Motion controllers"
+          ],
+          "Explanation": "While hand gestures, voice commands, and motion controllers are VR input methods, telepathy is not currently possible."
+        },
+        {
+          "Question": "What is the term for the process of creating a VR environment?",
+          "TrueAnswer": "Virtual world building",
+          "FalseAnswer": [
+            "Digital realm construction",
+            "Simulated reality crafting",
+            "Immersive space development"
+          ],
+          "Explanation": "The term for the process of creating a VR environment is virtual world building, involving design and programming."
+        },
+        {
+          "Question": "Which of the following is not a VR locomotion method?",
+          "TrueAnswer": "Hoverboarding",
+          "FalseAnswer": [
+            "Teleportation",
+            "Smooth locomotion",
+            "Arm swinging"
+          ],
+          "Explanation": "While teleportation, smooth locomotion, and arm swinging are VR locomotion methods, hoverboarding is not commonly used."
+        },
+        {
+          "Question": "What is the term for the sensation of touch in VR?",
+          "TrueAnswer": "Haptic feedback",
+          "FalseAnswer": [
+            "Tactile simulation",
+            "Virtual touch",
+            "Sensory response"
+          ],
+          "Explanation": "The term for the sensation of touch in VR is haptic feedback, which provides tactile sensations through vibrations or force."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5769964454695487984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5135314086324492379}
+  - component: {fileID: 6770538818784826792}
+  m_Layer: 0
+  m_Name: Internet_Internet in Politics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5135314086324492379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5769964454695487984}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6770538818784826792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5769964454695487984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for spreading false information online to deceive
+        people?
+      TrueAnswer: Disinformation
+      FalseAnswer:
+      - Encryption
+      - Censorship
+      - Hacking
+      Explanation: Disinformation refers to the deliberate spread of false or misleading
+        information with the intention to deceive or manipulate.
+    - Question: Which social media platform is known for its 280-character limit
+        per tweet?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - LinkedIn
+      Explanation: Twitter is a microblogging platform where users can post short
+        messages called tweets, limited to 280 characters.
+    - Question: What is the term for using social media to promote a political agenda?
+      TrueAnswer: Social media activism
+      FalseAnswer:
+      - Cyberbullying
+      - Trolling
+      - Phishing
+      Explanation: Social media activism refers to the use of social media platforms
+        to promote or advocate for a specific political cause or agenda.
+    - Question: Which country has the highest internet penetration rate?
+      TrueAnswer: Iceland
+      FalseAnswer:
+      - China
+      - United States
+      - India
+      Explanation: Iceland has the highest internet penetration rate, with a significant
+        majority of its population having access to the internet.
+    - Question: What is the term for the practice of using social media to gather
+        support for a political candidate?
+      TrueAnswer: Digital campaigning
+      FalseAnswer:
+      - Online shopping
+      - Streaming
+      - Gaming
+      Explanation: Digital campaigning refers to the use of social media and online
+        platforms to gather support and engage with voters during political campaigns.
+    - Question: Which online platform is known for its user-edited encyclopedia?
+      TrueAnswer: Wikipedia
+      FalseAnswer:
+      - YouTube
+      - Netflix
+      - Amazon
+      Explanation: Wikipedia is an online platform where users can collaboratively
+        create and edit articles, making it a user-edited encyclopedia.
+    - Question: What is the term for the use of internet and technology to enhance
+        political participation?
+      TrueAnswer: E-democracy
+      FalseAnswer:
+      - E-commerce
+      - E-learning
+      - E-sports
+      Explanation: E-democracy refers to the use of internet and technology to enhance
+        political participation, such as online voting or digital petitions.
+    - Question: Which social media platform is known for its disappearing photo and
+        video messages?
+      TrueAnswer: Snapchat
+      FalseAnswer:
+      - WhatsApp
+      - Telegram
+      - WeChat
+      Explanation: Snapchat is a social media platform where users can send and receive
+        photo and video messages that disappear after a short period of time.
+    - Question: What is the term for the deliberate manipulation of online discussions
+        to influence public opinion?
+      TrueAnswer: Astroturfing
+      FalseAnswer:
+      - Streaming
+      - Phishing
+      - Hacking
+      Explanation: Astroturfing refers to the practice of creating fake grassroots
+        movements or online discussions to manipulate public opinion.
+    - Question: Which country has the largest number of internet users?
+      TrueAnswer: China
+      FalseAnswer:
+      - United States
+      - India
+      - Brazil
+      Explanation: China has the largest number of internet users, with a population
+        of over 900 million internet users.
+    - Question: What is the term for the use of social media to gather and analyze
+        public opinion?
+      TrueAnswer: Social media listening
+      FalseAnswer:
+      - Online shopping
+      - Streaming
+      - Gaming
+      Explanation: Social media listening refers to the practice of monitoring and
+        analyzing social media platforms to gather insights on public opinion.
+    - Question: Which online platform is known for its character-limited posts and
+        upvoting system?
+      TrueAnswer: Reddit
+      FalseAnswer:
+      - Tumblr
+      - Pinterest
+      - Flickr
+      Explanation: Reddit is an online platform where users can submit posts and
+        engage in discussions, with character-limited posts and an upvoting system.
+    - Question: What is the term for the use of internet and technology to facilitate
+        government-citizen interactions?
+      TrueAnswer: E-governance
+      FalseAnswer:
+      - E-commerce
+      - E-learning
+      - E-sports
+      Explanation: E-governance refers to the use of internet and technology to facilitate
+        interactions between the government and its citizens.
+    - Question: Which social media platform is known for its professional networking
+        and job searching features?
+      TrueAnswer: LinkedIn
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Twitter
+      Explanation: LinkedIn is a social media platform primarily used for professional
+        networking, job searching, and career development.
+    - Question: What is the term for the deliberate spreading of online rumors or
+        false information for political gain?
+      TrueAnswer: Fake news
+      FalseAnswer:
+      - Encryption
+      - Censorship
+      - Hacking
+      Explanation: Fake news refers to the deliberate spreading of false or misleading
+        information, often for political gain or manipulation.
+    - Question: Which country is known for its strict internet censorship and control?
+      TrueAnswer: China
+      FalseAnswer:
+      - United States
+      - Germany
+      - Canada
+      Explanation: China is known for its strict internet censorship and control,
+        with the Great Firewall blocking access to certain websites and platforms.
+    - Question: What is the term for the use of internet and technology to mobilize
+        and coordinate political protests?
+      TrueAnswer: Digital activism
+      FalseAnswer:
+      - Online shopping
+      - Streaming
+      - Gaming
+      Explanation: Digital activism refers to the use of internet and technology
+        to mobilize and coordinate political protests and movements.
+    - Question: Which online platform is known for its live streaming of video content?
+      TrueAnswer: Twitch
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Disney+
+      Explanation: Twitch is an online platform primarily used for live streaming
+        video content, particularly focused on gaming and esports.
+    - Question: What is the term for the use of internet and technology to monitor
+        and track political activities?
+      TrueAnswer: Surveillance
+      FalseAnswer:
+      - E-commerce
+      - E-learning
+      - E-sports
+      Explanation: Surveillance refers to the use of internet and technology to monitor
+        and track political activities, often by governments or intelligence agencies.
+    - Question: Which social media platform is known for its visual-focused content
+        and hashtags?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - LinkedIn
+      Explanation: Instagram is a social media platform primarily focused on sharing
+        visual content, often accompanied by hashtags for discoverability.
+    - Question: What is the term for the use of internet and technology to facilitate
+        online voting and decision-making?
+      TrueAnswer: E-voting
+      FalseAnswer:
+      - E-commerce
+      - E-learning
+      - E-sports
+      Explanation: E-voting refers to the use of internet and technology to facilitate
+        online voting and decision-making processes.

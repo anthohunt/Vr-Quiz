@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7188516027821849388
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6220386693845281429}
+  - component: {fileID: 4786062494906211713}
+  m_Layer: 0
+  m_Name: TV Shows_TV Show Revivals and Reboots.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6220386693845281429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7188516027821849388}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4786062494906211713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7188516027821849388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show was revived in 2016 after a 9-year hiatus?
+      TrueAnswer: Gilmore Girls
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: 'Gilmore Girls was revived in 2016 with a four-part miniseries
+        called ''Gilmore Girls: A Year in the Life.'''
+    - Question: Which TV show reboot features a new generation of Power Rangers?
+      TrueAnswer: Power Rangers Beast Morphers
+      FalseAnswer:
+      - Power Rangers Dino Charge
+      - Power Rangers Ninja Steel
+      - Power Rangers RPM
+      Explanation: Power Rangers Beast Morphers is the latest reboot of the long-running
+        Power Rangers franchise.
+    - Question: Which TV show revival takes place in the fictional town of Twin Peaks?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - The X-Files
+      - Lost
+      - Stranger Things
+      Explanation: Twin Peaks, created by David Lynch, was revived in 2017 for a
+        limited series continuation.
+    - Question: Which TV show reboot follows the lives of the Tanner family in San
+        Francisco?
+      TrueAnswer: Fuller House
+      FalseAnswer:
+      - Family Matters
+      - Step by Step
+      - Boy Meets World
+      Explanation: Fuller House is a reboot of the 1987-1995 sitcom Full House, focusing
+        on the next generation.
+    - Question: Which TV show revival features the return of Agent Dale Cooper?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - The X-Files
+      - Lost
+      - Stranger Things
+      Explanation: Twin Peaks brought back the iconic character Agent Dale Cooper,
+        played by Kyle MacLachlan.
+    - Question: Which TV show reboot centers around a group of high school students
+        with superpowers?
+      TrueAnswer: Mighty Morphin Power Rangers
+      FalseAnswer:
+      - Buffy the Vampire Slayer
+      - Smallville
+      - Teen Wolf
+      Explanation: Mighty Morphin Power Rangers is the original 1993 reboot of the
+        Super Sentai series from Japan.
+    - Question: Which TV show revival takes place in the fictional town of Stars
+        Hollow?
+      TrueAnswer: Gilmore Girls
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: Gilmore Girls is set in the charming town of Stars Hollow, Connecticut.
+    - Question: Which TV show reboot follows the adventures of a time-traveling alien
+        with two hearts?
+      TrueAnswer: Doctor Who
+      FalseAnswer:
+      - The Big Bang Theory
+      - The Walking Dead
+      - Game of Thrones
+      Explanation: Doctor Who, originally airing in 1963, has been rebooted multiple
+        times, featuring different actors as the Doctor.
+    - Question: Which TV show revival features the return of Mulder and Scully?
+      TrueAnswer: The X-Files
+      FalseAnswer:
+      - Lost
+      - Stranger Things
+      - Twin Peaks
+      Explanation: The X-Files brought back FBI agents Mulder and Scully, played
+        by David Duchovny and Gillian Anderson.
+    - Question: Which TV show reboot is set in a post-apocalyptic world overrun by
+        zombies?
+      TrueAnswer: The Walking Dead
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: The Walking Dead follows a group of survivors navigating a world
+        filled with flesh-eating zombies.
+    - Question: Which TV show revival takes place on an island with mysterious supernatural
+        elements?
+      TrueAnswer: Lost
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: Lost is a drama series that follows the survivors of a plane crash
+        on a mysterious island.
+    - Question: Which TV show reboot features a family living in a post-apocalyptic
+        bunker?
+      TrueAnswer: The 100
+      FalseAnswer:
+      - Modern Family
+      - The Simpsons
+      - The Big Bang Theory
+      Explanation: The 100 is a sci-fi series set 97 years after a nuclear apocalypse,
+        with survivors living in a space station and a bunker.
+    - Question: Which TV show revival follows the lives of a group of friends in
+        New York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Office
+      - Breaking Bad
+      - Gilmore Girls
+      Explanation: Friends is a beloved sitcom that revolves around the lives of
+        six friends in Manhattan.
+    - Question: Which TV show reboot is set in a high school where supernatural creatures
+        coexist with humans?
+      TrueAnswer: Buffy the Vampire Slayer
+      FalseAnswer:
+      - Gossip Girl
+      - Pretty Little Liars
+      - Riverdale
+      Explanation: Buffy the Vampire Slayer follows the adventures of a young woman
+        chosen to battle the forces of evil.
+    - Question: Which TV show revival features the return of Walter White and Jesse
+        Pinkman?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Gilmore Girls
+      Explanation: Breaking Bad has not been officially revived, but a spin-off prequel
+        called Better Call Saul explores the backstory of characters from the original
+        series.
+    - Question: Which TV show reboot is set in a small town where supernatural occurrences
+        are common?
+      TrueAnswer: Stranger Things
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: Stranger Things is a sci-fi horror series that pays homage to
+        1980s pop culture and features a group of kids encountering supernatural
+        phenomena.
+    - Question: Which TV show revival follows the lives of employees at a paper company
+        in Scranton, Pennsylvania?
+      TrueAnswer: The Office
+      FalseAnswer:
+      - Friends
+      - Breaking Bad
+      - Gilmore Girls
+      Explanation: The Office is a mockumentary sitcom that depicts the everyday
+        lives of office employees through a documentary-style format.
+    - Question: Which TV show reboot is set in a medieval fantasy world with dragons
+        and magic?
+      TrueAnswer: Game of Thrones
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: Game of Thrones is an epic fantasy series based on George R.R.
+        Martin's novels, set in the fictional continents of Westeros and Essos.
+    - Question: Which TV show revival features the return of Michael Scott and Jim
+        Halpert?
+      TrueAnswer: The Office
+      FalseAnswer:
+      - Friends
+      - Breaking Bad
+      - Gilmore Girls
+      Explanation: The Office has not been officially revived, but there have been
+        talks of a potential reunion or revival in the future.
+    - Question: Which TV show reboot is set in a town where supernatural beings coexist
+        with humans?
+      TrueAnswer: True Blood
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Breaking Bad
+      Explanation: True Blood is a supernatural drama series based on The Southern
+        Vampire Mysteries novels by Charlaine Harris.
+    - Question: Which TV show revival follows the lives of a high school chemistry
+        teacher turned methamphetamine manufacturer?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Gilmore Girls
+      Explanation: Breaking Bad is a critically acclaimed drama series that explores
+        the transformation of Walter White into a criminal mastermind.

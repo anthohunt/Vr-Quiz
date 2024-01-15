@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8997684625013616102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1909443133555427851}
+  - component: {fileID: 4837389895887706340}
+  m_Layer: 0
+  m_Name: Fashion and Design_Industrial Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1909443133555427851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8997684625013616102}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4837389895887706340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8997684625013616102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the famous fashion designer known for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Christian Dior
+      - Ralph Lauren
+      - Giorgio Armani
+      Explanation: Coco Chanel is renowned for her iconic little black dress, a timeless
+        fashion staple.
+    - Question: What is the primary color used in the logo of Louis Vuitton?
+      TrueAnswer: Brown
+      FalseAnswer:
+      - Red
+      - Blue
+      - Yellow
+      Explanation: The logo of Louis Vuitton prominently features the color brown,
+        representing luxury and elegance.
+    - Question: Which fashion designer is associated with the creation of the wrap
+        dress?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Donatella Versace
+      - Stella McCartney
+      - Vera Wang
+      Explanation: Diane von Furstenberg is credited with popularizing the wrap dress,
+        a versatile and flattering garment.
+    - Question: What is the primary material used in the production of denim jeans?
+      TrueAnswer: Cotton
+      FalseAnswer:
+      - Polyester
+      - Nylon
+      - Rayon
+      Explanation: Denim jeans are primarily made from cotton, providing durability
+        and comfort.
+    - Question: Which fashion designer is known for the creation of the red-soled
+        high heels?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Manolo Blahnik
+      - Jimmy Choo
+      - Alexander McQueen
+      Explanation: Christian Louboutin is famous for his red-soled high heels, a
+        signature design element.
+    - Question: What is the primary color used in the logo of Chanel?
+      TrueAnswer: Black
+      FalseAnswer:
+      - White
+      - Gold
+      - Pink
+      Explanation: The logo of Chanel predominantly features the color black, symbolizing
+        elegance and sophistication.
+    - Question: Which fashion designer is associated with the creation of the trench
+        coat?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Gucci
+      - Prada
+      - Versace
+      Explanation: Burberry is renowned for its iconic trench coat, a classic outerwear
+        piece.
+    - Question: What is the primary material used in the production of silk scarves?
+      TrueAnswer: Silk
+      FalseAnswer:
+      - Wool
+      - Cotton
+      - Polyester
+      Explanation: Silk scarves are primarily made from silk, providing a luxurious
+        and smooth texture.
+    - Question: Which fashion designer is known for the creation of the Birkin bag?
+      TrueAnswer: "Herm\xE8s"
+      FalseAnswer:
+      - Chanel
+      - Gucci
+      - Prada
+      Explanation: "Herm\xE8s is famous for its highly coveted Birkin bag, a symbol
+        of luxury and exclusivity."
+    - Question: What is the primary color used in the logo of Gucci?
+      TrueAnswer: Green
+      FalseAnswer:
+      - Blue
+      - Red
+      - Yellow
+      Explanation: The logo of Gucci prominently features the color green, representing
+        wealth and prestige.
+    - Question: Which fashion designer is associated with the creation of the little
+        white dress?
+      TrueAnswer: Ralph Lauren
+      FalseAnswer:
+      - Calvin Klein
+      - Tom Ford
+      - Marc Jacobs
+      Explanation: Ralph Lauren is known for his iconic little white dress, a symbol
+        of timeless elegance.
+    - Question: What is the primary material used in the production of leather jackets?
+      TrueAnswer: Leather
+      FalseAnswer:
+      - Denim
+      - Suede
+      - Cotton
+      Explanation: Leather jackets are primarily made from leather, providing durability
+        and a stylish look.
+    - Question: Which fashion designer is known for the creation of the iconic red
+        carpet gowns?
+      TrueAnswer: Versace
+      FalseAnswer:
+      - Valentino
+      - Elie Saab
+      - Oscar de la Renta
+      Explanation: Versace is renowned for its stunning red carpet gowns, worn by
+        numerous celebrities.
+    - Question: What is the primary color used in the logo of Prada?
+      TrueAnswer: Black
+      FalseAnswer:
+      - White
+      - Gold
+      - Pink
+      Explanation: The logo of Prada predominantly features the color black, representing
+        sophistication and luxury.
+    - Question: Which fashion designer is associated with the creation of the little
+        black jacket?
+      TrueAnswer: Karl Lagerfeld
+      FalseAnswer:
+      - Donatella Versace
+      - Stella McCartney
+      - Vera Wang
+      Explanation: Karl Lagerfeld is credited with popularizing the little black
+        jacket, a versatile and timeless piece.
+    - Question: What is the primary material used in the production of cashmere sweaters?
+      TrueAnswer: Cashmere
+      FalseAnswer:
+      - Wool
+      - Cotton
+      - Polyester
+      Explanation: Cashmere sweaters are primarily made from cashmere wool, providing
+        warmth and softness.
+    - Question: Which fashion designer is known for the creation of the iconic trench
+        coat?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Gucci
+      - Prada
+      - Versace
+      Explanation: Burberry is renowned for its iconic trench coat, a classic outerwear
+        piece.
+    - Question: What is the primary color used in the logo of Yves Saint Laurent?
+      TrueAnswer: Black
+      FalseAnswer:
+      - White
+      - Gold
+      - Pink
+      Explanation: The logo of Yves Saint Laurent prominently features the color
+        black, symbolizing elegance and sophistication.
+    - Question: Which fashion designer is associated with the creation of the little
+        black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Christian Dior
+      - Ralph Lauren
+      - Giorgio Armani
+      Explanation: Coco Chanel is renowned for her iconic little black dress, a timeless
+        fashion staple.
+    - Question: What is the primary material used in the production of denim jeans?
+      TrueAnswer: Cotton
+      FalseAnswer:
+      - Polyester
+      - Nylon
+      - Rayon
+      Explanation: Denim jeans are primarily made from cotton, providing durability
+        and comfort.

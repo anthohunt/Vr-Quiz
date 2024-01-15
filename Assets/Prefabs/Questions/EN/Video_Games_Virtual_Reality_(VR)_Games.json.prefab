@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2863557082915211040
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 475937477723959508}
+  - component: {fileID: 852938854315931395}
+  m_Layer: 0
+  m_Name: Video_Games_Virtual_Reality_(VR)_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &475937477723959508
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2863557082915211040}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &852938854315931395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2863557082915211040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which company developed the popular VR game 'Beat Saber'?
+      TrueAnswer: Beat Games
+      FalseAnswer:
+      - Oculus
+      - Valve
+      - Sony
+      Explanation: Beat Games, a Czech company, developed 'Beat Saber,' which has
+        gained widespread popularity for its rhythm-based gameplay and immersive
+        virtual reality experience.
+    - Question: What is the main gameplay mechanic in the VR game 'Superhot'?
+      TrueAnswer: Time manipulation
+      FalseAnswer:
+      - Teleportation
+      - Telekinesis
+      - Invisibility
+      Explanation: '''Superhot'' revolves around time manipulation, where time moves
+        only when the player physically moves, enhancing the strategic and immersive
+        aspects of the game.'
+    - Question: 'In ''Half-Life: Alyx,'' what city does the game''s protagonist navigate
+        through?'
+      TrueAnswer: City 17
+      FalseAnswer:
+      - Rapture
+      - Midgar
+      - Columbia
+      Explanation: 'In ''Half-Life: Alyx,'' the protagonist navigates through City
+        17, a dystopian urban setting and a key location in the ''Half-Life'' series''
+        lore and storyline.'
+    - Question: What technology is used for movement in the VR game 'Boneworks'?
+      TrueAnswer: Physics-based
+      FalseAnswer:
+      - Teleportation
+      - Jetpack
+      - Magic carpet
+      Explanation: '''Boneworks'' utilizes physics-based movement, allowing players
+        to interact with the game environment realistically and experience a heightened
+        sense of presence in VR.'
+    - Question: Which VR game features a narrative-driven experience set in a post-apocalyptic
+        world?
+      TrueAnswer: 'The Walking Dead: Saints & Sinners'
+      FalseAnswer:
+      - Job Simulator
+      - Space Pirate Trainer
+      - Robo Recall
+      Explanation: '''The Walking Dead: Saints & Sinners'' offers players a narrative-driven
+        experience set in a post-apocalyptic world, where their decisions shape the
+        story and survival outcomes.'
+    - Question: What is the primary objective in the VR game 'Arizona Sunshine'?
+      TrueAnswer: Survival
+      FalseAnswer:
+      - Pizza delivery
+      - Photojournalism
+      - Treasure hunting
+      Explanation: The primary objective in 'Arizona Sunshine' is survival in a zombie-infested,
+        sun-soaked Arizona, emphasizing strategic resource management and combat
+        to stay alive.
+    - Question: Which VR game provides players with a sandbox environment for creating
+        and exploring virtual worlds?
+      TrueAnswer: VRChat
+      FalseAnswer:
+      - Roblox
+      - Minecraft
+      - Second Life
+      Explanation: '''VRChat'' allows players to build and explore user-generated
+        virtual worlds, fostering social interaction and creativity in a virtual
+        reality setting.'
+    - Question: In 'Doom VFR,' what iconic weapon can players use to battle demons
+        in VR?
+      TrueAnswer: BFG 9000
+      FalseAnswer:
+      - Plasma rifle
+      - Shotgun
+      - Chainsaw
+      Explanation: In 'Doom VFR,' players can wield the powerful BFG 9000, an iconic
+        weapon from the 'Doom' franchise, to vanquish hordes of demons in virtual
+        reality.
+    - Question: Which VR game allows players to experience the sensation of being
+        a space pirate in zero gravity?
+      TrueAnswer: ADR1FT
+      FalseAnswer:
+      - Elite Dangerous
+      - 'EVE: Valkyrie'
+      - Astro Bot Rescue Mission
+      Explanation: '''ADR1FT'' offers players a unique experience of being a lone
+        astronaut in zero gravity after a catastrophic event, evoking a sense of
+        isolation and survival.'
+    - Question: In 'Budget Cuts,' what essential tool aids the player in navigation
+        and stealth?
+      TrueAnswer: Portal gun
+      FalseAnswer:
+      - Grappling hook
+      - Jet boots
+      - Cloaking device
+      Explanation: The portal gun in 'Budget Cuts' serves as an essential tool for
+        navigation and stealth, allowing players to create portals for strategic
+        movement and evasion.
+    - Question: Which VR game features a compelling storyline set in a virtual world
+        known as 'Oasis'?
+      TrueAnswer: 'Ready Player One: Oasis Beta'
+      FalseAnswer:
+      - 'Resident Evil 7: Biohazard'
+      - 'The Elder Scrolls V: Skyrim VR'
+      - 'Star Wars: Squadrons'
+      Explanation: '''Ready Player One: Oasis Beta'' immerses players in a virtual
+        world filled with pop culture references and a captivating narrative, inspired
+        by the popular novel and film.'
+    - Question: What is the signature vehicle used for traversing scenic landscapes
+        in the VR game 'Ultrawings'?
+      TrueAnswer: Ultralight aircraft
+      FalseAnswer:
+      - Hoverboard
+      - Hot air balloon
+      - Jet ski
+      Explanation: Players in 'Ultrawings' pilot ultralight aircraft, offering a
+        serene and captivating experience of soaring through diverse landscapes in
+        virtual reality.
+    - Question: Which VR game enables players to engage in rhythmic dancing and slashing
+        blocks to the beat of music?
+      TrueAnswer: Beat Saber
+      FalseAnswer:
+      - Fruit Ninja VR
+      - Audica
+      - 'Space Channel 5 VR: Kinda Funky News Flash!'
+      Explanation: '''Beat Saber'' combines music, lightsabers, and precise movements,
+        providing an exhilarating and immersive rhythm experience in virtual reality.'
+    - Question: In 'Vacation Simulator,' what vacation destination theme does the
+        game primarily focus on?
+      TrueAnswer: Beach
+      FalseAnswer:
+      - Space
+      - Medieval
+      - Underwater
+      Explanation: '''Vacation Simulator'' primarily focuses on a beach vacation
+        theme, offering players a humorous and lighthearted virtual holiday experience.'
+    - Question: What unique feature does 'Moss' use to provide players with a sense
+        of immersion in VR gameplay?
+      TrueAnswer: Third-person perspective
+      FalseAnswer:
+      - First-person perspective
+      - Top-down perspective
+      - Isometric perspective
+      Explanation: '''Moss'' utilizes a third-person perspective, allowing players
+        to interact with the game world and guide the endearing protagonist, Quill,
+        through captivating environments in VR.'
+    - Question: Which VR game immerses players in an expansive sci-fi universe as
+        a commander of a starship?
+      TrueAnswer: 'Star Trek: Bridge Crew'
+      FalseAnswer:
+      - No Man's Sky VR
+      - 'EVE: Valkyrie'
+      - Elite Dangerous
+      Explanation: 'In ''Star Trek: Bridge Crew,'' players assume the role of Starfleet
+        officers, collaboratively commanding a starship to explore and fulfill missions
+        in the iconic ''Star Trek'' universe.'
+    - Question: What gameplay mechanic is central to the VR game 'Gorn'?
+      TrueAnswer: Gory combat
+      FalseAnswer:
+      - Puzzle solving
+      - Platforming
+      - Racing
+      Explanation: '''Gorn'' focuses on gory, physics-based combat, where players
+        engage in brutal and over-the-top battles against diverse foes, delivering
+        a visceral and immersive experience.'
+    - Question: In 'Pixel Ripped 1989,' what unique concept combines retro gaming
+        and VR technology?
+      TrueAnswer: Gaming within a game
+      FalseAnswer:
+      - Time travel simulation
+      - Multiplayer tournaments
+      - Virtual pet nurturing
+      Explanation: '''Pixel Ripped 1989'' blends retro gaming with VR, enabling players
+        to experience a nostalgic journey by playing an 8-bit game within the virtual
+        game world.'
+    - Question: Which VR game tasks players with repairing derelict space stations
+        and solving mysterious anomalies?
+      TrueAnswer: Lone Echo
+      FalseAnswer:
+      - The Climb
+      - The Talos Principle VR
+      - 'Star Wars: Squadrons'
+      Explanation: '''Lone Echo'' immerses players in a compelling narrative, focusing
+        on zero-gravity movement, extensive interaction, and problem-solving in a
+        detailed sci-fi setting.'
+    - Question: What is the main theme of the VR game 'I Expect You To Die'?
+      TrueAnswer: Espionage
+      FalseAnswer:
+      - Horror
+      - Fantasy adventure
+      - Survival
+      Explanation: '''I Expect You To Die'' places players in the role of a secret
+        agent, challenging them to navigate deadly situations through espionage and
+        cunning puzzle-solving in virtual reality.'

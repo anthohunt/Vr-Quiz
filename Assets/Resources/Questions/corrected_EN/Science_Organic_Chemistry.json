@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the most abundant element in organic compounds?",
+          "TrueAnswer": "Carbon",
+          "FalseAnswer": [
+            "Oxygen",
+            "Hydrogen",
+            "Nitrogen"
+          ],
+          "Explanation": "Carbon is the primary element in organic compounds due to its versatile bonding capabilities, forming the backbone of organic molecules."
+        },
+        {
+          "Question": "What process describes the conversion of one functional group to another?",
+          "TrueAnswer": "Functional group interconversion",
+          "FalseAnswer": [
+            "Hydrogenation",
+            "Oxidation",
+            "Substitution"
+          ],
+          "Explanation": "Functional group interconversion involves changing one functional group to another while keeping the carbon skeleton intact, a key principle in organic synthesis."
+        },
+        {
+          "Question": "What name is given to compounds with the same molecular formula but different structures?",
+          "TrueAnswer": "Isomers",
+          "FalseAnswer": [
+            "Homologues",
+            "Analogues",
+            "Isotopes"
+          ],
+          "Explanation": "Isomers have the same molecular formula but different structural arrangements, leading to distinct chemical and physical properties."
+        },
+        {
+          "Question": "What is the functional group present in alcohols?",
+          "TrueAnswer": "Hydroxyl (-OH)",
+          "FalseAnswer": [
+            "Carbonyl (>C=O)",
+            "Amine (-NH2)",
+            "Ether (R-O-R)"
+          ],
+          "Explanation": "The hydroxyl group (-OH) is the characteristic functional group of alcohols, imparting their unique chemical reactivity and properties."
+        },
+        {
+          "Question": "Which type of reaction converts an alkane to an alkene?",
+          "TrueAnswer": "Elimination",
+          "FalseAnswer": [
+            "Addition",
+            "Oxidation",
+            "Substitution"
+          ],
+          "Explanation": "Elimination reactions result in the removal of atoms or groups from a molecule, leading to the formation of a double bond in alkenes."
+        },
+        {
+          "Question": "What is the main functional group in carboxylic acids?",
+          "TrueAnswer": "Carboxyl (-COOH)",
+          "FalseAnswer": [
+            "Aldehyde (-CHO)",
+            "Ester (-COOR)",
+            "Ketone (R-CO-R)"
+          ],
+          "Explanation": "The carboxyl group (-COOH) is the characteristic functional group of carboxylic acids, contributing to their acidic properties and reactivity."
+        },
+        {
+          "Question": "How many pi bonds are present in a triple bond between two carbon atoms?",
+          "TrueAnswer": "2",
+          "FalseAnswer": [
+            "1",
+            "3",
+            "4"
+          ],
+          "Explanation": "A triple bond consists of one sigma bond and two pi bonds, providing a total of three shared electron regions between the carbon atoms."
+        },
+        {
+          "Question": "Which functional group characterizes amines?",
+          "TrueAnswer": "Amino (-NH2)",
+          "FalseAnswer": [
+            "Alkene (C=C)",
+            "Alcohol (-OH)",
+            "Alkyl halide (R-X)"
+          ],
+          "Explanation": "The amino group (-NH2) is the defining feature of amines, contributing to their basic properties and participation in nucleophilic reactions."
+        },
+        {
+          "Question": "What type of isomerism is exemplified by cis-trans isomerism?",
+          "TrueAnswer": "Geometric isomerism",
+          "FalseAnswer": [
+            "Structural isomerism",
+            "Optical isomerism",
+            "Tautomeric isomerism"
+          ],
+          "Explanation": "Cis-trans isomerism, a form of geometric isomerism, arises from the restricted rotation around a double bond, leading to different spatial arrangements."
+        },
+        {
+          "Question": "Which functional group characterizes ethers?",
+          "TrueAnswer": "R-O-R",
+          "FalseAnswer": [
+            "Carbonyl (>C=O)",
+            "Hydroxyl (-OH)",
+            "Amine (-NH2)"
+          ],
+          "Explanation": "Ethers are characterized by the ether linkage R-O-R, where two alkyl or aryl groups are connected by an oxygen atom, imparting unique properties."
+        },
+        {
+          "Question": "What is the general formula for alkenes?",
+          "TrueAnswer": "CnH2n",
+          "FalseAnswer": [
+            "CnH2n+2",
+            "CnH2n-1",
+            "CnH2n+1"
+          ],
+          "Explanation": "Alkenes follow the general formula CnH2n, reflecting the presence of a double bond between carbon atoms and the corresponding hydrogen count."
+        },
+        {
+          "Question": "Which functional group characterizes aldehydes?",
+          "TrueAnswer": "Aldehyde (-CHO)",
+          "FalseAnswer": [
+            "Ketone (R-CO-R)",
+            "Carboxyl (-COOH)",
+            "Ester (-COOR)"
+          ],
+          "Explanation": "The aldehyde group (-CHO) is the characteristic functional group of aldehydes, contributing to their unique chemical and reactivity patterns."
+        },
+        {
+          "Question": "What is the primary product of the hydrogenation of an alkene?",
+          "TrueAnswer": "Alkane",
+          "FalseAnswer": [
+            "Alkene",
+            "Alcohol",
+            "Ketone"
+          ],
+          "Explanation": "Hydrogenation of an alkene involves the addition of hydrogen, leading to the formation of an alkane as the primary product."
+        },
+        {
+          "Question": "What is the functional group present in esters?",
+          "TrueAnswer": "Ester (-COOR)",
+          "FalseAnswer": [
+            "Carboxyl (-COOH)",
+            "Carbonyl (>C=O)",
+            "Alcohol (-OH)"
+          ],
+          "Explanation": "Esters are characterized by the ester functional group (-COOR), consisting of a carbonyl group bonded to an alkoxyl group."
+        },
+        {
+          "Question": "What is a key step in the reaction mechanism of aromatic substitution?",
+          "TrueAnswer": "Formation of a sigma complex",
+          "FalseAnswer": [
+            "Protonation of the aromatic ring",
+            "Nucleophilic attack",
+            "Beta elimination"
+          ],
+          "Explanation": "Aromatic substitution involves the initial formation of a sigma complex, facilitating the substitution of a substituent on the aromatic ring."
+        },
+        {
+          "Question": "What functional group characterizes amides?",
+          "TrueAnswer": "Amide (-CONH2)",
+          "FalseAnswer": [
+            "Amine (-NH2)",
+            "Alcohol (-OH)",
+            "Carboxyl (-COOH)"
+          ],
+          "Explanation": "Amides are defined by the amide functional group (-CONH2), derived from the condensation reaction between a carboxylic acid and an amine."
+        },
+        {
+          "Question": "What type of reaction is characteristic of carboxylic acids and alcohols?",
+          "TrueAnswer": "Esterification",
+          "FalseAnswer": [
+            "Oxidation",
+            "Addition",
+            "Hydrolysis"
+          ],
+          "Explanation": "Esterification involves the condensation reaction between a carboxylic acid and an alcohol, leading to the formation of an ester and water."
+        },
+        {
+          "Question": "Which functional group characterizes ketones?",
+          "TrueAnswer": "Ketone (R-CO-R)",
+          "FalseAnswer": [
+            "Aldehyde (-CHO)",
+            "Carboxyl (-COOH)",
+            "Alcohol (-OH)"
+          ],
+          "Explanation": "Ketones are characterized by the ketone functional group (R-CO-R), consisting of a carbonyl group bonded to two alkyl or aryl groups."
+        },
+        {
+          "Question": "In electrophilic addition, what type of intermediate is formed?",
+          "TrueAnswer": "Carbocation",
+          "FalseAnswer": [
+            "Radical",
+            "Carbanion",
+            "Free radical"
+          ],
+          "Explanation": "Electrophilic addition proceeds through the initial formation of a positively charged carbocation intermediate, leading to subsequent nucleophilic attack."
+        },
+        {
+          "Question": "What type of isomerism occurs in compounds with chiral centers?",
+          "TrueAnswer": "Optical isomerism",
+          "FalseAnswer": [
+            "Structural isomerism",
+            "Geometric isomerism",
+            "Tautomeric isomerism"
+          ],
+          "Explanation": "Chirality in compounds results in optical isomerism, where enantiomers exhibit different interactions with plane-polarized light due to their mirror-image nature."
+        }
+      ]
+    }
+  ]
+}

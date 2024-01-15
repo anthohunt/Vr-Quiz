@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the mathematical constant that defines the ratio of a circle's circumference to its diameter?",
+            "TrueAnswer": "Pi",
+            "FalseAnswer": [
+              "Tau",
+              "Euler",
+              "Phi"
+            ],
+            "Explanation": "Pi, often denoted as π, is an irrational number that represents the relationship between a circle's circumference and its diameter."
+          },
+          {
+            "Question": "What is the term for a function that processes real-world data to obtain solutions for practical problems?",
+            "TrueAnswer": "Applied",
+            "FalseAnswer": [
+              "Algebraic",
+              "Trigonometric",
+              "Abstract"
+            ],
+            "Explanation": "Applied mathematics involves the use of mathematical theories and techniques to solve real-world problems in various fields such as physics, engineering, and economics."
+          },
+          {
+            "Question": "Which branch of mathematics deals with the study of change and motion?",
+            "TrueAnswer": "Calculus",
+            "FalseAnswer": [
+              "Topology",
+              "Number Theory",
+              "Logic"
+            ],
+            "Explanation": "Calculus is the mathematical study of continuous change, including rates of change and accumulation, and is used extensively in various areas of science and engineering."
+          },
+          {
+            "Question": "What is the name for a set of equations used to model the behavior of a physical system?",
+            "TrueAnswer": "Differential Equations",
+            "FalseAnswer": [
+              "Linear Equations",
+              "Quadratic Equations",
+              "Exponential Equations"
+            ],
+            "Explanation": "Differential equations are fundamental in describing the relationship between a system's rates of change and its current state, making them crucial for modeling physical phenomena such as motion, heat transfer, and population dynamics."
+          },
+          {
+            "Question": "Which mathematical concept deals with the study of optimal decision-making in the presence of uncertainty?",
+            "TrueAnswer": "Game Theory",
+            "FalseAnswer": [
+              "Graph Theory",
+              "Set Theory",
+              "Probability Theory"
+            ],
+            "Explanation": "Game theory is a branch of applied mathematics that studies strategic decision-making in situations with multiple interdependent participants, making it relevant in economics, political science, and evolutionary biology."
+          },
+          {
+            "Question": "What is the term for a process of finding an approximate value for a function or solution using iterative methods?",
+            "TrueAnswer": "Numerical Analysis",
+            "FalseAnswer": [
+              "Symbolic Computation",
+              "Abstract Algebra",
+              "Complex Analysis"
+            ],
+            "Explanation": "Numerical analysis is concerned with the development of algorithms and methods to obtain numerical solutions to mathematical problems, often encountered in the fields of engineering and computational science."
+          },
+          {
+            "Question": "What is the study of curves and surfaces in three-dimensional space known as?",
+            "TrueAnswer": "Differential Geometry",
+            "FalseAnswer": [
+              "Combinatorics",
+              "Linear Algebra",
+              "Discrete Mathematics"
+            ],
+            "Explanation": "Differential geometry deals with the properties and behavior of curves, surfaces, and manifolds in multidimensional spaces, with applications in physics, engineering, and computer graphics."
+          },
+          {
+            "Question": "What type of mathematical model represents a real-world system using continuous change over time?",
+            "TrueAnswer": "Dynamical System",
+            "FalseAnswer": [
+              "Discrete System",
+              "Linear System",
+              "Static System"
+            ],
+            "Explanation": "Dynamical systems theory focuses on understanding the behavior of complex systems evolving over time, including chaos, bifurcations, and stability analysis, making it applicable in physics, biology, and economics."
+          },
+          {
+            "Question": "What is the term for a mathematical process of minimizing or maximizing a given function within specified constraints?",
+            "TrueAnswer": "Optimization",
+            "FalseAnswer": [
+              "Integration",
+              "Differentiation",
+              "Substitution"
+            ],
+            "Explanation": "Optimization aims to identify the best possible solution from a set of feasible alternatives, with applications in fields such as engineering design, economics, and operations research."
+          },
+          {
+            "Question": "Which mathematical tool is used to transform a complex problem into a simpler form for analysis or solution?",
+            "TrueAnswer": "Mathematical Modeling",
+            "FalseAnswer": [
+              "Theorem Proving",
+              "Set Notation",
+              "Proof by Contradiction"
+            ],
+            "Explanation": "Mathematical modeling involves creating abstract representations of real-world systems to gain insight, make predictions, and aid decision-making in applied fields like engineering, economics, and ecology."
+          },
+          {
+            "Question": "What is the term for a method of determining an unknown quantity by using known relationships and measurements?",
+            "TrueAnswer": "Estimation",
+            "FalseAnswer": [
+              "Interpolation",
+              "Extrapolation",
+              "Approximation"
+            ],
+            "Explanation": "Estimation involves deriving an educated guess for an unknown value by leveraging existing information, providing a valuable tool for decision-making and problem-solving in applied mathematics and scientific research."
+          },
+          {
+            "Question": "Which mathematical approach involves analyzing and describing the behavior of a system using statistical methods?",
+            "TrueAnswer": "Stochastic Modeling",
+            "FalseAnswer": [
+              "Deterministic Modeling",
+              "Regression Analysis",
+              "Factor Analysis"
+            ],
+            "Explanation": "Stochastic modeling investigates systems subject to random variables and uncertainties, allowing insights into the probabilistic behavior of phenomena in fields like finance, physics, and ecology."
+          },
+          {
+            "Question": "What is the term for the process of transforming a physical problem into an equivalent mathematical representation?",
+            "TrueAnswer": "Mathematization",
+            "FalseAnswer": [
+              "Abstractification",
+              "Physicalization",
+              "Concretization"
+            ],
+            "Explanation": "Mathematization involves converting complex real-world problems into mathematical models, facilitating analysis and solution techniques in applied mathematical disciplines like physics, engineering, and economics."
+          },
+          {
+            "Question": "What is the study of how quantities are derived from and related to each other known as?",
+            "TrueAnswer": "Dimensional Analysis",
+            "FalseAnswer": [
+              "Categorical Analysis",
+              "Boolean Analysis",
+              "Spectral Analysis"
+            ],
+            "Explanation": "Dimensional analysis is concerned with the relationships and units of physical quantities, aiding in the derivation and interpretation of equations in various scientific and engineering fields."
+          },
+          {
+            "Question": "Which method involves approximating a complex function using a simpler function to aid in computations or analysis?",
+            "TrueAnswer": "Taylor Series",
+            "FalseAnswer": [
+              "Fibonacci Sequence",
+              "Pascal's Triangle",
+              "Euclidean Algorithm"
+            ],
+            "Explanation": "The Taylor series expansion is a powerful tool for approximating functions and evaluating complicated mathematical expressions, serving as a fundamental technique in calculus and applied mathematics."
+          },
+          {
+            "Question": "What type of analysis focuses on the behavior of systems near their equilibrium points?",
+            "TrueAnswer": "Linearization",
+            "FalseAnswer": [
+              "Stabilization",
+              "Perturbation",
+              "Amplification"
+            ],
+            "Explanation": "Linearization approximates the behavior of nonlinear systems around their equilibrium points using linear techniques, facilitating the analysis and prediction of their stability and dynamical characteristics."
+          },
+          {
+            "Question": "What is the term for a mathematical measure of the amount of randomness or uncertainty in a system?",
+            "TrueAnswer": "Entropy",
+            "FalseAnswer": [
+              "Energy",
+              "Entropy",
+              "Enthalpy"
+            ],
+            "Explanation": "Entropy quantifies the disorder and unpredictability within a system, playing a crucial role in statistical mechanics, information theory, and the analysis of complex systems in physical and social sciences."
+          },
+          {
+            "Question": "Which approach involves representing a system's behavior as a network of interconnected nodes and edges?",
+            "TrueAnswer": "Graph Theory",
+            "FalseAnswer": [
+              "Number Theory",
+              "Game Theory",
+              "Topology"
+            ],
+            "Explanation": "Graph theory studies the properties and interactions of various structures represented as graphs, with wide applications in computer science, operations research, and social network analysis."
+          },
+          {
+            "Question": "What is the term for a method that uses logic and reasoning to infer conclusions from given premises?",
+            "TrueAnswer": "Deductive Reasoning",
+            "FalseAnswer": [
+              "Inductive Reasoning",
+              "Abductive Reasoning",
+              "Analogical Reasoning"
+            ],
+            "Explanation": "Deductive reasoning involves the process of deriving logical conclusions from established premises, forming a fundamental technique in mathematical and scientific argumentation and proof."
+          },
+          {
+            "Question": "Which mathematical technique involves finding the overall trend or pattern in a set of data points?",
+            "TrueAnswer": "Regression Analysis",
+            "FalseAnswer": [
+              "Fourier Transform",
+              "Discrete Fourier Transform",
+              "Wavelet Transform"
+            ],
+            "Explanation": "Regression analysis identifies and models the relationship between variables in a dataset, enabling prediction and understanding of patterns, making it useful in fields like economics, epidemiology, and engineering."
+          }
+        ]
+      }
+    }
+  ]
+}

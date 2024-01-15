@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2969004598471927193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1738752155285385187}
+  - component: {fileID: 8189908665266754123}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Space_Technology_and_Innovation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1738752155285385187
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2969004598471927193}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8189908665266754123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2969004598471927193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the first artificial Earth satellite launched
+        by the Soviet Union?
+      TrueAnswer: Sputnik 1
+      FalseAnswer:
+      - Vostok 1
+      - Apollo 11
+      - Hubble
+      Explanation: Sputnik 1 was the first artificial Earth satellite, launched by
+        the Soviet Union on October 4, 1957, marking the beginning of the space age.
+    - Question: What is the name of the first NASA space shuttle to enter space?
+      TrueAnswer: Columbia
+      FalseAnswer:
+      - Challenger
+      - Endeavour
+      - Atlantis
+      Explanation: Space Shuttle Columbia was the first NASA space shuttle to enter
+        space, with its maiden flight on April 12, 1981.
+    - Question: Which spacecraft set a record for the farthest distance traveled
+        from the Earth?
+      TrueAnswer: Voyager 1
+      FalseAnswer:
+      - Hubble
+      - ISS
+      - Mars Rover
+      Explanation: Voyager 1, launched in 1977, holds the record for the farthest
+        distance traveled from Earth by a man-made object.
+    - Question: What is the name of the first commercially-built and operated crew
+        spacecraft launched to the ISS?
+      TrueAnswer: Crew Dragon
+      FalseAnswer:
+      - Soyuz
+      - Orion
+      - Apollo
+      Explanation: The Crew Dragon spacecraft, developed by SpaceX, became the first
+        commercially-built and operated crew spacecraft to be launched to the International
+        Space Station (ISS) in May 2020.
+    - Question: Which space telescope was launched into orbit in 1990 to provide
+        images of the universe?
+      TrueAnswer: Hubble Space Telescope
+      FalseAnswer:
+      - Chandra X-ray Observatory
+      - Spitzer Space Telescope
+      - James Webb Space Telescope
+      Explanation: The Hubble Space Telescope, launched in 1990, has provided stunning
+        images and valuable data about the universe, revolutionizing astronomy and
+        our understanding of space.
+    - Question: What is the name of the largest operational rocket currently in use?
+      TrueAnswer: Falcon Heavy
+      FalseAnswer:
+      - Delta IV Heavy
+      - SLS
+      - Ariane 5
+      Explanation: As of now, the Falcon Heavy, developed by SpaceX, is the largest
+        operational rocket, capable of carrying heavy payloads to space and reducing
+        the cost of launching missions.
+    - Question: What is the name of the first artificial satellite to orbit the Moon?
+      TrueAnswer: Luna 1
+      FalseAnswer:
+      - Apollo 11
+      - Chang'e 4
+      - Hubble
+      Explanation: Luna 1, launched by the Soviet Union in 1959, was the first artificial
+        satellite to orbit the Moon and the first spacecraft to achieve escape velocity
+        from Earth.
+    - Question: Which spacecraft landed the first humans on the Moon?
+      TrueAnswer: Apollo 11
+      FalseAnswer:
+      - Mars Rover
+      - Voyager 1
+      - ISS
+      Explanation: Apollo 11, launched by NASA in 1969, landed the first humans on
+        the Moon, with Neil Armstrong and Buzz Aldrin taking historic steps on its
+        surface.
+    - Question: What is the term for a space station that rotates to create artificial
+        gravity?
+      TrueAnswer: Centrifuge
+      FalseAnswer:
+      - Orbitron
+      - Spintron
+      - Graviton
+      Explanation: A centrifuge is a rotating space station design that creates artificial
+        gravity through centrifugal force, potentially allowing for more comfortable
+        long-duration space missions.
+    - Question: What is the name of the latest Mars rover designed to search for
+        signs of past microbial life?
+      TrueAnswer: Perseverance
+      FalseAnswer:
+      - Curiosity
+      - Opportunity
+      - Spirit
+      Explanation: Perseverance, launched by NASA in 2020, is the latest Mars rover,
+        equipped with advanced instruments to explore the Martian surface and search
+        for evidence of ancient life.
+    - Question: What is the name of the first reusable spacecraft developed by NASA?
+      TrueAnswer: Space Shuttle
+      FalseAnswer:
+      - Saturn V
+      - Falcon 9
+      - Soyuz
+      Explanation: The Space Shuttle, also known as the Space Transportation System
+        (STS), was the first reusable spacecraft developed by NASA for human spaceflight
+        missions, revolutionizing space travel.
+    - Question: Which planet was the first to be visited by a spacecraft from Earth?
+      TrueAnswer: Venus
+      FalseAnswer:
+      - Mars
+      - Jupiter
+      - Saturn
+      Explanation: The Soviet spacecraft Venera 1 was the first to fly by Venus in
+        1961, followed by Venera 7, which successfully landed on Venus in 1970.
+    - Question: In which year was the International Space Station (ISS) first inhabited
+        by humans?
+      TrueAnswer: 2000
+      FalseAnswer:
+      - 1998
+      - 2005
+      - 2010
+      Explanation: In 2000, the first crew, Expedition 1, arrived at the ISS, marking
+        the beginning of continuous human presence on the space station for over
+        two decades.
+    - Question: What is the term for the boundary where the Earth's atmosphere meets
+        outer space?
+      TrueAnswer: "K\xE1rm\xE1n line"
+      FalseAnswer:
+      - Karol line
+      - Kepler line
+      - Kosmo line
+      Explanation: "The K\xE1rm\xE1n line, at about 100 kilometers (62 miles) above
+        sea level, is widely accepted as the boundary between Earth's atmosphere
+        and outer space."
+    - Question: Which company was the first to successfully land a reusable rocket
+        booster back on Earth?
+      TrueAnswer: SpaceX
+      FalseAnswer:
+      - Blue Origin
+      - Boeing
+      - Lockheed Martin
+      Explanation: SpaceX achieved the milestone of landing a reusable rocket booster
+        back on Earth commercially, significantly lowering the cost of space launches.
+    - Question: What is the name of the first privately funded spacecraft to reach
+        the Moon's surface?
+      TrueAnswer: Bereshit
+      FalseAnswer:
+      - Apollo 11
+      - Chang'e 4
+      - Luna 2
+      Explanation: Bereshit, launched by the Israeli nonprofit organization SpaceIL,
+        was the first privately funded spacecraft to reach the Moon's surface in
+        2019.
+    - Question: Which space agency successfully landed a rover on Mars for the first
+        time in 2021?
+      TrueAnswer: China's CNSA
+      FalseAnswer:
+      - NASA
+      - ESA
+      - Roscosmos
+      Explanation: China's CNSA successfully landed the Zhurong rover on Mars in
+        May 2021, becoming the first country to achieve a successful Mars landing
+        on its maiden mission.
+    - Question: What is the name of the rover that discovered evidence of water on
+        Mars?
+      TrueAnswer: Opportunity
+      FalseAnswer:
+      - Curiosity
+      - Spirit
+      - Perseverance
+      Explanation: The Mars rover Opportunity, part of NASA's Mars Exploration Rover
+        mission, discovered compelling evidence of past water activity on the Martian
+        surface in 2004.
+    - Question: Which company plans to offer commercial spaceflights for private
+        individuals?
+      TrueAnswer: Virgin Galactic
+      FalseAnswer:
+      - Boeing
+      - SpaceX
+      - Blue Origin
+      Explanation: Virgin Galactic aims to offer commercial spaceflights for private
+        individuals aboard its SpaceShipTwo, providing a unique opportunity for space
+        tourism.
+    - Question: What is the name of the first spacecraft to orbit Jupiter?
+      TrueAnswer: Galileo
+      FalseAnswer:
+      - Juno
+      - Voyager 1
+      - Cassini
+      Explanation: The Galileo spacecraft, launched by NASA in 1989, became the first
+        spacecraft to orbit Jupiter and provided valuable insights into the gas giant
+        and its moons.

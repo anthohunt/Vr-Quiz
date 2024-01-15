@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &332917106167714970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1199182496278081467}
+  - component: {fileID: 395172249176131808}
+  m_Layer: 0
+  m_Name: Technology_History of Computing.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1199182496278081467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332917106167714970}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &395172249176131808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 332917106167714970}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the father of modern computing?
+      TrueAnswer: Alan Turing
+      FalseAnswer:
+      - Bill Gates
+      - Steve Jobs
+      - Tim Berners-Lee
+      Explanation: Alan Turing is widely regarded as the father of modern computing
+        for his work on the concept of a universal machine.
+    - Question: Which computer was the first to be considered a personal computer?
+      TrueAnswer: Altair 8800
+      FalseAnswer:
+      - IBM 360
+      - ENIAC
+      - Apple I
+      Explanation: The Altair 8800, released in 1975, is considered the first personal
+        computer due to its affordability and availability to hobbyists.
+    - Question: What was the first programming language ever created?
+      TrueAnswer: Fortran
+      FalseAnswer:
+      - C++
+      - Python
+      - Java
+      Explanation: Fortran, developed in the 1950s, was the first high-level programming
+        language designed for scientific and engineering calculations.
+    - Question: Which company introduced the first commercially successful microcomputer?
+      TrueAnswer: Apple
+      FalseAnswer:
+      - IBM
+      - Microsoft
+      - Intel
+      Explanation: Apple introduced the Apple II in 1977, which became the first
+        commercially successful microcomputer.
+    - Question: What was the first electronic general-purpose computer called?
+      TrueAnswer: ENIAC
+      FalseAnswer:
+      - UNIVAC
+      - EDVAC
+      - Colossus
+      Explanation: ENIAC (Electronic Numerical Integrator and Computer) was the first
+        electronic general-purpose computer, completed in 1945.
+    - Question: Who invented the World Wide Web?
+      TrueAnswer: Tim Berners-Lee
+      FalseAnswer:
+      - Al Gore
+      - Mark Zuckerberg
+      - Larry Page
+      Explanation: Tim Berners-Lee invented the World Wide Web in 1989, revolutionizing
+        the way information is shared and accessed.
+    - Question: What was the first computer virus called?
+      TrueAnswer: Creeper
+      FalseAnswer:
+      - ILOVEYOU
+      - Melissa
+      - Stuxnet
+      Explanation: Creeper, created in 1971, was the first computer virus that spread
+        across ARPANET, displaying the message 'I'm the creeper, catch me if you
+        can!'
+    - Question: Which computer scientist coined the term 'artificial intelligence'?
+      TrueAnswer: John McCarthy
+      FalseAnswer:
+      - Alan Turing
+      - Grace Hopper
+      - Ada Lovelace
+      Explanation: John McCarthy, an American computer scientist, coined the term
+        'artificial intelligence' in 1956 at the Dartmouth Conference.
+    - Question: What was the first computer mouse made of?
+      TrueAnswer: Wood
+      FalseAnswer:
+      - Plastic
+      - Metal
+      - Rubber
+      Explanation: The first computer mouse, invented by Douglas Engelbart in 1964,
+        was made of wood.
+    - Question: Which computer programming language was named after a French mathematician?
+      TrueAnswer: Pascal
+      FalseAnswer:
+      - Ada
+      - Cobol
+      - Lisp
+      Explanation: Pascal, named after Blaise Pascal, a French mathematician, was
+        designed in the late 1960s for teaching programming.
+    - Question: What was the first computer to use a graphical user interface (GUI)?
+      TrueAnswer: Xerox Alto
+      FalseAnswer:
+      - Apple Lisa
+      - IBM 5100
+      - Atari ST
+      Explanation: The Xerox Alto, developed in the 1970s, was the first computer
+        to use a graphical user interface.
+    - Question: Who is known as the 'Mother of COBOL'?
+      TrueAnswer: Grace Hopper
+      FalseAnswer:
+      - Ada Lovelace
+      - Margaret Hamilton
+      - Hedy Lamarr
+      Explanation: Grace Hopper, an American computer scientist, is known as the
+        'Mother of COBOL' for her work on the programming language.
+    - Question: What was the first computer to be sold commercially?
+      TrueAnswer: UNIVAC I
+      FalseAnswer:
+      - IBM 650
+      - EDSAC
+      - Manchester Mark 1
+      Explanation: The UNIVAC I, developed by J. Presper Eckert and John Mauchly,
+        was the first computer to be sold commercially.
+    - Question: Which computer company introduced the first laptop computer?
+      TrueAnswer: IBM
+      FalseAnswer:
+      - Apple
+      - Dell
+      - HP
+      Explanation: IBM introduced the IBM 5100 in 1975, which is considered the first
+        portable computer and precursor to the modern laptop.
+    - Question: What was the first video game ever created?
+      TrueAnswer: Pong
+      FalseAnswer:
+      - Super Mario Bros.
+      - Tetris
+      - Space Invaders
+      Explanation: Pong, released in 1972 by Atari, was the first commercially successful
+        video game and popularized the arcade gaming industry.
+    - Question: Which computer scientist developed the concept of a stored-program
+        computer?
+      TrueAnswer: John von Neumann
+      FalseAnswer:
+      - Charles Babbage
+      - Claude Shannon
+      - Donald Knuth
+      Explanation: John von Neumann, a Hungarian-American mathematician, developed
+        the concept of a stored-program computer in the 1940s.
+    - Question: What was the first computer to use transistors instead of vacuum
+        tubes?
+      TrueAnswer: IBM 7090
+      FalseAnswer:
+      - ENIAC
+      - UNIVAC I
+      - EDSAC
+      Explanation: The IBM 7090, introduced in 1959, was the first computer to use
+        transistors, making it smaller, faster, and more reliable.
+    - Question: Who is credited with inventing the first mechanical computer?
+      TrueAnswer: Charles Babbage
+      FalseAnswer:
+      - Alan Turing
+      - John von Neumann
+      - Ada Lovelace
+      Explanation: Charles Babbage, an English mathematician, is credited with inventing
+        the first mechanical computer, the Difference Engine, in the 1820s.
+    - Question: What was the first computer to use integrated circuits?
+      TrueAnswer: IBM System/360
+      FalseAnswer:
+      - UNIVAC I
+      - ENIAC
+      - Apple II
+      Explanation: The IBM System/360, introduced in 1964, was the first computer
+        to use integrated circuits, revolutionizing computer architecture.
+    - Question: Which computer scientist developed the C programming language?
+      TrueAnswer: Dennis Ritchie
+      FalseAnswer:
+      - Linus Torvalds
+      - Ken Thompson
+      - Donald Knuth
+      Explanation: Dennis Ritchie, an American computer scientist, developed the
+        C programming language at Bell Labs in the 1970s.

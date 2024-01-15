@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le langage de programmation le plus largement utilisé ?",
+            "TrueAnswer": "Python",
+            "FalseAnswer": [
+              "Java",
+              "C++",
+              "JavaScript"
+            ],
+            "Explanation": "Python a gagné en popularité en raison de sa simplicité, de sa lisibilité et de sa polyvalence, ce qui en fait un langage largement utilisé dans le développement web, l'analyse de données et l'intelligence artificielle."
+          },
+          {
+            "Question": "Que signifie 'RAM' en informatique ?",
+            "TrueAnswer": "Random Access Memory",
+            "FalseAnswer": [
+              "Read-Only Memory",
+              "Runtime Analysis Module",
+              "Remote Access Modem"
+            ],
+            "Explanation": "La RAM est un type de mémoire d'ordinateur utilisée pour stocker temporairement les données qui sont activement utilisées ou sur lesquelles on travaille."
+          },
+          {
+            "Question": "Quelle entreprise a créé le langage de programmation Java ?",
+            "TrueAnswer": "Sun Microsystems",
+            "FalseAnswer": [
+              "Microsoft",
+              "Oracle",
+              "IBM"
+            ],
+            "Explanation": "Java a été développé par Sun Microsystems en 1995 et appartient maintenant à Oracle Corporation après l'acquisition de Sun en 2010."
+          },
+          {
+            "Question": "Que signifie HTML dans le développement web ?",
+            "TrueAnswer": "HyperText Markup Language",
+            "FalseAnswer": [
+              "Highly Tuned Media Library",
+              "Hostile Takeover Manipulation Language",
+              "Hypnotic Text Manipulation Logic"
+            ],
+            "Explanation": "HTML est le langage de balisage standard pour créer des pages web et des applications web. Il définit la structure et la mise en page du contenu sur le World Wide Web."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un langage de programmation front-end ?",
+            "TrueAnswer": "JavaScript",
+            "FalseAnswer": [
+              "PHP",
+              "Python",
+              "Ruby"
+            ],
+            "Explanation": "JavaScript est un langage de script utilisé pour créer des éléments interactifs et dynamiques sur les sites web, ce qui en fait une partie fondamentale du développement web front-end."
+          },
+          {
+            "Question": "Que signifie VPN dans le domaine des réseaux ?",
+            "TrueAnswer": "Réseau Privé Virtuel",
+            "FalseAnswer": [
+              "Réseau Très Public",
+              "Réseau Personnel Volatile",
+              "Nœud de Protocole Virtuel"
+            ],
+            "Explanation": "Un VPN étend un réseau privé sur un réseau public et permet aux utilisateurs d'envoyer et de recevoir des données sur des réseaux partagés ou publics comme si leurs appareils informatiques étaient directement connectés au réseau privé."
+          },
+          {
+            "Question": "Quelle plateforme de cloud computing est développée par Microsoft ?",
+            "TrueAnswer": "Azure",
+            "FalseAnswer": [
+              "AWS",
+              "Google Cloud Platform",
+              "Salesforce"
+            ],
+            "Explanation": "Microsoft Azure est un service de cloud computing créé par Microsoft pour la construction, les tests, le déploiement et la gestion d'applications et de services via des centres de données gérés par Microsoft."
+          },
+          {
+            "Question": "Quelle est la vitesse de transmission maximale de l'USB 3.0 ?",
+            "TrueAnswer": "5 Gbps",
+            "FalseAnswer": [
+              "10 Gbps",
+              "2 Gbps",
+              "1 Gbps"
+            ],
+            "Explanation": "L'USB 3.0 dispose d'un mode SuperSpeed avec une vitesse de transmission maximale de 5 Gbps, tandis que l'USB 3.1 et l'USB 3.2 offrent des vitesses plus élevées de 10 Gbps et 20 Gbps respectivement."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'un routeur dans un réseau ?",
+            "TrueAnswer": "Routage des paquets",
+            "FalseAnswer": [
+              "Génération d'énergie",
+              "Exploitation de serveurs web",
+              "Chiffrement des données"
+            ],
+            "Explanation": "Un routeur est un dispositif de réseau qui transfère les paquets de données entre les réseaux informatiques. Il effectue des fonctions de routage pour diriger les paquets de données vers leurs destinations prévues."
+          },
+          {
+            "Question": "Quel type de logiciel se fait passer pour un logiciel légitime ?",
+            "TrueAnswer": "Cheval de Troie",
+            "FalseAnswer": [
+              "Ver",
+              "Virus",
+              "Rançongiciel"
+            ],
+            "Explanation": "Un cheval de Troie, ou cheval de Troie, est un type de logiciel malveillant qui se fait passer pour un logiciel légitime pour tromper les utilisateurs en l'installant, permettant un accès non autorisé au système de l'utilisateur."
+          },
+          {
+            "Question": "Quel est le terme pour un logiciel distribué gratuitement ?",
+            "TrueAnswer": "Freeware",
+            "FalseAnswer": [
+              "Partagiciel",
+              "Open source",
+              "Domaine public"
+            ],
+            "Explanation": "Freeware désigne les logiciels disponibles gratuitement ou moyennant des frais facultatifs, souvent avec des fonctionnalités limitées ou des restrictions de distribution."
+          },
+          {
+            "Question": "Quelle technologie de communication sans fil est utilisée pour le transfert de données à courte portée ?",
+            "TrueAnswer": "Bluetooth",
+            "FalseAnswer": [
+              "Wi-Fi",
+              "NFC",
+              "LTE"
+            ],
+            "Explanation": "La technologie Bluetooth est couramment utilisée pour la communication sans fil à courte portée entre les appareils, tels que les smartphones, les tablettes et les écouteurs sans fil."
+          },
+          {
+            "Question": "Quel est le but d'un pare-feu en sécurité réseau ?",
+            "TrueAnswer": "Bloquer l'accès non autorisé",
+            "FalseAnswer": [
+              "Accélérer la vitesse du réseau",
+              "Filtrer les courriels indésirables",
+              "Chiffrer les transmissions de données"
+            ],
+            "Explanation": "Un pare-feu agit comme une barrière entre un réseau interne de confiance et des réseaux externes non fiables, filtrant le trafic réseau pour empêcher l'accès non autorisé tout en permettant une communication légitime."
+          },
+          {
+            "Question": "Quel type de logiciel est conçu pour endommager ou perturber les systèmes informatiques ?",
+            "TrueAnswer": "Logiciel malveillant",
+            "FalseAnswer": [
+              "Logiciel publicitaire",
+              "Logiciel espion",
+              "Logiciel encombrant"
+            ],
+            "Explanation": "Les logiciels malveillants sont des logiciels malveillants conçus pour nuire aux systèmes informatiques, voler des données ou perturber les opérations, comprenant souvent des virus, des vers, des chevaux de Troie, des rançongiciels et des logiciels espions."
+          },
+          {
+            "Question": "Quelle technologie permet la création de cryptomonnaies décentralisées ?",
+            "TrueAnswer": "Blockchain",
+            "FalseAnswer": [
+              "Intelligence artificielle",
+              "Informatique quantique",
+              "Réalité augmentée"
+            ],
+            "Explanation": "La blockchain est une technologie de registre distribué qui permet l'enregistrement sécurisé et transparent des transactions sur un réseau d'ordinateurs, formant la base de cryptomonnaies comme le Bitcoin et l'Ethereum."
+          },
+          {
+            "Question": "Quel type de système de gestion de base de données utilise des tables avec des colonnes prédéfinies ?",
+            "TrueAnswer": "Relationnel",
+            "FalseAnswer": [
+              "NoSQL",
+              "Orienté-objets",
+              "Graphe"
+            ],
+            "Explanation": "Les bases de données relationnelles organisent les données en tables avec des colonnes et des lignes prédéfinies, utilisant le langage de requêtes structurées (SQL) pour interroger et gérer les données."
+          },
+          {
+            "Question": "Quelle technologie permet la virtualisation des ressources informatiques ?",
+            "TrueAnswer": "Hyperviseur",
+            "FalseAnswer": [
+              "Routeur",
+              "Pare-feu",
+              "Modem"
+            ],
+            "Explanation": "Un hyperviseur est un logiciel ou un micrologiciel qui crée et exécute des machines virtuelles, permettant la virtualisation des ressources informatiques telles que la puissance de traitement, la mémoire et le stockage."
+          },
+          {
+            "Question": "Quel est le protocole standard de communication de données utilisé pour l'envoi d'e-mails ?",
+            "TrueAnswer": "SMTP",
+            "FalseAnswer": [
+              "HTTP",
+              "FTP",
+              "XML"
+            ],
+            "Explanation": "Le protocole SMTP (Simple Mail Transfer Protocol) est le protocole standard pour l'envoi d'e-mails sur Internet, définissant le format et les règles de transmission des courriers électroniques."
+          },
+          {
+            "Question": "Quelle technologie est utilisée pour identifier les individus en fonction de caractéristiques biologiques uniques ?",
+            "TrueAnswer": "Biométrie",
+            "FalseAnswer": [
+              "RFID",
+              "NFC",
+              "Code QR"
+            ],
+            "Explanation": "La technologie biométrique utilise des caractéristiques physiologiques ou comportementales, telles que les empreintes digitales, les motifs iriens ou la reconnaissance vocale, à des fins d'identification et d'authentification, fournissant un contrôle d'accès sécurisé."
+          },
+          {
+            "Question": "Quel est le but principal d'un système de nom de domaine (DNS) ?",
+            "TrueAnswer": "Traduire les noms de domaine en adresses IP",
+            "FalseAnswer": [
+              "Chiffrer les données des sites web",
+              "Authentifier les identités des utilisateurs",
+              "Bloquer les e-mails d'hameçonnage"
+            ],
+            "Explanation": "Le DNS est un système de dénomination décentralisé qui convertit les noms de domaine en adresses IP, permettant aux utilisateurs d'accéder aux sites web en utilisant des noms de domaine faciles à retenir au lieu d'adresses IP complexes."
+          }
+        ]
+      }
+    }
+  ]
+}

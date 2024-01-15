@@ -1,0 +1,136 @@
+{
+    "Art": [
+        {
+            "Questions": [
+                {
+                    "Question": "Who painted the Mona Lisa?",
+                    "TrueAnswer": "Leonardo da Vinci",
+                    "FalseAnswer": ["Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+                    "Explanation": "Leonardo da Vinci is the artist behind the iconic painting, Mona Lisa, created in the 16th century."
+                },
+                {
+                    "Question": "Which artist is known for his 'Campbell's Soup Cans' artwork?",
+                    "TrueAnswer": "Andy Warhol",
+                    "FalseAnswer": ["Salvador Dali", "Jackson Pollock", "Vincent van Gogh"],
+                    "Explanation": "Andy Warhol, a leading figure in the pop art movement, is famous for his 'Campbell's Soup Cans' artwork."
+                },
+                {
+                    "Question": "Who sculpted the statue of David?",
+                    "TrueAnswer": "Michelangelo",
+                    "FalseAnswer": ["Auguste Rodin", "Pablo Picasso", "Leonardo da Vinci"],
+                    "Explanation": "Michelangelo, an Italian artist, sculpted the renowned statue of David during the Renaissance period."
+                },
+                {
+                    "Question": "Which artist is associated with the painting 'Starry Night'?",
+                    "TrueAnswer": "Vincent van Gogh",
+                    "FalseAnswer": ["Claude Monet", "Pablo Picasso", "Salvador Dali"],
+                    "Explanation": "Vincent van Gogh, a Dutch post-impressionist painter, is known for his masterpiece 'Starry Night'."
+                },
+                {
+                    "Question": "Who painted 'The Persistence of Memory'?",
+                    "TrueAnswer": "Salvador Dali",
+                    "FalseAnswer": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+                    "Explanation": "Salvador Dali, a Spanish surrealist artist, created the famous painting 'The Persistence of Memory'."
+                },
+                {
+                    "Question": "Which artist is known for his 'Guernica' painting?",
+                    "TrueAnswer": "Pablo Picasso",
+                    "FalseAnswer": ["Andy Warhol", "Vincent van Gogh", "Claude Monet"],
+                    "Explanation": "Pablo Picasso, a Spanish painter, is renowned for his powerful anti-war painting 'Guernica'."
+                },
+                {
+                    "Question": "Who painted 'The Scream'?",
+                    "TrueAnswer": "Edvard Munch",
+                    "FalseAnswer": ["Claude Monet", "Vincent van Gogh", "Salvador Dali"],
+                    "Explanation": "Edvard Munch, a Norwegian painter, created the famous artwork 'The Scream'."
+                },
+                {
+                    "Question": "Which artist is known for his 'Water Lilies' series?",
+                    "TrueAnswer": "Claude Monet",
+                    "FalseAnswer": ["Andy Warhol", "Pablo Picasso", "Vincent van Gogh"],
+                    "Explanation": "Claude Monet, a French impressionist painter, is famous for his 'Water Lilies' series."
+                },
+                {
+                    "Question": "Who painted the ceiling of the Sistine Chapel?",
+                    "TrueAnswer": "Michelangelo",
+                    "FalseAnswer": ["Leonardo da Vinci", "Raphael", "Donatello"],
+                    "Explanation": "Michelangelo painted the breathtaking ceiling of the Sistine Chapel in Vatican City."
+                },
+                {
+                    "Question": "Which artist is known for his 'Les Demoiselles d'Avignon' painting?",
+                    "TrueAnswer": "Pablo Picasso",
+                    "FalseAnswer": ["Vincent van Gogh", "Salvador Dali", "Claude Monet"],
+                    "Explanation": "Pablo Picasso's 'Les Demoiselles d'Avignon' is a groundbreaking artwork in the development of modern art."
+                }
+            ]
+        },
+        {
+            "Diversity in Hollywood": [
+                {
+                    "Questions": [
+                        {
+                            "Question": "Who was the first African-American to win an Academy Award for Best Actor?",
+                            "TrueAnswer": "Sidney Poitier",
+                            "FalseAnswer": ["Denzel Washington", "Will Smith", "Morgan Freeman"],
+                            "Explanation": "Sidney Poitier made history as the first African-American to win the Best Actor Oscar in 1964."
+                        },
+                        {
+                            "Question": "Which actress became the first Asian to win an Academy Award for Best Actress?",
+                            "TrueAnswer": "Youn Yuh-jung",
+                            "FalseAnswer": ["Lucy Liu", "Constance Wu", "Michelle Yeoh"],
+                            "Explanation": "Youn Yuh-jung made history as the first Asian actress to win the Best Actress Oscar in 2021."
+                        },
+                        {
+                            "Question": "Who was the first African-American woman to win an Academy Award for Best Supporting Actress?",
+                            "TrueAnswer": "Hattie McDaniel",
+                            "FalseAnswer": ["Viola Davis", "Octavia Spencer", "Whoopi Goldberg"],
+                            "Explanation": "Hattie McDaniel became the first African-American woman to win an Oscar in 1940."
+                        },
+                        {
+                            "Question": "Which actor became the first openly gay man to win an Academy Award for Best Actor?",
+                            "TrueAnswer": "Rami Malek",
+                            "FalseAnswer": ["Ian McKellen", "Neil Patrick Harris", "Matt Bomer"],
+                            "Explanation": "Rami Malek made history as the first openly gay man to win the Best Actor Oscar in 2019."
+                        },
+                        {
+                            "Question": "Who was the first woman of color to win an Academy Award for Best Director?",
+                            "TrueAnswer": "Chloé Zhao",
+                            "FalseAnswer": ["Ava DuVernay", "Kathryn Bigelow", "Gina Prince-Bythewood"],
+                            "Explanation": "Chloé Zhao became the first woman of color to win the Best Director Oscar in 2021."
+                        },
+                        {
+                            "Question": "Which actress became the first Muslim to win an Academy Award for Best Supporting Actress?",
+                            "TrueAnswer": "Mahershala Ali",
+                            "FalseAnswer": ["Riz Ahmed", "Dev Patel", "Omar Sharif"],
+                            "Explanation": "Mahershala Ali made history as the first Muslim actor to win the Best Supporting Actor Oscar in 2017."
+                        },
+                        {
+                            "Question": "Who was the first openly transgender person to be nominated for an Academy Award?",
+                            "TrueAnswer": "Yance Ford",
+                            "FalseAnswer": ["Laverne Cox", "Caitlyn Jenner", "Chaz Bono"],
+                            "Explanation": "Yance Ford became the first openly transgender person to be nominated for an Oscar in 2018."
+                        },
+                        {
+                            "Question": "Which actress became the first Latina to win an Academy Award for Best Actress?",
+                            "TrueAnswer": "Rita Moreno",
+                            "FalseAnswer": ["Salma Hayek", "Penélope Cruz", "Jennifer Lopez"],
+                            "Explanation": "Rita Moreno made history as the first Latina actress to win the Best Actress Oscar in 1962."
+                        },
+                        {
+                            "Question": "Who was the first Asian-American to win an Academy Award for Best Director?",
+                            "TrueAnswer": "Bong Joon-ho",
+                            "FalseAnswer": ["Ang Lee", "John Woo", "Wong Kar-wai"],
+                            "Explanation": "Bong Joon-ho became the first Asian-American to win the Best Director Oscar in 2020."
+                        },
+                        {
+                            "Question": "Which actor became the first Indigenous person to win an Academy Award for Best Actor?",
+                            "TrueAnswer": "Benjamin Bratt",
+                            "FalseAnswer": ["Adam Beach", "Wes Studi", "Graham Greene"],
+                            "Explanation": "Benjamin Bratt made history as the first Indigenous actor to win the Best Actor Oscar in 2022."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

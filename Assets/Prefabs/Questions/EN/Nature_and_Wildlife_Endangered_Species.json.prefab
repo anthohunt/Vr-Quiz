@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &814512550202732150
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8124147887169747855}
+  - component: {fileID: 5981840833299516739}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Endangered_Species.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8124147887169747855
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814512550202732150}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5981840833299516739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814512550202732150}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest living primate in the world?
+      TrueAnswer: Gorilla
+      FalseAnswer:
+      - Orangutan
+      - Chimpanzee
+      - Baboon
+      Explanation: Gorillas are the largest living primates and are ground-dwelling
+        herbivores native to the forests of central sub-Saharan Africa.
+    - Question: Which big cat is the fastest runner on land?
+      TrueAnswer: Cheetah
+      FalseAnswer:
+      - Lion
+      - Jaguar
+      - Leopard
+      Explanation: Cheetahs are the fastest land animals, capable of reaching speeds
+        between 50-80 mph in short bursts covering distances up to 1,500 ft.
+    - Question: What is the main diet of a giant panda?
+      TrueAnswer: Bamboo
+      FalseAnswer:
+      - Fish
+      - Berries
+      - Insects
+      Explanation: Giant pandas primarily feed on bamboo, consuming up to 26-84 pounds
+        per day due to their low nutritional value, resulting in significant time
+        foraging.
+    - Question: What sea turtle is the largest and heaviest?
+      TrueAnswer: Leatherback
+      FalseAnswer:
+      - Loggerhead
+      - Hawksbill
+      - Green Turtle
+      Explanation: The leatherback sea turtle is the largest and heaviest of all
+        sea turtle species, with adults reaching lengths of 6-7 feet and weights
+        around 550-1,540 lb.
+    - Question: Which bird has the largest wingspan?
+      TrueAnswer: Wandering Albatross
+      FalseAnswer:
+      - Bald Eagle
+      - Andean Condor
+      - California Condor
+      Explanation: The Wandering Albatross holds the record for the largest wingspan
+        of any living bird, measuring up to 11 feet from tip to tip.
+    - Question: How many tigers subspecies are considered extinct?
+      TrueAnswer: 3
+      FalseAnswer:
+      - 1
+      - 5
+      - 7
+      Explanation: "Three subspecies of tigers\u2014the Bali, Caspian, and Javan\u2014are
+        considered extinct due to habitat loss and hunting."
+    - Question: Which species is known as 'the living fossil'?
+      TrueAnswer: Coelacanth
+      FalseAnswer:
+      - Giant Panda
+      - Platypus
+      - Red Panda
+      Explanation: The Coelacanth is often referred to as 'the living fossil' because
+        it is believed to be an ancient species that has remained almost unchanged
+        for 400 million years.
+    - Question: What iconic marine animal is critically endangered due to illegal
+        fishing?
+      TrueAnswer: Vaquita
+      FalseAnswer:
+      - Narwhal
+      - Beluga Whale
+      - Dolphin
+      Explanation: The vaquita, a small porpoise native to the Gulf of California,
+        is critically endangered due to accidental entanglement in illegal gillnets
+        used to catch the totoaba fish.
+    - Question: Which member of the ape family is closest to humans?
+      TrueAnswer: Bonobo
+      FalseAnswer:
+      - Gibbon
+      - Orangutan
+      - Gorilla
+      Explanation: The bonobo, along with the common chimpanzee, is the closest extant
+        relative to humans, sharing approximately 98.7% of its DNA with humans.
+    - Question: "What is the world\u2019s most trafficked mammal for traditional
+        medicine?"
+      TrueAnswer: Pangolin
+      FalseAnswer:
+      - Armadillo
+      - Anteater
+      - Aardvark
+      Explanation: The pangolin is the most trafficked mammal due to the illegal
+        trade of its scales and meat for traditional medicine and consumption in
+        Asia and Africa.
+    - Question: "Which marine mammal holds the title of the world\u2019s largest
+        mammal?"
+      TrueAnswer: Blue Whale
+      FalseAnswer:
+      - Humpback Whale
+      - Sperm Whale
+      - Killer Whale
+      Explanation: "The blue whale, an oceanic marvel, holds the title of the world\u2019s
+        largest mammal, with adult individuals reaching lengths of up to 100 feet
+        and weights of 200 tons."
+    - Question: What is the main threat to the survival of polar bears?
+      TrueAnswer: Climate Change
+      FalseAnswer:
+      - Hunting
+      - Oil Spills
+      - Habitat Loss
+      Explanation: Climate change poses the greatest threat to polar bears, impacting
+        their habitat and reducing sea ice cover essential for hunting and reproduction.
+    - Question: Which big cat is known for its solitary and elusive nature?
+      TrueAnswer: Snow Leopard
+      FalseAnswer:
+      - Jaguar
+      - Leopard
+      - Cheetah
+      Explanation: The snow leopard is known for its solitary and elusive nature,
+        inhabiting remote, rugged mountain ranges in Central and South Asia.
+    - Question: What is the estimated number of African elephants lost to poaching
+        within a decade?
+      TrueAnswer: 100,000
+      FalseAnswer:
+      - 50,000
+      - 200,000
+      - 300,000
+      Explanation: An estimated 100,000 African elephants were lost to poaching for
+        their ivory tusks between 2010 and 2020, making this species vulnerable to
+        extinction.
+    - Question: Which ape species is only found in one country in the world?
+      TrueAnswer: Mountain Gorilla
+      FalseAnswer:
+      - Chimpanzee
+      - Bornean Orangutan
+      - Bonobo
+      Explanation: The mountain gorilla is found only in the Virunga Mountains of
+        Central Africa, shared between Rwanda, Uganda, and the Democratic Republic
+        of the Congo.
+    - Question: What is the primary reason for the decline of the Sumatran rhinoceros
+        population?
+      TrueAnswer: Habitat Loss
+      FalseAnswer:
+      - Poaching
+      - Disease
+      - Climate Change
+      Explanation: The primary reason for the decline in Sumatran rhinoceros population
+        is habitat loss due to deforestation and human encroachment, leading to habitat
+        fragmentation and reduced breeding pairs.
+    - Question: Which species is the most heavily trafficked reptile globally?
+      TrueAnswer: Ploughshare Tortoise
+      FalseAnswer:
+      - Galapagos Tortoise
+      - Leopard Tortoise
+      - Aldabra Giant Tortoise
+      Explanation: The ploughshare tortoise is the most heavily trafficked reptile
+        globally, threatened by illegal collection for the pet trade and habitat
+        destruction in its native region of Madagascar.
+    - Question: What is the biggest threat to the survival of the Amur leopard?
+      TrueAnswer: Habitat Loss
+      FalseAnswer:
+      - Poaching
+      - Climate Change
+      - Hunting
+      Explanation: The biggest threat to the survival of the Amur leopard is habitat
+        loss and fragmentation, primarily due to human activities such as logging,
+        forest fires, and development projects.
+    - Question: Which marine animal is the most endangered cetacean species in the
+        world?
+      TrueAnswer: Vaquita
+      FalseAnswer:
+      - Hector's Dolphin
+      - Blue Whale
+      - Orca
+      Explanation: The vaquita, a small porpoise endemic to the northern Gulf of
+        California, is the most endangered cetacean species in the world, with less
+        than 10 individuals remaining due to bycatch in illegal gillnets.

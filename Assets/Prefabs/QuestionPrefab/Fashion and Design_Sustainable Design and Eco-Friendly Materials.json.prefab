@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6376411762346236802
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3207507875281986281}
+  - component: {fileID: 1495122997757488751}
+  m_Layer: 0
+  m_Name: Fashion and Design_Sustainable Design and Eco-Friendly Materials.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3207507875281986281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6376411762346236802}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1495122997757488751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6376411762346236802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is sustainable design?
+      TrueAnswer: Design that considers environmental, social, and economic factors
+      FalseAnswer:
+      - Design that focuses only on aesthetics
+      - Design that uses harmful materials
+      - Design that is expensive
+      Explanation: Sustainable design takes into account the impact on the environment,
+        society, and economy throughout the design process.
+    - Question: What are eco-friendly materials?
+      TrueAnswer: Materials that have a reduced impact on the environment
+      FalseAnswer:
+      - Materials that are expensive
+      - Materials that are difficult to source
+      - Materials that are harmful to humans
+      Explanation: Eco-friendly materials are those that are produced and used in
+        a way that minimizes harm to the environment.
+    - Question: Why is sustainable design important?
+      TrueAnswer: To reduce environmental impact and promote social responsibility
+      FalseAnswer:
+      - To increase profits
+      - To follow trends
+      - To create exclusive designs
+      Explanation: Sustainable design aims to minimize harm to the environment and
+        promote ethical practices in the fashion industry.
+    - Question: What is the purpose of using eco-friendly materials?
+      TrueAnswer: To minimize harm to the environment and human health
+      FalseAnswer:
+      - To increase production costs
+      - To create unique designs
+      - To follow fashion trends
+      Explanation: Using eco-friendly materials helps to reduce pollution, conserve
+        resources, and protect human health.
+    - Question: What are some examples of sustainable design practices?
+      TrueAnswer: Using recycled materials and reducing waste
+      FalseAnswer:
+      - Using harmful chemicals
+      - Overproducing goods
+      - Ignoring worker rights
+      Explanation: Sustainable design practices include using recycled materials,
+        minimizing waste, and promoting ethical production.
+    - Question: What are some examples of eco-friendly materials?
+      TrueAnswer: Organic cotton and bamboo
+      FalseAnswer:
+      - Synthetic fabrics
+      - Leather and fur
+      - Plastic
+      Explanation: Organic cotton and bamboo are examples of eco-friendly materials
+        due to their sustainable production methods.
+    - Question: How does sustainable design contribute to a circular economy?
+      TrueAnswer: By promoting the reuse and recycling of materials
+      FalseAnswer:
+      - By increasing waste production
+      - By using non-renewable resources
+      - By ignoring environmental impact
+      Explanation: Sustainable design encourages the reuse and recycling of materials,
+        reducing waste and promoting a circular economy.
+    - Question: What is the goal of sustainable fashion?
+      TrueAnswer: To create a more ethical and environmentally friendly fashion industry
+      FalseAnswer:
+      - To increase profits
+      - To follow fast fashion trends
+      - To create exclusive designs
+      Explanation: The goal of sustainable fashion is to promote ethical practices
+        and reduce the negative impact of the fashion industry on the environment.
+    - Question: What is the impact of fast fashion on the environment?
+      TrueAnswer: High resource consumption and waste generation
+      FalseAnswer:
+      - Reduced pollution
+      - Sustainable production
+      - Conservation of resources
+      Explanation: Fast fashion leads to high resource consumption, pollution, and
+        waste generation, contributing to environmental degradation.
+    - Question: What is the role of consumers in sustainable fashion?
+      TrueAnswer: To make conscious and responsible purchasing decisions
+      FalseAnswer:
+      - To buy as many clothes as possible
+      - To follow every fashion trend
+      - To ignore ethical considerations
+      Explanation: Consumers play a crucial role in sustainable fashion by making
+        informed choices and supporting ethical and eco-friendly brands.
+    - Question: What is the concept of upcycling in sustainable design?
+      TrueAnswer: Transforming waste materials into new products
+      FalseAnswer:
+      - Throwing away waste materials
+      - Using non-recyclable materials
+      - Ignoring waste reduction
+      Explanation: Upcycling involves repurposing waste materials to create new products,
+        reducing the need for new resources.
+    - Question: What is the purpose of sustainable packaging in fashion?
+      TrueAnswer: To reduce waste and promote recycling
+      FalseAnswer:
+      - To increase packaging costs
+      - To create luxurious packaging
+      - To ignore environmental impact
+      Explanation: Sustainable packaging aims to minimize waste, use recyclable materials,
+        and reduce the environmental impact of packaging in the fashion industry.
+    - Question: What is the concept of slow fashion?
+      TrueAnswer: A movement that promotes quality over quantity and ethical production
+      FalseAnswer:
+      - A movement that encourages fast fashion
+      - A movement that focuses on trends
+      - A movement that ignores ethical considerations
+      Explanation: Slow fashion emphasizes the importance of quality, ethical production,
+        and mindful consumption, contrasting with the fast fashion industry.
+    - Question: What is the impact of the fashion industry on water resources?
+      TrueAnswer: High water consumption and pollution
+      FalseAnswer:
+      - Water conservation
+      - Sustainable water practices
+      - No impact on water resources
+      Explanation: The fashion industry contributes to water scarcity and pollution
+        through high water consumption and the release of harmful chemicals.
+    - Question: What is the concept of fair trade in sustainable fashion?
+      TrueAnswer: Ensuring fair wages and working conditions for producers
+      FalseAnswer:
+      - Exploiting workers
+      - Ignoring worker rights
+      - Paying low wages
+      Explanation: Fair trade in sustainable fashion ensures that producers receive
+        fair wages and work in safe and ethical conditions.
+    - Question: What is the purpose of sustainable certifications in fashion?
+      TrueAnswer: To verify ethical and eco-friendly practices of brands
+      FalseAnswer:
+      - To increase production costs
+      - To create exclusive designs
+      - To ignore environmental impact
+      Explanation: Sustainable certifications help consumers identify brands that
+        adhere to ethical and eco-friendly practices in the fashion industry.
+    - Question: What is the impact of synthetic fabrics on the environment?
+      TrueAnswer: High carbon emissions and non-biodegradability
+      FalseAnswer:
+      - Low carbon emissions
+      - Biodegradability
+      - Sustainable production
+      Explanation: Synthetic fabrics contribute to high carbon emissions during production
+        and do not biodegrade, leading to environmental pollution.
+    - Question: What is the concept of zero waste in sustainable design?
+      TrueAnswer: Minimizing waste throughout the design and production process
+      FalseAnswer:
+      - Ignoring waste reduction
+      - Maximizing waste production
+      - Using non-recyclable materials
+      Explanation: Zero waste design aims to minimize waste by utilizing materials
+        efficiently and finding innovative ways to repurpose or recycle waste.
+    - Question: What is the impact of the fashion industry on greenhouse gas emissions?
+      TrueAnswer: Significant contribution to global greenhouse gas emissions
+      FalseAnswer:
+      - Reduced greenhouse gas emissions
+      - Sustainable production
+      - Carbon neutrality
+      Explanation: The fashion industry is a major contributor to greenhouse gas
+        emissions, primarily through production processes and transportation.
+    - Question: What is the role of designers in sustainable fashion?
+      TrueAnswer: To create innovative and eco-friendly designs
+      FalseAnswer:
+      - To ignore environmental impact
+      - To follow fast fashion trends
+      - To prioritize aesthetics over sustainability
+      Explanation: Designers play a crucial role in sustainable fashion by creating
+        innovative designs that prioritize environmental and social considerations.
+    - Question: What is the impact of the fashion industry on waste generation?
+      TrueAnswer: High production of textile waste and discarded garments
+      FalseAnswer:
+      - Reduced waste generation
+      - Sustainable waste practices
+      - Recycling of all garments
+      Explanation: The fashion industry generates a significant amount of waste through
+        the production of textiles and the disposal of discarded garments.

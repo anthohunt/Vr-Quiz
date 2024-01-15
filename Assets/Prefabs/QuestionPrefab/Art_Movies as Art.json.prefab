@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3903573954710878046
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6266442094136492327}
+  - component: {fileID: 7370547908439773461}
+  m_Layer: 0
+  m_Name: Art_Movies as Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6266442094136492327
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3903573954710878046}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7370547908439773461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3903573954710878046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who directed the movie 'Pulp Fiction'?
+      TrueAnswer: Quentin Tarantino
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Christopher Nolan
+      Explanation: Quentin Tarantino directed the iconic movie 'Pulp Fiction' known
+        for its nonlinear narrative and memorable dialogue.
+    - Question: Which movie won the Best Picture Oscar in 2020?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Joker
+      - 1917
+      - Once Upon a Time in Hollywood
+      Explanation: The South Korean film 'Parasite' made history by winning the Best
+        Picture Oscar in 2020.
+    - Question: Who played the character of Tony Stark in the Marvel Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Tom Holland
+      Explanation: Robert Downey Jr. portrayed the charismatic Tony Stark, also known
+        as Iron Man, in the Marvel Cinematic Universe.
+    - Question: Which movie is known for the line 'Here's Johnny!'?
+      TrueAnswer: The Shining
+      FalseAnswer:
+      - Psycho
+      - A Clockwork Orange
+      - Taxi Driver
+      Explanation: The horror film 'The Shining' is famous for the chilling line
+        'Here's Johnny!' uttered by Jack Nicholson.
+    - Question: Who directed the movie 'Inception'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - David Fincher
+      - Wes Anderson
+      - Quentin Tarantino
+      Explanation: Christopher Nolan directed the mind-bending movie 'Inception'
+        known for its complex narrative and stunning visuals.
+    - Question: Which movie features the character Darth Vader?
+      TrueAnswer: Star Wars
+      FalseAnswer:
+      - The Matrix
+      - Blade Runner
+      - Interstellar
+      Explanation: The iconic character Darth Vader appears in the 'Star Wars' franchise
+        created by George Lucas.
+    - Question: Who played the character of Neo in 'The Matrix'?
+      TrueAnswer: Keanu Reeves
+      FalseAnswer:
+      - Tom Cruise
+      - Brad Pitt
+      - Leonardo DiCaprio
+      Explanation: Keanu Reeves portrayed the protagonist Neo in the groundbreaking
+        sci-fi film 'The Matrix'.
+    - Question: Which movie is based on the novel by Stephen King?
+      TrueAnswer: The Shawshank Redemption
+      FalseAnswer:
+      - Forrest Gump
+      - The Godfather
+      - Fight Club
+      Explanation: The critically acclaimed film 'The Shawshank Redemption' is based
+        on a novella by Stephen King.
+    - Question: Who directed the movie 'The Godfather'?
+      TrueAnswer: Francis Ford Coppola
+      FalseAnswer:
+      - Alfred Hitchcock
+      - Stanley Kubrick
+      - Martin Scorsese
+      Explanation: Francis Ford Coppola directed the masterpiece 'The Godfather'
+        known for its compelling storytelling and memorable performances.
+    - Question: Which movie features the character Hannibal Lecter?
+      TrueAnswer: The Silence of the Lambs
+      FalseAnswer:
+      - Fight Club
+      - The Dark Knight
+      - Se7en
+      Explanation: The character Hannibal Lecter appears in the psychological thriller
+        'The Silence of the Lambs'.
+    - Question: Who played the character of Joker in 'The Dark Knight'?
+      TrueAnswer: Heath Ledger
+      FalseAnswer:
+      - Joaquin Phoenix
+      - Jack Nicholson
+      - Jared Leto
+      Explanation: Heath Ledger delivered an unforgettable performance as the Joker
+        in 'The Dark Knight'.
+    - Question: Which movie is known for the line 'I'll be back'?
+      TrueAnswer: The Terminator
+      FalseAnswer:
+      - Die Hard
+      - Predator
+      - Rambo
+      Explanation: The line 'I'll be back' became iconic in the sci-fi film 'The
+        Terminator' starring Arnold Schwarzenegger.
+    - Question: Who directed the movie 'Citizen Kane'?
+      TrueAnswer: Orson Welles
+      FalseAnswer:
+      - Stanley Kubrick
+      - Alfred Hitchcock
+      - Martin Scorsese
+      Explanation: Orson Welles directed the groundbreaking film 'Citizen Kane' known
+        for its innovative storytelling techniques.
+    - Question: Which movie won the Best Picture Oscar in 2019?
+      TrueAnswer: Green Book
+      FalseAnswer:
+      - La La Land
+      - Moonlight
+      - The Shape of Water
+      Explanation: The film 'Green Book' won the Best Picture Oscar in 2019, highlighting
+        racial tensions and friendship.
+    - Question: Who played the character of Clarice Starling in 'The Silence of the
+        Lambs'?
+      TrueAnswer: Jodie Foster
+      FalseAnswer:
+      - Meryl Streep
+      - Julia Roberts
+      - Cate Blanchett
+      Explanation: Jodie Foster portrayed the determined FBI trainee Clarice Starling
+        in 'The Silence of the Lambs'.
+    - Question: Which movie is known for the line 'You can't handle the truth!'?
+      TrueAnswer: A Few Good Men
+      FalseAnswer:
+      - Goodfellas
+      - The Departed
+      - The Shawshank Redemption
+      Explanation: The line 'You can't handle the truth!' is from the legal drama
+        film 'A Few Good Men'.
+    - Question: Who directed the movie 'The Dark Knight'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - David Fincher
+      - Martin Scorsese
+      - Quentin Tarantino
+      Explanation: Christopher Nolan directed the critically acclaimed superhero
+        film 'The Dark Knight' starring Heath Ledger.
+    - Question: Which movie features the character James Bond?
+      TrueAnswer: Casino Royale
+      FalseAnswer:
+      - 'Mission: Impossible'
+      - The Bourne Identity
+      - Skyfall
+      Explanation: The character James Bond appears in the movie 'Casino Royale'
+        and many other films in the franchise.
+    - Question: Who played the character of Forrest Gump in the movie of the same
+        name?
+      TrueAnswer: Tom Hanks
+      FalseAnswer:
+      - Brad Pitt
+      - Leonardo DiCaprio
+      - Johnny Depp
+      Explanation: Tom Hanks portrayed the lovable character Forrest Gump in the
+        film of the same name.
+    - Question: Which movie won the Best Picture Oscar in 1994?
+      TrueAnswer: Forrest Gump
+      FalseAnswer:
+      - Pulp Fiction
+      - The Shawshank Redemption
+      - Braveheart
+      Explanation: The heartwarming film 'Forrest Gump' won the Best Picture Oscar
+        in 1994.

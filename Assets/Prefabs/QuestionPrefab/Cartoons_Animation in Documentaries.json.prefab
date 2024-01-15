@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8423763947188661496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4535903724563922936}
+  - component: {fileID: 8354066008415859628}
+  m_Layer: 0
+  m_Name: Cartoons_Animation in Documentaries.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4535903724563922936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8423763947188661496}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8354066008415859628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8423763947188661496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who created the animated series 'The Simpsons'?
+      TrueAnswer: Matt Groening
+      FalseAnswer:
+      - Seth MacFarlane
+      - Mike Judge
+      - Trey Parker
+      Explanation: Matt Groening is the creator of 'The Simpsons,' a long-running
+        animated sitcom that first aired in 1989.
+    - Question: Which animated film won the Academy Award for Best Animated Feature
+        in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: Toy Story 4, the fourth installment in the Toy Story franchise,
+        won the Academy Award for Best Animated Feature in 2020.
+    - Question: What is the name of the main character in the animated series 'SpongeBob
+        SquarePants'?
+      TrueAnswer: SpongeBob
+      FalseAnswer:
+      - Patrick
+      - Squidward
+      - Mr. Krabs
+      Explanation: The main character in 'SpongeBob SquarePants' is SpongeBob, a
+        cheerful and optimistic sea sponge who lives in Bikini Bottom.
+    - Question: Which animation studio is known for producing films like 'Finding
+        Nemo' and 'Toy Story'?
+      TrueAnswer: Pixar
+      FalseAnswer:
+      - DreamWorks Animation
+      - Studio Ghibli
+      - Blue Sky Studios
+      Explanation: Pixar is a renowned animation studio known for producing critically
+        acclaimed films like 'Finding Nemo' and 'Toy Story.'
+    - Question: What is the name of the animated series featuring a group of kids
+        with superpowers called 'The Crystal Gems'?
+      TrueAnswer: Steven Universe
+      FalseAnswer:
+      - Teen Titans Go!
+      - The Powerpuff Girls
+      - 'Avatar: The Last Airbender'
+      Explanation: '''Steven Universe'' is an animated series that follows the adventures
+        of a young boy named Steven and his magical friends, The Crystal Gems.'
+    - Question: Which animated film features a young lion named Simba as the main
+        character?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Madagascar
+      - Zootopia
+      - Kung Fu Panda
+      Explanation: '''The Lion King'' is an animated film that tells the story of
+        Simba, a young lion who must reclaim his rightful place as king.'
+    - Question: Who is the creator of the animated series 'Family Guy'?
+      TrueAnswer: Seth MacFarlane
+      FalseAnswer:
+      - Matt Groening
+      - Mike Judge
+      - Trey Parker
+      Explanation: Seth MacFarlane is the creator of 'Family Guy,' an animated sitcom
+        known for its irreverent humor and satirical commentary.
+    - Question: Which animated film features a young girl named Chihiro who enters
+        a spirit world?
+      TrueAnswer: Spirited Away
+      FalseAnswer:
+      - Frozen
+      - Moana
+      - Coco
+      Explanation: '''Spirited Away'' is an animated film directed by Hayao Miyazaki,
+        where a young girl named Chihiro encounters spirits in a magical world.'
+    - Question: What is the name of the animated series about a boy and his dog named
+        Jake with magical powers?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - Regular Show
+      - Gravity Falls
+      - The Amazing World of Gumball
+      Explanation: '''Adventure Time'' is an animated series that follows the adventures
+        of Finn, a boy, and his shape-shifting dog, Jake, in the Land of Ooo.'
+    - Question: Which animation studio is known for producing films like 'Shrek'
+        and 'Kung Fu Panda'?
+      TrueAnswer: DreamWorks Animation
+      FalseAnswer:
+      - Pixar
+      - Studio Ghibli
+      - Blue Sky Studios
+      Explanation: DreamWorks Animation is a renowned animation studio known for
+        producing popular films like 'Shrek' and 'Kung Fu Panda.'
+    - Question: What is the name of the animated series featuring a group of superhero
+        siblings with extraordinary powers?
+      TrueAnswer: The Incredibles
+      FalseAnswer:
+      - Teen Titans
+      - The Powerpuff Girls
+      - Justice League
+      Explanation: '''The Incredibles'' is an animated series that revolves around
+        a family of superheroes who must save the world from supervillains.'
+    - Question: Which animated film features a young robot named WALL-E as the main
+        character?
+      TrueAnswer: WALL-E
+      FalseAnswer:
+      - The Iron Giant
+      - Big Hero 6
+      - Robots
+      Explanation: '''WALL-E'' is an animated film set in a post-apocalyptic future
+        where a robot named WALL-E embarks on a space adventure.'
+    - Question: Who is the creator of the animated series 'South Park'?
+      TrueAnswer: Trey Parker
+      FalseAnswer:
+      - Matt Groening
+      - Seth MacFarlane
+      - Mike Judge
+      Explanation: Trey Parker is one of the creators of 'South Park,' an animated
+        sitcom known for its satirical and often controversial content.
+    - Question: Which animated film features a young girl named Elsa with ice powers?
+      TrueAnswer: Frozen
+      FalseAnswer:
+      - Brave
+      - Tangled
+      - Mulan
+      Explanation: '''Frozen'' is an animated film that tells the story of Elsa,
+        a princess with ice powers, and her journey of self-discovery.'
+    - Question: What is the name of the animated series about a boy and his talking
+        dog named Jake?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - Regular Show
+      - Gravity Falls
+      - The Amazing World of Gumball
+      Explanation: '''Adventure Time'' is an animated series that follows the adventures
+        of Finn, a boy, and his magical dog, Jake, in the Land of Ooo.'
+    - Question: Which animation studio is known for producing films like 'My Neighbor
+        Totoro' and 'Spirited Away'?
+      TrueAnswer: Studio Ghibli
+      FalseAnswer:
+      - Pixar
+      - DreamWorks Animation
+      - Blue Sky Studios
+      Explanation: Studio Ghibli is a renowned animation studio known for producing
+        critically acclaimed films like 'My Neighbor Totoro' and 'Spirited Away.'
+    - Question: What is the name of the animated series featuring three kindergarten-aged
+        girls with superpowers?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - Teen Titans Go!
+      - Steven Universe
+      - 'Avatar: The Last Airbender'
+      Explanation: '''The Powerpuff Girls'' is an animated series that follows the
+        adventures of Blossom, Bubbles, and Buttercup, three superpowered sisters.'
+    - Question: Which animated film features a young girl named Moana on a journey
+        to save her people?
+      TrueAnswer: Moana
+      FalseAnswer:
+      - Frozen
+      - Brave
+      - Coco
+      Explanation: '''Moana'' is an animated film that tells the story of a young
+        girl named Moana who sets sail on a daring adventure to save her island.'
+    - Question: Who is the creator of the animated series 'Beavis and Butt-Head'?
+      TrueAnswer: Mike Judge
+      FalseAnswer:
+      - Matt Groening
+      - Seth MacFarlane
+      - Trey Parker
+      Explanation: Mike Judge is the creator of 'Beavis and Butt-Head,' an animated
+        sitcom known for its crude humor and social commentary.
+    - Question: Which animated film features a young girl named Rapunzel with long
+        magical hair?
+      TrueAnswer: Tangled
+      FalseAnswer:
+      - Frozen
+      - Brave
+      - Cinderella
+      Explanation: '''Tangled'' is an animated film that tells the story of Rapunzel,
+        a princess with long magical hair, and her journey of self-discovery.'
+    - Question: What is the name of the animated series about a boy and his adventures
+        in the town of Gravity Falls?
+      TrueAnswer: Gravity Falls
+      FalseAnswer:
+      - Regular Show
+      - Adventure Time
+      - The Amazing World of Gumball
+      Explanation: '''Gravity Falls'' is an animated series that follows the adventures
+        of Dipper and Mabel Pines in the mysterious town of Gravity Falls.'

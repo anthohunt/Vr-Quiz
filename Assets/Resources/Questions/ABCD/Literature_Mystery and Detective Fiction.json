@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "Who is the famous detective created by Arthur Conan Doyle?",
+          "TrueAnswer": "Sherlock Holmes",
+          "FalseAnswer": [
+            "Hercule Poirot",
+            "Miss Marple",
+            "Nancy Drew"
+          ],
+          "Explanation": "Sherlock Holmes is a renowned detective known for his deductive reasoning and keen observation skills."
+        },
+        {
+          "Question": "Which author wrote the mystery novel 'Gone Girl'?",
+          "TrueAnswer": "Gillian Flynn",
+          "FalseAnswer": [
+            "Agatha Christie",
+            "Arthur Conan Doyle",
+            "Raymond Chandler"
+          ],
+          "Explanation": "Gillian Flynn is the author of 'Gone Girl,' a psychological thriller that became a bestseller."
+        },
+        {
+          "Question": "In 'The Maltese Falcon,' who is the private detective protagonist?",
+          "TrueAnswer": "Sam Spade",
+          "FalseAnswer": [
+            "Philip Marlowe",
+            "Hercule Poirot",
+            "Sherlock Holmes"
+          ],
+          "Explanation": "'The Maltese Falcon' features Sam Spade, a hard-boiled detective navigating a web of deceit and murder."
+        },
+        {
+          "Question": "Which famous detective novel features the character Hercule Poirot?",
+          "TrueAnswer": "Murder on the Orient Express",
+          "FalseAnswer": [
+            "The Girl with the Dragon Tattoo",
+            "The Da Vinci Code",
+            "The Big Sleep"
+          ],
+          "Explanation": "Agatha Christie's 'Murder on the Orient Express' showcases the brilliant detective Hercule Poirot solving a murder on a train."
+        },
+        {
+          "Question": "Who is the author of the mystery novel 'The Girl with the Dragon Tattoo'?",
+          "TrueAnswer": "Stieg Larsson",
+          "FalseAnswer": [
+            "Gillian Flynn",
+            "Agatha Christie",
+            "Arthur Conan Doyle"
+          ],
+          "Explanation": "Stieg Larsson wrote 'The Girl with the Dragon Tattoo,' a gripping thriller set in Sweden."
+        },
+        {
+          "Question": "Which detective series features the character Lisbeth Salander?",
+          "TrueAnswer": "Millennium",
+          "FalseAnswer": [
+            "Harry Potter",
+            "Nancy Drew",
+            "Sherlock Holmes"
+          ],
+          "Explanation": "The 'Millennium' series by Stieg Larsson follows the adventures of Lisbeth Salander, a complex and resourceful hacker."
+        },
+        {
+          "Question": "Who is the author of the classic detective novel 'The Big Sleep'?",
+          "TrueAnswer": "Raymond Chandler",
+          "FalseAnswer": [
+            "Dashiell Hammett",
+            "Agatha Christie",
+            "Gillian Flynn"
+          ],
+          "Explanation": "Raymond Chandler penned 'The Big Sleep,' a hard-boiled detective novel featuring the iconic character Philip Marlowe."
+        },
+        {
+          "Question": "In 'And Then There Were None,' who is the mastermind behind the murders?",
+          "TrueAnswer": "Justice Wargrave",
+          "FalseAnswer": [
+            "Miss Marple",
+            "Hercule Poirot",
+            "Sherlock Holmes"
+          ],
+          "Explanation": "'And Then There Were None' by Agatha Christie reveals Justice Wargrave as the orchestrator of the killings."
+        },
+        {
+          "Question": "Which detective novel features the character Nancy Drew?",
+          "TrueAnswer": "The Secret of the Old Clock",
+          "FalseAnswer": [
+            "The Hound of the Baskervilles",
+            "The Maltese Falcon",
+            "Murder on the Orient Express"
+          ],
+          "Explanation": "'The Secret of the Old Clock' is a Nancy Drew mystery written by Carolyn Keene."
+        },
+        {
+          "Question": "Who is the author of the detective novel 'The Hound of the Baskervilles'?",
+          "TrueAnswer": "Arthur Conan Doyle",
+          "FalseAnswer": [
+            "Gillian Flynn",
+            "Agatha Christie",
+            "Raymond Chandler"
+          ],
+          "Explanation": "Arthur Conan Doyle, the creator of Sherlock Holmes, wrote 'The Hound of the Baskervilles,' a classic mystery."
+        },
+        {
+          "Question": "In 'The Adventures of Sherlock Holmes,' who is Sherlock Holmes' loyal friend and assistant?",
+          "TrueAnswer": "Dr. John Watson",
+          "FalseAnswer": [
+            "Inspector Lestrade",
+            "Professor Moriarty",
+            "Mrs. Hudson"
+          ],
+          "Explanation": "Dr. John Watson is Sherlock Holmes' trusted companion and chronicler of his detective adventures."
+        },
+        {
+          "Question": "Which detective novel features the character Philip Marlowe?",
+          "TrueAnswer": "The Big Sleep",
+          "FalseAnswer": [
+            "Murder on the Orient Express",
+            "The Girl with the Dragon Tattoo",
+            "Gone Girl"
+          ],
+          "Explanation": "'The Big Sleep' by Raymond Chandler introduces Philip Marlowe, a hard-boiled detective navigating a complex case."
+        },
+        {
+          "Question": "Who is the author of the detective novel 'The Da Vinci Code'?",
+          "TrueAnswer": "Dan Brown",
+          "FalseAnswer": [
+            "Stieg Larsson",
+            "Gillian Flynn",
+            "Agatha Christie"
+          ],
+          "Explanation": "Dan Brown wrote 'The Da Vinci Code,' a thrilling mystery that combines art, history, and conspiracy."
+        },
+        {
+          "Question": "In 'Murder on the Orient Express,' who is the victim of the murder?",
+          "TrueAnswer": "Ratchett",
+          "FalseAnswer": [
+            "Hercule Poirot",
+            "Miss Marple",
+            "Sherlock Holmes"
+          ],
+          "Explanation": "The murder victim in 'Murder on the Orient Express' is Ratchett, a mysterious and disliked passenger."
+        },
+        {
+          "Question": "Which detective series features the character Miss Marple?",
+          "TrueAnswer": "Miss Marple Mysteries",
+          "FalseAnswer": [
+            "Harry Potter",
+            "Nancy Drew",
+            "Sherlock Holmes"
+          ],
+          "Explanation": "The 'Miss Marple Mysteries' by Agatha Christie follow the investigations of the astute and elderly detective Miss Marple."
+        },
+        {
+          "Question": "Who is the author of the detective novel 'The Silence of the Lambs'?",
+          "TrueAnswer": "Thomas Harris",
+          "FalseAnswer": [
+            "Gillian Flynn",
+            "Agatha Christie",
+            "Arthur Conan Doyle"
+          ],
+          "Explanation": "Thomas Harris wrote 'The Silence of the Lambs,' a psychological thriller featuring the iconic character Hannibal Lecter."
+        },
+        {
+          "Question": "In 'The Adventures of Sherlock Holmes,' what is Sherlock Holmes' address?",
+          "TrueAnswer": "221B Baker Street",
+          "FalseAnswer": [
+            "10 Downing Street",
+            "1600 Pennsylvania Avenue",
+            "221A Baker Street"
+          ],
+          "Explanation": "Sherlock Holmes resides at 221B Baker Street, a famous address in London associated with the detective."
+        },
+        {
+          "Question": "Which detective novel features the character Harry Hole?",
+          "TrueAnswer": "The Snowman",
+          "FalseAnswer": [
+            "The Great Gatsby",
+            "To Kill a Mockingbird",
+            "Pride and Prejudice"
+          ],
+          "Explanation": "'The Snowman' by Jo Nesbø is a crime novel featuring the detective Harry Hole investigating a serial killer."
+        },
+        {
+          "Question": "Who is the author of the detective novel 'The Great Gatsby'?",
+          "TrueAnswer": "F. Scott Fitzgerald",
+          "FalseAnswer": [
+            "Stieg Larsson",
+            "Gillian Flynn",
+            "Agatha Christie"
+          ],
+          "Explanation": "F. Scott Fitzgerald wrote 'The Great Gatsby,' a classic novel set in the Roaring Twenties with elements of mystery."
+        },
+        {
+          "Question": "In 'The Adventures of Sherlock Holmes,' what is Sherlock Holmes' famous catchphrase?",
+          "TrueAnswer": "Elementary, my dear Watson",
+          "FalseAnswer": [
+            "I'll be back",
+            "May the Force be with you",
+            "To infinity and beyond"
+          ],
+          "Explanation": "Sherlock Holmes is often associated with the phrase 'Elementary, my dear Watson,' although it was never explicitly used in the original stories."
+        }
+      ]
+    }
+  ]
+}

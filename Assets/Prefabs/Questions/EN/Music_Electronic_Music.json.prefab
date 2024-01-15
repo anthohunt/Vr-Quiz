@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8048616672645893481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5835750077168356764}
+  - component: {fileID: 6281243265697077745}
+  m_Layer: 0
+  m_Name: Music_Electronic_Music.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5835750077168356764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8048616672645893481}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6281243265697077745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8048616672645893481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main instrument used in producing electronic music?
+      TrueAnswer: Synthesizer
+      FalseAnswer:
+      - Guitar
+      - Drums
+      - Piano
+      Explanation: Synthesizers are electronic musical instruments that generate
+        audio signals. They are commonly used in electronic music production for
+        creating a wide range of sounds and effects.
+    - Question: Which influential duo is known for pioneering the electronic music
+        genre in the 1970s?
+      TrueAnswer: Kraftwerk
+      FalseAnswer:
+      - Daft Punk
+      - The Chemical Brothers
+      - Underworld
+      Explanation: Kraftwerk, a German band, is widely regarded as the pioneers of
+        electronic music. Their innovative use of synthesizers and electronic sounds
+        laid the foundation for the genre's development.
+    - Question: What does the acronym 'EDM' stand for in the context of electronic
+        music?
+      TrueAnswer: Electronic Dance Music
+      FalseAnswer:
+      - Every Day Music
+      - Energetic Dance Mix
+      - Electric Drums Melody
+      Explanation: EDM refers to a broad range of electronic music genres primarily
+        produced for festivals, clubs, and raves, emphasizing danceable rhythms and
+        energetic melodies.
+    - Question: Which software is widely used for electronic music production and
+        live performance?
+      TrueAnswer: Ableton Live
+      FalseAnswer:
+      - Microsoft Excel
+      - Adobe Photoshop
+      - Final Cut Pro
+      Explanation: Ableton Live is acclaimed for its intuitive interface and powerful
+        features for composing, arranging, and performing electronic music. It is
+        favored by many electronic music artists and DJs.
+    - Question: What is the essential component of a DJ setup for electronic music
+        performances?
+      TrueAnswer: Turntables
+      FalseAnswer:
+      - Microphone
+      - Guitar Amplifier
+      - Drum Machine
+      Explanation: Turntables are vital for DJs to play and manipulate vinyl records,
+        creating seamless transitions and unique remixes in electronic music performances.
+    - Question: Which city is commonly recognized as a major hub for electronic music
+        culture and innovation?
+      TrueAnswer: Berlin
+      FalseAnswer:
+      - New York
+      - Tokyo
+      - London
+      Explanation: Berlin has been a central hub for electronic music, fostering
+        diverse subcultures and artistic experimentation, contributing to the genre's
+        global influence.
+    - Question: What is the term for a repetitive, hypnotic electronic music genre
+        that originated in Detroit, Michigan?
+      TrueAnswer: Techno
+      FalseAnswer:
+      - Reggae
+      - Classical
+      - Folk
+      Explanation: Techno emerged in the 1980s, characterized by its use of drum
+        machines, synthesizers, and futuristic sounds, influencing electronic music
+        worldwide.
+    - Question: Which artist is credited with popularizing the 'IDM' (Intelligent
+        Dance Music) genre in the 1990s?
+      TrueAnswer: Aphex Twin
+      FalseAnswer:
+      - Skrillex
+      - David Guetta
+      - Deadmau5
+      Explanation: Aphex Twin, known for complex compositions and experimental soundscapes,
+        is a prominent figure in the IDM genre, inspiring diverse electronic music
+        artists.
+    - Question: What is the term for live improvised electronic music performances
+        using various hardware instruments and controllers?
+      TrueAnswer: Live PA (Performance Act)
+      FalseAnswer:
+      - Studio Session
+      - Remote Playback
+      - Virtual DJing
+      Explanation: Live PA involves real-time manipulation and expression, often
+        incorporating analog or digital hardware to create dynamic electronic music
+        experiences.
+    - Question: Which iconic synthesizer played a significant role in shaping electronic
+        music with its distinctive sound and versatility?
+      TrueAnswer: Moog Modular
+      FalseAnswer:
+      - Fender Stratocaster
+      - Hammond B3 Organ
+      - Roland TR-808
+      Explanation: The Moog Modular synthesizer, introduced in the 1960s, revolutionized
+        electronic music production with its modular design and expressive sonic
+        capabilities.
+    - Question: Who is renowned for pioneering the 'Big Beat' genre, blending rock
+        and electronic music elements in the 1990s?
+      TrueAnswer: The Chemical Brothers
+      FalseAnswer:
+      - Enya
+      - "Ti\xEBsto"
+      - Skrillex
+      Explanation: The Chemical Brothers are acclaimed for their innovative fusion
+        of rock and electronic music, contributing to the popularity of the 'Big
+        Beat' genre.
+    - Question: What is the term for altering the speed and pitch of a track in electronic
+        music performances?
+      TrueAnswer: Pitch-shifting
+      FalseAnswer:
+      - Phase modulation
+      - Harmonic distortion
+      - Resonance filtering
+      Explanation: Pitch-shifting allows DJs and electronic music artists to creatively
+        manipulate the tonal characteristics of a track, transforming its sonic properties.
+    - Question: What is the key element that distinguishes 'House' music from other
+        electronic music genres?
+      TrueAnswer: 4/4 Beat
+      FalseAnswer:
+      - 3/4 Beat
+      - 6/8 Beat
+      - 2/4 Beat
+      Explanation: House music typically features a steady 4/4 beat, characterized
+        by repetitive kick drum patterns, providing a consistent rhythmic foundation
+        for dancing.
+    - Question: Name the genre characterized by its use of distortion, heavy bass,
+        and aggressive rhythms in electronic music.
+      TrueAnswer: Dubstep
+      FalseAnswer:
+      - Chillstep
+      - Synthpop
+      - Trance
+      Explanation: Dubstep emerged in the late 1990s, defined by its intense basslines
+        and syncopated rhythms, influencing diverse electronic music styles.
+    - Question: Which influential music festival has been a pivotal platform for
+        showcasing diverse electronic music genres and artists?
+      TrueAnswer: Tomorrowland
+      FalseAnswer:
+      - Coachella
+      - Glastonbury
+      - Ultra Music Festival
+      Explanation: Tomorrowland, held in Belgium, has become an iconic event, uniting
+        electronic music enthusiasts worldwide and featuring cutting-edge performances
+        and production.
+    - Question: What is the term for a musical composition or performance created
+        entirely by electronic means?
+      TrueAnswer: Electroacoustic
+      FalseAnswer:
+      - Acoustic Folk
+      - Baroque Symphony
+      - Gospel Choir
+      Explanation: Electroacoustic music encompasses a wide spectrum of electronic
+        sound manipulation, blurring the boundaries between traditional and experimental
+        music forms.
+    - Question: Which influential female artist is celebrated for her impact on electronic
+        music and avant-garde sound experimentation?
+      TrueAnswer: "Bj\xF6rk"
+      FalseAnswer:
+      - Adele
+      - Taylor Swift
+      - Lady Gaga
+      Explanation: "Bj\xF6rk's innovative approach to electronic music and vocal
+        expression has led to groundbreaking sonic explorations, influencing contemporary
+        music aesthetics."
+    - Question: What is the term for the technique of layering multiple sounds to
+        create a thicker, more complex sonic texture in electronic music?
+      TrueAnswer: Sound Synthesis
+      FalseAnswer:
+      - Echo Chamber
+      - Mono Recording
+      - Amplifier Distortion
+      Explanation: Sound synthesis involves the intricate blending of diverse sonic
+        elements, enriching electronic music compositions with depth and richness.
+    - Question: Which influential producer is revered for pioneering and popularizing
+        the 'Trance' music genre in the 1990s?
+      TrueAnswer: Armin van Buuren
+      FalseAnswer:
+      - Dr. Dre
+      - Calvin Harris
+      - Timbaland
+      Explanation: Armin van Buuren's innovative productions and DJ sets have significantly
+        shaped the 'Trance' genre, influencing the evolution of electronic dance
+        music.
+    - Question: What is the primary function of a sequencer in electronic music production?
+      TrueAnswer: Pattern Arrangement
+      FalseAnswer:
+      - Vocal Manipulation
+      - Drum Tuning
+      - Melody Notation
+      Explanation: Sequencers enable musicians to arrange and manipulate musical
+        patterns, offering precise control over the timing and arrangement of electronic
+        music compositions.

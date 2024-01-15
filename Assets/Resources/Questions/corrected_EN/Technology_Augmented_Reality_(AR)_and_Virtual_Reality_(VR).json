@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "How does AR differ from VR?",
+          "TrueAnswer": "Overlay on real world",
+          "FalseAnswer": [
+            "Creates virtual world",
+            "Requires head-mounted display",
+            "Provides tactile feedback"
+          ],
+          "Explanation": "AR overlays digital content onto the real world, while VR creates a completely immersive digital environment, distinct from the actual surroundings."
+        },
+        {
+          "Question": "What component is essential for an AR experience?",
+          "TrueAnswer": "Camera",
+          "FalseAnswer": [
+            "Microphone",
+            "Speakers",
+            "Gyroscope"
+          ],
+          "Explanation": "The camera is crucial in AR to capture the real-world environment for digital overlay and interactions."
+        },
+        {
+          "Question": "Which VR system was developed by Valve in partnership with HTC?",
+          "TrueAnswer": "SteamVR",
+          "FalseAnswer": [
+            "PSVR",
+            "Oculus Rift",
+            "Google Cardboard"
+          ],
+          "Explanation": "Valve collaborated with HTC to create the SteamVR system, offering high-fidelity VR experiences with the HTC Vive headset."
+        },
+        {
+          "Question": "What is the name of the AR game developed by Nianticlabs before 'Pokemon Go'?",
+          "TrueAnswer": "Ingress",
+          "FalseAnswer": [
+            "Harry Potter: Wizards Unite",
+            "Jurassic World Alive",
+            "Minecraft Earth"
+          ],
+          "Explanation": "Ingress was an early AR game by Nianticlabs that laid the foundation for location-based AR gaming experiences."
+        },
+        {
+          "Question": "Which sensory experience is NOT common in VR headsets?",
+          "TrueAnswer": "Taste",
+          "FalseAnswer": [
+            "Sight",
+            "Sound",
+            "Touch"
+          ],
+          "Explanation": "While VR can simulate sight, sound, and touch, the technology does not currently encompass taste as part of the experience."
+        },
+        {
+          "Question": "What technology is often used for gesture control in AR and VR?",
+          "TrueAnswer": "Motion tracking",
+          "FalseAnswer": [
+            "Voice recognition",
+            "Facial expression analysis",
+            "Haptic feedback"
+          ],
+          "Explanation": "Motion tracking technology is employed to detect and interpret movements for interactive and intuitive control in AR and VR environments."
+        },
+        {
+          "Question": "Which company created the AR headset 'HoloLens'?",
+          "TrueAnswer": "Microsoft",
+          "FalseAnswer": [
+            "Apple",
+            "Google",
+            "Facebook"
+          ],
+          "Explanation": "HoloLens is a pioneering AR headset developed and manufactured by Microsoft, aimed at enterprise and consumer applications."
+        },
+        {
+          "Question": "What VR accessory shapes the digital environment in a 3D space?",
+          "TrueAnswer": "Hand controllers",
+          "FalseAnswer": [
+            "Eye tracker",
+            "Treadmill",
+            "Olfactory interface"
+          ],
+          "Explanation": "Hand controllers enable users to interact and navigate the VR space with precise 3D movements, enhancing the immersive experience."
+        },
+        {
+          "Question": "What is the primary input device in a VR headset?",
+          "TrueAnswer": "Headset tracking",
+          "FalseAnswer": [
+            "Keyboard",
+            "Mouse",
+            "Joystick"
+          ],
+          "Explanation": "VR headsets rely on tracking the movement and orientation of the headset itself as the primary input for immersive interactions."
+        },
+        {
+          "Question": "What AR technology allows for location-specific information overlay?",
+          "TrueAnswer": "Geotagging",
+          "FalseAnswer": [
+            "QR codes",
+            "Bluetooth beacons",
+            "RFID tags"
+          ],
+          "Explanation": "Geotagging enables AR to superimpose location-based digital elements onto the real world, enhancing context-sensitive experiences."
+        },
+        {
+          "Question": "Which VR headset was famously crowdfunded on Kickstarter in 2012?",
+          "TrueAnswer": "Oculus Rift",
+          "FalseAnswer": [
+            "HTC Vive",
+            "PlayStation VR",
+            "Samsung Gear VR"
+          ],
+          "Explanation": "Oculus Rift gained initial prominence through a successful Kickstarter campaign, generating widespread interest in consumer VR technology."
+        },
+        {
+          "Question": "What technology enables accurate positional tracking in VR environments?",
+          "TrueAnswer": "Lighthouse tracking",
+          "FalseAnswer": [
+            "GPS",
+            "Accelerometer",
+            "Gyroscope"
+          ],
+          "Explanation": "Lighthouse tracking uses infrared sensors for precise 3D positional tracking of VR devices within a dedicated space, enhancing VR interactions."
+        },
+        {
+          "Question": "What AR feature distinguishes it from traditional mobile app interactions?",
+          "TrueAnswer": "Spatial recognition",
+          "FalseAnswer": [
+            "Voice commands",
+            "Biometric authentication",
+            "Accelerometer input"
+          ],
+          "Explanation": "Spatial recognition in AR allows digital content to be anchored in physical space, enabling unique and context-aware interactions."
+        },
+        {
+          "Question": "Which VR display technology offers a wider field of view compared to traditional LCD?",
+          "TrueAnswer": "OLED",
+          "FalseAnswer": [
+            "LED",
+            "Plasma",
+            "CRT"
+          ],
+          "Explanation": "OLED displays present wider viewing angles and superior contrast, enhancing the immersive experience of VR with vivid visuals."
+        },
+        {
+          "Question": "What industry has extensively adopted AR for maintenance and training purposes?",
+          "TrueAnswer": "Aerospace",
+          "FalseAnswer": [
+            "Automotive",
+            "Retail",
+            "Entertainment"
+          ],
+          "Explanation": "Aerospace companies utilize AR for maintenance and training, leveraging its potential to overlay instructions and visual aids for complex tasks."
+        },
+        {
+          "Question": "What type of headset technology is integrated into the Magic Leap One AR device?",
+          "TrueAnswer": "Lightfield display",
+          "FalseAnswer": [
+            "Laser projection",
+            "Digital micromirror device",
+            "Curved display"
+          ],
+          "Explanation": "Magic Leap One employs lightfield display technology to blend digital content seamlessly with the user's natural environment, enhancing AR realism."
+        },
+        {
+          "Question": "What immersive aspect is exclusive to VR experiences?",
+          "TrueAnswer": "Full sensory isolation",
+          "FalseAnswer": [
+            "Social sharing",
+            "Real-time collaboration",
+            "Live data overlay"
+          ],
+          "Explanation": "VR provides full sensory isolation, immersing users in a virtual environment while disconnecting from the physical surroundings, a feature distinct from AR."
+        },
+        {
+          "Question": "What AR technology overlays digital content on physical objects?",
+          "TrueAnswer": "Marker-based tracking",
+          "FalseAnswer": [
+            "SLAM technology",
+            "Depth sensing",
+            "Object recognition"
+          ],
+          "Explanation": "Marker-based tracking in AR identifies predefined markers or patterns, enabling the overlay of digital content on specific physical objects or locations."
+        },
+        {
+          "Question": "Which type of VR content often utilizes 360-degree video experiences?",
+          "TrueAnswer": "Cinematic VR",
+          "FalseAnswer": [
+            "Immersive gaming",
+            "Social VR",
+            "Educational VR"
+          ],
+          "Explanation": "Cinematic VR immerses users in 360-degree video content, offering panoramic experiences often used in entertainment and storytelling applications."
+        },
+        {
+          "Question": "What AR capability enables virtual objects to interact with real-world surfaces?",
+          "TrueAnswer": "Surface detection",
+          "FalseAnswer": [
+            "Pattern recognition",
+            "Real-time occlusion",
+            "3D reconstruction"
+          ],
+          "Explanation": "Surface detection in AR allows virtual objects to accurately interact with real-world surfaces, enhancing the sense of realism and interactivity."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1010660504707723272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7005183112900709150}
+  - component: {fileID: 3246483794717796566}
+  m_Layer: 0
+  m_Name: Geography_Coastal_Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7005183112900709150
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010660504707723272}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3246483794717796566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1010660504707723272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for the movement of sand along a coast?
+      TrueAnswer: Longshore Drift
+      FalseAnswer:
+      - Tidal Surge
+      - Beach Erosion
+      - Coastal Retreat
+      Explanation: Longshore drift is the transportation of sediments along a coast,
+        caused by waves approaching the shore at an angle.
+    - Question: What is the primary force driving coastal erosion?
+      TrueAnswer: Wave Action
+      FalseAnswer:
+      - Tidal Flow
+      - Seabed Compression
+      - Melting Icebergs
+      Explanation: Wave action, including hydraulic action and abrasion, is the main
+        cause of coastal erosion by wearing away the coast.
+    - Question: Which of the following landforms is an example of a depositional
+        coastal feature?
+      TrueAnswer: Sand Spit
+      FalseAnswer:
+      - Sea Stack
+      - Headland
+      - Cliff Formation
+      Explanation: A sand spit is a depositional landform created by the deposition
+        of sediments carried by longshore drift.
+    - Question: What is the name for a long, narrow inlet with steep sides or cliffs?
+      TrueAnswer: Ria
+      FalseAnswer:
+      - Fjord
+      - Lagoon
+      - Barrier Island
+      Explanation: A ria is a coastal inlet formed by the partial submergence of
+        a river valley due to rising sea levels.
+    - Question: What causes the formation of sea caves along a coastline?
+      TrueAnswer: Wave Erosion
+      FalseAnswer:
+      - Glacial Activity
+      - Tectonic Uplift
+      - Meteor Impact
+      Explanation: Sea caves are formed through the erosive action of waves, especially
+        in areas of weaker rock or where there are faults and joints.
+    - Question: Which of the following is NOT a type of coastal wetland?
+      TrueAnswer: Tundra
+      FalseAnswer:
+      - Mangrove Swamp
+      - Salt Marsh
+      - Estuary
+      Explanation: Tundra is a type of biome characterized by very low temperatures
+        and short growing seasons, not typically found in coastal areas.
+    - Question: What is the process of a coastline encroaching inland due to erosion?
+      TrueAnswer: Coastal Retreat
+      FalseAnswer:
+      - Cliff Collapse
+      - Tidal Inundation
+      - Subaerial Erosion
+      Explanation: Coastal retreat is the gradual or sudden inland movement of a
+        coastline due to erosion, often leading to the loss of land.
+    - Question: What is the name for the accumulation of sand carried by longshore
+        drift?
+      TrueAnswer: Littoral Drift
+      FalseAnswer:
+      - Sedimentary Deposition
+      - Sand Sedimentation
+      - Coastal Build-Up
+      Explanation: Littoral drift refers to the transport and deposition of sand
+        along a coast by the action of waves and currents.
+    - Question: What is the term for the line of contact between land and sea?
+      TrueAnswer: Coastline
+      FalseAnswer:
+      - Seashore
+      - Beachfront
+      - Shoreline
+      Explanation: The coastline represents the dynamic interface where land and
+        sea meet, continually shaped by natural processes such as erosion and deposition.
+    - Question: Which of these is NOT a factor in determining coastal erosion rates?
+      TrueAnswer: Global Wind Patterns
+      FalseAnswer:
+      - Wave Energy
+      - Sediment Supply
+      - Rock Type and Structure
+      Explanation: Global wind patterns play a minimal role in coastal erosion rates
+        compared to factors such as wave energy and sediment supply.
+    - Question: What is the term for a narrow island parallel to the coastline?
+      TrueAnswer: Barrier Island
+      FalseAnswer:
+      - Cay
+      - Peninsula
+      - Atoll
+      Explanation: Barrier islands are elongated, narrow coastal landforms that form
+        parallel to the shoreline, providing a buffer against storms and waves.
+    - Question: Which of the following is formed by the deposition of river sediments
+        at a coastline?
+      TrueAnswer: Delta
+      FalseAnswer:
+      - Esker
+      - Moraine
+      - Kame
+      Explanation: Deltas are landforms created at the mouths of rivers when deposited
+        sediments build up and extend the coastline into the sea.
+    - Question: What is the term for the withdrawal and landward movement of a wave?
+      TrueAnswer: Backwash
+      FalseAnswer:
+      - Rip Current
+      - Swash
+      - Undertow
+      Explanation: Backwash refers to the retreating movement of water down a beach
+        after a wave has broken, returning back toward the ocean.
+    - Question: What is the name for a long, narrow strip of offshore land parallel
+        to the coastline?
+      TrueAnswer: Spit
+      FalseAnswer:
+      - Skerry
+      - Tombolo
+      - Reef
+      Explanation: A spit is a depositional feature formed by the transportation
+        and deposition of sediments by longshore drift.
+    - Question: Which of the following natural events can lead to coastal submergence?
+      TrueAnswer: Sea Level Rise
+      FalseAnswer:
+      - Volcanic Eruption
+      - Tectonic Uplift
+      - Magnetic Pole Shift
+      Explanation: Rising sea levels due to global climate change is a significant
+        factor contributing to coastal submergence and erosion.
+    - Question: What is the term for the separation of a coast from the mainland
+        by a breach?
+      TrueAnswer: Isolation
+      FalseAnswer:
+      - Erosion
+      - Decommission
+      - Fragmentation
+      Explanation: Isolation refers to the detachment and separation of a coastal
+        section from the mainland, often caused by erosion or a breach in the land.
+    - Question: Which of the following factors influences wave energy and coastal
+        erosion?
+      TrueAnswer: Fetch
+      FalseAnswer:
+      - Tide Height
+      - Water Temperature
+      - Barometric Pressure
+      Explanation: Fetch is the distance over which wind or waves travel, affecting
+        the size and energy of waves and influencing coastal erosion.
+    - Question: What is the term for the sinking of part of the coast due to tectonic
+        movements?
+      TrueAnswer: Subsidence
+      FalseAnswer:
+      - Upheaval
+      - Elevation
+      - Relocation
+      Explanation: Subsidence occurs when a portion of the coast sinks or lowers
+        due to geological processes, contributing to coastal flooding and erosion.
+    - Question: Which of the following systems is a major source of coastal sediment?
+      TrueAnswer: River System
+      FalseAnswer:
+      - Volcanic System
+      - Glacial System
+      - Agricultural System
+      Explanation: River systems transport large amounts of sediment to the coast,
+        significantly influencing coastal morphology and the deposition of sediments.
+    - Question: What is the term for the accumulation of sand and shingle at the
+        landward end of a beach?
+      TrueAnswer: Berms
+      FalseAnswer:
+      - Groynes
+      - Spits
+      - Backshore
+      Explanation: Berms are mounds of sand and shingle that form at the backshore
+        of a beach, created by wave and wind action.

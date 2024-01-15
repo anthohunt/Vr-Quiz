@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the process of using living organisms to develop products or technologies?",
+            "TrueAnswer": "Biotechnology",
+            "FalseAnswer": [
+              "Genetics",
+              "Nanotechnology",
+              "Robotics"
+            ],
+            "Explanation": "Biotechnology involves harnessing biological systems and processes to develop technologies and products for various applications, such as medicine, agriculture, and industry."
+          },
+          {
+            "Question": "What is the study of changing the DNA of living organisms?",
+            "TrueAnswer": "Genetic engineering",
+            "FalseAnswer": [
+              "Neuroscience",
+              "Immunology",
+              "Biochemistry"
+            ],
+            "Explanation": "Genetic engineering involves manipulating an organism's genetic material to introduce specific traits or characteristics, often for agricultural, medical, or research purposes."
+          },
+          {
+            "Question": "Which technology allows scientists to edit DNA by adding, removing, or modifying genetic material?",
+            "TrueAnswer": "CRISPR-Cas9",
+            "FalseAnswer": [
+              "Polymerase Chain Reaction",
+              "RNA interference",
+              "Restriction enzymes"
+            ],
+            "Explanation": "CRISPR-Cas9 is a revolutionary gene-editing tool that enables precise modification of DNA sequences and has significant potential for treating genetic disorders and creating genetically modified organisms."
+          },
+          {
+            "Question": "What field focuses on using biological systems to produce goods, such as biofuels or pharmaceuticals?",
+            "TrueAnswer": "Bioprocessing",
+            "FalseAnswer": [
+              "Microbiology",
+              "Bioinformatics",
+              "Nanobiotechnology"
+            ],
+            "Explanation": "Bioprocessing involves using living cells or their components to manufacture useful products, often through fermentation, purification, and downstream processing techniques."
+          },
+          {
+            "Question": "Which term refers to the practice of transferring genes from one organism to another to confer specific traits?",
+            "TrueAnswer": "Transgenesis",
+            "FalseAnswer": [
+              "Cloning",
+              "Mutagenesis",
+              "Gene splicing"
+            ],
+            "Explanation": "Transgenesis involves introducing foreign genes into an organism's genome to express desired traits, commonly used in agriculture and biopharmaceutical production."
+          },
+          {
+            "Question": "What technique combines biological systems with microelectronics to create bio-electronic devices?",
+            "TrueAnswer": "Bionics",
+            "FalseAnswer": [
+              "Cryogenics",
+              "Photonics",
+              "Nanoelectronics"
+            ],
+            "Explanation": "Bionics integrates biological processes and structures with electronic systems to develop advanced prosthetics, brain-computer interfaces, and sensors for medical and technological applications."
+          },
+          {
+            "Question": "Which field involves the use of living cells or their components to conduct chemical reactions?",
+            "TrueAnswer": "Biocatalysis",
+            "FalseAnswer": [
+              "Virology",
+              "Epidemiology",
+              "Pharmacokinetics"
+            ],
+            "Explanation": "Biocatalysis utilizes enzymes or whole cells to catalyze chemical transformations, offering environmentally friendly and efficient alternatives to traditional chemical processes."
+          },
+          {
+            "Question": "What is the study of identifying, mapping, and sequencing an organism's genetic material?",
+            "TrueAnswer": "Genomics",
+            "FalseAnswer": [
+              "Proteomics",
+              "Metabolomics",
+              "Epigenetics"
+            ],
+            "Explanation": "Genomics involves analyzing an organism's entire set of DNA to understand genetic variation, evolutionary relationships, and the genetic basis of traits and diseases."
+          },
+          {
+            "Question": "Which technology assesses the expression levels of thousands of genes simultaneously?",
+            "TrueAnswer": "Microarray analysis",
+            "FalseAnswer": [
+              "PCR amplification",
+              "DNA sequencing",
+              "Gel electrophoresis"
+            ],
+            "Explanation": "Microarray analysis uses DNA or RNA hybridization to simultaneously measure the expression of thousands of genes, providing insights into gene regulation and disease mechanisms."
+          },
+          {
+            "Question": "What is the study of manipulating biological and chemical systems at the nanoscale?",
+            "TrueAnswer": "Nanobiotechnology",
+            "FalseAnswer": [
+              "Quantum mechanics",
+              "Astrophysics",
+              "Materials science"
+            ],
+            "Explanation": "Nanobiotechnology involves applying nanoscale techniques to understand and manipulate biological systems, offering potential advancements in drug delivery, diagnostics, and bioimaging."
+          },
+          {
+            "Question": "Which biotechnological process involves the use of microorganisms to degrade environmental pollutants?",
+            "TrueAnswer": "Bioremediation",
+            "FalseAnswer": [
+              "Bioaugmentation",
+              "In-situ chemical oxidation",
+              "Phytoremediation"
+            ],
+            "Explanation": "Bioremediation employs microorganisms to break down contaminants, providing an eco-friendly and cost-effective approach to clean up polluted sites and protect the environment."
+          },
+          {
+            "Question": "What technique involves copying specific segments of DNA to create multiple identical copies?",
+            "TrueAnswer": "Polymerase chain reaction (PCR)",
+            "FalseAnswer": [
+              "Gel electrophoresis",
+              "DNA sequencing",
+              "Western blotting"
+            ],
+            "Explanation": "PCR amplifies DNA sequences through thermal cycling, enabling the rapid production of millions of copies for various applications, including genetic testing and forensic analysis."
+          },
+          {
+            "Question": "Which entity regulates the ethical and safety aspects of biotechnological research and applications?",
+            "TrueAnswer": "Bioethics committees",
+            "FalseAnswer": [
+              "FDA",
+              "WHO",
+              "UNESCO"
+            ],
+            "Explanation": "Bioethics committees assess the ethical implications and potential risks of biotechnological activities, safeguarding the welfare of individuals, communities, and the environment."
+          },
+          {
+            "Question": "What is the science of analyzing an organism's entire set of proteins?",
+            "TrueAnswer": "Proteomics",
+            "FalseAnswer": [
+              "Pharmacology",
+              "Toxicology",
+              "Neuroscience"
+            ],
+            "Explanation": "Proteomics involves studying the structure, function, and interactions of proteins within cells and organisms, offering insights into biological processes and disease mechanisms."
+          },
+          {
+            "Question": "Which method isolates and amplifies specific RNA molecules for gene expression analysis?",
+            "TrueAnswer": "Reverse transcription polymerase chain reaction (RT-PCR)",
+            "FalseAnswer": [
+              "ELISA",
+              "Western blotting",
+              "Flow cytometry"
+            ],
+            "Explanation": "RT-PCR converts RNA into complementary DNA (cDNA) before amplifying specific targets, enabling quantification of gene expression levels and viral RNA detection."
+          },
+          {
+            "Question": "What is the science of using computational approaches to analyze biological data?",
+            "TrueAnswer": "Bioinformatics",
+            "FalseAnswer": [
+              "Cryptography",
+              "Artificial intelligence",
+              "Robotics"
+            ],
+            "Explanation": "Bioinformatics combines biology, computer science, and statistics to interpret and manage biological information, supporting genomics, proteomics, and drug discovery research."
+          },
+          {
+            "Question": "Which technology enables the visualization and manipulation of biological structures at the nanometer scale?",
+            "TrueAnswer": "Nanomanipulation",
+            "FalseAnswer": [
+              "Electron microscopy",
+              "MRI imaging",
+              "Ultrasound"
+            ],
+            "Explanation": "Nanomanipulation uses advanced imaging and manipulation techniques to study and control biological materials and structures at the nanoscale, contributing to nanobiotechnology and nanomedicine."
+          },
+          {
+            "Question": "What is the process of using living cells to create biological molecules, such as proteins or vaccines?",
+            "TrueAnswer": "Cell culture",
+            "FalseAnswer": [
+              "Stem cell therapy",
+              "Gene therapy",
+              "Organ transplantation"
+            ],
+            "Explanation": "Cell culture involves growing and maintaining cells in a controlled environment to produce valuable biomolecules, supporting biomedical research, drug development, and biomanufacturing."
+          },
+          {
+            "Question": "Which technique involves analyzing an individual's genetic information for personalized healthcare and medicine?",
+            "TrueAnswer": "Genomic sequencing",
+            "FalseAnswer": [
+              "X-ray imaging",
+              "Blood pressure measurement",
+              "Urinalysis"
+            ],
+            "Explanation": "Genomic sequencing enables the comprehensive examination of an individual's DNA, guiding personalized diagnosis, treatment, and disease prevention based on genetic insights."
+          },
+          {
+            "Question": "What is the study of understanding and managing the interactions between organisms and their environment?",
+            "TrueAnswer": "Ecological biotechnology",
+            "FalseAnswer": [
+              "Forensic biotechnology",
+              "Industrial biotechnology",
+              "Aquatic biotechnology"
+            ],
+            "Explanation": "Ecological biotechnology integrates biological principles with environmental science to develop sustainable solutions for conservation, ecosystem restoration, and environmental management."
+          }
+        ]
+      }
+    }
+  ]
+}

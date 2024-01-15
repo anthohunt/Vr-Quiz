@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9121620050273116566
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1610053415459628711}
+  - component: {fileID: 4842742725604141496}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Quotes_on_Reflection_and_Self-Discovery.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1610053415459628711
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9121620050273116566}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4842742725604141496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9121620050273116566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who authored the quote 'The only true wisdom is in knowing you know
+        nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Aristotle
+      - Plato
+      - Confucius
+      Explanation: Socrates, the ancient Greek philosopher, coined this thought-provoking
+        quote emphasizing self-awareness and humility.
+    - Question: Which musician said, 'The beautiful thing about learning is that
+        no one can take it away from you'?
+      TrueAnswer: B.B. King
+      FalseAnswer:
+      - Miles Davis
+      - Jimi Hendrix
+      - John Coltrane
+      Explanation: These words hold valuable insight from the legendary blues guitarist
+        B.B. King, highlighting the enduring nature of knowledge.
+    - Question: Who articulated the quote 'Know thyself'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Cicero
+      Explanation: Socrates, known for his profound wisdom, emphasized self-discovery
+        and introspection through the timeless phrase 'Know thyself.'
+    - Question: Which poet penned the words 'The only way to do great work is to
+        love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Maya Angelou
+      - Robert Frost
+      - Emily Dickinson
+      Explanation: This quote is attributed to the late tech visionary Steve Jobs,
+        advocating passion as the cornerstone of achievement.
+    - Question: Who expressed the quote 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Seneca
+      Explanation: Socrates, a seminal figure in philosophy, espoused the necessity
+        of self-reflection and conscious living through this profound statement.
+    - Question: Which author remarked 'The only journey is the one within'?
+      TrueAnswer: Rainer Maria Rilke
+      FalseAnswer:
+      - Virginia Woolf
+      - Hermann Hesse
+      - Franz Kafka
+      Explanation: German poet Rainer Maria Rilke encapsulates the essence of inner
+        exploration in this thought-provoking quote about self-discovery.
+    - Question: Which renowned artist stated 'I am seeking, I am striving, I am in
+        it with all my heart'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Michelangelo
+      Explanation: Vincent van Gogh's impassioned words emphasize commitment and
+        dedication to the pursuit of personal growth and self-discovery.
+    - Question: Which philosopher emphasized 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Seneca
+      Explanation: Socrates, a seminal figure in philosophy, espoused the necessity
+        of self-reflection and conscious living through this profound statement.
+    - Question: Who proclaimed 'The only journey is the one within'?
+      TrueAnswer: Rainer Maria Rilke
+      FalseAnswer:
+      - Virginia Woolf
+      - Hermann Hesse
+      - Franz Kafka
+      Explanation: German poet Rainer Maria Rilke encapsulates the essence of inner
+        exploration in this thought-provoking quote about self-discovery.
+    - Question: Which acclaimed artist declared 'I am seeking, I am striving, I am
+        in it with all my heart'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Michelangelo
+      Explanation: Vincent van Gogh's impassioned words emphasize commitment and
+        dedication to the pursuit of personal growth and self-discovery.
+    - Question: Who authored the words 'The beautiful thing about learning is that
+        no one can take it away from you'?
+      TrueAnswer: B.B. King
+      FalseAnswer:
+      - Miles Davis
+      - Jimi Hendrix
+      - John Coltrane
+      Explanation: These words hold valuable insight from the legendary blues guitarist
+        B.B. King, highlighting the enduring nature of knowledge.
+    - Question: Which musician stated 'The beautiful thing about learning is that
+        no one can take it away from you'?
+      TrueAnswer: B.B. King
+      FalseAnswer:
+      - Miles Davis
+      - Jimi Hendrix
+      - John Coltrane
+      Explanation: These words hold valuable insight from the legendary blues guitarist
+        B.B. King, highlighting the enduring nature of knowledge.
+    - Question: Who articulated the quote 'The only way to do great work is to love
+        what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Maya Angelou
+      - Robert Frost
+      - Emily Dickinson
+      Explanation: This quote is attributed to the late tech visionary Steve Jobs,
+        advocating passion as the cornerstone of achievement.
+    - Question: Which poet penned the quote 'The only way to do great work is to
+        love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Maya Angelou
+      - Robert Frost
+      - Emily Dickinson
+      Explanation: This quote is attributed to the late tech visionary Steve Jobs,
+        advocating passion as the cornerstone of achievement.
+    - Question: Who stated 'The only true wisdom is in knowing you know nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Aristotle
+      - Plato
+      - Confucius
+      Explanation: Socrates, the ancient Greek philosopher, coined this thought-provoking
+        quote emphasizing self-awareness and humility.
+    - Question: Which philosopher expressed 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Seneca
+      Explanation: Socrates, a seminal figure in philosophy, espoused the necessity
+        of self-reflection and conscious living through this profound statement.
+    - Question: Which artist declared 'I am seeking, I am striving, I am in it with
+        all my heart'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Michelangelo
+      Explanation: Vincent van Gogh's impassioned words emphasize commitment and
+        dedication to the pursuit of personal growth and self-discovery.
+    - Question: Who penned the quote 'The only journey is the one within'?
+      TrueAnswer: Rainer Maria Rilke
+      FalseAnswer:
+      - Virginia Woolf
+      - Hermann Hesse
+      - Franz Kafka
+      Explanation: German poet Rainer Maria Rilke encapsulates the essence of inner
+        exploration in this thought-provoking quote about self-discovery.
+    - Question: Which author proclaimed 'The only journey is the one within'?
+      TrueAnswer: Rainer Maria Rilke
+      FalseAnswer:
+      - Virginia Woolf
+      - Hermann Hesse
+      - Franz Kafka
+      Explanation: German poet Rainer Maria Rilke encapsulates the essence of inner
+        exploration in this thought-provoking quote about self-discovery.

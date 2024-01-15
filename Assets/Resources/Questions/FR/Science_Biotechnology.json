@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le processus d'utilisation d'organismes vivants pour développer des produits ou des technologies?",
+            "TrueAnswer": "Biotechnologie",
+            "FalseAnswer": [
+              "Génétique",
+              "Nanotechnologie",
+              "Robotique"
+            ],
+            "Explanation": "La biotechnologie implique l'exploitation de systèmes et de processus biologiques pour développer des technologies et des produits pour diverses applications, telles que la médecine, l'agriculture et l'industrie."
+          },
+          {
+            "Question": "Qu'est-ce que l'étude de la modification de l'ADN des organismes vivants?",
+            "TrueAnswer": "Ingénierie génétique",
+            "FalseAnswer": [
+              "Neurosciences",
+              "Immunologie",
+              "Biochimie"
+            ],
+            "Explanation": "L'ingénierie génétique implique la manipulation du matériel génétique d'un organisme pour introduire des caractéristiques ou des traits spécifiques, souvent dans des buts agricoles, médicaux ou de recherche."
+          },
+          {
+            "Question": "Quelle technologie permet aux scientifiques de modifier l'ADN en ajoutant, supprimant ou modifiant du matériel génétique?",
+            "TrueAnswer": "CRISPR-Cas9",
+            "FalseAnswer": [
+              "Réaction en chaîne par polymérase",
+              "Interférence ARN",
+              "Enzymes de restriction"
+            ],
+            "Explanation": "CRISPR-Cas9 est un outil de modification génétique révolutionnaire qui permet de modifier précisément les séquences d'ADN et qui offre un potentiel important pour le traitement des troubles génétiques et la création d'organismes génétiquement modifiés."
+          },
+          {
+            "Question": "Quel domaine se concentre sur l'utilisation de systèmes biologiques pour produire des biens, tels que des biocarburants ou des produits pharmaceutiques?",
+            "TrueAnswer": "Bioprocédés",
+            "FalseAnswer": [
+              "Microbiologie",
+              "Bioinformatique",
+              "Nanobiotechnologie"
+            ],
+            "Explanation": "Les bioprocédés consistent à utiliser des cellules vivantes ou leurs composants pour fabriquer des produits utiles, souvent grâce à des techniques de fermentation, de purification et de traitement en aval."
+          },
+          {
+            "Question": "Quel terme désigne la pratique de transférer des gènes d'un organisme à un autre pour conférer des caractéristiques spécifiques?",
+            "TrueAnswer": "Transgenèse",
+            "FalseAnswer": [
+              "Clonage",
+              "Mutagenèse",
+              "Découpe de gènes"
+            ],
+            "Explanation": "La transgenèse consiste à introduire des gènes étrangers dans le génome d'un organisme pour exprimer des traits souhaités, couramment utilisée en agriculture et dans la production de produits biopharmaceutiques."
+          },
+          {
+            "Question": "Quelle technique associe des systèmes biologiques à la microélectronique pour créer des dispositifs bioélectroniques?",
+            "TrueAnswer": "Bionique",
+            "FalseAnswer": [
+              "Cryogénie",
+              "Photonique",
+              "Nanélectronique"
+            ],
+            "Explanation": "La bionique intègre des processus et des structures biologiques avec des systèmes électroniques pour développer des prothèses avancées, des interfaces cerveau-ordinateur et des capteurs pour des applications médicales et technologiques."
+          },
+          {
+            "Question": "Quel domaine implique l'utilisation de cellules vivantes ou de leurs composants pour réaliser des réactions chimiques?",
+            "TrueAnswer": "Biocatalyse",
+            "FalseAnswer": [
+              "Virologie",
+              "Épidémiologie",
+              "Pharmacocinétique"
+            ],
+            "Explanation": "La biocatalyse utilise des enzymes ou des cellules entières pour catalyser des transformations chimiques, offrant des alternatives respectueuses de l'environnement et efficaces aux processus chimiques traditionnels."
+          },
+          {
+            "Question": "Qu'est-ce que l'étude de l'identification, de la cartographie et du séquençage du matériel génétique d'un organisme?",
+            "TrueAnswer": "Génomique",
+            "FalseAnswer": [
+              "Protéomique",
+              "Métabolomique",
+              "Épigénétique"
+            ],
+            "Explanation": "La génomique implique l'analyse de l'ensemble de l'ADN d'un organisme pour comprendre la variation génétique, les relations évolutives et les bases génétiques des traits et des maladies."
+          },
+          {
+            "Question": "Quelle technologie évalue les niveaux d'expression de milliers de gènes simultanément?",
+            "TrueAnswer": "Analyse par microréseau",
+            "FalseAnswer": [
+              "Amplification PCR",
+              "Séquençage d'ADN",
+              "Électrophorèse sur gel"
+            ],
+            "Explanation": "L'analyse par microréseau utilise l'hybridation de l'ADN ou de l'ARN pour mesurer simultanément l'expression de milliers de gènes, offrant des informations sur la régulation génique et les mécanismes de la maladie."
+          },
+          {
+            "Question": "Quelle est l'étude de la manipulation de systèmes biologiques et chimiques à l'échelle nanométrique?",
+            "TrueAnswer": "Nanobiotechnologie",
+            "FalseAnswer": [
+              "Mécanique quantique",
+              "Astrophysique",
+              "Science des matériaux"
+            ],
+            "Explanation": "La nanobiotechnologie implique l'application de techniques à l'échelle nanométrique pour comprendre et manipuler les systèmes biologiques, offrant des avancées potentielles dans la délivrance de médicaments, les diagnostics et la bio-imagerie."
+          },
+          {
+            "Question": "Quel processus biotechnologique implique l'utilisation de micro-organismes pour dégrader les polluants environnementaux?",
+            "TrueAnswer": "Bioremédiation",
+            "FalseAnswer": [
+              "Bioaugmentation",
+              "Oxydation chimique in situ",
+              "Phytoremédiation"
+            ],
+            "Explanation": "La bioremédiation utilise des micro-organismes pour décomposer les contaminants, offrant une approche écologique et économique pour nettoyer les sites pollués et protéger l'environnement."
+          },
+          {
+            "Question": "Quelle technique consiste à copier des segments spécifiques d'ADN pour créer de multiples copies identiques?",
+            "TrueAnswer": "Réaction en chaîne par polymérase (PCR)",
+            "FalseAnswer": [
+              "Électrophorèse sur gel",
+              "Séquençage d'ADN",
+              "Immunobuvardage"
+            ],
+            "Explanation": "La PCR amplifie les séquences d'ADN par cyclage thermique, permettant la production rapide de millions de copies pour diverses applications, y compris les tests génétiques et les analyses médico-légales."
+          },
+          {
+            "Question": "Quelle entité régule les aspects éthiques et la sécurité de la recherche et des applications biotechnologiques?",
+            "TrueAnswer": "Comités de bioéthique",
+            "FalseAnswer": [
+              "FDA",
+              "OMS",
+              "UNESCO"
+            ],
+            "Explanation": "Les comités de bioéthique évaluent les implications éthiques et les risques potentiels des activités biotechnologiques, protégeant le bien-être des individus, des communautés et de l'environnement."
+          },
+          {
+            "Question": "Quelle est la science qui consiste à analyser l'ensemble des protéines d'un organisme?",
+            "TrueAnswer": "Protéomique",
+            "FalseAnswer": [
+              "Pharmacologie",
+              "Toxicologie",
+              "Neurosciences"
+            ],
+            "Explanation": "La protéomique implique l'étude de la structure, de la fonction et des interactions des protéines dans les cellules et les organismes, offrant des informations sur les processus biologiques et les mécanismes de la maladie."
+          },
+          {
+            "Question": "Quelle méthode isole et amplifie des molécules spécifiques d'ARN pour l'analyse de l'expression génique?",
+            "TrueAnswer": "Réaction de polymérisation en chaîne par transcription inverse (RT-PCR)",
+            "FalseAnswer": [
+              "ELISA",
+              "Immunobuvardage",
+              "Cytométrie en flux"
+            ],
+            "Explanation": "La RT-PCR convertit l'ARN en ADN complémentaire (cADN) avant d'amplifier des cibles spécifiques, permettant la quantification des niveaux d'expression génique et la détection de l'ARN viral."
+          },
+          {
+            "Question": "Qu'est-ce que la science qui utilise des approches informatiques pour analyser des données biologiques?",
+            "TrueAnswer": "Bioinformatique",
+            "FalseAnswer": [
+              "Cryptographie",
+              "Intelligence artificielle",
+              "Robotique"
+            ],
+            "Explanation": "La bioinformatique combine la biologie, l'informatique et la statistique pour interpréter et gérer l'information biologique, soutenant la recherche en génomique, protéomique et découverte de médicaments."
+          },
+          {
+            "Question": "Quelle technologie permet la visualisation et la manipulation de structures biologiques à l'échelle nanométrique?",
+            "TrueAnswer": "Nanomanipulation",
+            "FalseAnswer": [
+              "Microscopie électronique",
+              "Imagerie par résonance magnétique",
+              "Échographie"
+            ],
+            "Explanation": "La nanomanipulation utilise des techniques avancées d'imagerie et de manipulation pour étudier et contrôler les matériaux biologiques à l'échelle nanométrique, contribuant à la nanobiotechnologie et à la nanomédecine."
+          },
+          {
+            "Question": "Quel est le processus d'utilisation de cellules vivantes pour créer des molécules biologiques, telles que des protéines ou des vaccins?",
+            "TrueAnswer": "Culture de cellules",
+            "FalseAnswer": [
+              "Thérapie cellulaire",
+              "Thérapie génique",
+              "Transplantation d'organes"
+            ],
+            "Explanation": "La culture de cellules implique la croissance et le maintien de cellules dans un environnement contrôlé pour produire des biomolécules précieuses, soutenant la recherche biomédicale, le développement de médicaments et la biofabrication."
+          },
+          {
+            "Question": "Quelle technique implique l'analyse des informations génétiques d'un individu pour des soins de santé et de médecine personnalisés?",
+            "TrueAnswer": "Séquençage génomique",
+            "FalseAnswer": [
+              "Imagerie par rayons X",
+              "Mesure de la pression artérielle",
+              "Analyse d'urine"
+            ],
+            "Explanation": "Le séquençage génomique permet l'examen complet de l'ADN d'un individu, guidant le diagnostic personnalisé, le traitement et la prévention des maladies en fonction des données génétiques."
+          },
+          {
+            "Question": "Qu'est-ce que l'étude de la compréhension et de la gestion des interactions entre les organismes et leur environnement?",
+            "TrueAnswer": "Biotechnologie écologique",
+            "FalseAnswer": [
+              "Biotechnologie forensique",
+              "Biotechnologie industrielle",
+              "Biotechnologie aquatique"
+            ],
+            "Explanation": "La biotechnologie écologique intègre les principes biologiques à la science de l'environnement pour développer des solutions durables pour la conservation, la restauration des écosystèmes et la gestion environnementale."
+          }
+        ]
+      }
+    }
+  ]
+}

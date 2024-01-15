@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7060295460404896400
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4461045073397991752}
+  - component: {fileID: 8542541730236243986}
+  m_Layer: 0
+  m_Name: Art_Indigenous_Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4461045073397991752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7060295460404896400}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8542541730236243986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7060295460404896400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What art form is commonly associated with Navajo culture?
+      TrueAnswer: Sculpture
+      FalseAnswer:
+      - Pottery
+      - Beadwork
+      - Painting
+      Explanation: Sculpture, especially in the form of Navajo silver jewelry, is
+        a prominent art form in Navajo culture, reflecting spirituality and nature.
+    - Question: Which Indigenous group is known for carving totem poles?
+      TrueAnswer: Haida
+      FalseAnswer:
+      - Inuit
+      - Maori
+      - Ndebele
+      Explanation: The Haida people of the Pacific Northwest are renowned for their
+        carved totem poles, which depict clan stories and histories.
+    - Question: Who is known for the creation of Inuit stone carvings?
+      TrueAnswer: Inuit
+      FalseAnswer:
+      - Maya
+      - Aboriginal Australians
+      - Yoruba
+      Explanation: Inuit artists have a rich tradition of carving stone sculptures,
+        often depicting animals and scenes from Inuit daily life.
+    - Question: What is the primary material used in Kwakwaka'wakw ceremonial masks?
+      TrueAnswer: Cedar
+      FalseAnswer:
+      - Birch
+      - Pine
+      - Oak
+      Explanation: Kwakwaka'wakw ceremonial masks are traditionally carved from cedar,
+        a material deeply connected to their cultural and spiritual beliefs.
+    - Question: What is a common motif in Australian Aboriginal dot paintings?
+      TrueAnswer: Dreamtime
+      FalseAnswer:
+      - Sunset
+      - Ocean
+      - Cityscape
+      Explanation: The Dreamtime, or creation era, is a central theme in Aboriginal
+        dot paintings, representing ancestral stories and spiritual connection to
+        the land.
+    - Question: Which Indigenous community is known for intricate basket weaving?
+      TrueAnswer: Cherokee
+      FalseAnswer:
+      - Maasai
+      - Samoans
+      - Zulus
+      Explanation: The Cherokee people are renowned for their skilled basket weaving,
+        using natural materials to create intricate and symbolic designs.
+    - Question: What artistic technique is distinctive to Northwest Coast Indigenous
+        art?
+      TrueAnswer: Formline
+      FalseAnswer:
+      - Abstract
+      - Impressionism
+      - Surrealism
+      Explanation: Northwest Coast Indigenous art is characterized by the distinct
+        formline style, featuring bold, flowing lines and geometric shapes.
+    - Question: Who is famous for the creation of Navajo sand paintings?
+      TrueAnswer: Navajo
+      FalseAnswer:
+      - Mongolian
+      - Inca
+      - Eskimo
+      Explanation: The Navajo are renowned for creating intricate sand paintings
+        as part of healing and ceremonial practices, often depicting spiritual symbols
+        and stories.
+    - Question: Which Indigenous group is known for intricate quillwork?
+      TrueAnswer: Mi'kmaq
+      FalseAnswer:
+      - Sami
+      - Masai
+      - Inuit
+      Explanation: The Mi'kmaq people are celebrated for their intricate quillwork,
+        using porcupine quills to adorn clothing and create decorative pieces.
+    - Question: What type of art is prominent in Pueblo culture?
+      TrueAnswer: Pottery
+      FalseAnswer:
+      - Woodcarving
+      - Metalwork
+      - Sculpture
+      Explanation: Pottery holds significant cultural and ceremonial importance in
+        Pueblo communities, with distinct styles and designs reflecting tribal traditions.
+    - Question: Which Indigenous community is known for vibrant beadwork?
+      TrueAnswer: Ndebele
+      FalseAnswer:
+      - Zulu
+      - Maasai
+      - Cherokee
+      Explanation: The Ndebele people are renowned for their vibrant and geometric
+        beadwork, often used as a form of personal and cultural expression.
+    - Question: What is a common subject in Maori wood carvings?
+      TrueAnswer: Ancestors
+      FalseAnswer:
+      - Animals
+      - Landscape
+      - Mythical Creatures
+      Explanation: Maori wood carvings often depict revered ancestors and ancestral
+        stories, serving as connections to their cultural heritage and identity.
+    - Question: Which Indigenous group uses sacred oil paintings in ritual ceremonies?
+      TrueAnswer: Yolngu
+      FalseAnswer:
+      - Inuit
+      - Apache
+      - Tlingit
+      Explanation: The Yolngu people of Australia use sacred oil paintings in their
+        ancestral ceremonies, depicting ancestral stories and spiritual connections
+        to the land.
+    - Question: What is a traditional art form among the Anishinaabe people?
+      TrueAnswer: Birchbark Canoe making
+      FalseAnswer:
+      - Metal Sculpture
+      - Glassblowing
+      - Mosaic
+      Explanation: Birchbark canoe making is a traditional art form among the Anishinaabe,
+        reflecting their intimate knowledge of the land and waterways.
+    - Question: What is the significance of Inca textile art?
+      TrueAnswer: Narrates History
+      FalseAnswer:
+      - Visual Pleasure
+      - Social Status
+      - Celebration of Nature
+      Explanation: Inca textile art serves as a historical record, narrating important
+        events, genealogies, and cultural traditions within their intricate designs.
+    - Question: What is a common design motif in Tlingit Chilkat textiles?
+      TrueAnswer: Crests
+      FalseAnswer:
+      - Floral Patterns
+      - Checkered Designs
+      - Landscape Scenery
+      Explanation: Tlingit Chilkat textiles often feature crest designs, representing
+        familial lineage, clan symbols, and connections to the natural world.
+    - Question: Which Indigenous group is known for porcupine quillwork?
+      TrueAnswer: Anishinaabe
+      FalseAnswer:
+      - Inuit
+      - Hopi
+      - Yoruba
+      Explanation: The Anishinaabe people are renowned for their intricate porcupine
+        quillwork, often used to decorate clothing, bags, and ceremonial items.
+    - Question: What is a distinctive feature of Apache basketry?
+      TrueAnswer: Coiled Technique
+      FalseAnswer:
+      - Twined Technique
+      - Woven Technique
+      - Random Weaving
+      Explanation: Apache basketry is characterized by the coiled technique, where
+        bundles of willow or yucca are wrapped and stitched in a spiral pattern.
+    - Question: "What art form is prominent in M\xE9tis culture?"
+      TrueAnswer: Beadwork
+      FalseAnswer:
+      - Rock Carvings
+      - Stained Glass
+      - Fresco Painting
+      Explanation: "Beadwork holds significant cultural and artistic importance in
+        M\xE9tis culture, often used to depict personal and historical narratives."
+    - Question: Which Indigenous group is known for creating Inuit soapstone carvings?
+      TrueAnswer: Inuit
+      FalseAnswer:
+      - Navajo
+      - Tlingit
+      - Yolngu
+      Explanation: Inuit artists are celebrated for their intricate soapstone carvings,
+        often depicting Arctic wildlife and Inuit cultural themes.

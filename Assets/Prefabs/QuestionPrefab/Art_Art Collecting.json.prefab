@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2519566092218222180
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4671538290003429266}
+  - component: {fileID: 8270176292269134815}
+  m_Layer: 0
+  m_Name: Art_Art Collecting.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4671538290003429266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2519566092218222180}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8270176292269134815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2519566092218222180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous artwork 'Mona Lisa'?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Leonardo da Vinci is the artist behind the iconic painting 'Mona
+        Lisa', created in the 16th century.
+    - Question: What is the most expensive painting ever sold at auction?
+      TrueAnswer: Salvator Mundi
+      FalseAnswer:
+      - Starry Night
+      - The Scream
+      - Guernica
+      Explanation: The painting 'Salvator Mundi' by Leonardo da Vinci holds the record
+        for the highest auction price at $450.3 million.
+    - Question: Which art movement is known for its use of optical illusions?
+      TrueAnswer: Op Art
+      FalseAnswer:
+      - Impressionism
+      - Cubism
+      - Surrealism
+      Explanation: Op Art, short for Optical Art, emerged in the 1960s and focuses
+        on creating visual illusions through geometric patterns.
+    - Question: Who is the artist behind the 'Campbell's Soup Cans' artwork?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Jackson Pollock
+      - Piet Mondrian
+      - Georgia O'Keeffe
+      Explanation: Andy Warhol, a leading figure in the Pop Art movement, created
+        the famous 'Campbell's Soup Cans' in 1962.
+    - Question: What is the term for a work of art made from assembled everyday objects?
+      TrueAnswer: Assemblage
+      FalseAnswer:
+      - Collage
+      - Sculpture
+      - Mosaic
+      Explanation: Assemblage refers to the artistic technique of creating a work
+        by combining various found objects or materials.
+    - Question: Which artist is known for his 'drip painting' technique?
+      TrueAnswer: Jackson Pollock
+      FalseAnswer:
+      - "Salvador Dal\xED"
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Jackson Pollock popularized the 'drip painting' technique, where
+        paint is dripped or poured onto a canvas.
+    - Question: What is the term for a print made from an engraved plate, often used
+        for currency?
+      TrueAnswer: Intaglio
+      FalseAnswer:
+      - Lithograph
+      - Woodcut
+      - Screenprint
+      Explanation: Intaglio is a printmaking technique where the image is incised
+        into a surface, typically a metal plate.
+    - Question: Who is the artist behind the 'Starry Night' painting?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh created the famous 'Starry Night' painting in
+        1889 during his stay at a mental asylum.
+    - Question: Which artist is known for his 'dotted' paintings?
+      TrueAnswer: Yayoi Kusama
+      FalseAnswer:
+      - Banksy
+      - Jean-Michel Basquiat
+      - Keith Haring
+      Explanation: Yayoi Kusama, a Japanese artist, is renowned for her 'dotted'
+        paintings and installations.
+    - Question: What is the term for a painting or artwork created directly on a
+        wall?
+      TrueAnswer: Mural
+      FalseAnswer:
+      - Portrait
+      - Landscape
+      - Still Life
+      Explanation: A mural is a large-scale artwork or painting created directly
+        on a wall or other permanent surface.
+    - Question: Who is the artist behind the 'Water Lilies' series of paintings?
+      TrueAnswer: Claude Monet
+      FalseAnswer:
+      - Georgia O'Keeffe
+      - Frida Kahlo
+      - Edvard Munch
+      Explanation: Claude Monet, a French Impressionist, painted the famous 'Water
+        Lilies' series in the late 19th and early 20th centuries.
+    - Question: What is the term for a sculpture made by carving away material from
+        a block?
+      TrueAnswer: Carving
+      FalseAnswer:
+      - Casting
+      - Modeling
+      - Assembling
+      Explanation: Carving is a sculptural technique where material is removed from
+        a solid block to create the desired form.
+    - Question: Who is the artist behind the 'The Persistence of Memory' painting?
+      TrueAnswer: "Salvador Dal\xED"
+      FalseAnswer:
+      - Pablo Picasso
+      - Frida Kahlo
+      - Gustav Klimt
+      Explanation: "Salvador Dal\xED, a prominent Surrealist artist, painted 'The
+        Persistence of Memory' in 1931."
+    - Question: What is the term for a painting technique using small, distinct dots
+        of color?
+      TrueAnswer: Pointillism
+      FalseAnswer:
+      - Impasto
+      - Graffiti
+      - Fresco
+      Explanation: Pointillism is a painting technique where small dots of color
+        are applied to create an overall image.
+    - Question: Who is the artist behind the 'The Birth of Venus' painting?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Sandro Botticelli, an Italian Renaissance painter, created 'The
+        Birth of Venus' in the mid-15th century.
+    - Question: What is the term for a painting technique using rapid, spontaneous
+        brushstrokes?
+      TrueAnswer: Impressionism
+      FalseAnswer:
+      - Realism
+      - Abstract
+      - Expressionism
+      Explanation: Impressionism is an art movement characterized by capturing the
+        fleeting effects of light and color through rapid brushstrokes.
+    - Question: Who is the artist behind the 'The Starry Night' painting?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh created the famous 'The Starry Night' painting
+        in 1889 during his time in a mental asylum.
+    - Question: What is the term for a sculpture made by adding material to create
+        the desired form?
+      TrueAnswer: Modeling
+      FalseAnswer:
+      - Carving
+      - Casting
+      - Assembling
+      Explanation: Modeling is a sculptural technique where material, such as clay
+        or wax, is added to create the desired form.
+    - Question: Who is the artist behind the 'The Persistence of Memory' painting?
+      TrueAnswer: "Salvador Dal\xED"
+      FalseAnswer:
+      - Pablo Picasso
+      - Frida Kahlo
+      - Gustav Klimt
+      Explanation: "Salvador Dal\xED, a prominent Surrealist artist, painted 'The
+        Persistence of Memory' in 1931."
+    - Question: What is the term for a painting technique using small, distinct dots
+        of color?
+      TrueAnswer: Pointillism
+      FalseAnswer:
+      - Impasto
+      - Graffiti
+      - Fresco
+      Explanation: Pointillism is a painting technique where small dots of color
+        are applied to create an overall image.
+    - Question: Who is the artist behind the 'The Birth of Venus' painting?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Sandro Botticelli, an Italian Renaissance painter, created 'The
+        Birth of Venus' in the mid-15th century.

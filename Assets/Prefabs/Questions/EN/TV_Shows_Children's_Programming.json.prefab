@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9100603655483996087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4699538993301589934}
+  - component: {fileID: 1120201396927581301}
+  m_Layer: 0
+  m_Name: TV_Shows_Children's_Programming.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4699538993301589934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100603655483996087}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1120201396927581301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9100603655483996087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the creator of the TV show 'SpongeBob SquarePants'?
+      TrueAnswer: Stephen Hillenburg
+      FalseAnswer:
+      - Dan Schneider
+      - Lauren Faust
+      - Butch Hartman
+      Explanation: Stephen Hillenburg created the show as a marine biologist and
+        animator. 'SpongeBob SquarePants' first aired in 1999 on Nickelodeon.
+    - Question: Which character lives in a pineapple under the sea in 'SpongeBob
+        SquarePants'?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Patrick Star
+      - Squidward Tentacles
+      - Mr. Krabs
+      Explanation: SpongeBob SquarePants resides in a pineapple and works as a fry
+        cook at the Krusty Krab in the fictional underwater city of Bikini Bottom.
+    - Question: What is the name of the big red dog in 'Clifford the Big Red Dog'?
+      TrueAnswer: Clifford
+      FalseAnswer:
+      - Rover
+      - Max
+      - Buddy
+      Explanation: '''Clifford the Big Red Dog'' is a lovable character, known for
+        his friendly and helpful nature. The show originally aired in 2000.'
+    - Question: Which educational TV show features a large, talking dinosaur named
+        Barney?
+      TrueAnswer: Barney & Friends
+      FalseAnswer:
+      - Blues Clues
+      - Sesame Street
+      - Dora the Explorer
+      Explanation: Barney & Friends has been a beloved children's program, focusing
+        on educational themes and catchy songs, airing from 1992 to 2009.
+    - Question: What are the names of the chipmunk brothers in 'Alvin and the Chipmunks'?
+      TrueAnswer: Alvin, Simon, Theodore
+      FalseAnswer:
+      - Dave, Steve, Mark
+      - Tom, Jerry, Spike
+      - Barry, Robin, Maurice
+      Explanation: The iconic trio, Alvin, Simon, and Theodore, are known for their
+        musical talents and mischievous adventures, originating in 1983 as a musical
+        group and animated series.
+    - Question: In 'Paw Patrol', which pup is known for his firefighting and paramedic
+        skills?
+      TrueAnswer: Marshall
+      FalseAnswer:
+      - Chase
+      - Rocky
+      - Skye
+      Explanation: Marshall is the Dalmatian pup in 'Paw Patrol', specializing in
+        fire rescue and paramedic skills. The show premiered in 2013 and has been
+        popular among young audiences.
+    - Question: What are the names of the siblings in 'Rugrats'?
+      TrueAnswer: Tommy, Chuckie, Angelica, Phil, Lil
+      FalseAnswer:
+      - Doug, Patty, Skeeter
+      - Arnold, Gerald
+      - Eliza, Debbie
+      Explanation: '''Rugrats'' features a group of adventurous infants: Tommy Pickles,
+        Chuckie Finster, the twins Phil and Lil DeVille, and the bossy Angelica Pickles.
+        The show aired from 1991 to 2004.'
+    - Question: Which TV show follows the adventures of a young boy named Ash Ketchum
+        and his friend Pikachu?
+      TrueAnswer: Pokemon
+      FalseAnswer:
+      - Dragon Ball Z
+      - Digimon
+      - Yu-Gi-Oh!
+      Explanation: '''Pokemon'', short for ''Pocket Monsters'', is a Japanese anime
+        based on the video game series. It has been a enduringly popular franchise
+        since its debut in 1997.'
+    - Question: Which show features a group of dinosaur friends who love to sing
+        and dance?
+      TrueAnswer: Barney & Friends
+      FalseAnswer:
+      - The Wiggles
+      - Teletubbies
+      - The Doodlebops
+      Explanation: Barney & Friends features the adventures of a large, talking dinosaur
+        named Barney and his young friends, incorporating music and educational themes,
+        premiering in 1992.
+    - Question: In 'Paw Patrol', which pup is known for his recycling and handyman
+        skills?
+      TrueAnswer: Rocky
+      FalseAnswer:
+      - Marshall
+      - Chase
+      - Zuma
+      Explanation: Rocky is the mixed-breed pup in 'Paw Patrol', focusing on eco-friendly
+        missions with recycling expertise and handyman skills, gaining popularity
+        among children.
+    - Question: What is the name of the underwater city in 'SpongeBob SquarePants'?
+      TrueAnswer: Bikini Bottom
+      FalseAnswer:
+      - Coral Cove
+      - Seashell Shore
+      - Ocean Oasis
+      Explanation: Bikini Bottom is the iconic setting of 'SpongeBob SquarePants',
+        bustling with unique sea creatures and quirky locations, providing the backdrop
+        for the show's memorable antics.
+    - Question: Which TV show features a crime-solving dog named Scooby-Doo and his
+        friends?
+      TrueAnswer: Scooby-Doo, Where Are You!
+      FalseAnswer:
+      - Tom and Jerry
+      - The Jetsons
+      - The Flintstones
+      Explanation: '''Scooby-Doo, Where Are You!'' first aired in 1969, following
+        the adventures of Scooby-Doo and his human companions as they solve supernatural
+        mysteries with a comedic touch.'
+    - Question: In 'Blue's Clues', who is the human host that interacts with the
+        animated dog, Blue?
+      TrueAnswer: Steve
+      FalseAnswer:
+      - Joe
+      - Kevin
+      - Josh
+      Explanation: Steve Burns portrayed the original host, Steve, in 'Blue's Clues',
+        engaging young viewers through interactive games and problem-solving with
+        Blue, the animated dog.
+    - Question: What is the name of the alien in 'Arthur' who accompanies the main
+        character, Arthur Read?
+      TrueAnswer: Buster
+      FalseAnswer:
+      - Ziggy
+      - Squiggly
+      - Dexter
+      Explanation: Buster Baxter is Arthur's best friend and a lovable, imaginative
+        alien companion, adding humor and friendship to the animated series 'Arthur'
+        that began in 1996.
+    - Question: Which TV show centers around a group of multicolored bears with unique
+        belly badge abilities?
+      TrueAnswer: Care Bears
+      FalseAnswer:
+      - 'My Little Pony: Friendship Is Magic'
+      - Strawberry Shortcake's Berry Bitty Adventures
+      - Rainbow Brite
+      Explanation: The 'Care Bears' franchise, originating from greeting cards, features
+        lovable bears with diverse personalities and magical powers, aiming to spread
+        caring and sharing messages to young audiences.
+    - Question: What is the name of the toddler with a vivid imagination in the TV
+        show 'Rugrats'?
+      TrueAnswer: Tommy Pickles
+      FalseAnswer:
+      - Chuckie Finster
+      - Angelica Pickles
+      - Phil DeVille
+      Explanation: Tommy Pickles is the adventurous and imaginative baby at the heart
+        of 'Rugrats', leading his group of infant friends in entertaining and sometimes
+        mischievous escapades.
+    - Question: In 'Dora the Explorer', what is the name of Dora's monkey companion?
+      TrueAnswer: Boots
+      FalseAnswer:
+      - Pablo
+      - Diego
+      - Benny
+      Explanation: Boots, the enthusiastic and talkative monkey, accompanies Dora
+        on her adventures, providing support and lively interactions in the educational
+        and adventurous series 'Dora the Explorer'.
+    - Question: Which TV show features a group of monster friends who explore life
+        lessons in fun and innovative ways?
+      TrueAnswer: Sesame Street
+      FalseAnswer:
+      - Mister Rogers' Neighborhood
+      - Reading Rainbow
+      - The Magic School Bus
+      Explanation: '''Sesame Street'' is renowned for its mix of puppetry, animation,
+        and live-action segments, using humor and creativity to teach valuable lessons
+        to young viewers.'
+    - Question: Who is the main character in 'Dora the Explorer' who goes on various
+        adventures with her friends?
+      TrueAnswer: Dora
+      FalseAnswer:
+      - Diego
+      - Pablo
+      - Isa
+      Explanation: Dora, the energetic and bilingual young girl, leads the way in
+        'Dora the Explorer', encouraging problem-solving and interactive learning
+        in every episode.
+    - Question: Which TV show revolves around a curious monkey and his adventures
+        with the Man with the Yellow Hat?
+      TrueAnswer: Curious George
+      FalseAnswer:
+      - Shaun the Sheep
+      - Mickey Mouse Clubhouse
+      - Peg + Cat
+      Explanation: '''Curious George'' is based on the classic children''s books,
+        following the playful and inquisitive monkey''s escapades with his friend,
+        the Man with the Yellow Hat.'

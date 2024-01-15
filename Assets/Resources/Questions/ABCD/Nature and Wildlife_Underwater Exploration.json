@@ -1,0 +1,216 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the largest land animal in the world?",
+          "TrueAnswer": "Elephant",
+          "FalseAnswer": [
+            "Giraffe",
+            "Hippopotamus",
+            "Rhino"
+          ],
+          "Explanation": "The elephant is the largest land animal, known for its size and distinctive trunk."
+        },
+        {
+          "Question": "Which bird is known for its ability to mimic human speech?",
+          "TrueAnswer": "Parrot",
+          "FalseAnswer": [
+            "Penguin",
+            "Ostrich",
+            "Eagle"
+          ],
+          "Explanation": "Parrots are known for their ability to mimic human speech, making them popular pets."
+        },
+        {
+          "Question": "What is the largest species of shark?",
+          "TrueAnswer": "Whale Shark",
+          "FalseAnswer": [
+            "Great White Shark",
+            "Tiger Shark",
+            "Hammerhead Shark"
+          ],
+          "Explanation": "The whale shark is the largest species of shark, reaching lengths of up to 40 feet."
+        },
+        {
+          "Question": "Which animal is known for its ability to camouflage and change colors?",
+          "TrueAnswer": "Chameleon",
+          "FalseAnswer": [
+            "Lion",
+            "Gorilla",
+            "Tiger"
+          ],
+          "Explanation": "Chameleons are known for their ability to change colors and blend into their surroundings."
+        },
+        {
+          "Question": "What is the largest species of penguin?",
+          "TrueAnswer": "Emperor Penguin",
+          "FalseAnswer": [
+            "King Penguin",
+            "Adelie Penguin",
+            "Gentoo Penguin"
+          ],
+          "Explanation": "The emperor penguin is the largest species of penguin, known for its distinctive black and white coloring."
+        },
+        {
+          "Question": "Which animal is known for its long neck?",
+          "TrueAnswer": "Giraffe",
+          "FalseAnswer": [
+            "Elephant",
+            "Horse",
+            "Kangaroo"
+          ],
+          "Explanation": "Giraffes are known for their long necks, which allow them to reach leaves high in trees."
+        },
+        {
+          "Question": "What is the fastest land animal?",
+          "TrueAnswer": "Cheetah",
+          "FalseAnswer": [
+            "Lion",
+            "Leopard",
+            "Tiger"
+          ],
+          "Explanation": "The cheetah is the fastest land animal, capable of reaching speeds up to 70 mph."
+        },
+        {
+          "Question": "Which animal is known for its ability to climb trees?",
+          "TrueAnswer": "Sloth",
+          "FalseAnswer": [
+            "Elephant",
+            "Giraffe",
+            "Hippopotamus"
+          ],
+          "Explanation": "Sloths are known for their ability to climb trees and spend most of their lives hanging upside down."
+        },
+        {
+          "Question": "What is the largest species of bear?",
+          "TrueAnswer": "Polar Bear",
+          "FalseAnswer": [
+            "Grizzly Bear",
+            "Black Bear",
+            "Kodiak Bear"
+          ],
+          "Explanation": "The polar bear is the largest species of bear, adapted to life in the Arctic."
+        },
+        {
+          "Question": "Which animal is known for its ability to fly?",
+          "TrueAnswer": "Bat",
+          "FalseAnswer": [
+            "Dolphin",
+            "Kangaroo",
+            "Elephant"
+          ],
+          "Explanation": "Bats are the only mammals capable of sustained flight, using their wings to navigate and hunt."
+        }
+      ]
+    },
+    {
+      "Underwater Exploration": [
+        {
+          "Questions": [
+            {
+              "Question": "What is the largest species of whale?",
+              "TrueAnswer": "Blue Whale",
+              "FalseAnswer": [
+                "Humpback Whale",
+                "Orca",
+                "Sperm Whale"
+              ],
+              "Explanation": "The blue whale is the largest species of whale, reaching lengths of up to 100 feet."
+            },
+            {
+              "Question": "Which fish is known for its ability to produce electric shocks?",
+              "TrueAnswer": "Electric Eel",
+              "FalseAnswer": [
+                "Clownfish",
+                "Angelfish",
+                "Tuna"
+              ],
+              "Explanation": "Electric eels are capable of producing electric shocks to stun prey and defend themselves."
+            },
+            {
+              "Question": "What is the largest species of ray?",
+              "TrueAnswer": "Manta Ray",
+              "FalseAnswer": [
+                "Stingray",
+                "Eagle Ray",
+                "Electric Ray"
+              ],
+              "Explanation": "The manta ray is the largest species of ray, known for its graceful swimming and large size."
+            },
+            {
+              "Question": "Which creature is known for its ability to regenerate lost limbs?",
+              "TrueAnswer": "Starfish",
+              "FalseAnswer": [
+                "Octopus",
+                "Jellyfish",
+                "Seahorse"
+              ],
+              "Explanation": "Starfish are capable of regenerating lost limbs, making them unique among marine creatures."
+            },
+            {
+              "Question": "What is the largest species of shark?",
+              "TrueAnswer": "Whale Shark",
+              "FalseAnswer": [
+                "Great White Shark",
+                "Tiger Shark",
+                "Hammerhead Shark"
+              ],
+              "Explanation": "The whale shark is the largest species of shark, reaching lengths of up to 40 feet."
+            },
+            {
+              "Question": "Which creature is known for its ability to change colors and patterns?",
+              "TrueAnswer": "Cuttlefish",
+              "FalseAnswer": [
+                "Seahorse",
+                "Starfish",
+                "Jellyfish"
+              ],
+              "Explanation": "Cuttlefish are known for their ability to change colors and patterns to blend into their surroundings."
+            },
+            {
+              "Question": "What is the largest species of octopus?",
+              "TrueAnswer": "Giant Pacific Octopus",
+              "FalseAnswer": [
+                "Blue-Ringed Octopus",
+                "Mimic Octopus",
+                "Dumbo Octopus"
+              ],
+              "Explanation": "The giant Pacific octopus is the largest species of octopus, known for its intelligence and size."
+            },
+            {
+              "Question": "Which creature is known for its ability to produce bioluminescent light?",
+              "TrueAnswer": "Deep-Sea Anglerfish",
+              "FalseAnswer": [
+                "Clownfish",
+                "Seahorse",
+                "Jellyfish"
+              ],
+              "Explanation": "Deep-sea anglerfish are capable of producing bioluminescent light to attract prey in the dark depths of the ocean."
+            },
+            {
+              "Question": "What is the largest species of sea turtle?",
+              "TrueAnswer": "Leatherback Turtle",
+              "FalseAnswer": [
+                "Green Turtle",
+                "Hawksbill Turtle",
+                "Loggerhead Turtle"
+              ],
+              "Explanation": "The leatherback turtle is the largest species of sea turtle, known for its size and unique shell."
+            },
+            {
+              "Question": "Which creature is known for its ability to squirt ink as a defense mechanism?",
+              "TrueAnswer": "Squid",
+              "FalseAnswer": [
+                "Shark",
+                "Dolphin",
+                "Seahorse"
+              ],
+              "Explanation": "Squid are known for their ability to squirt ink as a defense mechanism, creating a cloud to confuse predators."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "En quelle année la première version de la console PlayStation a-t-elle été publiée?",
+            "TrueAnswer": "1994",
+            "FalseAnswer": [
+              "1996",
+              "1998",
+              "2000"
+            ],
+            "Explanation": "La console PlayStation originale a été publiée en décembre 1994."
+          },
+          {
+            "Question": "Quelle entreprise a publié la première console de jeux vidéo commercialement réussie?",
+            "TrueAnswer": "Magnavox",
+            "FalseAnswer": [
+              "Atari",
+              "Nintendo",
+              "Sega"
+            ],
+            "Explanation": "Le Magnavox Odyssey, sorti en 1972, est considéré comme la première console de jeu vidéo domestique réussie."
+          },
+          {
+            "Question": "Quelle est la résolution standard haute définition (HD) dans les jeux vidéo?",
+            "TrueAnswer": "1280x720",
+            "FalseAnswer": [
+              "1920x1080",
+              "2560x1440",
+              "3840x2160"
+            ],
+            "Explanation": "La résolution haute définition standard (HD) est généralement de 1280x720 pixels, communément appelée 720p."
+          },
+          {
+            "Question": "Quelle entreprise de jeux vidéo est connue pour avoir créé la franchise 'Halo'?",
+            "TrueAnswer": "Microsoft",
+            "FalseAnswer": [
+              "Sony",
+              "Nintendo",
+              "Sega"
+            ],
+            "Explanation": "La série 'Halo' a été développée par Bungie et publiée par Microsoft Game Studios."
+          },
+          {
+            "Question": "En quelle année le jeu populaire 'Minecraft' a-t-il été officiellement publié au public?",
+            "TrueAnswer": "2011",
+            "FalseAnswer": [
+              "2009",
+              "2012",
+              "2013"
+            ],
+            "Explanation": "Minecraft a été officiellement publié le 18 novembre 2011, après une période de bêta-test."
+          },
+          {
+            "Question": "Lequel de ces noms ne correspond pas à un acteur de doublage de jeux vidéo célèbre?",
+            "TrueAnswer": "James Cameron",
+            "FalseAnswer": [
+              "Nolan North",
+              "Troy Baker",
+              "Jennifer Hale"
+            ],
+            "Explanation": "James Cameron est un réalisateur renommé, et non un acteur de doublage de jeux vidéo."
+          },
+          {
+            "Question": "Quel est le nom de l'IA dans le jeu 'Portal'?",
+            "TrueAnswer": "GLaDOS",
+            "FalseAnswer": [
+              "HAL 9000",
+              "Cortana",
+              "SHODAN"
+            ],
+            "Explanation": "Dans la série de jeux 'Portal', GLaDOS (Genetic Lifeform and Disk Operating System) est l'antagoniste principal et l'IA."
+          },
+          {
+            "Question": "Quelle de ces consoles a été la première à proposer un lecteur CD-ROM?",
+            "TrueAnswer": "TurboGrafx-16",
+            "FalseAnswer": [
+              "Sega Genesis",
+              "Super Nintendo Entertainment System",
+              "Atari 7800"
+            ],
+            "Explanation": "La TurboGrafx-16, sortie en 1989, a été la première console à utiliser un périphérique CD-ROM pour les jeux."
+          },
+          {
+            "Question": "Quel était le jeu le plus vendu sur la console Nintendo 64?",
+            "TrueAnswer": "Super Mario 64",
+            "FalseAnswer": [
+              "The Legend of Zelda: Ocarina of Time",
+              "Mario Kart 64",
+              "Goldeneye 007"
+            ],
+            "Explanation": "Super Mario 64, sorti aux côtés de la Nintendo 64 en 1996, reste le jeu le plus vendu pour la console."
+          },
+          {
+            "Question": "Que signifie 'FPS' dans le contexte des jeux vidéo?",
+            "TrueAnswer": "Images par seconde",
+            "FalseAnswer": [
+              "Jeu de tir à la première personne",
+              "Score du joueur final",
+              "Système de gel et de lecture"
+            ],
+            "Explanation": "Dans les jeux vidéo, les IPS correspondent au nombre d'images affichées par seconde, représentant la fluidité des mouvements dans les visuels du jeu."
+          },
+          {
+            "Question": "Quelle de ces plateformes de jeu vidéo a été développée par la société Valve Corporation?",
+            "TrueAnswer": "Steam",
+            "FalseAnswer": [
+              "Origin",
+              "Epic Games Store",
+              "Uplay"
+            ],
+            "Explanation": "Steam est une plateforme de distribution numérique développée par Valve Corporation, offrant un large éventail de jeux aux utilisateurs."
+          },
+          {
+            "Question": "Quel a été le premier jeu vidéo d'arcade à présenter des niveaux défilants?",
+            "TrueAnswer": "Defender",
+            "FalseAnswer": [
+              "Pac-Man",
+              "Donkey Kong",
+              "Galaga"
+            ],
+            "Explanation": "Sorti en 1981, 'Defender' a été le premier jeu d'arcade à présenter un champ de jeu à défilement horizontal, plutôt qu'un seul écran statique."
+          },
+          {
+            "Question": "Quelle console de jeu vidéo était à l'origine connue sous le nom de 'Revolution' lors de son développement?",
+            "TrueAnswer": "Wii",
+            "FalseAnswer": [
+              "PlayStation 3",
+              "Xbox 360",
+              "Nintendo DS"
+            ],
+            "Explanation": "La Nintendo Wii était initialement codée sous le nom de 'Révolution' avant sa sortie officielle en tant que console Wii."
+          },
+          {
+            "Question": "Quel est le nom du casque de réalité virtuelle développé par Sony Interactive Entertainment?",
+            "TrueAnswer": "PlayStation VR",
+            "FalseAnswer": [
+              "Oculus Rift",
+              "HTC Vive",
+              "Google Cardboard"
+            ],
+            "Explanation": "PlayStation VR, conçu pour la console PlayStation 4, est un casque de réalité virtuelle développé par Sony Interactive Entertainment."
+          },
+          {
+            "Question": "Quel personnage est l'antagoniste principal dans la série de jeux 'Half-Life'?",
+            "TrueAnswer": "G-Man",
+            "FalseAnswer": [
+              "Dr. Breen",
+              "Alyx Vance",
+              "Eli Vance"
+            ],
+            "Explanation": "G-Man est un personnage mystérieux qui semble contrôler les événements dans la série 'Half-Life', servant souvent d'antagoniste principal."
+          },
+          {
+            "Question": "Quel moteur de jeu a été utilisé pour développer 'Unreal Tournament' et 'Gears of War'?",
+            "TrueAnswer": "Unreal Engine",
+            "FalseAnswer": [
+              "Unity",
+              "Frostbite",
+              "CryEngine"
+            ],
+            "Explanation": "L'Unreal Engine, développé par Epic Games, a été utilisé pour créer des jeux populaires tels que 'Unreal Tournament' et 'Gears of War'."
+          },
+          {
+            "Question": "Quelle est la principale ressource utilisée comme monnaie dans 'World of Warcraft'?",
+            "TrueAnswer": "Or",
+            "FalseAnswer": [
+              "Diamants",
+              "Crédits",
+              "Roupies"
+            ],
+            "Explanation": "L'or est la principale monnaie en jeu utilisée pour le commerce, l'achat d'objets et la participation à des activités économiques dans le monde virtuel de 'World of Warcraft'."
+          },
+          {
+            "Question": "Quelle console de jeu vidéo a été la première à utiliser des disques optiques comme support de stockage principal?",
+            "TrueAnswer": "Sega Saturn",
+            "FalseAnswer": [
+              "PlayStation",
+              "Sega Dreamcast",
+              "Nintendo 64"
+            ],
+            "Explanation": "La Sega Saturn, sortie en 1994, a été la première console de jeu à utiliser des disques optiques comme support principal de stockage de jeu."
+          },
+          {
+            "Question": "Quel est le nom de l'assistant virtuel dans le jeu 'Destiny'?",
+            "TrueAnswer": "Ghost",
+            "FalseAnswer": [
+              "Cortana",
+              "GLaDOS",
+              "SHODAN"
+            ],
+            "Explanation": "L'assistant virtuel dans le jeu 'Destiny' s'appelle Ghost, qui offre conseils et soutien au joueur tout au long du jeu."
+          }
+        ]
+      }
+    }
+  ]
+}

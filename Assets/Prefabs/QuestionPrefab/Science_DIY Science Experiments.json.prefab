@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3110347649896800534
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4874563515082625603}
+  - component: {fileID: 5017448140717416051}
+  m_Layer: 0
+  m_Name: Science_DIY Science Experiments.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4874563515082625603
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3110347649896800534}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5017448140717416051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3110347649896800534}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the process of converting light energy into chemical energy
+        called?
+      TrueAnswer: Photosynthesis
+      FalseAnswer:
+      - Respiration
+      - Fermentation
+      - Combustion
+      Explanation: Photosynthesis is the process by which plants convert light energy
+        into chemical energy to fuel their growth.
+    - Question: Which gas is produced during the process of respiration?
+      TrueAnswer: Carbon dioxide
+      FalseAnswer:
+      - Oxygen
+      - Nitrogen
+      - Hydrogen
+      Explanation: During respiration, organisms produce carbon dioxide as a waste
+        product.
+    - Question: What is the unit of measurement for electric current?
+      TrueAnswer: Ampere
+      FalseAnswer:
+      - Volt
+      - Ohm
+      - Watt
+      Explanation: The ampere is the unit used to measure the flow of electric current
+        in a circuit.
+    - Question: Which of the following is an example of a chemical change?
+      TrueAnswer: Burning wood
+      FalseAnswer:
+      - Melting ice
+      - Cutting paper
+      - Mixing salt and water
+      Explanation: Burning wood involves a chemical reaction that produces heat,
+        light, and new substances.
+    - Question: What is the process of water changing from a liquid to a gas called?
+      TrueAnswer: Evaporation
+      FalseAnswer:
+      - Condensation
+      - Freezing
+      - Sublimation
+      Explanation: Evaporation is the phase change in which water molecules gain
+        enough energy to escape into the air as a gas.
+    - Question: Which of the following is an example of a physical change?
+      TrueAnswer: Crushing a can
+      FalseAnswer:
+      - Baking a cake
+      - Rusting iron
+      - Burning paper
+      Explanation: Crushing a can only changes its shape, but the substance itself
+        remains the same.
+    - Question: What is the process of a solid changing directly into a gas called?
+      TrueAnswer: Sublimation
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Freezing
+      Explanation: Sublimation occurs when a solid substance changes directly into
+        a gas without going through the liquid phase.
+    - Question: Which of the following is an example of a renewable energy source?
+      TrueAnswer: Solar power
+      FalseAnswer:
+      - Coal
+      - Natural gas
+      - Nuclear power
+      Explanation: Solar power harnesses energy from the sun, which is a renewable
+        resource that will not run out.
+    - Question: What is the process of a gas changing into a liquid called?
+      TrueAnswer: Condensation
+      FalseAnswer:
+      - Evaporation
+      - Sublimation
+      - Melting
+      Explanation: Condensation occurs when a gas loses heat energy and transforms
+        into a liquid.
+    - Question: Which of the following is an example of a non-renewable energy source?
+      TrueAnswer: Oil
+      FalseAnswer:
+      - Wind
+      - Geothermal
+      - Hydroelectric
+      Explanation: Oil is a fossil fuel that takes millions of years to form and
+        is not easily replenished.
+    - Question: What is the process of a liquid changing into a solid called?
+      TrueAnswer: Freezing
+      FalseAnswer:
+      - Melting
+      - Evaporation
+      - Condensation
+      Explanation: Freezing is the phase change in which a liquid substance loses
+        heat energy and solidifies.
+    - Question: Which of the following is an example of a force?
+      TrueAnswer: Gravity
+      FalseAnswer:
+      - Light
+      - Heat
+      - Sound
+      Explanation: Gravity is a force that attracts objects towards each other, such
+        as the Earth pulling objects towards its center.
+    - Question: What is the process of a solid changing into a liquid called?
+      TrueAnswer: Melting
+      FalseAnswer:
+      - Freezing
+      - Evaporation
+      - Condensation
+      Explanation: Melting is the phase change in which a solid substance gains heat
+        energy and becomes a liquid.
+    - Question: Which of the following is an example of a simple machine?
+      TrueAnswer: Lever
+      FalseAnswer:
+      - Microscope
+      - Telescope
+      - Computer
+      Explanation: A lever is a simple machine that consists of a rigid bar and a
+        fulcrum, used to lift or move objects.
+    - Question: What is the process of a liquid changing into a gas called?
+      TrueAnswer: Vaporization
+      FalseAnswer:
+      - Condensation
+      - Freezing
+      - Sublimation
+      Explanation: Vaporization is the phase change in which a liquid substance gains
+        enough energy to become a gas.
+    - Question: Which of the following is an example of a conductor?
+      TrueAnswer: Copper
+      FalseAnswer:
+      - Plastic
+      - Wood
+      - Rubber
+      Explanation: Copper is a good conductor of electricity, allowing electric current
+        to flow through it easily.
+    - Question: What is the process of a gas changing directly into a solid called?
+      TrueAnswer: Deposition
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Sublimation
+      Explanation: Deposition occurs when a gas loses enough energy to transform
+        directly into a solid without becoming a liquid first.
+    - Question: Which of the following is an example of a lever?
+      TrueAnswer: Seesaw
+      FalseAnswer:
+      - Bicycle
+      - Car
+      - Airplane
+      Explanation: A seesaw is a simple machine that uses a lever to balance two
+        people sitting on opposite ends.
+    - Question: What is the process of a liquid changing into a gas at the surface
+        called?
+      TrueAnswer: Evaporation
+      FalseAnswer:
+      - Condensation
+      - Freezing
+      - Sublimation
+      Explanation: Evaporation is the phase change in which a liquid substance turns
+        into a gas at its surface.
+    - Question: Which of the following is an example of a renewable resource?
+      TrueAnswer: Wind
+      FalseAnswer:
+      - Coal
+      - Oil
+      - Natural gas
+      Explanation: Wind is a renewable resource that can be harnessed to generate
+        electricity without depleting its source.

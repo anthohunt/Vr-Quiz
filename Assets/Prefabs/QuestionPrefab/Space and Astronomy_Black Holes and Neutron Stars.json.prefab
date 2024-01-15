@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8618760736043065395
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8597903649119468774}
+  - component: {fileID: 1879880882041502010}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Black Holes and Neutron Stars.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8597903649119468774
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8618760736043065395}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1879880882041502010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8618760736043065395}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is a black hole?
+      TrueAnswer: A region of spacetime exhibiting gravitational acceleration
+      FalseAnswer:
+      - A star that emits black light
+      - A hole in the fabric of space
+      - A portal to another dimension
+      Explanation: "A black hole is a region of spacetime exhibiting gravitational
+        acceleration so strong that nothing\u2014no particles or even electromagnetic
+        radiation such as light\u2014can escape from it."
+    - Question: What is the event horizon of a black hole?
+      TrueAnswer: The boundary beyond which nothing can escape its gravitational
+        pull
+      FalseAnswer:
+      - The point at which a black hole is formed
+      - The center of a black hole
+      - The point where light is absorbed
+      Explanation: The event horizon of a black hole is the boundary beyond which
+        nothing can escape its gravitational pull, including light.
+    - Question: What happens to matter that falls into a black hole?
+      TrueAnswer: It is crushed to a singularity
+      FalseAnswer:
+      - It is transported to another universe
+      - It is converted into energy
+      - It remains intact
+      Explanation: Matter that falls into a black hole is crushed to a singularity,
+        a point of infinite density and zero volume.
+    - Question: What is a neutron star?
+      TrueAnswer: A highly dense remnant of a massive star
+      FalseAnswer:
+      - A star made entirely of neutrons
+      - A star with a strong magnetic field
+      - A star that emits only neutrons
+      Explanation: A neutron star is a highly dense remnant of a massive star that
+        has undergone a supernova explosion, consisting mainly of tightly packed
+        neutrons.
+    - Question: What is the maximum mass of a neutron star?
+      TrueAnswer: About 2-3 times the mass of the Sun
+      FalseAnswer:
+      - About 10 times the mass of the Sun
+      - About the same mass as the Sun
+      - There is no maximum mass
+      Explanation: The maximum mass of a neutron star is estimated to be about 2-3
+        times the mass of the Sun, beyond which it would collapse into a black hole.
+    - Question: What is a pulsar?
+      TrueAnswer: A highly magnetized, rotating neutron star
+      FalseAnswer:
+      - A type of black hole
+      - A star that emits pulsating light
+      - A star with a strong gravitational field
+      Explanation: A pulsar is a highly magnetized, rotating neutron star that emits
+        beams of electromagnetic radiation out of its magnetic poles.
+    - Question: What is the Chandrasekhar limit?
+      TrueAnswer: The maximum mass of a white dwarf before it collapses into a neutron
+        star
+      FalseAnswer:
+      - The maximum mass of a neutron star
+      - The maximum mass of a black hole
+      - The maximum mass of a main sequence star
+      Explanation: The Chandrasekhar limit is the maximum mass of a white dwarf,
+        about 1.4 times the mass of the Sun, before it collapses into a neutron star.
+    - Question: What is the Schwarzschild radius?
+      TrueAnswer: The radius of the event horizon of a non-rotating black hole
+      FalseAnswer:
+      - The radius of a neutron star
+      - The radius of a pulsar
+      - The radius of a white dwarf
+      Explanation: The Schwarzschild radius is the radius of the event horizon of
+        a non-rotating black hole, beyond which nothing can escape its gravitational
+        pull.
+    - Question: What is Hawking radiation?
+      TrueAnswer: Radiation that is predicted to be emitted by black holes
+      FalseAnswer:
+      - Radiation emitted by neutron stars
+      - Radiation emitted by pulsars
+      - Radiation emitted by white dwarfs
+      Explanation: Hawking radiation is a theoretical prediction that black holes
+        can emit radiation due to quantum effects near the event horizon.
+    - Question: What is a quasar?
+      TrueAnswer: An extremely luminous active galactic nucleus
+      FalseAnswer:
+      - A type of black hole
+      - A star that emits quasars
+      - A star with a strong magnetic field
+      Explanation: A quasar is an extremely luminous active galactic nucleus, powered
+        by the accretion of mass onto a supermassive black hole at the center of
+        a galaxy.
+    - Question: What is the escape velocity of a black hole?
+      TrueAnswer: Greater than the speed of light
+      FalseAnswer:
+      - Equal to the speed of light
+      - Less than the speed of light
+      - Zero
+      Explanation: The escape velocity of a black hole is greater than the speed
+        of light, making it impossible for anything to escape its gravitational pull.
+    - Question: What is the primary source of energy for a neutron star?
+      TrueAnswer: Stored thermal energy from its formation
+      FalseAnswer:
+      - Nuclear fusion
+      - Gravitational potential energy
+      - Hawking radiation
+      Explanation: The primary source of energy for a neutron star is the stored
+        thermal energy from its formation, which gradually dissipates over time.
+    - Question: What is the size of a typical neutron star?
+      TrueAnswer: About 20 kilometers in diameter
+      FalseAnswer:
+      - About the size of Earth
+      - About the size of the Sun
+      - About 100 kilometers in diameter
+      Explanation: A typical neutron star has a diameter of about 20 kilometers,
+        making it incredibly dense and compact.
+    - Question: What is the fate of a black hole over an extremely long timescale?
+      TrueAnswer: Hawking radiation causes it to slowly lose mass and eventually
+        evaporate
+      FalseAnswer:
+      - It continues to grow in mass indefinitely
+      - It collapses into a singularity
+      - It transforms into a neutron star
+      Explanation: According to the theory of Hawking radiation, black holes slowly
+        lose mass over an extremely long timescale and eventually evaporate completely.
+    - Question: What is the origin of the term 'black hole'?
+      TrueAnswer: Coined by physicist John Wheeler in 1967
+      FalseAnswer:
+      - Coined by Albert Einstein in 1915
+      - Coined by Stephen Hawking in 1974
+      - Coined by Carl Sagan in 1980
+      Explanation: The term 'black hole' was coined by physicist John Wheeler in
+        1967 to describe these mysterious objects with intense gravitational forces.
+    - Question: What is the primary force that holds a neutron star together?
+      TrueAnswer: Neutron degeneracy pressure
+      FalseAnswer:
+      - Electromagnetic force
+      - Gravitational force
+      - Strong nuclear force
+      Explanation: The primary force that holds a neutron star together is neutron
+        degeneracy pressure, which counteracts the force of gravity.
+    - Question: What is the maximum mass of a black hole?
+      TrueAnswer: Unknown
+      FalseAnswer:
+      - About 10 times the mass of the Sun
+      - About the same mass as the Sun
+      - There is no maximum mass
+      Explanation: The maximum mass of a black hole is currently unknown, as they
+        can continue to grow in mass through accretion of matter.
+    - Question: What is the difference between a black hole and a neutron star?
+      TrueAnswer: Black holes have an event horizon, while neutron stars do not
+      FalseAnswer:
+      - Black holes are made entirely of neutrons, while neutron stars are not
+      - Black holes emit radiation, while neutron stars do not
+      - Black holes are less dense than neutron stars
+      Explanation: The main difference between a black hole and a neutron star is
+        that black holes have an event horizon, beyond which nothing can escape,
+        while neutron stars do not.
+    - Question: What is the primary factor that determines whether a massive star
+        becomes a black hole or a neutron star?
+      TrueAnswer: Its mass
+      FalseAnswer:
+      - Its age
+      - Its distance from other stars
+      - Its temperature
+      Explanation: The primary factor that determines whether a massive star becomes
+        a black hole or a neutron star is its mass, with more massive stars more
+        likely to become black holes.
+    - Question: What is the primary source of energy for a black hole?
+      TrueAnswer: Accretion of mass from its surroundings
+      FalseAnswer:
+      - Nuclear fusion
+      - Stored thermal energy
+      - Hawking radiation
+      Explanation: The primary source of energy for a black hole is the accretion
+        of mass from its surroundings, which releases energy in the form of radiation.
+    - Question: What is the size of a typical black hole?
+      TrueAnswer: The size of the event horizon, which depends on its mass
+      FalseAnswer:
+      - About the size of Earth
+      - About the size of the Sun
+      - About 100 kilometers in diameter
+      Explanation: The size of a black hole is determined by its event horizon, which
+        is directly related to its mass.

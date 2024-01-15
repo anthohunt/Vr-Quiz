@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5129857857387777254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7187286593523580008}
+  - component: {fileID: 8197312617559517638}
+  m_Layer: 0
+  m_Name: Movies_Sci-Fi Movie Universes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7187286593523580008
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5129857857387777254}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8197312617559517638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5129857857387777254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who directed the movie 'Blade Runner'?
+      TrueAnswer: Ridley Scott
+      FalseAnswer:
+      - Steven Spielberg
+      - Christopher Nolan
+      - James Cameron
+      Explanation: Ridley Scott directed the iconic sci-fi film 'Blade Runner' released
+        in 1982.
+    - Question: Which actor played the role of Neo in 'The Matrix'?
+      TrueAnswer: Keanu Reeves
+      FalseAnswer:
+      - Tom Cruise
+      - Brad Pitt
+      - Leonardo DiCaprio
+      Explanation: Keanu Reeves portrayed the character Neo in the groundbreaking
+        sci-fi film 'The Matrix' released in 1999.
+    - Question: What is the name of the fictional planet in 'Avatar'?
+      TrueAnswer: Pandora
+      FalseAnswer:
+      - Tatooine
+      - Krypton
+      - Alderaan
+      Explanation: The fictional planet in the movie 'Avatar' is called Pandora,
+        known for its lush and diverse ecosystem.
+    - Question: Which actress played the role of Ellen Ripley in the 'Alien' franchise?
+      TrueAnswer: Sigourney Weaver
+      FalseAnswer:
+      - Meryl Streep
+      - Jennifer Lawrence
+      - Scarlett Johansson
+      Explanation: Sigourney Weaver portrayed the iconic character Ellen Ripley in
+        the 'Alien' franchise.
+    - Question: What is the name of the main spaceship in 'Star Wars'?
+      TrueAnswer: Millennium Falcon
+      FalseAnswer:
+      - USS Enterprise
+      - TIE Fighter
+      - Death Star
+      Explanation: The main spaceship in 'Star Wars' is called the Millennium Falcon,
+        piloted by Han Solo and Chewbacca.
+    - Question: Who directed the movie 'Inception'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - Quentin Tarantino
+      - Martin Scorsese
+      - Steven Spielberg
+      Explanation: Christopher Nolan directed the mind-bending sci-fi film 'Inception'
+        released in 2010.
+    - Question: 'What is the name of the artificial intelligence in ''2001: A Space
+        Odyssey''?'
+      TrueAnswer: HAL 9000
+      FalseAnswer:
+      - Skynet
+      - GLaDOS
+      - Cortana
+      Explanation: 'The artificial intelligence in ''2001: A Space Odyssey'' is named
+        HAL 9000.'
+    - Question: Which actor played the role of Marty McFly in the 'Back to the Future'
+        trilogy?
+      TrueAnswer: Michael J. Fox
+      FalseAnswer:
+      - Tom Hanks
+      - Johnny Depp
+      - Robert Downey Jr.
+      Explanation: Michael J. Fox portrayed the character Marty McFly in the 'Back
+        to the Future' trilogy.
+    - Question: What is the name of the alien species in the 'Predator' franchise?
+      TrueAnswer: Yautja
+      FalseAnswer:
+      - Xenomorph
+      - Klingon
+      - Wookiee
+      Explanation: The alien species in the 'Predator' franchise is called Yautja.
+    - Question: Who directed the movie 'E.T. the Extra-Terrestrial'?
+      TrueAnswer: Steven Spielberg
+      FalseAnswer:
+      - George Lucas
+      - James Cameron
+      - Tim Burton
+      Explanation: Steven Spielberg directed the heartwarming sci-fi film 'E.T. the
+        Extra-Terrestrial' released in 1982.
+    - Question: What is the name of the main character in the 'Terminator' franchise?
+      TrueAnswer: John Connor
+      FalseAnswer:
+      - Sarah Connor
+      - Kyle Reese
+      - T-800
+      Explanation: The main character in the 'Terminator' franchise is John Connor,
+        the leader of the human resistance against the machines.
+    - Question: Which actor played the role of Luke Skywalker in the original 'Star
+        Wars' trilogy?
+      TrueAnswer: Mark Hamill
+      FalseAnswer:
+      - Harrison Ford
+      - Carrie Fisher
+      - Alec Guinness
+      Explanation: Mark Hamill portrayed the character Luke Skywalker in the original
+        'Star Wars' trilogy.
+    - Question: What is the name of the fictional city in 'Blade Runner'?
+      TrueAnswer: Los Angeles
+      FalseAnswer:
+      - New York
+      - Chicago
+      - Tokyo
+      Explanation: The fictional city in 'Blade Runner' is Los Angeles, depicted
+        as a dystopian metropolis in the future.
+    - Question: Who directed the movie 'The Fifth Element'?
+      TrueAnswer: Luc Besson
+      FalseAnswer:
+      - James Cameron
+      - Ridley Scott
+      - George Lucas
+      Explanation: Luc Besson directed the visually stunning sci-fi film 'The Fifth
+        Element' released in 1997.
+    - Question: What is the name of the main character in the 'Star Trek' franchise?
+      TrueAnswer: James T. Kirk
+      FalseAnswer:
+      - Jean-Luc Picard
+      - Spock
+      - Data
+      Explanation: The main character in the 'Star Trek' franchise is James T. Kirk,
+        captain of the USS Enterprise.
+    - Question: Which actress played the role of Trinity in 'The Matrix' trilogy?
+      TrueAnswer: Carrie-Anne Moss
+      FalseAnswer:
+      - Angelina Jolie
+      - Scarlett Johansson
+      - Natalie Portman
+      Explanation: Carrie-Anne Moss portrayed the character Trinity in 'The Matrix'
+        trilogy.
+    - Question: What is the name of the robotic character in 'WALL-E'?
+      TrueAnswer: WALL-E
+      FalseAnswer:
+      - EVE
+      - R2-D2
+      - C-3PO
+      Explanation: The robotic character in the movie 'WALL-E' is named WALL-E, short
+        for Waste Allocation Load Lifter Earth-Class.
+    - Question: Who directed the movie 'Interstellar'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - Denis Villeneuve
+      - "Alfonso Cuar\xF3n"
+      - Guillermo del Toro
+      Explanation: Christopher Nolan directed the epic sci-fi film 'Interstellar'
+        released in 2014.
+    - Question: What is the name of the main character in the 'RoboCop' franchise?
+      TrueAnswer: Alex Murphy
+      FalseAnswer:
+      - John Wick
+      - Max Rockatansky
+      - Rick Deckard
+      Explanation: The main character in the 'RoboCop' franchise is Alex Murphy,
+        a police officer turned cyborg.
+    - Question: Which actor played the role of Agent Smith in 'The Matrix' trilogy?
+      TrueAnswer: Hugo Weaving
+      FalseAnswer:
+      - Tom Hiddleston
+      - Jared Leto
+      - Michael Fassbender
+      Explanation: Hugo Weaving portrayed the character Agent Smith in 'The Matrix'
+        trilogy.
+    - Question: What is the name of the fictional company in 'Jurassic Park'?
+      TrueAnswer: InGen
+      FalseAnswer:
+      - Umbrella Corporation
+      - Weyland-Yutani
+      - Aperture Science
+      Explanation: The fictional company in 'Jurassic Park' is called InGen, short
+        for International Genetic Technologies.

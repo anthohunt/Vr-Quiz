@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8611182548813417744
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 79887135537807127}
+  - component: {fileID: 5810650825204460202}
+  m_Layer: 0
+  m_Name: Sports_Sports_Broadcasting_and_Media.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &79887135537807127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8611182548813417744}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5810650825204460202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8611182548813417744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main purpose of sports broadcasting?
+      TrueAnswer: Entertainment
+      FalseAnswer:
+      - Education
+      - Promotion
+      - Advocacy
+      Explanation: The main purpose of sports broadcasting is to entertain viewers
+        through the coverage and analysis of sports events.
+    - Question: Which network launched the first 24-hour sports news network in the
+        United States?
+      TrueAnswer: ESPN
+      FalseAnswer:
+      - Fox Sports
+      - CBS Sports
+      - NBC Sports
+      Explanation: ESPN launched the first 24-hour sports news network, ESPN2, in
+        the United States on October 1, 1993.
+    - Question: Who is known as the 'Voice of the NBA' for his iconic commentary?
+      TrueAnswer: Marv Albert
+      FalseAnswer:
+      - Mike Breen
+      - Kevin Harlan
+      - Reggie Miller
+      Explanation: Marv Albert gained fame as the 'Voice of the NBA' due to his legendary
+        play-by-play commentary for the league.
+    - Question: What is the most-watched annual sporting event in the world?
+      TrueAnswer: Super Bowl
+      FalseAnswer:
+      - FIFA World Cup
+      - Olympic Games
+      - UEFA Champions League Final
+      Explanation: The Super Bowl is the most-watched annual sporting event globally,
+        attracting a massive worldwide audience.
+    - Question: Which sports media outlet was the first to broadcast in high definition
+        (HD)?
+      TrueAnswer: ESPN
+      FalseAnswer:
+      - FOX Sports
+      - CBS Sports
+      - NBC Sports
+      Explanation: ESPN became the first sports media outlet to broadcast in high
+        definition (HD) in April 2003, marking a significant industry milestone.
+    - Question: What is the most common format for live sports broadcasting?
+      TrueAnswer: Play-by-play
+      FalseAnswer:
+      - Documentary
+      - Panel discussion
+      - Comedic commentary
+      Explanation: Play-by-play commentary is the most common format used in live
+        sports broadcasting, offering real-time coverage and analysis of events as
+        they happen.
+    - Question: Which sports broadcasting technology revolutionized in-game analysis
+        and player tracking?
+      TrueAnswer: Player tracking systems
+      FalseAnswer:
+      - Virtual reality
+      - Drone footage
+      - 4K camera technology
+      Explanation: Player tracking systems have revolutionized sports broadcasting
+        by providing detailed in-game analysis and real-time player performance metrics.
+    - Question: What is the primary goal of sports media coverage during major events
+        like the Olympics?
+      TrueAnswer: Storytelling
+      FalseAnswer:
+      - Revenue generation
+      - Highlight reel creation
+      - Athlete endorsements
+      Explanation: The primary goal of sports media coverage during major events
+        is to use storytelling to capture the drama, emotion, and narratives of the
+        athletes and competition.
+    - Question: Which sports broadcasting technique involves retired athletes providing
+        analysis and insights?
+      TrueAnswer: Color commentary
+      FalseAnswer:
+      - Sideline reporting
+      - Interview segments
+      - Statistical analysis
+      Explanation: Color commentary, featuring retired athletes, provides expert
+        analysis and insights during live sports broadcasts to enhance viewers' understanding.
+    - Question: What is the most widely used platform for sports media consumption
+        in the digital age?
+      TrueAnswer: Social media
+      FalseAnswer:
+      - Streaming services
+      - Podcasts
+      - Online news websites
+      Explanation: Social media has become the most widely used platform for sports
+        media consumption, allowing fans to engage, share, and discuss sports content
+        in real-time.
+    - Question: Which sports broadcasting innovation introduced on-screen graphics
+        for statistical information?
+      TrueAnswer: Virtual yellow first-down line
+      FalseAnswer:
+      - Instant replay
+      - Score ticker
+      - Live telestrator
+      Explanation: The virtual yellow first-down line, introduced in 1998, revolutionized
+        the display of statistical information during American football broadcasts.
+    - Question: What is the primary role of a sports media journalist?
+      TrueAnswer: Report on events and issues
+      FalseAnswer:
+      - Conduct player interviews
+      - Analyze game strategies
+      - Predict game outcomes
+      Explanation: The primary role of a sports media journalist is to report on
+        events and issues, providing objective coverage and analysis for the audience.
+    - Question: Which broadcasting network pioneered the concept of 'talking head'
+        sports debate shows?
+      TrueAnswer: ESPN
+      FalseAnswer:
+      - FOX Sports
+      - CBS Sports
+      - NBC Sports
+      Explanation: ESPN popularized the 'talking head' sports debate shows, sparking
+        discussion and analysis among sports pundits and commentators.
+    - Question: What is the primary function of sports media press conferences and
+        interviews?
+      TrueAnswer: Information gathering
+      FalseAnswer:
+      - Athlete marketing
+      - Conflict resolution
+      - Fan engagement
+      Explanation: Press conferences and interviews primarily serve as a means for
+        sports media to gather information, quotes, and insights from athletes and
+        coaches.
+    - Question: Which sports broadcasting concept emphasizes storytelling through
+        visual narratives and dramatic editing?
+      TrueAnswer: Sports documentary
+      FalseAnswer:
+      - Live game commentary
+      - Highlight reel compilation
+      - Athlete profile features
+      Explanation: Sports documentaries emphasize visual storytelling, using dramatic
+        editing and narrative techniques to showcase the compelling stories behind
+        athletes and sports events.
+    - Question: What is the main focus of sports media branding and marketing strategies?
+      TrueAnswer: Fan engagement
+      FalseAnswer:
+      - Athlete endorsement
+      - Merchandise sales
+      - Event promotion
+      Explanation: Fan engagement is a central focus of sports media branding and
+        marketing, as it fosters community, loyalty, and interaction among sports
+        enthusiasts.
+    - Question: Which social media platform is commonly used for live sports commentary
+        and real-time interaction?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - TikTok
+      Explanation: Twitter is a common platform for live sports commentary, enabling
+        fans to engage in real-time discussions, reactions, and interactions during
+        sporting events.
+    - Question: What type of sports media content is most effective for in-depth
+        analysis and feature stories?
+      TrueAnswer: Long-form articles
+      FalseAnswer:
+      - Podcasts
+      - Infographics
+      - Short video clips
+      Explanation: Long-form articles provide the depth and detail necessary for
+        in-depth analysis and feature stories, offering comprehensive insights and
+        narratives for sports enthusiasts.
+    - Question: Which sports media technique offers an immersive viewer experience
+        through 360-degree visual coverage?
+      TrueAnswer: Virtual reality (VR)
+      FalseAnswer:
+      - Augmented reality (AR)
+      - Drone footage
+      - 3D holograms
+      Explanation: Virtual reality (VR) technology offers an immersive viewer experience,
+        allowing fans to engage with sports events through 360-degree visual coverage
+        and interactive elements.
+    - Question: What is the main goal of sports media coverage for emerging sports
+        and niche events?
+      TrueAnswer: Promotion and exposure
+      FalseAnswer:
+      - Revenue generation
+      - Highlighting star athletes
+      - International broadcasting
+      Explanation: Sports media coverage aims to promote and expose emerging sports
+        and niche events, providing visibility and opportunities for growth within
+        the industry.

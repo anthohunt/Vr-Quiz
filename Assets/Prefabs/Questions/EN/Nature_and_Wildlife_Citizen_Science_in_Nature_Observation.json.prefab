@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4408996070196446123
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7918324065166299743}
+  - component: {fileID: 176616463469450754}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Citizen_Science_in_Nature_Observation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7918324065166299743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4408996070196446123}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &176616463469450754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4408996070196446123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the focus of eBird, a popular Citizen Science project?
+      TrueAnswer: Birds
+      FalseAnswer:
+      - Plants
+      - Insects
+      - Amphibians
+      Explanation: eBird is primarily focused on collecting bird observations and
+        making this data available to researchers and conservationists worldwide.
+    - Question: Which app allows users to report wildlife sightings and contribute
+        to biodiversity research?
+      TrueAnswer: iNaturalist
+      FalseAnswer:
+      - Wildlife Tracker
+      - NatureWatch
+      - BioCitizen
+      Explanation: iNaturalist is a widely used app for documenting and sharing observations
+        of plants, animals, and other organisms to support scientific research and
+        conservation efforts.
+    - Question: What is the primary goal of Project Noah in Citizen Science?
+      TrueAnswer: Documenting wildlife
+      FalseAnswer:
+      - Stargazing
+      - Weather monitoring
+      - Botanical illustration
+      Explanation: Project Noah aims to document and discover wildlife observations
+        to help in understanding and conserving the planet's biodiversity.
+    - Question: Which organization runs the Great Backyard Bird Count, engaging citizens
+        in birdwatching?
+      TrueAnswer: Cornell Lab of Ornithology
+      FalseAnswer:
+      - National Audubon Society
+      - Smithsonian Institution
+      - World Wildlife Fund
+      Explanation: The Great Backyard Bird Count is organized by the Cornell Lab
+        of Ornithology and the National Audubon Society, and it helps scientists
+        track bird populations globally.
+    - Question: What does the project FrogWatch USA focus on for Citizen Science
+        data collection?
+      TrueAnswer: Amphibians
+      FalseAnswer:
+      - Reptiles
+      - Mammals
+      - Insects
+      Explanation: FrogWatch USA engages volunteers in monitoring and recording the
+        vocalizations of frogs and toads, contributing to amphibian conservation
+        and understanding their populations.
+    - Question: Which insect is known for its participation in the Monarch Larva
+        Monitoring Project?
+      TrueAnswer: Monarch butterfly
+      FalseAnswer:
+      - Honey bee
+      - Dragonfly
+      - Ladybug
+      Explanation: The Monarch Larva Monitoring Project involves monitoring and collecting
+        data on the breeding and survival of Monarch butterflies, a species of high
+        conservation concern.
+    - Question: "What animal is documented through the Whale and Dolphin Conservation\u2019s
+        Shorewatch program?"
+      TrueAnswer: Cetaceans
+      FalseAnswer:
+      - Sea turtles
+      - Seals
+      - Sharks
+      Explanation: Whale and Dolphin Conservation's Shorewatch program engages volunteers
+        in observing and recording data on various species of whales and dolphins
+        to aid in their conservation.
+    - Question: Which organization manages the Coastal Observation and Seabird Survey
+        Team (COASST) program?
+      TrueAnswer: University of Washington
+      FalseAnswer:
+      - Smithsonian Institution
+      - National Geographic
+      - Environmental Protection Agency
+      Explanation: The University of Washington manages the COASST program, which
+        involves citizen scientists in monitoring and collecting data on beached
+        birds for ecological studies and conservation efforts.
+    - Question: What type of observations does the Community Collaborative Rain,
+        Hail & Snow Network (CoCoRaHS) focus on?
+      TrueAnswer: Weather
+      FalseAnswer:
+      - Wildfires
+      - Earthquakes
+      - Tides
+      Explanation: CoCoRaHS engages volunteers in monitoring and reporting precipitation,
+        leading to improved understanding of weather patterns and aiding in flood
+        forecasting, drought monitoring, and other applications.
+    - Question: What data does the Great Sunflower Project aim to collect through
+        Citizen Science?
+      TrueAnswer: Pollinator observations
+      FalseAnswer:
+      - Tree growth rates
+      - Soil pH levels
+      - Bird migratory patterns
+      Explanation: The Great Sunflower Project collects pollinator observations to
+        help scientists understand the effects of environmental factors on pollinator
+        populations and plant-pollinator interactions.
+    - Question: Which of these animals is the focus of the eMammal project in Citizen
+        Science?
+      TrueAnswer: Mammals
+      FalseAnswer:
+      - Fish
+      - Birds
+      - Insects
+      Explanation: eMammal engages volunteers in setting camera traps to monitor
+        and document mammal species, contributing to wildlife conservation and research
+        on mammal populations and behaviors.
+    - Question: What does the NestWatch program encourage people to observe and report
+        data on in Nature?
+      TrueAnswer: Bird nests
+      FalseAnswer:
+      - Ant hills
+      - Spider webs
+      - Beehives
+      Explanation: NestWatch involves monitoring and reporting data on bird nesting
+        activities, providing valuable information for understanding bird breeding
+        biology and population trends.
+    - Question: Which Citizen Science project focuses on tracking and reporting butterfly
+        species?
+      TrueAnswer: Butterflies and Moths of North America
+      FalseAnswer:
+      - Beetle Biodiversity Project
+      - Mosquito Monitoring Scheme
+      - Spider Survey Initiative
+      Explanation: Butterflies and Moths of North America emphasizes the collection
+        and sharing of butterfly and moth observations across the continent, aiding
+        in conservation and ecological studies.
+    - Question: What is the primary focus of the National Phenology Network, a Citizen
+        Science effort?
+      TrueAnswer: Plant and animal phenology
+      FalseAnswer:
+      - Geological formations
+      - Water quality
+      - Atmospheric pressure
+      Explanation: The National Phenology Network monitors and records the timing
+        of plant and animal life cycle events, contributing to the understanding
+        of phenology and its ecological impacts.
+    - Question: Which app enables users to contribute to conservation by capturing
+        and sharing wildlife sightings?
+      TrueAnswer: Seek by iNaturalist
+      FalseAnswer:
+      - Wildlife Spotter
+      - Nature Explorer
+      - EcoTracker
+      Explanation: Seek by iNaturalist serves as a tool for identifying and documenting
+        plants and animals, encouraging biodiversity exploration and scientific data
+        collection for conservation efforts.
+    - Question: What type of observations are collected through the Migratory Dragonfly
+        Partnership?
+      TrueAnswer: Dragonfly migration
+      FalseAnswer:
+      - Tree growth patterns
+      - Cloud formations
+      - Marine mammal behavior
+      Explanation: The Migratory Dragonfly Partnership focuses on monitoring the
+        migration patterns of dragonflies, aiding in their conservation and understanding
+        of their roles in ecosystems.
+    - Question: Which of these animals is the focus of the Raptor Watch project in
+        Citizen Science?
+      TrueAnswer: Birds of prey
+      FalseAnswer:
+      - Songbirds
+      - Waterfowl
+      - Shorebirds
+      Explanation: Raptor Watch aims to study and monitor the populations and behaviors
+        of birds of prey, contributing to bird conservation and ecological research.
+    - Question: What is the primary focus of the Citizen Science project Project
+        Squirrel?
+      TrueAnswer: Squirrel population monitoring
+      FalseAnswer:
+      - Deer migration tracking
+      - Fish spawning behavior
+      - Mushroom biodiversity inventory
+      Explanation: Project Squirrel involves citizen scientists in monitoring and
+        reporting squirrel population dynamics and behaviors, aiding in understanding
+        their impact on ecosystems and urban environments.
+    - Question: Which organization manages the project CoCoRaHS, focusing on precipitation
+        monitoring?
+      TrueAnswer: National Weather Service
+      FalseAnswer:
+      - United States Geological Survey
+      - National Aeronautics and Space Administration
+      - Environmental Protection Agency
+      Explanation: The National Weather Service oversees CoCoRaHS, leveraging volunteer
+        observations to enhance weather forecasts, water resource management, and
+        drought preparedness.
+    - Question: What is the primary focus of the Earthwatch Institute's citizen science
+        projects?
+      TrueAnswer: Environmental research
+      FalseAnswer:
+      - Historical architecture preservation
+      - Cultural anthropology studies
+      - Fine arts appreciation
+      Explanation: Earthwatch Institute focuses on engaging citizens in environmental
+        research and conservation projects, enabling individuals to contribute to
+        scientific understanding and sustainable practices.

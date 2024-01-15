@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3634358819933648008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4856191601996850171}
+  - component: {fileID: 3085632370478037036}
+  m_Layer: 0
+  m_Name: Music_Music_and_Politics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4856191601996850171
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3634358819933648008}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3085632370478037036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3634358819933648008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which famous musician famously opposed the Vietnam War?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - Elvis Presley
+      - Bob Dylan
+      - Michael Jackson
+      Explanation: John Lennon was a vocal activist against the Vietnam War, using
+        his platform to protest for peace and racial equality.
+    - Question: What political event led to the creation of the song 'The Times They
+        Are a-Changin'?
+      TrueAnswer: Civil Rights Movement
+      FalseAnswer:
+      - Cold War
+      - Watergate Scandal
+      - Vietnam War
+      Explanation: Bob Dylan wrote 'The Times They Are a-Changin' to capture the
+        feelings of upheaval during the Civil Rights Movement.
+    - Question: Which political figure banned Elvis Presley's pelvic dance moves
+        on television?
+      TrueAnswer: Ed Sullivan
+      FalseAnswer:
+      - Richard Nixon
+      - J. Edgar Hoover
+      - Joseph McCarthy
+      Explanation: The Ed Sullivan Show forbade filming Elvis Presley's lower body
+        due to his provocative dance style.
+    - Question: What year did the iconic Woodstock music festival take place as a
+        symbol of counterculture?
+      TrueAnswer: 1969
+      FalseAnswer:
+      - 1971
+      - 1967
+      - 1973
+      Explanation: Woodstock drew over 400,000 attendees in 1969, embodying the spirit
+        of rebellion amid a politically tumultuous time.
+    - Question: Who famously criticized US President George W. Bush in a 2003 performance?
+      TrueAnswer: Dixie Chicks
+      FalseAnswer:
+      - Britney Spears
+      - Justin Timberlake
+      - Taylor Swift
+      Explanation: The Dixie Chicks condemned President George W. Bush for his decision
+        to invade Iraq during a London concert.

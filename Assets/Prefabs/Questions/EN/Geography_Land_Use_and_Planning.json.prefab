@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8902933683962036005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6225856538273764900}
+  - component: {fileID: 962490318326232769}
+  m_Layer: 0
+  m_Name: Geography_Land_Use_and_Planning.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6225856538273764900
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8902933683962036005}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &962490318326232769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8902933683962036005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary aim of urban planning?
+      TrueAnswer: Creating sustainable and functional urban spaces
+      FalseAnswer:
+      - Encouraging overdevelopment
+      - Focusing solely on aesthetics
+      - Disregarding infrastructure needs
+      Explanation: Urban planning aims to create livable, sustainable, and functional
+        urban spaces by considering infrastructure, social needs, and environmental
+        impact.
+    - Question: What is an example of mixed land use?
+      TrueAnswer: Development with residential, commercial, and recreational areas
+      FalseAnswer:
+      - Development dominated by industrial zones
+      - Development with only residential areas
+      - Development focused solely on agricultural activities
+      Explanation: Mixed land use involves the integration of residential, commercial,
+        and recreational areas within a development, promoting walkability and reducing
+        transportation needs.
+    - Question: What is the purpose of zoning laws in urban planning?
+      TrueAnswer: Regulating land use to promote organized and compatible development
+      FalseAnswer:
+      - Promoting chaotic and haphazard development
+      - Preserving historic sites at the expense of urban expansion
+      - Exclusively benefiting large corporations
+      Explanation: Zoning laws regulate land use to ensure organized and compatible
+        development, minimizing conflicts between different land uses and preserving
+        the character of neighborhoods.
+    - Question: What is the main focus of smart growth initiatives?
+      TrueAnswer: Promoting sustainable and compact urban development
+      FalseAnswer:
+      - Encouraging urban sprawl
+      - Prioritizing large-scale suburban developments
+      - Neglecting public transportation systems
+      Explanation: Smart growth initiatives prioritize sustainable, compact urban
+        development, emphasizing walkable neighborhoods, mixed land use, and efficient
+        public transportation to reduce environmental impact and enhance livability.
+    - Question: What does the term 'brownfield' refer to in land use planning?
+      TrueAnswer: Former industrial or commercial sites requiring environmental remediation
+      FalseAnswer:
+      - Protected natural areas
+      - Sustainable mixed-use developments
+      - Residential areas with diverse architectural styles
+      Explanation: Brownfields are abandoned or underutilized industrial or commercial
+        sites that require environmental cleanup and redevelopment to revitalize
+        urban areas and prevent urban sprawl.
+    - Question: What is the purpose of greenbelts in urban planning?
+      TrueAnswer: Preserving open spaces and controlling urban expansion
+      FalseAnswer:
+      - Maximizing density and development
+      - Promoting high-rise construction
+      - Eradicating natural landscapes
+      Explanation: Greenbelts are areas of open land or forest surrounding a city,
+        designed to limit urban sprawl, protect natural habitats, and provide recreational
+        opportunities for urban residents.
+    - Question: What is an example of a sustainable design principle in urban planning?
+      TrueAnswer: Implementing energy-efficient building standards and green infrastructure
+      FalseAnswer:
+      - Prioritizing car-dependent transportation systems
+      - Neglecting biodiversity conservation
+      - Promoting single-use zoning for neighborhoods
+      Explanation: Sustainable design principles in urban planning prioritize energy
+        efficiency, green infrastructure, and mixed land use to reduce environmental
+        impact and promote resilience to climate change.
+    - Question: What is the purpose of transit-oriented development?
+      TrueAnswer: Encouraging compact, mixed-use developments around transit stations
+      FalseAnswer:
+      - Promoting automobile-dependent urban sprawl
+      - Isolating residential and commercial areas
+      - Neglecting public transportation systems
+      Explanation: Transit-oriented development aims to create compact, mixed-use
+        developments around transit stations to reduce car dependency, promote walkability,
+        and enhance access to public transportation.
+    - Question: What does the term 'urban heat island' refer to?
+      TrueAnswer: Localized pockets of higher temperatures in urban areas
+      FalseAnswer:
+      - Colder microclimates within urban areas
+      - Natural heat patterns unaffected by urban development
+      - Uniform temperatures across an urban area
+      Explanation: Urban heat islands are areas within urban environments that experience
+        higher temperatures than their rural surroundings due to human activities,
+        urban materials, and reduced green spaces.
+    - Question: What is the purpose of comprehensive land use planning?
+      TrueAnswer: Balancing various interests to guide future development and land
+        use
+      FalseAnswer:
+      - Solely benefiting private developers
+      - Exclusively focusing on environmental conservation
+      - Neglecting community input and engagement
+      Explanation: Comprehensive land use planning aims to balance social, economic,
+        and environmental interests to guide future development and land use, considering
+        community needs and sustainability.
+    - Question: What is the primary goal of green infrastructure in urban planning?
+      TrueAnswer: Managing stormwater, reducing urban heat, and enhancing biodiversity
+      FalseAnswer:
+      - Maximizing paved surfaces and impermeable infrastructure
+      - Neglecting ecological connectivity and resilience
+      - Promoting reliance on mechanical heating and cooling
+      Explanation: Green infrastructure aims to manage stormwater, mitigate urban
+        heat islands, and support biodiversity, enhancing the ecological resilience
+        and livability of urban areas.
+    - Question: What are the main components of a traditional neighborhood development?
+      TrueAnswer: Walkable streets, mixed land use, and public spaces
+      FalseAnswer:
+      - Spread-out, car-dependent zoning
+      - Monoculture, single-use development
+      - Exclusion of pedestrian-friendly amenities
+      Explanation: Traditional neighborhood developments prioritize walkable streets,
+        mixed land use, and public spaces, fostering community interactions and reducing
+        dependence on cars for everyday activities.
+    - Question: What is the purpose of urban growth boundaries?
+      TrueAnswer: Restricting urban expansion and protecting rural lands
+      FalseAnswer:
+      - Encouraging uncontrolled urban sprawl
+      - Maximizing urban population density
+      - Displacing agriculture with intensive development
+      Explanation: Urban growth boundaries aim to curtail urban sprawl, protect agricultural
+        and natural lands, and promote sustainable development patterns within existing
+        urban areas.
+    - Question: What is the primary aim of transit equity in urban planning?
+      TrueAnswer: Ensuring fair access to public transportation for all communities
+      FalseAnswer:
+      - Prioritizing exclusive transit services for affluent areas
+      - Neglecting access to public transportation for marginalized groups
+      - Promoting urban segregation based on transit availability
+      Explanation: Transit equity focuses on providing fair and inclusive access
+        to public transportation for all communities, reducing disparities in mobility
+        and enhancing social and economic opportunities.
+    - Question: What challenges does infrastructure decay pose in urban areas?
+      TrueAnswer: Decline in public safety, environmental hazards, and economic vitality
+      FalseAnswer:
+      - Enhanced community resilience and safety
+      - Stimulated economic growth and prosperity
+      - Promoted sustainable and efficient resource use
+      Explanation: Infrastructure decay presents challenges such as compromised public
+        safety, environmental hazards, and reduced economic vitality, requiring investment
+        in maintenance and revitalization efforts.
+    - Question: What criteria define 'sustainable agriculture' in land use planning?
+      TrueAnswer: Minimizing environmental impact and ensuring long-term food security
+      FalseAnswer:
+      - Maximizing land exploitation for short-term gains
+      - Promoting dependency on agrochemicals and monocropping
+      - Neglecting soil conservation and biodiversity
+      Explanation: Sustainable agriculture prioritizes practices that minimize environmental
+        impact, ensure long-term food security, and promote biodiversity and soil
+        conservation, fostering resilient and equitable food systems.
+    - Question: What is the goal of adaptive reuse in urban planning?
+      TrueAnswer: Revitalizing underutilized buildings for new purposes
+      FalseAnswer:
+      - Replacing historic structures with modern developments
+      - Neglecting architectural and cultural heritage
+      - Promoting the demolition of aging structures
+      Explanation: Adaptive reuse seeks to revitalize underutilized buildings for
+        new purposes, preserving architectural and cultural heritage while reducing
+        urban blight and promoting sustainable development.
+    - Question: What is the purpose of amenity-based land use planning?
+      TrueAnswer: Promoting equitable access to recreational and cultural facilities
+      FalseAnswer:
+      - Privileging exclusive amenities for affluent areas
+      - Neglecting public access to green spaces and amenities
+      - Emphasizing single-use zoning over diverse amenities
+      Explanation: Amenity-based land use planning aims to ensure equitable access
+        to recreational and cultural facilities for all residents, enhancing community
+        well-being, and fostering social cohesion.
+    - Question: How does form-based zoning differ from traditional zoning?
+      TrueAnswer: Emphasizing physical form and characteristics over land use
+      FalseAnswer:
+      - Exclusively prioritizing land use regulations
+      - Ignoring the built environment aesthetics
+      - Promoting sprawling and homogeneous development
+      Explanation: Form-based zoning prioritizes the physical form and characteristics
+        of developments, focusing on how buildings and public spaces interact, fostering
+        walkable, aesthetically pleasing, and diverse urban environments.
+    - Question: What is the primary objective of community land trusts?
+      TrueAnswer: Preserving affordable housing and community ownership
+      FalseAnswer:
+      - Exclusively benefiting private developers
+      - Neglecting housing affordability in favor of luxury developments
+      - Promoting transient and speculative property ownership
+      Explanation: Community land trusts aim to preserve affordable housing and community
+        ownership by acquiring land and holding it in trust for the long-term benefit
+        of the community, ensuring housing affordability and stability.

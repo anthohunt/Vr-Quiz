@@ -1,0 +1,108 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What does GIS stand for?",
+          "TrueAnswer": "Geographic Information Systems",
+          "FalseAnswer": [
+            "Global Information System",
+            "Ground Information Science",
+            "Geological Information Software"
+          ],
+          "Explanation": "GIS stands for Geographic Information Systems, which is a system designed to capture, store, analyze, manage, and present spatial or geographic data."
+        },
+        {
+          "Question": "Which type of data does GIS primarily deal with?",
+          "TrueAnswer": "Spatial",
+          "FalseAnswer": [
+            "Temporal",
+            "Categorical",
+            "Numerical"
+          ],
+          "Explanation": "GIS primarily manages Spatial data, which includes information about the location and shape of geographic features."
+        },
+        {
+          "Question": "What is the purpose of geocoding in GIS?",
+          "TrueAnswer": "To assign geographic coordinates to locations",
+          "FalseAnswer": [
+            "To categorize landforms",
+            "To measure atmospheric conditions",
+            "To analyze demographic trends"
+          ],
+          "Explanation": "Geocoding involves assigning geographic coordinates (latitude and longitude) to a description of a location, allowing it to be accurately placed on a map."
+        },
+        {
+          "Question": "Which technology is commonly used to collect geospatial data?",
+          "TrueAnswer": "GPS",
+          "FalseAnswer": [
+            "Radar",
+            "Sonar",
+            "Laser scanning"
+          ],
+          "Explanation": "GPS (Global Positioning System) is widely used to collect geospatial data, providing precise location information through satellite signals."
+        },
+        {
+          "Question": "What is remote sensing in the context of GIScience?",
+          "TrueAnswer": "Gathering data from a distance",
+          "FalseAnswer": [
+            "Direct data collection",
+            "Physical data manipulation",
+            "Digital map creation"
+          ],
+          "Explanation": "Remote sensing involves collecting data about the Earth's surface from a distance, often through satellites or aerial photography, to create detailed maps and analyze changes in the environment."
+        },
+        {
+          "Question": "Which type of analysis identifies the best location for a new retail store?",
+          "TrueAnswer": "Site suitability analysis",
+          "FalseAnswer": [
+            "Network analysis",
+            "Overlay analysis",
+            "Proximity analysis"
+          ],
+          "Explanation": "Site suitability analysis evaluates various criteria to determine the most suitable location for a specific purpose, such as a retail store, considering factors like accessibility, competition, and consumer demographics."
+        },
+        {
+          "Question": "What is the purpose of a geospatial database?",
+          "TrueAnswer": "To store, retrieve, and analyze spatial data",
+          "FalseAnswer": [
+            "To manage financial information",
+            "To store multimedia files",
+            "To track employee records"
+          ],
+          "Explanation": "A geospatial database is specifically designed to store, retrieve, and analyze spatial data, enabling efficient management and retrieval of geographic information for various applications."
+        },
+        {
+          "Question": "Which projection preserves accurate area but distorts shapes and angles?",
+          "TrueAnswer": "Equal Area (or Equivalent) projection",
+          "FalseAnswer": [
+            "Conformal projection",
+            "Equidistant projection",
+            "Azimuthal projection"
+          ],
+          "Explanation": "The Equal Area projection preserves accurate area measurements, making it suitable for thematic mapping where maintaining relative sizes of geographic features is more important than preserving shapes and angles."
+        },
+        {
+          "Question": "What is meant by the term 'geospatial analysis'?",
+          "TrueAnswer": "Analyzing geographic data",
+          "FalseAnswer": [
+            "Statistical analysis",
+            "Market analysis",
+            "Textual analysis"
+          ],
+          "Explanation": "Geospatial analysis involves examining geographic data, including patterns, trends, and relationships, to gain insights into spatial phenomena and inform decision-making in various fields."
+        },
+        {
+          "Question": "Which GIS application enables the creation of customized maps?",
+          "TrueAnswer": "Cartography",
+          "FalseAnswer": [
+            "Geocaching",
+            "Geotagging",
+            "Georeferencing"
+          ],
+          "Explanation": "Cartography is the process of creating customized maps, involving the design, compilation, and production of geographic information for visualization and communication purposes."
+        }
+      ]
+    }
+  ]
+}

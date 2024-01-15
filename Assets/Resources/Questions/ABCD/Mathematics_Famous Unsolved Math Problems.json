@@ -1,0 +1,108 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the value of pi (π)?",
+          "TrueAnswer": "3.14159",
+          "FalseAnswer": [
+            "2.71828",
+            "1.61803",
+            "4.66920"
+          ],
+          "Explanation": "Pi (π) is a mathematical constant that represents the ratio of a circle's circumference to its diameter."
+        },
+        {
+          "Question": "What is the Riemann Hypothesis?",
+          "TrueAnswer": "All non-trivial zeros of the Riemann zeta function have a real part of 1/2.",
+          "FalseAnswer": [
+            "The sum of the reciprocals of prime numbers diverges.",
+            "Every even integer greater than 2 can be expressed as the sum of two prime numbers.",
+            "There are infinitely many prime numbers."
+          ],
+          "Explanation": "The Riemann Hypothesis is a conjecture about the distribution of prime numbers and the behavior of the Riemann zeta function."
+        },
+        {
+          "Question": "What is the Collatz Conjecture?",
+          "TrueAnswer": "For any positive integer, repeatedly applying the Collatz function will eventually reach the value 1.",
+          "FalseAnswer": [
+            "There exists an infinite number of twin primes.",
+            "The sum of the reciprocals of the squares of the positive integers converges.",
+            "The decimal representation of pi is a repeating or terminating decimal."
+          ],
+          "Explanation": "The Collatz Conjecture is an unsolved problem in mathematics that involves iterating a simple arithmetic function."
+        },
+        {
+          "Question": "What is the Birch and Swinnerton-Dyer Conjecture?",
+          "TrueAnswer": "There is a relationship between the number of rational points on an elliptic curve and the behavior of its L-series.",
+          "FalseAnswer": [
+            "The sum of the angles of a triangle is always 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The Birch and Swinnerton-Dyer Conjecture is a conjecture in number theory that relates the number of rational points on an elliptic curve to the behavior of certain mathematical functions."
+        },
+        {
+          "Question": "What is the P versus NP problem?",
+          "TrueAnswer": "Determining whether every problem whose solution can be verified quickly can also be solved quickly.",
+          "FalseAnswer": [
+            "The sum of the angles of a polygon with n sides is equal to (n-2) * 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The P versus NP problem is a major unsolved problem in computer science that asks whether every problem for which a solution can be verified quickly can also be solved quickly."
+        },
+        {
+          "Question": "What is the Goldbach Conjecture?",
+          "TrueAnswer": "Every even integer greater than 2 can be expressed as the sum of two prime numbers.",
+          "FalseAnswer": [
+            "The sum of the angles of a triangle is always 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The Goldbach Conjecture is one of the oldest unsolved problems in number theory, stating that every even integer greater than 2 can be expressed as the sum of two prime numbers."
+        },
+        {
+          "Question": "What is the Twin Prime Conjecture?",
+          "TrueAnswer": "There are infinitely many pairs of prime numbers that differ by 2.",
+          "FalseAnswer": [
+            "The sum of the angles of a polygon with n sides is equal to (n-2) * 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The Twin Prime Conjecture states that there are infinitely many pairs of prime numbers that differ by 2, such as (3, 5), (11, 13), (17, 19), and so on."
+        },
+        {
+          "Question": "What is the Navier-Stokes existence and smoothness problem?",
+          "TrueAnswer": "Determining whether solutions to the Navier-Stokes equations exist and are smooth for all time.",
+          "FalseAnswer": [
+            "The sum of the angles of a triangle is always 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The Navier-Stokes existence and smoothness problem is concerned with the mathematical properties of solutions to the Navier-Stokes equations, which describe the motion of fluid substances."
+        },
+        {
+          "Question": "What is the Yang-Mills existence and mass gap problem?",
+          "TrueAnswer": "Proving the existence of Yang-Mills theories and the existence of a mass gap.",
+          "FalseAnswer": [
+            "The sum of the angles of a polygon with n sides is equal to (n-2) * 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The Yang-Mills existence and mass gap problem is a question in theoretical physics and mathematics that seeks to prove the existence of certain types of quantum field theories and the existence of a mass gap."
+        },
+        {
+          "Question": "What is the Hodge Conjecture?",
+          "TrueAnswer": "A statement about the relationship between the cohomology of algebraic varieties and their cycles.",
+          "FalseAnswer": [
+            "The sum of the angles of a triangle is always 180 degrees.",
+            "The square root of 2 is an irrational number.",
+            "The area of a circle is equal to pi times the square of its radius."
+          ],
+          "Explanation": "The Hodge Conjecture is a major unsolved problem in algebraic geometry that relates the cohomology of algebraic varieties to their cycles."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7130793504955998712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8455085687579073136}
+  - component: {fileID: 454444989998525727}
+  m_Layer: 0
+  m_Name: Literature_Indigenous_Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8455085687579073136
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7130793504955998712}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &454444989998525727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7130793504955998712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which Indigenous author wrote 'There There'?
+      TrueAnswer: Tommy Orange
+      FalseAnswer:
+      - Leslie Marmon Silko
+      - Sherman Alexie
+      - Louise Erdrich
+      Explanation: Tommy Orange is a Cheyenne and Arapaho author known for his debut
+        novel, 'There There,' which explores the urban Native American experience
+        in Oakland, California.
+    - Question: What is the traditional Maori greeting called?
+      TrueAnswer: Hongi
+      FalseAnswer:
+      - Kia ora
+      - Haere Mai
+      - Powhiri
+      Explanation: The hongi is a traditional Maori greeting in New Zealand, where
+        people press their nose and forehead to someone else's to share the breath
+        of life.
+    - Question: Which tribe is the author Louise Erdrich affiliated with?
+      TrueAnswer: Turtle Mountain Band of Chippewa
+      FalseAnswer:
+      - Navajo
+      - Cherokee
+      - Lakota
+      Explanation: Louise Erdrich, an Ojibwe author, is a member of the Turtle Mountain
+        Band of Chippewa Indians in North Dakota.
+    - Question: Who is the author of 'Monkey Beach'?
+      TrueAnswer: Eden Robinson
+      FalseAnswer:
+      - Sherman Alexie
+      - Thomas King
+      - Joy Harjo
+      Explanation: Eden Robinson, a Haisla and Heiltsuk author from British Columbia,
+        wrote 'Monkey Beach', a novel blending Indigenous mythology and contemporary
+        reality.
+    - Question: What is the Inuit word for 'Eskimo'?
+      TrueAnswer: Inuk
+      FalseAnswer:
+      - Yupik
+      - "I\xF1upiat"
+      - Aleut
+      Explanation: The term 'Eskimo' is considered derogatory in many Inuit communities;
+        the preferred term is 'Inuit,' which means 'the people' in Inuktitut.
+    - Question: Who is the author of the book 'Ceremony'?
+      TrueAnswer: Leslie Marmon Silko
+      FalseAnswer:
+      - N. Scott Momaday
+      - Louise Erdrich
+      - Sherman Alexie
+      Explanation: Leslie Marmon Silko, a Laguna Pueblo author, wrote 'Ceremony',
+        a novel about a young Native American veteran's struggle with post-war trauma
+        and rediscovery of his cultural heritage.
+    - Question: Which Indigenous author wrote 'The Absolutely True Diary of a Part-Time
+        Indian'?
+      TrueAnswer: Sherman Alexie
+      FalseAnswer:
+      - Tommy Orange
+      - Eden Robinson
+      - Louise Erdrich
+      Explanation: Sherman Alexie, a Spokane-Coeur d'Alene author, wrote the semi-autobiographical
+        'The Absolutely True Diary of a Part-Time Indian', addressing issues of identity
+        and belonging.
+    - Question: Which Canadian city is the setting for Eden Robinson's 'Trickster'
+        book series?
+      TrueAnswer: Kitimat
+      FalseAnswer:
+      - Vancouver
+      - Montreal
+      - Toronto
+      Explanation: The 'Trickster' book series by Eden Robinson is set in Kitimat,
+        a town in British Columbia, and follows the adventures of a Haisla teenager
+        with supernatural abilities.
+    - Question: Who wrote the poetry collection 'An American Sunrise'?
+      TrueAnswer: Joy Harjo
+      FalseAnswer:
+      - Natalie Diaz
+      - Tomson Highway
+      - Sherman Alexie
+      Explanation: Joy Harjo, a member of the Muscogee (Creek) Nation, is the first
+        Native American Poet Laureate and authored 'An American Sunrise', exploring
+        themes of memory, history, and resilience.
+    - Question: What is the English translation of the Lakota word 'Wakan Tanka'?
+      TrueAnswer: Great Spirit
+      FalseAnswer:
+      - Earth Mother
+      - Sacred Pipe
+      - Medicine Wheel
+      Explanation: In Lakota spirituality, 'Wakan Tanka' represents the concept of
+        the Great Spirit or the Great Mystery, encompassing all things in the universe.
+    - Question: Who wrote the novel 'Fatty Legs'?
+      TrueAnswer: Christy Jordan-Fenton and Margaret Pokiak-Fenton
+      FalseAnswer:
+      - Joseph Boyden
+      - Richard Wagamese
+      - Thomas King
+      Explanation: '''Fatty Legs'' is a memoir-style novel co-authored by Christy
+        Jordan-Fenton and Margaret Pokiak-Fenton, telling the story of an Inuvialuit
+        girl''s experiences in a residential school.'
+    - Question: Which Cree author wrote the children's book 'Aptly Anaana'?
+      TrueAnswer: Freda LaPlante
+      FalseAnswer:
+      - Tomson Highway
+      - Beatrice Culleton
+      - Lawrence Joseph
+      Explanation: Freda LaPlante, a Cree author and educator, wrote 'Aptly Anaana',
+        a picture book that introduces young readers to Cree language and culture.
+    - Question: What does the Anishinaabe word 'Aadizookaan' refer to?
+      TrueAnswer: Traditional story or legend
+      FalseAnswer:
+      - Medicine man
+      - Sacred place
+      - Healing ceremony
+      Explanation: '''Aadizookaan'' in Anishinaabe culture refers to traditional
+        stories or legends used to pass along wisdom, teach values, and entertain.'
+    - Question: Who is the author of the novel 'Kiss of the Fur Queen'?
+      TrueAnswer: Tomson Highway
+      FalseAnswer:
+      - Joseph Boyden
+      - Cherie Dimaline
+      - Leanne Betasamosake Simpson
+      Explanation: Tomson Highway, a Cree author and playwright, wrote 'Kiss of the
+        Fur Queen', a semi-autobiographical novel exploring the experiences of two
+        Cree brothers in residential schools and urban settings.
+    - Question: Which publication featured the works of contemporary Indigenous writers
+        such as Terese Marie Mailhot and Tommy Orange?
+      TrueAnswer: The New York Times
+      FalseAnswer:
+      - The Atlantic
+      - The Guardian
+      - The Washington Post
+      Explanation: The New York Times has featured the literary works of contemporary
+        Indigenous writers, including Terese Marie Mailhot and Tommy Orange, contributing
+        to increased visibility and recognition.
+    - Question: Who is renowned for his renowned book 'Bury My Heart at Wounded Knee'?
+      TrueAnswer: Dee Brown
+      FalseAnswer:
+      - Vine Deloria Jr.
+      - Paula Gunn Allen
+      - N. Scott Momaday
+      Explanation: Dee Brown, a non-Indigenous author, wrote 'Bury My Heart at Wounded
+        Knee', a historical narrative documenting the struggles and injustices faced
+        by Native American tribes in the late 19th century.
+    - Question: "What is the English translation of the Cree word 'M\xE9tis'?"
+      TrueAnswer: Mixed
+      FalseAnswer:
+      - Warrior
+      - Elder
+      - Healer
+      Explanation: "The term 'M\xE9tis' in Cree language translates to 'mixed,' reflecting
+        the cultural and ancestral blending of Indigenous and European heritage among
+        the M\xE9tis people."
+    - Question: Who wrote the poetic work 'How We Became Human'?
+      TrueAnswer: Joy Harjo
+      FalseAnswer:
+      - Sherman Alexie
+      - Louise Erdrich
+      - Simon J. Ortiz
+      Explanation: 'Joy Harjo, a prominent Muscogee (Creek) poet, penned the collection
+        ''How We Became Human: New and Selected Poems,'' showcasing her evocative
+        and spiritual exploration of Native American experiences.'
+    - Question: What is the English translation of the Anishinaabe word 'Manitou'?
+      TrueAnswer: Spirit
+      FalseAnswer:
+      - Warrior
+      - Elder
+      - Healer
+      Explanation: In Anishinaabe beliefs, 'Manitou' refers to the spiritual essence
+        or supernatural power pervading all things in nature, guiding and sustaining
+        the universe.
+    - Question: Who authored the novel 'The Lesser Blessed'?
+      TrueAnswer: Richard Van Camp
+      FalseAnswer:
+      - Eden Robinson
+      - Cherie Dimaline
+      - Thomas King
+      Explanation: Richard Van Camp, a Tlicho Dene author from the Northwest Territories,
+        wrote 'The Lesser Blessed', depicting the coming-of-age experiences of a
+        Dogrib teenager.

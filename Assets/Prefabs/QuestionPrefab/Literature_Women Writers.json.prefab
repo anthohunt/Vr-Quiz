@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5729327331473879814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4025812582140649625}
+  - component: {fileID: 6941185444802864045}
+  m_Layer: 0
+  m_Name: Literature_Women Writers.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4025812582140649625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5729327331473879814}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6941185444802864045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5729327331473879814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the novel 'Pride and Prejudice'?
+      TrueAnswer: Jane Austen
+      FalseAnswer:
+      - "Emily Bront\xEB"
+      - Virginia Woolf
+      - Louisa May Alcott
+      Explanation: Jane Austen is the author of the classic novel 'Pride and Prejudice',
+        published in 1813.
+    - Question: Which author wrote the book 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - Toni Morrison
+      - Sylvia Plath
+      - Zora Neale Hurston
+      Explanation: Harper Lee is the author of the Pulitzer Prize-winning novel 'To
+        Kill a Mockingbird', published in 1960.
+    - Question: Who is the author of the novel 'Frankenstein'?
+      TrueAnswer: Mary Shelley
+      FalseAnswer:
+      - "Charlotte Bront\xEB"
+      - Edith Wharton
+      - Virginia Woolf
+      Explanation: Mary Shelley is the author of the Gothic novel 'Frankenstein',
+        published in 1818.
+    - Question: Which writer is known for the novel 'Jane Eyre'?
+      TrueAnswer: "Charlotte Bront\xEB"
+      FalseAnswer:
+      - Louisa May Alcott
+      - Emily Dickinson
+      - Virginia Woolf
+      Explanation: "Charlotte Bront\xEB is the author of the classic novel 'Jane
+        Eyre', published in 1847."
+    - Question: Who wrote the novel 'Gone with the Wind'?
+      TrueAnswer: Margaret Mitchell
+      FalseAnswer:
+      - Edith Wharton
+      - Zora Neale Hurston
+      - Toni Morrison
+      Explanation: Margaret Mitchell is the author of the epic novel 'Gone with the
+        Wind', published in 1936.
+    - Question: Which author wrote the book 'The Color Purple'?
+      TrueAnswer: Alice Walker
+      FalseAnswer:
+      - Maya Angelou
+      - Zadie Smith
+      - Toni Morrison
+      Explanation: Alice Walker is the author of the Pulitzer Prize-winning novel
+        'The Color Purple', published in 1982.
+    - Question: Who is the author of the novel 'Wuthering Heights'?
+      TrueAnswer: "Emily Bront\xEB"
+      FalseAnswer:
+      - Virginia Woolf
+      - Louisa May Alcott
+      - Edith Wharton
+      Explanation: "Emily Bront\xEB is the author of the Gothic novel 'Wuthering
+        Heights', published in 1847."
+    - Question: Which writer is known for the novel 'Little Women'?
+      TrueAnswer: Louisa May Alcott
+      FalseAnswer:
+      - Jane Austen
+      - "Charlotte Bront\xEB"
+      - Virginia Woolf
+      Explanation: Louisa May Alcott is the author of the beloved novel 'Little Women',
+        published in 1868.
+    - Question: Who wrote the novel 'Mrs. Dalloway'?
+      TrueAnswer: Virginia Woolf
+      FalseAnswer:
+      - Emily Dickinson
+      - Edith Wharton
+      - "Charlotte Bront\xEB"
+      Explanation: Virginia Woolf is the author of the modernist novel 'Mrs. Dalloway',
+        published in 1925.
+    - Question: Which author wrote the book 'Beloved'?
+      TrueAnswer: Toni Morrison
+      FalseAnswer:
+      - Alice Walker
+      - Zora Neale Hurston
+      - Maya Angelou
+      Explanation: Toni Morrison is the author of the Pulitzer Prize-winning novel
+        'Beloved', published in 1987.
+    - Question: Who is the author of the novel 'The Awakening'?
+      TrueAnswer: Kate Chopin
+      FalseAnswer:
+      - Edith Wharton
+      - Virginia Woolf
+      - Louisa May Alcott
+      Explanation: Kate Chopin is the author of the groundbreaking novel 'The Awakening',
+        published in 1899.
+    - Question: Which writer is known for the novel 'Middlemarch'?
+      TrueAnswer: George Eliot
+      FalseAnswer:
+      - "Emily Bront\xEB"
+      - "Charlotte Bront\xEB"
+      - Jane Austen
+      Explanation: George Eliot is the pen name of Mary Ann Evans, author of the
+        novel 'Middlemarch', published in 1871-1872.
+    - Question: Who wrote the novel 'The Bell Jar'?
+      TrueAnswer: Sylvia Plath
+      FalseAnswer:
+      - Emily Dickinson
+      - Virginia Woolf
+      - Edith Wharton
+      Explanation: Sylvia Plath is the author of the semi-autobiographical novel
+        'The Bell Jar', published in 1963.
+    - Question: Which author wrote the book 'Their Eyes Were Watching God'?
+      TrueAnswer: Zora Neale Hurston
+      FalseAnswer:
+      - Alice Walker
+      - Toni Morrison
+      - Maya Angelou
+      Explanation: Zora Neale Hurston is the author of the influential novel 'Their
+        Eyes Were Watching God', published in 1937.
+    - Question: Who is the author of the novel 'The House of Mirth'?
+      TrueAnswer: Edith Wharton
+      FalseAnswer:
+      - Virginia Woolf
+      - Louisa May Alcott
+      - "Emily Bront\xEB"
+      Explanation: Edith Wharton is the author of the novel 'The House of Mirth',
+        published in 1905.
+    - Question: Which writer is known for the novel 'The Handmaid's Tale'?
+      TrueAnswer: Margaret Atwood
+      FalseAnswer:
+      - Virginia Woolf
+      - Louisa May Alcott
+      - "Emily Bront\xEB"
+      Explanation: Margaret Atwood is the author of the dystopian novel 'The Handmaid's
+        Tale', published in 1985.
+    - Question: Who wrote the novel 'The Yellow Wallpaper'?
+      TrueAnswer: Charlotte Perkins Gilman
+      FalseAnswer:
+      - Virginia Woolf
+      - Louisa May Alcott
+      - Emily Dickinson
+      Explanation: Charlotte Perkins Gilman is the author of the influential short
+        story 'The Yellow Wallpaper', published in 1892.
+    - Question: Which author wrote the book 'The Bluest Eye'?
+      TrueAnswer: Toni Morrison
+      FalseAnswer:
+      - Alice Walker
+      - Zora Neale Hurston
+      - Maya Angelou
+      Explanation: Toni Morrison is the author of the novel 'The Bluest Eye', published
+        in 1970.
+    - Question: Who is the author of the novel 'Orlando'?
+      TrueAnswer: Virginia Woolf
+      FalseAnswer:
+      - Emily Dickinson
+      - Edith Wharton
+      - "Charlotte Bront\xEB"
+      Explanation: Virginia Woolf is the author of the novel 'Orlando', published
+        in 1928. It explores themes of gender and identity.
+    - Question: Which writer is known for the novel 'The Age of Innocence'?
+      TrueAnswer: Edith Wharton
+      FalseAnswer:
+      - Virginia Woolf
+      - Louisa May Alcott
+      - "Emily Bront\xEB"
+      Explanation: Edith Wharton is the author of the novel 'The Age of Innocence',
+        published in 1920. It won the Pulitzer Prize for Fiction.

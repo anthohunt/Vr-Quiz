@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom scientifique de l'éléphant d'Afrique?",
+            "TrueAnswer": "Loxodonta africana",
+            "FalseAnswer": [
+              "Rhinoceros unicornis",
+              "Giraffa camelopardalis",
+              "Panthera leo"
+            ],
+            "Explanation": "L'éléphant d'Afrique, Loxodonta africana, est le plus grand animal terrestre et est connu pour sa trompe distinctive et ses grandes oreilles."
+          },
+          {
+            "Question": "Quelle est la plus petite espèce d'ours parmi celles-ci?",
+            "TrueAnswer": "Ours malais",
+            "FalseAnswer": [
+              "Ours polaire",
+              "Ours grizzli",
+              "Ours lippu"
+            ],
+            "Explanation": "L'ours malais, également connu sous le nom d'ours à collier, est la plus petite espèce d'ours et est originaire d'Asie du Sud-Est."
+          },
+          {
+            "Question": "Quel est l'animal terrestre le plus rapide?",
+            "TrueAnswer": "Guépard",
+            "FalseAnswer": [
+              "Lion",
+              "Gazelle",
+              "Léopard"
+            ],
+            "Explanation": "Le guépard détient le titre de l'animal terrestre le plus rapide, atteignant des vitesses allant jusqu'à 70 miles par heure en courtes rafales."
+          },
+          {
+            "Question": "Lequel de ces animaux n'est pas un marsupial?",
+            "TrueAnswer": "Ornithorynque",
+            "FalseAnswer": [
+              "Kangourou",
+              "Koala",
+              "Opossum"
+            ],
+            "Explanation": "L'ornithorynque est un monotrème, pas un marsupial, et est unique pour pondre des œufs et produire du lait pour ses petits."
+          },
+          {
+            "Question": "Quel est le terme pour un groupe de loups?",
+            "TrueAnswer": "Meute",
+            "FalseAnswer": [
+              "Troupeau",
+              "Volée",
+              "Pod"
+            ],
+            "Explanation": "Les loups sont des animaux sociaux et vivent souvent et chassent ensemble en groupes appelés meutes, dirigés par un mâle et une femelle alpha."
+          },
+          {
+            "Question": "Quel oiseau est connu pour son imitation de sons, y compris la parole humaine?",
+            "TrueAnswer": "Perroquet gris d'Afrique",
+            "FalseAnswer": [
+              "Autruche",
+              "Toucan",
+              "Pingouin"
+            ],
+            "Explanation": "Les perroquets gris d'Afrique sont renommés pour leur capacité exceptionnelle à imiter et comprendre la parole humaine et d'autres sons."
+          },
+          {
+            "Question": "Quel est le plus grand primate vivant?",
+            "TrueAnswer": "Gorille",
+            "FalseAnswer": [
+              "Chimpanzé",
+              "Orang-outan",
+              "Bonobo"
+            ],
+            "Explanation": "Les gorilles sont les plus grands primates vivants, les mâles silverbacks pouvant peser jusqu'à 400 livres et mesurer plus de 6 pieds de haut."
+          },
+          {
+            "Question": "Lequel de ces animaux n'est pas un serpent venimeux?",
+            "TrueAnswer": "Boa constricteur",
+            "FalseAnswer": [
+              "Cobra",
+              "Crotale",
+              "Mamba noir"
+            ],
+            "Explanation": "Les boas constricteurs ne sont pas venimeux, utilisant la constriction pour asphyxier leur proie plutôt que de compter sur le venin."
+          },
+          {
+            "Question": "Quelle est l'envergure de la plus grande espèce de chauve-souris?",
+            "TrueAnswer": "1,8 mètres (5,9 pieds)",
+            "FalseAnswer": [
+              "1 mètre (3,3 pieds)",
+              "2,5 mètres (8,2 pieds)",
+              "1,2 mètre (3,9 pieds)"
+            ],
+            "Explanation": "Le renard volant doré géant détient le record de la plus grande envergure de toutes les espèces de chauves-souris, atteignant jusqu'à 1,8 mètres (5,9 pieds)."
+          },
+          {
+            "Question": "Lequel de ces animaux n'est pas un type de manchot?",
+            "TrueAnswer": "Macareux moine",
+            "FalseAnswer": [
+              "Manchot empereur",
+              "Manchot Adélie",
+              "Manchot des Galápagos"
+            ],
+            "Explanation": "Les macareux moines sont des oiseaux de mer de la famille des alcidés et ne sont pas classés comme des manchots, qui se trouvent principalement dans l'hémisphère sud."
+          },
+          {
+            "Question": "Quel est le terme collectif pour un groupe de corbeaux?",
+            "TrueAnswer": "Meurtre",
+            "FalseAnswer": [
+              "Troupeau",
+              "Meute",
+              "Meute"
+            ],
+            "Explanation": "Un meurtre de corbeaux est un terme poétique utilisé pour décrire un groupe de corbeaux, souvent représenté dans le folklore et les œuvres littéraires."
+          },
+          {
+            "Question": "Quel animal a la plus longue période de gestation?",
+            "TrueAnswer": "Éléphant",
+            "FalseAnswer": [
+              "Girafe",
+              "Hippopotame",
+              "Baleine"
+            ],
+            "Explanation": "Les éléphants ont la plus longue période de gestation de tous les mammifères, durant environ 22 mois de la conception à la naissance."
+          },
+          {
+            "Question": "Lequel de ces animaux n'est pas un grand félin?",
+            "TrueAnswer": "Hyène",
+            "FalseAnswer": [
+              "Tigre",
+              "Lion",
+              "Léopard"
+            ],
+            "Explanation": "Les hyènes, malgré leur apparence féline, sont en fait des membres de la famille Hyaenidae et ne sont pas considérées comme de vrais félins."
+          },
+          {
+            "Question": "Quel est le régime alimentaire principal d'un panda?",
+            "TrueAnswer": "Bambou",
+            "FalseAnswer": [
+              "Baies",
+              "Antilope",
+              "Poisson"
+            ],
+            "Explanation": "Les pandas géants sont principalement herbivores et se nourrissent presque exclusivement de bambou, en consommant jusqu'à 26 à 84 livres par jour."
+          },
+          {
+            "Question": "Lequel de ces oiseaux n'est pas un oiseau calao?",
+            "TrueAnswer": "Toucan",
+            "FalseAnswer": [
+              "Calao rhinocéros",
+              "Grand calao",
+              "Calao terrestre méridional"
+            ],
+            "Explanation": "Les toucans ne sont pas apparentés aux calaos et se distinguent par leurs becs colorés et surdimensionnés ainsi que par leurs habitats principalement tropicaux."
+          },
+          {
+            "Question": "Quel est l'habitat naturel d'un dragon de Komodo?",
+            "TrueAnswer": "Îles indonésiennes",
+            "FalseAnswer": [
+              "Savane africaine",
+              "Forêt tropicale amazonienne",
+              "Outback australien"
+            ],
+            "Explanation": "Les dragons de Komodo sont originaires de plusieurs îles indonésiennes, dont Komodo, Rinca, Flores et Gili Motang, dans l'archipel des Petites îles de la Sonde."
+          },
+          {
+            "Question": "Lequel de ces animaux n'est pas une espèce de crocodile?",
+            "TrueAnswer": "Alligator",
+            "FalseAnswer": [
+              "Crocodile du Nil",
+              "Crocodile marin",
+              "Crocodile américain"
+            ],
+            "Explanation": "Alligators et crocodiles sont des espèces distinctes ; les alligators ont un museau plus large en forme de U par rapport au museau pointu en forme de V des crocodiles."
+          },
+          {
+            "Question": "Quel est le nom scientifique du kangourou roux?",
+            "TrueAnswer": "Macropus rufus",
+            "FalseAnswer": [
+              "Vulpes vulpes",
+              "Ursus arctos",
+              "Equus ferus caballus"
+            ],
+            "Explanation": "Le kangourou roux, la plus grande espèce de kangourou, est connu scientifiquement sous le nom de Macropus rufus et se trouve dans les régions arides et semi-arides de l'Australie."
+          },
+          {
+            "Question": "Quel animal est connu pour sa capacité à changer de couleur?",
+            "TrueAnswer": "Caméléon",
+            "FalseAnswer": [
+              "Paresseux",
+              "Koala",
+              "Lémurien"
+            ],
+            "Explanation": "Les caméléons ont des cellules spécialisées appelées chromatophores qui leur permettent de changer de couleur pour se camoufler, signaler et réguler leur température."
+          },
+          {
+            "Question": "Quel est le terme pour un groupe de kangourous?",
+            "TrueAnswer": "Troupe",
+            "FalseAnswer": [
+              "Meute",
+              "Bande",
+              "Herd"
+            ],
+            "Explanation": "Un groupe de kangourous est appelé une troupe, reflétant leur nature sociale et leur tendance à se rassembler dans la nature."
+          }
+        ]
+      }
+    }
+  ]
+}

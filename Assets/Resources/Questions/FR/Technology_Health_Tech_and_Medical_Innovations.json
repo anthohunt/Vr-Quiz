@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle technologie utilise des ondes sonores pour produire des images des tissus et organes internes du corps?",
+            "TrueAnswer": "Échographie",
+            "FalseAnswer": [
+              "Scanner CT",
+              "IRM",
+              "Radiographie"
+            ],
+            "Explanation": "L'échographie, également connue sous le nom de sonographie, est une technique d'imagerie non invasive utilisée pour examiner les organes et surveiller le développement fœtal."
+          },
+          {
+            "Question": "Quel dispositif portable surveille le rythme cardiaque et les activités physiques?",
+            "TrueAnswer": "Tracker fitness",
+            "FalseAnswer": [
+              "Moniteur de glucose sanguin",
+              "Oxymètre de pouls",
+              "Électrocardiogramme (ECG)"
+            ],
+            "Explanation": "Les trackers fitness, tels que Fitbit et Garmin, sont populaires pour promouvoir la forme physique et surveiller les niveaux d'activité quotidiens."
+          },
+          {
+            "Question": "Quelle technologie est utilisée pour représenter visuellement les aspects physiques et biologiques du cerveau?",
+            "TrueAnswer": "IRM",
+            "FalseAnswer": [
+              "Scintigraphie cérébrale (PET scan)",
+              "Électroencéphalographie (EEG)",
+              "Radiographie"
+            ],
+            "Explanation": "L'imagerie par résonance magnétique (IRM) fournit des images détaillées de la structure du cerveau et peut aider à détecter des anomalies ou des lésions."
+          },
+          {
+            "Question": "Quelle technologie permet l'administration d'insuline sans nécessiter de multiples injections quotidiennes?",
+            "TrueAnswer": "Pompe à insuline",
+            "FalseAnswer": [
+              "Lecteur de glucose sanguin",
+              "Moniteur de glucose en continu",
+              "Stylo à insuline"
+            ],
+            "Explanation": "Les pompes à insuline délivrent de l'insuline de manière continue et contrôlée, réduisant le besoin d'injections fréquentes et améliorant la gestion de la glycémie."
+          },
+          {
+            "Question": "Quelle technologie implique l'intégration de capteurs dans les médicaments pour suivre leur ingestion?",
+            "TrueAnswer": "Pilule numérique",
+            "FalseAnswer": [
+              "Nanotechnologie",
+              "Microfluidique",
+              "Impression 3D"
+            ],
+            "Explanation": "Les pilules numériques contiennent des capteurs ingérables qui communiquent avec des appareils externes, fournissant des informations sur l'adhérence aux médicaments et leurs effets."
+          },
+          {
+            "Question": "Quel type de technologie aide les personnes souffrant de déficience visuelle en convertissant les informations visuelles en signaux auditifs?",
+            "TrueAnswer": "Brainport",
+            "FalseAnswer": [
+              "Argus II",
+              "OrCam MyEye",
+              "eSight"
+            ],
+            "Explanation": "Le dispositif Brainport utilise une petite caméra pour convertir les données visuelles en signaux électriques, qui sont ensuite envoyés à la langue pour être interprétés comme des sensations tactiles."
+          },
+          {
+            "Question": "Quelle technologie utilise la réalité virtuelle pour aider à soulager l'anxiété et la douleur lors de procédures médicales?",
+            "TrueAnswer": "Thérapie par réalité virtuelle (RV)",
+            "FalseAnswer": [
+              "Télémédecine",
+              "Chirurgie robotique",
+              "Télémédecine"
+            ],
+            "Explanation": "La thérapie par réalité virtuelle plonge les patients dans des environnements virtuels pour les distraire de la douleur, réduire l'anxiété et améliorer le bien-être global lors des traitements médicaux."
+          },
+          {
+            "Question": "Quelle technologie aide à la formation des professionnels de la santé grâce à des simulations de procédures chirurgicales?",
+            "TrueAnswer": "Simulation chirurgicale",
+            "FalseAnswer": [
+              "Télémédecine",
+              "Chirurgie robotique",
+              "Dossier de santé électronique (DSE)"
+            ],
+            "Explanation": "Les plateformes de simulation chirurgicale offrent des expériences d'entraînement réalistes aux chirurgiens pour pratiquer différentes procédures et perfectionner leurs compétences dans un environnement contrôlé."
+          },
+          {
+            "Question": "Quelle technologie combine les informations génétiques avec les données des patients pour personnaliser les traitements médicaux?",
+            "TrueAnswer": "Médecine de précision",
+            "FalseAnswer": [
+              "Thérapie génique",
+              "Thérapie cellulaire",
+              "Immunothérapie"
+            ],
+            "Explanation": "La médecine de précision utilise les données génétiques et cliniques pour adapter les interventions médicales, améliorant les résultats du traitement et réduisant les effets secondaires potentiels."
+          },
+          {
+            "Question": "Quelle technologie utilise des algorithmes d'IA pour analyser les images médicales et aider à la prise de décision diagnostique?",
+            "TrueAnswer": "IA en imagerie médicale",
+            "FalseAnswer": [
+              "Télépathologie",
+              "Télépsychiatrie",
+              "Téléophtalmologie"
+            ],
+            "Explanation": "L'IA en imagerie médicale améliore la précision diagnostique en interprétant rapidement les scans, en identifiant les anomalies et en aidant les radiologues à détecter les maladies aux stades précoces."
+          },
+          {
+            "Question": "Quelle technologie permet la surveillance à distance des signes vitaux et des données de santé des patients?",
+            "TrueAnswer": "Télésurveillance des patients",
+            "FalseAnswer": [
+              "Chirurgie robotique",
+              "Télémédecine",
+              "Télémédecine"
+            ],
+            "Explanation": "Les systèmes de télésurveillance des patients permettent aux prestataires de soins de santé de suivre les indicateurs de santé des patients à distance, facilitant les interventions proactives et les soins personnalisés."
+          },
+          {
+            "Question": "Quelle technologie délivre une stimulation électrique à la moelle épinière pour soulager la douleur chronique?",
+            "TrueAnswer": "Stimulation de la moelle épinière",
+            "FalseAnswer": [
+              "Stimulation cérébrale profonde",
+              "Stimulation magnétique transcrânienne",
+              "Électroconvulsivothérapie"
+            ],
+            "Explanation": "La stimulation de la moelle épinière implique l'implantation de dispositifs qui délivrent des signaux électriques aux nerfs de la moelle épinière, gérant efficacement la douleur chronique et améliorant la qualité de vie des patients."
+          },
+          {
+            "Question": "Quelle technologie utilise des particules nanométriques pour une administration ciblée de médicaments à des zones spécifiques du corps?",
+            "TrueAnswer": "Nanomédecine",
+            "FalseAnswer": [
+              "Bio-impression",
+              "Ingénierie tissulaire",
+              "Bio-impression 3D"
+            ],
+            "Explanation": "La nanomédecine exploite les nanoparticules pour transporter de manière précise des agents thérapeutiques, permettant un traitement localisé des maladies et minimisant les effets indésirables sur les tissus sains."
+          },
+          {
+            "Question": "Quelle technologie implique l'utilisation d'exosquelettes robotiques pour aider les personnes souffrant de limitations de mobilité?",
+            "TrueAnswer": "Technologie des exosquelettes",
+            "FalseAnswer": [
+              "Télémédecine",
+              "Chirurgie robotique",
+              "Technologie haptique"
+            ],
+            "Explanation": "La technologie des exosquelettes offre des dispositifs robotiques portables qui soutiennent et améliorent la mobilité des personnes atteintes de troubles neurologiques ou musculo-squelettiques."
+          },
+          {
+            "Question": "Quelle technologie utilise des organes artificiels ou des dispositifs pour remplacer la fonction des organes biologiques défaillants?",
+            "TrueAnswer": "Dispositifs médicaux implantables",
+            "FalseAnswer": [
+              "Bio-impression",
+              "Organoïdes",
+              "Ingénierie tissulaire"
+            ],
+            "Explanation": "Les dispositifs médicaux implantables, tels que les stimulateurs cardiaques et les articulations artificielles, sont conçus pour remplacer ou soutenir la fonction des organes endommagés ou déficients."
+          },
+          {
+            "Question": "Quelle technologie implique la stimulation non invasive du cerveau pour moduler l'activité neuronale et traiter les troubles neurologiques?",
+            "TrueAnswer": "Stimulation magnétique transcrânienne",
+            "FalseAnswer": [
+              "Optogénétique",
+              "Stimulation cérébrale profonde",
+              "Neuromodulation"
+            ],
+            "Explanation": "La stimulation magnétique transcrânienne applique des champs magnétiques pour induire des courants électriques dans des régions spécifiques du cerveau, offrant un potentiel thérapeutique pour diverses conditions neurologiques et psychiatriques."
+          },
+          {
+            "Question": "Quelle technologie offre une analyse et une interprétation en temps réel des données de surveillance continue de la glycémie pour la gestion du diabète?",
+            "TrueAnswer": "Système de pancréas artificiel",
+            "FalseAnswer": [
+              "Stylo à insuline",
+              "Lecteur de glucose sanguin",
+              "Moniteur de glucose en continu (CGM)"
+            ],
+            "Explanation": "Le système de pancréas artificiel automatise la délivrance d'insuline en fonction des données du CGM, imitant la fonction d'un pancréas sain et améliorant le contrôle glycémique dans la gestion du diabète."
+          },
+          {
+            "Question": "Quelle technologie implique l'édition génomique CRISPR pour traiter les troubles génétiques et modifier les séquences d'ADN?",
+            "TrueAnswer": "Édition du génome",
+            "FalseAnswer": [
+              "Thérapie cellulaire",
+              "Interférence ARN (ARNi)",
+              "Thérapie génique"
+            ],
+            "Explanation": "Les techniques d'édition du génome, y compris CRISPR-Cas9, permettent la modification précise du matériel génétique, offrant un énorme potentiel pour traiter les maladies héréditaires et faire progresser les thérapies géniques."
+          },
+          {
+            "Question": "Quelle technologie révolutionne la transplantation d'organes en créant des tissus et organes sur mesure?",
+            "TrueAnswer": "Bio-impression",
+            "FalseAnswer": [
+              "Thérapie de cellules souches",
+              "Organoïdes",
+              "Nanomédecine"
+            ],
+            "Explanation": "La bio-impression permet la fabrication couche par couche de tissus fonctionnels et d'organes, ouvrant la voie à des remplacements d'organes personnalisés et à des applications de médecine régénérative."
+          },
+          {
+            "Question": "Quelle technologie intègre des composants électroniques dans le corps humain pour restaurer ou améliorer les fonctions physiologiques?",
+            "TrueAnswer": "Implants bioniques",
+            "FalseAnswer": [
+              "Implants cochléaires",
+              "Prothèses",
+              "Orthèses"
+            ],
+            "Explanation": "Les implants bioniques, tels que les implants rétiniens et les membres bioniques, visent à restaurer la perception sensorielle et les capacités motrices, offrant de nouvelles perspectives aux personnes en situation de handicap."
+          }
+        ]
+      }
+    }
+  ]
+}

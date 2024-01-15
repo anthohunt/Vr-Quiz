@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Dans Grey's Anatomy, quelle est la spécialité du Dr Meredith Grey?",
+            "TrueAnswer": "Chirurgie générale",
+            "FalseAnswer": [
+              "Neurochirurgie",
+              "Cardiologie",
+              "Oncologie"
+            ],
+            "Explanation": "Le Dr Meredith Grey est chirurgienne générale au Grey Sloan Memorial Hospital dans la série télévisée Grey's Anatomy."
+          },
+          {
+            "Question": "Quel drame médical se déroule dans un hôpital universitaire à Boston?",
+            "TrueAnswer": "St. Elsewhere",
+            "FalseAnswer": [
+              "ER",
+              "Chicago Hope",
+              "House"
+            ],
+            "Explanation": "St. Elsewhere se déroule dans le fictif St. Eligius Hospital, un hôpital universitaire à Boston."
+          },
+          {
+            "Question": "Quel est le nom de l'hôpital dans la série Scrubs?",
+            "TrueAnswer": "Sacred Heart Hospital",
+            "FalseAnswer": [
+              "Grey Sloan Memorial Hospital",
+              "Seattle Grace Hospital",
+              "New Sacred"
+            ],
+            "Explanation": "Sacred Heart Hospital est le principal lieu de la série comique-dramatique Scrubs, où les personnages travaillent et interagissent."
+          },
+          {
+            "Question": "Quelle émission met en vedette le Dr. Gregory House comme personnage principal?",
+            "TrueAnswer": "House",
+            "FalseAnswer": [
+              "Grey's Anatomy",
+              "ER",
+              "Chicago Hope"
+            ],
+            "Explanation": "Le Dr. Gregory House, un diagnosticien non conventionnel, est le personnage central de la série médicale House."
+          },
+          {
+            "Question": "Quel drame médical est inspiré des débuts de carrière du Dr. Phil McGraw?",
+            "TrueAnswer": "The Bull",
+            "FalseAnswer": [
+              "Private Practice",
+              "Northern Exposure",
+              "Chicago Med"
+            ],
+            "Explanation": "The Bull est librement inspiré des débuts de carrière du Dr. Phil McGraw, fondateur de l'une des entreprises de conseil en procès les plus prolifiques."
+          },
+          {
+            "Question": "Quelle profession médicale le Dr. John Carter poursuit-il dans ER?",
+            "TrueAnswer": "Médecine d'urgence",
+            "FalseAnswer": [
+              "Chirurgie plastique",
+              "Obstétrique",
+              "Psychiatrie"
+            ],
+            "Explanation": "Dans la série ER, le Dr. John Carter poursuit initialement une carrière en chirurgie mais finit par se tourner vers une carrière en médecine d'urgence."
+          },
+          {
+            "Question": "Qui incarne le rôle principal du Dr. Temperance Brennan dans Bones?",
+            "TrueAnswer": "Emily Deschanel",
+            "FalseAnswer": [
+              "Julianna Margulies",
+              "Zooey Deschanel",
+              "Maggie Q"
+            ],
+            "Explanation": "Emily Deschanel incarne le rôle du Dr. Temperance Brennan, une anthropologue médico-légale, dans la série télévisée Bones."
+          },
+          {
+            "Question": "Quelle série médicale est connue pour son utilisation distinctive de narrations par le personnage principal?",
+            "TrueAnswer": "House",
+            "FalseAnswer": [
+              "Grey's Anatomy",
+              "Scrubs",
+              "ER"
+            ],
+            "Explanation": "House est connue pour son utilisation distinctive de narrations par le Dr Gregory House, reflétant ses pensées et observations."
+          },
+          {
+            "Question": "Quelle série met en scène un groupe d'internes en chirurgie à l'hôpital Seattle Grace?",
+            "TrueAnswer": "Grey's Anatomy",
+            "FalseAnswer": [
+              "ER",
+              "The Good Doctor",
+              "Code Black"
+            ],
+            "Explanation": "Grey's Anatomy suit la vie personnelle et professionnelle d'internes en chirurgie et de leurs superviseurs à l'hôpital Seattle Grace."
+          },
+          {
+            "Question": "Dans quel drame médical le Dr. Hank Lawson travaille-t-il en tant que médecin concierge dans les Hamptons?",
+            "TrueAnswer": "Royal Pains",
+            "FalseAnswer": [
+              "Nip/Tuck",
+              "The Night Shift",
+              "Chicago Med"
+            ],
+            "Explanation": "Le Dr. Hank Lawson est un médecin concierge s'occupant de clients fortunés dans les Hamptons dans la série comique-dramatique médicale Royal Pains."
+          },
+          {
+            "Question": "Quelle série met en scène les luttes quotidiennes du personnel de l'hôpital All Saints à Chicago?",
+            "TrueAnswer": "Chicago Hope",
+            "FalseAnswer": [
+              "St. Elsewhere",
+              "ER",
+              "House"
+            ],
+            "Explanation": "Chicago Hope se concentre sur les luttes personnelles et professionnelles du personnel du fictif All Saints' Hospital à Chicago."
+          },
+          {
+            "Question": "Quel est le nom de l'hôpital dans la série The Night Shift?",
+            "TrueAnswer": "San Antonio Memorial Hospital",
+            "FalseAnswer": [
+              "Mercy West Hospital",
+              "New Amsterdam Medical Center",
+              "Hilltowne Hospital"
+            ],
+            "Explanation": "The Night Shift se déroule à l'hôpital San Antonio Memorial, où un groupe de médecins travaille de nuit aux urgences."
+          },
+          {
+            "Question": "Quelle série met en scène la vie des secouristes et pompiers de Chicago?",
+            "TrueAnswer": "Chicago Fire",
+            "FalseAnswer": [
+              "Station 19",
+              "Third Watch",
+              "Rescue Me"
+            ],
+            "Explanation": "Chicago Fire suit les pompiers et secouristes de la caserne 51, affrontant les défis et dangers de leur profession à Chicago."
+          },
+          {
+            "Question": "Quelle émission se concentre sur les défis auxquels sont confrontés les chirurgiens dans un hôpital universitaire fictif à Seattle?",
+            "TrueAnswer": "Grey's Anatomy",
+            "FalseAnswer": [
+              "Code Black",
+              "Nurse Jackie",
+              "The Resident"
+            ],
+            "Explanation": "Grey's Anatomy se concentre sur les défis personnels et professionnels auxquels est confrontée l'équipe de chirurgie au fictif Seattle Grace Hospital."
+          },
+          {
+            "Question": "Dans quel drame médical le Dr Martin Ellingham travaille-t-il en tant que médecin généraliste dans un petit village?",
+            "TrueAnswer": "Doc Martin",
+            "FalseAnswer": [
+              "Private Practice",
+              "Scrubs",
+              "Chicago Med"
+            ],
+            "Explanation": "Le Dr Martin Ellingham est un chirurgien devenu médecin généraliste qui s'occupe des habitants excentriques du village de Portwenn dans la série Doc Martin."
+          },
+          {
+            "Question": "Quel drame médical se déroule dans le service des urgences du Gaffney Chicago Medical Center?",
+            "TrueAnswer": "Chicago Med",
+            "FalseAnswer": [
+              "The Night Shift",
+              "Nip/Tuck",
+              "Royal Pains"
+            ],
+            "Explanation": "Chicago Med se déroule au service des urgences du Gaffney Chicago Medical Center, dépeignant les défis auxquels sont confrontés les professionnels de la santé."
+          },
+          {
+            "Question": "Quelle spécialité le Dr Allison Cameron poursuit-elle dans House?",
+            "TrueAnswer": "Immunologie",
+            "FalseAnswer": [
+              "Neurologie",
+              "Oncologie",
+              "Cardiologie"
+            ],
+            "Explanation": "Le Dr Allison Cameron est immunologiste et rejoint initialement l'équipe de diagnostic du Dr Gregory House dans la série médicale House."
+          },
+          {
+            "Question": "Quelle série suit la vie professionnelle et personnelle des secouristes du NYPD?",
+            "TrueAnswer": "Third Watch",
+            "FalseAnswer": [
+              "Grey's Anatomy",
+              "Chicago Fire",
+              "Rescue Me"
+            ],
+            "Explanation": "Third Watch explore les vies professionnelles et personnelles entremêlées des secouristes, officiers de police et pompiers du fictif 55th Precinct de New York."
+          },
+          {
+            "Question": "Dans quelle série le Dr Michaela Quinn travaille-t-elle en tant que médecin dans une ville du Colorado au XIXe siècle?",
+            "TrueAnswer": "Dr. Quinn, Medicine Woman",
+            "FalseAnswer": [
+              "Chicago Hope",
+              "ER",
+              "The Knick"
+            ],
+            "Explanation": "Dr. Quinn, Medicine Woman décrit la vie et la pratique médicale du Dr Michaela Quinn dans la ville du XIXe siècle de Colorado Springs."
+          },
+          {
+            "Question": "Quel est le nom de l'hôpital où le Dr John Thackery travaille dans The Knick?",
+            "TrueAnswer": "Knickerbocker Hospital",
+            "FalseAnswer": [
+              "Seattle Grace Hospital",
+              "Sacred Heart Hospital",
+              "Grey Sloan Memorial Hospital"
+            ],
+            "Explanation": "Le Dr John Thackery est le chirurgien en chef du Knickerbocker Hospital au début des années 1900, tel que décrit dans la série The Knick."
+          }
+        ]
+      }
+    }
+  ]
+}

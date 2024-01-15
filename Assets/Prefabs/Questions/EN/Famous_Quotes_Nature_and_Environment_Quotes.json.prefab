@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2582276503739123993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 243236441282933730}
+  - component: {fileID: 4353398349903731630}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Nature_and_Environment_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &243236441282933730
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582276503739123993}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4353398349903731630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582276503739123993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'In every walk with nature, one receives far more than
+        he seeks'?
+      TrueAnswer: John Muir
+      FalseAnswer:
+      - Ralph Waldo Emerson
+      - Henry David Thoreau
+      - Annie Dillard
+      Explanation: John Muir, a Scottish-American naturalist and environmentalist,
+        is known as the 'Father of the National Parks' and co-founded the Sierra
+        Club.
+    - Question: Who wrote, 'Look deep into nature, and then you will understand everything
+        better'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Plato
+      - Charles Darwin
+      Explanation: This insightful quote is attributed to Albert Einstein, the renowned
+        physicist and Nobel laureate known for his theory of relativity.
+    - Question: 'Who is best known for saying, ''The Earth does not belong to us:
+        we belong to the Earth''?'
+      TrueAnswer: Chief Seattle
+      FalseAnswer:
+      - Greta Thunberg
+      - Jane Goodall
+      - David Attenborough
+      Explanation: Chief Seattle, a prominent leader of the Suquamish and Duwamish
+        Native American tribes, expressed these words in a famous 1854 speech.
+    - Question: Who famously stated, 'The clearest way into the Universe is through
+        a forest wilderness'?
+      TrueAnswer: John Muir
+      FalseAnswer:
+      - Aldo Leopold
+      - Rachel Carson
+      - David Attenborough
+      Explanation: These poetic words are from John Muir, reflecting his passion
+        for the natural world and his advocacy for wilderness preservation.
+    - Question: Who declared, 'In wilderness is the preservation of the world'?
+      TrueAnswer: Henry David Thoreau
+      FalseAnswer:
+      - Aldo Leopold
+      - Ansel Adams
+      - Aldous Huxley
+      Explanation: Henry David Thoreau, an influential transcendentalist author and
+        philosopher, emphasized the intrinsic value of untouched natural landscapes.
+    - Question: Who said, 'The poetry of the earth is never dead'?
+      TrueAnswer: John Keats
+      FalseAnswer:
+      - William Wordsworth
+      - Percy Bysshe Shelley
+      - Lord Byron
+      Explanation: This poignant line is from the Romantic poet John Keats, expressing
+        the enduring beauty and inspiration found in nature.
+    - Question: Who stated, 'An understanding of the natural world and what's in
+        it is a source of not only a great curiosity but great fulfillment'?
+      TrueAnswer: David Attenborough
+      FalseAnswer:
+      - Jane Goodall
+      - Carl Sagan
+      - Rachel Carson
+      Explanation: David Attenborough, a beloved naturalist and broadcaster, has
+        played a crucial role in educating people about the wonders of the natural
+        world.
+    - Question: Who said, 'What we are doing to the forests of the world is but a
+        mirror reflection of what we are doing to ourselves and to one another'?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Martin Luther King Jr.
+      - Nelson Mandela
+      - Dalai Lama
+      Explanation: Mahatma Gandhi, the iconic leader of India's independence movement,
+        highlighted the interconnectedness of ecological and human well-being.
+    - Question: Who is known for the quote, 'The mountains are calling and I must
+        go'?
+      TrueAnswer: John Muir
+      FalseAnswer:
+      - Reinhold Messner
+      - Edmund Hillary
+      - Tenzing Norgay
+      Explanation: This famous line is synonymous with John Muir's love for the mountains
+        and his dedication to exploring and protecting these majestic landscapes.
+    - Question: Who wrote, 'To forget how to dig the earth and to tend the soil is
+        to forget ourselves'?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Wendell Berry
+      - Barbara Kingsolver
+      - Aldo Leopold
+      Explanation: This profound statement reflects Mahatma Gandhi's emphasis on
+        the vital connection between humanity and the earth's sustenance through
+        agriculture.
+    - Question: Who said, 'Nature does not hurry, yet everything is accomplished'?
+      TrueAnswer: Lao Tzu
+      FalseAnswer:
+      - Confucius
+      - Buddha
+      - Sun Tzu
+      Explanation: Lao Tzu, the ancient Chinese philosopher and founder of Taoism,
+        conveyed the harmonious and effortless nature of natural processes.
+    - Question: Who is known for the quote, 'The earth has music for those who listen'?
+      TrueAnswer: George Santayana
+      FalseAnswer:
+      - Ralph Waldo Emerson
+      - Henry David Thoreau
+      - William Wordsworth
+      Explanation: George Santayana, a Spanish-American philosopher, recognized the
+        enchanting and restorative power of nature's intrinsic melodies.
+    - Question: Who declared, 'Time spent amongst trees is never time wasted'?
+      TrueAnswer: Katrina Mayer
+      FalseAnswer:
+      - Emily Dickinson
+      - Mary Oliver
+      - Maya Angelou
+      Explanation: Katrina Mayer, a contemporary author and inspirational speaker,
+        extols the rejuvenating and grounding influence of spending time in woodland
+        environments.
+    - Question: Who is best known for saying, 'Conservation is a state of harmony
+        between men and land'?
+      TrueAnswer: Aldo Leopold
+      FalseAnswer:
+      - John Muir
+      - Rachel Carson
+      - David Suzuki
+      Explanation: Aldo Leopold, a pioneering ecologist and conservationist, emphasized
+        the importance of fostering sustainable relationships between humanity and
+        the natural world.
+    - Question: Who stated, 'In the end, we will conserve only what we love'?
+      TrueAnswer: Baba Dioum
+      FalseAnswer:
+      - David Attenborough
+      - Jane Goodall
+      - Sylvia Earle
+      Explanation: Baba Dioum, a Senegalese forestry engineer and environmentalist,
+        eloquently encapsulated the intrinsic link between love and the conservation
+        of nature.
+    - Question: Who wrote, 'The environment is where we all meet; where we all have
+        a mutual interest; it is the one thing all of us share'?
+      TrueAnswer: Lady Bird Johnson
+      FalseAnswer:
+      - Michelle Obama
+      - Eleanor Roosevelt
+      - Hillary Clinton
+      Explanation: Lady Bird Johnson, the First Lady of the United States from 1963
+        to 1969, was a fervent advocate for environmental beautification and conservation
+        efforts.
+    - Question: Who is known for the quote, 'One touch of nature makes the whole
+        world kin'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - John Keats
+      - William Wordsworth
+      - Emily Dickinson
+      Explanation: Famed playwright William Shakespeare expressed the unifying and
+        universal influence of nature in fostering a sense of kinship among humanity.
+    - Question: Who said, 'We do not inherit the earth from our ancestors; we borrow
+        it from our children'?
+      TrueAnswer: Native American Proverb
+      FalseAnswer:
+      - African Proverb
+      - Chinese Proverb
+      - European Proverb
+      Explanation: This profound wisdom reflects the deeply-rooted environmental
+        stewardship inherent in Indigenous cultures, emphasizing responsibility for
+        future generations.
+    - Question: Who declared, 'Nature is not a place to visit. It is home'?
+      TrueAnswer: Gary Snyder
+      FalseAnswer:
+      - Jack Kerouac
+      - Allen Ginsberg
+      - Lawrence Ferlinghetti
+      Explanation: Gary Snyder, a Pulitzer Prize-winning poet and influential environmental
+        writer, emphasized the intrinsic belonging and interconnectedness with the
+        natural world.
+    - Question: Who stated, 'The good man is the friend of all living things'?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Albert Schweitzer
+      - Leo Tolstoy
+      - Mother Teresa
+      Explanation: This sentiment aligns with Mahatma Gandhi's pervasive advocacy
+        for nonviolence and compassion toward all beings, including animals and the
+        environment.

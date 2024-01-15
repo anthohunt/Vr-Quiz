@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Combien de façons pouvez-vous arranger les lettres du mot 'MATHEMATICS'?",
+            "TrueAnswer": "3628800",
+            "FalseAnswer": [
+              "720",
+              "40320",
+              "40321"
+            ],
+            "Explanation": "Le mot 'MATHEMATICS' a 11 lettres, avec 2 M, 2 A, 2 T et 2 C, le nombre total d'arrangements serait 11!/ (2!*2!*2!*2!) = 3628800."
+          },
+          {
+            "Question": "De combien de façons une main de 5 cartes peut-elle être distribuée à partir d'un jeu de 52 cartes?",
+            "TrueAnswer": "2598960",
+            "FalseAnswer": [
+              "3125",
+              "52",
+              "120"
+            ],
+            "Explanation": "Le nombre de façons peut être calculé en utilisant des combinaisons, soit 52 choisir 5, ce qui équivaut à 2598960."
+          },
+          {
+            "Question": "Combien de façons différentes pouvez-vous ordonner 8 livres sur une étagère?",
+            "TrueAnswer": "40320",
+            "FalseAnswer": [
+              "56",
+              "64",
+              "720"
+            ],
+            "Explanation": "Le nombre de permutations de 8 livres peut être calculé comme 8! = 40320."
+          },
+          {
+            "Question": "Quel est le nombre de façons de choisir un comité de 4 personnes parmi 10 candidats?",
+            "TrueAnswer": "210",
+            "FalseAnswer": [
+              "35",
+              "45",
+              "120"
+            ],
+            "Explanation": "Le nombre de combinaisons de 10 candidats pris 4 à la fois est donné par 10 choisir 4 = 210."
+          },
+          {
+            "Question": "Combien de façons différentes pouvez-vous placer 5 clés différentes sur un porte-clés?",
+            "TrueAnswer": "120",
+            "FalseAnswer": [
+              "35",
+              "20",
+              "60"
+            ],
+            "Explanation": "Les façons de disposer 5 clés différentes peuvent être trouvées en calculant les permutations de 5 objets, qui est 5! = 120."
+          },
+          {
+            "Question": "Quel est le nombre de façons de choisir un sous-comité de 3 personnes parmi un comité de 7?",
+            "TrueAnswer": "35",
+            "FalseAnswer": [
+              "21",
+              "45",
+              "56"
+            ],
+            "Explanation": "Le nombre de combinaisons de 7 personnes prises 3 à la fois peut être calculé comme 7 choisir 3 = 35."
+          },
+          {
+            "Question": "Combien de façons différentes une douzaine de personnes peut-elle se tenir en ligne?",
+            "TrueAnswer": "479001600",
+            "FalseAnswer": [
+              "132",
+              "144",
+              "1440"
+            ],
+            "Explanation": "Le nombre de permutations de 12 personnes peut être calculé comme 12! = 479001600."
+          },
+          {
+            "Question": "De combien de façons différentes 6 peintures de couleurs différentes peuvent-elles être disposées sur une palette?",
+            "TrueAnswer": "720",
+            "FalseAnswer": [
+              "120",
+              "210",
+              "560"
+            ],
+            "Explanation": "Les façons de disposer 6 peintures de couleurs différentes peuvent être trouvées en calculant les permutations de 6 objets, soit 6! = 720."
+          },
+          {
+            "Question": "Quel est le nombre de façons d'arranger les lettres du mot 'COMBINATORICS'?",
+            "TrueAnswer": "3326400",
+            "FalseAnswer": [
+              "5040",
+              "720",
+              "362880"
+            ],
+            "Explanation": "Le mot 'COMBINATORICS' a 13 lettres, avec 2 C et 2 I, le nombre total d'arrangements serait 13!/(2!*2!) = 3326400."
+          },
+          {
+            "Question": "Combien de façons différentes pouvez-vous distribuer 15 bonbons à 5 enfants?",
+            "TrueAnswer": "3003",
+            "FalseAnswer": [
+              "45",
+              "120",
+              "252"
+            ],
+            "Explanation": "Le nombre de façons de distribuer 15 bonbons à 5 enfants est donné par 15+5-1 choisir 5-1, ce qui équivaut à 3003."
+          },
+          {
+            "Question": "De combien de façons un code à 4 lettres peut-il être formé en utilisant les lettres A, B, C et D, sans répétition?",
+            "TrueAnswer": "24",
+            "FalseAnswer": [
+              "12",
+              "36",
+              "6"
+            ],
+            "Explanation": "Le nombre de permutations peut être calculé comme 4! = 24, car il y a 4 options pour la première position, 3 pour la deuxième, 2 pour la troisième et 1 pour la dernière."
+          },
+          {
+            "Question": "Quel est le nombre de façons d'arranger les nombres 1 à 9 dans une grille 3x3 sans répétition dans chaque ligne ou colonne?",
+            "TrueAnswer": "362880",
+            "FalseAnswer": [
+              "720",
+              "40320",
+              "40321"
+            ],
+            "Explanation": "Le nombre de façons peut être calculé en utilisant le principe des permutations et est donné par 9!/(3!)^3 = 362880."
+          },
+          {
+            "Question": "Combien de dispositions différentes sont possibles s'il y a 7 personnes et 3 chaises?",
+            "TrueAnswer": "210",
+            "FalseAnswer": [
+              "45",
+              "56",
+              "35"
+            ],
+            "Explanation": "Le nombre de permutations de 7 personnes sur 3 chaises peut être calculé comme P(7,3) = 7!/(7-3)! = 210."
+          },
+          {
+            "Question": "Quel est le nombre de façons d'arranger les lettres du mot 'PERMUTATION'?",
+            "TrueAnswer": "3628800",
+            "FalseAnswer": [
+              "720",
+              "40320",
+              "5040"
+            ],
+            "Explanation": "Le mot 'PERMUTATION' a 11 lettres, avec 3 E, 2 T, 2 O et 2 N, le nombre total d'arrangements serait 11!/(3!*2!*2!*2!) = 3628800."
+          },
+          {
+            "Question": "Combien d'agencements distincts peuvent être formés en utilisant les lettres du mot 'ABRACADABRA'?",
+            "TrueAnswer": "83160",
+            "FalseAnswer": [
+              "128",
+              "5040",
+              "6561"
+            ],
+            "Explanation": "Le mot 'ABRACADABRA' a 11 lettres, avec 5 A et 2 B, le nombre total d'arrangements serait 11!/(5!*2!) = 83160."
+          },
+          {
+            "Question": "Quel est le nombre de façons de sélectionner 3 garnitures parmi 10 pour une pizza?",
+            "TrueAnswer": "120",
+            "FalseAnswer": [
+              "45",
+              "210",
+              "56"
+            ],
+            "Explanation": "Le nombre de combinaisons de 10 garnitures prises 3 à la fois est donné par 10 choisir 3 = 120."
+          },
+          {
+            "Question": "Combien de façons différentes pouvez-vous agencer 10 perles de couleurs différentes sur un bracelet?",
+            "TrueAnswer": "3628800",
+            "FalseAnswer": [
+              "210",
+              "120",
+              "40320"
+            ],
+            "Explanation": "Les façons d'agencer 10 perles de couleurs différentes sur un bracelet peuvent être trouvées en calculant les permutations de 10 objets, soit 10! = 3628800."
+          },
+          {
+            "Question": "Quel est le nombre de façons de former une ligne de 7 personnes avec 3 femmes et 4 hommes?",
+            "TrueAnswer": "35",
+            "FalseAnswer": [
+              "21",
+              "45",
+              "56"
+            ],
+            "Explanation": "Le nombre de combinaisons de 7 personnes avec 3 femmes et 4 hommes peut être calculé comme 7 choisir 3 = 35."
+          },
+          {
+            "Question": "Combien de façons différentes peuvent être arrangées 9 voitures différentes dans un parking?",
+            "TrueAnswer": "362880",
+            "FalseAnswer": [
+              "120",
+              "5040",
+              "40320"
+            ],
+            "Explanation": "Le nombre de permutations de 9 voitures peut être calculé comme 9! = 362880."
+          },
+          {
+            "Question": "Quel est le nombre de façons d'arranger les couleurs rouge, bleue et verte dans une rangée?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "3",
+              "9",
+              "2"
+            ],
+            "Explanation": "Le nombre de façons d'arranger trois couleurs dans une rangée peut être trouvé en calculant les permutations de 3 objets, soit 3! = 6."
+          }
+        ]
+      }
+    }
+  ]
+}

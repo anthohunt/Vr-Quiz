@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the smallest prime number?",
+          "TrueAnswer": "2",
+          "FalseAnswer": [
+            "1",
+            "3",
+            "4"
+          ],
+          "Explanation": "The smallest prime number is 2, as it is only divisible by 1 and itself."
+        },
+        {
+          "Question": "What is the sum of the first four prime numbers?",
+          "TrueAnswer": "17",
+          "FalseAnswer": [
+            "10",
+            "15",
+            "20"
+          ],
+          "Explanation": "The first four prime numbers are 2, 3, 5, and 7. Their sum is 17."
+        },
+        {
+          "Question": "What is the largest prime number less than 10?",
+          "TrueAnswer": "7",
+          "FalseAnswer": [
+            "8",
+            "9",
+            "10"
+          ],
+          "Explanation": "The largest prime number less than 10 is 7, as it is not divisible by any number other than 1 and itself."
+        },
+        {
+          "Question": "What is the product of any prime number and 1?",
+          "TrueAnswer": "The prime number itself",
+          "FalseAnswer": [
+            "0",
+            "1",
+            "2"
+          ],
+          "Explanation": "The product of any prime number and 1 is the prime number itself, as multiplying by 1 does not change the value."
+        },
+        {
+          "Question": "What is the only even prime number?",
+          "TrueAnswer": "2",
+          "FalseAnswer": [
+            "3",
+            "4",
+            "6"
+          ],
+          "Explanation": "The only even prime number is 2, as all other even numbers are divisible by 2 and therefore not prime."
+        },
+        {
+          "Question": "What is the sum of the first five prime numbers?",
+          "TrueAnswer": "28",
+          "FalseAnswer": [
+            "15",
+            "20",
+            "25"
+          ],
+          "Explanation": "The first five prime numbers are 2, 3, 5, 7, and 11. Their sum is 28."
+        },
+        {
+          "Question": "What is the largest prime number less than 20?",
+          "TrueAnswer": "19",
+          "FalseAnswer": [
+            "18",
+            "20",
+            "21"
+          ],
+          "Explanation": "The largest prime number less than 20 is 19, as it is not divisible by any number other than 1 and itself."
+        },
+        {
+          "Question": "What is the product of any prime number and 0?",
+          "TrueAnswer": "0",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "The prime number itself"
+          ],
+          "Explanation": "The product of any prime number and 0 is 0, as multiplying by 0 always results in 0."
+        },
+        {
+          "Question": "What is the sum of the first six prime numbers?",
+          "TrueAnswer": "41",
+          "FalseAnswer": [
+            "20",
+            "30",
+            "35"
+          ],
+          "Explanation": "The first six prime numbers are 2, 3, 5, 7, 11, and 13. Their sum is 41."
+        },
+        {
+          "Question": "What is the largest prime number less than 30?",
+          "TrueAnswer": "29",
+          "FalseAnswer": [
+            "28",
+            "30",
+            "31"
+          ],
+          "Explanation": "The largest prime number less than 30 is 29, as it is not divisible by any number other than 1 and itself."
+        },
+        {
+          "Question": "What is the product of any prime number and itself?",
+          "TrueAnswer": "A composite number",
+          "FalseAnswer": [
+            "0",
+            "1",
+            "The prime number itself"
+          ],
+          "Explanation": "The product of any prime number and itself is a composite number, as it can be factored into smaller numbers."
+        },
+        {
+          "Question": "What is the sum of the first seven prime numbers?",
+          "TrueAnswer": "58",
+          "FalseAnswer": [
+            "30",
+            "40",
+            "50"
+          ],
+          "Explanation": "The first seven prime numbers are 2, 3, 5, 7, 11, 13, and 17. Their sum is 58."
+        },
+        {
+          "Question": "What is the largest prime number less than 40?",
+          "TrueAnswer": "37",
+          "FalseAnswer": [
+            "38",
+            "40",
+            "41"
+          ],
+          "Explanation": "The largest prime number less than 40 is 37, as it is not divisible by any number other than 1 and itself."
+        },
+        {
+          "Question": "What is the product of any prime number and 1?",
+          "TrueAnswer": "The prime number itself",
+          "FalseAnswer": [
+            "0",
+            "1",
+            "2"
+          ],
+          "Explanation": "The product of any prime number and 1 is the prime number itself, as multiplying by 1 does not change the value."
+        },
+        {
+          "Question": "What is the sum of the first eight prime numbers?",
+          "TrueAnswer": "100",
+          "FalseAnswer": [
+            "50",
+            "75",
+            "90"
+          ],
+          "Explanation": "The first eight prime numbers are 2, 3, 5, 7, 11, 13, 17, and 19. Their sum is 100."
+        },
+        {
+          "Question": "What is the largest prime number less than 50?",
+          "TrueAnswer": "47",
+          "FalseAnswer": [
+            "48",
+            "50",
+            "51"
+          ],
+          "Explanation": "The largest prime number less than 50 is 47, as it is not divisible by any number other than 1 and itself."
+        },
+        {
+          "Question": "What is the product of any prime number and 0?",
+          "TrueAnswer": "0",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "The prime number itself"
+          ],
+          "Explanation": "The product of any prime number and 0 is 0, as multiplying by 0 always results in 0."
+        },
+        {
+          "Question": "What is the sum of the first nine prime numbers?",
+          "TrueAnswer": "129",
+          "FalseAnswer": [
+            "75",
+            "100",
+            "115"
+          ],
+          "Explanation": "The first nine prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, and 23. Their sum is 129."
+        },
+        {
+          "Question": "What is the largest prime number less than 60?",
+          "TrueAnswer": "59",
+          "FalseAnswer": [
+            "58",
+            "60",
+            "61"
+          ],
+          "Explanation": "The largest prime number less than 60 is 59, as it is not divisible by any number other than 1 and itself."
+        },
+        {
+          "Question": "What is the product of any prime number and itself?",
+          "TrueAnswer": "A composite number",
+          "FalseAnswer": [
+            "0",
+            "1",
+            "The prime number itself"
+          ],
+          "Explanation": "The product of any prime number and itself is a composite number, as it can be factored into smaller numbers."
+        },
+        {
+          "Question": "What is the sum of the first ten prime numbers?",
+          "TrueAnswer": "129",
+          "FalseAnswer": [
+            "75",
+            "100",
+            "115"
+          ],
+          "Explanation": "The first ten prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29. Their sum is 129."
+        }
+      ]
+    }
+  ]
+}

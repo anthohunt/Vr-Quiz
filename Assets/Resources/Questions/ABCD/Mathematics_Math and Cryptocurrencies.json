@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the most widely used cryptocurrency?",
+          "TrueAnswer": "Bitcoin",
+          "FalseAnswer": [
+            "Ethereum",
+            "Ripple",
+            "Litecoin"
+          ],
+          "Explanation": "Bitcoin is the most popular and widely used cryptocurrency, introduced in 2009."
+        },
+        {
+          "Question": "What is the mathematical process used to secure transactions in cryptocurrencies?",
+          "TrueAnswer": "Blockchain",
+          "FalseAnswer": [
+            "Encryption",
+            "Hashing",
+            "Decryption"
+          ],
+          "Explanation": "Blockchain is the mathematical process used to secure transactions in cryptocurrencies by creating a decentralized ledger."
+        },
+        {
+          "Question": "What is the maximum supply of Bitcoin?",
+          "TrueAnswer": "21 million",
+          "FalseAnswer": [
+            "10 million",
+            "50 million",
+            "100 million"
+          ],
+          "Explanation": "The maximum supply of Bitcoin is 21 million, ensuring scarcity and value preservation."
+        },
+        {
+          "Question": "What is the term for the process of solving complex mathematical problems to validate transactions?",
+          "TrueAnswer": "Mining",
+          "FalseAnswer": [
+            "Trading",
+            "Investing",
+            "Staking"
+          ],
+          "Explanation": "Mining is the process of solving complex mathematical problems to validate transactions in cryptocurrencies."
+        },
+        {
+          "Question": "What is the underlying technology behind cryptocurrencies?",
+          "TrueAnswer": "Blockchain",
+          "FalseAnswer": [
+            "Artificial Intelligence",
+            "Virtual Reality",
+            "Quantum Computing"
+          ],
+          "Explanation": "Blockchain is the underlying technology behind cryptocurrencies, providing transparency and security."
+        },
+        {
+          "Question": "What is the smallest unit of Bitcoin?",
+          "TrueAnswer": "Satoshi",
+          "FalseAnswer": [
+            "Ether",
+            "Ripple",
+            "Lite"
+          ],
+          "Explanation": "Satoshi is the smallest unit of Bitcoin, named after its anonymous creator."
+        },
+        {
+          "Question": "What is the term for a sudden and significant decrease in the value of a cryptocurrency?",
+          "TrueAnswer": "Crash",
+          "FalseAnswer": [
+            "Boom",
+            "Spike",
+            "Rally"
+          ],
+          "Explanation": "A crash refers to a sudden and significant decrease in the value of a cryptocurrency, often resulting in panic selling."
+        },
+        {
+          "Question": "What is the term for a person who holds a large amount of cryptocurrency?",
+          "TrueAnswer": "Whale",
+          "FalseAnswer": [
+            "Shark",
+            "Dolphin",
+            "Octopus"
+          ],
+          "Explanation": "A whale is a person who holds a large amount of cryptocurrency, capable of influencing market movements."
+        },
+        {
+          "Question": "What is the term for a digital wallet used to store cryptocurrencies?",
+          "TrueAnswer": "Wallet",
+          "FalseAnswer": [
+            "Safe",
+            "Vault",
+            "Chest"
+          ],
+          "Explanation": "A wallet is a digital wallet used to store cryptocurrencies securely, similar to a physical wallet for traditional currencies."
+        },
+        {
+          "Question": "What is the term for the process of converting cryptocurrencies into traditional currencies?",
+          "TrueAnswer": "Exchange",
+          "FalseAnswer": [
+            "Conversion",
+            "Transfer",
+            "Withdrawal"
+          ],
+          "Explanation": "An exchange is the process of converting cryptocurrencies into traditional currencies, facilitating trading and liquidity."
+        },
+        {
+          "Question": "What is the term for a digital token representing ownership of a physical or virtual asset?",
+          "TrueAnswer": "Token",
+          "FalseAnswer": [
+            "Coin",
+            "Bill",
+            "Note"
+          ],
+          "Explanation": "A token is a digital token representing ownership of a physical or virtual asset, such as real estate or in-game items."
+        },
+        {
+          "Question": "What is the term for the process of verifying the accuracy of a transaction in a cryptocurrency?",
+          "TrueAnswer": "Confirmation",
+          "FalseAnswer": [
+            "Validation",
+            "Authentication",
+            "Verification"
+          ],
+          "Explanation": "Confirmation is the process of verifying the accuracy of a transaction in a cryptocurrency, ensuring its inclusion in the blockchain."
+        },
+        {
+          "Question": "What is the term for a cryptocurrency that aims to maintain a stable value?",
+          "TrueAnswer": "Stablecoin",
+          "FalseAnswer": [
+            "Volatilitycoin",
+            "Fluctuationcoin",
+            "Unstablecoin"
+          ],
+          "Explanation": "A stablecoin is a cryptocurrency that aims to maintain a stable value, often pegged to a fiat currency like the US dollar."
+        },
+        {
+          "Question": "What is the term for the process of distributing new coins to holders of a particular cryptocurrency?",
+          "TrueAnswer": "Airdrop",
+          "FalseAnswer": [
+            "Raindrop",
+            "Snowdrop",
+            "Haildrop"
+          ],
+          "Explanation": "An airdrop is the process of distributing new coins to holders of a particular cryptocurrency, often as a promotional or reward mechanism."
+        },
+        {
+          "Question": "What is the term for a decentralized application built on a blockchain?",
+          "TrueAnswer": "DApp",
+          "FalseAnswer": [
+            "App",
+            "WebApp",
+            "Software"
+          ],
+          "Explanation": "A DApp, short for decentralized application, is an application built on a blockchain, offering transparency and immutability."
+        },
+        {
+          "Question": "What is the term for the process of raising funds for a project through the sale of tokens?",
+          "TrueAnswer": "ICO",
+          "FalseAnswer": [
+            "IPO",
+            "ICO",
+            "IDC"
+          ],
+          "Explanation": "ICO, short for Initial Coin Offering, is the process of raising funds for a project through the sale of tokens."
+        },
+        {
+          "Question": "What is the term for a cryptocurrency that is not Bitcoin?",
+          "TrueAnswer": "Altcoin",
+          "FalseAnswer": [
+            "Bitcoin Cash",
+            "Bitcoin Lite",
+            "Bitcoin Plus"
+          ],
+          "Explanation": "Altcoin is the term used to refer to any cryptocurrency that is not Bitcoin."
+        },
+        {
+          "Question": "What is the term for a public address used to receive cryptocurrencies?",
+          "TrueAnswer": "Wallet",
+          "FalseAnswer": [
+            "Key",
+            "Code",
+            "Address"
+          ],
+          "Explanation": "A wallet is a public address used to receive cryptocurrencies, similar to a bank account number."
+        },
+        {
+          "Question": "What is the term for the process of making a transaction untraceable and unlinkable?",
+          "TrueAnswer": "Anonymity",
+          "FalseAnswer": [
+            "Transparency",
+            "Traceability",
+            "Visibility"
+          ],
+          "Explanation": "Anonymity is the process of making a transaction untraceable and unlinkable to the parties involved."
+        },
+        {
+          "Question": "What is the term for a cryptocurrency that is designed to be private and secure?",
+          "TrueAnswer": "Privacycoin",
+          "FalseAnswer": [
+            "Publiccoin",
+            "Transparentcoin",
+            "Opencoin"
+          ],
+          "Explanation": "A privacycoin is a cryptocurrency that is designed to be private and secure, offering enhanced privacy features."
+        }
+      ]
+    }
+  ]
+}

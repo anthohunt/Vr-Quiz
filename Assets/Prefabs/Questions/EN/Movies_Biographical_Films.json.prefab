@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6211941190671672604
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6058467325767510701}
+  - component: {fileID: 8942130940150852844}
+  m_Layer: 0
+  m_Name: Movies_Biographical_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6058467325767510701
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6211941190671672604}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8942130940150852844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6211941190671672604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which famous actor portrays physicist Stephen Hawking in the film
+        'The Theory of Everything' (2014)?
+      TrueAnswer: Eddie Redmayne
+      FalseAnswer:
+      - Benedict Cumberbatch
+      - Hugh Jackman
+      - Tom Hiddleston
+      Explanation: Eddie Redmayne won an Academy Award for Best Actor for his portrayal
+        of Stephen Hawking in the biographical drama film.
+    - Question: Which iconic singer is portrayed by Jennifer Lopez in the film 'Selena'
+        (1997)?
+      TrueAnswer: Selena Quintanilla
+      FalseAnswer:
+      - Celia Cruz
+      - Gloria Estefan
+      - Shakira
+      Explanation: Jennifer Lopez played the role of the famous Tejano music star,
+        who tragically died at the age of 23.
+    - Question: Who directed the biographical film 'Milk' (2008) starring Sean Penn
+        as Harvey Milk?
+      TrueAnswer: Gus Van Sant
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Quentin Tarantino
+      Explanation: Gus Van Sant's film 'Milk' depicted the life and assassination
+        of the first openly gay person to be elected to public office in California.
+    - Question: In 'The Aviator' (2004), who plays the role of eccentric aviation
+        pioneer Howard Hughes?
+      TrueAnswer: Leonardo DiCaprio
+      FalseAnswer:
+      - Tom Cruise
+      - Johnny Depp
+      - Brad Pitt
+      Explanation: Leonardo DiCaprio's portrayal of Howard Hughes earned him a Golden
+        Globe Award for Best Actor in a Drama.
+    - Question: Which famous figure is depicted in the biographical film 'Gandhi'
+        (1982) featuring Ben Kingsley?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      - Winston Churchill
+      Explanation: Ben Kingsley's poignant portrayal of Indian leader Mahatma Gandhi
+        won him an Academy Award for Best Actor.
+    - Question: Who portrays Judy Garland in the biographical film 'Judy' (2019)?
+      TrueAnswer: "Ren\xE9e Zellweger"
+      FalseAnswer:
+      - Meryl Streep
+      - Cate Blanchett
+      - Julianne Moore
+      Explanation: "Ren\xE9e Zellweger's performance as Judy Garland earned her an
+        Academy Award for Best Actress."
+    - Question: In 'The Queen' (2006), which actress plays Queen Elizabeth II?
+      TrueAnswer: Helen Mirren
+      FalseAnswer:
+      - Judi Dench
+      - Maggie Smith
+      - Emma Thompson
+      Explanation: Helen Mirren won an Academy Award for Best Actress for her remarkable
+        portrayal of Queen Elizabeth II.
+    - Question: Who directed 'The King's Speech' (2010), a biographical film about
+        King George VI?
+      TrueAnswer: Tom Hooper
+      FalseAnswer:
+      - Christopher Nolan
+      - David Fincher
+      - "Alfonso Cuar\xF3n"
+      Explanation: Tom Hooper's direction of 'The King's Speech' earned him an Academy
+        Award for Best Director.
+    - Question: Which American outlaw is depicted in the film 'Public Enemies' (2009)
+        starring Johnny Depp?
+      TrueAnswer: John Dillinger
+      FalseAnswer:
+      - Jesse James
+      - Billy the Kid
+      - Butch Cassidy
+      Explanation: Johnny Depp's portrayal of notorious bank robber John Dillinger
+        showcased the FBI's pursuit of him during the Great Depression.
+    - Question: Who plays Erin Brockovich, a real-life legal clerk, in the eponymous
+        biographical film?
+      TrueAnswer: Julia Roberts
+      FalseAnswer:
+      - Sandra Bullock
+      - Kate Winslet
+      - Reese Witherspoon
+      Explanation: Julia Roberts won an Academy Award for Best Actress for her role
+        as Erin Brockovich, a legal assistant who brings a major lawsuit against
+        a California power company.
+    - Question: In 'Raging Bull' (1980), which boxer is portrayed by Robert De Niro?
+      TrueAnswer: Jake LaMotta
+      FalseAnswer:
+      - Muhammad Ali
+      - Rocky Marciano
+      - Sonny Liston
+      Explanation: Robert De Niro's intense portrayal of troubled boxer Jake LaMotta
+        won him an Academy Award for Best Actor.
+    - Question: Who directed 'Malcolm X' (1992) starring Denzel Washington as the
+        civil rights leader?
+      TrueAnswer: Spike Lee
+      FalseAnswer:
+      - Ava DuVernay
+      - Ryan Coogler
+      - Jordan Peele
+      Explanation: Spike Lee's biographical epic 'Malcolm X' received critical acclaim
+        for its portrayal of the influential activist.
+    - Question: Which biographical film features Emile Hirsch as Christopher McCandless,
+        an adventurer who perished in the Alaskan wilderness?
+      TrueAnswer: Into the Wild
+      FalseAnswer:
+      - 127 Hours
+      - Wild
+      - The Revenant
+      Explanation: '''Into the Wild,'' directed by Sean Penn, chronicles the real-life
+        journey of Christopher McCandless and his exploration of nature and self-discovery.'
+    - Question: Who portrays Stephen Glass, a journalist caught fabricating stories,
+        in the film 'Shattered Glass' (2003)?
+      TrueAnswer: Hayden Christensen
+      FalseAnswer:
+      - Tobey Maguire
+      - Zac Efron
+      - Michael Cera
+      Explanation: Hayden Christensen's portrayal of Stephen Glass, whose fraudulent
+        journalism earned him notoriety, received critical acclaim for its authenticity.
+    - Question: In the biographical film 'The Social Network' (2010), who depicts
+        Facebook's co-founder Mark Zuckerberg?
+      TrueAnswer: Jesse Eisenberg
+      FalseAnswer:
+      - Andrew Garfield
+      - Michael Cera
+      - James Franco
+      Explanation: Jesse Eisenberg's portrayal of Mark Zuckerberg and the controversial
+        inception of Facebook earned him an Academy Award nomination for Best Actor.
+    - Question: Who plays Solomon Northup, a free black man sold into slavery, in
+        the film '12 Years a Slave' (2013)?
+      TrueAnswer: Chiwetel Ejiofor
+      FalseAnswer:
+      - Idris Elba
+      - Don Cheadle
+      - Denzel Washington
+      Explanation: Chiwetel Ejiofor's powerful depiction of Solomon Northup's harrowing
+        journey as a slave garnered critical acclaim and recognition.
+    - Question: Which famous musician is portrayed by Jamie Foxx in the biographical
+        film 'Ray' (2004)?
+      TrueAnswer: Ray Charles
+      FalseAnswer:
+      - Stevie Wonder
+      - James Brown
+      - Marvin Gaye
+      Explanation: Jamie Foxx's portrayal of the legendary musician Ray Charles earned
+        him an Academy Award for Best Actor.
+    - Question: Who directed the biographical film 'A Beautiful Mind' (2001) about
+        mathematician John Nash?
+      TrueAnswer: Ron Howard
+      FalseAnswer:
+      - David Fincher
+      - Christopher Nolan
+      - Martin Scorsese
+      Explanation: Ron Howard's direction of 'A Beautiful Mind' garnered critical
+        acclaim and earned him an Academy Award for Best Director.
+    - Question: In 'Walk the Line' (2005), who portrays country legend Johnny Cash?
+      TrueAnswer: Joaquin Phoenix
+      FalseAnswer:
+      - Brad Pitt
+      - Ryan Gosling
+      - Heath Ledger
+      Explanation: Joaquin Phoenix's authentic portrayal of music icon Johnny Cash
+        earned him an Academy Award nomination for Best Actor.
+    - Question: Who played the influential physicist and cosmologist Stephen Hawking
+        in the biographical film 'The Theory of Everything' (2014)?
+      TrueAnswer: Eddie Redmayne
+      FalseAnswer:
+      - Benedict Cumberbatch
+      - Hugh Jackman
+      - Tom Hiddleston
+      Explanation: Eddie Redmayne's sensitive portrayal of Stephen Hawking's life
+        and struggles with motor neuron disease earned him an Academy Award for Best
+        Actor.

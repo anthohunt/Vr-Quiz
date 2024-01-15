@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7773456042834365893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9218032264130797671}
+  - component: {fileID: 3061979305140800219}
+  m_Layer: 0
+  m_Name: Art_Contemporary Art Movements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9218032264130797671
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7773456042834365893}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3061979305140800219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7773456042834365893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which art movement was characterized by bold, vibrant colors and
+        abstract shapes?
+      TrueAnswer: Fauvism
+      FalseAnswer:
+      - Cubism
+      - Dadaism
+      - Surrealism
+      Explanation: Fauvism, led by Henri Matisse, used intense colors and simplified
+        forms to express emotion.
+    - Question: Which art movement focused on the subconscious and dreamlike imagery?
+      TrueAnswer: Surrealism
+      FalseAnswer:
+      - Impressionism
+      - Pop Art
+      - Minimalism
+      Explanation: Surrealism, influenced by Freudian psychology, aimed to explore
+        the irrational and unconscious mind.
+    - Question: Which art movement rejected traditional artistic conventions and
+        embraced randomness?
+      TrueAnswer: Dadaism
+      FalseAnswer:
+      - Cubism
+      - Abstract Expressionism
+      - Op Art
+      Explanation: Dadaism, born out of the chaos of World War I, sought to challenge
+        societal norms and artistic traditions.
+    - Question: Which art movement emphasized the use of everyday objects and popular
+        culture?
+      TrueAnswer: Pop Art
+      FalseAnswer:
+      - Realism
+      - Romanticism
+      - Baroque
+      Explanation: Pop Art, popularized by artists like Andy Warhol, celebrated consumer
+        culture and mass media imagery.
+    - Question: Which art movement focused on geometric shapes and the deconstruction
+        of form?
+      TrueAnswer: Cubism
+      FalseAnswer:
+      - Surrealism
+      - Futurism
+      - Dadaism
+      Explanation: Cubism, pioneered by Pablo Picasso and Georges Braque, shattered
+        traditional notions of perspective and representation.
+    - Question: Which art movement aimed to create a sense of movement and speed?
+      TrueAnswer: Futurism
+      FalseAnswer:
+      - Impressionism
+      - Abstract Expressionism
+      - Minimalism
+      Explanation: Futurism, founded by Filippo Tommaso Marinetti, celebrated technology,
+        speed, and the modern age.
+    - Question: Which art movement focused on the use of chance and randomness in
+        the creative process?
+      TrueAnswer: Abstract Expressionism
+      FalseAnswer:
+      - Cubism
+      - Dadaism
+      - Op Art
+      Explanation: Abstract Expressionism, exemplified by Jackson Pollock, emphasized
+        spontaneous and gestural painting techniques.
+    - Question: Which art movement rejected traditional representation and embraced
+        pure abstraction?
+      TrueAnswer: Abstract Art
+      FalseAnswer:
+      - Realism
+      - Impressionism
+      - Cubism
+      Explanation: Abstract Art sought to move away from depicting recognizable objects
+        and instead focused on color, form, and line.
+    - Question: Which art movement aimed to challenge the notion of a singular, fixed
+        perspective?
+      TrueAnswer: Op Art
+      FalseAnswer:
+      - Surrealism
+      - Minimalism
+      - Fauvism
+      Explanation: Op Art, short for Optical Art, used optical illusions and geometric
+        patterns to create visual effects.
+    - Question: Which art movement focused on the use of industrial materials and
+        mass production?
+      TrueAnswer: Minimalism
+      FalseAnswer:
+      - Impressionism
+      - Pop Art
+      - Dadaism
+      Explanation: Minimalism, characterized by simplicity and clean lines, rejected
+        excess and ornamentation in favor of industrial aesthetics.
+    - Question: Which art movement aimed to challenge the traditional boundaries
+        of art and blur the line between art and life?
+      TrueAnswer: Conceptual Art
+      FalseAnswer:
+      - Realism
+      - Romanticism
+      - Baroque
+      Explanation: Conceptual Art prioritized the idea or concept behind the artwork,
+        often using text or unconventional materials.
+    - Question: Which art movement sought to capture the fleeting and transient nature
+        of light and atmosphere?
+      TrueAnswer: Impressionism
+      FalseAnswer:
+      - Cubism
+      - Dadaism
+      - Surrealism
+      Explanation: Impressionism, led by Claude Monet, focused on capturing the effects
+        of light and atmosphere in a spontaneous manner.
+    - Question: Which art movement aimed to challenge the traditional hierarchy of
+        art and elevate everyday objects?
+      TrueAnswer: Ready-Made
+      FalseAnswer:
+      - Realism
+      - Romanticism
+      - Baroque
+      Explanation: Ready-Made art, pioneered by Marcel Duchamp, involved taking ordinary
+        objects and presenting them as art.
+    - Question: Which art movement focused on the use of bold, gestural brushstrokes
+        and emotional expression?
+      TrueAnswer: Expressionism
+      FalseAnswer:
+      - Realism
+      - Impressionism
+      - Cubism
+      Explanation: Expressionism, exemplified by artists like Edvard Munch, aimed
+        to convey raw emotion and subjective experiences.
+    - Question: Which art movement aimed to challenge traditional notions of beauty
+        and embrace the unconventional?
+      TrueAnswer: Avant-Garde
+      FalseAnswer:
+      - Surrealism
+      - Minimalism
+      - Fauvism
+      Explanation: Avant-Garde art, often associated with experimental and innovative
+        approaches, pushed the boundaries of what art could be.
+    - Question: Which art movement focused on the use of repetition and seriality?
+      TrueAnswer: Serial Art
+      FalseAnswer:
+      - Realism
+      - Romanticism
+      - Baroque
+      Explanation: Serial Art, also known as Serialism, involved creating artworks
+        based on a series or sequence of elements.
+    - Question: Which art movement aimed to challenge traditional gender roles and
+        patriarchal systems?
+      TrueAnswer: Feminist Art
+      FalseAnswer:
+      - Cubism
+      - Dadaism
+      - Surrealism
+      Explanation: Feminist Art sought to address gender inequality and advocate
+        for women's rights through artistic expression.
+    - Question: Which art movement focused on the use of found objects and materials
+        in artworks?
+      TrueAnswer: Assemblage
+      FalseAnswer:
+      - Impressionism
+      - Pop Art
+      - Dadaism
+      Explanation: Assemblage art involved creating artworks by assembling and arranging
+        found objects and materials.
+    - Question: Which art movement aimed to challenge traditional notions of race
+        and identity?
+      TrueAnswer: Identity Art
+      FalseAnswer:
+      - Realism
+      - Romanticism
+      - Baroque
+      Explanation: Identity Art explored issues of race, ethnicity, and cultural
+        identity through artistic expression.
+    - Question: Which art movement focused on the use of text and language in artworks?
+      TrueAnswer: Text-based Art
+      FalseAnswer:
+      - Surrealism
+      - Minimalism
+      - Fauvism
+      Explanation: Text-based Art incorporated written words, phrases, or texts as
+        a central element of the artwork.

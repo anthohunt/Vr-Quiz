@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1348019269929299230
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3570296717255245803}
+  - component: {fileID: 950382043516702539}
+  m_Layer: 0
+  m_Name: Video Games_Gaming and Augmented Reality.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3570296717255245803
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348019269929299230}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &950382043516702539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1348019269929299230}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular augmented reality game?
+      TrueAnswer: Pokemon Go
+      FalseAnswer:
+      - Minecraft
+      - Fortnite
+      - Call of Duty
+      Explanation: Pokemon Go is a widely popular augmented reality game that allows
+        players to catch virtual Pokemon in the real world.
+    - Question: Which company developed the augmented reality headset 'HoloLens'?
+      TrueAnswer: Microsoft
+      FalseAnswer:
+      - Apple
+      - Sony
+      - Samsung
+      Explanation: Microsoft is the company behind the development of the augmented
+        reality headset 'HoloLens'.
+    - Question: What does AR stand for in augmented reality?
+      TrueAnswer: Augmented Reality
+      FalseAnswer:
+      - Artificial Reality
+      - Advanced Reality
+      - Alternate Reality
+      Explanation: AR stands for Augmented Reality, which is the integration of digital
+        information with the real world.
+    - Question: Which popular game franchise released an augmented reality game called
+        'Ingress'?
+      TrueAnswer: Niantic
+      FalseAnswer:
+      - Ubisoft
+      - Electronic Arts
+      - Activision
+      Explanation: Niantic, the company behind Pokemon Go, also released the augmented
+        reality game 'Ingress'.
+    - Question: What is the main objective of the game 'Minecraft Earth'?
+      TrueAnswer: Build and explore in the real world
+      FalseAnswer:
+      - Defeat enemies in virtual battles
+      - Solve puzzles in augmented reality
+      - Collect virtual pets
+      Explanation: The main objective of 'Minecraft Earth' is to build and explore
+        virtual structures in the real world using augmented reality.
+    - Question: Which of the following is not an augmented reality game?
+      TrueAnswer: Fortnite
+      FalseAnswer:
+      - 'Harry Potter: Wizards Unite'
+      - Jurassic World Alive
+      - 'The Walking Dead: Our World'
+      Explanation: Fortnite is not an augmented reality game, but rather a popular
+        online multiplayer game.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to battle each other with virtual creatures?
+      TrueAnswer: Jurassic World Alive
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Jurassic World Alive is a popular augmented reality game where
+        players can battle with virtual creatures from the Jurassic Park franchise.
+    - Question: Which of the following is an example of an augmented reality accessory?
+      TrueAnswer: AR glasses
+      FalseAnswer:
+      - Game controller
+      - Headset microphone
+      - Gaming keyboard
+      Explanation: AR glasses are an example of an augmented reality accessory that
+        allows users to see virtual objects in the real world.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to cast spells and explore the wizarding world?
+      TrueAnswer: 'Harry Potter: Wizards Unite'
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'The Walking Dead: Our World'
+      - Jurassic World Alive
+      Explanation: 'Harry Potter: Wizards Unite is a popular augmented reality game
+        where players can cast spells and interact with the wizarding world.'
+    - Question: Which of the following is an example of an augmented reality mobile
+        game?
+      TrueAnswer: 'The Walking Dead: Our World'
+      FalseAnswer:
+      - Super Mario Odyssey
+      - 'The Legend of Zelda: Breath of the Wild'
+      - Red Dead Redemption 2
+      Explanation: 'The Walking Dead: Our World is an augmented reality mobile game
+        where players fight zombies in the real world.'
+    - Question: What is the name of the popular augmented reality game that allows
+        players to build and explore virtual structures?
+      TrueAnswer: Minecraft Earth
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Minecraft Earth is a popular augmented reality game where players
+        can build and explore virtual structures in the real world.
+    - Question: Which of the following is an example of an augmented reality game
+        for mobile devices?
+      TrueAnswer: Pokemon Go
+      FalseAnswer:
+      - Fortnite
+      - 'Call of Duty: Warzone'
+      - Minecraft
+      Explanation: Pokemon Go is an augmented reality game that can be played on
+        mobile devices, allowing players to catch virtual Pokemon in the real world.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to shoot virtual birds at structures?
+      TrueAnswer: 'Angry Birds AR: Isle of Pigs'
+      FalseAnswer:
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      - Jurassic World Alive
+      Explanation: 'Angry Birds AR: Isle of Pigs is a popular augmented reality game
+        where players shoot virtual birds at structures in the real world.'
+    - Question: Which of the following is an example of an augmented reality game
+        for console gaming?
+      TrueAnswer: Minecraft Earth
+      FalseAnswer:
+      - Pokemon Go
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Minecraft Earth is an augmented reality game that can be played
+        on consoles, allowing players to build and explore virtual structures in
+        the real world.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to fight virtual zombies?
+      TrueAnswer: 'The Walking Dead: Our World'
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'Harry Potter: Wizards Unite'
+      - Jurassic World Alive
+      Explanation: 'The Walking Dead: Our World is a popular augmented reality game
+        where players fight virtual zombies in the real world.'
+    - Question: Which of the following is an example of an augmented reality game
+        for PC gaming?
+      TrueAnswer: Minecraft Earth
+      FalseAnswer:
+      - Pokemon Go
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Minecraft Earth is an augmented reality game that can be played
+        on PC, allowing players to build and explore virtual structures in the real
+        world.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to solve puzzles in the real world?
+      TrueAnswer: 'The Room: Old Sins'
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: 'The Room: Old Sins is a popular augmented reality game where
+        players solve puzzles in the real world using their mobile devices.'
+    - Question: Which of the following is an example of an augmented reality game
+        for virtual reality headsets?
+      TrueAnswer: Beat Saber
+      FalseAnswer:
+      - Pokemon Go
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Beat Saber is an augmented reality game that can be played on
+        virtual reality headsets, allowing players to slash blocks with virtual sabers.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to catch virtual creatures in the real world?
+      TrueAnswer: Pokemon Go
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Pokemon Go is a popular augmented reality game where players can
+        catch virtual creatures, known as Pokemon, in the real world.
+    - Question: Which of the following is an example of an augmented reality game
+        for mobile devices?
+      TrueAnswer: Ingress
+      FalseAnswer:
+      - Fortnite
+      - 'Call of Duty: Warzone'
+      - Minecraft
+      Explanation: Ingress is an augmented reality game that can be played on mobile
+        devices, allowing players to explore and capture virtual portals in the real
+        world.
+    - Question: What is the name of the popular augmented reality game that allows
+        players to interact with virtual dinosaurs?
+      TrueAnswer: Jurassic World Alive
+      FalseAnswer:
+      - 'Angry Birds AR: Isle of Pigs'
+      - 'The Walking Dead: Our World'
+      - 'Harry Potter: Wizards Unite'
+      Explanation: Jurassic World Alive is a popular augmented reality game where
+        players can interact with virtual dinosaurs in the real world.

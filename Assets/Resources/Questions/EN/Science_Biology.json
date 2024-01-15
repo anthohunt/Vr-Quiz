@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the powerhouse of the cell?",
+            "TrueAnswer": "Mitochondria",
+            "FalseAnswer": [
+              "Nucleus",
+              "Ribosome",
+              "Chloroplast"
+            ],
+            "Explanation": "Mitochondria are organelles that act like a digestive system which takes in nutrients, breaks them down, and creates energy-rich molecules for the cell."
+          },
+          {
+            "Question": "What does DNA stand for?",
+            "TrueAnswer": "Deoxyribonucleic Acid",
+            "FalseAnswer": [
+              "Digital Nucleic Acid",
+              "Dihydroxy Nitrogen Atom",
+              "Double Nucleotide Amino"
+            ],
+            "Explanation": "DNA is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses."
+          },
+          {
+            "Question": "Which gas do plants absorb during photosynthesis?",
+            "TrueAnswer": "Carbon Dioxide",
+            "FalseAnswer": [
+              "Oxygen",
+              "Nitrogen",
+              "Hydrogen"
+            ],
+            "Explanation": "During photosynthesis, plants take in carbon dioxide, water, and sunlight to produce glucose and oxygen as a byproduct."
+          },
+          {
+            "Question": "What is the largest organ in the human body?",
+            "TrueAnswer": "Skin",
+            "FalseAnswer": [
+              "Liver",
+              "Brain",
+              "Lungs"
+            ],
+            "Explanation": "The skin is the largest organ by surface area and weight, serving as a protective barrier against the environment and essential for many physiological functions."
+          },
+          {
+            "Question": "What is the process of cell division in eukaryotic cells called?",
+            "TrueAnswer": "Mitosis",
+            "FalseAnswer": [
+              "Meiosis",
+              "Binary Fission",
+              "Hypertrophy"
+            ],
+            "Explanation": "Mitosis is a process where a single cell divides into two identical daughter cells, each containing the same number of chromosomes and genetic content as the original cell."
+          }
+        ]
+      }
+    }
+  ]
+}

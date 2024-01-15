@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &89120375108964772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6710376511246467733}
+  - component: {fileID: 2329992848381733433}
+  m_Layer: 0
+  m_Name: Art_Women_in_Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6710376511246467733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89120375108964772}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2329992848381733433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 89120375108964772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the iconic 'Portrait of Adele Bloch-Bauer'?
+      TrueAnswer: Gustav Klimt
+      FalseAnswer:
+      - Vincent Van Gogh
+      - Pablo Picasso
+      - Leonardo da Vinci
+      Explanation: Gustav Klimt's portrait of Adele Bloch-Bauer, also known as 'The
+        Woman in Gold', is a masterpiece of the Viennese Secession movement and was
+        completed in 1907.
+    - Question: Which artist is known for her surrealist self-portraits?
+      TrueAnswer: Frida Kahlo
+      FalseAnswer:
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      - Tamara de Lempicka
+      Explanation: Frida Kahlo's self-portraits often incorporated elements of surrealism,
+        reflecting her own physical and emotional struggles, and have since become
+        iconic in the art world.
+    - Question: Who was the first female artist to achieve fame and recognition?
+      TrueAnswer: Artemisia Gentileschi
+      FalseAnswer:
+      - Rosa Bonheur
+      - Hilma af Klint
+      - Sofonisba Anguissola
+      Explanation: Artemisia Gentileschi, an Italian Baroque painter, overcame the
+        limitations placed on women in the 17th century and gained acclaim for her
+        powerful and dramatic artworks.
+    - Question: Who sculpted the 'The Veiled Rebecca'?
+      TrueAnswer: Giovanni Maria Benzoni
+      FalseAnswer:
+      - Auguste Rodin
+      - Michelangelo
+      - Camille Claudel
+      Explanation: Giovanni Maria Benzoni's 'The Veiled Rebecca' is a marble sculpture
+        known for its intricate detailing and delicate portrayal of beauty, created
+        in the mid-19th century.
+    - Question: Which artist co-founded the Orphism art movement?
+      TrueAnswer: Sonia Delaunay
+      FalseAnswer:
+      - Louise Bourgeois
+      - Barbara Hepworth
+      - Yayoi Kusama
+      Explanation: Sonia Delaunay, a Ukrainian-French artist, alongside her husband
+        Robert Delaunay, pioneered the Orphism movement, characterized by vibrant
+        colors and geometric shapes.

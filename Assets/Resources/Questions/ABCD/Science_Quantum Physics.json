@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the smallest unit of matter?",
+          "TrueAnswer": "Atom",
+          "FalseAnswer": [
+            "Cell",
+            "Molecule",
+            "Element"
+          ],
+          "Explanation": "An atom is the basic unit of matter, consisting of a nucleus and electrons."
+        },
+        {
+          "Question": "What is the study of the behavior of light and its interaction with matter?",
+          "TrueAnswer": "Optics",
+          "FalseAnswer": [
+            "Thermodynamics",
+            "Quantum Mechanics",
+            "Electromagnetism"
+          ],
+          "Explanation": "Optics is the branch of physics that deals with the properties and behavior of light."
+        },
+        {
+          "Question": "What is the force that holds the nucleus of an atom together?",
+          "TrueAnswer": "Strong Nuclear Force",
+          "FalseAnswer": [
+            "Electromagnetic Force",
+            "Gravitational Force",
+            "Weak Nuclear Force"
+          ],
+          "Explanation": "The strong nuclear force is responsible for holding the protons and neutrons in the nucleus of an atom together."
+        },
+        {
+          "Question": "What is the process by which a solid changes directly into a gas?",
+          "TrueAnswer": "Sublimation",
+          "FalseAnswer": [
+            "Evaporation",
+            "Condensation",
+            "Melting"
+          ],
+          "Explanation": "Sublimation is the phase transition in which a solid changes directly into a gas without passing through the liquid state."
+        },
+        {
+          "Question": "What is the SI unit of electric current?",
+          "TrueAnswer": "Ampere",
+          "FalseAnswer": [
+            "Volt",
+            "Ohm",
+            "Watt"
+          ],
+          "Explanation": "The ampere is the SI unit of electric current, named after the French physicist André-Marie Ampère."
+        },
+        {
+          "Question": "What is the process by which plants convert sunlight into chemical energy?",
+          "TrueAnswer": "Photosynthesis",
+          "FalseAnswer": [
+            "Respiration",
+            "Fermentation",
+            "Digestion"
+          ],
+          "Explanation": "Photosynthesis is the process by which plants, algae, and some bacteria convert sunlight into chemical energy in the form of glucose."
+        },
+        {
+          "Question": "What is the study of the Earth's atmosphere and its phenomena?",
+          "TrueAnswer": "Meteorology",
+          "FalseAnswer": [
+            "Geology",
+            "Astronomy",
+            "Oceanography"
+          ],
+          "Explanation": "Meteorology is the scientific study of the Earth's atmosphere, weather, and climate."
+        },
+        {
+          "Question": "What is the force that opposes the motion of objects through a fluid?",
+          "TrueAnswer": "Drag",
+          "FalseAnswer": [
+            "Friction",
+            "Gravity",
+            "Tension"
+          ],
+          "Explanation": "Drag is the force that opposes the motion of objects through a fluid, such as air or water."
+        },
+        {
+          "Question": "What is the study of the structure and function of cells?",
+          "TrueAnswer": "Cell Biology",
+          "FalseAnswer": [
+            "Genetics",
+            "Microbiology",
+            "Anatomy"
+          ],
+          "Explanation": "Cell biology is the branch of biology that studies the structure and function of cells, the basic units of life."
+        },
+        {
+          "Question": "What is the SI unit of pressure?",
+          "TrueAnswer": "Pascal",
+          "FalseAnswer": [
+            "Newton",
+            "Joule",
+            "Watt"
+          ],
+          "Explanation": "The pascal is the SI unit of pressure, named after the French mathematician and physicist Blaise Pascal."
+        },
+        {
+          "Question": "What is the study of the motion of objects and the forces acting on them?",
+          "TrueAnswer": "Physics",
+          "FalseAnswer": [
+            "Chemistry",
+            "Biology",
+            "Geology"
+          ],
+          "Explanation": "Physics is the branch of science that deals with the study of matter, energy, motion, and the forces acting on objects."
+        },
+        {
+          "Question": "What is the process by which an unstable atomic nucleus emits radiation?",
+          "TrueAnswer": "Radioactive Decay",
+          "FalseAnswer": [
+            "Nuclear Fusion",
+            "Nuclear Fission",
+            "Electron Capture"
+          ],
+          "Explanation": "Radioactive decay is the process by which an unstable atomic nucleus emits radiation in the form of alpha particles, beta particles, or gamma rays."
+        },
+        {
+          "Question": "What is the study of the Earth's physical structure, history, and the processes that shape it?",
+          "TrueAnswer": "Geology",
+          "FalseAnswer": [
+            "Meteorology",
+            "Astronomy",
+            "Oceanography"
+          ],
+          "Explanation": "Geology is the scientific study of the Earth's physical structure, history, and the processes that shape it."
+        },
+        {
+          "Question": "What is the force that attracts two objects with mass towards each other?",
+          "TrueAnswer": "Gravity",
+          "FalseAnswer": [
+            "Electromagnetic Force",
+            "Strong Nuclear Force",
+            "Weak Nuclear Force"
+          ],
+          "Explanation": "Gravity is the force that attracts two objects with mass towards each other, responsible for the motion of planets, stars, and galaxies."
+        },
+        {
+          "Question": "What is the study of the composition, structure, properties, and reactions of matter?",
+          "TrueAnswer": "Chemistry",
+          "FalseAnswer": [
+            "Physics",
+            "Biology",
+            "Geology"
+          ],
+          "Explanation": "Chemistry is the branch of science that deals with the study of the composition, structure, properties, and reactions of matter."
+        },
+        {
+          "Question": "What is the process by which a liquid changes into a gas at a temperature below its boiling point?",
+          "TrueAnswer": "Evaporation",
+          "FalseAnswer": [
+            "Sublimation",
+            "Condensation",
+            "Melting"
+          ],
+          "Explanation": "Evaporation is the process by which a liquid changes into a gas at a temperature below its boiling point."
+        },
+        {
+          "Question": "What is the study of the origin, evolution, and structure of the universe?",
+          "TrueAnswer": "Cosmology",
+          "FalseAnswer": [
+            "Astrology",
+            "Astronomy",
+            "Meteorology"
+          ],
+          "Explanation": "Cosmology is the scientific study of the origin, evolution, and structure of the universe."
+        },
+        {
+          "Question": "What is the process by which a gas changes into a liquid?",
+          "TrueAnswer": "Condensation",
+          "FalseAnswer": [
+            "Evaporation",
+            "Sublimation",
+            "Melting"
+          ],
+          "Explanation": "Condensation is the process by which a gas changes into a liquid, usually occurring when the temperature decreases."
+        },
+        {
+          "Question": "What is the study of the structure, function, and evolution of genes and genomes?",
+          "TrueAnswer": "Genetics",
+          "FalseAnswer": [
+            "Cell Biology",
+            "Microbiology",
+            "Anatomy"
+          ],
+          "Explanation": "Genetics is the branch of biology that studies the structure, function, and evolution of genes and genomes."
+        },
+        {
+          "Question": "What is the process by which a solid changes into a liquid?",
+          "TrueAnswer": "Melting",
+          "FalseAnswer": [
+            "Evaporation",
+            "Sublimation",
+            "Condensation"
+          ],
+          "Explanation": "Melting is the process by which a solid changes into a liquid, usually occurring when the temperature increases."
+        }
+      ]
+    }
+  ]
+}

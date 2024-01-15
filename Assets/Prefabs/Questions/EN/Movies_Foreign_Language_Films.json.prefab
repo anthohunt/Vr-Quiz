@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8606280810616022589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7639482295171074904}
+  - component: {fileID: 9069487290082586027}
+  m_Layer: 0
+  m_Name: Movies_Foreign_Language_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7639482295171074904
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8606280810616022589}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9069487290082586027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8606280810616022589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which foreign film won the Best Picture award at the 2020 Academy
+        Awards?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Roma
+      - Amour
+      - Crouching Tiger, Hidden Dragon
+      Explanation: Parasite, directed by Bong Joon-ho, made history by becoming the
+        first non-English language film to win Best Picture.
+    - Question: In which country is the Studio Ghibli animation studio based?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - France
+      - South Korea
+      - China
+      Explanation: Studio Ghibli, known for internationally acclaimed films like
+        'Spirited Away' and 'My Neighbor Totoro', is based in Japan.
+    - Question: Who directed the critically acclaimed film 'Cinema Paradiso'?
+      TrueAnswer: Giuseppe Tornatore
+      FalseAnswer:
+      - Federico Fellini
+      - "Pedro Almod\xF3var"
+      - Ingmar Bergman
+      Explanation: Giuseppe Tornatore directed 'Cinema Paradiso' (1988), which won
+        the Academy Award for Best Foreign Language Film.
+    - Question: "Which language is predominantly spoken in the film 'Am\xE9lie'?"
+      TrueAnswer: French
+      FalseAnswer:
+      - Spanish
+      - Italian
+      - German
+      Explanation: "The film 'Am\xE9lie' (2001) is predominantly spoken in French,
+        capturing the whimsical charm of Paris through its language and visuals."
+    - Question: Which foreign language film is known for its use of long takes and
+        naturalistic performances?
+      TrueAnswer: Roma
+      FalseAnswer:
+      - In the Mood for Love
+      - City of God
+      - Pan's Labyrinth
+      Explanation: "Directed by Alfonso Cuar\xF3n, 'Roma' is characterized by its
+        long takes and intimate, naturalistic portrayal of everyday life in 1970s
+        Mexico City."
+    - Question: Which foreign language film was adapted into the American remake
+        'The Departed'?
+      TrueAnswer: Infernal Affairs
+      FalseAnswer:
+      - A Prophet
+      - The Lives of Others
+      - The Girl with the Dragon Tattoo
+      Explanation: '''The Departed'', directed by Martin Scorsese, is based on the
+        Hong Kong crime thriller ''Infernal Affairs'' (2002).'
+    - Question: Who directed the Swedish vampire film 'Let the Right One In'?
+      TrueAnswer: Tomas Alfredson
+      FalseAnswer:
+      - Lars von Trier
+      - "Ruben \xD6stlund"
+      - Ingmar Bergman
+      Explanation: Tomas Alfredson helmed 'Let the Right One In' (2008), known for
+        its unique blend of coming-of-age drama and horror elements.
+    - Question: Which country is the setting for the film 'City of God'?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - Mexico
+      - Argentina
+      - Colombia
+      Explanation: '''City of God'' (2002) is set in the favelas of Rio de Janeiro,
+        Brazil, depicting the rise of organized crime in the area.'
+    - Question: 'Who directed the Indian epic drama film ''Lagaan: Once Upon a Time
+        in India''?'
+      TrueAnswer: Ashutosh Gowariker
+      FalseAnswer:
+      - Satyajit Ray
+      - Rajkumar Hirani
+      - Aamir Khan
+      Explanation: Ashutosh Gowariker directed 'Lagaan' (2001), which received critical
+        acclaim for its portrayal of colonial-era India and its underdog sports theme.
+    - Question: In which language is the film 'Wings of Desire' predominantly spoken?
+      TrueAnswer: German
+      FalseAnswer:
+      - Swedish
+      - Russian
+      - Dutch
+      Explanation: '''Wings of Desire'' (1987) is predominantly spoken in German,
+        capturing the enchanting essence of Berlin through its poetic language and
+        imagery.'
+    - Question: Who directed the South Korean psychological thriller 'Oldboy'?
+      TrueAnswer: Park Chan-wook
+      FalseAnswer:
+      - Bong Joon-ho
+      - Kim Ki-duk
+      - Lee Chang-dong
+      Explanation: Park Chan-wook directed 'Oldboy' (2003), known for its intense
+        storytelling and innovative cinematography, earning international acclaim.
+    - Question: Which film introduced Western audiences to the works of director
+        Akira Kurosawa?
+      TrueAnswer: Rashomon
+      FalseAnswer:
+      - Seven Samurai
+      - Yojimbo
+      - Throne of Blood
+      Explanation: '''Rashomon'' (1950) was the first film by Akira Kurosawa to gain
+        international recognition and introduce his style to Western audiences.'
+    - Question: Which language is primarily spoken in the film 'Crouching Tiger,
+        Hidden Dragon'?
+      TrueAnswer: Mandarin
+      FalseAnswer:
+      - Cantonese
+      - Japanese
+      - Korean
+      Explanation: '''Crouching Tiger, Hidden Dragon'' (2000) predominantly features
+        Mandarin, adding authenticity to its storytelling rooted in Chinese culture.'
+    - Question: Who directed the Spanish-language film 'Pan's Labyrinth'?
+      TrueAnswer: Guillermo del Toro
+      FalseAnswer:
+      - "Alejandro Gonz\xE1lez I\xF1\xE1rritu"
+      - "Pedro Almod\xF3var"
+      - "Alfonso Cuar\xF3n"
+      Explanation: Guillermo del Toro directed 'Pan's Labyrinth' (2006), blending
+        dark fantasy with historical drama, showcasing his distinctive visual storytelling.
+    - Question: In which country is the film 'A Separation' set and produced?
+      TrueAnswer: Iran
+      FalseAnswer:
+      - Iraq
+      - Afghanistan
+      - Turkey
+      Explanation: '''A Separation'' (2011) is set and produced in Iran, delving
+        into complex familial and social dynamics in contemporary Tehran.'
+    - Question: Who directed the Italian romantic drama 'Call Me by Your Name'?
+      TrueAnswer: Luca Guadagnino
+      FalseAnswer:
+      - Paolo Sorrentino
+      - Nanni Moretti
+      - Luchino Visconti
+      Explanation: Luca Guadagnino directed 'Call Me by Your Name' (2017), capturing
+        the idyllic beauty of Northern Italy and the passionate romance of its protagonists.
+    - Question: In which language is the Argentine crime thriller 'The Secret in
+        Their Eyes' predominantly spoken?
+      TrueAnswer: Spanish
+      FalseAnswer:
+      - Portuguese
+      - Italian
+      - French
+      Explanation: '''The Secret in Their Eyes'' (2009) is predominantly spoken in
+        Spanish, maintaining the authenticity of its gripping storytelling set in
+        Buenos Aires.'
+    - Question: Who directed the Danish film 'The Hunt', starring Mads Mikkelsen?
+      TrueAnswer: Thomas Vinterberg
+      FalseAnswer:
+      - Lars von Trier
+      - Susanne Bier
+      - Nicolas Winding Refn
+      Explanation: Thomas Vinterberg directed 'The Hunt' (2012), exploring the impact
+        of false accusations in a close-knit community, delivering a poignant and
+        intense narrative.
+    - Question: "Which language is predominantly spoken in the film 'Y Tu Mam\xE1
+        Tambi\xE9n'?"
+      TrueAnswer: Spanish
+      FalseAnswer:
+      - Portuguese
+      - Italian
+      - French
+      Explanation: "'Y Tu Mam\xE1 Tambi\xE9n' (2001) is predominantly spoken in Spanish,
+        capturing the emotional depth of its coming-of-age exploration of friendship
+        and desire."
+    - Question: Who directed the French romantic drama 'Blue Is the Warmest Colour'?
+      TrueAnswer: Abdellatif Kechiche
+      FalseAnswer:
+      - "Fran\xE7ois Ozon"
+      - Xavier Dolan
+      - "C\xE9line Sciamma"
+      Explanation: Abdellatif Kechiche directed 'Blue Is the Warmest Colour' (2013),
+        renowned for its raw portrayal of love and identity, winning the Palme d'Or
+        at Cannes.

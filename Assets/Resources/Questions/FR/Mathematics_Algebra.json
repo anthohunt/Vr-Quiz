@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la valeur de 'x' dans l'équation 3x - 5 = 10?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "7",
+              "3",
+              "10"
+            ],
+            "Explanation": "'3x - 5 = 10' peut être résolu en ajoutant 5 des deux côtés, puis en divisant par 3 pour trouver 'x = 5'."
+          },
+          {
+            "Question": "Dans l'équation 4y + 7 = 19, quelle est la valeur de 'y'?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "4",
+              "2",
+              "6"
+            ],
+            "Explanation": "En soustrayant 7 des deux côtés, l'équation devient '4y = 12', et en divisant par 4 on obtient 'y = 3'."
+          },
+          {
+            "Question": "Quelle est la solution de l'équation 2(x + 4) = 18?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "6",
+              "7",
+              "8"
+            ],
+            "Explanation": "Tout d'abord, distribuez le 2 pour obtenir '2x + 8 = 18', puis résolvez pour 'x' pour obtenir 'x = 5'."
+          },
+          {
+            "Question": "Si 2p - 3 = 11, quelle est la valeur de 'p'?",
+            "TrueAnswer": "7",
+            "FalseAnswer": [
+              "6",
+              "8",
+              "9"
+            ],
+            "Explanation": "Ajouter 3 des deux côtés donne '2p = 14', et diviser par 2 donne 'p = 7'."
+          },
+          {
+            "Question": "Quel est le résultat de 5x - 2 = 3x + 4?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "4",
+              "5",
+              "2"
+            ],
+            "Explanation": "En soustrayant 3x des deux côtés on obtient '2x - 2 = 4', puis en ajoutant 2 on obtient '2x = 6', et enfin en divisant par 2 on obtient 'x = 3'."
+          },
+          {
+            "Question": "Dans l'équation 6y - 9 = 15, quelle est la valeur de 'y'?",
+            "TrueAnswer": "4",
+            "FalseAnswer": [
+              "5",
+              "6",
+              "7"
+            ],
+            "Explanation": "En ajoutant 9 des deux côtés, l'équation devient '6y = 24', et en divisant par 6 on obtient 'y = 4'."
+          },
+          {
+            "Question": "Quelle est la solution de l'équation 3(x - 2) = 15?",
+            "TrueAnswer": "7",
+            "FalseAnswer": [
+              "5",
+              "6",
+              "8"
+            ],
+            "Explanation": "Tout d'abord, distribuez le 3 pour obtenir '3x - 6 = 15', puis résolvez pour 'x' pour obtenir 'x = 7'."
+          },
+          {
+            "Question": "Si 4q + 5 = 25, quelle est la valeur de 'q'?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "6",
+              "7",
+              "8"
+            ],
+            "Explanation": "En soustrayant 5 des deux côtés on obtient '4q = 20', et en divisant par 4 on obtient 'q = 5'."
+          },
+          {
+            "Question": "Quel est le résultat de 7x - 4 = 5x + 8?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "7",
+              "5",
+              "4"
+            ],
+            "Explanation": "En soustrayant 5x des deux côtés on obtient '2x - 4 = 8', puis en ajoutant 4 on obtient '2x = 12', et enfin en divisant par 2 on obtient 'x = 6'."
+          },
+          {
+            "Question": "Dans l'équation 8y - 12 = 36, quelle est la valeur de 'y'?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "7",
+              "8",
+              "9"
+            ],
+            "Explanation": "En ajoutant 12 des deux côtés, l'équation devient '8y = 48', et en divisant par 8 on obtient 'y = 6'."
+          },
+          {
+            "Question": "Quelle est la solution de l'équation 5(x - 3) = 30?",
+            "TrueAnswer": "9",
+            "FalseAnswer": [
+              "8",
+              "7",
+              "6"
+            ],
+            "Explanation": "Tout d'abord, distribuez le 5 pour obtenir '5x - 15 = 30', puis résolvez pour 'x' pour obtenir 'x = 9'."
+          },
+          {
+            "Question": "Si 3r + 4 = 22, quelle est la valeur de 'r'?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "7",
+              "8",
+              "9"
+            ],
+            "Explanation": "En soustrayant 4 des deux côtés on obtient '3r = 18', et en divisant par 3 on obtient 'r = 6'."
+          },
+          {
+            "Question": "Quel est le résultat de 9x - 7 = 8x + 5?",
+            "TrueAnswer": "12",
+            "FalseAnswer": [
+              "11",
+              "10",
+              "9"
+            ],
+            "Explanation": "En soustrayant 8x des deux côtés on obtient 'x - 7 = 5', puis en ajoutant 7 on obtient 'x = 12'."
+          },
+          {
+            "Question": "Dans l'équation 10y - 18 = 42, quelle est la valeur de 'y'?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "7",
+              "8",
+              "9"
+            ],
+            "Explanation": "En ajoutant 18 des deux côtés, l'équation devient '10y = 60', et en divisant par 10 on obtient 'y = 6'."
+          },
+          {
+            "Question": "Quelle est la solution de l'équation 6(x - 5) = 54?",
+            "TrueAnswer": "14",
+            "FalseAnswer": [
+              "12",
+              "13",
+              "15"
+            ],
+            "Explanation": "Tout d'abord, distribuez le 6 pour obtenir '6x - 30 = 54', puis résolvez pour 'x' pour obtenir 'x = 14'."
+          },
+          {
+            "Question": "Si 5s + 9 = 34, quelle est la valeur de 's'?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "6",
+              "7",
+              "8"
+            ],
+            "Explanation": "En soustrayant 9 des deux côtés on obtient '5s = 25', et en divisant par 5 on obtient 's = 5'."
+          },
+          {
+            "Question": "Quel est le résultat de 4x - 3 = 6x + 2?",
+            "TrueAnswer": "-5",
+            "FalseAnswer": [
+              "-4",
+              "-3",
+              "-2"
+            ],
+            "Explanation": "En soustrayant 6x des deux côtés on obtient '-2x - 3 = 2', puis en ajoutant 3 on obtient '-2x = 5', et enfin en divisant par -2 on obtient 'x = -5'."
+          },
+          {
+            "Question": "Dans l'équation 7y - 21 = 42, quelle est la valeur de 'y'?",
+            "TrueAnswer": "9",
+            "FalseAnswer": [
+              "8",
+              "10",
+              "11"
+            ],
+            "Explanation": "En ajoutant 21 des deux côtés, l'équation devient '7y = 63', et en divisant par 7 on obtient 'y = 9'."
+          },
+          {
+            "Question": "Quelle est la solution de l'équation 8(x + 3) = 88?",
+            "TrueAnswer": "11",
+            "FalseAnswer": [
+              "10",
+              "12",
+              "13"
+            ],
+            "Explanation": "Tout d'abord, distribuez le 8 pour obtenir '8x + 24 = 88', puis résolvez pour 'x' pour obtenir 'x = 11'."
+          },
+          {
+            "Question": "Si 6t + 15 = 33, quelle est la valeur de 't'?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "4",
+              "5",
+              "6"
+            ],
+            "Explanation": "En soustrayant 15 des deux côtés on obtient '6t = 18', et en divisant par 6 on obtient 't = 3'."
+          }
+        ]
+      }
+    }
+  ]
+}

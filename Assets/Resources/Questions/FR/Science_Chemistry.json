@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est le symbole chimique de l'or?",
+            "BonneRéponse": "Au",
+            "MauvaiseRéponse": [
+              "Ag",
+              "Pt",
+              "Cu"
+            ],
+            "Explication": "Le symbole chimique 'Au' pour l'or est dérivé de son nom latin 'Aurum'. L'or est un métal de transition connu pour sa couleur jaune brillante et est un élément précieux et rare."
+          },
+          {
+            "Question": "Quel est le numéro atomique du carbone?",
+            "BonneRéponse": "6",
+            "MauvaiseRéponse": [
+              "8",
+              "12",
+              "16"
+            ],
+            "Explication": "Le numéro atomique du carbone est 6, indiquant son nombre de protons et définissant ses propriétés uniques. Le carbone est un élément essentiel dans la construction de la vie et en chimie organique."
+          },
+          {
+            "Question": "Lequel de ces éléments est un gaz noble?",
+            "BonneRéponse": "Hélium",
+            "MauvaiseRéponse": [
+              "Oxygène",
+              "Azote",
+              "Chlore"
+            ],
+            "Explication": "L'hélium, avec le symbole chimique 'He', est un gaz noble connu pour sa faible densité et sa non-réactivité. Il est utilisé dans diverses applications telles que le refroidissement et le gonflage de ballons."
+          },
+          {
+            "Question": "Quel est le niveau de pH d'une solution neutre?",
+            "BonneRéponse": "7",
+            "MauvaiseRéponse": [
+              "5",
+              "9",
+              "12"
+            ],
+            "Explication": "Une solution neutre a un niveau de pH de 7, indiquant un équilibre entre l'acidité et l'alcalinité. L'eau pure à température ambiante est un exemple de solution neutre."
+          },
+          {
+            "Question": "Quel élément est le plus abondant dans la croûte terrestre?",
+            "BonneRéponse": "Oxygène",
+            "MauvaiseRéponse": [
+              "Fer",
+              "Silicium",
+              "Aluminium"
+            ],
+            "Explication": "L'oxygène est l'élément le plus abondant dans la croûte terrestre, principalement lié à d'autres éléments dans des minéraux tels que la silice et les oxydes. Il joue un rôle crucial dans divers processus géologiques."
+          },
+          {
+            "Question": "Quel est le nom commun du composé H2O?",
+            "BonneRéponse": "Eau",
+            "MauvaiseRéponse": [
+              "Dioxyde de carbone",
+              "Chlorure de sodium",
+              "Acide sulfurique"
+            ],
+            "Explication": "Le composé H2O est communément connu sous le nom d'eau, essentiel pour la vie et présent sous différentes formes sur Terre. C'est une molécule polaire aux propriétés uniques en raison de la liaison hydrogène."
+          },
+          {
+            "Question": "Quel gaz est produit pendant la photosynthèse?",
+            "BonneRéponse": "Oxygène",
+            "MauvaiseRéponse": [
+              "Dioxyde de carbone",
+              "Méthane",
+              "Azote"
+            ],
+            "Explication": "Pendant la photosynthèse, les plantes et les algues produisent de l'oxygène comme sous-produit, le libérant dans l'atmosphère. Ce processus est vital pour le cycle de l'oxygène et la subsistance de la vie sur Terre."
+          },
+          {
+            "Question": "Quelle est la formule chimique du méthane?",
+            "BonneRéponse": "CH4",
+            "MauvaiseRéponse": [
+              "CO2",
+              "H2O",
+              "NH3"
+            ],
+            "Explication": "Le méthane a pour formule chimique CH4, comprenant un atome de carbone lié à quatre atomes d'hydrogène. C'est un puissant gaz à effet de serre et un composant significatif du gaz naturel."
+          },
+          {
+            "Question": "Quel élément est couramment utilisé dans les batteries?",
+            "BonneRéponse": "Lithium",
+            "MauvaiseRéponse": [
+              "Sodium",
+              "Potassium",
+              "Magnésium"
+            ],
+            "Explication": "Le lithium est couramment utilisé dans les batteries rechargeables en raison de sa légèreté et de sa nature hautement réactive. C'est un élément essentiel dans les technologies modernes de stockage de l'énergie."
+          },
+          {
+            "Question": "Quel est l'état de la matière du dioxyde de carbone à température ambiante?",
+            "BonneRéponse": "Gaz",
+            "MauvaiseRéponse": [
+              "Liquide",
+              "Solide",
+              "Plasma"
+            ],
+            "Explication": "À température ambiante, le dioxyde de carbone existe sous forme de gaz. Il est connu pour son rôle crucial dans le cycle du carbone et en tant que gaz à effet de serre influençant le climat de la Terre."
+          },
+          {
+            "Question": "Quelle particule subatomique détermine l'identité d'un élément?",
+            "BonneRéponse": "Proton",
+            "MauvaiseRéponse": [
+              "Neutron",
+              "Électron",
+              "Photon"
+            ],
+            "Explication": "Les protons, avec une charge positive, sont les particules subatomiques qui définissent l'identité d'un élément et déterminent son numéro atomique. Ils se trouvent dans le noyau d'un atome avec les neutrons."
+          },
+          {
+            "Question": "Quel est le type de liaison dans une molécule de chlorure de sodium (NaCl)?",
+            "BonneRéponse": "Ionique",
+            "MauvaiseRéponse": [
+              "Covalente",
+              "Métallique",
+              "Hydrogène"
+            ],
+            "Explication": "Le chlorure de sodium (NaCl) est formé par une liaison ionique. Cela se produit lorsqu'un atome donne un électron à un autre, résultant en la formation d'ions positifs et négatifs qui s'attirent mutuellement."
+          },
+          {
+            "Question": "De quel élément chimique le nom provient-il du mot grec pour 'pierre'?",
+            "BonneRéponse": "Lithium",
+            "MauvaiseRéponse": [
+              "Titane",
+              "Platine",
+              "Mercure"
+            ],
+            "Explication": "Le nom 'lithium' est dérivé du mot grec 'lithos', signifiant pierre. Le lithium est un métal alcalin et se trouve dans divers minéraux, contribuant à l'origine du nom."
+          },
+          {
+            "Question": "Quel est le processus d'un substance passant directement de l'état solide à l'état gazeux?",
+            "BonneRéponse": "Sublimation",
+            "MauvaiseRéponse": [
+              "Déposition",
+              "Évaporation",
+              "Condensation"
+            ],
+            "Explication": "La sublimation est le processus par lequel une substance passe directement de l'état solide à l'état gazeux sans passer par l'état liquide. Ce phénomène est observé avec divers composés dans des conditions spécifiques."
+          },
+          {
+            "Question": "Quel type de réaction implique la combinaison de deux ou plusieurs substances pour former un nouveau composé?",
+            "BonneRéponse": "Synthèse",
+            "MauvaiseRéponse": [
+              "Décomposition",
+              "Combustion",
+              "Remplacement"
+            ],
+            "Explication": "Dans une réaction de synthèse, deux ou plusieurs substances se combinent pour former un nouveau composé. Ce processus implique souvent le réarrangement des atomes et la formation de liaisons chimiques."
+          },
+          {
+            "Question": "Quel est l'étude de la composition, de la structure et des propriétés de la matière?",
+            "BonneRéponse": "Chimie",
+            "MauvaiseRéponse": [
+              "Physique",
+              "Biologie",
+              "Géologie"
+            ],
+            "Explication": "La chimie est la discipline scientifique axée sur l'étude de la matière et de ses propriétés, y compris sa composition et sa structure. Elle englobe divers domaines tels que la chimie organique, inorganique et physique."
+          },
+          {
+            "Question": "Quelle est l'unité de mesure SI pour la quantité d'une substance?",
+            "BonneRéponse": "Mole",
+            "MauvaiseRéponse": [
+              "Newton",
+              "Ohm",
+              "Pascal"
+            ],
+            "Explication": "La mole est l'unité SI utilisée pour exprimer la quantité d'une substance, représentant le nombre d'entités d'Avogadro. Elle est essentielle en chimie quantitative pour mesurer les quantités d'atomes, de molécules ou d'ions."
+          },
+          {
+            "Question": "Quel est le processus d'une substance passant de l'état gazeux à l'état liquide appelé?",
+            "BonneRéponse": "Condensation",
+            "MauvaiseRéponse": [
+              "Sublimation",
+              "Évaporation",
+              "Congélation"
+            ],
+            "Explication": "La condensation est le processus par lequel une substance passe de l'état gazeux à l'état liquide. Cela se produit lorsque la température du gaz diminue, entraînant la formation de gouttelettes liquides."
+          },
+          {
+            "Question": "Quel élément est souvent utilisé comme catalyseur dans les réactions chimiques?",
+            "BonneRéponse": "Platine",
+            "MauvaiseRéponse": [
+              "Or",
+              "Rhodium",
+              "Palladium"
+            ],
+            "Explication": "Le platine est largement utilisé comme catalyseur dans diverses réactions chimiques en raison de sa capacité à promouvoir la réaction sans être consommé. Il joue un rôle crucial dans des industries telles que le raffinage du pétrole et les convertisseurs catalytiques automobiles."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la méthode traditionnelle de transport dans le biathlon ?",
+            "TrueAnswer": "Ski",
+            "FalseAnswer": [
+              "Snowboard",
+              "Patinage",
+              "Bobsleigh"
+            ],
+            "Explanation": "Le biathlon combine le ski de fond et le tir à la carabine, et trouve ses origines dans les exercices militaires norvégiens où les soldats skiaient sur de longues distances avec des carabines pour se défendre."
+          },
+          {
+            "Question": "Quel pays a accueilli les premiers Jeux olympiques d'hiver ?",
+            "TrueAnswer": "France",
+            "FalseAnswer": [
+              "Suisse",
+              "Norvège",
+              "Autriche"
+            ],
+            "Explanation": "Les premiers Jeux olympiques d'hiver ont eu lieu à Chamonix, en France, en 1924, et comprenaient 16 épreuves, dont le patinage artistique, le hockey sur glace et le ski."
+          },
+          {
+            "Question": "Quel est le sport olympique d'hiver le plus télévisé ?",
+            "TrueAnswer": "Patinage artistique",
+            "FalseAnswer": [
+              "Ski",
+              "Hockey sur glace",
+              "Bobsleigh"
+            ],
+            "Explanation": "Le patinage artistique attire un grand nombre de téléspectateurs en raison de sa grâce, de son art et de ses performances dramatiques, captivant le public par son haut niveau de compétence et ses routines complexes."
+          },
+          {
+            "Question": "Quel est l'objectif principal du curling ?",
+            "TrueAnswer": "Marquer des points",
+            "FalseAnswer": [
+              "Frapper les adversaires",
+              "Tirer le plus rapidement",
+              "Éviter les obstacles"
+            ],
+            "Explanation": "Les curlers cherchent à faire glisser des pierres sur une surface de glace vers une zone cible, marquant des points en plaçant les pierres les plus proches du centre de la cible."
+          },
+          {
+            "Question": "Quel sport olympique d'hiver implique des sauts, des vrilles et des routines artistiques ?",
+            "TrueAnswer": "Patinage artistique",
+            "FalseAnswer": [
+              "Patinage de vitesse",
+              "Snowboard",
+              "Saut à skis"
+            ],
+            "Explanation": "Les patineurs artistiques exécutent des enchaînements de pas complexes, des vrilles et des sauts sur de la musique, mettant en valeur l'athlétisme, l'habileté et l'expression artistique sur glace."
+          },
+          {
+            "Question": "Dans quelle épreuve les athlètes descendent une piste de glace tortueuse et inclinée ?",
+            "TrueAnswer": "Bobsleigh",
+            "FalseAnswer": [
+              "Luge",
+              "Ski cross",
+              "Snowboard slalom géant parallèle"
+            ],
+            "Explanation": "Les équipes de bobsleigh naviguent sur une piste dans un traîneau propulsé par la gravité, nécessitant une direction précise et un travail d'équipe pour atteindre des vitesses élevées et négocier des virages serrés."
+          },
+          {
+            "Question": "Quel est le principal objectif du ski alpin ?",
+            "TrueAnswer": "Terminer le parcours rapidement",
+            "FalseAnswer": [
+              "Réaliser des figures",
+              "Maintenir l'équilibre",
+              "Descendre lentement en dérapant"
+            ],
+            "Explanation": "Les skieurs alpins concourent pour terminer un parcours en un minimum de temps, mettant l'accent sur la vitesse, l'agilité et la précision technique tout en descendant des pentes raides et difficiles."
+          },
+          {
+            "Question": "Lequel des éléments suivants est une épreuve de combiné nordique ?",
+            "TrueAnswer": "Saut à ski et ski de fond",
+            "FalseAnswer": [
+              "Snowboard et patinage de vitesse",
+              "Bobsleigh et luge",
+              "Patinage artistique et hockey sur glace"
+            ],
+            "Explanation": "Le combiné nordique associe le saut à ski et le ski de fond, combinant l'athlétisme et les compétences des deux disciplines dans une seule épreuve."
+          },
+          {
+            "Question": "Quelle n'est pas une exigence dans le hockey sur glace ?",
+            "TrueAnswer": "Utiliser des patins de patinage artistique",
+            "FalseAnswer": [
+              "Porter un casque",
+              "Jouer avec un palet",
+              "Avoir des gardiens de but"
+            ],
+            "Explanation": "Les joueurs de hockey sur glace portent des patins conçus pour la force et la vitesse plutôt que des patins artistiques, qui sont plus étroits et moins adaptés aux mouvements de hockey."
+          },
+          {
+            "Question": "Quel sport olympique d'hiver implique des athlètes glissant sur le ventre sur des luges ?",
+            "TrueAnswer": "Luge",
+            "FalseAnswer": [
+              "Skeleton",
+              "Snowboard",
+              "Patinage de vitesse"
+            ],
+            "Explanation": "Les lugeurs se couchent sur le dos sur une petite luge, descendant tête première sur une piste glacée, négociant des virages serrés tout en visant la vitesse."
+          },
+          {
+            "Question": "Dans quel sport d'hiver les athlètes effectuent des acrobaties aériennes sur des skis ou des planches de snowboard ?",
+            "TrueAnswer": "Ski acrobatique/snowboard",
+            "FalseAnswer": [
+              "Biathlon",
+              "Curling",
+              "Saut à skis"
+            ],
+            "Explanation": "Les épreuves de ski acrobatique/snowboard tournent autour de sauts, de vrilles et de figures aériennes spectaculaires exécutées en ski ou en snowboard, démontrant habileté et style."
+          },
+          {
+            "Question": "Quel sport olympique d'hiver implique le tir de précision et le ski de fond ?",
+            "TrueAnswer": "Biathlon",
+            "FalseAnswer": [
+              "Hockey sur glace",
+              "Ski alpin",
+              "Bobsleigh"
+            ],
+            "Explanation": "Les biathlètes doivent fournir un effort physique intense tout en maintenant la précision, passant de l'exigence physique du ski de fond au tir au fusil avec précision."
+          },
+          {
+            "Question": "Quel est l'équipement essentiel pour le combiné nordique ?",
+            "TrueAnswer": "Skis et chaussures de saut à ski",
+            "FalseAnswer": [
+              "Patins à glace et crosses de hockey",
+              "Bâtons de ski et raquettes",
+              "Bottes de ski et planches de snowboard"
+            ],
+            "Explanation": "Le combiné nordique repose sur un équipement spécialisé, comprenant des skis longs et étroits et des chaussures de saut à ski conçues pour optimiser les performances en saut à ski et en ski de fond."
+          },
+          {
+            "Question": "Quel sport olympique d'hiver propose une épreuve par équipe appelée course de relais ?",
+            "TrueAnswer": "Patinage de vitesse",
+            "FalseAnswer": [
+              "Snowboard",
+              "Bobsleigh",
+              "Patinage artistique"
+            ],
+            "Explanation": "Les patineurs de vitesse participent à la course de relais, où les membres de l'équipe se relaient pour effectuer des tours de piste, nécessitant souvent des relais sans accroc et un positionnement stratégique."
+          },
+          {
+            "Question": "Quelle compétence est cruciale dans la compétition de halfpipe en snowboard ?",
+            "TrueAnswer": "Exécuter des figures acrobatiques",
+            "FalseAnswer": [
+              "Patinage de vitesse",
+              "Course d'endurance",
+              "Direction en bobsleigh"
+            ],
+            "Explanation": "Les snowboarders en halfpipe font preuve d'une habileté technique et d'une créativité en réalisant des manœuvres acrobatiques et des figures aériennes dans une structure en forme de demi-tube."
+          },
+          {
+            "Question": "Quelle compétition sportive d'hiver simule une descente en slalom à travers des portes ?",
+            "TrueAnswer": "Slalom ski",
+            "FalseAnswer": [
+              "Saut à skis",
+              "Snowboard cross",
+              "Curling"
+            ],
+            "Explanation": "Le slalom ski exige des athlètes qu'ils naviguent rapidement entre des portes très espacées tout en descendant un parcours raide, testant leur agilité, leur précision et leur capacité à s'adapter aux changements de terrain."
+          },
+          {
+            "Question": "Quels sont les deux éléments du ski cross ?",
+            "TrueAnswer": "Vitesse et stratégie",
+            "FalseAnswer": [
+              "Endurance et sauts",
+              "Précision et équilibre",
+              "Figures acrobatiques et flips"
+            ],
+            "Explanation": "Le ski cross exige des descentes rapides, des dépassements audacieux et des décisions stratégiques, mêlant la course à grande vitesse à des tactiques dans un format de compétition captivant."
+          },
+          {
+            "Question": "À quoi se réfère le terme 'nose grab' en snowboard ?",
+            "TrueAnswer": "Attraper l'avant de la planche",
+            "FalseAnswer": [
+              "Faire un saut périlleux en avant",
+              "Sauter de la pente",
+              "S'arrêter brusquement"
+            ],
+            "Explanation": "Un 'nose grab' consiste à descendre et attraper l'avant de la planche de snowboard lors d'une figure acrobatique aérienne, mettant en valeur l'habileté et le style dans le snowboard de compétition."
+          },
+          {
+            "Question": "Quel sport d'hiver implique une descente sur un parcours avec des sauts, des bosses et des virages relevés ?",
+            "TrueAnswer": "Ski cross",
+            "FalseAnswer": [
+              "Patinage artistique",
+              "Bobsleigh",
+              "Biathlon"
+            ],
+            "Explanation": "Les skieurs de ski cross vivent une course passionnante et rapide en descente, en naviguant à travers des obstacles et des défis, tout en luttant contre d'autres concurrents."
+          },
+          {
+            "Question": "Quelle est l'action principale dans le saut à ski ?",
+            "TrueAnswer": "Planer dans les airs",
+            "FalseAnswer": [
+              "Grimper une pente",
+              "Porter un équipement lourd",
+              "Naviguer sur une piste étroite"
+            ],
+            "Explanation": "Les sauteurs à ski se propulsent depuis un tremplin incliné, réalisant un vol contrôlé avec un atterrissage en extension, visant la distance et le style dans cette épreuve captivante."
+          }
+        ]
+      }
+    }
+  ]
+}

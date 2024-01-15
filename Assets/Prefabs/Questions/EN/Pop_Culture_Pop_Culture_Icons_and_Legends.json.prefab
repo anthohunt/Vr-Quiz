@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8021292338450316504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6427984437872393574}
+  - component: {fileID: 8393781639377048518}
+  m_Layer: 0
+  m_Name: Pop_Culture_Pop_Culture_Icons_and_Legends.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6427984437872393574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8021292338450316504}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8393781639377048518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8021292338450316504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which singer is known as the King of Pop?
+      TrueAnswer: Michael Jackson
+      FalseAnswer:
+      - Elvis Presley
+      - Justin Timberlake
+      - Prince
+      Explanation: Michael Jackson earned the title 'King of Pop' for his iconic
+        contributions to the music industry, including his album 'Thriller' which
+        remains the best-selling album of all time.
+    - Question: What is the real name of the rapper Eminem?
+      TrueAnswer: Marshall Mathers
+      FalseAnswer:
+      - Curtis Jackson
+      - Calvin Broadus
+      - Jay Z
+      Explanation: Eminem, born Marshall Mathers, rose to fame with his controversial
+        lyrics and personal storytelling, becoming one of the best-selling music
+        artists of all time.
+    - Question: Who is the director of the 'Star Wars' original trilogy?
+      TrueAnswer: George Lucas
+      FalseAnswer:
+      - Steven Spielberg
+      - James Cameron
+      - Christopher Nolan
+      Explanation: George Lucas, the visionary filmmaker, created and directed the
+        original 'Star Wars' trilogy, shaping the science fiction genre and modern
+        pop culture with his iconic creation.
+    - Question: Which actor portrayed the character Tony Stark (Iron Man) in the
+        Marvel Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Mark Ruffalo
+      - Chris Hemsworth
+      Explanation: Robert Downey Jr. brought Tony Stark to life with his charismatic
+        and witty portrayal, setting the standard for the iconic character within
+        the Marvel Cinematic Universe.
+    - Question: Which artist is commonly referred to as the 'Queen of Pop'?
+      TrueAnswer: Madonna
+      FalseAnswer:
+      - Britney Spears
+      - "Beyonc\xE9"
+      - Lady Gaga
+      Explanation: Madonna achieved global stardom as the 'Queen of Pop,' known for
+        her reinvention, bold stage performances, and chart-topping hits that have
+        influenced generations of pop music.
+    - Question: Which TV show features the character Walter White?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - Stranger Things
+      - The Office
+      - Game of Thrones
+      Explanation: '''Breaking Bad'' stars Bryan Cranston as Walter White, a high
+        school chemistry teacher turned drug kingpin, and is acclaimed for its intense
+        storytelling and character development.'
+    - Question: Who created the iconic animated series 'The Simpsons'?
+      TrueAnswer: Matt Groening
+      FalseAnswer:
+      - Seth MacFarlane
+      - Mike Judge
+      - Trey Parker
+      Explanation: Matt Groening is the mastermind behind 'The Simpsons,' a groundbreaking
+        animated series that satirizes American culture, featuring beloved characters
+        and becoming a cultural phenomenon in itself.
+    - Question: Which movie franchise features the character Captain Jack Sparrow?
+      TrueAnswer: Pirates of the Caribbean
+      FalseAnswer:
+      - Harry Potter
+      - The Lord of the Rings
+      - Fast & Furious
+      Explanation: Johnny Depp's portrayal of the eccentric Captain Jack Sparrow
+        in 'Pirates of the Caribbean' franchise captivated audiences, making the
+        character an enduring pop culture icon.
+    - Question: Which singer is known as the Voice of a Generation?
+      TrueAnswer: Bob Dylan
+      FalseAnswer:
+      - Frank Sinatra
+      - Whitney Houston
+      - Adele
+      Explanation: Bob Dylan's poetic and socially conscious songwriting earned him
+        the title 'Voice of a Generation,' as he influenced and reflected the turbulent
+        times of the 1960s and beyond.
+    - Question: Which actress played the iconic role of Holly Golightly in 'Breakfast
+        at Tiffany's'?
+      TrueAnswer: Audrey Hepburn
+      FalseAnswer:
+      - Grace Kelly
+      - Marilyn Monroe
+      - Elizabeth Taylor
+      Explanation: Audrey Hepburn's portrayal of Holly Golightly in 'Breakfast at
+        Tiffany's' established her as a style icon and solidified the film as a classic
+        in pop culture history.
+    - Question: Which band released the iconic album 'Sgt. Pepper's Lonely Hearts
+        Club Band'?
+      TrueAnswer: The Beatles
+      FalseAnswer:
+      - The Rolling Stones
+      - Led Zeppelin
+      - Queen
+      Explanation: '''Sgt. Pepper''s Lonely Hearts Club Band'' by The Beatles redefined
+        the potential of albums, blending diverse musical styles and innovative production
+        techniques to create a timeless masterpiece.'
+    - Question: Who is the creator of the iconic comic book character Spider-Man?
+      TrueAnswer: Stan Lee
+      FalseAnswer:
+      - Jack Kirby
+      - Bob Kane
+      - Frank Miller
+      Explanation: Stan Lee, along with Steve Ditko, co-created Spider-Man, introducing
+        a relatable teenage superhero with everyday struggles, revolutionizing the
+        comic book industry and inspiring countless fans.
+    - Question: Which director led the creation of the film 'The Dark Knight'?
+      TrueAnswer: Christopher Nolan
+      FalseAnswer:
+      - Tim Burton
+      - Zack Snyder
+      - J.J. Abrams
+      Explanation: Christopher Nolan's vision and direction in 'The Dark Knight'
+        elevated the superhero genre, earning critical acclaim and reshaping audience
+        expectations for comic book adaptations.
+    - Question: Who portrayed the iconic character Hermione Granger in the 'Harry
+        Potter' film series?
+      TrueAnswer: Emma Watson
+      FalseAnswer:
+      - Daniel Radcliffe
+      - Rupert Grint
+      - Keira Knightley
+      Explanation: Emma Watson's portrayal of Hermione Granger showcased her intelligence
+        and bravery, resonating with audiences and leaving a lasting impact on pop
+        culture.
+    - Question: Which artist released the famous album 'Purple Rain'?
+      TrueAnswer: Prince
+      FalseAnswer:
+      - Elton John
+      - David Bowie
+      - Michael Jackson
+      Explanation: Prince's 'Purple Rain' album showcased his musical versatility,
+        blending rock, R&B, and pop, contributing to his status as a pop culture
+        legend and earning critical acclaim for its innovation.
+    - Question: Which film features the character Ellen Ripley battling extraterrestrial
+        creatures?
+      TrueAnswer: Alien
+      FalseAnswer:
+      - Predator
+      - Terminator
+      - Blade Runner
+      Explanation: Sigourney Weaver's portrayal of Ellen Ripley in 'Alien' solidified
+        the character as an iconic figure in sci-fi horror, influencing future female
+        action heroes in cinema and pop culture.
+    - Question: Who is known for her hit song 'I Will Always Love You'?
+      TrueAnswer: Whitney Houston
+      FalseAnswer:
+      - Mariah Carey
+      - Celine Dion
+      - Tina Turner
+      Explanation: Whitney Houston's rendition of 'I Will Always Love You' achieved
+        immense success and became her signature song, solidifying her legacy as
+        a powerhouse vocalist in pop culture.
+    - Question: Which actor famously portrayed the character James Bond in 'Goldfinger'?
+      TrueAnswer: Sean Connery
+      FalseAnswer:
+      - Roger Moore
+      - Pierce Brosnan
+      - Timothy Dalton
+      Explanation: Sean Connery's suave portrayal of James Bond in 'Goldfinger' established
+        the character as a cultural icon, shaping the spy film genre and leaving
+        an indelible mark on pop culture.
+    - Question: Which TV show features the character Daenerys Targaryen?
+      TrueAnswer: Game of Thrones
+      FalseAnswer:
+      - The Walking Dead
+      - Stranger Things
+      - Breaking Bad
+      Explanation: '''Game of Thrones'' depicts the journey of Daenerys Targaryen,
+        known for her dragons and quest for power, shaping the fantasy genre and
+        captivating audiences with intricate storytelling.'
+    - Question: Which artist is widely recognized for the album 'Bad'?
+      TrueAnswer: Michael Jackson
+      FalseAnswer:
+      - Prince
+      - Madonna
+      - Stevie Wonder
+      Explanation: '''Bad'' by Michael Jackson showcased his unparalleled artistry
+        and impact, producing chart-topping hits and cementing his status as a pop
+        culture phenomenon worldwide.'

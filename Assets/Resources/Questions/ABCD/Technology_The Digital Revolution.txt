@@ -1,0 +1,134 @@
+{
+    "The Digital Revolution": [
+        {
+            "Questions": [
+                {
+                    "Question": "What year did the Digital Revolution begin?",
+                    "TrueAnswer": "1950s",
+                    "FalseAnswer": ["1970s", "1980s", "1990s"],
+                    "Explanation": "The Digital Revolution started in the 1950s with the development of early computers."
+                },
+                {
+                    "Question": "Who is considered the father of the Digital Revolution?",
+                    "TrueAnswer": "Alan Turing",
+                    "FalseAnswer": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
+                    "Explanation": "Alan Turing is often credited as the father of the Digital Revolution for his work in computer science and artificial intelligence."
+                },
+                {
+                    "Question": "What was the first computer to be commercially available?",
+                    "TrueAnswer": "UNIVAC I",
+                    "FalseAnswer": ["ENIAC", "IBM 360", "Apple I"],
+                    "Explanation": "The UNIVAC I, developed by J. Presper Eckert and John Mauchly, was the first commercially available computer."
+                },
+                {
+                    "Question": "What is the term for the process of converting analog information into digital format?",
+                    "TrueAnswer": "Digitization",
+                    "FalseAnswer": ["Virtualization", "Encryption", "Decryption"],
+                    "Explanation": "Digitization refers to the process of converting analog information, such as sound or images, into digital format."
+                },
+                {
+                    "Question": "Which company introduced the first personal computer?",
+                    "TrueAnswer": "IBM",
+                    "FalseAnswer": ["Apple", "Microsoft", "Dell"],
+                    "Explanation": "IBM introduced the first personal computer, the IBM 5150, in 1981, which helped popularize personal computing."
+                },
+                {
+                    "Question": "What is the term for the ability of computers to perform tasks that normally require human intelligence?",
+                    "TrueAnswer": "Artificial intelligence",
+                    "FalseAnswer": ["Virtual reality", "Augmented reality", "Machine learning"],
+                    "Explanation": "Artificial intelligence refers to the ability of computers to perform tasks that typically require human intelligence, such as speech recognition or decision-making."
+                },
+                {
+                    "Question": "What is the name of the first widely-used graphical web browser?",
+                    "TrueAnswer": "Mosaic",
+                    "FalseAnswer": ["Internet Explorer", "Netscape Navigator", "Google Chrome"],
+                    "Explanation": "Mosaic, developed by the National Center for Supercomputing Applications, was the first widely-used graphical web browser."
+                },
+                {
+                    "Question": "What is the term for the process of transmitting data over long distances using a network?",
+                    "TrueAnswer": "Networking",
+                    "FalseAnswer": ["Cloud computing", "Data mining", "Wireless communication"],
+                    "Explanation": "Networking refers to the process of transmitting data over long distances using a network infrastructure, such as the internet."
+                },
+                {
+                    "Question": "What is the name of the first successful mass-market digital camera?",
+                    "TrueAnswer": "Kodak DC40",
+                    "FalseAnswer": ["Canon EOS 5D", "Nikon D850", "Sony Alpha A7 III"],
+                    "Explanation": "The Kodak DC40, released in 1995, was the first successful mass-market digital camera, revolutionizing photography."
+                },
+                {
+                    "Question": "What is the term for the process of storing data on remote servers accessible via the internet?",
+                    "TrueAnswer": "Cloud computing",
+                    "FalseAnswer": ["Blockchain", "Virtualization", "Big data"],
+                    "Explanation": "Cloud computing involves storing and accessing data and programs on remote servers via the internet, providing flexibility and scalability."
+                },
+                {
+                    "Question": "What is the term for the process of protecting data by converting it into a code?",
+                    "TrueAnswer": "Encryption",
+                    "FalseAnswer": ["Firewall", "Antivirus", "Backup"],
+                    "Explanation": "Encryption is the process of converting data into a code to protect it from unauthorized access or interception."
+                },
+                {
+                    "Question": "What is the term for the process of reversing encryption to make data readable again?",
+                    "TrueAnswer": "Decryption",
+                    "FalseAnswer": ["Hacking", "Phishing", "Malware"],
+                    "Explanation": "Decryption is the process of reversing encryption to make encrypted data readable again using a decryption key."
+                },
+                {
+                    "Question": "What is the term for the process of simulating a real environment using computer technology?",
+                    "TrueAnswer": "Virtual reality",
+                    "FalseAnswer": ["Artificial intelligence", "Augmented reality", "Machine learning"],
+                    "Explanation": "Virtual reality involves simulating a real environment using computer technology, often through the use of headsets or goggles."
+                },
+                {
+                    "Question": "What is the term for the process of enhancing a real environment with computer-generated elements?",
+                    "TrueAnswer": "Augmented reality",
+                    "FalseAnswer": ["Virtual reality", "Artificial intelligence", "Machine learning"],
+                    "Explanation": "Augmented reality involves enhancing a real environment with computer-generated elements, such as graphics or information overlays."
+                },
+                {
+                    "Question": "What is the term for the process of training computers to learn and improve from experience?",
+                    "TrueAnswer": "Machine learning",
+                    "FalseAnswer": ["Data mining", "Cloud computing", "Internet of Things"],
+                    "Explanation": "Machine learning involves training computers to learn and improve from experience without being explicitly programmed."
+                },
+                {
+                    "Question": "What is the term for the process of analyzing large sets of data to uncover patterns or insights?",
+                    "TrueAnswer": "Data mining",
+                    "FalseAnswer": ["Cloud computing", "Artificial intelligence", "Blockchain"],
+                    "Explanation": "Data mining involves analyzing large sets of data to discover patterns, correlations, or insights that can be used for decision-making."
+                },
+                {
+                    "Question": "What is the term for the process of securely verifying the identity of a user?",
+                    "TrueAnswer": "Authentication",
+                    "FalseAnswer": ["Authorization", "Encryption", "Firewall"],
+                    "Explanation": "Authentication is the process of securely verifying the identity of a user, often through passwords, biometrics, or security tokens."
+                },
+                {
+                    "Question": "What is the term for the process of granting or denying access to resources based on user permissions?",
+                    "TrueAnswer": "Authorization",
+                    "FalseAnswer": ["Authentication", "Encryption", "Firewall"],
+                    "Explanation": "Authorization is the process of granting or denying access to resources based on user permissions or privileges."
+                },
+                {
+                    "Question": "What is the term for the process of protecting computer systems from unauthorized access or attacks?",
+                    "TrueAnswer": "Cybersecurity",
+                    "FalseAnswer": ["Data backup", "Network security", "Software development"],
+                    "Explanation": "Cybersecurity involves protecting computer systems, networks, and data from unauthorized access, attacks, or damage."
+                },
+                {
+                    "Question": "What is the term for the process of creating a copy of data to prevent loss or corruption?",
+                    "TrueAnswer": "Data backup",
+                    "FalseAnswer": ["Data recovery", "Data migration", "Data encryption"],
+                    "Explanation": "Data backup involves creating copies of data to ensure its availability in case of loss, corruption, or disaster."
+                },
+                {
+                    "Question": "What is the term for the process of transferring data from one system or format to another?",
+                    "TrueAnswer": "Data migration",
+                    "FalseAnswer": ["Data backup", "Data recovery", "Data encryption"],
+                    "Explanation": "Data migration involves transferring data from one system, storage device, or format to another, often during system upgrades or replacements."
+                }
+            ]
+        }
+    ]
+}

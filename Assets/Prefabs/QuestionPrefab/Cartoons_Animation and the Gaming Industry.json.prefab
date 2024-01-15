@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3861541273754388175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8792258039027436646}
+  - component: {fileID: 7477065926144948305}
+  m_Layer: 0
+  m_Name: Cartoons_Animation and the Gaming Industry.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8792258039027436646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861541273754388175}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7477065926144948305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3861541273754388175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the main character in the cartoon 'SpongeBob SquarePants'?
+      TrueAnswer: SpongeBob
+      FalseAnswer:
+      - Patrick
+      - Squidward
+      - Mr. Krabs
+      Explanation: SpongeBob SquarePants is a yellow sponge who lives in a pineapple
+        under the sea.
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - Scooby-Doo
+      - Tom
+      Explanation: Bugs Bunny is a popular Looney Tunes character known for his catchphrase
+        'What's up, Doc?'
+    - Question: Which cartoon features a family with a yellow-skinned father named
+        Homer?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Family Guy
+      - South Park
+      - Rick and Morty
+      Explanation: The Simpsons is a long-running animated sitcom that follows the
+        lives of the Simpson family.
+    - Question: Which animated film features a snowman named Olaf?
+      TrueAnswer: Frozen
+      FalseAnswer:
+      - Toy Story
+      - The Lion King
+      - Finding Nemo
+      Explanation: Olaf is a lovable snowman character from the Disney film 'Frozen'.
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob
+      FalseAnswer:
+      - Patrick
+      - Squidward
+      - Mr. Krabs
+      Explanation: SpongeBob SquarePants is a yellow sponge who lives in a pineapple
+        under the sea.
+    - Question: Which cartoon character is known for his catchphrase 'What's up,
+        Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - Scooby-Doo
+      - Tom
+      Explanation: Bugs Bunny is a popular Looney Tunes character known for his catchphrase
+        'What's up, Doc?'
+    - Question: Which animated sitcom follows the lives of the Simpson family?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Family Guy
+      - South Park
+      - Rick and Morty
+      Explanation: The Simpsons is a long-running animated sitcom that follows the
+        lives of the Simpson family.
+    - Question: Which Disney film features a lovable snowman character named Olaf?
+      TrueAnswer: Frozen
+      FalseAnswer:
+      - Toy Story
+      - The Lion King
+      - Finding Nemo
+      Explanation: Olaf is a lovable snowman character from the Disney film 'Frozen'.
+    - Question: Who is the main character in the cartoon 'Tom and Jerry'?
+      TrueAnswer: Tom
+      FalseAnswer:
+      - Jerry
+      - Spike
+      - Butch
+      Explanation: Tom is a mischievous cat who is always trying to catch Jerry,
+        the clever mouse.
+    - Question: Which cartoon character is known for his love of lasagna and sleeping?
+      TrueAnswer: Garfield
+      FalseAnswer:
+      - Snoopy
+      - Stitch
+      - Sylvester
+      Explanation: Garfield is a lazy, orange cat who loves eating lasagna and taking
+        naps.
+    - Question: Which animated film features a young lion named Simba?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Toy Story
+      - Frozen
+      - Finding Nemo
+      Explanation: The Lion King is a Disney film that tells the story of a young
+        lion named Simba.
+    - Question: Which cartoon character is known for his love of lasagna and sleeping?
+      TrueAnswer: Garfield
+      FalseAnswer:
+      - Snoopy
+      - Stitch
+      - Sylvester
+      Explanation: Garfield is a lazy, orange cat who loves eating lasagna and taking
+        naps.
+    - Question: Which animated film features a young lion as the main character?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Toy Story
+      - Frozen
+      - Finding Nemo
+      Explanation: The Lion King is a Disney film that tells the story of a young
+        lion named Simba.
+    - Question: Who is the main character in the cartoon 'Tom and Jerry'?
+      TrueAnswer: Tom
+      FalseAnswer:
+      - Jerry
+      - Spike
+      - Butch
+      Explanation: Tom is a mischievous cat who is always trying to catch Jerry,
+        the clever mouse.
+    - Question: Which cartoon character is known for his catchphrase 'Scooby-Dooby-Doo!'?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Bugs Bunny
+      - Mickey Mouse
+      - Tom
+      Explanation: Scooby-Doo is a lovable Great Dane who solves mysteries with his
+        friends.
+    - Question: Which animated sitcom follows the lives of a dysfunctional family
+        in Quahog?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - The Simpsons
+      - South Park
+      - Rick and Morty
+      Explanation: Family Guy is an animated sitcom that follows the Griffin family
+        in the fictional town of Quahog.
+    - Question: Which Disney film features a clownfish named Nemo?
+      TrueAnswer: Finding Nemo
+      FalseAnswer:
+      - Toy Story
+      - The Lion King
+      - Frozen
+      Explanation: Finding Nemo is a heartwarming Disney film that follows the journey
+        of a clownfish named Nemo.
+    - Question: Which cartoon character is known for his catchphrase 'Scooby-Dooby-Doo!'?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Bugs Bunny
+      - Mickey Mouse
+      - Tom
+      Explanation: Scooby-Doo is a lovable Great Dane who solves mysteries with his
+        friends.
+    - Question: Which animated sitcom follows the lives of a dysfunctional family
+        in the fictional town of Quahog?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - The Simpsons
+      - South Park
+      - Rick and Morty
+      Explanation: Family Guy is an animated sitcom that follows the Griffin family
+        in the fictional town of Quahog.
+    - Question: Which Disney film follows the journey of a clownfish named Nemo?
+      TrueAnswer: Finding Nemo
+      FalseAnswer:
+      - Toy Story
+      - The Lion King
+      - Frozen
+      Explanation: Finding Nemo is a heartwarming Disney film that follows the journey
+        of a clownfish named Nemo.

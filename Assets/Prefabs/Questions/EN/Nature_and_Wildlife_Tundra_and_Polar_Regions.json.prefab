@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3030344502845635691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4189228833773218889}
+  - component: {fileID: 160494796584668578}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Tundra_and_Polar_Regions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4189228833773218889
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3030344502845635691}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &160494796584668578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3030344502845635691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the average temperature in the Arctic Circle during winter?
+      TrueAnswer: "-30\xB0C"
+      FalseAnswer:
+      - "0\xB0C"
+      - "-10\xB0C"
+      - "-20\xB0C"
+      Explanation: "The Arctic Circle experiences extremely cold winters with temperatures
+        often dropping to around -30\xB0C."
+    - Question: Which animal is known for its white fur and high tolerance to cold?
+      TrueAnswer: Polar Bear
+      FalseAnswer:
+      - Arctic Fox
+      - Reindeer
+      - Moose
+      Explanation: The Polar Bear's white fur acts as camouflage in the snow, and
+        its thick layer of blubber provides insulation from the cold.
+    - Question: What is the term for the natural phenomenon of the Northern Lights?
+      TrueAnswer: Aurora Borealis
+      FalseAnswer:
+      - Lunar Eclipse
+      - Solar Flare
+      - Milky Way
+      Explanation: The Aurora Borealis, or Northern Lights, occurs when charged particles
+        from the sun collide with Earth's atmosphere near the poles.
+    - Question: Which bird is known for its great migration from the tundra to the
+        Arctic?
+      TrueAnswer: Snow Goose
+      FalseAnswer:
+      - Puffin
+      - Ptarmigan
+      - Arctic Tern
+      Explanation: The Snow Goose undertakes one of the longest migrations of any
+        bird, traveling from the tundra to the Arctic in spring.
+    - Question: What type of landscape is typical in the tundra biome?
+      TrueAnswer: Treeless
+      FalseAnswer:
+      - Forest
+      - Swampy
+      - Mountainous
+      Explanation: The tundra is characterized by a treeless landscape, with low
+        vegetation due to the cold climate and short growing season.
+    - Question: What is the primary vegetation in the tundra?
+      TrueAnswer: Mosses and Lichens
+      FalseAnswer:
+      - Palm Trees
+      - Ferns
+      - Cacti
+      Explanation: The tundra's harsh environment supports mainly mosses and lichens,
+        which are adapted to survive in low temperatures and poor soils.
+    - Question: Which mammal is known for its thick woolly undercoat and long migrations?
+      TrueAnswer: Caribou
+      FalseAnswer:
+      - Wolverine
+      - Lynx
+      - Musk Ox
+      Explanation: Caribou have a woolly undercoat that provides insulation in the
+        cold, and they undertake impressive migrations in search of food and breeding
+        grounds.
+    - Question: What natural phenomenon is caused by the spin of the Earth on its
+        axis?
+      TrueAnswer: Polar Vortex
+      FalseAnswer:
+      - Tsunami
+      - Hurricane
+      - Tornado
+      Explanation: The Polar Vortex is a mass of low-pressure cold air that circles
+        the Earth's poles, created by the planet's rotational spin.
+    - Question: Which sea creature is adapted to thrive in the extreme cold of the
+        Arctic Ocean?
+      TrueAnswer: Beluga Whale
+      FalseAnswer:
+      - Dolphin
+      - Sea Turtle
+      - Great White Shark
+      Explanation: The Beluga Whale has a thick insulating layer of blubber and a
+        unique ability to dive and swim in icy Arctic waters.
+    - Question: What is the main predator of the Arctic Hare in the tundra?
+      TrueAnswer: Arctic Fox
+      FalseAnswer:
+      - Polar Bear
+      - Snowy Owl
+      - Gray Wolf
+      Explanation: The Arctic Fox preys on the Arctic Hare, using its keen sense
+        of hearing and excellent hunting skills in the tundra environment.
+    - Question: What adaptation helps plants survive the harsh conditions of the
+        tundra?
+      TrueAnswer: Shallow Roots
+      FalseAnswer:
+      - Deep Roots
+      - Thick Bark
+      - Large Leaves
+      Explanation: Plants in the tundra have shallow roots to access the thin layer
+        of soil and reduce exposure to permafrost.
+    - Question: What is the primary source of food for many animals in the tundra
+        ecosystem?
+      TrueAnswer: Lichens
+      FalseAnswer:
+      - Seaweed
+      - Grass
+      - Berries
+      Explanation: Lichens are a crucial food source for many tundra animals, providing
+        essential nutrients and energy during winter months.
+    - Question: What is the main cause of habitat loss in the tundra and polar regions?
+      TrueAnswer: Climate Change
+      FalseAnswer:
+      - Wildfires
+      - Human Activities
+      - Industrial Pollution
+      Explanation: Climate change is leading to the melting of polar ice and the
+        loss of tundra habitat, threatening the survival of many species in these
+        regions.
+    - Question: Which large herbivore migrates across the tundra in search of grazing
+        areas?
+      TrueAnswer: Musk Ox
+      FalseAnswer:
+      - Bison
+      - Elk
+      - Moose
+      Explanation: Musk Oxen undertake seasonal migrations to find suitable grazing
+        areas, moving long distances to access food sources in the tundra.
+    - Question: What is the main insect pest that affects wildlife and humans in
+        the tundra?
+      TrueAnswer: Mosquito
+      FalseAnswer:
+      - Tick
+      - Flea
+      - Fly
+      Explanation: Mosquitoes thrive in the tundra during the short summer, posing
+        challenges for wildlife and humans with their irritating bites and potential
+        disease transmission.
+    - Question: What type of bear is well-adapted to the cold, harsh environment
+        of the tundra?
+      TrueAnswer: Grizzly Bear
+      FalseAnswer:
+      - Black Bear
+      - Panda Bear
+      - Sloth Bear
+      Explanation: The Grizzly Bear has a powerful build, thick fur, and a strong
+        hibernation ability, enabling it to survive in the challenging conditions
+        of the tundra.
+    - Question: What is the term for the layer of permanently frozen soil in the
+        tundra?
+      TrueAnswer: Permafrost
+      FalseAnswer:
+      - Bedrock
+      - Topsoil
+      - Pebbles
+      Explanation: Permafrost is a critical feature of the tundra, influencing the
+        landscape, hydrology, and ecosystem dynamics in the polar regions.
+    - Question: Which plant is an important food source for many herbivores in the
+        tundra?
+      TrueAnswer: Arctic Willow
+      FalseAnswer:
+      - Pine Tree
+      - Sunflower
+      - Daisy
+      Explanation: The Arctic Willow provides important sustenance for numerous herbivores
+        in the tundra, contributing to the delicate ecosystem balance of the region.
+    - Question: What is the main cause of death for young seal pups in the Arctic?
+      TrueAnswer: Polar Bear Predation
+      FalseAnswer:
+      - Drowning
+      - Starvation
+      - Harsh Weather
+      Explanation: Polar Bear predation poses a significant threat to young seal
+        pups in the Arctic, impacting the population dynamics of these marine mammals.
+    - Question: What is the primary diet of the Arctic fox in the tundra?
+      TrueAnswer: Small Rodents
+      FalseAnswer:
+      - Bird Eggs
+      - Berry Bushes
+      - Kelp
+      Explanation: The Arctic Fox primarily hunts small rodents, using its keen senses
+        and agile hunting techniques to capture prey in the tundra environment.

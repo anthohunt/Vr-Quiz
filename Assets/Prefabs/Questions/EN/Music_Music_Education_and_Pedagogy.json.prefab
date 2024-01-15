@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8929070045731765940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7414009193010990010}
+  - component: {fileID: 6794601182834280741}
+  m_Layer: 0
+  m_Name: Music_Music_Education_and_Pedagogy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7414009193010990010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8929070045731765940}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6794601182834280741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8929070045731765940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: "Name the primary elements of music according to the Kod\xE1ly method."
+      TrueAnswer: Rhythm, Pitch, and Form
+      FalseAnswer:
+      - Melody, Harmony, and Texture
+      - Tempo, Dynamics, and Timbre
+      - Accidentals, Modulation, and Cadences
+      Explanation: "The Kod\xE1ly method emphasizes teaching music through singing,
+        using solfege, and recognizing rhythm, pitch, and form in musical pieces."
+    - Question: What is the order of the Suzuki method's teaching elements?
+      TrueAnswer: Listening, Repetition, and Mastery
+      FalseAnswer:
+      - Reading, Writing, and Composing
+      - Technique, Expression, and Interpretation
+      - Improvisation, Coordination, and Creativity
+      Explanation: The Suzuki method prioritizes ear-training through listening,
+        followed by repetition and mastery of music pieces before engaging in reading
+        music notation.
+    - Question: In music education, which concept does the Dalcroze method emphasize?
+      TrueAnswer: Music through movement
+      FalseAnswer:
+      - Music theory and analysis
+      - Sight-reading and sight-singing
+      - Instrument technique and performance
+      Explanation: The Dalcroze method promotes the understanding of music through
+        physical expression and movement, integrating rhythmic movement with musical
+        elements.
+    - Question: What is the primary goal of Orff Schulwerk approach to music education?
+      TrueAnswer: Whole-body engagement in music-making
+      FalseAnswer:
+      - Developing perfect pitch in students
+      - Encouraging individualized practice
+      - Emphasizing traditional music notation
+      Explanation: Orff Schulwerk emphasizes active participation, ensemble playing,
+        and elemental music making, engaging the whole body in musical activities
+        within a supportive group setting.
+    - Question: Which teaching method focuses on improvisation and composition as
+        core elements?
+      TrueAnswer: "Kod\xE1ly method"
+      FalseAnswer:
+      - Suzuki method
+      - Dalcroze method
+      - Orff Schulwerk
+      Explanation: "The Kod\xE1ly method encourages students to create music through
+        improvisation and composition, fostering creativity and personal expression
+        in musical learning."

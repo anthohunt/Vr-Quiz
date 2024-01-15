@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &190602270737205375
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2559657291128486905}
+  - component: {fileID: 847550951465719150}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Vegetarian_and_Vegan_Cuisine.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2559657291128486905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 190602270737205375}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &847550951465719150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 190602270737205375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main ingredient in tempeh?
+      TrueAnswer: Soybeans
+      FalseAnswer:
+      - Quinoa
+      - Chickpeas
+      - Lentils
+      Explanation: Tempeh is a traditional Indonesian food made from fermented soybeans,
+        known for its high protein and fiber content.
+    - Question: Which of these ingredients is commonly used to replace eggs in vegan
+        baking?
+      TrueAnswer: Flaxseeds
+      FalseAnswer:
+      - Bread crumbs
+      - Almond flour
+      - Coconut oil
+      Explanation: Flaxseeds soaked in water form a gelatinous mixture that can be
+        used as a binding agent in vegan baking recipes.
+    - Question: What is the key ingredient in a classic hummus recipe?
+      TrueAnswer: Chickpeas
+      FalseAnswer:
+      - Black beans
+      - Kidney beans
+      - Lentils
+      Explanation: Hummus, a popular Middle Eastern dip, is made from cooked and
+        mashed chickpeas blended with tahini, olive oil, lemon juice, and garlic.
+    - Question: Which of these grains is gluten-free?
+      TrueAnswer: Quinoa
+      FalseAnswer:
+      - Barley
+      - Bulgur
+      - Farro
+      Explanation: Quinoa is a gluten-free superfood that is high in protein and
+        contains all nine essential amino acids, making it a nutritious alternative
+        for gluten-intolerant individuals.
+    - Question: What is the primary ingredient in a traditional miso soup?
+      TrueAnswer: Soybean paste
+      FalseAnswer:
+      - Coconut milk
+      - Almond butter
+      - Tofu
+      Explanation: Miso soup, a staple of Japanese cuisine, is seasoned with fermented
+        soybean paste, providing a rich umami flavor and a source of probiotics.
+    - Question: Which plant-based milk is derived from a legume?
+      TrueAnswer: Soy milk
+      FalseAnswer:
+      - Almond milk
+      - Oat milk
+      - Coconut milk
+      Explanation: Soy milk is produced by soaking and grinding soybeans, then boiling
+        the mixture to create a creamy, dairy-free milk alternative.
+    - Question: What is the primary ingredient in a vegan Caesar salad dressing?
+      TrueAnswer: Cashews
+      FalseAnswer:
+      - Pumpkin seeds
+      - Sunflower oil
+      - Tahini
+      Explanation: Cashews, when blended with water and other flavorings, create
+        a creamy base for vegan Caesar dressing, mimicking the texture of traditional
+        dairy-based dressings.
+    - Question: Which of these vegetables is commonly used as a replacement for rice?
+      TrueAnswer: Cauliflower
+      FalseAnswer:
+      - Broccoli
+      - Zucchini
+      - Spinach
+      Explanation: Cauliflower rice, made by pulsing cauliflower florets in a food
+        processor, provides a low-carb, nutrient-dense alternative to traditional
+        rice for low-carb and paleo diets.
+    - Question: What is the primary ingredient in a vegan quiche filling?
+      TrueAnswer: Tofu
+      FalseAnswer:
+      - Seitan
+      - Eggplant
+      - Chia seeds
+      Explanation: Tofu, when blended with seasonings and vegetables, creates a custard-like
+        filling in vegan quiche recipes, offering a plant-based alternative to eggs.
+    - Question: What is the main binder in vegan burger patties?
+      TrueAnswer: Black beans
+      FalseAnswer:
+      - Chickpea flour
+      - Rice noodles
+      - Pumpkin puree
+      Explanation: Mashed black beans, when combined with grains and seasonings,
+        provide a firm texture and binding agent for homemade vegan burgers, enhancing
+        their protein content.
+    - Question: Which of these sweeteners is commonly used in vegan desserts?
+      TrueAnswer: Maple syrup
+      FalseAnswer:
+      - Honey
+      - Agave nectar
+      - Stevia
+      Explanation: Maple syrup, sourced from the sap of sugar maple trees, serves
+        as a natural vegan sweetener, imparting a distinct flavor to plant-based
+        desserts.
+    - Question: What is the primary ingredient in a vegan frittata?
+      TrueAnswer: Chickpea flour
+      FalseAnswer:
+      - Potatoes
+      - Artichokes
+      - Kale
+      Explanation: Chickpea flour, also known as besan or gram flour, forms the base
+        of vegan frittata batter, providing a protein-rich alternative to eggs.
+    - Question: Which of these vegetables is commonly used to create vegan sushi
+        rolls?
+      TrueAnswer: Avocado
+      FalseAnswer:
+      - Cucumber
+      - Carrot
+      - Asparagus
+      Explanation: Avocado, with its creamy texture and mild flavor, is a popular
+        ingredient in vegan sushi rolls, adding richness and contrasting textures.
+    - Question: What is the primary ingredient in a vegan mac and cheese sauce?
+      TrueAnswer: Cashews
+      FalseAnswer:
+      - Coconut oil
+      - Nutritional yeast
+      - Cauliflower
+      Explanation: Soaked cashews, when blended with nutritional yeast and seasonings,
+        create a creamy and indulgent sauce for vegan mac and cheese, mimicking the
+        richness of dairy-based sauces.
+    - Question: Which of these legumes is commonly used in vegan chili recipes?
+      TrueAnswer: Kidney beans
+      FalseAnswer:
+      - Lentils
+      - Black-eyed peas
+      - Cannellini beans
+      Explanation: Kidney beans, with their firm texture and ability to absorb flavors,
+        are a staple ingredient in hearty and satisfying vegan chili dishes.
+    - Question: What is the primary ingredient in a vegan pesto sauce?
+      TrueAnswer: Basil
+      FalseAnswer:
+      - Parsley
+      - Spinach
+      - Arugula
+      Explanation: Fresh basil leaves, when combined with pine nuts, garlic, and
+        olive oil, form the classic base of vegan pesto, offering a fragrant and
+        herbaceous sauce for pasta and dips.
+    - Question: Which of these fruits is commonly used as a natural sweetener in
+        vegan recipes?
+      TrueAnswer: Dates
+      FalseAnswer:
+      - Mango
+      - Pineapple
+      - Papaya
+      Explanation: Dates, high in natural sugars and nutrients, are often blended
+        into pastes or syrups to sweeten vegan desserts and baked goods without the
+        need for refined sugars.
+    - Question: What is the primary ingredient in a vegan butter substitute?
+      TrueAnswer: Coconut oil
+      FalseAnswer:
+      - Almond butter
+      - Soy lecithin
+      - Tahini
+      Explanation: Coconut oil, when solidified, can be used as a butter substitute
+        in vegan baking and cooking, providing a similar texture and richness in
+        recipes.
+    - Question: Which of these flours is commonly used in gluten-free vegan baking?
+      TrueAnswer: Brown rice flour
+      FalseAnswer:
+      - Spelt flour
+      - Barley flour
+      - Rye flour
+      Explanation: Brown rice flour, milled from whole brown rice grains, offers
+        a nutritious gluten-free alternative for baking vegan breads, cakes, and
+        pastries.

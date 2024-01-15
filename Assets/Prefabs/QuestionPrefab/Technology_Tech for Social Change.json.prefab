@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7650702288853127038
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5665389522142691104}
+  - component: {fileID: 8151960571891058071}
+  m_Layer: 0
+  m_Name: Technology_Tech for Social Change.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5665389522142691104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7650702288853127038}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8151960571891058071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7650702288853127038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main goal of tech for social change?
+      TrueAnswer: Addressing social issues
+      FalseAnswer:
+      - Entertainment
+      - Profit-making
+      - Promoting individualism
+      Explanation: Tech for social change aims to use technology to address and solve
+        social issues in society.
+    - Question: Which of the following is an example of tech for social change?
+      TrueAnswer: Crowdfunding platforms
+      FalseAnswer:
+      - Social media influencers
+      - Online gaming
+      - E-commerce websites
+      Explanation: Crowdfunding platforms enable individuals and organizations to
+        raise funds for social causes and projects.
+    - Question: What is the role of technology in social change?
+      TrueAnswer: Enabler
+      FalseAnswer:
+      - Barrier
+      - Distraction
+      - Inhibitor
+      Explanation: Technology acts as an enabler by providing tools and platforms
+        to facilitate social change efforts.
+    - Question: How can technology contribute to education for social change?
+      TrueAnswer: Online learning platforms
+      FalseAnswer:
+      - Social media influencers
+      - Video streaming services
+      - Online shopping platforms
+      Explanation: Online learning platforms offer accessible and affordable education
+        opportunities for individuals interested in social change.
+    - Question: What is the impact of tech for social change on marginalized communities?
+      TrueAnswer: Empowerment
+      FalseAnswer:
+      - Exclusion
+      - Exploitation
+      - Isolation
+      Explanation: Tech for social change empowers marginalized communities by providing
+        them with resources, opportunities, and a voice.
+    - Question: Which of the following is an example of tech for social change in
+        healthcare?
+      TrueAnswer: Telemedicine
+      FalseAnswer:
+      - Social media influencers
+      - Online gaming
+      - E-commerce websites
+      Explanation: Telemedicine allows individuals to access healthcare remotely,
+        improving access and reducing barriers to medical services.
+    - Question: What is the role of social media in tech for social change?
+      TrueAnswer: Amplifying voices
+      FalseAnswer:
+      - Silencing voices
+      - Promoting misinformation
+      - Encouraging division
+      Explanation: Social media platforms can amplify the voices of marginalized
+        communities and raise awareness about social issues.
+    - Question: Which of the following is an example of tech for social change in
+        environmental conservation?
+      TrueAnswer: Smart grid technology
+      FalseAnswer:
+      - Online shopping platforms
+      - Video streaming services
+      - Social media influencers
+      Explanation: Smart grid technology helps monitor and optimize energy usage,
+        promoting sustainability and environmental conservation.
+    - Question: What is the potential of tech for social change in disaster response?
+      TrueAnswer: Efficiency and coordination
+      FalseAnswer:
+      - Inefficiency and chaos
+      - Increased panic
+      - Delayed response
+      Explanation: Tech for social change can improve disaster response by enabling
+        efficient communication, coordination, and resource allocation.
+    - Question: Which of the following is an example of tech for social change in
+        human rights advocacy?
+      TrueAnswer: Digital activism
+      FalseAnswer:
+      - Online gaming
+      - E-commerce websites
+      - Social media influencers
+      Explanation: Digital activism utilizes technology to raise awareness, mobilize
+        support, and advocate for human rights issues.
+    - Question: What is the role of tech for social change in promoting equality?
+      TrueAnswer: Reducing disparities
+      FalseAnswer:
+      - Increasing disparities
+      - Maintaining the status quo
+      - Promoting discrimination
+      Explanation: Tech for social change aims to reduce disparities and promote
+        equality by providing equal access to resources and opportunities.
+    - Question: Which of the following is an example of tech for social change in
+        disaster preparedness?
+      TrueAnswer: Early warning systems
+      FalseAnswer:
+      - Online shopping platforms
+      - Video streaming services
+      - Social media influencers
+      Explanation: Early warning systems use technology to detect and alert communities
+        about potential disasters, improving preparedness and response.
+    - Question: What is the role of tech for social change in promoting civic engagement?
+      TrueAnswer: Empowering citizens
+      FalseAnswer:
+      - Suppressing citizens
+      - Discouraging participation
+      - Promoting apathy
+      Explanation: Tech for social change empowers citizens by providing platforms
+        for engagement, participation, and collective action.
+    - Question: Which of the following is an example of tech for social change in
+        education?
+      TrueAnswer: Open educational resources
+      FalseAnswer:
+      - Social media influencers
+      - Online gaming
+      - E-commerce websites
+      Explanation: Open educational resources provide free and accessible learning
+        materials, promoting equitable education opportunities.
+    - Question: What is the impact of tech for social change on community development?
+      TrueAnswer: Empowerment
+      FalseAnswer:
+      - Displacement
+      - Gentrification
+      - Isolation
+      Explanation: Tech for social change empowers communities by fostering collaboration,
+        innovation, and sustainable development.
+    - Question: Which of the following is an example of tech for social change in
+        poverty alleviation?
+      TrueAnswer: Microfinance platforms
+      FalseAnswer:
+      - Social media influencers
+      - Online gaming
+      - E-commerce websites
+      Explanation: Microfinance platforms provide financial services to individuals
+        and small businesses in underserved communities, promoting economic empowerment.
+    - Question: What is the role of tech for social change in promoting access to
+        information?
+      TrueAnswer: Breaking barriers
+      FalseAnswer:
+      - Creating barriers
+      - Limiting information
+      - Promoting censorship
+      Explanation: Tech for social change breaks barriers by providing access to
+        information, knowledge, and resources for all.
+    - Question: Which of the following is an example of tech for social change in
+        disaster recovery?
+      TrueAnswer: Crowdsourcing platforms
+      FalseAnswer:
+      - Online shopping platforms
+      - Video streaming services
+      - Social media influencers
+      Explanation: Crowdsourcing platforms enable communities to collaborate and
+        support disaster recovery efforts through collective action.
+    - Question: What is the potential of tech for social change in promoting sustainable
+        development?
+      TrueAnswer: Innovation and efficiency
+      FalseAnswer:
+      - Stagnation and inefficiency
+      - Environmental degradation
+      - Resource depletion
+      Explanation: Tech for social change can drive innovation and efficiency, leading
+        to sustainable development practices and solutions.
+    - Question: Which of the following is an example of tech for social change in
+        gender equality?
+      TrueAnswer: Online harassment reporting tools
+      FalseAnswer:
+      - Online gaming
+      - E-commerce websites
+      - Social media influencers
+      Explanation: Online harassment reporting tools empower individuals to report
+        and address gender-based harassment and discrimination online.
+    - Question: What is the role of tech for social change in promoting healthcare
+        access?
+      TrueAnswer: Improving accessibility
+      FalseAnswer:
+      - Limiting accessibility
+      - Increasing costs
+      - Promoting exclusivity
+      Explanation: Tech for social change improves healthcare access by providing
+        remote services, telemedicine, and health information resources.

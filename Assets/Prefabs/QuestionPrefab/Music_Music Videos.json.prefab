@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7744457492850805829
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3621915344847049656}
+  - component: {fileID: 2720584383146773452}
+  m_Layer: 0
+  m_Name: Music_Music Videos.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3621915344847049656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7744457492850805829}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2720584383146773452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7744457492850805829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the lead singer of the band Coldplay?
+      TrueAnswer: Chris Martin
+      FalseAnswer:
+      - Adam Levine
+      - Bono
+      - Dave Grohl
+      Explanation: Chris Martin is the lead singer of the British band Coldplay,
+        known for hits like 'Yellow' and 'Viva la Vida'.
+    - Question: Which artist released the music video for 'Bad Guy'?
+      TrueAnswer: Billie Eilish
+      FalseAnswer:
+      - Taylor Swift
+      - Ariana Grande
+      - Rihanna
+      Explanation: Billie Eilish released the music video for 'Bad Guy', which became
+        a viral sensation.
+    - Question: "What is the name of Beyonc\xE9's alter ego?"
+      TrueAnswer: Sasha Fierce
+      FalseAnswer:
+      - Queen B
+      - Riri
+      - Lady Gaga
+      Explanation: "Beyonc\xE9's alter ego is named Sasha Fierce, which she introduced
+        during her 'I Am... Sasha Fierce' album era."
+    - Question: Which music video features a dance-off between Michael Jackson and
+        a zombie?
+      TrueAnswer: Thriller
+      FalseAnswer:
+      - Smooth Criminal
+      - Beat It
+      - Billie Jean
+      Explanation: The music video for 'Thriller' by Michael Jackson features a dance-off
+        between him and a zombie.
+    - Question: "Who directed the music video for 'Formation' by Beyonc\xE9?"
+      TrueAnswer: Melina Matsoukas
+      FalseAnswer:
+      - David Fincher
+      - Spike Jonze
+      - Hype Williams
+      Explanation: Melina Matsoukas directed the music video for 'Formation', which
+        became a cultural phenomenon.
+    - Question: Which music video features Lady Gaga wearing a meat dress?
+      TrueAnswer: Bad Romance
+      FalseAnswer:
+      - Poker Face
+      - Just Dance
+      - Born This Way
+      Explanation: Lady Gaga wore a meat dress in the music video for 'Bad Romance',
+        making a bold fashion statement.
+    - Question: What is the name of the animated band in the music video for 'Feel
+        Good Inc.'?
+      TrueAnswer: Gorillaz
+      FalseAnswer:
+      - Daft Punk
+      - The White Stripes
+      - Arctic Monkeys
+      Explanation: The animated band in the music video for 'Feel Good Inc.' is called
+        Gorillaz.
+    - Question: Which music video features Britney Spears dancing in a school uniform?
+      TrueAnswer: Baby One More Time
+      FalseAnswer:
+      - Toxic
+      - Oops!... I Did It Again
+      - Crazy
+      Explanation: Britney Spears danced in a school uniform in the music video for
+        'Baby One More Time', her breakthrough hit.
+    - Question: "Who directed the music video for 'Single Ladies (Put a Ring on It)'
+        by Beyonc\xE9?"
+      TrueAnswer: Jake Nava
+      FalseAnswer:
+      - Joseph Kahn
+      - Paul Thomas Anderson
+      - Hype Williams
+      Explanation: "Jake Nava directed the iconic music video for 'Single Ladies
+        (Put a Ring on It)' by Beyonc\xE9."
+    - Question: Which music video features a dance routine on a treadmill?
+      TrueAnswer: Here It Goes Again
+      FalseAnswer:
+      - Uptown Funk
+      - Crazy in Love
+      - Gangnam Style
+      Explanation: The music video for 'Here It Goes Again' by OK Go features a dance
+        routine on treadmills.
+    - Question: What is the name of the band in the music video for 'Smells Like
+        Teen Spirit'?
+      TrueAnswer: Nirvana
+      FalseAnswer:
+      - Pearl Jam
+      - Soundgarden
+      - Alice in Chains
+      Explanation: The band in the music video for 'Smells Like Teen Spirit' is Nirvana,
+        led by Kurt Cobain.
+    - Question: Which music video features a group of men dancing in a synchronized
+        routine?
+      TrueAnswer: Backstreet's Back
+      FalseAnswer:
+      - Bye Bye Bye
+      - Everybody (Backstreet's Back)
+      - I Want It That Way
+      Explanation: The music video for 'Backstreet's Back' by the Backstreet Boys
+        features a synchronized dance routine.
+    - Question: Who directed the music video for 'Wrecking Ball' by Miley Cyrus?
+      TrueAnswer: Terry Richardson
+      FalseAnswer:
+      - David LaChapelle
+      - Hannah Lux Davis
+      - Sophie Muller
+      Explanation: Terry Richardson directed the controversial music video for 'Wrecking
+        Ball' by Miley Cyrus.
+    - Question: Which music video features a dance battle between Justin Timberlake
+        and a group of kids?
+      TrueAnswer: Can't Stop the Feeling!
+      FalseAnswer:
+      - SexyBack
+      - Cry Me a River
+      - Mirrors
+      Explanation: The music video for 'Can't Stop the Feeling!' by Justin Timberlake
+        features a dance battle with kids.
+    - Question: What is the name of the band in the music video for 'Bohemian Rhapsody'?
+      TrueAnswer: Queen
+      FalseAnswer:
+      - Led Zeppelin
+      - The Rolling Stones
+      - The Beatles
+      Explanation: The band in the music video for 'Bohemian Rhapsody' is Queen,
+        fronted by Freddie Mercury.
+    - Question: Which music video features a group of women dressed as cheerleaders?
+      TrueAnswer: Wannabe
+      FalseAnswer:
+      - Spice Up Your Life
+      - Say You'll Be There
+      - 2 Become 1
+      Explanation: The music video for 'Wannabe' by the Spice Girls features them
+        dressed as cheerleaders.
+    - Question: Who directed the music video for 'Hurt' by Johnny Cash?
+      TrueAnswer: Mark Romanek
+      FalseAnswer:
+      - Michel Gondry
+      - Spike Jonze
+      - David Fincher
+      Explanation: Mark Romanek directed the emotional music video for 'Hurt' by
+        Johnny Cash.
+    - Question: Which music video features a group of men dancing in a prison yard?
+      TrueAnswer: Thriller
+      FalseAnswer:
+      - Smooth Criminal
+      - Beat It
+      - Billie Jean
+      Explanation: The music video for 'Thriller' by Michael Jackson features a dance
+        routine in a prison yard.
+    - Question: What is the name of the band in the music video for 'November Rain'?
+      TrueAnswer: Guns N' Roses
+      FalseAnswer:
+      - Metallica
+      - AC/DC
+      - Nirvana
+      Explanation: The band in the music video for 'November Rain' is Guns N' Roses,
+        led by Axl Rose.
+    - Question: Which music video features a group of people dancing on treadmills?
+      TrueAnswer: Here It Goes Again
+      FalseAnswer:
+      - Uptown Funk
+      - Crazy in Love
+      - Gangnam Style
+      Explanation: The music video for 'Here It Goes Again' by OK Go features people
+        dancing on treadmills.

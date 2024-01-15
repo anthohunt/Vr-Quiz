@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6489189352982364654
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7106805720965746762}
+  - component: {fileID: 9124254569119661756}
+  m_Layer: 0
+  m_Name: Cartoons_Classic_Cartoons.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7106805720965746762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6489189352982364654}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9124254569119661756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6489189352982364654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the cat and mouse duo created by William Hanna and Joseph
+        Barbera?
+      TrueAnswer: Tom and Jerry
+      FalseAnswer:
+      - Sylvester and Tweety
+      - Itchy and Scratchy
+      - Ren and Stimpy
+      Explanation: Tom and Jerry, premiered in 1940, are known for their slapstick
+        comedy and chaotic chases.
+    - Question: What is the name of the Flintstones' pet dinosaur?
+      TrueAnswer: Dino
+      FalseAnswer:
+      - Rex
+      - Spike
+      - Barney
+      Explanation: Dino, a Snorkasaurus, is the loyal pet of the Flintstone family
+        in the animated show 'The Flintstones'.
+    - Question: Who is the main antagonist of the 'Scooby-Doo' series?
+      TrueAnswer: The Mystery, Inc. Gang encounters various antagonists in different
+        episodes.
+      FalseAnswer:
+      - Scrappy-Doo
+      - The Ghost of Captain Cutler
+      - Mr. Hyde
+      Explanation: The series is known for its 'monster of the week' format, with
+        diverse villains causing trouble for the gang.
+    - Question: What is the name of the spinach-eating sailor created by E.C. Segar?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Bluto
+      - Sailor Jack
+      - Captain Haddock
+      Explanation: Popeye debuted in the 'Thimble Theatre' comic strip in 1929, often
+        getting into adventures to rescue his love, Olive Oyl.
+    - Question: In 'Looney Tunes', who is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Sylvester
+      Explanation: Bugs Bunny, created in 1940, is one of the most recognizable and
+        beloved characters in American animation.
+    - Question: Which classic cartoon character had the catchphrase 'I tawt I taw
+        a puddy tat'?
+      TrueAnswer: Tweety Bird
+      FalseAnswer:
+      - Speedy Gonzales
+      - Foghorn Leghorn
+      - Elmer Fudd
+      Explanation: Tweety Bird, created in 1942, is known for outsmarting Sylvester
+        the cat in the 'Looney Tunes' series.
+    - Question: What is the name of the bear in 'The Yogi Bear Show'?
+      TrueAnswer: Yogi Bear
+      FalseAnswer:
+      - Boo-Boo Bear
+      - Huckleberry Hound
+      - Quick Draw McGraw
+      Explanation: '''The Yogi Bear Show'' premiered in 1961, focusing on the antics
+        of Yogi Bear and his sidekick Boo-Boo.'
+    - Question: Who is the sailor man best known for his love of hamburgers?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Bluto
+      - Olive Oyl
+      - Wimpy
+      Explanation: Popeye's love for spinach and disdain for Bluto are accompanied
+        by his catchphrase, 'I yam what I yam.'
+    - Question: What is the name of the duo who battle enemies in 'The Powerpuff
+        Girls'?
+      TrueAnswer: Blossom, Bubbles, and Buttercup
+      FalseAnswer:
+      - Misty, May, and Dawn
+      - Garnet, Amethyst, and Pearl
+      - Blossom, Bubbles, and Buttercup
+      Explanation: The Powerpuff Girls, created in 1998, are known for their unique
+        superpowers and their battles against Mojo Jojo and others.
+    - Question: Which classic cartoon features Wile E. Coyote's pursuit of the Road
+        Runner?
+      TrueAnswer: Looney Tunes
+      FalseAnswer:
+      - Tom and Jerry
+      - Scooby-Doo
+      - The Jetsons
+      Explanation: The 'Looney Tunes' series, known for its slapstick humor, captivated
+        audiences with the Road Runner's elusive maneuvers.
+    - Question: Who is the pink, innocent, and speech-impaired character in the 'Tom
+        and Jerry' series?
+      TrueAnswer: Nibbles
+      FalseAnswer:
+      - Jerry
+      - Mammy Two Shoes
+      - Butch
+      Explanation: Nibbles, also known as Tuffy, is a cute and endearing young mouse
+        who often helps Jerry outsmart Tom.
+    - Question: Which classic cartoon features a character whose catchphrase is 'Sufferin'
+        succotash!'?
+      TrueAnswer: Sylvester
+      FalseAnswer:
+      - Daffy Duck
+      - Foghorn Leghorn
+      - Elmer Fudd
+      Explanation: Sylvester the cat's iconic catchphrase became a memorable part
+        of the 'Looney Tunes' series.
+    - Question: What is the name of the black-and-white cat who chases a white mouse
+        in 'Porky's Hare Hunt'?
+      TrueAnswer: Bosko
+      FalseAnswer:
+      - Fritz the Cat
+      - Felix the Cat
+      - Oswald the Lucky Rabbit
+      Explanation: In 'Porky's Hare Hunt' (1938), Bosko made his debut, but he was
+        phased out later with the rise of other characters.
+    - Question: In 'The Jetsons', who is the robot maid of the Jetson family?
+      TrueAnswer: Rosie
+      FalseAnswer:
+      - Astro
+      - Orbitty
+      - R.U.D.I.
+      Explanation: Rosie, the sassy robot maid, provided comedic relief and household
+        assistance in the futuristic setting of 'The Jetsons'.
+    - Question: Which classic cartoon features a dog named Mr. Peabody and his boy,
+        Sherman, who travel through time?
+      TrueAnswer: The Rocky and Bullwinkle Show
+      FalseAnswer:
+      - Yogi Bear
+      - The Flintstones
+      - The Huckleberry Hound Show
+      Explanation: The educational and humorous adventures of Mr. Peabody and Sherman
+        were a segment of 'The Rocky and Bullwinkle Show'.
+    - Question: What is the name of the witch who is constantly trying to outsmart
+        'The Road Runner'?
+      TrueAnswer: Wile E. Coyote
+      FalseAnswer:
+      - Elmer Fudd
+      - Sylvester
+      - Yosemite Sam
+      Explanation: The hapless Wile E. Coyote continuously concocts inventive schemes
+        to capture the elusive Road Runner, to no avail.
+    - Question: Which classic cartoon character wears a bow tie and has an affinity
+        for mischief and mayhem?
+      TrueAnswer: Yogi Bear
+      FalseAnswer:
+      - Boo-Boo Bear
+      - Snagglepuss
+      - Wally Gator
+      Explanation: Yogi Bear's escapades in Jellystone Park often involve outsmarting
+        Rangers Smith and causing mischief.
+    - Question: Who is the spinach-loving, pipe-smoking character who first appeared
+        in 'Thimble Theatre' comic strip?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Bluto
+      - Sweet Pea
+      - Hagar the Horrible
+      Explanation: Popeye's popularity soared in the 1930s, leading to his own animated
+        series and comic strips.
+    - Question: Which classic cartoon is set in a futuristic world featuring the
+        Jetson family?
+      TrueAnswer: The Jetsons
+      FalseAnswer:
+      - The Flintstones
+      - Scooby-Doo
+      - The Smurfs
+      Explanation: The Jetsons, set in 2062, showcased a utopian vision of the future
+        with flying cars and whimsical technology.
+    - Question: In 'Looney Tunes', who is known for his love of carrots?
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Elmer Fudd
+      Explanation: Bugs Bunny's clever antics and love for carrots have solidified
+        his status as an iconic and beloved character.

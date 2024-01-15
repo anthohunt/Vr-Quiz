@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the purpose of the Web Content Accessibility Guidelines (WCAG)?",
+            "TrueAnswer": "To make web content more accessible to people with disabilities.",
+            "FalseAnswer": [
+              "To limit internet access",
+              "To improve internet speed",
+              "To promote web advertisements"
+            ],
+            "Explanation": "The WCAG provides a shared standard for web content accessibility to ensure that people with disabilities have equal access to information and functionality."
+          },
+          {
+            "Question": "Which term describes designing websites that adapt to various devices and screen sizes?",
+            "TrueAnswer": "Responsive design",
+            "FalseAnswer": [
+              "Dynamic design",
+              "Static design",
+              "Animated design"
+            ],
+            "Explanation": "Responsive design ensures that web content adapts to the screen size of the user's device, providing an optimal viewing experience across different devices and platforms."
+          },
+          {
+            "Question": "What is the global standard for creating accessible digital experiences?",
+            "TrueAnswer": "The Web Accessibility Initiative (WAI)",
+            "FalseAnswer": [
+              "The Internet Security Protocol (ISP)",
+              "The Digital Marketing Association (DMA)",
+              "The Coding Standards Committee (CSC)"
+            ],
+            "Explanation": "The WAI develops strategies, guidelines, and resources to help make the web more accessible to people with disabilities, ensuring a more inclusive online experience for all users."
+          },
+          {
+            "Question": "What is the purpose of alt text in web accessibility?",
+            "TrueAnswer": "To provide a textual alternative for images for users with disabilities.",
+            "FalseAnswer": [
+              "To track image views",
+              "To improve search engine rankings",
+              "To promote sponsored content"
+            ],
+            "Explanation": "Alt text is essential for providing a description of images to users who use screen readers or have images turned off, ensuring they have access to the same information as sighted users."
+          },
+          {
+            "Question": "What is the role of ARIA in web accessibility?",
+            "TrueAnswer": "To enhance the accessibility of dynamic content and advanced user interface components.",
+            "FalseAnswer": [
+              "To create animated graphics",
+              "To block pop-up ads",
+              "To encrypt online transactions"
+            ],
+            "Explanation": "ARIA, the Accessible Rich Internet Applications suite, helps improve the accessibility of web content and applications for people with disabilities, particularly those that require dynamic or interactive elements."
+          }
+        ]
+      }
+    }
+  ]
+}

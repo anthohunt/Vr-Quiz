@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &161337834465874882
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7230968377294736489}
+  - component: {fileID: 7860198959269212781}
+  m_Layer: 0
+  m_Name: Sports_Baseball's Golden Era.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7230968377294736489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 161337834465874882}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7860198959269212781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 161337834465874882}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who was the first player to hit 60 home runs in a single season?
+      TrueAnswer: Babe Ruth
+      FalseAnswer:
+      - Lou Gehrig
+      - Mickey Mantle
+      - Joe DiMaggio
+      Explanation: Babe Ruth became the first player to hit 60 home runs in a single
+        season in 1927.
+    - Question: Which team won the most World Series titles during the Golden Era?
+      TrueAnswer: New York Yankees
+      FalseAnswer:
+      - Boston Red Sox
+      - Brooklyn Dodgers
+      - Chicago Cubs
+      Explanation: The New York Yankees won the most World Series titles during the
+        Golden Era, with 16 championships.
+    - Question: Who was the first African-American player in Major League Baseball?
+      TrueAnswer: Jackie Robinson
+      FalseAnswer:
+      - Satchel Paige
+      - Hank Aaron
+      - Willie Mays
+      Explanation: Jackie Robinson broke the color barrier in Major League Baseball
+        when he debuted in 1947.
+    - Question: Which pitcher holds the record for the most career wins?
+      TrueAnswer: Cy Young
+      FalseAnswer:
+      - Sandy Koufax
+      - Nolan Ryan
+      - Roger Clemens
+      Explanation: Cy Young holds the record for the most career wins with 511 victories.
+    - Question: Who was known as the 'Iron Horse'?
+      TrueAnswer: Lou Gehrig
+      FalseAnswer:
+      - Babe Ruth
+      - Ty Cobb
+      - Honus Wagner
+      Explanation: Lou Gehrig earned the nickname 'Iron Horse' for his durability
+        and consecutive games played streak.
+    - Question: Which player hit the most career home runs during the Golden Era?
+      TrueAnswer: Hank Aaron
+      FalseAnswer:
+      - Mickey Mantle
+      - Willie Mays
+      - Ted Williams
+      Explanation: Hank Aaron hit the most career home runs during the Golden Era,
+        with 755.
+    - Question: Who was the first player to win the Triple Crown in the Golden Era?
+      TrueAnswer: Mickey Mantle
+      FalseAnswer:
+      - Ted Williams
+      - Joe DiMaggio
+      - Stan Musial
+      Explanation: Mickey Mantle became the first player to win the Triple Crown
+        in the Golden Era in 1956.
+    - Question: Which team won the first World Series of the Golden Era?
+      TrueAnswer: New York Giants
+      FalseAnswer:
+      - Chicago White Sox
+      - Philadelphia Athletics
+      - St. Louis Cardinals
+      Explanation: The New York Giants won the first World Series of the Golden Era
+        in 1905.
+    - Question: Who was the first player to hit 500 career home runs?
+      TrueAnswer: Babe Ruth
+      FalseAnswer:
+      - Lou Gehrig
+      - Mickey Mantle
+      - Ted Williams
+      Explanation: Babe Ruth was the first player to hit 500 career home runs in
+        1929.
+    - Question: Which player holds the record for the highest career batting average?
+      TrueAnswer: Ty Cobb
+      FalseAnswer:
+      - Babe Ruth
+      - Ted Williams
+      - Honus Wagner
+      Explanation: Ty Cobb holds the record for the highest career batting average
+        with .366.
+    - Question: Who was the first player to reach 3,000 career hits?
+      TrueAnswer: Cap Anson
+      FalseAnswer:
+      - Honus Wagner
+      - Ty Cobb
+      - Pete Rose
+      Explanation: Cap Anson was the first player to reach 3,000 career hits in 1897.
+    - Question: Which team won the most pennants during the Golden Era?
+      TrueAnswer: New York Yankees
+      FalseAnswer:
+      - Brooklyn Dodgers
+      - St. Louis Cardinals
+      - Boston Red Sox
+      Explanation: The New York Yankees won the most pennants during the Golden Era,
+        with 20.
+    - Question: Who was the first player to win the Most Valuable Player (MVP) award?
+      TrueAnswer: Babe Ruth
+      FalseAnswer:
+      - Lou Gehrig
+      - Joe DiMaggio
+      - Mickey Mantle
+      Explanation: Babe Ruth was the first player to win the Most Valuable Player
+        (MVP) award in 1923.
+    - Question: Which player holds the record for the most career stolen bases?
+      TrueAnswer: Rickey Henderson
+      FalseAnswer:
+      - Lou Brock
+      - Ty Cobb
+      - Tim Raines
+      Explanation: Rickey Henderson holds the record for the most career stolen bases
+        with 1,406.
+    - Question: Who was the first player to hit four home runs in a single game?
+      TrueAnswer: Bobby Lowe
+      FalseAnswer:
+      - Babe Ruth
+      - Lou Gehrig
+      - Mickey Mantle
+      Explanation: Bobby Lowe was the first player to hit four home runs in a single
+        game in 1894.
+    - Question: Which player holds the record for the most career strikeouts?
+      TrueAnswer: Nolan Ryan
+      FalseAnswer:
+      - Sandy Koufax
+      - Roger Clemens
+      - Randy Johnson
+      Explanation: Nolan Ryan holds the record for the most career strikeouts with
+        5,714.
+    - Question: Who was the first player to win the Cy Young Award?
+      TrueAnswer: Don Newcombe
+      FalseAnswer:
+      - Sandy Koufax
+      - Bob Gibson
+      - Whitey Ford
+      Explanation: Don Newcombe was the first player to win the Cy Young Award in
+        1956.
+    - Question: Which team won the most games in a single season during the Golden
+        Era?
+      TrueAnswer: Chicago Cubs
+      FalseAnswer:
+      - New York Yankees
+      - Boston Red Sox
+      - Brooklyn Dodgers
+      Explanation: The Chicago Cubs won the most games in a single season during
+        the Golden Era, with 116 wins in 1906.
+    - Question: Who was the first player to hit 60 doubles in a single season?
+      TrueAnswer: Earl Webb
+      FalseAnswer:
+      - Lou Gehrig
+      - Babe Ruth
+      - Mickey Mantle
+      Explanation: Earl Webb was the first player to hit 60 doubles in a single season
+        in 1931.
+    - Question: Which player holds the record for the most career saves?
+      TrueAnswer: Mariano Rivera
+      FalseAnswer:
+      - Dennis Eckersley
+      - Trevor Hoffman
+      - Rollie Fingers
+      Explanation: Mariano Rivera holds the record for the most career saves with
+        652.

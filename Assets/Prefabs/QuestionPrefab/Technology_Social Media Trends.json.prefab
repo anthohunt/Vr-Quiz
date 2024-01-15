@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6226776869738194655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2877270390043368076}
+  - component: {fileID: 8654914990096438609}
+  m_Layer: 0
+  m_Name: Technology_Social Media Trends.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2877270390043368076
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6226776869738194655}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8654914990096438609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6226776869738194655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which social media platform was launched in 2004?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Twitter
+      - Instagram
+      - Snapchat
+      Explanation: Facebook was launched in 2004 by Mark Zuckerberg and is now the
+        largest social media platform.
+    - Question: What is the maximum number of characters allowed in a tweet on Twitter?
+      TrueAnswer: 280
+      FalseAnswer:
+      - 140
+      - 200
+      - 320
+      Explanation: Twitter increased the character limit from 140 to 280 in 2017,
+        allowing for longer tweets.
+    - Question: Which social media platform is known for its disappearing photos
+        and videos?
+      TrueAnswer: Snapchat
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Twitter
+      Explanation: Snapchat gained popularity for its unique feature of disappearing
+        photos and videos after being viewed.
+    - Question: What is the most popular social media platform among teenagers?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - Snapchat
+      Explanation: Instagram is the preferred social media platform for teenagers
+        due to its focus on visual content.
+    - Question: Which social media platform is known for its 140-second video limit?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Snapchat
+      Explanation: Twitter allows users to upload videos with a maximum duration
+        of 140 seconds.
+    - Question: What is the main purpose of LinkedIn?
+      TrueAnswer: Professional networking
+      FalseAnswer:
+      - Sharing photos
+      - Messaging friends
+      - Watching videos
+      Explanation: LinkedIn is primarily used for professional networking, connecting
+        individuals in the business world.
+    - Question: Which social media platform is known for its focus on short-form,
+        viral videos?
+      TrueAnswer: TikTok
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Twitter
+      Explanation: TikTok gained popularity for its short-form videos that often
+        go viral, showcasing creative content.
+    - Question: What is the main purpose of Pinterest?
+      TrueAnswer: Discovering and saving ideas
+      FalseAnswer:
+      - Sharing news articles
+      - Messaging friends
+      - Watching live videos
+      Explanation: Pinterest allows users to discover and save ideas by creating
+        virtual pinboards for various interests.
+    - Question: Which social media platform is known for its character limit of 500?
+      TrueAnswer: LinkedIn
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - Instagram
+      Explanation: LinkedIn allows users to write posts with a character limit of
+        500, encouraging professional discussions.
+    - Question: What is the main purpose of YouTube?
+      TrueAnswer: Sharing and watching videos
+      FalseAnswer:
+      - Sharing photos
+      - Messaging friends
+      - Writing blog posts
+      Explanation: YouTube is a platform for sharing and watching videos, ranging
+        from entertainment to educational content.
+    - Question: Which social media platform is known for its live streaming feature?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Twitter
+      - Instagram
+      - Snapchat
+      Explanation: Facebook allows users to live stream events, connecting people
+        in real-time through video.
+    - Question: What is the main purpose of Snapchat?
+      TrueAnswer: Sharing temporary photos and videos
+      FalseAnswer:
+      - Sharing articles
+      - Messaging friends
+      - Watching TV shows
+      Explanation: Snapchat is primarily used for sharing temporary photos and videos
+        that disappear after being viewed.
+    - Question: Which social media platform is known for its focus on professional
+        connections?
+      TrueAnswer: LinkedIn
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Twitter
+      Explanation: LinkedIn is specifically designed for professional connections,
+        allowing users to showcase their skills and experience.
+    - Question: What is the main purpose of Instagram?
+      TrueAnswer: Sharing photos and videos
+      FalseAnswer:
+      - Sharing articles
+      - Messaging friends
+      - Watching live streams
+      Explanation: Instagram is primarily used for sharing photos and videos, often
+        with creative filters and captions.
+    - Question: Which social media platform is known for its chronological feed?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Snapchat
+      Explanation: Twitter displays posts in a chronological feed, allowing users
+        to see the most recent updates first.
+    - Question: What is the main purpose of Facebook?
+      TrueAnswer: Connecting with friends and family
+      FalseAnswer:
+      - Sharing recipes
+      - Messaging coworkers
+      - Watching movies
+      Explanation: Facebook is primarily used for connecting with friends and family,
+        sharing updates and photos.
+    - Question: Which social media platform is known for its focus on long-form content?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Twitter
+      - Instagram
+      - Snapchat
+      Explanation: Facebook allows users to share longer posts, articles, and videos
+        compared to other platforms.
+    - Question: What is the main purpose of Twitter?
+      TrueAnswer: Sharing short updates and news
+      FalseAnswer:
+      - Sharing photos
+      - Messaging friends
+      - Watching TV shows
+      Explanation: Twitter is primarily used for sharing short updates, news, and
+        engaging in public conversations.
+    - Question: Which social media platform is known for its focus on visual storytelling?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - Snapchat
+      Explanation: Instagram emphasizes visual storytelling through photos and videos,
+        allowing users to express themselves creatively.
+    - Question: What is the main purpose of Snapchat Discover?
+      TrueAnswer: Discovering news and entertainment
+      FalseAnswer:
+      - Sharing personal stories
+      - Messaging friends
+      - Watching live streams
+      Explanation: Snapchat Discover provides a curated collection of news and entertainment
+        content from various publishers.

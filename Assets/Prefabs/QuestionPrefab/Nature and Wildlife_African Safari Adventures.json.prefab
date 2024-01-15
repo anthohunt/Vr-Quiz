@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4635736807294655301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4531127495428013906}
+  - component: {fileID: 6292600909200125171}
+  m_Layer: 0
+  m_Name: Nature and Wildlife_African Safari Adventures.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4531127495428013906
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4635736807294655301}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6292600909200125171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4635736807294655301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest land animal in Africa?
+      TrueAnswer: African Elephant
+      FalseAnswer:
+      - Lion
+      - Giraffe
+      - Hippopotamus
+      Explanation: The African Elephant is the largest land animal in Africa, known
+        for its size and distinctive tusks.
+    - Question: Which big cat is known for its black mane?
+      TrueAnswer: Black-maned Lion
+      FalseAnswer:
+      - Leopard
+      - Cheetah
+      - Jaguar
+      Explanation: The Black-maned Lion is a subspecies of lion found in Africa,
+        known for its dark, flowing mane.
+    - Question: What is the tallest animal in the world?
+      TrueAnswer: Giraffe
+      FalseAnswer:
+      - Elephant
+      - Hippopotamus
+      - Rhino
+      Explanation: The Giraffe is the tallest animal in the world, with its long
+        neck and legs allowing it to reach high vegetation.
+    - Question: Which animal is known for its distinctive black and white stripes?
+      TrueAnswer: Zebra
+      FalseAnswer:
+      - Gazelle
+      - Antelope
+      - Buffalo
+      Explanation: The Zebra is known for its unique black and white striped coat,
+        providing camouflage in the grasslands.
+    - Question: What is the largest bird in Africa?
+      TrueAnswer: Ostrich
+      FalseAnswer:
+      - Flamingo
+      - Pelican
+      - Eagle
+      Explanation: The Ostrich is the largest bird in Africa, known for its long
+        neck, powerful legs, and ability to run fast.
+    - Question: Which animal is known for its ability to mimic human speech?
+      TrueAnswer: African Grey Parrot
+      FalseAnswer:
+      - Toucan
+      - Macaw
+      - Cockatoo
+      Explanation: The African Grey Parrot is known for its intelligence and ability
+        to mimic human speech and sounds.
+    - Question: What is the largest reptile in Africa?
+      TrueAnswer: Nile Crocodile
+      FalseAnswer:
+      - Python
+      - Monitor Lizard
+      - Tortoise
+      Explanation: The Nile Crocodile is the largest reptile in Africa, known for
+        its size, strength, and predatory behavior.
+    - Question: Which animal is known for its ability to climb trees?
+      TrueAnswer: Leopard
+      FalseAnswer:
+      - Lion
+      - Cheetah
+      - Hyena
+      Explanation: The Leopard is known for its ability to climb trees, providing
+        it with an advantage for hunting and safety.
+    - Question: What is the fastest land animal in Africa?
+      TrueAnswer: Cheetah
+      FalseAnswer:
+      - Gazelle
+      - Wildebeest
+      - Hare
+      Explanation: The Cheetah is the fastest land animal in Africa, capable of reaching
+        speeds up to 70 miles per hour.
+    - Question: Which animal is known for its long, curved horns?
+      TrueAnswer: Greater Kudu
+      FalseAnswer:
+      - Impala
+      - Gazelle
+      - Springbok
+      Explanation: The Greater Kudu is known for its long, twisted horns, which are
+        present in both males and females.
+    - Question: What is the largest primate in Africa?
+      TrueAnswer: Gorilla
+      FalseAnswer:
+      - Chimpanzee
+      - Baboon
+      - Mandrill
+      Explanation: The Gorilla is the largest primate in Africa, known for its size,
+        strength, and gentle nature.
+    - Question: Which animal is known for its ability to camouflage in its surroundings?
+      TrueAnswer: Chameleon
+      FalseAnswer:
+      - Lizard
+      - Snake
+      - Frog
+      Explanation: The Chameleon is known for its ability to change color and blend
+        in with its surroundings for protection and hunting.
+    - Question: What is the largest land carnivore in Africa?
+      TrueAnswer: African Lion
+      FalseAnswer:
+      - Leopard
+      - Hyena
+      - Cheetah
+      Explanation: The African Lion is the largest land carnivore in Africa, known
+        for its strength, social structure, and hunting skills.
+    - Question: Which animal is known for its ability to walk on water?
+      TrueAnswer: Nile Monitor Lizard
+      FalseAnswer:
+      - Crocodile
+      - Hippopotamus
+      - Tortoise
+      Explanation: The Nile Monitor Lizard is known for its ability to walk on water
+        using its long, muscular tail.
+    - Question: What is the largest antelope species in Africa?
+      TrueAnswer: Eland
+      FalseAnswer:
+      - Impala
+      - Gazelle
+      - Kudu
+      Explanation: The Eland is the largest antelope species in Africa, known for
+        its size, strength, and distinctive spiral horns.
+    - Question: Which animal is known for its ability to spray a foul-smelling liquid
+        as a defense mechanism?
+      TrueAnswer: Spotted Hyena
+      FalseAnswer:
+      - African Wild Dog
+      - Jackal
+      - Civet
+      Explanation: The Spotted Hyena is known for its ability to spray a foul-smelling
+        liquid as a defense mechanism against predators.
+    - Question: What is the largest land mammal in the world?
+      TrueAnswer: African Elephant
+      FalseAnswer:
+      - Hippopotamus
+      - Rhinoceros
+      - Giraffe
+      Explanation: The African Elephant is the largest land mammal in the world,
+        known for its size, intelligence, and social behavior.
+    - Question: Which animal is known for its ability to hang upside down from trees?
+      TrueAnswer: African Tree Pangolin
+      FalseAnswer:
+      - Sloth
+      - Bat
+      - Monkey
+      Explanation: The African Tree Pangolin is known for its ability to hang upside
+        down from trees using its strong claws.
+    - Question: What is the largest land predator in Africa?
+      TrueAnswer: African Lion
+      FalseAnswer:
+      - Leopard
+      - Cheetah
+      - Hyena
+      Explanation: The African Lion is the largest land predator in Africa, known
+        for its strength, hunting skills, and social structure.
+    - Question: Which animal is known for its ability to build intricate dams and
+        lodges?
+      TrueAnswer: African Elephant
+      FalseAnswer:
+      - Hippopotamus
+      - Beaver
+      - Otter
+      Explanation: The African Elephant is known for its ability to build intricate
+        dams and lodges using its trunk and tusks.

@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1406609620326217691
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4565615357393070766}
+  - component: {fileID: 8068309927756876074}
+  m_Layer: 0
+  m_Name: Literature_Book Clubs and Discussions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4565615357393070766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1406609620326217691}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8068309927756876074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1406609620326217691}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of 'Pride and Prejudice'?
+      TrueAnswer: Jane Austen
+      FalseAnswer:
+      - Emily Bronte
+      - Charlotte Bronte
+      - Virginia Woolf
+      Explanation: '''Pride and Prejudice'' was written by Jane Austen and published
+        in 1813.'
+    - Question: Which book is the first in the 'Harry Potter' series?
+      TrueAnswer: Harry Potter and the Philosopher's Stone
+      FalseAnswer:
+      - Harry Potter and the Chamber of Secrets
+      - Harry Potter and the Prisoner of Azkaban
+      - Harry Potter and the Goblet of Fire
+      Explanation: '''Harry Potter and the Philosopher''s Stone'' is the first book
+        in J.K. Rowling''s ''Harry Potter'' series.'
+    - Question: What is the setting of 'To Kill a Mockingbird'?
+      TrueAnswer: Maycomb
+      FalseAnswer:
+      - Hogwarts
+      - Narnia
+      - Westeros
+      Explanation: '''To Kill a Mockingbird'' is set in the fictional town of Maycomb,
+        Alabama during the Great Depression.'
+    - Question: Who wrote the novel '1984'?
+      TrueAnswer: George Orwell
+      FalseAnswer:
+      - Aldous Huxley
+      - Ray Bradbury
+      - Margaret Atwood
+      Explanation: '''1984'' was written by George Orwell and published in 1949,
+        depicting a dystopian society.'
+    - Question: Which character is the protagonist in 'The Great Gatsby'?
+      TrueAnswer: Jay Gatsby
+      FalseAnswer:
+      - Nick Carraway
+      - Daisy Buchanan
+      - Tom Buchanan
+      Explanation: Jay Gatsby is the central character and protagonist in F. Scott
+        Fitzgerald's 'The Great Gatsby'.
+    - Question: Who is the author of 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - John Steinbeck
+      - Mark Twain
+      - Ernest Hemingway
+      Explanation: '''To Kill a Mockingbird'' was written by Harper Lee and published
+        in 1960.'
+    - Question: Which book is the first in the 'Lord of the Rings' trilogy?
+      TrueAnswer: The Fellowship of the Ring
+      FalseAnswer:
+      - The Two Towers
+      - The Return of the King
+      - The Hobbit
+      Explanation: '''The Fellowship of the Ring'' is the first book in J.R.R. Tolkien''s
+        ''Lord of the Rings'' trilogy.'
+    - Question: Who is the author of 'The Catcher in the Rye'?
+      TrueAnswer: J.D. Salinger
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - Ernest Hemingway
+      - Mark Twain
+      Explanation: '''The Catcher in the Rye'' was written by J.D. Salinger and published
+        in 1951.'
+    - Question: Which book is the first in the 'A Song of Ice and Fire' series?
+      TrueAnswer: A Game of Thrones
+      FalseAnswer:
+      - A Clash of Kings
+      - A Storm of Swords
+      - A Feast for Crows
+      Explanation: '''A Game of Thrones'' is the first book in George R.R. Martin''s
+        ''A Song of Ice and Fire'' series.'
+    - Question: Who is the author of 'Moby-Dick'?
+      TrueAnswer: Herman Melville
+      FalseAnswer:
+      - Nathaniel Hawthorne
+      - Edgar Allan Poe
+      - Ralph Waldo Emerson
+      Explanation: '''Moby-Dick'' was written by Herman Melville and published in
+        1851.'
+    - Question: Which book is the first in the 'Chronicles of Narnia' series?
+      TrueAnswer: The Lion, the Witch and the Wardrobe
+      FalseAnswer:
+      - Prince Caspian
+      - The Voyage of the Dawn Treader
+      - The Silver Chair
+      Explanation: '''The Lion, the Witch and the Wardrobe'' is the first book in
+        C.S. Lewis'' ''Chronicles of Narnia'' series.'
+    - Question: Who is the author of 'The Hobbit'?
+      TrueAnswer: J.R.R. Tolkien
+      FalseAnswer:
+      - C.S. Lewis
+      - George R.R. Martin
+      - Terry Pratchett
+      Explanation: '''The Hobbit'' was written by J.R.R. Tolkien and published in
+        1937 as a prelude to ''The Lord of the Rings''.'
+    - Question: Which book is the first in the 'A Series of Unfortunate Events' series?
+      TrueAnswer: The Bad Beginning
+      FalseAnswer:
+      - The Reptile Room
+      - The Wide Window
+      - The Miserable Mill
+      Explanation: '''The Bad Beginning'' is the first book in Lemony Snicket''s
+        ''A Series of Unfortunate Events'' series.'
+    - Question: Who is the author of 'The Picture of Dorian Gray'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Bram Stoker
+      - Mary Shelley
+      - Edgar Allan Poe
+      Explanation: '''The Picture of Dorian Gray'' was written by Oscar Wilde and
+        published in 1890.'
+    - Question: Which book is the first in the 'His Dark Materials' trilogy?
+      TrueAnswer: Northern Lights
+      FalseAnswer:
+      - The Subtle Knife
+      - The Amber Spyglass
+      - The Golden Compass
+      Explanation: '''Northern Lights'' is the first book in Philip Pullman''s ''His
+        Dark Materials'' trilogy.'
+    - Question: Who is the author of 'The Lord of the Flies'?
+      TrueAnswer: William Golding
+      FalseAnswer:
+      - George Orwell
+      - Ray Bradbury
+      - Aldous Huxley
+      Explanation: '''The Lord of the Flies'' was written by William Golding and
+        published in 1954.'
+    - Question: Which book is the first in the 'A Wrinkle in Time' series?
+      TrueAnswer: A Wrinkle in Time
+      FalseAnswer:
+      - A Wind in the Door
+      - A Swiftly Tilting Planet
+      - Many Waters
+      Explanation: '''A Wrinkle in Time'' is the first book in Madeleine L''Engle''s
+        ''A Wrinkle in Time'' series.'
+    - Question: Who is the author of 'The Chronicles of Narnia' series?
+      TrueAnswer: C.S. Lewis
+      FalseAnswer:
+      - J.R.R. Tolkien
+      - Philip Pullman
+      - J.K. Rowling
+      Explanation: C.S. Lewis is the author of 'The Chronicles of Narnia' series,
+        consisting of seven fantasy novels.
+    - Question: Which book is the first in the 'A Hitchhiker's Guide to the Galaxy'
+        series?
+      TrueAnswer: The Hitchhiker's Guide to the Galaxy
+      FalseAnswer:
+      - The Restaurant at the End of the Universe
+      - Life, the Universe and Everything
+      - So Long, and Thanks for All the Fish
+      Explanation: '''The Hitchhiker''s Guide to the Galaxy'' is the first book in
+        Douglas Adams'' comedic science fiction series.'
+    - Question: Who is the author of 'The Hunger Games' trilogy?
+      TrueAnswer: Suzanne Collins
+      FalseAnswer:
+      - Veronica Roth
+      - J.K. Rowling
+      - Stephenie Meyer
+      Explanation: Suzanne Collins is the author of 'The Hunger Games' trilogy, set
+        in a dystopian future.
+    - Question: Which book is the first in the 'Divergent' trilogy?
+      TrueAnswer: Divergent
+      FalseAnswer:
+      - Insurgent
+      - Allegiant
+      - Four
+      Explanation: '''Divergent'' is the first book in Veronica Roth''s dystopian
+        ''Divergent'' trilogy.'

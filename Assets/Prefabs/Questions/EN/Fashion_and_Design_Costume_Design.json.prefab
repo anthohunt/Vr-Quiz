@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4201292431947912345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6581323790034698667}
+  - component: {fileID: 8478436213299747040}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Costume_Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6581323790034698667
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4201292431947912345}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8478436213299747040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4201292431947912345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: 'Which costume designer won an Oscar for ''Mad Max: Fury Road''?'
+      TrueAnswer: Jenny Beavan
+      FalseAnswer:
+      - Colleen Atwood
+      - Sandy Powell
+      - Mark Bridges
+      Explanation: 'Jenny Beavan won the Academy Award for Best Costume Design in
+        2016 for her work on ''Mad Max: Fury Road,'' known for its intricate post-apocalyptic
+        costumes.'
+    - Question: In 'The Great Gatsby' film, who was the costume designer?
+      TrueAnswer: Catherine Martin
+      FalseAnswer:
+      - Edith Head
+      - Ruth E. Carter
+      - Milena Canonero
+      Explanation: Catherine Martin was the costume designer for 'The Great Gatsby,'
+        creating luxurious and opulent 1920s-inspired costumes that accentuated the
+        film's lavish setting.
+    - Question: Which costume designer created the iconic looks in 'Black Panther'?
+      TrueAnswer: Ruth E. Carter
+      FalseAnswer:
+      - Colleen Atwood
+      - Sandy Powell
+      - Jenny Beavan
+      Explanation: Ruth E. Carter won an Oscar for Best Costume Design for her visionary
+        work in 'Black Panther,' infusing Afrofuturism and traditional African aesthetics
+        into the costumes.
+    - Question: Who designed the memorable costumes for 'Alice in Wonderland' (2010)?
+      TrueAnswer: Colleen Atwood
+      FalseAnswer:
+      - Alexandra Byrne
+      - Jacqueline Durran
+      - Trisha Biggar
+      Explanation: Colleen Atwood's whimsical and elaborate costumes for 'Alice in
+        Wonderland' garnered her an Oscar for Best Costume Design in 2011.
+    - Question: Which designer created the iconic red coat in 'Schindler's List'?
+      TrueAnswer: Anna B. Sheppard
+      FalseAnswer:
+      - Milena Canonero
+      - Gabriella Pescucci
+      - Eiko Ishioka
+      Explanation: Anna B. Sheppard designed the powerful red coat in 'Schindler's
+        List,' symbolizing the innocence amidst the brutal reality of the Holocaust.
+    - Question: Who was the costume designer for the sets of 'The Devil Wears Prada'?
+      TrueAnswer: Patricia Field
+      FalseAnswer:
+      - Sandy Powell
+      - Jacqueline Durran
+      - Alexandra Byrne
+      Explanation: Patricia Field's creative and high-fashion costumes in 'The Devil
+        Wears Prada' contributed to the film's portrayal of the cutthroat world of
+        fashion.
+    - Question: Which designer was behind the costumes in 'The Hunger Games' films?
+      TrueAnswer: Trish Summerville
+      FalseAnswer:
+      - Sharen Davis
+      - Judianna Makovsky
+      - Lindy Hemming
+      Explanation: Trish Summerville's innovative and dystopian costumes in 'The
+        Hunger Games' series added depth and grit to the film's post-apocalyptic
+        world.
+    - Question: Who created the Victorian-era costumes in 'Crimson Peak'?
+      TrueAnswer: Kate Hawley
+      FalseAnswer:
+      - Colleen Atwood
+      - Jacqueline Durran
+      - Sharen Davis
+      Explanation: Kate Hawley's detailed and atmospheric Victorian costumes in 'Crimson
+        Peak' captured the gothic essence of the film's haunted setting.
+    - Question: Which designer won an Academy Award for 'Memoirs of a Geisha'?
+      TrueAnswer: Colleen Atwood
+      FalseAnswer:
+      - Sandy Powell
+      - Milena Canonero
+      - Jenny Beavan
+      Explanation: Colleen Atwood's stunning period costumes for 'Memoirs of a Geisha'
+        earned her an Oscar for Best Costume Design in 2006.
+    - Question: Who was the costume designer for the 'Lord of the Rings' trilogy?
+      TrueAnswer: Ngila Dickson
+      FalseAnswer:
+      - Trisha Biggar
+      - Judianna Makovsky
+      - Ann Roth
+      Explanation: Ngila Dickson's intricate and diverse costumes for 'The Lord of
+        the Rings' were pivotal in bringing J.R.R. Tolkien's fantastical world to
+        life.

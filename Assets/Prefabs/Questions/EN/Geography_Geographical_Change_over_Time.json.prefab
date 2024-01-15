@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7322042540163291557
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3112933226313314775}
+  - component: {fileID: 3930862341404306300}
+  m_Layer: 0
+  m_Name: Geography_Geographical_Change_over_Time.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3112933226313314775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7322042540163291557}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3930862341404306300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7322042540163291557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the geological term for the movement of Earth's tectonic
+        plates?
+      TrueAnswer: Plate tectonics
+      FalseAnswer:
+      - Rock cycle
+      - Glacial drift
+      - Sediment deposition
+      Explanation: Plate tectonics is the theory explaining the movement of Earth's
+        lithosphere and the formation of continents, mountains, and ocean basins.
+    - Question: What is the process of physical weathering that breaks down rocks
+        into smaller pieces?
+      TrueAnswer: Erosion
+      FalseAnswer:
+      - Deposition
+      - Volcanism
+      - Freezing-thawing
+      Explanation: Erosion involves the movement of sediments by water, wind, or
+        ice, leading to the gradual modification of Earth's surface over time.
+    - Question: Which term describes the gradual shifting of Earth's magnetic poles?
+      TrueAnswer: Geomagnetic reversal
+      FalseAnswer:
+      - Polar precession
+      - Magnetic declination
+      - Geostrophic gyre
+      Explanation: Geomagnetic reversal refers to the periodic reversal of the Earth's
+        magnetic field, with evidence found in the ocean floor's magnetic stripes.
+    - Question: What is the term for the process of soil and rock material being
+        transported downhill by gravity?
+      TrueAnswer: Mass wasting
+      FalseAnswer:
+      - Loess deposition
+      - Glacial scouring
+      - Karst dissolution
+      Explanation: Mass wasting includes various types of slope movement, such as
+        landslides, rockfalls, and slumps, contributing to landscape changes.
+    - Question: What geological event is characterized by the sudden release of energy
+        in the Earth's crust?
+      TrueAnswer: Earthquake
+      FalseAnswer:
+      - Tsunami
+      - Hurricane
+      - Volcanic eruption
+      Explanation: Earthquakes result from the rapid release of built-up stress within
+        the Earth's crust, leading to ground shaking and potential structural damage.
+    - Question: Which ancient supercontinent eventually fragmented to form the current
+        continents?
+      TrueAnswer: Pangaea
+      FalseAnswer:
+      - Gondwana
+      - Laurasia
+      - Rodinia
+      Explanation: Pangaea existed about 335 million years ago and began to break
+        apart into separate landmasses, leading to the configuration of today's continents.
+    - Question: What is the term for the process by which wind transports and deposits
+        soil and sediment?
+      TrueAnswer: Aeolian erosion
+      FalseAnswer:
+      - Alluvial deposition
+      - Glacial erratic
+      - Fluvial incision
+      Explanation: Aeolian erosion refers to the shaping of landscapes by wind-driven
+        processes, including dune formation and the creation of sandstone features.
+    - Question: In what type of environment does karst topography characterized by
+        sinkholes and caves typically form?
+      TrueAnswer: Limestone terrain
+      FalseAnswer:
+      - Volcanic caldera
+      - Sand dunes
+      - Alluvial plain
+      Explanation: Karst landscapes develop in regions with soluble bedrock like
+        limestone, where groundwater dissolution creates unique surface features
+        over time.
+    - Question: Which process involves the movement and shaping of dunes in desert
+        environments?
+      TrueAnswer: Aeolian deposition
+      FalseAnswer:
+      - Karstification
+      - Fluvial erosion
+      - Glacial retreat
+      Explanation: Aeolian deposition accounts for the accumulation of sand and the
+        formation of distinctive dune patterns through wind-driven actions.
+    - Question: What type of land formation is created by the melting and retreat
+        of glaciers?
+      TrueAnswer: Moraine
+      FalseAnswer:
+      - Fjord
+      - Mesa
+      - Butte
+      Explanation: Moraines are landforms formed by the accumulation of glacial debris,
+        including till and sediments, during periods of glacial advance and retreat.
+    - Question: Which natural process contributes to the formation and widening of
+        river valleys over time?
+      TrueAnswer: Fluvial erosion
+      FalseAnswer:
+      - Periglacial freeze-thaw
+      - Lithification
+      - Tidal scouring
+      Explanation: Fluvial erosion involves the gradual removal of rock and soil
+        by river action, leading to the carving and deepening of river valleys and
+        gorges.
+    - Question: In what geographical region would you expect to find evidence of
+        isostatic rebound?
+      TrueAnswer: Post-glacial landscapes
+      FalseAnswer:
+      - Active volcanic zones
+      - Mid-ocean ridges
+      - Tropical rainforests
+      Explanation: Isostatic rebound occurs in areas previously glaciated, where
+        the Earth's crust slowly rises in response to the melting of continental
+        ice sheets.
+    - Question: What is the process by which marine organisms build up layers of
+        calcium carbonate, contributing to limestone formation?
+      TrueAnswer: Biogenic sedimentation
+      FalseAnswer:
+      - Hydrothermal venting
+      - Evaporite deposition
+      - Cryogenic fracturing
+      Explanation: Biogenic sedimentation involves the accumulation of skeletal remains
+        and shells from marine life, leading to the creation of limestone rock formations.
+    - Question: What phenomenon describes the gradual sinking of coastal areas due
+        to various factors like tectonic subsidence and sediment compaction?
+      TrueAnswer: Coastal subsidence
+      FalseAnswer:
+      - Eustatic sea level rise
+      - Thermal expansion
+      - Coral bleaching
+      Explanation: Coastal subsidence results in the relative lowering of land compared
+        to sea level, impacting coastal ecosystems and increasing the risk of flooding.
+    - Question: Which natural process contributes to the formation of coral atolls
+        and barrier islands over time?
+      TrueAnswer: Accretion
+      FalseAnswer:
+      - Abduction
+      - Inversion
+      - Exfoliation
+      Explanation: Accretion involves the gradual buildup of sediments and organic
+        materials, leading to the formation and expansion of coral atolls and barrier
+        islands.
+    - Question: What feature results from the accumulation and compaction of organic
+        matter in wetland environments?
+      TrueAnswer: Peat bog
+      FalseAnswer:
+      - Alluvial fan
+      - Oxbow lake
+      - Inselberg
+      Explanation: Peat bogs form in waterlogged areas where plant material accumulates
+        over time, compacts, and undergoes partial decomposition, creating layers
+        of peat.
+    - Question: Which climatic factor plays a significant role in the formation of
+        desert pavement and ventifacts?
+      TrueAnswer: Wind erosion
+      FalseAnswer:
+      - Flash floods
+      - Permafrost thawing
+      - Glacial meltwater
+      Explanation: Wind erosion shapes desert landscapes by removing fine particles
+        and leaving behind coarse sediments, leading to the formation of desert pavement
+        and ventifacts.
+    - Question: What type of landform results from the dissolution of gypsum and
+        limestone by groundwater?
+      TrueAnswer: Karst cave
+      FalseAnswer:
+      - Mesa verde
+      - Drumlin
+      - Esker
+      Explanation: Karst caves form through the chemical dissolution of soluble bedrock,
+        creating underground caverns, stalactites, and other distinctive features.
+    - Question: What is the term for the slow downhill movement of soil and loose
+        rock due to gravitational forces?
+      TrueAnswer: Creep
+      FalseAnswer:
+      - Solifluction
+      - Avalanche
+      - Landslide
+      Explanation: Creep involves the gradual movement of surface materials, often
+        imperceptible but capable of influencing landscape evolution over extended
+        periods.
+    - Question: Which process leads to the formation of geysers through the interaction
+        of groundwater with hot rocks?
+      TrueAnswer: Hydrothermal activity
+      FalseAnswer:
+      - Volcanic eruption
+      - Sublimation
+      - Cryoseism
+      Explanation: Hydrothermal activity involves the circulation of water through
+        geothermally heated rocks, resulting in the periodic expulsion of steam and
+        water as geysers.

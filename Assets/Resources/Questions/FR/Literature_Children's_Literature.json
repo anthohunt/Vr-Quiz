@@ -1,0 +1,180 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom de l'ours dans les histoires de 'Winnie l'ourson'?",
+            "TrueAnswer": "Winnie",
+            "FalseAnswer": [
+              "Bobby",
+              "Barney",
+              "Benny"
+            ],
+            "Explanation": "Winnie, abréviation de Winnipeg, la ville canadienne, était un vrai ourson qui a servi d'inspiration pour le personnage de Winnie l'ourson d'A.A. Milne."
+          },
+          {
+            "Question": "Quel auteur a écrit la série 'Harry Potter'?",
+            "TrueAnswer": "J.K. Rowling",
+            "FalseAnswer": [
+              "C.S. Lewis",
+              "Roald Dahl",
+              "Lewis Carroll"
+            ],
+            "Explanation": "J.K. Rowling est l'auteur britannique derrière la série 'Harry Potter', qui a captivé des lecteurs de tout âge à travers le monde."
+          },
+          {
+            "Question": "Quel est le nom du jeune protagoniste dans 'Les Aventures d'Alice au pays des merveilles'?",
+            "TrueAnswer": "Alice",
+            "FalseAnswer": [
+              "Lucy",
+              "Dorothy",
+              "Wendy"
+            ],
+            "Explanation": "Le conte classique de Lewis Carroll suit les aventures d'une jeune fille nommée Alice alors qu'elle explore le monde fantaisiste et fantastique du Pays des Merveilles."
+          },
+          {
+            "Question": "Qui est le créateur du 'Chat chapeauté'?",
+            "TrueAnswer": "Dr. Seuss",
+            "FalseAnswer": [
+              "Shel Silverstein",
+              "Margaret Wise Brown",
+              "Maurice Sendak"
+            ],
+            "Explanation": "Dr. Seuss, le nom de plume de Theodor Geisel, a écrit et illustré le célèbre livre pour enfants 'Le Chat chapeauté' en 1957, mettant en scène le chat espiègle qui apporte le chaos et le plaisir."
+          },
+          {
+            "Question": "Quel objet accorde des vœux dans 'Aladin et la lampe merveilleuse'?",
+            "TrueAnswer": "Lampe magique",
+            "FalseAnswer": [
+              "Miroir magique",
+              "Tapis volant",
+              "Livre magique"
+            ],
+            "Explanation": "Le conte populaire du Moyen-Orient 'Aladin et la lampe merveilleuse' met en scène une lampe magique contenant un génie qui exauce les vœux d'Aladin."
+          },
+          {
+            "Question": "Qui a écrit le livre pour enfants 'Le Petit Prince'?",
+            "TrueAnswer": "Antoine de Saint-Exupéry",
+            "FalseAnswer": [
+              "Victor Hugo",
+              "Jean de La Fontaine",
+              "Émile Zola"
+            ],
+            "Explanation": "Antoine de Saint-Exupéry a écrit le magnifique conte philosophique 'Le Petit Prince', qui aborde des thèmes tels que l'amitié, l'amour et la solitude à travers les aventures du jeune prince et de son ami le renard."
+          },
+          {
+            "Question": "Combien de soeurs Elsa a-t-elle?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "2",
+              "3",
+              "0"
+            ],
+            "Explanation": "Elsa a une sœur nommée Anna dans le film 'La Reine des neiges'."
+          },
+          {
+            "Question": "Dans 'Le Petit Chaperon Rouge', qui est le protagoniste principal?",
+            "TrueAnswer": "Le Petit Chaperon Rouge",
+            "FalseAnswer": [
+              "Le loup",
+              "La grand-mère",
+              "Le bûcheron"
+            ],
+            "Explanation": "Le Petit Chaperon Rouge est le personnage principal de ce conte populaire, célèbre pour son capuchon rouge et sa rencontre avec le loup en chemin vers la maison de sa grand-mère."
+          },
+          {
+            "Question": "Dans le conte de 'Pinocchio', de quoi le nez du personnage principal s'allonge-t-il lorsqu'il ment?",
+            "TrueAnswer": "Nez",
+            "FalseAnswer": [
+              "Oreilles",
+              "Yeux",
+              "Langue"
+            ],
+            "Explanation": "Dans le conte de 'Pinocchio', le nez du personnage principal s'allonge chaque fois qu'il ment, ce qui le rend facilement démasquable."
+          },
+          {
+            "Question": "Quel personnage de conte de fées a perdu une pantoufle en verre?",
+            "TrueAnswer": "Cendrillon",
+            "FalseAnswer": [
+              "Belle",
+              "Blanche-Neige",
+              "Aurore"
+            ],
+            "Explanation": "Cendrillon, l'héroïne du conte de fées, a perdu une pantoufle en verre en se précipitant pour quitter le bal avant que le charme ne se brise."
+          },
+          {
+            "Question": "De qui Dracula est-il ennemi?",
+            "TrueAnswer": "Van Helsing",
+            "FalseAnswer": [
+              "Frankenstein",
+              "Le loup-garou",
+              "Le monstre de la lagune noire"
+            ],
+            "Explanation": "Dans les histoires de Dracula, le célèbre chasseur de vampires Van Helsing est l'ennemi juré du comte Dracula."
+          },
+          {
+            "Question": "Quel conte de fées met en scène un carrosse transformé à partir d'une citrouille?",
+            "TrueAnswer": "Cendrillon",
+            "FalseAnswer": [
+              "Blanche-Neige",
+              "La Belle au bois dormant",
+              "La Petite Sirène"
+            ],
+            "Explanation": "Dans le conte de fées 'Cendrillon', la Fée Marraine transforme une citrouille en un magnifique carrosse pour que Cendrillon puisse se rendre au bal royal."
+          },
+          {
+            "Question": "Dans 'Les Trois Petits Cochons', quel matériau le premier cochon utilise-t-il pour construire sa maison?",
+            "TrueAnswer": "Paille",
+            "FalseAnswer": [
+              "Bois",
+              "Brique",
+              "Terre"
+            ],
+            "Explanation": "Dans le conte de 'Les Trois Petits Cochons', le premier cochon utilise de la paille pour construire sa maison, qui est facilement détruite par le loup."
+          },
+          {
+            "Question": "Dans 'Le Magicien d'Oz', de quelle couleur sont les souliers magiques de Dorothy?",
+            "TrueAnswer": "Rouge",
+            "FalseAnswer": [
+              "Vert",
+              "Bleu",
+              "Argenté"
+            ],
+            "Explanation": "Dans 'Le Magicien d'Oz', les souliers magiques de Dorothy sont de couleur rouge et jouent un rôle important dans son voyage au pays d'Oz."
+          },
+          {
+            "Question": "Quel est le métier du personnage Monsieur McGregor dans 'Le Conte de Pierre Lapin'?",
+            "TrueAnswer": "Jardinier",
+            "FalseAnswer": [
+              "Boulanger",
+              "Maréchal-ferrant",
+              "Menuisier"
+            ],
+            "Explanation": "Dans le classique de Beatrix Potter, Monsieur McGregor s'occupe du jardin et le protège du lapin espiègle Pierre, créant ainsi une tension et de l'excitation dans le récit."
+          },
+          {
+            "Question": "Quel est le nom du fantôme amical dans 'Casper le gentil fantôme'?",
+            "TrueAnswer": "Casper",
+            "FalseAnswer": [
+              "Jasper",
+              "Buster",
+              "Charlie"
+            ],
+            "Explanation": "Le fantôme agréable et bienveillant des bandes dessinées et des dessins animés 'Casper le gentil fantôme' s'appelle Casper, malgré son tempérament amical qui le conduit souvent à des mésaventures comiques."
+          },
+          {
+            "Question": "Qui a écrit la série de livres pour enfants 'Babar'?",
+            "TrueAnswer": "Jean de Brunhoff",
+            "FalseAnswer": [
+              "Maurice Sendak",
+              "Beatrix Potter",
+              "E.B. White"
+            ],
+            "Explanation": "Jean de Brunhoff est l'auteur de la série de livres pour enfants mettant en scène le célèbre éléphant Babar et ses aventures."
+          }
+        ]
+      }
+    }
+  ]
+}

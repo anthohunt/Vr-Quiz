@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3806714024394909142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6610721436243319328}
+  - component: {fileID: 1245128046023144055}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Space_Tourism.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6610721436243319328
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3806714024394909142}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1245128046023144055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3806714024394909142}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which company plans to offer space tours in the near future?
+      TrueAnswer: SpaceX
+      FalseAnswer:
+      - Blue Origin
+      - Virgin Galactic
+      - NASA
+      Explanation: SpaceX plans to offer space tours for private individuals with
+        its Starship spacecraft, potentially launching as early as 2023.
+    - Question: What is the estimated cost of SpaceX's space tourism ticket?
+      TrueAnswer: $55 million
+      FalseAnswer:
+      - $10 million
+      - $100 million
+      - $200,000
+      Explanation: SpaceX's space tourism ticket is estimated to cost around $55
+        million per person for a trip around the Moon.
+    - Question: Which celebrity has booked a seat on a SpaceX space tourism mission?
+      TrueAnswer: Yusaku Maezawa
+      FalseAnswer:
+      - Tom Cruise
+      - Lady Gaga
+      - "Beyonc\xE9"
+      Explanation: Japanese billionaire Yusaku Maezawa has booked a seat on a SpaceX
+        mission around the Moon, aiming to bring artists with him to inspire new
+        works of art.
+    - Question: What is the length of SpaceX's space tourism mission around the Moon?
+      TrueAnswer: One week
+      FalseAnswer:
+      - One day
+      - Two weeks
+      - One month
+      Explanation: SpaceX's space tourism mission around the Moon is expected to
+        last about one week, including a loop around the Moon and return journey
+        to Earth.
+    - Question: Which space tourism company offers suborbital joyrides on a spaceplane?
+      TrueAnswer: Virgin Galactic
+      FalseAnswer:
+      - Blue Origin
+      - Space Adventures
+      - SpaceX
+      Explanation: Virgin Galactic offers suborbital space tourism flights on its
+        spaceplane, providing passengers with a few minutes of weightlessness and
+        panoramic views of the Earth.

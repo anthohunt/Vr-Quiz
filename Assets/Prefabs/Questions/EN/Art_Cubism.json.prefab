@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3972755287299568535
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2515186108156352023}
+  - component: {fileID: 6868653532955270281}
+  m_Layer: 0
+  m_Name: Art_Cubism.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2515186108156352023
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3972755287299568535}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6868653532955270281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3972755287299568535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the co-founder of Cubism?
+      TrueAnswer: Georges Braque
+      FalseAnswer:
+      - Pablo Picasso
+      - Salvador Dali
+      - Paul Cezanne
+      Explanation: Georges Braque is known for developing Cubism alongside Pablo
+        Picasso, often referred to as the 'father' of the movement.
+    - Question: What year is often cited as the start of the Cubist movement?
+      TrueAnswer: 1907
+      FalseAnswer:
+      - 1913
+      - 1920
+      - 1895
+      Explanation: The breakthrough year for Cubism is typically identified as 1907,
+        when Picasso painted 'Les Demoiselles d'Avignon'.
+    - Question: Which art critic co-coined the term 'Cubism'?
+      TrueAnswer: Louis Vauxcelles
+      FalseAnswer:
+      - Guillaume Apollinaire
+      - Roger Fry
+      - Emile Zola
+      Explanation: Louis Vauxcelles used the term 'cube-ism' derogatorily when describing
+        Braque's paintings at the 1908 Salon d'Automne.
+    - Question: What was the primary influence on the development of Cubism?
+      TrueAnswer: African art
+      FalseAnswer:
+      - Impressionism
+      - Renaissance
+      - Realism
+      Explanation: African art, particularly traditional masks and sculptures, greatly
+        inspired Cubist artists in their exploration of form and perspective.
+    - Question: Which color palette is commonly associated with Analytical Cubism?
+      TrueAnswer: Monochromatic
+      FalseAnswer:
+      - Rainbow
+      - Pastel
+      - Neon
+      Explanation: The use of monochromatic colors, often limited to shades of gray
+        and brown, characterizes the somber and intellectual tone of Analytical Cubist
+        works.
+    - Question: Who is known for introducing collage into Cubist artwork?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Henri Matisse
+      - Wassily Kandinsky
+      - Vincent van Gogh
+      Explanation: Pablo Picasso is credited with pioneering the practice of incorporating
+        collage elements into his Cubist compositions.
+    - Question: In which city did the Cubist movement primarily develop?
+      TrueAnswer: Paris
+      FalseAnswer:
+      - London
+      - Berlin
+      - Rome
+      Explanation: Paris served as the vibrant hub for the Cubist movement, attracting
+        artists from various backgrounds to exchange ideas and techniques.
+    - Question: Who was the art dealer that promoted and supported Cubist artists?
+      TrueAnswer: Daniel-Henry Kahnweiler
+      FalseAnswer:
+      - Leo Castelli
+      - Pierre Matisse
+      - Mary Cassatt
+      Explanation: Daniel-Henry Kahnweiler played a crucial role in nurturing and
+        exhibiting the work of prominent Cubist artists like Picasso and Braque.
+    - Question: What term is used to describe the later phase of Cubism with more
+        vibrant color?
+      TrueAnswer: Synthetic Cubism
+      FalseAnswer:
+      - Futurism
+      - Dadaism
+      - Surrealism
+      Explanation: Synthetic Cubism, characterized by the use of bright colors and
+        the inclusion of collage elements, emerged as a response to the somber tones
+        of Analytical Cubism.
+    - Question: Which artist was not a significant figure in the Cubist movement?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Juan Gris
+      - "Fernand L\xE9ger"
+      - Robert Delaunay
+      Explanation: Vincent van Gogh, known for his post-impressionist style, was
+        not directly involved in the development of Cubism.
+    - Question: What architectural feature frequently appears in Cubist paintings?
+      TrueAnswer: Faceted planes
+      FalseAnswer:
+      - Arches
+      - Domes
+      - Columns
+      Explanation: Cubist artists often represented forms and objects as interlocking,
+        fragmented planes or facets, transforming their visual perception of reality.
+    - Question: Which element is central to the concept of simultaneous perspectives
+        in Cubism?
+      TrueAnswer: Time
+      FalseAnswer:
+      - Space
+      - Color
+      - Texture
+      Explanation: Cubist artists sought to depict multiple viewpoints of objects
+        in a single plane, emphasizing the temporal dimension and fragmentation of
+        time.
+    - Question: Which art movement greatly influenced the development of Cubism?
+      TrueAnswer: Fauvism
+      FalseAnswer:
+      - Baroque
+      - Surrealism
+      - Minimalism
+      Explanation: Fauvism's radical use of color and rejection of naturalistic representation
+        inspired Cubist artists in their exploration of new visual languages.
+    - Question: Who is known for promoting the idea of 'total painting' within Cubism?
+      TrueAnswer: Guillaume Apollinaire
+      FalseAnswer:
+      - Andre Breton
+      - Paul Gauguin
+      - Max Ernst
+      Explanation: Guillaume Apollinaire advocated for the concept of 'total painting'
+        or 'painting-in-the-round', emphasizing the fusion of form and space in Cubist
+        works.
+    - Question: What is the term for the angular and fragmented depiction of human
+        figures in Cubism?
+      TrueAnswer: Facetism
+      FalseAnswer:
+      - Realism
+      - Surrealism
+      - Abstraction
+      Explanation: Facetism refers to the deliberate fragmentation and reassembly
+        of human forms, often resulting in geometric and multifaceted portrayals
+        typical of Cubist art.
+    - Question: Which art form did Cubist artists also explore alongside painting?
+      TrueAnswer: Sculpture
+      FalseAnswer:
+      - Photography
+      - Performance art
+      - Textile art
+      Explanation: Cubist sculptors, such as Jacques Lipchitz and Alexander Archipenko,
+        translated the fragmented and multi-perspective nature of Cubist art into
+        sculptural forms.
+    - Question: What is the term for the experimental use of scale and proportion
+        in Cubist compositions?
+      TrueAnswer: Hierarchical shift
+      FalseAnswer:
+      - Spatial rotation
+      - Temporal distortion
+      - Chromatic aberration
+      Explanation: Hierarchical shift refers to the deliberate manipulation of scale
+        and proportion in Cubist art, disrupting traditional spatial relationships
+        for expressive purposes.
+    - Question: What did Cubist artists aim to challenge through their unconventional
+        approach to representation?
+      TrueAnswer: Conventional perspective
+      FalseAnswer:
+      - Color harmony
+      - Narrative structure
+      - Emotional expression
+      Explanation: Cubist artists sought to subvert traditional linear perspective,
+        presenting multiple viewpoints and reshaping spatial relationships in their
+        fragmented compositions.
+    - Question: Which literary movement shared similar ideas with Cubism?
+      TrueAnswer: Futurism
+      FalseAnswer:
+      - Romanticism
+      - Naturalism
+      - Expressionism
+      Explanation: Futurism, a literary and artistic movement, shared Cubism's interest
+        in capturing dynamic, fragmented perceptions of the modern world in both
+        visual and literary forms.
+    - Question: Which influential writer penned critical essays on Cubist art?
+      TrueAnswer: Apollinaire
+      FalseAnswer:
+      - Camus
+      - Hemingway
+      - Woolf
+      Explanation: Apollinaire, known for his impact on avant-garde art, wrote influential
+        essays supporting and interpreting the developments within the Cubist movement.

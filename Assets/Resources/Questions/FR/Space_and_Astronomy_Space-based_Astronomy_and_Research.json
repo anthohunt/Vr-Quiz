@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel télescope spatial a été lancé en 1990?",
+            "TrueAnswer": "Hubble",
+            "FalseAnswer": [
+              "Spitzer",
+              "Chandra",
+              "Kepler"
+            ],
+            "Explanation": "Le télescope spatial Hubble a fourni certaines des images les plus détaillées de galaxies lointaines et de nébuleuses."
+          },
+          {
+            "Question": "Qui a été la première femme à aller dans l'espace?",
+            "TrueAnswer": "Tereshkova",
+            "FalseAnswer": [
+              "Ride",
+              "Collins",
+              "Jemison"
+            ],
+            "Explanation": "Valentina Tereshkova de l'Union soviétique est devenue la première femme à voyager dans l'espace en 1963."
+          },
+          {
+            "Question": "Qu'est-ce que l'étude des corps célestes et des phénomènes?",
+            "TrueAnswer": "Astronomie",
+            "FalseAnswer": [
+              "Astrologie",
+              "Météorologie",
+              "Botanique"
+            ],
+            "Explanation": "L'astronomie est l'étude scientifique des objets célestes, tels que les étoiles, les planètes, les comètes et les galaxies, et de leurs phénomènes."
+          },
+          {
+            "Question": "Quelle agence gère la Station spatiale internationale?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "Roscosmos",
+              "CNSA"
+            ],
+            "Explanation": "La NASA, l'agence spatiale des États-Unis, est responsable de la gestion de la Station spatiale internationale (ISS)."
+          },
+          {
+            "Question": "Quelle est l'étoile la plus proche de la Terre (autre que le Soleil)?",
+            "TrueAnswer": "Proxima Centauri",
+            "FalseAnswer": [
+              "Alpha Centauri A",
+              "Sirius",
+              "Bételgeuse"
+            ],
+            "Explanation": "Proxima Centauri est une étoile naine rouge située dans le système stellaire d'Alpha du Centaure, à environ 4,24 années-lumière de la Terre."
+          },
+          {
+            "Question": "Quelle mission de la NASA a découvert des preuves d'eau sur Mars?",
+            "TrueAnswer": "Mars Reconnaissance Orbiter",
+            "FalseAnswer": [
+              "Curiosity",
+              "Opportunity",
+              "InSight"
+            ],
+            "Explanation": "Le Mars Reconnaissance Orbiter a observé des caractéristiques sur Mars suggérant la présence de glace d'eau à la surface de la planète."
+          },
+          {
+            "Question": "Quel type de télescope détecte les émissions de rayons X provenant d'objets astronomiques?",
+            "TrueAnswer": "Chandra",
+            "FalseAnswer": [
+              "Hubble",
+              "Spitzer",
+              "James Webb"
+            ],
+            "Explanation": "L'observatoire de rayons X Chandra est spécialement conçu pour détecter les émissions de rayons X provenant de régions très chaudes de l'Univers."
+          },
+          {
+            "Question": "Quel est le nom du futur télescope spatial de la NASA, prévu pour être lancé en 2021?",
+            "TrueAnswer": "James Webb",
+            "FalseAnswer": [
+              "Hubble",
+              "Spitzer",
+              "Chandra"
+            ],
+            "Explanation": "Le télescope spatial James Webb est prévu pour être le successeur du télescope spatial Hubble, avec des capacités améliorées."
+          },
+          {
+            "Question": "Combien de jours terrestres faut-il à Vénus pour orbiter autour du Soleil?",
+            "TrueAnswer": "225",
+            "FalseAnswer": [
+              "365",
+              "88",
+              "687"
+            ],
+            "Explanation": "Vénus effectue une orbite autour du Soleil en environ 225 jours terrestres, en rotation rétrograde."
+          },
+          {
+            "Question": "Quelle est la plus grande lune de Jupiter?",
+            "TrueAnswer": "Ganymède",
+            "FalseAnswer": [
+              "Europe",
+              "Io",
+              "Callisto"
+            ],
+            "Explanation": "Ganymède, d'un diamètre d'environ 5 268 kilomètres, est la plus grande lune du Système solaire."
+          },
+          {
+            "Question": "Quelle planète abrite le plus grand volcan du Système solaire?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Vénus",
+              "Terre",
+              "Jupiter"
+            ],
+            "Explanation": "Olympus Mons, un volcan bouclier sur Mars, mesure environ 21,9 km de hauteur, ce qui en fait le plus grand volcan."
+          },
+          {
+            "Question": "Qui a proposé le modèle héliocentrique du Système solaire?",
+            "TrueAnswer": "Copernic",
+            "FalseAnswer": [
+              "Galilée",
+              "Kepler",
+              "Ptolémée"
+            ],
+            "Explanation": "Nicolas Copernic a introduit le modèle héliocentrique dans son œuvre 'De revolutionibus orbium coelestium' en 1543."
+          },
+          {
+            "Question": "Quel est le phénomène où la lumière est étirée par l'expansion de l'Univers?",
+            "TrueAnswer": "Redshift",
+            "FalseAnswer": [
+              "Blueshift",
+              "Whiteshift",
+              "Blackshift"
+            ],
+            "Explanation": "Le décalage vers le rouge de la lumière provenant de galaxies lointaines est une preuve de l'expansion de l'Univers, observée pour la première fois par Edwin Hubble."
+          },
+          {
+            "Question": "Quelle constellation contient l'Étoile du Nord (Polaris)?",
+            "TrueAnswer": "Ursa Minor",
+            "FalseAnswer": [
+              "Orion",
+              "Cassiopée",
+              "Lion"
+            ],
+            "Explanation": "Polaris, l'Étoile du Nord, est située à l'extrémité du manche de la Petite Ourse, qui fait partie de la constellation de la Petite Ourse."
+          },
+          {
+            "Question": "Quels sont les restes d'une étoile massive qui a explosé?",
+            "TrueAnswer": "Supernova",
+            "FalseAnswer": [
+              "Nébuleuse",
+              "Quasar",
+              "Pulsar"
+            ],
+            "Explanation": "Une supernova est un événement cataclysmique qui marque la mort violente d'une étoile et qui peut brièvement éclipser toute une galaxie."
+          },
+          {
+            "Question": "Quel est le nom du premier satellite artificiel de la Terre?",
+            "TrueAnswer": "Spoutnik 1",
+            "FalseAnswer": [
+              "Vostok 1",
+              "Explorer 1",
+              "Apollo 11"
+            ],
+            "Explanation": "Lancé par l'Union soviétique en 1957, Spoutnik 1 a inauguré l'ère de l'exploration spatiale et de la course à l'espace."
+          },
+          {
+            "Question": "Quel événement se produit lorsque la Lune se déplace dans l'ombre de la Terre?",
+            "TrueAnswer": "Éclipse lunaire",
+            "FalseAnswer": [
+              "Éclipse solaire",
+              "Transit",
+              "Occultation"
+            ],
+            "Explanation": "Pendant une éclipse lunaire, la Terre se place entre le Soleil et la Lune, projetant son ombre sur la surface lunaire."
+          },
+          {
+            "Question": "Quel vaisseau spatial détient le record de l'image la plus éloignée prise de la Terre?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "Nouvelle Horizons",
+              "Mariner 10",
+              "Cassini"
+            ],
+            "Explanation": "La photo du 'Point bleu pâle' prise par Voyager 1 à une distance d'environ 6 milliards de kilomètres est l'image la plus éloignée."
+          },
+          {
+            "Question": "Quelle est la région de l'espace dont le champ gravitationnel est si intense que rien ne peut s'en échapper?",
+            "TrueAnswer": "Trou noir",
+            "FalseAnswer": [
+              "Étoile à neutrons",
+              "Naine blanche",
+              "Géante rouge"
+            ],
+            "Explanation": "Un trou noir est formé à partir des restes d'une étoile massive et a une attraction gravitationnelle suffisamment forte pour piéger même la lumière."
+          },
+          {
+            "Question": "Quel est le nom du premier télescope spatial en orbite?",
+            "TrueAnswer": "Hubble",
+            "FalseAnswer": [
+              "Spitzer",
+              "Chandra",
+              "Kepler"
+            ],
+            "Explanation": "Lancé en 1990, le télescope spatial Hubble a permis des découvertes révolutionnaires en astronomie et en imagerie spatiale profonde."
+          }
+        ]
+      }
+    }
+  ]
+}

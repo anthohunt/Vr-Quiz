@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1948584183315594512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1925912471782044865}
+  - component: {fileID: 2323873576103339857}
+  m_Layer: 0
+  m_Name: Geography_Human_Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1925912471782044865
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1948584183315594512}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2323873576103339857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1948584183315594512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the study of the human population and its distribution?
+      TrueAnswer: Demography
+      FalseAnswer:
+      - Anthropology
+      - Sociology
+      - Geology
+      Explanation: Demography is the scientific study of human populations, including
+        their size, growth, density, and distribution, as well as the processes that
+        shape them.
+    - Question: Which country is the world's most populous?
+      TrueAnswer: China
+      FalseAnswer:
+      - India
+      - United States
+      - Brazil
+      Explanation: With over 1.4 billion people, China is the most populous country
+        in the world. India follows closely behind with approximately 1.3 billion
+        people.
+    - Question: What is the term for the movement of people from rural areas to cities?
+      TrueAnswer: Urbanization
+      FalseAnswer:
+      - Migration
+      - Emergence
+      - Industrialization
+      Explanation: Urbanization refers to the increasing number of people that live
+        in urban areas, resulting in the growth of cities and towns.
+    - Question: "Which city is located at the confluence of the Rh\xF4ne and Sa\xF4ne
+        rivers in France?"
+      TrueAnswer: Lyon
+      FalseAnswer:
+      - Marseille
+      - Bordeaux
+      - Nice
+      Explanation: "Lyon, known for its historical and architectural landmarks, sits
+        at the meeting point of the Rh\xF4ne and Sa\xF4ne rivers in east-central
+        France."
+    - Question: What is the term for the boundary where different cultures or ethnic
+        groups meet?
+      TrueAnswer: Ethnographic boundary
+      FalseAnswer:
+      - Frontier
+      - Cultural divide
+      - Territory line
+      Explanation: An ethnographic boundary is a cultural boundary that separates
+        different cultures, languages, and ethnic groups in a specific geographical
+        area.
+    - Question: Which country is the origin of the cultural practice of Feng Shui?
+      TrueAnswer: China
+      FalseAnswer:
+      - Japan
+      - Korea
+      - Thailand
+      Explanation: Feng Shui, a practice related to the orientation and arrangement
+        of space, has its origins in ancient China and is deeply rooted in Chinese
+        culture.
+    - Question: What is the term for the science of map-making?
+      TrueAnswer: Cartography
+      FalseAnswer:
+      - Topography
+      - Geodesy
+      - Hydrography
+      Explanation: Cartography is the art and science of creating maps, including
+        data compilation, symbolization, and representation of geographic information.
+    - Question: Which desert stretches across North Africa from Egypt to Morocco?
+      TrueAnswer: Sahara
+      FalseAnswer:
+      - Kalahari
+      - Gobi
+      - Mojave
+      Explanation: The Sahara, the world's largest hot desert, spans several countries
+        in North Africa, covering an area of approximately 9.2 million square kilometers.
+    - Question: What is the term for a geographical area that has developed its own
+        unique culture?
+      TrueAnswer: Cultural region
+      FalseAnswer:
+      - Geographical zone
+      - Ecological niche
+      - Regional habitat
+      Explanation: A cultural region is an area where a group of people share common
+        cultural traits, such as language, religion, and customs, which distinguish
+        it from other regions.
+    - Question: Which river is considered the lifeline of Egypt?
+      TrueAnswer: Nile
+      FalseAnswer:
+      - Amazon
+      - Mississippi
+      - Ganges
+      Explanation: The Nile River is Egypt's primary water source, supporting agriculture,
+        transportation, and serving as a crucial factor in the country's history
+        and development.
+    - Question: What is the term for the physical landscape as modified by human
+        activity?
+      TrueAnswer: Cultural landscape
+      FalseAnswer:
+      - Ecosystem
+      - Terrain
+      - Geomorphic feature
+      Explanation: A cultural landscape refers to the visible human imprint on the
+        environment, including buildings, agriculture, infrastructure, and other
+        human-made elements.
+    - Question: Which city is known as the birthplace of Western civilization?
+      TrueAnswer: Athens
+      FalseAnswer:
+      - Rome
+      - Cairo
+      - Jerusalem
+      Explanation: Athens, the capital of Greece, is recognized as the birthplace
+        of democracy, philosophy, and other fundamental elements of Western civilization
+        and culture.
+    - Question: What is the term for an area set aside for a specific purpose, often
+        to preserve natural resources?
+      TrueAnswer: Protected area
+      FalseAnswer:
+      - Exclusion zone
+      - Restricted zone
+      - Conservation reserve
+      Explanation: Protected areas are designated spaces where natural and cultural
+        resources are safeguarded, managed, and conserved for the benefit of present
+        and future generations.
+    - Question: Which of the following is an example of a megalopolis?
+      TrueAnswer: BosWash
+      FalseAnswer:
+      - Ruhr
+      - Amazon Basin
+      - Great Plains
+      Explanation: BosWash is a megalopolis in the northeastern United States, encompassing
+        Boston, New York City, Philadelphia, Baltimore, and Washington, D.C.
+    - Question: What is the term for the spread of cultural beliefs and social activities
+        from one group to another?
+      TrueAnswer: Cultural diffusion
+      FalseAnswer:
+      - Ideological transmission
+      - Social propagation
+      - Cultural infestation
+      Explanation: Cultural diffusion is the process through which cultural elements,
+        such as ideas, technologies, or practices, spread from one culture to another,
+        influencing societal change.
+    - Question: Which of the following is an example of a primate city?
+      TrueAnswer: London
+      FalseAnswer:
+      - Berlin
+      - Sydney
+      - Toronto
+      Explanation: A primate city is the largest and most dominant city in a country,
+        exerting significant political, economic, and cultural influence over the
+        nation. London is a prime example.
+    - Question: What is the term for the practice of drawing electoral district boundaries
+        to give an advantage to one political party over another?
+      TrueAnswer: Gerrymandering
+      FalseAnswer:
+      - Redistricting
+      - Electoral zoning
+      - Boundary manipulation
+      Explanation: Gerrymandering is a controversial political tactic of manipulating
+        voting boundaries to benefit a particular party or group, impacting representation
+        and election outcomes.
+    - Question: Which of the following is an example of a landlocked country?
+      TrueAnswer: Bolivia
+      FalseAnswer:
+      - Indonesia
+      - Norway
+      - Chile
+      Explanation: Bolivia is a landlocked country, entirely surrounded by other
+        countries, without direct access to the ocean or sea for maritime trade and
+        transportation.
+    - Question: What is the term for the movement of people from one country to another?
+      TrueAnswer: Emigration
+      FalseAnswer:
+      - Immigration
+      - Migration
+      - Translocation
+      Explanation: Emigration specifically refers to the act of leaving one's own
+        country to reside permanently in another. It is a critical component of international
+        migration patterns.
+    - Question: Which of the following documents personal experiences and thoughts
+        and often includes cultural reflections?
+      TrueAnswer: Travelogue
+      FalseAnswer:
+      - Autobiography
+      - Biography
+      - Memoir
+      Explanation: A travelogue is a literary genre that chronicles the writer's
+        experiences, observations, and reflections during their journeys, offering
+        insight into diverse cultures and places.

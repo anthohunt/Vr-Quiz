@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the dimension of the null space of a 3x5 matrix?",
+          "TrueAnswer": "5",
+          "FalseAnswer": [
+            "3",
+            "8",
+            "2"
+          ],
+          "Explanation": "The dimension of the null space of a 3x5 matrix is equal to the number of free variables, which is 5."
+        },
+        {
+          "Question": "In a 2x2 matrix, what is the trace equal to?",
+          "TrueAnswer": "Sum of diagonal elements",
+          "FalseAnswer": [
+            "Determinant",
+            "Product of non-diagonal elements",
+            "Inverse"
+          ],
+          "Explanation": "The trace of a 2x2 matrix is the sum of its diagonal elements, which corresponds to the sum of the eigenvalues."
+        },
+        {
+          "Question": "What is the determinant of a singular matrix?",
+          "TrueAnswer": "0",
+          "FalseAnswer": [
+            "1",
+            "-1",
+            "Non-zero"
+          ],
+          "Explanation": "A singular matrix has a determinant of 0, indicating that the matrix is not invertible and its columns are linearly dependent."
+        },
+        {
+          "Question": "What is the rank of a 4x4 identity matrix?",
+          "TrueAnswer": "4",
+          "FalseAnswer": [
+            "0",
+            "1",
+            "2"
+          ],
+          "Explanation": "The rank of an identity matrix is equal to its number of rows (or columns), which in this case is 4."
+        },
+        {
+          "Question": "Which of the following is a valid eigenvalue of a 3x3 matrix?",
+          "TrueAnswer": "-2",
+          "FalseAnswer": [
+            "1",
+            "0",
+            "5"
+          ],
+          "Explanation": "The eigenvalues of a matrix satisfy the characteristic equation, and in a 3x3 matrix, -2 is a potential eigenvalue."
+        },
+        {
+          "Question": "What is the determinant of the transpose of a square matrix?",
+          "TrueAnswer": "Same as the original matrix",
+          "FalseAnswer": [
+            "Reciprocal",
+            "Negative",
+            "Depends on the matrix"
+          ],
+          "Explanation": "The determinant of a transpose matrix is equal to the determinant of the original matrix, regardless of its size."
+        },
+        {
+          "Question": "What is the solution to a homogeneous system of linear equations with a unique solution?",
+          "TrueAnswer": "Zero vector",
+          "FalseAnswer": [
+            "Identity matrix",
+            "Infinite solutions",
+            "Non-zero vector"
+          ],
+          "Explanation": "In a homogeneous system with a unique solution, the only solution is the zero vector, which corresponds to all variables being 0."
+        },
+        {
+          "Question": "What is the rank of the coefficient matrix A in a consistent system Ax=b?",
+          "TrueAnswer": "Number of pivot columns",
+          "FalseAnswer": [
+            "0",
+            "Determinant",
+            "Rows of A"
+          ],
+          "Explanation": "The rank of the coefficient matrix A in a consistent system Ax=b is equal to the number of pivot columns, which determines the dimension of the solution space."
+        },
+        {
+          "Question": "Which of the following is true about the determinant of a product of matrices?",
+          "TrueAnswer": "Product of their determinants",
+          "FalseAnswer": [
+            "Sum of their determinants",
+            "Inverse of the determinant",
+            "Depends on matrices"
+          ],
+          "Explanation": "The determinant of a product of matrices is equal to the product of their individual determinants, given they are square matrices of the same size."
+        },
+        {
+          "Question": "What is the dimension of the column space of a 4x7 matrix?",
+          "TrueAnswer": "At most 4",
+          "FalseAnswer": [
+            "At least 7",
+            "Exactly 7",
+            "At most 7"
+          ],
+          "Explanation": "The dimension of the column space is at most the number of columns in the matrix, which in this case is 7, but it can be less depending on linear dependencies."
+        },
+        {
+          "Question": "What is the solution to an inconsistent system of linear equations?",
+          "TrueAnswer": "No solution",
+          "FalseAnswer": [
+            "Unique solution",
+            "Infinite solutions",
+            "Zero vector"
+          ],
+          "Explanation": "An inconsistent system of linear equations has no solution, indicating that the equations are contradictory and cannot be satisfied simultaneously."
+        },
+        {
+          "Question": "What is the rank of the matrix after performing row operations on it?",
+          "TrueAnswer": "Unchanged",
+          "FalseAnswer": [
+            "Decreased",
+            "Increased",
+            "Becomes zero"
+          ],
+          "Explanation": "Performing row operations does not change the rank of a matrix, as row operations preserve the row space and the linear relationships among its rows."
+        },
+        {
+          "Question": "What is the solution to a system of linear equations if the determinant of the coefficient matrix is zero?",
+          "TrueAnswer": "Either no solution or infinite solutions",
+          "FalseAnswer": [
+            "Unique solution",
+            "Zero vector",
+            "Identity matrix"
+          ],
+          "Explanation": "If the determinant of the coefficient matrix is zero, the system may have either no solution or infinite solutions, depending on the consistency of the system."
+        },
+        {
+          "Question": "What is an eigenvector of a matrix A?",
+          "TrueAnswer": "Non-zero vector v",
+          "FalseAnswer": [
+            "Zero vector",
+            "Column space of A",
+            "Transpose of A"
+          ],
+          "Explanation": "An eigenvector of a matrix A is a non-zero vector v that when multiplied by A, results in a scaled version of itself, represented as Av = λv."
+        },
+        {
+          "Question": "Which of the following is true about the inverse of a non-singular matrix?",
+          "TrueAnswer": "Exists and unique",
+          "FalseAnswer": [
+            "Does not exist",
+            "Depends on the matrix",
+            "Always symmetric"
+          ],
+          "Explanation": "A non-singular matrix has an inverse that exists and is unique, allowing the solution to linear equations involving the matrix."
+        },
+        {
+          "Question": "What is the determinant of the zero matrix?",
+          "TrueAnswer": "0",
+          "FalseAnswer": [
+            "1",
+            "-1",
+            "Depends on size"
+          ],
+          "Explanation": "The determinant of a zero matrix, regardless of its size, is always 0 due to the absence of non-zero eigenvalues and singularities."
+        },
+        {
+          "Question": "What is the rank of a 3x4 matrix with linearly independent columns?",
+          "TrueAnswer": "3",
+          "FalseAnswer": [
+            "4",
+            "0",
+            "1"
+          ],
+          "Explanation": "If a 3x4 matrix has linearly independent columns, its rank is equal to the number of linearly independent columns, which is 3 in this case."
+        },
+        {
+          "Question": "What is the relationship between the row space and null space of a matrix?",
+          "TrueAnswer": "Orthogonal complements",
+          "FalseAnswer": [
+            "Same space",
+            "Dependent spaces",
+            "Perpendicular spaces"
+          ],
+          "Explanation": "The row space and null space of a matrix are orthogonal complements, meaning they have no non-trivial intersection and span the entire space."
+        },
+        {
+          "Question": "How is the determinant of a triangular matrix related to its diagonal entries?",
+          "TrueAnswer": "Product of diagonal entries",
+          "FalseAnswer": [
+            "Sum of diagonal entries",
+            "Determinant is zero",
+            "Increase with size"
+          ],
+          "Explanation": "The determinant of a triangular matrix is equal to the product of its diagonal entries, a property that holds for both upper and lower triangular matrices."
+        },
+        {
+          "Question": "What is the eigenvalue of a triangular matrix?",
+          "TrueAnswer": "Its diagonal entries",
+          "FalseAnswer": [
+            "Zero",
+            "Random number",
+            "1"
+          ],
+          "Explanation": "The eigenvalues of a triangular matrix are simply its diagonal entries, as the characteristic polynomial equates to the product of (A-λI)'s diagonal entries."
+        }
+      ]
+    }
+  ]
+}

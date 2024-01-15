@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What measures the average of a set of numbers?",
+            "TrueAnswer": "Mean",
+            "FalseAnswer": [
+              "Median",
+              "Mode",
+              "Range"
+            ],
+            "Explanation": "The mean, also known as the arithmetic average, is calculated by adding all values and dividing by the total count."
+          },
+          {
+            "Question": "Which measure of central tendency is resistant to extreme values?",
+            "TrueAnswer": "Median",
+            "FalseAnswer": [
+              "Mean",
+              "Mode",
+              "Variance"
+            ],
+            "Explanation": "The median is the middle value when the data is arranged in ascending order, making it resistant to outliers."
+          },
+          {
+            "Question": "What statistic describes the variability of a dataset?",
+            "TrueAnswer": "Standard deviation",
+            "FalseAnswer": [
+              "Variance",
+              "Mean",
+              "Skewness"
+            ],
+            "Explanation": "Standard deviation measures the average distance of data points from the mean, providing insight into the spread of the data."
+          },
+          {
+            "Question": "What does a p-value indicate in hypothesis testing?",
+            "TrueAnswer": "Significance level",
+            "FalseAnswer": [
+              "Standard error",
+              "Confidence interval",
+              "Sample size"
+            ],
+            "Explanation": "The p-value represents the probability of obtaining test results at least as extreme as the observed results, assuming the null hypothesis is true."
+          },
+          {
+            "Question": "Which distribution is commonly used to model skewed data?",
+            "TrueAnswer": "Log-normal",
+            "FalseAnswer": [
+              "Normal",
+              "Binomial",
+              "Poisson"
+            ],
+            "Explanation": "The log-normal distribution is characterized by the logarithm of the data following a normal distribution, making it suitable for positively skewed data."
+          },
+          {
+            "Question": "What does the coefficient of determination measure?",
+            "TrueAnswer": "Goodness of fit",
+            "FalseAnswer": [
+              "Sampling error",
+              "Hypothesis testing",
+              "Type I error"
+            ],
+            "Explanation": "The coefficient of determination, denoted as R-squared, quantifies the proportion of the variance in the dependent variable that is predictable from the independent variable(s)."
+          },
+          {
+            "Question": "Which test assesses the correlation between two continuous variables?",
+            "TrueAnswer": "Pearson's correlation",
+            "FalseAnswer": [
+              "Chi-squared test",
+              "Z-test",
+              "ANOVA"
+            ],
+            "Explanation": "Pearson's correlation coefficient evaluates the strength and direction of the linear relationship between two continuous variables."
+          },
+          {
+            "Question": "What does the confidence interval represent?",
+            "TrueAnswer": "Range of plausible values",
+            "FalseAnswer": [
+              "Standard deviation",
+              "Mean absolute error",
+              "Skewness"
+            ],
+            "Explanation": "The confidence interval provides a range of values within which the population parameter is likely to lie, based on the sample data and a chosen level of confidence."
+          },
+          {
+            "Question": "Which type of bias occurs when certain individuals are systematically excluded from a sample?",
+            "TrueAnswer": "Selection bias",
+            "FalseAnswer": [
+              "Sampling bias",
+              "Response bias",
+              "Measurement bias"
+            ],
+            "Explanation": "Selection bias arises when the sample selection process favors certain individuals, leading to an unrepresentative sample with systematic differences from the population."
+          },
+          {
+            "Question": "Which measure of dispersion is affected by extreme values?",
+            "TrueAnswer": "Range",
+            "FalseAnswer": [
+              "Interquartile range",
+              "Variance",
+              "Standard deviation"
+            ],
+            "Explanation": "The range is highly sensitive to extreme values as it only considers the difference between the largest and smallest values in the dataset."
+          },
+          {
+            "Question": "Which distribution is characterized by a J-shaped curve?",
+            "TrueAnswer": "Skewed distribution",
+            "FalseAnswer": [
+              "Normal distribution",
+              "Exponential distribution",
+              "Uniform distribution"
+            ],
+            "Explanation": "A skewed distribution exhibits asymmetry with most data points clustering on one side, resulting in a J-shaped curve when plotted."
+          },
+          {
+            "Question": "In a boxplot, what do the 'whiskers' represent?",
+            "TrueAnswer": "Range of non-outlier data",
+            "FalseAnswer": [
+              "Interquartile range",
+              "Mean and standard deviation",
+              "Frequency distribution"
+            ],
+            "Explanation": "The whiskers extend to the minimum and maximum non-outlier values, providing visual depiction of the range of the majority of the data."
+          },
+          {
+            "Question": "What effect does increasing the sample size have on the margin of error?",
+            "TrueAnswer": "Decreases",
+            "FalseAnswer": [
+              "Increases",
+              "Remains constant",
+              "No effect"
+            ],
+            "Explanation": "As the sample size increases, the margin of error decreases as the larger sample provides a more accurate representation of the population."
+          },
+          {
+            "Question": "What does Simpson's Paradox reveal about aggregate data?",
+            "TrueAnswer": "Reversal of trends",
+            "FalseAnswer": [
+              "Outlier detection",
+              "Homoscedasticity",
+              "Central tendency"
+            ],
+            "Explanation": "Simpson's Paradox demonstrates that an apparent correlation in aggregated data can reverse or disappear when the data is broken down into subgroups."
+          },
+          {
+            "Question": "What measure assesses the dispersion of a probability distribution?",
+            "TrueAnswer": "Entropy",
+            "FalseAnswer": [
+              "Skewness",
+              "Kurtosis",
+              "Variance"
+            ],
+            "Explanation": "Entropy quantifies the unpredictability of a probability distribution, providing insight into the disorder or randomness within the data."
+          },
+          {
+            "Question": "Which type of error in hypothesis testing occurs when the null hypothesis is incorrectly rejected?",
+            "TrueAnswer": "Type I error",
+            "FalseAnswer": [
+              "Type II error",
+              "Sampling error",
+              "Measurement error"
+            ],
+            "Explanation": "A Type I error occurs when the null hypothesis is mistakenly rejected, indicating the presence of an effect or relationship when none actually exists in the population."
+          },
+          {
+            "Question": "What measure indicates the symmetry of a probability distribution?",
+            "TrueAnswer": "Skewness",
+            "FalseAnswer": [
+              "Kurtosis",
+              "Standard deviation",
+              "Variance"
+            ],
+            "Explanation": "Skewness measures the degree of asymmetry in the probability distribution, identifying whether the data is skewed to the left or right."
+          },
+          {
+            "Question": "Which statistical test compares the means of two independent groups?",
+            "TrueAnswer": "Independent t-test",
+            "FalseAnswer": [
+              "Paired t-test",
+              "Chi-squared test",
+              "ANOVA"
+            ],
+            "Explanation": "The independent t-test assesses whether the means of two independent groups differ significantly, providing insights into differences between the groups."
+          },
+          {
+            "Question": "What does the null hypothesis state in statistical hypothesis testing?",
+            "TrueAnswer": "No effect or relationship",
+            "FalseAnswer": [
+              "Presence of effect",
+              "Insufficient evidence",
+              "Inconclusive results"
+            ],
+            "Explanation": "The null hypothesis assumes no significant effect or relationship, serving as the starting point for evaluating the presence of an observed effect."
+          },
+          {
+            "Question": "Which measure of dispersion is affected by the median?",
+            "TrueAnswer": "Interquartile range",
+            "FalseAnswer": [
+              "Variance",
+              "Standard deviation",
+              "Range"
+            ],
+            "Explanation": "The interquartile range is based on the median and quartiles, providing a measure of spread that is resilient to extreme values."
+          }
+        ]
+      }
+    }
+  ]
+}

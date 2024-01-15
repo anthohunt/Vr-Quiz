@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6332614512166522117
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 54871815027132580}
+  - component: {fileID: 6547359269193566635}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_The_Future_of_Space_Exploration.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &54871815027132580
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6332614512166522117}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6547359269193566635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6332614512166522117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the acronym for NASA's ongoing project to return humans to
+        the Moon?
+      TrueAnswer: Artemis
+      FalseAnswer:
+      - Sagittarius
+      - Orion
+      - Aurora
+      Explanation: Artemis is the name of NASA's program to land 'the first woman
+        and the next man' on the Moon by 2024.
+    - Question: Which planet is targeted for human exploration in the 2030s by NASA's
+        'Journey to Mars' program?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Jupiter
+      - Saturn
+      Explanation: NASA has plans to send humans to Mars in the 2030s as part of
+        the long-term 'Journey to Mars' program.
+    - Question: What is the name of the first scheduled space hotel set to open in
+        2027?
+      TrueAnswer: Aurora Station
+      FalseAnswer:
+      - Orion Base
+      - Galactic Resort
+      - Interstellar Palace
+      Explanation: Aurora Station, developed by Orion Span, is set to be the first
+        luxury space hotel, offering an out-of-this-world experience.
+    - Question: Which space agency aims to establish a lunar base by the 2030s through
+        their 'Lunar Gateway' program?
+      TrueAnswer: ESA (European Space Agency)
+      FalseAnswer:
+      - CNSA (China National Space Administration)
+      - Roscosmos
+      - ISRO (Indian Space Research Organisation)
+      Explanation: ESA plans to send humans to the Moon in the mid-2020s, and aims
+        to establish a sustainable lunar base through the 'Lunar Gateway' program.
+    - Question: What is the primary objective of SpaceX's 'Starship' spacecraft?
+      TrueAnswer: Interplanetary Travel
+      FalseAnswer:
+      - Space Tourism
+      - Cargo Resupply
+      - Space Station Docking
+      Explanation: SpaceX's Starship aims to enable interplanetary travel, with the
+        long-term goal of establishing human colonies on Mars and beyond.

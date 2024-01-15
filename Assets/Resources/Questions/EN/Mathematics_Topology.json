@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the definition of a topological space?",
+            "TrueAnswer": "A set with a collection of open sets satisfying specific properties.",
+            "FalseAnswer": [
+              "An ordered sequence of elements",
+              "A set without any structure",
+              "A set with only one open set"
+            ],
+            "Explanation": "A topological space is a set equipped with a collection of open subsets that satisfy the axioms of a topology. Open sets can be thought of as the fundamental building blocks of the space."
+          },
+          {
+            "Question": "Which mathematician is considered the founder of modern topology?",
+            "TrueAnswer": "Henri Poincaré",
+            "FalseAnswer": [
+              "Euclid",
+              "Leonhard Euler",
+              "Karl Weierstrass"
+            ],
+            "Explanation": "Henri Poincaré is recognized for his significant contributions to the development of topology as a distinct branch of mathematics, particularly in the study of homology and fundamental groups."
+          },
+          {
+            "Question": "What is the Euler characteristic of a torus?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "1",
+              "2",
+              "-1"
+            ],
+            "Explanation": "The Euler characteristic of a torus is calculated as (V - E + F), where V, E, and F represent the numbers of vertices, edges, and faces respectively. For a torus, the Euler characteristic is 0."
+          },
+          {
+            "Question": "What is the fundamental group of the circle?",
+            "TrueAnswer": "Integers (Z)",
+            "FalseAnswer": [
+              "Real numbers (R)",
+              "Rational numbers (Q)",
+              "Complex numbers (C)"
+            ],
+            "Explanation": "The fundamental group of the circle is the set of integers (Z). This group structure captures the essential topological information about loops on the circle, allowing for the study of its deformation and classification."
+          },
+          {
+            "Question": "What is the definition of a homeomorphism?",
+            "TrueAnswer": "A continuous bijective map with a continuous inverse.",
+            "FalseAnswer": [
+              "A linear transformation",
+              "A surjective function",
+              "A function with a discontinuous point"
+            ],
+            "Explanation": "A homeomorphism is a fundamental concept in topology, indicating that two topological spaces are essentially the same from a geometric perspective. It preserves the topological properties of the spaces, such as connectedness and compactness."
+          },
+          {
+            "Question": "In what dimension does the Poincaré conjecture hold true?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "2",
+              "4",
+              "5"
+            ],
+            "Explanation": "The Poincaré conjecture was famously proven by Grigori Perelman in 2003 for the case of 3-dimensional spaces. It states that any simply connected, closed 3-manifold is homeomorphic to the 3-dimensional sphere."
+          },
+          {
+            "Question": "What is the Jordan curve theorem?",
+            "TrueAnswer": "A curve divides a plane into exactly two regions.",
+            "FalseAnswer": [
+              "A curve forms a fractal pattern",
+              "A curve intersects itself at multiple points",
+              "A curve cannot exist in non-Euclidean geometries"
+            ],
+            "Explanation": "The Jordan curve theorem is a fundamental result in topology, stating that a simple closed curve in the plane divides the plane into two disjoint regions, an interior and an exterior. This theorem has implications in diverse areas of mathematics and physics."
+          },
+          {
+            "Question": "What is the definition of a compact space?",
+            "TrueAnswer": "A space where every open cover has a finite subcover.",
+            "FalseAnswer": [
+              "A space with a countable number of open sets",
+              "A space where every set is closed",
+              "A space with a finite number of points"
+            ],
+            "Explanation": "Compact spaces are essential in topology due to their properties related to limit points and continuity. Their defining characteristic ensures that certain sequences within the space converge, contributing to various foundational theorems."
+          },
+          {
+            "Question": "What is meant by the phrase 'Hausdorff space'?",
+            "TrueAnswer": "A space where distinct points have disjoint neighborhoods.",
+            "FalseAnswer": [
+              "A space with a single neighborhood shared by all points",
+              "A space with no distinct points",
+              "A space with continuous neighborhoods"
+            ],
+            "Explanation": "Hausdorff spaces provide a key separation axiom in topology, guaranteeing that distinct points in the space can be isolated from one another with open neighborhoods. This separation property has implications for convergence and limit points."
+          },
+          {
+            "Question": "What is the Brouwer fixed-point theorem?",
+            "TrueAnswer": "Every continuous function from a closed ball to itself has a fixed point.",
+            "FalseAnswer": [
+              "A function that fixes all points",
+              "A function with an infinite number of fixed points",
+              "A function that continuously changes its fixed points"
+            ],
+            "Explanation": "The Brouwer fixed-point theorem is a fundamental result in topology, demonstrating the existence of fixed points for continuous mappings on closed, convex sets. Its implications extend to fields such as economics, physics, and computer science."
+          },
+          {
+            "Question": "What does it mean for a topological space to be connected?",
+            "TrueAnswer": "It cannot be divided into two disjoint nonempty open sets.",
+            "FalseAnswer": [
+              "It contains only a single point",
+              "It has a countable number of points",
+              "Its open sets are all disconnected"
+            ],
+            "Explanation": "Connectedness is a fundamental property in topology, indicating that the space cannot be partitioned into nonempty, disjoint open sets. This concept provides insights into the continuity and structure of the space."
+          },
+          {
+            "Question": "What is the definition of a homotopy equivalence?",
+            "TrueAnswer": "Two spaces that can be continuously deformed into each other.",
+            "FalseAnswer": [
+              "Two spaces that are identical in all aspects",
+              "Two spaces with distinct topological properties",
+              "Two spaces that do not share any open sets"
+            ],
+            "Explanation": "Homotopy equivalence encapsulates an essential equivalence relation in topology, indicating that two spaces can be transformed into each other through continuous deformations. This concept underpins the study of topological invariants and classification."
+          },
+          {
+            "Question": "What is the topology induced by the standard metric on Euclidean space?",
+            "TrueAnswer": "The standard Euclidean topology",
+            "FalseAnswer": [
+              "The Cantor topology",
+              "The discrete topology",
+              "The Sierpinski topology"
+            ],
+            "Explanation": "The standard metric on Euclidean space defines the standard Euclidean topology, characterized by open balls as the fundamental open sets. This topology aligns with the intuitive notion of continuity and convergence in Euclidean spaces."
+          },
+          {
+            "Question": "Which property characterizes a T1 space?",
+            "TrueAnswer": "Singletons are closed sets.",
+            "FalseAnswer": [
+              "Singletons are open sets",
+              "Singletons are dense in the space",
+              "Singletons do not exist in the space"
+            ],
+            "Explanation": "A T1 space is a fundamental separation axiom in topology, ensuring that single points can be distinguished as closed sets. This property is significant for the study of limit points and the topology of discrete spaces."
+          },
+          {
+            "Question": "What does it mean for a space to be locally compact?",
+            "TrueAnswer": "Every point has a compact neighborhood.",
+            "FalseAnswer": [
+              "Every point has an open neighborhood",
+              "Every point has a finite number of neighbors",
+              "Every point is isolated"
+            ],
+            "Explanation": "Local compactness signifies that each point in the space possesses a neighborhood that is itself compact. This property is valuable for the study of continuous functions and the convergence of sequences within the space."
+          },
+          {
+            "Question": "What is the definition of a path-connected space?",
+            "TrueAnswer": "Any two points can be joined by a continuous path.",
+            "FalseAnswer": [
+              "The space consists of a single path",
+              "The space has no paths",
+              "Paths between points are always discontinuous"
+            ],
+            "Explanation": "Path-connectedness is a critical concept in topology, indicating that the space allows for continuous paths to connect any pair of points. This property underlies the characterization of connected spaces and the study of path homotopy."
+          },
+          {
+            "Question": "What is the statement of the Urysohn lemma?",
+            "TrueAnswer": "In a normal space, disjoint closed sets can be separated by a continuous function.",
+            "FalseAnswer": [
+              "All spaces are completely normal",
+              "Disjoint sets cannot be separated in any space",
+              "Only open sets can be separated by continuous functions"
+            ],
+            "Explanation": "The Urysohn lemma provides a fundamental result in general topology, elucidating the separation of disjoint closed sets within a normal space using a continuous function. This lemma has broad applications in functional analysis and topological spaces."
+          },
+          {
+            "Question": "What is the concept of topological invariance?",
+            "TrueAnswer": "Properties preserved under homeomorphisms.",
+            "FalseAnswer": [
+              "Properties dependent on specific metrics",
+              "Properties unchanged under continuous deformations",
+              "Properties affected by open coverings"
+            ],
+            "Explanation": "Topological invariance highlights properties of spaces that remain unchanged when considering homeomorphic mappings. This concept allows for the identification and classification of spaces based on their fundamental topological characteristics, independent of specific geometric details."
+          },
+          {
+            "Question": "What is the definition of a topological manifold?",
+            "TrueAnswer": "A space locally resembling Euclidean space.",
+            "FalseAnswer": [
+              "A space with a finite number of connected components",
+              "A space with no topological structure",
+              "A space that is not locally connected"
+            ],
+            "Explanation": "Topological manifolds are fundamental objects in topology, characterized by local properties resembling Euclidean spaces. They serve as a key framework for understanding higher-dimensional spaces and provide essential structures for various mathematical and physical theories."
+          },
+          {
+            "Question": "What is the fundamental difference between algebraic topology and point-set topology?",
+            "TrueAnswer": "Focus on algebraic structures vs. purely topological properties.",
+            "FalseAnswer": [
+              "Study of discrete vs. continuous spaces",
+              "Emphasis on computational methods vs. theoretical analysis",
+              "Primary consideration of countable vs. uncountable sets"
+            ],
+            "Explanation": "Algebraic topology incorporates algebraic structures, such as groups and homology, to investigate topological spaces, while point-set topology emphasizes the study of purely topological properties and structures, such as compactness and separation axioms."
+          }
+        ]
+      }
+    }
+  ]
+}

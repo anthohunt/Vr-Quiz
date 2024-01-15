@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8639767043773116824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6614633928279083415}
+  - component: {fileID: 5549853464561665947}
+  m_Layer: 0
+  m_Name: TV Shows_TV Show Influences on Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6614633928279083415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8639767043773116824}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5549853464561665947
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8639767043773116824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show features a group of friends living in New York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Big Bang Theory
+      - How I Met Your Mother
+      - Seinfeld
+      Explanation: Friends is a popular sitcom that follows the lives of six friends
+        in Manhattan.
+    - Question: What is the name of the fictional town in the TV show 'The Simpsons'?
+      TrueAnswer: Springfield
+      FalseAnswer:
+      - Quahog
+      - South Park
+      - Hill Valley
+      Explanation: Springfield is the town where the Simpson family resides in the
+        long-running animated series.
+    - Question: Which TV show is set in the fictional land of Westeros?
+      TrueAnswer: Game of Thrones
+      FalseAnswer:
+      - The Walking Dead
+      - Breaking Bad
+      - Stranger Things
+      Explanation: Game of Thrones is a fantasy drama series based on the novels
+        by George R.R. Martin.
+    - Question: Which TV show follows the lives of doctors at Grey Sloan Memorial
+        Hospital?
+      TrueAnswer: Grey's Anatomy
+      FalseAnswer:
+      - House
+      - ER
+      - Scrubs
+      Explanation: Grey's Anatomy is a medical drama that explores the personal and
+        professional lives of doctors.
+    - Question: What is the name of the high school in the TV show 'Glee'?
+      TrueAnswer: William McKinley High School
+      FalseAnswer:
+      - Rydell High School
+      - West Beverly High School
+      - Degrassi Community School
+      Explanation: William McKinley High School is the setting for the musical comedy-drama
+        series 'Glee'.
+    - Question: Which TV show is set in the fictional town of Stars Hollow?
+      TrueAnswer: Gilmore Girls
+      FalseAnswer:
+      - The Office
+      - Parks and Recreation
+      - The West Wing
+      Explanation: Gilmore Girls is a dramedy series that revolves around the lives
+        of a mother and daughter in Stars Hollow.
+    - Question: What is the name of the bar in the TV show 'Cheers'?
+      TrueAnswer: Cheers
+      FalseAnswer:
+      - Paddy's Pub
+      - MacLaren's Pub
+      - The Regal Beagle
+      Explanation: Cheers is a sitcom that takes place primarily in the bar of the
+        same name in Boston.
+    - Question: Which TV show is set in the fictional town of Pawnee, Indiana?
+      TrueAnswer: Parks and Recreation
+      FalseAnswer:
+      - The Office
+      - Brooklyn Nine-Nine
+      - The Good Place
+      Explanation: Parks and Recreation is a mockumentary sitcom that follows the
+        employees of the Parks and Recreation Department in Pawnee.
+    - Question: What is the name of the spaceship in the TV show 'Firefly'?
+      TrueAnswer: Serenity
+      FalseAnswer:
+      - Enterprise
+      - Millennium Falcon
+      - TARDIS
+      Explanation: Serenity is the spaceship captained by Malcolm Reynolds in the
+        science fiction series 'Firefly'.
+    - Question: Which TV show is set in the fictional town of Twin Peaks?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - Stranger Things
+      - The X-Files
+      - Lost
+      Explanation: Twin Peaks is a mystery drama series that explores the murder
+        of a young woman in a small town.
+    - Question: What is the name of the coffee shop in the TV show 'Friends'?
+      TrueAnswer: Central Perk
+      FalseAnswer:
+      - Monk's Cafe
+      - The Max
+      - Luke's Diner
+      Explanation: Central Perk is the coffee shop where the characters of 'Friends'
+        often gather.
+    - Question: Which TV show is set in the fictional town of Sunnydale?
+      TrueAnswer: Buffy the Vampire Slayer
+      FalseAnswer:
+      - Supernatural
+      - The Vampire Diaries
+      - True Blood
+      Explanation: Buffy the Vampire Slayer follows the adventures of a young woman
+        chosen to battle the forces of evil in Sunnydale.
+    - Question: What is the name of the high school in the TV show 'Beverly Hills,
+        90210'?
+      TrueAnswer: West Beverly High School
+      FalseAnswer:
+      - Rydell High School
+      - William McKinley High School
+      - Degrassi Community School
+      Explanation: West Beverly High School is the setting for the teen drama series
+        'Beverly Hills, 90210'.
+    - Question: Which TV show is set in the fictional town of Dillon, Texas?
+      TrueAnswer: Friday Night Lights
+      FalseAnswer:
+      - One Tree Hill
+      - The O.C.
+      - Gossip Girl
+      Explanation: Friday Night Lights is a drama series that focuses on a high school
+        football team in Dillon.
+    - Question: What is the name of the law firm in the TV show 'Suits'?
+      TrueAnswer: Pearson Hardman
+      FalseAnswer:
+      - Lockhart Gardner
+      - Wolfram & Hart
+      - Litt Wheeler Williams
+      Explanation: Pearson Hardman is the law firm where the characters of 'Suits'
+        work.
+    - Question: Which TV show is set in the fictional town of Charming, California?
+      TrueAnswer: Sons of Anarchy
+      FalseAnswer:
+      - Breaking Bad
+      - The Shield
+      - The Sopranos
+      Explanation: Sons of Anarchy follows the lives of an outlaw motorcycle club
+        in the town of Charming.
+    - Question: What is the name of the high school in the TV show 'Riverdale'?
+      TrueAnswer: Riverdale High School
+      FalseAnswer:
+      - Sunnydale High School
+      - West Beverly High School
+      - Degrassi Community School
+      Explanation: Riverdale High School is the setting for the teen drama series
+        'Riverdale' based on the Archie Comics.
+    - Question: Which TV show is set in the fictional town of Neptune, California?
+      TrueAnswer: Veronica Mars
+      FalseAnswer:
+      - Pretty Little Liars
+      - Gossip Girl
+      - The O.C.
+      Explanation: Veronica Mars is a mystery drama series that follows a high school
+        student turned private investigator in Neptune.
+    - Question: What is the name of the hospital in the TV show 'House'?
+      TrueAnswer: Princeton-Plainsboro Teaching Hospital
+      FalseAnswer:
+      - Grey Sloan Memorial Hospital
+      - Sacred Heart Hospital
+      - St. Eligius Hospital
+      Explanation: Princeton-Plainsboro Teaching Hospital is where the brilliant
+        but unconventional Dr. House practices medicine.
+    - Question: Which TV show is set in the fictional town of Pawtucket, Rhode Island?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - The Simpsons
+      - American Dad!
+      - Bob's Burgers
+      Explanation: Family Guy is an animated sitcom that centers around the Griffin
+        family in the town of Pawtucket.
+    - Question: What is the name of the high school in the TV show 'Gossip Girl'?
+      TrueAnswer: Constance Billard School for Girls
+      FalseAnswer:
+      - West Beverly High School
+      - Rydell High School
+      - Degrassi Community School
+      Explanation: Constance Billard School for Girls is the elite private school
+        attended by the characters of 'Gossip Girl'.

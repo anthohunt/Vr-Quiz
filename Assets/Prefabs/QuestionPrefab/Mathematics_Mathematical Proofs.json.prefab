@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5815426586358117141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6282583741150781114}
+  - component: {fileID: 3959487191809787151}
+  m_Layer: 0
+  m_Name: Mathematics_Mathematical Proofs.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6282583741150781114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5815426586358117141}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3959487191809787151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5815426586358117141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of a mathematical proof?
+      TrueAnswer: To demonstrate the truth of a mathematical statement
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: The purpose of a mathematical proof is to provide evidence and
+        logical reasoning to establish the truth of a mathematical statement.
+    - Question: What is the first step in constructing a mathematical proof?
+      TrueAnswer: Identifying the statement to be proven
+      FalseAnswer:
+      - Writing the conclusion
+      - Finding counterexamples
+      - Using mathematical symbols
+      Explanation: The first step in constructing a mathematical proof is to clearly
+        identify the statement that needs to be proven.
+    - Question: What is a counterexample in mathematics?
+      TrueAnswer: An example that disproves a statement
+      FalseAnswer:
+      - An example that proves a statement
+      - A mathematical symbol
+      - A theorem
+      Explanation: A counterexample in mathematics is an example that shows a statement
+        to be false, thus disproving it.
+    - Question: What is the purpose of a counterexample in a mathematical proof?
+      TrueAnswer: To show that a statement is false
+      FalseAnswer:
+      - To support a statement
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      Explanation: The purpose of a counterexample in a mathematical proof is to
+        demonstrate that a statement is false.
+    - Question: What is the difference between an axiom and a theorem?
+      TrueAnswer: An axiom is a statement accepted as true, while a theorem is proven
+        true
+      FalseAnswer:
+      - An axiom is proven true, while a theorem is accepted as true
+      - An axiom is a mathematical symbol
+      - A theorem is a statement accepted as true
+      Explanation: An axiom is a statement that is accepted as true without proof,
+        while a theorem is a statement that has been proven true.
+    - Question: What is the purpose of using logical reasoning in a mathematical
+        proof?
+      TrueAnswer: To establish the validity of each step in the proof
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Logical reasoning is used in a mathematical proof to ensure that
+        each step is valid and contributes to the overall proof.
+    - Question: What is an indirect proof in mathematics?
+      TrueAnswer: A proof that assumes the opposite of what is to be proven
+      FalseAnswer:
+      - A proof that directly proves a statement
+      - A mathematical symbol
+      - A theorem
+      Explanation: An indirect proof in mathematics is a proof that assumes the opposite
+        of what is to be proven and leads to a contradiction.
+    - Question: What is the purpose of using symbols in a mathematical proof?
+      TrueAnswer: To represent mathematical concepts and relationships
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Symbols are used in a mathematical proof to represent mathematical
+        concepts and relationships in a concise and precise manner.
+    - Question: What is a direct proof in mathematics?
+      TrueAnswer: A proof that directly proves a statement
+      FalseAnswer:
+      - A proof that assumes the opposite of what is to be proven
+      - A mathematical symbol
+      - A theorem
+      Explanation: A direct proof in mathematics is a proof that directly establishes
+        the truth of a statement using logical reasoning.
+    - Question: What is the purpose of using examples in a mathematical proof?
+      TrueAnswer: To illustrate the application of a concept or theorem
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Examples are used in a mathematical proof to provide concrete
+        illustrations of how a concept or theorem can be applied.
+    - Question: What is the role of assumptions in a mathematical proof?
+      TrueAnswer: To establish the starting point of the proof
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Assumptions are used in a mathematical proof to establish the
+        starting point from which the proof will proceed.
+    - Question: What is the purpose of using logical connectives in a mathematical
+        proof?
+      TrueAnswer: To combine statements and form compound statements
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Logical connectives are used in a mathematical proof to combine
+        individual statements and form compound statements.
+    - Question: What is the role of definitions in a mathematical proof?
+      TrueAnswer: To provide precise meanings for mathematical terms
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Definitions are used in a mathematical proof to provide precise
+        meanings for mathematical terms used in the proof.
+    - Question: What is the purpose of using mathematical induction in a proof?
+      TrueAnswer: To prove statements for all natural numbers
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Mathematical induction is used in a proof to establish the truth
+        of a statement for all natural numbers.
+    - Question: What is the role of lemmas in a mathematical proof?
+      TrueAnswer: To establish intermediate results that aid in proving a theorem
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Lemmas are used in a mathematical proof to establish intermediate
+        results that help in proving a theorem.
+    - Question: What is the purpose of using logical equivalences in a mathematical
+        proof?
+      TrueAnswer: To transform statements into equivalent forms
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Logical equivalences are used in a mathematical proof to transform
+        statements into equivalent forms that are easier to work with.
+    - Question: What is the role of axiomatic systems in mathematics?
+      TrueAnswer: To provide a foundation for mathematical reasoning
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Axiomatic systems are used in mathematics to provide a set of
+        axioms that serve as the foundation for mathematical reasoning.
+    - Question: What is the purpose of using mathematical notation in a proof?
+      TrueAnswer: To express mathematical ideas and relationships concisely
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Mathematical notation is used in a proof to express mathematical
+        ideas and relationships in a concise and precise manner.
+    - Question: What is the role of corollaries in a mathematical proof?
+      TrueAnswer: To state immediate consequences of a theorem
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Corollaries are used in a mathematical proof to state immediate
+        consequences of a theorem that has been proven.
+    - Question: What is the purpose of using mathematical symbols in a proof?
+      TrueAnswer: To represent mathematical concepts and relationships
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Mathematical symbols are used in a proof to represent mathematical
+        concepts and relationships in a concise and precise manner.
+    - Question: What is the role of conjectures in mathematics?
+      TrueAnswer: To propose statements that are believed to be true but not yet
+        proven
+      FalseAnswer:
+      - To confuse mathematicians
+      - To create new mathematical concepts
+      - To solve complex equations
+      Explanation: Conjectures are statements in mathematics that are believed to
+        be true but have not yet been proven.

@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la méthode la plus courante pour résoudre les équations différentielles linéaires du premier ordre ?",
+            "TrueAnswer": "Facteur intégrant",
+            "FalseAnswer": [
+              "Séparation des variables",
+              "Méthode d'Euler",
+              "Exponentiation matricielle"
+            ],
+            "Explanation": "La méthode du facteur intégrant est largement utilisée pour résoudre les équations différentielles linéaires du premier ordre et implique la multiplication des deux côtés de l'équation par un facteur intégrant pour simplifier l'équation en vue de l'intégration."
+          },
+          {
+            "Question": "Quelle est la solution générale d'une équation différentielle linéaire du deuxième ordre homogène ?",
+            "TrueAnswer": "y=c1 e^(r1x) + c2 e^(r2x)",
+            "FalseAnswer": [
+              "y=c1 sin(x) + c2 cos(x)",
+              "y=c1 e^(rx)",
+              "y=c1 x^2 + c2 x"
+            ],
+            "Explanation": "Dans le cas de racines réelles distinctes r1 et r2, la solution générale d'une équation différentielle linéaire du deuxième ordre homogène est de la forme y=c1 e^(r1x) + c2 e^(r2x), où c1 et c2 sont des constantes arbitraires."
+          },
+          {
+            "Question": "Quel type d'équation différentielle peut être résolu à l'aide des transformées de Laplace ?",
+            "TrueAnswer": "Équations différentielles linéaires à coefficients constants",
+            "FalseAnswer": [
+              "Équations différentielles non linéaires",
+              "Équations différentielles partielles",
+              "Équations différentielles stochastiques"
+            ],
+            "Explanation": "Les transformées de Laplace sont particulièrement efficaces pour résoudre les équations différentielles linéaires à coefficients constants, transformant l'équation différentielle en une équation algébrique qui peut être plus facilement résolue."
+          },
+          {
+            "Question": "Quelle est l'équation caractéristique d'une équation différentielle linéaire homogène du deuxième ordre ?",
+            "TrueAnswer": "r^2 + ar + b = 0",
+            "FalseAnswer": [
+              "r^3 + ar^2 + br + c = 0",
+              "r + a = 0",
+              "ar^2 + br + c = 0"
+            ],
+            "Explanation": "L'équation caractéristique d'une équation différentielle linéaire homogène du deuxième ordre est de la forme r^2 + ar + b = 0, où r représente les racines de l'équation caractéristique qui déterminent la forme de la solution."
+          },
+          {
+            "Question": "Quel est l'avantage principal de l'utilisation des séries entières pour résoudre les équations différentielles ?",
+            "TrueAnswer": "Applicabilité aux équations à coefficients non constants",
+            "FalseAnswer": [
+              "Convergence plus rapide que d'autres méthodes",
+              "Convergence garantie pour toutes les fonctions",
+              "Simplicité de mise en œuvre"
+            ],
+            "Explanation": "Les solutions en séries entières offrent une méthode puissante pour résoudre les équations différentielles avec des coefficients non constants, permettant de déterminer le comportement de la solution près des points singuliers et d'analyser des fonctions spéciales."
+          }
+        ]
+      }
+    }
+  ]
+}

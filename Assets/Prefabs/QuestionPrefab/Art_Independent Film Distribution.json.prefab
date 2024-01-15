@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3478584088134816198
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7596501159844383901}
+  - component: {fileID: 1393054103192418526}
+  m_Layer: 0
+  m_Name: Art_Independent Film Distribution.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7596501159844383901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3478584088134816198}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1393054103192418526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3478584088134816198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the famous painting by Leonardo da Vinci?
+      TrueAnswer: Mona Lisa
+      FalseAnswer:
+      - The Starry Night
+      - The Last Supper
+      - Guernica
+      Explanation: The Mona Lisa is a renowned portrait painting by Leonardo da Vinci,
+        known for its enigmatic smile.
+    - Question: Who painted the famous artwork 'The Persistence of Memory'?
+      TrueAnswer: Salvador Dali
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: The Persistence of Memory is a surrealist painting created by
+        Salvador Dali in 1931.
+    - Question: Which artist is known for his 'Campbell's Soup Cans' artwork?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Jackson Pollock
+      - Piet Mondrian
+      - Georgia O'Keeffe
+      Explanation: Andy Warhol, a leading figure in the pop art movement, created
+        the iconic 'Campbell's Soup Cans' artwork.
+    - Question: Who painted the famous mural 'The Last Judgment' in the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Vincent van Gogh
+      Explanation: Michelangelo painted 'The Last Judgment' on the altar wall of
+        the Sistine Chapel in Vatican City.
+    - Question: Which artist is known for his 'Sunflowers' series of paintings?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Claude Monet
+      - Pablo Picasso
+      - Salvador Dali
+      Explanation: Vincent van Gogh created the famous 'Sunflowers' series of paintings
+        during his time in Arles, France.
+    - Question: Who sculpted the famous statue 'David'?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Auguste Rodin
+      - Donatello
+      - Pablo Picasso
+      Explanation: Michelangelo sculpted the iconic marble statue 'David' between
+        1501 and 1504.
+    - Question: Which artist is known for his 'Water Lilies' series of paintings?
+      TrueAnswer: Claude Monet
+      FalseAnswer:
+      - Vincent van Gogh
+      - Salvador Dali
+      - Pablo Picasso
+      Explanation: Claude Monet, a leading figure in the Impressionist movement,
+        painted the 'Water Lilies' series.
+    - Question: Who painted the famous artwork 'The Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Salvador Dali
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh created the iconic painting 'The Starry Night'
+        in 1889.
+    - Question: Which artist is known for his 'Les Demoiselles d'Avignon' artwork?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Salvador Dali
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Pablo Picasso painted the groundbreaking artwork 'Les Demoiselles
+        d'Avignon' in 1907.
+    - Question: Who painted the famous artwork 'The Birth of Venus'?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Michelangelo
+      Explanation: Sandro Botticelli, an Italian painter, created the renowned artwork
+        'The Birth of Venus' in the 1480s.
+    - Question: Which artist is known for his 'The Great Wave off Kanagawa' artwork?
+      TrueAnswer: Katsushika Hokusai
+      FalseAnswer:
+      - Claude Monet
+      - Vincent van Gogh
+      - Pablo Picasso
+      Explanation: Katsushika Hokusai, a Japanese ukiyo-e artist, created the famous
+        woodblock print 'The Great Wave off Kanagawa'.
+    - Question: Who painted the famous artwork 'The Girl with a Pearl Earring'?
+      TrueAnswer: Johannes Vermeer
+      FalseAnswer:
+      - Rembrandt
+      - Hieronymus Bosch
+      - Pieter Bruegel the Elder
+      Explanation: Johannes Vermeer, a Dutch painter, created the captivating artwork
+        'The Girl with a Pearl Earring' in the 17th century.
+    - Question: Which artist is known for his 'The Scream' artwork?
+      TrueAnswer: Edvard Munch
+      FalseAnswer:
+      - Gustav Klimt
+      - Henri Matisse
+      - "Paul C\xE9zanne"
+      Explanation: Edvard Munch, a Norwegian painter, created the iconic artwork
+        'The Scream' in 1893.
+    - Question: Who painted the famous artwork 'The Birth of Adam' on the ceiling
+        of the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Vincent van Gogh
+      Explanation: Michelangelo painted 'The Birth of Adam' as part of the frescoes
+        on the ceiling of the Sistine Chapel.
+    - Question: Which artist is known for his 'The Son of Man' artwork?
+      TrueAnswer: "Ren\xE9 Magritte"
+      FalseAnswer:
+      - Salvador Dali
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: "Ren\xE9 Magritte, a Belgian surrealist artist, created the thought-provoking
+        artwork 'The Son of Man'."
+    - Question: Who painted the famous artwork 'The Creation of Adam' on the ceiling
+        of the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Vincent van Gogh
+      Explanation: Michelangelo painted 'The Creation of Adam' as part of the frescoes
+        on the ceiling of the Sistine Chapel.
+    - Question: Which artist is known for his 'The Night Watch' artwork?
+      TrueAnswer: Rembrandt
+      FalseAnswer:
+      - Johannes Vermeer
+      - Hieronymus Bosch
+      - Pieter Bruegel the Elder
+      Explanation: Rembrandt, a Dutch painter, created the famous artwork 'The Night
+        Watch' in the 17th century.
+    - Question: Who painted the famous artwork 'The School of Athens' in the Vatican?
+      TrueAnswer: Raphael
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Vincent van Gogh
+      Explanation: Raphael painted 'The School of Athens' as part of the frescoes
+        in the Vatican's Apostolic Palace.
+    - Question: Which artist is known for his 'The Birth of Venus' artwork?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Michelangelo
+      Explanation: Sandro Botticelli, an Italian painter, created the renowned artwork
+        'The Birth of Venus' in the 1480s.
+    - Question: Who painted the famous artwork 'The Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Salvador Dali
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh created the iconic painting 'The Starry Night'
+        in 1889.

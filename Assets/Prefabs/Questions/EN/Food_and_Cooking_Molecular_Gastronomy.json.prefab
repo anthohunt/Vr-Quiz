@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2817237490112905750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3891842263552904269}
+  - component: {fileID: 6458620930028392404}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Molecular_Gastronomy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3891842263552904269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2817237490112905750}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6458620930028392404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2817237490112905750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary technique in Molecular Gastronomy?
+      TrueAnswer: Spherification
+      FalseAnswer:
+      - Frying
+      - Grilling
+      - Boiling
+      Explanation: Spherification involves shaping liquids into spheres resembling
+        caviar or pearls using food additives and a calcium bath.
+    - Question: Which chef is famously known for popularizing Molecular Gastronomy?
+      TrueAnswer: "Ferran Adri\xE0"
+      FalseAnswer:
+      - Gordon Ramsay
+      - Julia Child
+      - Jamie Oliver
+      Explanation: "Ferran Adri\xE0, the former head chef of elBulli in Spain, is
+        often credited as the pioneer of Molecular Gastronomy."
+    - Question: What gelling agent is commonly used in Molecular Gastronomy?
+      TrueAnswer: Agar-agar
+      FalseAnswer:
+      - Gelatin
+      - Cornstarch
+      - Pectin
+      Explanation: Agar-agar, derived from seaweed, is a vegetarian gelling agent
+        frequently used in Molecular Gastronomy due to its stability.
+    - Question: What tool is essential for creating foam in Molecular Gastronomy
+        dishes?
+      TrueAnswer: Nitrous oxide dispenser
+      FalseAnswer:
+      - Blender
+      - Whisk
+      - Sieve
+      Explanation: The nitrous oxide dispenser, commonly known as a whipping siphon,
+        is utilized to infuse liquids with nitrogen to create foams in Molecular
+        Gastronomy.
+    - Question: Which famous dessert is often deconstructed in Molecular Gastronomy?
+      TrueAnswer: Tiramisu
+      FalseAnswer:
+      - Cheesecake
+      - "Cr\xE8me br\xFBl\xE9e"
+      - Panna cotta
+      Explanation: Tiramisu, a classic Italian dessert, is deconstructed in Molecular
+        Gastronomy to incorporate avant-garde techniques while maintaining its traditional
+        flavors.

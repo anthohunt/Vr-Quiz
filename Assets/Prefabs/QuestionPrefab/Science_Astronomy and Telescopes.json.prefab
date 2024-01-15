@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4258006543126792999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6866437922653602530}
+  - component: {fileID: 2616195960336890432}
+  m_Layer: 0
+  m_Name: Science_Astronomy and Telescopes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6866437922653602530
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258006543126792999}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2616195960336890432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4258006543126792999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of about 86,881 miles.
+    - Question: What is the closest star to Earth?
+      TrueAnswer: Sun
+      FalseAnswer:
+      - Proxima Centauri
+      - Alpha Centauri
+      - Betelgeuse
+      Explanation: The Sun is the closest star to Earth, located about 93 million
+        miles away.
+    - Question: What is the name of the galaxy that contains our solar system?
+      TrueAnswer: Milky Way
+      FalseAnswer:
+      - Andromeda
+      - Whirlpool
+      - Sombrero
+      Explanation: Our solar system is located in the Milky Way galaxy, which is
+        a barred spiral galaxy.
+    - Question: What is the process by which a star converts hydrogen into helium?
+      TrueAnswer: Nuclear fusion
+      FalseAnswer:
+      - Nuclear fission
+      - Photosynthesis
+      - Chemical reaction
+      Explanation: Nuclear fusion is the process that powers stars, where hydrogen
+        nuclei combine to form helium.
+    - Question: What is the name of the phenomenon where light bends as it passes
+        through a lens?
+      TrueAnswer: Refraction
+      FalseAnswer:
+      - Reflection
+      - Diffraction
+      - Dispersion
+      Explanation: Refraction is the bending of light as it passes through a lens,
+        causing it to change direction.
+    - Question: What is the term for a star that suddenly increases in brightness?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nova
+      - Black hole
+      - White dwarf
+      Explanation: A supernova is a powerful explosion that occurs at the end of
+        a star's life, resulting in a sudden increase in brightness.
+    - Question: What is the name of the largest moon in our solar system?
+      TrueAnswer: Ganymede
+      FalseAnswer:
+      - Titan
+      - Europa
+      - Callisto
+      Explanation: Ganymede, one of Jupiter's moons, is the largest moon in our solar
+        system, even larger than the planet Mercury.
+    - Question: What is the term for a group of stars that form a recognizable pattern?
+      TrueAnswer: Constellation
+      FalseAnswer:
+      - Galaxy
+      - Nebula
+      - Cluster
+      Explanation: A constellation is a group of stars that form a recognizable pattern
+        in the night sky.
+    - Question: What is the name of the largest volcano in our solar system?
+      TrueAnswer: Olympus Mons
+      FalseAnswer:
+      - Mauna Loa
+      - Mount Everest
+      - Mount Kilimanjaro
+      Explanation: Olympus Mons is the largest volcano in our solar system, located
+        on the planet Mars.
+    - Question: What is the term for the study of celestial objects and phenomena?
+      TrueAnswer: Astronomy
+      FalseAnswer:
+      - Astrology
+      - Cosmology
+      - Meteorology
+      Explanation: Astronomy is the scientific study of celestial objects, such as
+        stars, planets, galaxies, and the universe as a whole.
+    - Question: What is the name of the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of about 86,881 miles.
+    - Question: What is the closest star to Earth?
+      TrueAnswer: Sun
+      FalseAnswer:
+      - Proxima Centauri
+      - Alpha Centauri
+      - Betelgeuse
+      Explanation: The Sun is the closest star to Earth, located about 93 million
+        miles away.
+    - Question: What is the name of the galaxy that contains our solar system?
+      TrueAnswer: Milky Way
+      FalseAnswer:
+      - Andromeda
+      - Whirlpool
+      - Sombrero
+      Explanation: Our solar system is located in the Milky Way galaxy, which is
+        a barred spiral galaxy.
+    - Question: What is the process by which a star converts hydrogen into helium?
+      TrueAnswer: Nuclear fusion
+      FalseAnswer:
+      - Nuclear fission
+      - Photosynthesis
+      - Chemical reaction
+      Explanation: Nuclear fusion is the process that powers stars, where hydrogen
+        nuclei combine to form helium.
+    - Question: What is the name of the phenomenon where light bends as it passes
+        through a lens?
+      TrueAnswer: Refraction
+      FalseAnswer:
+      - Reflection
+      - Diffraction
+      - Dispersion
+      Explanation: Refraction is the bending of light as it passes through a lens,
+        causing it to change direction.
+    - Question: What is the term for a star that suddenly increases in brightness?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nova
+      - Black hole
+      - White dwarf
+      Explanation: A supernova is a powerful explosion that occurs at the end of
+        a star's life, resulting in a sudden increase in brightness.
+    - Question: What is the name of the largest moon in our solar system?
+      TrueAnswer: Ganymede
+      FalseAnswer:
+      - Titan
+      - Europa
+      - Callisto
+      Explanation: Ganymede, one of Jupiter's moons, is the largest moon in our solar
+        system, even larger than the planet Mercury.
+    - Question: What is the term for a group of stars that form a recognizable pattern?
+      TrueAnswer: Constellation
+      FalseAnswer:
+      - Galaxy
+      - Nebula
+      - Cluster
+      Explanation: A constellation is a group of stars that form a recognizable pattern
+        in the night sky.
+    - Question: What is the name of the largest volcano in our solar system?
+      TrueAnswer: Olympus Mons
+      FalseAnswer:
+      - Mauna Loa
+      - Mount Everest
+      - Mount Kilimanjaro
+      Explanation: Olympus Mons is the largest volcano in our solar system, located
+        on the planet Mars.
+    - Question: What is the term for the study of celestial objects and phenomena?
+      TrueAnswer: Astronomy
+      FalseAnswer:
+      - Astrology
+      - Cosmology
+      - Meteorology
+      Explanation: Astronomy is the scientific study of celestial objects, such as
+        stars, planets, galaxies, and the universe as a whole.

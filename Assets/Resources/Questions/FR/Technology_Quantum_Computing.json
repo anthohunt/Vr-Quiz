@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est l'unité fondamentale d'information en informatique quantique ?",
+            "TrueAnswer": "Qubit",
+            "FalseAnswer": [
+              "Bit",
+              "Byte",
+              "Nibble"
+            ],
+            "Explanation": "Un qubit est l'unité fondamentale d'information en informatique quantique, analogue à un bit classique."
+          },
+          {
+            "Question": "Quelle propriété permet aux qubits d'exister dans plusieurs états simultanément ?",
+            "TrueAnswer": "Superposition",
+            "FalseAnswer": [
+              "Interférence",
+              "Intrication",
+              "Décroissance"
+            ],
+            "Explanation": "La superposition permet aux qubits d'exister dans plusieurs états en même temps, une caractéristique clé de l'informatique quantique."
+          },
+          {
+            "Question": "Quel phénomène se produit lorsque des qubits intriqués deviennent corrélés ?",
+            "TrueAnswer": "Intrication quantique",
+            "FalseAnswer": [
+              "Tunnel quantique",
+              "Calcul quantique",
+              "Cryptographie quantique"
+            ],
+            "Explanation": "L'intrication quantique est un phénomène où les particules deviennent interconnectées et leurs états quantiques sont corrélés."
+          },
+          {
+            "Question": "Quel concept permet aux qubits de transmettre de l'information instantanément sur de longues distances ?",
+            "TrueAnswer": "Téléportation quantique",
+            "FalseAnswer": [
+              "Communication quantique",
+              "Cryptage quantique",
+              "Tunnel quantique"
+            ],
+            "Explanation": "La téléportation quantique est un processus pour transmettre instantanément de l'information quantique, pas des particules physiques, sur n'importe quelle distance."
+          },
+          {
+            "Question": "Quelle est la limite théorique du nombre de qubits pouvant être intriqués dans un ordinateur quantique ?",
+            "TrueAnswer": "Aucune limite",
+            "FalseAnswer": [
+              "1000",
+              "10000",
+              "100000"
+            ],
+            "Explanation": "Théoriquement, il n'y a pas de limite au nombre de qubits pouvant être intriqués dans un ordinateur quantique, contrairement aux systèmes classiques."
+          },
+          {
+            "Question": "Quel phénomène cause la dégradation de l'information quantique et la perte de cohérence?",
+            "TrueAnswer": "Décroissance quantique",
+            "FalseAnswer": [
+              "Superposition quantique",
+              "Intrication quantique",
+              "Tunnel quantique"
+            ],
+            "Explanation": "La décroissance quantique est le processus par lequel la cohérence de l'information quantique est perdue, limitant la précision et la puissance de calcul quantique."
+          },
+          {
+            "Question": "Quelle propriété permet aux qubits d'être entrelacés et d'influencer l'état l'un de l'autre ?",
+            "TrueAnswer": "Intrication",
+            "FalseAnswer": [
+              "Superposition",
+              "Paradoxe EPR",
+              "Spin quantique"
+            ],
+            "Explanation": "L'intrication permet aux qubits de devenir interconnectés, entraînant des corrélations entre leurs états quantiques."
+          },
+          {
+            "Question": "Quel terme fait référence à l'accélération exponentielle que les ordinateurs quantiques démontrent par rapport aux ordinateurs classiques ?",
+            "TrueAnswer": "Accélération quantique",
+            "FalseAnswer": [
+              "Saut quantique",
+              "Avantage quantique",
+              "Suprématie quantique"
+            ],
+            "Explanation": "L'accélération quantique désigne l'augmentation exponentielle de la puissance de calcul des ordinateurs quantiques par rapport aux systèmes classiques pour certains problèmes."
+          },
+          {
+            "Question": "Quelle méthode de cryptographie est potentiellement menacée par l'algorithme de Shor en informatique quantique ?",
+            "TrueAnswer": "RSA",
+            "FalseAnswer": [
+              "AES",
+              "Diffie-Hellman",
+              "ECC"
+            ],
+            "Explanation": "L'algorithme de Shor a le potentiel de casser le cryptage RSA, compromettant sa sécurité face aux ordinateurs quantiques."
+          },
+          {
+            "Question": "Quelle opération décrit le changement simultané de deux qubits en raison de leur intrication ?",
+            "TrueAnswer": "Porte quantique",
+            "FalseAnswer": [
+              "Circuit quantique",
+              "Algorithme quantique",
+              "Oracle quantique"
+            ],
+            "Explanation": "Les portes quantiques sont les blocs de construction de base des circuits quantiques, introduisant des corrélations entre les qubits par l'intrication."
+          },
+          {
+            "Question": "Quel est le principal défi dans la création de qubits stables et fiables pour l'informatique quantique ?",
+            "TrueAnswer": "Décroissance",
+            "FalseAnswer": [
+              "Interférence",
+              "Superposition",
+              "Intrication"
+            ],
+            "Explanation": "La décroissance, la perte de cohérence quantique dans les qubits, est un défi majeur dans la création de systèmes informatiques quantiques stables et fiables."
+          },
+          {
+            "Question": "Quel est le terme utilisé pour désigner l'utilisation à la fois de la computation classique et quantique dans la résolution de problèmes?",
+            "TrueAnswer": "Calcul hybride",
+            "FalseAnswer": [
+              "Hybride quantique",
+              "Classique quantique",
+              "Calcul mixte"
+            ],
+            "Explanation": "Le calcul hybride désigne l'intégration des techniques de computation classique et quantique pour résoudre des problèmes de manière efficace et efficiente."
+          },
+          {
+            "Question": "Quel physicien a formulé le concept de l'informatique quantique en 1981?",
+            "TrueAnswer": "Richard Feynman",
+            "FalseAnswer": [
+              "Niels Bohr",
+              "Erwin Schrödinger",
+              "Werner Heisenberg"
+            ],
+            "Explanation": "Richard Feynman a proposé l'idée de l'informatique quantique en 1981, posant les bases conceptuelles de son développement."
+          },
+          {
+            "Question": "Quel terme désigne les codes de correction d'erreurs utilisés en informatique quantique pour se protéger contre le bruit ?",
+            "TrueAnswer": "Correction d'erreurs quantiques",
+            "FalseAnswer": [
+              "Suppression de bruit quantique",
+              "Tolérance aux erreurs quantiques",
+              "Contrôle des perturbations quantiques"
+            ],
+            "Explanation": "La correction d'erreurs quantiques englobe divers codes et techniques pour protéger l'information quantique contre les erreurs et la décroissance causées par le bruit."
+          },
+          {
+            "Question": "Quel est l'algorithme quantique principal pour factoriser efficacement de grands entiers sur un ordinateur quantique ?",
+            "TrueAnswer": "Algorithme de Shor",
+            "FalseAnswer": [
+              "Algorithme de Grover",
+              "Transformée de Fourier quantique",
+              "Algorithme VQE"
+            ],
+            "Explanation": "L'algorithme de Shor est un algorithme quantique qui factorise efficacement de grands entiers, constituant une menace pour les systèmes de cryptographie classiques comme RSA."
+          },
+          {
+            "Question": "Quel terme désigne l'état d'un qubit avant d'être mesuré ou observé ?",
+            "TrueAnswer": "État quantique",
+            "FalseAnswer": [
+              "Probabilité quantique",
+              "Entropie quantique",
+              "Incertitude quantique"
+            ],
+            "Explanation": "L'état quantique désigne l'ensemble complet d'informations sur un qubit, comprenant sa superposition et son intrication, avant la mesure."
+          },
+          {
+            "Question": "Quelle théorie suggère que l'information quantique ne peut être copiée parfaitement ?",
+            "TrueAnswer": "Théorème de non-clonage",
+            "FalseAnswer": [
+              "Principe d'incertitude quantique",
+              "Non-localité quantique",
+              "Indiscernabilité quantique"
+            ],
+            "Explanation": "Le théorème de non-clonage stipule qu'il est impossible de créer une copie exacte d'un état quantique arbitraire inconnu."
+          },
+          {
+            "Question": "À quoi fait référence le terme 'Suprématie quantique' dans le contexte de l'informatique quantique ?",
+            "TrueAnswer": "Démontrer l'avantage quantique",
+            "FalseAnswer": [
+              "Supériorité quantique",
+              "Prééminence quantique",
+              "Dominance quantique"
+            ],
+            "Explanation": "La suprématie quantique désigne la réalisation expérimentale de l'avantage quantique par rapport aux systèmes classiques dans une tâche ou un problème de calcul spécifique."
+          },
+          {
+            "Question": "Quelle est l'utilisation des ordinateurs quantiques pour résoudre des problèmes d'optimisation et de décision connus sous le nom de ?",
+            "TrueAnswer": "Optimisation quantique",
+            "FalseAnswer": [
+              "Prise de décision quantique",
+              "Heuristiques quantiques",
+              "Résolution de problèmes quantiques"
+            ],
+            "Explanation": "L'optimisation quantique utilise des algorithmes quantiques pour résoudre efficacement des problèmes complexes d'optimisation et de prise de décision, surpassant les approches classiques dans certains cas."
+          },
+          {
+            "Question": "Quel domaine d'étude se concentre sur la mise en œuvre pratique des dispositifs et systèmes informatiques quantiques ?",
+            "TrueAnswer": "Ingénierie quantique",
+            "FalseAnswer": [
+              "Théorie quantique",
+              "Algorithmes quantiques",
+              "Cryptographie quantique"
+            ],
+            "Explanation": "L'ingénierie quantique implique la conception, le développement et la mise en œuvre de matériels et systèmes informatiques quantiques pratiques pour exploiter la puissance du traitement de l'information quantique."
+          }
+        ]
+      }
+    }
+  ]
+}

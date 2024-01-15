@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le résultat de 8 multiplié par 7?",
+            "TrueAnswer": "56",
+            "FalseAnswer": [
+              "42",
+              "64",
+              "49"
+            ],
+            "Explanation": "Le résultat de 8 multiplié par 7 est 56. La multiplication est une opération arithmétique fondamentale permettant de combiner plusieurs groupes de même taille."
+          },
+          {
+            "Question": "Quel est le quotient de 36 divisé par 6?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "4",
+              "7",
+              "5"
+            ],
+            "Explanation": "Le quotient de 36 divisé par 6 est 6. La division est le processus de distribution d'une quantité dans un certain nombre de groupes."
+          },
+          {
+            "Question": "Quelle est la somme de 25 et 13?",
+            "TrueAnswer": "38",
+            "FalseAnswer": [
+              "30",
+              "42",
+              "34"
+            ],
+            "Explanation": "La somme de 25 et 13 est 38. L'addition est l'opération arithmétique consistant à fusionner deux nombres en un seul."
+          },
+          {
+            "Question": "Quelle est la différence entre 90 et 57?",
+            "TrueAnswer": "33",
+            "FalseAnswer": [
+              "42",
+              "25",
+              "47"
+            ],
+            "Explanation": "La différence entre 90 et 57 est 33. La soustraction est le processus de prendre un nombre à partir d'un autre."
+          },
+          {
+            "Question": "Combien de côtés a un pentagone?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "6",
+              "4",
+              "7"
+            ],
+            "Explanation": "Un pentagone est un polygone à cinq côtés. En géométrie, les polygones sont des formes closes avec des côtés droits."
+          },
+          {
+            "Question": "Quelle est la valeur du chiffre 7 dans le nombre 473?",
+            "TrueAnswer": "70",
+            "FalseAnswer": [
+              "7",
+              "700",
+              "0"
+            ],
+            "Explanation": "Le chiffre 7 dans le nombre 473 représente une valeur de 70, car il est à la place des dizaines."
+          },
+          {
+            "Question": "Quel est le résultat de 18 plus 27 moins 10?",
+            "TrueAnswer": "35",
+            "FalseAnswer": [
+              "42",
+              "30",
+              "25"
+            ],
+            "Explanation": "Le résultat de 18 plus 27 moins 10 est 35. Les expressions arithmétiques suivent l'ordre des opérations : PEMDAS (Parenthèses, Exposants, Multiplication et Division, Addition et Soustraction)."
+          },
+          {
+            "Question": "Quel est le produit de 12 multiplié par 9 divisé par 3?",
+            "TrueAnswer": "36",
+            "FalseAnswer": [
+              "27",
+              "45",
+              "30"
+            ],
+            "Explanation": "Le produit de 12 multiplié par 9 divisé par 3 est 36. La multiplication et la division sont effectuées avant l'addition et la soustraction dans les expressions arithmétiques."
+          },
+          {
+            "Question": "Quelle est la somme des 10 premiers entiers positifs?",
+            "TrueAnswer": "55",
+            "FalseAnswer": [
+              "45",
+              "60",
+              "50"
+            ],
+            "Explanation": "La somme des 10 premiers entiers positifs (1 + 2 + 3 + ... + 10) est 55. Ce résultat est calculé en utilisant la formule n(n+1)/2, où n est le dernier nombre de la séquence."
+          },
+          {
+            "Question": "Quelle est la racine carrée de 144?",
+            "TrueAnswer": "12",
+            "FalseAnswer": [
+              "10",
+              "14",
+              "16"
+            ],
+            "Explanation": "La racine carrée de 144 est 12, car 12 multiplié par lui-même équivaut à 144. La racine carrée est l'opération inverse de l'élévation au carré d'un nombre."
+          },
+          {
+            "Question": "Combien de côtés égaux a un rectangle?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "3",
+              "4",
+              "1"
+            ],
+            "Explanation": "Un rectangle a deux paires de côtés égaux. Ses côtés opposés ont la même longueur et ses quatre angles sont droits."
+          },
+          {
+            "Question": "Quel est le prochain nombre dans la séquence : 2, 5, 8, 11, ...?",
+            "TrueAnswer": "14",
+            "FalseAnswer": [
+              "13",
+              "16",
+              "17"
+            ],
+            "Explanation": "La séquence augmente de 3 à chaque fois, donc le prochain nombre est 11 + 3 = 14. Reconnaître les séquences de nombres aide à développer les compétences en reconnaissance de motifs en mathématiques."
+          },
+          {
+            "Question": "Quelle est la différence entre 5 et la somme de 2 et 3?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "2",
+              "3",
+              "1"
+            ],
+            "Explanation": "La différence entre 5 et la somme de 2 et 3 est 0, car 5 - (2 + 3) = 0. Comprendre la relation entre l'addition et la soustraction est essentiel en arithmétique."
+          },
+          {
+            "Question": "Quel est le résultat de 4 élevé à la puissance de 3?",
+            "TrueAnswer": "64",
+            "FalseAnswer": [
+              "12",
+              "16",
+              "32"
+            ],
+            "Explanation": "Quatre élevé à la puissance de 3 est 64, calculé comme 4 * 4 * 4. L'exponentiation représente la multiplication répétée du nombre de base."
+          },
+          {
+            "Question": "Quelle est la médiane des nombres : 12, 17, 8, 25, 20?",
+            "TrueAnswer": "17",
+            "FalseAnswer": [
+              "15",
+              "20",
+              "12"
+            ],
+            "Explanation": "La médiane des nombres donnés est 17, car c'est la valeur centrale lorsque les nombres sont arrangés dans l'ordre croissant."
+          },
+          {
+            "Question": "Quel est le résultat de 3 plus 4 multiplié par 5?",
+            "TrueAnswer": "23",
+            "FalseAnswer": [
+              "35",
+              "27",
+              "19"
+            ],
+            "Explanation": "Le résultat de 3 plus 4 multiplié par 5 est 23. Pour déterminer l'ordre correct des opérations, utilisez des parenthèses pour clarifier le regroupement prévu dans des expressions arithmétiques complexes."
+          },
+          {
+            "Question": "Quelle est la somme des 20 premiers nombres pairs?",
+            "TrueAnswer": "420",
+            "FalseAnswer": [
+              "400",
+              "440",
+              "380"
+            ],
+            "Explanation": "La somme des 20 premiers nombres pairs est 420. Les nombres pairs sont des entiers divisibles par 2, et leur somme peut être calculée en utilisant la formule n(n+1), où n est le dernier nombre pair de la séquence."
+          },
+          {
+            "Question": "Quel est le produit de 5 et la différence entre 12 et 7?",
+            "TrueAnswer": "25",
+            "FalseAnswer": [
+              "35",
+              "18",
+              "42"
+            ],
+            "Explanation": "Le produit de 5 et la différence entre 12 et 7 est 25, car 5 * (12 - 7) = 25. Comprendre la relation entre la multiplication et la soustraction est essentiel en arithmétique."
+          },
+          {
+            "Question": "Quel est le résultat de 48 divisé par 3 plus 5?",
+            "TrueAnswer": "21",
+            "FalseAnswer": [
+              "19",
+              "26",
+              "15"
+            ],
+            "Explanation": "Le résultat de 48 divisé par 3 plus 5 est 21. Calculer l'ordre correct des opérations est crucial pour obtenir le résultat précis dans les expressions arithmétiques."
+          },
+          {
+            "Question": "Combien de chiffres y a-t-il dans le nombre 1001?",
+            "TrueAnswer": "4",
+            "FalseAnswer": [
+              "3",
+              "5",
+              "2"
+            ],
+            "Explanation": "Le nombre 1001 comporte 4 chiffres. Comprendre le concept de la valeur de position est important pour reconnaître le nombre de chiffres dans un nombre donné."
+          }
+        ]
+      }
+    }
+  ]
+}

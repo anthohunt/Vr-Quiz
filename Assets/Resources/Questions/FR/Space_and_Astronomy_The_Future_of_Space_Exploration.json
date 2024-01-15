@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est l'acronyme du projet en cours de la NASA visant à ramener les humains sur la Lune?",
+            "TrueAnswer": "Artémis",
+            "FalseAnswer": [
+              "Sagittaire",
+              "Orion",
+              "Aurora"
+            ],
+            "Explanation": "Artémis est le nom du programme de la NASA visant à faire atterrir 'la première femme et le prochain homme' sur la Lune d'ici 2024."
+          },
+          {
+            "Question": "Quelle planète est ciblée pour l'exploration humaine dans les années 2030 par le programme 'Journey to Mars' de la NASA?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Vénus",
+              "Jupiter",
+              "Saturne"
+            ],
+            "Explanation": "La NASA a des projets pour envoyer des humains sur Mars dans les années 2030 dans le cadre du programme à long terme 'Journey to Mars'."
+          },
+          {
+            "Question": "Quel est le nom du premier hôtel spatial prévu pour ouvrir en 2027?",
+            "TrueAnswer": "Aurora Station",
+            "FalseAnswer": [
+              "Base Orion",
+              "Complexe galactique",
+              "Palais interstellaire"
+            ],
+            "Explanation": "Aurora Station, développée par Orion Span, devrait être le premier hôtel spatial de luxe offrant une expérience extraordinaire."
+          },
+          {
+            "Question": "Quelle agence spatiale vise à établir une base lunaire d'ici les années 2030 grâce à son programme 'Lunar Gateway'?",
+            "TrueAnswer": "ESA (Agence spatiale européenne)",
+            "FalseAnswer": [
+              "CNSA (Administration spatiale nationale chinoise)",
+              "Roscosmos",
+              "ISRO (Organisation indienne de recherche spatiale)"
+            ],
+            "Explanation": "L'ESA prévoit d'envoyer des humains sur la Lune au milieu des années 2020 et vise à établir une base lunaire durable grâce au programme 'Lunar Gateway'."
+          },
+          {
+            "Question": "Quel est l'objectif principal du vaisseau spatial 'Starship' de SpaceX?",
+            "TrueAnswer": "Voyage interplanétaire",
+            "FalseAnswer": [
+              "Tourisme spatial",
+              "Approvisionnement en fret",
+              "Amarrage à une station spatiale"
+            ],
+            "Explanation": "Le Starship de SpaceX vise à permettre le voyage interplanétaire, dans le but à long terme d'établir des colonies humaines sur Mars et au-delà."
+          }
+        ]
+      }
+    }
+  ]
+}

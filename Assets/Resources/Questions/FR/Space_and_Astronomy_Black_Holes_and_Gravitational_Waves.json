@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la région entourant un trou noir à partir de laquelle rien ne peut s'échapper?",
+            "TrueAnswer": "Horizon des événements",
+            "FalseAnswer": [
+              "Limite cosmique",
+              "Singularité",
+              "Ceinture de photons"
+            ],
+            "Explanation": "L'horizon des événements est le point de non-retour, au-delà duquel rien ne peut échapper à l'attraction gravitationnelle du trou noir."
+          },
+          {
+            "Question": "Quelle est la limite théorique autour d'un trou noir où la lumière ne peut pas s'échapper?",
+            "TrueAnswer": "Sphère de photons",
+            "FalseAnswer": [
+              "Érgosphère",
+              "Rayon de Schwarzschild",
+              "Point Hawking"
+            ],
+            "Explanation": "La sphère de photons est la région autour d'un trou noir où la gravité dévie les rayons lumineux, créant un anneau de photons autour du trou noir."
+          },
+          {
+            "Question": "Quel objet céleste est formé par l'effondrement gravitationnel d'une étoile massive?",
+            "TrueAnswer": "Trou noir",
+            "FalseAnswer": [
+              "Étoile à neutrons",
+              "Quasar",
+              "Supernova"
+            ],
+            "Explanation": "Un trou noir est une région de l'espace où l'attraction gravitationnelle est si intense que rien, pas même la lumière, ne peut s'échapper."
+          },
+          {
+            "Question": "Qui a proposé l'existence des trous noirs au début du 20e siècle?",
+            "TrueAnswer": "Karl Schwarzschild",
+            "FalseAnswer": [
+              "Albert Einstein",
+              "Stephen Hawking",
+              "Isaac Newton"
+            ],
+            "Explanation": "Karl Schwarzschild a trouvé la première solution aux équations de la relativité générale décrivant un trou noir, maintenant connue sous le nom de métrique de Schwarzschild."
+          },
+          {
+            "Question": "Que l'observatoire LIGO a-t-il détecté pour la première fois en 2015, confirmant une prédiction de la théorie de la relativité générale d'Einstein?",
+            "TrueAnswer": "Ondes gravitationnelles",
+            "FalseAnswer": [
+              "Matière noire",
+              "Neutrinos",
+              "Boson de Higgs"
+            ],
+            "Explanation": "Les ondes gravitationnelles sont des ondulations dans l'espace-temps provoquées par l'accélération d'objets massifs et peuvent contenir des informations sur leurs origines et leurs comportements."
+          },
+          {
+            "Question": "Quel phénomène fait référence à la distorsion de l'espace-temps causée par l'accélération d'objets massifs?",
+            "TrueAnswer": "Ondes gravitationnelles",
+            "FalseAnswer": [
+              "Inflation cosmique",
+              "Intrication quantique",
+              "Rayonnement corporel noir"
+            ],
+            "Explanation": "Les ondes gravitationnelles sont des perturbations dans la courbure de l'espace-temps, produites par des masses en accélération, qui se propagent sous forme d'ondes à la vitesse de la lumière."
+          },
+          {
+            "Question": "Quelle est la propriété des trous noirs qui empêche toute information à l'intérieur de s'échapper?",
+            "TrueAnswer": "Paradoxe de l'information",
+            "FalseAnswer": [
+              "Rayonnement de Hawking",
+              "Tunnel quantique",
+              "Spaghettification"
+            ],
+            "Explanation": "Le paradoxe de l'information provient du conflit entre les lois de la mécanique quantique et la relativité générale concernant la conservation de l'information dans un trou noir."
+          },
+          {
+            "Question": "Quelle des équations d'Einstein prédit l'existence des trous noirs?",
+            "TrueAnswer": "Équations de champ d'Einstein",
+            "FalseAnswer": [
+              "Théorie de la relativité restreinte",
+              "Équation du mouvement brownien",
+              "Formule de l'effet photoélectrique"
+            ],
+            "Explanation": "Les équations de champ d'Einstein sont un ensemble de dix équations différentielles interdépendantes qui décrivent l'interaction fondamentale de la gravitation résultant de la courbure de l'espace-temps par la matière et l'énergie."
+          },
+          {
+            "Question": "Quel est le point au centre d'un trou noir où la masse est concentrée?",
+            "TrueAnswer": "Singularité",
+            "FalseAnswer": [
+              "Noyau d'étoile à neutrons",
+              "Horizon des événements",
+              "Ceinture de photons"
+            ],
+            "Explanation": "Une singularité est un point où la densité et la gravité deviennent infinies, comme prédit par les lois de la relativité générale."
+          },
+          {
+            "Question": "Quelle est la frontière hypothétique d'un trou noir au-delà de laquelle le temps et l'espace cessent d'exister?",
+            "TrueAnswer": "Singularité gravitationnelle",
+            "FalseAnswer": [
+              "Horizon temporel",
+              "Limite cosmique",
+              "Abîme éternel"
+            ],
+            "Explanation": "La singularité gravitationnelle est un point de densité infinie, où les lois de la physique telles que nous les connaissons cessent de s'appliquer."
+          },
+          {
+            "Question": "Quel effet les trous noirs ont-ils sur l'écoulement du temps près de leurs horizons des événements?",
+            "TrueAnswer": "Dilatation du temps",
+            "FalseAnswer": [
+              "Intrication quantique",
+              "Inversion du temps",
+              "Contractation de l'espace"
+            ],
+            "Explanation": "La dilatation du temps près d'un trou noir survient car le champ gravitationnel intense ralentit l'écoulement du temps tel qu'expérimenté par un observateur extérieur."
+          },
+          {
+            "Question": "Quelle est la théorie proposée selon laquelle les trous noirs émettent un rayonnement et perdent de la masse avec le temps?",
+            "TrueAnswer": "Rayonnement de Hawking",
+            "FalseAnswer": [
+              "Lentille gravitationnelle",
+              "Tunnel quantique",
+              "Émission d'horizon des événements"
+            ],
+            "Explanation": "Le rayonnement de Hawking est un processus par lequel les trous noirs peuvent émettre de l'énergie thermique, les faisant perdre progressivement de la masse et potentiellement s'évaporer."
+          },
+          {
+            "Question": "Quel est l'effet où les objets semblent étirés verticalement et comprimés horizontalement près d'un trou noir?",
+            "TrueAnswer": "Spaghettification",
+            "FalseAnswer": [
+              "Dilatation du temps",
+              "Décalage vers le rouge",
+              "Traînée d'éther"
+            ],
+            "Explanation": "La spaghettification résulte des énormes forces de marée près d'un trou noir, qui font que les objets sont étirés en formes longues et minces."
+          },
+          {
+            "Question": "Quel est le rayon sphérique maximal autour d'un trou noir non rotatif à l'intérieur duquel la lumière peut s'échapper?",
+            "TrueAnswer": "Rayon de Schwarzschild",
+            "FalseAnswer": [
+              "Rayon d'Einstein",
+              "Limite de Kerr",
+              "Limite Oppenheimer-Phillips"
+            ],
+            "Explanation": "Le rayon de Schwarzschild définit la frontière au-delà de laquelle la vitesse d'échappement dépasse la vitesse de la lumière, piégeant toute matière et empêchant la lumière de s'échapper."
+          },
+          {
+            "Question": "Quelle est la région critique instable entourant un trou noir rotatif juste à l'extérieur de son horizon des événements?",
+            "TrueAnswer": "Érgosphère",
+            "FalseAnswer": [
+              "Gaine de plasma",
+              "Ombre magnétique",
+              "Aura quantique"
+            ],
+            "Explanation": "L'érgosphère est une région de l'espace-temps où les objets ne peuvent pas rester immobiles mais sont contraints de tourner dans la même direction que la rotation du trou noir."
+          },
+          {
+            "Question": "Quel est le type de distorsion de l'espace-temps qui se produit près d'un trou noir rotatif en raison de sa rotation?",
+            "TrueAnswer": "Entraînement de référentiel",
+            "FalseAnswer": [
+              "Bulle de distorsion",
+              "Flux quantique",
+              "Cisaillage dimensionnel"
+            ],
+            "Explanation": "L'entraînement de référentiel est le phénomène où la rotation d'un objet massif tord la trame de l'espace-temps, l'entraînant avec elle lorsqu'elle tourne."
+          },
+          {
+            "Question": "Quel événement a marqué la première détection directe des ondes gravitationnelles, causées par la fusion de deux trous noirs?",
+            "TrueAnswer": "GW150914",
+            "FalseAnswer": [
+              "Burst d'Alpha du Centaure",
+              "Signal de Vega",
+              "Éruption de Cygnus X-1"
+            ],
+            "Explanation": "GW150914 a été un événement remarquable observé par l'observatoire LIGO, confirmant l'existence des ondes gravitationnelles et ouvrant une nouvelle ère de l'astronomie des ondes gravitationnelles."
+          },
+          {
+            "Question": "Quel type de rayonnement les astronomes ont-ils utilisé pour confirmer l'existence de trous noirs au centre des galaxies?",
+            "TrueAnswer": "Rayons X",
+            "FalseAnswer": [
+              "Infrarouge",
+              "Ultraviolet",
+              "Rayons gamma"
+            ],
+            "Explanation": "Les rayons X sont émis par les disques d'accrétion autour des trous noirs, permettant aux astronomes de détecter leur présence et d'étudier leurs propriétés."
+          },
+          {
+            "Question": "Quel est le terme désignant le phénomène où les ondes gravitationnelles entraînent l'étirement et la compression de l'espace?",
+            "TrueAnswer": "Contrainte gravitationnelle",
+            "FalseAnswer": [
+              "Broche spatiotemporelle",
+              "Cisaillement relativiste",
+              "Distorsion quantique"
+            ],
+            "Explanation": "La contrainte gravitationnelle est une mesure de la distorsion de l'espace-temps causée par le passage d'ondes gravitationnelles, affectant les distances entre des masses de test dans des directions perpendiculaires."
+          },
+          {
+            "Question": "Quelle est la particule hypothétique associée à la perte de masse d'un trou noir due au rayonnement de Hawking?",
+            "TrueAnswer": "Photon de Hawking",
+            "FalseAnswer": [
+              "Boson de Wheeler",
+              "Higgs de Lorentz",
+              "Méson de Schwarzschild"
+            ],
+            "Explanation": "Le concept d'un photon de Hawking fait référence aux particules virtuelles près de l'horizon des événements, dont l'une s'échappe sous forme de rayonnement tandis que l'autre tombe dans le trou noir, entraînant une perte de masse."
+          }
+        ]
+      }
+    }
+  ]
+}

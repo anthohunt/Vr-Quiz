@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2185546361185922542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6905113786517726151}
+  - component: {fileID: 5877798251873106079}
+  m_Layer: 0
+  m_Name: Geography_Historical Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6905113786517726151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2185546361185922542}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5877798251873106079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2185546361185922542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country is known as the 'Land of the Rising Sun'?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - China
+      - Korea
+      - Thailand
+      Explanation: Japan is called the 'Land of the Rising Sun' due to its location
+        to the east of the Asian continent.
+    - Question: What is the largest desert in the world?
+      TrueAnswer: Sahara
+      FalseAnswer:
+      - Gobi
+      - Atacama
+      - Arabian
+      Explanation: The Sahara is the largest desert in the world, covering most of
+        Northern Africa.
+    - Question: Which ancient civilization built the Great Pyramids of Giza?
+      TrueAnswer: Egyptians
+      FalseAnswer:
+      - Mayans
+      - Greeks
+      - Romans
+      Explanation: The Egyptians built the Great Pyramids of Giza as tombs for their
+        pharaohs.
+    - Question: Which city is known as the 'Eternal City'?
+      TrueAnswer: Rome
+      FalseAnswer:
+      - Athens
+      - Paris
+      - Cairo
+      Explanation: Rome is called the 'Eternal City' due to its rich history and
+        enduring influence.
+    - Question: Which country is home to the famous Angkor Wat temple complex?
+      TrueAnswer: Cambodia
+      FalseAnswer:
+      - Thailand
+      - Vietnam
+      - Laos
+      Explanation: The Angkor Wat temple complex is located in Cambodia and is a
+        UNESCO World Heritage site.
+    - Question: Which ancient civilization built Machu Picchu?
+      TrueAnswer: Incas
+      FalseAnswer:
+      - Aztecs
+      - Mayans
+      - Romans
+      Explanation: The Incas built Machu Picchu as a sacred city in the Andes Mountains
+        of Peru.
+    - Question: Which country is known as the 'Land Down Under'?
+      TrueAnswer: Australia
+      FalseAnswer:
+      - New Zealand
+      - South Africa
+      - Brazil
+      Explanation: Australia is called the 'Land Down Under' due to its location
+        in the Southern Hemisphere.
+    - Question: Which city is known as the 'City of Love'?
+      TrueAnswer: Paris
+      FalseAnswer:
+      - Venice
+      - Rome
+      - Barcelona
+      Explanation: Paris is called the 'City of Love' due to its romantic atmosphere
+        and associations.
+    - Question: Which country is known as the 'Land of Fire and Ice'?
+      TrueAnswer: Iceland
+      FalseAnswer:
+      - Greenland
+      - Norway
+      - Canada
+      Explanation: Iceland is called the 'Land of Fire and Ice' due to its volcanoes
+        and glaciers.
+    - Question: Which ancient civilization built the city of Petra?
+      TrueAnswer: Nabateans
+      FalseAnswer:
+      - Persians
+      - Greeks
+      - Romans
+      Explanation: The Nabateans built the city of Petra in present-day Jordan as
+        their capital.
+    - Question: Which country is known as the 'Land of Smiles'?
+      TrueAnswer: Thailand
+      FalseAnswer:
+      - India
+      - Indonesia
+      - Vietnam
+      Explanation: Thailand is called the 'Land of Smiles' due to the friendly nature
+        of its people.
+    - Question: Which ancient civilization built the Colosseum?
+      TrueAnswer: Romans
+      FalseAnswer:
+      - Greeks
+      - Egyptians
+      - Persians
+      Explanation: The Romans built the Colosseum in Rome as an amphitheater for
+        gladiatorial contests and public spectacles.
+    - Question: Which country is known as the 'Land of the Midnight Sun'?
+      TrueAnswer: Norway
+      FalseAnswer:
+      - Sweden
+      - Finland
+      - Canada
+      Explanation: Norway is called the 'Land of the Midnight Sun' due to its location
+        near the Arctic Circle.
+    - Question: Which city is known as the 'City of Seven Hills'?
+      TrueAnswer: Rome
+      FalseAnswer:
+      - Lisbon
+      - Istanbul
+      - San Francisco
+      Explanation: Rome is called the 'City of Seven Hills' due to its geography
+        and historical significance.
+    - Question: Which country is known as the 'Land of a Thousand Lakes'?
+      TrueAnswer: Finland
+      FalseAnswer:
+      - Sweden
+      - Canada
+      - Russia
+      Explanation: Finland is called the 'Land of a Thousand Lakes' due to its numerous
+        lakes and water bodies.
+    - Question: Which ancient civilization built the Acropolis?
+      TrueAnswer: Greeks
+      FalseAnswer:
+      - Romans
+      - Persians
+      - Egyptians
+      Explanation: The Greeks built the Acropolis in Athens as a fortified hilltop
+        and center of worship.
+    - Question: Which country is known as the 'Land of the Rising Dragon'?
+      TrueAnswer: Vietnam
+      FalseAnswer:
+      - China
+      - Japan
+      - South Korea
+      Explanation: Vietnam is called the 'Land of the Rising Dragon' due to its shape
+        resembling a dragon.
+    - Question: Which city is known as the 'City of Lights'?
+      TrueAnswer: Paris
+      FalseAnswer:
+      - New York
+      - Las Vegas
+      - Tokyo
+      Explanation: Paris is called the 'City of Lights' due to its early adoption
+        of street lighting.
+    - Question: Which country is known as the 'Land of the Thunder Dragon'?
+      TrueAnswer: Bhutan
+      FalseAnswer:
+      - Nepal
+      - Tibet
+      - Myanmar
+      Explanation: Bhutan is called the 'Land of the Thunder Dragon' due to its dramatic
+        thunderstorms.
+    - Question: Which ancient civilization built the Great Wall of China?
+      TrueAnswer: Chinese
+      FalseAnswer:
+      - Mongols
+      - Persians
+      - Romans
+      Explanation: The Chinese built the Great Wall of China as a defensive fortification.

@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4277311793033304086
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7850357712333370968}
+  - component: {fileID: 5252449531255424103}
+  m_Layer: 0
+  m_Name: Pop Culture_Reality TV Shows.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7850357712333370968
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277311793033304086}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5252449531255424103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4277311793033304086}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the host of the reality TV show 'Survivor'?
+      TrueAnswer: Jeff Probst
+      FalseAnswer:
+      - Ryan Seacrest
+      - Chris Harrison
+      - Julie Chen
+      Explanation: Jeff Probst has been the host of 'Survivor' since its first season
+        in 2000.
+    - Question: Which reality TV show features celebrities competing in ballroom
+        dancing?
+      TrueAnswer: Dancing with the Stars
+      FalseAnswer:
+      - The Voice
+      - America's Got Talent
+      - The Masked Singer
+      Explanation: '''Dancing with the Stars'' is a popular reality TV show where
+        celebrities are paired with professional dancers.'
+    - Question: What is the main premise of the reality TV show 'The Bachelor'?
+      TrueAnswer: Finding love
+      FalseAnswer:
+      - Cooking competition
+      - Survival in the wilderness
+      - Singing competition
+      Explanation: '''The Bachelor'' follows a single bachelor as he dates multiple
+        women in search of a potential life partner.'
+    - Question: Which reality TV show features a group of strangers living together
+        in a house?
+      TrueAnswer: Big Brother
+      FalseAnswer:
+      - The Amazing Race
+      - Jersey Shore
+      - The Real World
+      Explanation: '''Big Brother'' is a reality TV show where contestants live together
+        in a house and compete in various challenges.'
+    - Question: Who is the famous judge on the reality TV show 'American Idol'?
+      TrueAnswer: Simon Cowell
+      FalseAnswer:
+      - Gordon Ramsay
+      - Howie Mandel
+      - Blake Shelton
+      Explanation: Simon Cowell gained fame as a judge on 'American Idol' with his
+        brutally honest critiques.
+    - Question: Which reality TV show features aspiring fashion designers competing
+        for a chance to launch their own brand?
+      TrueAnswer: Project Runway
+      FalseAnswer:
+      - The Great British Bake Off
+      - Shark Tank
+      - The Voice
+      Explanation: '''Project Runway'' showcases the creativity and skills of fashion
+        designers as they face various design challenges.'
+    - Question: What is the main objective of the reality TV show 'The Amazing Race'?
+      TrueAnswer: Completing challenges and racing around the world
+      FalseAnswer:
+      - Singing competition
+      - Cooking competition
+      - Survival in the wilderness
+      Explanation: '''The Amazing Race'' is a competition where teams race around
+        the world, completing challenges and aiming to be the first to reach the
+        finish line.'
+    - Question: Which reality TV show features individuals competing to lose weight?
+      TrueAnswer: The Biggest Loser
+      FalseAnswer:
+      - America's Got Talent
+      - The Masked Singer
+      - The Voice
+      Explanation: '''The Biggest Loser'' focuses on overweight contestants striving
+        to lose weight through intense physical training and healthy lifestyle changes.'
+    - Question: Who is the famous host of the reality TV show 'America's Got Talent'?
+      TrueAnswer: Terry Crews
+      FalseAnswer:
+      - Ellen DeGeneres
+      - Steve Harvey
+      - Jimmy Fallon
+      Explanation: Terry Crews is the current host of 'America's Got Talent', bringing
+        his energetic personality to the show.
+    - Question: Which reality TV show features individuals competing in various culinary
+        challenges?
+      TrueAnswer: Top Chef
+      FalseAnswer:
+      - The Bachelor
+      - Survivor
+      - The Voice
+      Explanation: '''Top Chef'' showcases the culinary skills of chefs as they face
+        off in intense cooking challenges.'
+    - Question: What is the main premise of the reality TV show 'The Voice'?
+      TrueAnswer: Singing competition
+      FalseAnswer:
+      - Dancing competition
+      - Cooking competition
+      - Survival in the wilderness
+      Explanation: '''The Voice'' is a singing competition where contestants showcase
+        their vocal talents and compete for a recording contract.'
+    - Question: Which reality TV show features celebrities competing in physical
+        challenges on an island?
+      TrueAnswer: Survivor
+      FalseAnswer:
+      - The Bachelor
+      - America's Got Talent
+      - The Masked Singer
+      Explanation: '''Survivor'' is a long-running reality TV show where contestants
+        compete in physical and mental challenges while living on an island.'
+    - Question: Who is the famous host of the reality TV show 'The Great British
+        Bake Off'?
+      TrueAnswer: Paul Hollywood
+      FalseAnswer:
+      - Gordon Ramsay
+      - Jamie Oliver
+      - Nigella Lawson
+      Explanation: Paul Hollywood is one of the hosts of 'The Great British Bake
+        Off' and is known for his expertise in baking.
+    - Question: What is the main premise of the reality TV show 'The Real Housewives'?
+      TrueAnswer: Following the lives of wealthy women
+      FalseAnswer:
+      - Home renovation competition
+      - Survival in the wilderness
+      - Singing competition
+      Explanation: '''The Real Housewives'' franchise follows the lives of affluent
+        women in various cities, showcasing their relationships and lifestyles.'
+    - Question: Which reality TV show features individuals competing to become a
+        professional chef?
+      TrueAnswer: Hell's Kitchen
+      FalseAnswer:
+      - The Bachelor
+      - Survivor
+      - The Voice
+      Explanation: '''Hell''s Kitchen'' is a reality TV show where aspiring chefs
+        compete for a chance to work as a head chef in a renowned restaurant.'
+    - Question: Who is the famous host of the reality TV show 'RuPaul's Drag Race'?
+      TrueAnswer: RuPaul
+      FalseAnswer:
+      - Tyra Banks
+      - Heidi Klum
+      - Ellen DeGeneres
+      Explanation: RuPaul is the iconic host of 'RuPaul's Drag Race', a competition
+        showcasing the art of drag.
+    - Question: What is the main objective of the reality TV show 'The Masked Singer'?
+      TrueAnswer: Guessing the identity of masked celebrities
+      FalseAnswer:
+      - Dancing competition
+      - Cooking competition
+      - Survival in the wilderness
+      Explanation: '''The Masked Singer'' involves celebrities performing in elaborate
+        costumes while a panel of judges tries to guess their identities.'
+    - Question: Which reality TV show features individuals competing to become a
+        fashion model?
+      TrueAnswer: America's Next Top Model
+      FalseAnswer:
+      - The Bachelor
+      - Survivor
+      - The Voice
+      Explanation: '''America''s Next Top Model'' is a competition where aspiring
+        models compete in various challenges to win a modeling contract.'
+    - Question: Who is the famous host of the reality TV show 'The Apprentice'?
+      TrueAnswer: Donald Trump
+      FalseAnswer:
+      - Oprah Winfrey
+      - Mark Cuban
+      - Bill Gates
+      Explanation: Donald Trump was the original host of 'The Apprentice', where
+        contestants competed for a chance to work for him.
+    - Question: What is the main premise of the reality TV show 'Jersey Shore'?
+      TrueAnswer: Following the lives of young adults in a beach house
+      FalseAnswer:
+      - Home renovation competition
+      - Survival in the wilderness
+      - Singing competition
+      Explanation: '''Jersey Shore'' documents the lives of young adults as they
+        spend their summer in a beach house, showcasing their relationships and partying
+        lifestyle.'
+    - Question: Which reality TV show features individuals competing to become a
+        professional makeup artist?
+      TrueAnswer: Face Off
+      FalseAnswer:
+      - The Bachelor
+      - Survivor
+      - The Voice
+      Explanation: '''Face Off'' is a reality TV show where aspiring makeup artists
+        compete in special effects and beauty makeup challenges.'

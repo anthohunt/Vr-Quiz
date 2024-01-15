@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2729577296245620642
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1349786719429305665}
+  - component: {fileID: 40753728366803731}
+  m_Layer: 0
+  m_Name: Science_Space Exploration.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1349786719429305665
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2729577296245620642}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &40753728366803731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2729577296245620642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of about 86,881 miles.
+    - Question: Which planet is known as the 'Red Planet'?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Mercury
+      - Uranus
+      Explanation: Mars is often referred to as the 'Red Planet' due to its reddish
+        appearance caused by iron oxide on its surface.
+    - Question: What is the name of the first artificial satellite launched into
+        space?
+      TrueAnswer: Sputnik 1
+      FalseAnswer:
+      - Apollo 11
+      - Hubble Space Telescope
+      - International Space Station
+      Explanation: Sputnik 1, launched by the Soviet Union on October 4, 1957, was
+        the first artificial satellite to orbit the Earth.
+    - Question: Which space agency successfully landed humans on the Moon?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - Roscosmos
+      - ISRO
+      Explanation: NASA, the National Aeronautics and Space Administration, successfully
+        landed humans on the Moon as part of the Apollo program.
+    - Question: What is the name of the largest moon of Saturn?
+      TrueAnswer: Titan
+      FalseAnswer:
+      - Europa
+      - Ganymede
+      - Callisto
+      Explanation: Titan is the largest moon of Saturn and the second-largest moon
+        in the solar system.
+    - Question: Which planet has the most moons?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Uranus
+      - Neptune
+      Explanation: Jupiter has the most moons in our solar system, with over 79 known
+        moons.
+    - Question: What is the name of the first American woman to travel to space?
+      TrueAnswer: Sally Ride
+      FalseAnswer:
+      - Valentina Tereshkova
+      - Mae Jemison
+      - Eileen Collins
+      Explanation: Sally Ride became the first American woman to travel to space
+        when she flew aboard the Space Shuttle Challenger in 1983.
+    - Question: Which planet is known for its beautiful rings?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Jupiter
+      - Uranus
+      - Neptune
+      Explanation: Saturn is known for its stunning ring system, composed mostly
+        of ice particles with some rocky debris.
+    - Question: What is the name of the first human-made object to leave our solar
+        system?
+      TrueAnswer: Voyager 1
+      FalseAnswer:
+      - Hubble Space Telescope
+      - International Space Station
+      - Apollo 11
+      Explanation: Voyager 1, launched by NASA in 1977, became the first human-made
+        object to leave our solar system in 2012.
+    - Question: Which planet is closest to the Sun?
+      TrueAnswer: Mercury
+      FalseAnswer:
+      - Venus
+      - Mars
+      - Jupiter
+      Explanation: Mercury is the closest planet to the Sun, with an average distance
+        of about 36 million miles.
+    - Question: What is the name of the largest volcano in our solar system?
+      TrueAnswer: Olympus Mons
+      FalseAnswer:
+      - Mount Everest
+      - Mauna Loa
+      - Mount Kilimanjaro
+      Explanation: Olympus Mons is the largest volcano in our solar system, located
+        on the planet Mars.
+    - Question: Which space telescope was launched by NASA in 1990?
+      TrueAnswer: Hubble Space Telescope
+      FalseAnswer:
+      - Spitzer Space Telescope
+      - Chandra X-ray Observatory
+      - James Webb Space Telescope
+      Explanation: The Hubble Space Telescope, launched in 1990, has provided breathtaking
+        images and valuable scientific data about the universe.
+    - Question: What is the name of the first human to travel to space?
+      TrueAnswer: Yuri Gagarin
+      FalseAnswer:
+      - Neil Armstrong
+      - Buzz Aldrin
+      - Alan Shepard
+      Explanation: Yuri Gagarin, a Soviet cosmonaut, became the first human to travel
+        to space on April 12, 1961.
+    - Question: Which planet has the most extreme temperature range?
+      TrueAnswer: Mercury
+      FalseAnswer:
+      - Venus
+      - Mars
+      - Jupiter
+      Explanation: Mercury experiences the most extreme temperature range, with scorching
+        hot temperatures during the day and freezing cold temperatures at night.
+    - Question: What is the name of the first space shuttle orbiter?
+      TrueAnswer: Enterprise
+      FalseAnswer:
+      - Discovery
+      - Atlantis
+      - Endeavour
+      Explanation: The first space shuttle orbiter, named Enterprise, was used for
+        atmospheric test flights and was not capable of space travel.
+    - Question: Which planet is known for its prominent Great Red Spot?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is known for its Great Red Spot, a giant storm that has
+        been raging for at least 400 years.
+    - Question: What is the name of the first successful mission to land humans on
+        the Moon?
+      TrueAnswer: Apollo 11
+      FalseAnswer:
+      - Gemini 7
+      - Mercury 7
+      - Apollo 13
+      Explanation: Apollo 11, launched by NASA in 1969, successfully landed humans
+        on the Moon, with Neil Armstrong taking the first steps.
+    - Question: Which planet is known for its beautiful blue color?
+      TrueAnswer: Neptune
+      FalseAnswer:
+      - Uranus
+      - Saturn
+      - Jupiter
+      Explanation: Neptune is known for its stunning blue color, caused by the presence
+        of methane in its atmosphere.
+    - Question: What is the name of the first space station launched into orbit?
+      TrueAnswer: Salyut 1
+      FalseAnswer:
+      - Mir
+      - Skylab
+      - International Space Station
+      Explanation: Salyut 1, launched by the Soviet Union in 1971, was the first
+        space station to be placed into orbit around the Earth.
+    - Question: Which planet is known for its beautiful rings?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Jupiter
+      - Uranus
+      - Neptune
+      Explanation: Saturn is known for its stunning ring system, composed mostly
+        of ice particles with some rocky debris.
+    - Question: What is the name of the first human-made object to leave our solar
+        system?
+      TrueAnswer: Voyager 1
+      FalseAnswer:
+      - Hubble Space Telescope
+      - International Space Station
+      - Apollo 11
+      Explanation: Voyager 1, launched by NASA in 1977, became the first human-made
+        object to leave our solar system in 2012.

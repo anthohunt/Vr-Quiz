@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3715858904263877873
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1192100115243804162}
+  - component: {fileID: 1867090891484658662}
+  m_Layer: 0
+  m_Name: Fashion and Design_Design in Everyday Objects.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1192100115243804162
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3715858904263877873}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1867090891484658662
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3715858904263877873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary color in the fashion brand Gucci's logo?
+      TrueAnswer: Green
+      FalseAnswer:
+      - Red
+      - Blue
+      - Yellow
+      Explanation: The primary color in Gucci's logo is green, representing luxury
+        and wealth.
+    - Question: Which fashion designer is known for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Ralph Lauren
+      - Tom Ford
+      - Donatella Versace
+      Explanation: Coco Chanel is credited with popularizing the little black dress,
+        a timeless fashion staple.
+    - Question: What is the main material used in making denim jeans?
+      TrueAnswer: Cotton
+      FalseAnswer:
+      - Polyester
+      - Nylon
+      - Rayon
+      Explanation: Denim jeans are primarily made from cotton, providing durability
+        and comfort.
+    - Question: Which fashion brand is known for its iconic red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for its red-soled shoes, a signature
+        trademark of the brand.
+    - Question: What is the purpose of a fashion sketch?
+      TrueAnswer: To visualize design ideas
+      FalseAnswer:
+      - To measure body proportions
+      - To create patterns
+      - To sew garments
+      Explanation: Fashion sketches are used to visually represent design ideas before
+        creating the actual garments.
+    - Question: Which fashion designer is known for the wrap dress?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Vera Wang
+      - Stella McCartney
+      - Alexander McQueen
+      Explanation: Diane von Furstenberg is famous for popularizing the wrap dress,
+        a versatile and flattering garment.
+    - Question: What is the purpose of a mood board in fashion design?
+      TrueAnswer: To gather inspiration and visualize concepts
+      FalseAnswer:
+      - To create sewing patterns
+      - To measure body proportions
+      - To select fabric
+      Explanation: A mood board helps fashion designers gather inspiration and visually
+        communicate their design concepts.
+    - Question: Which fashion brand is known for its iconic monogram print?
+      TrueAnswer: Louis Vuitton
+      FalseAnswer:
+      - Chanel
+      - Gucci
+      - Prada
+      Explanation: Louis Vuitton is renowned for its iconic monogram print, a symbol
+        of luxury and status.
+    - Question: What is the purpose of a fashion runway show?
+      TrueAnswer: To showcase new collections to buyers and the media
+      FalseAnswer:
+      - To sell garments directly to customers
+      - To host fashion competitions
+      - To train aspiring models
+      Explanation: Fashion runway shows are organized to present new collections
+        to potential buyers and the media.
+    - Question: Which fashion designer is known for the red sole shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for its red-soled shoes, a signature
+        trademark of the brand.
+    - Question: What is the purpose of a fashion illustration?
+      TrueAnswer: To showcase clothing designs in a visually appealing way
+      FalseAnswer:
+      - To measure body proportions
+      - To create sewing patterns
+      - To select fabric
+      Explanation: Fashion illustrations are used to showcase clothing designs in
+        a visually appealing and artistic manner.
+    - Question: Which fashion brand is known for its iconic trench coat?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Versace
+      - Dolce & Gabbana
+      - Calvin Klein
+      Explanation: Burberry is renowned for its iconic trench coat, a classic and
+        timeless outerwear piece.
+    - Question: What is the purpose of a fashion lookbook?
+      TrueAnswer: To showcase a collection of outfits and styling ideas
+      FalseAnswer:
+      - To measure body proportions
+      - To create sewing patterns
+      - To select fabric
+      Explanation: Fashion lookbooks are created to showcase a collection of outfits
+        and provide styling ideas to customers.
+    - Question: Which fashion designer is known for the red carpet gowns?
+      TrueAnswer: Elie Saab
+      FalseAnswer:
+      - Karl Lagerfeld
+      - Donatella Versace
+      - Alexander McQueen
+      Explanation: Elie Saab is famous for designing stunning red carpet gowns worn
+        by celebrities.
+    - Question: What is the purpose of a fashion trend forecast?
+      TrueAnswer: To predict upcoming fashion trends
+      FalseAnswer:
+      - To measure body proportions
+      - To create sewing patterns
+      - To select fabric
+      Explanation: Fashion trend forecasts are used to predict upcoming fashion trends
+        and guide design decisions.
+    - Question: Which fashion brand is known for its iconic double-C logo?
+      TrueAnswer: Chanel
+      FalseAnswer:
+      - Gucci
+      - Louis Vuitton
+      - Prada
+      Explanation: Chanel is recognized for its iconic double-C logo, representing
+        elegance and sophistication.
+    - Question: What is the purpose of a fashion pattern?
+      TrueAnswer: To create templates for cutting and sewing garments
+      FalseAnswer:
+      - To measure body proportions
+      - To select fabric
+      - To showcase clothing designs
+      Explanation: Fashion patterns are used to create templates for cutting and
+        sewing garments accurately.
+    - Question: Which fashion designer is known for the red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for its red-soled shoes, a signature
+        trademark of the brand.
+    - Question: What is the purpose of a fashion stylist?
+      TrueAnswer: To curate and create visually appealing outfits
+      FalseAnswer:
+      - To measure body proportions
+      - To create sewing patterns
+      - To select fabric
+      Explanation: Fashion stylists curate and create visually appealing outfits
+        for individuals, events, or fashion shoots.
+    - Question: Which fashion brand is known for its iconic Birkin bag?
+      TrueAnswer: "Herm\xE8s"
+      FalseAnswer:
+      - Prada
+      - Gucci
+      - Louis Vuitton
+      Explanation: "Herm\xE8s is renowned for its iconic Birkin bag, a symbol of
+        luxury and exclusivity."

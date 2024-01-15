@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4298164810849373020
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2224280732878989663}
+  - component: {fileID: 4135210326115062714}
+  m_Layer: 0
+  m_Name: Food and Cooking_Food Art and Presentation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2224280732878989663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4298164810849373020}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4135210326115062714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4298164810849373020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main ingredient in a classic Margherita pizza?
+      TrueAnswer: Tomatoes
+      FalseAnswer:
+      - Mushrooms
+      - Pepperoni
+      - Pineapple
+      Explanation: A classic Margherita pizza is topped with fresh tomatoes, mozzarella
+        cheese, and basil leaves.
+    - Question: Which country is known for inventing sushi?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - China
+      - Thailand
+      - Italy
+      Explanation: Sushi is a traditional Japanese dish that consists of vinegared
+        rice and various toppings.
+    - Question: What is the main ingredient in guacamole?
+      TrueAnswer: Avocado
+      FalseAnswer:
+      - Tomato
+      - Onion
+      - Lime
+      Explanation: Guacamole is a Mexican dip made from mashed avocados, lime juice,
+        and other seasonings.
+    - Question: Which spice is commonly used in Indian curry dishes?
+      TrueAnswer: Turmeric
+      FalseAnswer:
+      - Cinnamon
+      - Paprika
+      - Ginger
+      Explanation: Turmeric is a key ingredient in Indian curry dishes, giving them
+        their vibrant yellow color.
+    - Question: What is the main ingredient in a traditional Caesar salad dressing?
+      TrueAnswer: Anchovies
+      FalseAnswer:
+      - Garlic
+      - Parmesan
+      - Lemon
+      Explanation: Anchovies are a key ingredient in the classic Caesar salad dressing,
+        providing a salty and savory flavor.
+    - Question: Which fruit is used to make a traditional apple pie?
+      TrueAnswer: Apples
+      FalseAnswer:
+      - Peaches
+      - Bananas
+      - Strawberries
+      Explanation: A traditional apple pie is made with sliced apples, sugar, and
+        spices, baked in a pastry crust.
+    - Question: What is the main ingredient in a classic Caprese salad?
+      TrueAnswer: Mozzarella
+      FalseAnswer:
+      - Balsamic vinegar
+      - Olives
+      - Arugula
+      Explanation: A classic Caprese salad is made with fresh mozzarella cheese,
+        tomatoes, and basil leaves.
+    - Question: Which ingredient is commonly used to thicken sauces and soups?
+      TrueAnswer: Cornstarch
+      FalseAnswer:
+      - Flour
+      - Sugar
+      - Salt
+      Explanation: Cornstarch is a common thickening agent used in cooking to give
+        sauces and soups a thicker consistency.
+    - Question: What is the main ingredient in a traditional Greek salad?
+      TrueAnswer: Feta cheese
+      FalseAnswer:
+      - Cucumbers
+      - Olives
+      - Lettuce
+      Explanation: A traditional Greek salad is made with feta cheese, tomatoes,
+        cucumbers, olives, and onions.
+    - Question: Which ingredient is commonly used to add acidity to dishes?
+      TrueAnswer: Lemon juice
+      FalseAnswer:
+      - Vinegar
+      - Soy sauce
+      - Wine
+      Explanation: Lemon juice is often used to add a tangy and acidic flavor to
+        various dishes and dressings.
+    - Question: What is the main ingredient in a classic chocolate chip cookie?
+      TrueAnswer: Chocolate chips
+      FalseAnswer:
+      - Peanut butter
+      - Oatmeal
+      - Raisins
+      Explanation: Classic chocolate chip cookies are made with chocolate chips,
+        butter, sugar, and flour.
+    - Question: Which ingredient is commonly used to add heat and spice to dishes?
+      TrueAnswer: Chili peppers
+      FalseAnswer:
+      - Black pepper
+      - Cayenne pepper
+      - Paprika
+      Explanation: Chili peppers, such as jalapenos or habaneros, are often used
+        to add heat and spice to dishes.
+    - Question: What is the main ingredient in a traditional French onion soup?
+      TrueAnswer: Onions
+      FalseAnswer:
+      - Beef broth
+      - Cheese
+      - Bread
+      Explanation: A traditional French onion soup is made with caramelized onions,
+        beef broth, and topped with cheese and bread.
+    - Question: Which ingredient is commonly used to add sweetness to baked goods?
+      TrueAnswer: Sugar
+      FalseAnswer:
+      - Salt
+      - Honey
+      - Maple syrup
+      Explanation: Sugar is a common sweetener used in baking to add sweetness and
+        help with browning.
+    - Question: What is the main ingredient in a classic margarita cocktail?
+      TrueAnswer: Tequila
+      FalseAnswer:
+      - Vodka
+      - Rum
+      - Gin
+      Explanation: A classic margarita cocktail is made with tequila, lime juice,
+        and orange liqueur.
+    - Question: Which ingredient is commonly used to add richness and flavor to dishes?
+      TrueAnswer: Butter
+      FalseAnswer:
+      - Olive oil
+      - Coconut milk
+      - Sour cream
+      Explanation: Butter is often used in cooking to add richness, flavor, and a
+        creamy texture to dishes.
+    - Question: What is the main ingredient in a traditional spaghetti carbonara?
+      TrueAnswer: Eggs
+      FalseAnswer:
+      - Bacon
+      - Parmesan cheese
+      - Garlic
+      Explanation: A traditional spaghetti carbonara is made with eggs, pancetta
+        or bacon, cheese, and black pepper.
+    - Question: Which ingredient is commonly used to add a savory umami flavor to
+        dishes?
+      TrueAnswer: Mushrooms
+      FalseAnswer:
+      - Soy sauce
+      - Fish sauce
+      - Tomato paste
+      Explanation: Mushrooms, such as shiitake or porcini, are often used to add
+        a savory umami flavor to dishes.
+    - Question: What is the main ingredient in a classic beef stew?
+      TrueAnswer: Beef
+      FalseAnswer:
+      - Carrots
+      - Potatoes
+      - Onions
+      Explanation: A classic beef stew is made with chunks of beef, vegetables, and
+        a flavorful broth.
+    - Question: Which ingredient is commonly used to add a tangy flavor to dishes?
+      TrueAnswer: Vinegar
+      FalseAnswer:
+      - Lemon juice
+      - Soy sauce
+      - Wine
+      Explanation: Vinegar, such as balsamic or apple cider vinegar, is often used
+        to add a tangy flavor to dishes.

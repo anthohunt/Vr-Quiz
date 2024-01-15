@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but de l'algorithme d'Euclide?",
+            "TrueAnswer": "Trouver le plus grand commun diviseur",
+            "FalseAnswer": [
+              "Résoudre des équations linéaires",
+              "Calculer pi",
+              "Factoriser de grands nombres"
+            ],
+            "Explanation": "L'algorithme d'Euclide est une méthode pour trouver le plus grand commun diviseur de deux nombres, un élément clé dans de nombreuses opérations mathématiques et applications."
+          },
+          {
+            "Question": "Quelle est la complexité temporelle de l'algorithme de tri à bulles?",
+            "TrueAnswer": "O(n^2)",
+            "FalseAnswer": [
+              "O(n)",
+              "O(log n)",
+              "O(n log n)"
+            ],
+            "Explanation": "L'algorithme de tri à bulles a une complexité temporelle de O(n^2), le rendant inefficace pour de grands ensembles de données, mais il est facile à implémenter."
+          },
+          {
+            "Question": "Quel est le but de l'algorithme du crible d'Ératosthène?",
+            "TrueAnswer": "Trouver tous les nombres premiers jusqu'à une limite donnée",
+            "FalseAnswer": [
+              "Résoudre des systèmes d'équations linéaires",
+              "Calculer des racines carrées",
+              "Optimiser les requêtes SQL"
+            ],
+            "Explanation": "Le crible d'Ératosthène est un algorithme ancien utilisé pour trouver tous les nombres premiers jusqu'à une limite spécifiée, une méthode fondamentale en théorie des nombres et en cryptographie."
+          },
+          {
+            "Question": "À quoi sert l'algorithme de Brzozowski?",
+            "TrueAnswer": "Déterminer l'équivalence de Moore d'un automate fini",
+            "FalseAnswer": [
+              "Calculer la suite de Fibonacci",
+              "Trouver le plus court chemin dans un graphe",
+              "Résoudre des puzzles Sudoku"
+            ],
+            "Explanation": "L'algorithme de Brzozowski est une méthode clé en théorie des langages formels et en théorie des automates, utilisée pour déterminer l'équivalence de Moore des automates finis, aidant au traitement formel des langages et à la vérification de logiciels."
+          },
+          {
+            "Question": "Quel est l'objectif de l'algorithme de Dijkstra?",
+            "TrueAnswer": "Trouver le plus court chemin dans un graphe pondéré",
+            "FalseAnswer": [
+              "Résoudre un système d'équations non linéaires",
+              "Optimiser la recherche binaire",
+              "Calculer le déterminant d'une matrice"
+            ],
+            "Explanation": "L'algorithme de Dijkstra est une méthode critique en théorie des graphes et en informatique, utilisée pour trouver le plus court chemin d'un sommet de départ désigné à tous les autres sommets dans un graphe pondéré, essentiel dans les systèmes de navigation et les protocoles de routage réseau."
+          },
+          {
+            "Question": "Quel algorithme est utilisé pour la factorisation d'entiers?",
+            "TrueAnswer": "Algorithme rho de Pollard",
+            "FalseAnswer": [
+              "Algorithme de la suite de Fibonacci",
+              "Algorithme de test de primalité",
+              "Algorithme de codage de Huffman"
+            ],
+            "Explanation": "L'algorithme rho de Pollard est un algorithme principal utilisé dans la factorisation d'entiers, crucial en cryptographie et en théorie des nombres, renforçant la sécurité des communications numériques et le chiffrement."
+          },
+          {
+            "Question": "Quel est l'objectif de la méthode de Newton-Raphson?",
+            "TrueAnswer": "Trouver les racines d'une fonction réelle",
+            "FalseAnswer": [
+              "Interpoler des fonctions polynomiales",
+              "Générer des nombres pseudo-aléatoires",
+              "Calculer les valeurs propres d'une matrice"
+            ],
+            "Explanation": "La méthode de Newton-Raphson est une technique numérique pour trouver les racines d'une fonction réelle, largement utilisée en optimisation, physique et ingénierie pour résoudre des équations et des modèles de simulation."
+          },
+          {
+            "Question": "Quel est le but du test de primalité de Miller-Rabin?",
+            "TrueAnswer": "Déterminer si un nombre est probablement premier",
+            "FalseAnswer": [
+              "Générer la suite de Fibonacci",
+              "Calculer l'inverse d'une matrice",
+              "Optimiser les requêtes de base de données"
+            ],
+            "Explanation": "Le test de primalité de Miller-Rabin est un algorithme probabiliste pour déterminer si un nombre donné est probablement premier, essentiel en cryptographie et en protocoles de sécurité, offrant une vérification efficace pour de grands nombres."
+          },
+          {
+            "Question": "Quel est l'objectif principal de l'algorithme de Bellman-Ford?",
+            "TrueAnswer": "Trouver les plus courts chemins dans un graphe pondéré avec des arêtes négatives",
+            "FalseAnswer": [
+              "Encoder des données avec le codage de Huffman",
+              "Interroger une base de données pour des enregistrements spécifiques",
+              "Calculer les valeurs propres d'une matrice"
+            ],
+            "Explanation": "L'algorithme de Bellman-Ford est un outil critique en théorie des graphes et en routage réseau, spécialement conçu pour gérer les graphes avec des poids d'arêtes négatifs, essentiel dans la fiabilité réseau et la planification des transports."
+          },
+          {
+            "Question": "Quel est le but de l'algorithme de Karatsuba?",
+            "TrueAnswer": "Effectuer une multiplication rapide de grands nombres",
+            "FalseAnswer": [
+              "Résoudre des équations simultanées",
+              "Calculer des racines carrées",
+              "Optimiser le tri fusion"
+            ],
+            "Explanation": "L'algorithme de Karatsuba est une méthode efficace pour multiplier de grands nombres, réduisant le nombre d'opérations arithmétiques et couramment utilisée en cryptographie, en analyse numérique et dans les systèmes d'algèbre informatique."
+          },
+          {
+            "Question": "Quel est le principal objectif de l'algorithme de Floyd-Warshall?",
+            "TrueAnswer": "Trouver les plus courts chemins dans un graphe pondéré avec des arêtes positives et négatives",
+            "FalseAnswer": [
+              "Analyser des données XML",
+              "Générer des permutations aléatoires",
+              "Calculer la transformée de Fourier discrète"
+            ],
+            "Explanation": "L'algorithme de Floyd-Warshall est conçu pour calculer les plus courts chemins entre toutes les paires de sommets dans un graphe pondéré, permettant à la fois des poids d'arêtes positifs et négatifs, crucial dans les réseaux de transport et le routage aérien."
+          },
+          {
+            "Question": "Quelle est l'application clé de l'algorithme de Rabin-Karp?",
+            "TrueAnswer": "Recherche de motif dans un texte",
+            "FalseAnswer": [
+              "Chiffrer des données avec RSA",
+              "Générer des fractales L-système",
+              "Calculer le produit scalaire de matrices"
+            ],
+            "Explanation": "L'algorithme de Rabin-Karp est principalement utilisé pour la recherche de motifs et la recherche de sous-chaînes dans les chaînes de caractères, offrant une efficacité accrue dans le traitement de texte, la détection de plagiat et la bioinformatique."
+          },
+          {
+            "Question": "Quel est le but principal de l'algorithme de transformation de Fourier rapide (FFT)?",
+            "TrueAnswer": "Calculer la transformée de Fourier discrète d'une séquence",
+            "FalseAnswer": [
+              "Optimiser l'algorithme de tri rapide",
+              "Factoriser de grands nombres",
+              "Générer des nombres pseudo-aléatoires"
+            ],
+            "Explanation": "L'algorithme de transformation de Fourier rapide (FFT) calcule efficacement la transformée de Fourier discrète (DFT) d'une séquence, essentiel dans le traitement du signal, la compression audio et image numérique, et le calcul scientifique."
+          },
+          {
+            "Question": "Quel est le but de l'algorithme de Coppersmith?",
+            "TrueAnswer": "Résoudre des types spécifiques d'équations modulaires",
+            "FalseAnswer": [
+              "Compresser et décompresser des données",
+              "Calculer le déterminant d'une matrice",
+              "Générer des nombres premiers"
+            ],
+            "Explanation": "L'algorithme de Coppersmith se concentre sur la résolution de types spécifiques d'équations modulaires, essentiel en cryptographie, sécurité informatique et schémas de signature numérique, renforçant les protocoles cryptographiques contre les attaques."
+          },
+          {
+            "Question": "Quelle est la fonction principale de l'algorithme de Levenberg-Marquardt?",
+            "TrueAnswer": "Résoudre des problèmes d'optimisation non linéaires aux moindres carrés",
+            "FalseAnswer": [
+              "Trier des données avec le tri fusion",
+              "Calculer les valeurs propres d'une matrice",
+              "Chiffrer des données avec AES"
+            ],
+            "Explanation": "L'algorithme de Levenberg-Marquardt est une technique pour résoudre des problèmes d'optimisation aux moindres carrés non linéaires, largement utilisée pour l'ajustement de courbe, la modélisation de données et l'estimation de paramètres dans des applications scientifiques et d'ingénierie."
+          },
+          {
+            "Question": "Quel est le but de l'algorithme de Hopcroft-Karp?",
+            "TrueAnswer": "Trouver l'appariement de cardinalité maximale dans un graphe biparti",
+            "FalseAnswer": [
+              "Optimiser le tri à bulles",
+              "Encoder des données avec le codage de Huffman",
+              "Rechercher des enregistrements spécifiques dans une base de données"
+            ],
+            "Explanation": "L'algorithme de Hopcroft-Karp est crucial pour trouver l'appariement de cardinalité maximale dans un graphe biparti, offrant des solutions efficaces aux problèmes d'appariement et d'attribution en biologie computationnelle, allocation de ressources et informatique en nuage."
+          },
+          {
+            "Question": "Quel est l'objectif principal de l'algorithme de Babai?",
+            "TrueAnswer": "Résoudre le problème d'isomorphisme de graphes",
+            "FalseAnswer": [
+              "Calculer le produit scalaire de matrices",
+              "Générer des fractales L-système",
+              "Factoriser de grands nombres"
+            ],
+            "Explanation": "L'algorithme de Babai est conçu pour résoudre efficacement le problème d'isomorphisme de graphes, une question fondamentale en informatique, en théorie de la complexité et en groupes de permutations, offrant des insights sur la complexité informatique et la théorie des groupes."
+          },
+          {
+            "Question": "Quel est le but principal de l'algorithme de Miller dans la cryptographie sur courbes elliptiques?",
+            "TrueAnswer": "Multiplication de points sur une courbe elliptique",
+            "FalseAnswer": [
+              "Calculer le déterminant d'une matrice",
+              "Rechercher des nombres premiers",
+              "Générer des permutations aléatoires"
+            ],
+            "Explanation": "L'algorithme de Miller est une opération clé en cryptographie sur courbes elliptiques, permettant une multiplication efficace de points sur des courbes elliptiques, fondamental pour les signatures numériques sécurisées, les échanges de clés et les protocoles cryptographiques."
+          },
+          {
+            "Question": "Quel est le principal objectif de l'algorithme de Berlekamp-Massey?",
+            "TrueAnswer": "Trouver le plus court LFSR pour une séquence binaire donnée",
+            "FalseAnswer": [
+              "Résoudre des équations simultanées",
+              "Optimiser l'algorithme de tri rapide",
+              "Chiffrer des données avec RSA"
+            ],
+            "Explanation": "L'algorithme de Berlekamp-Massey est central dans la théorie des registres à décalage à rétroaction linéaire (LFSR) et le codage de correction d'erreur, utilisé pour trouver le plus court LFSR pour une séquence binaire donnée, crucial dans les communications numériques et la détection et correction d'erreurs."
+          },
+          {
+            "Question": "Quel est le but principal du test de primalité AKS?",
+            "TrueAnswer": "Déterminer si un nombre est premier",
+            "FalseAnswer": [
+              "Générer la suite de Fibonacci",
+              "Calculer l'inverse d'une matrice",
+              "Optimiser les requêtes de base de données"
+            ],
+            "Explanation": "Le test de primalité AKS est un algorithme déterministe pour déterminer si un nombre est premier, un développement révolutionnaire en théorie des nombres et en cryptographie, fournissant une méthode en temps polynomial pour les tests de primalité."
+          }
+        ]
+      }
+    }
+  ]
+}

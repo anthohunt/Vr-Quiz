@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the title of the first Sherlock Holmes novel?",
+            "TrueAnswer": "A Study in Scarlet",
+            "FalseAnswer": [
+              "The Hound of the Baskervilles",
+              "The Sign of Four",
+              "The Valley of Fear"
+            ],
+            "Explanation": "A Study in Scarlet, published in 1887, introduces Sherlock Holmes and Dr. Watson as they solve a murder mystery in London."
+          },
+          {
+            "Question": "Which author wrote the acclaimed novel 'To Kill a Mockingbird'?",
+            "TrueAnswer": "Harper Lee",
+            "FalseAnswer": [
+              "Toni Morrison",
+              "John Steinbeck",
+              "Margaret Atwood"
+            ],
+            "Explanation": "Harper Lee's 'To Kill a Mockingbird', published in 1960, addresses racial injustice in the American South during the 1930s."
+          },
+          {
+            "Question": "Who is the author of the famous novel '1984'?",
+            "TrueAnswer": "George Orwell",
+            "FalseAnswer": [
+              "Aldous Huxley",
+              "Ray Bradbury",
+              "Margaret Atwood"
+            ],
+            "Explanation": "George Orwell's '1984', published in 1949, paints a dystopian future dominated by totalitarian control and surveillance."
+          },
+          {
+            "Question": "In which novel does the character Atticus Finch appear?",
+            "TrueAnswer": "To Kill a Mockingbird",
+            "FalseAnswer": [
+              "The Great Gatsby",
+              "Pride and Prejudice",
+              "Moby-Dick"
+            ],
+            "Explanation": "Atticus Finch is a pivotal character in Harper Lee's 'To Kill a Mockingbird', known for his moral integrity and wisdom."
+          },
+          {
+            "Question": "What is the pen name of the author of 'Little Women'?",
+            "TrueAnswer": "Louisa May Alcott",
+            "FalseAnswer": [
+              "Charlotte Brontë",
+              "Jane Austen",
+              "Emily Dickinson"
+            ],
+            "Explanation": "Louisa May Alcott wrote 'Little Women' under the pen name A.M. Barnard, exploring the lives of the March sisters in 19th-century America."
+          },
+          {
+            "Question": "Which novel features the character Jean Valjean?",
+            "TrueAnswer": "Les Misérables",
+            "FalseAnswer": [
+              "War and Peace",
+              "Crime and Punishment",
+              "Anna Karenina"
+            ],
+            "Explanation": "Jean Valjean is the protagonist of Victor Hugo's 'Les Misérables', struggling for redemption amidst the backdrop of 19th-century France."
+          },
+          {
+            "Question": "Who wrote the novel 'One Hundred Years of Solitude'?",
+            "TrueAnswer": "Gabriel Garcia Marquez",
+            "FalseAnswer": [
+              "Isabel Allende",
+              "Jorge Luis Borges",
+              "Pablo Neruda"
+            ],
+            "Explanation": "Gabriel Garcia Marquez's 'One Hundred Years of Solitude', published in 1967, weaves a multigenerational tale set in the fictional town of Macondo."
+          },
+          {
+            "Question": "In which novel does Holden Caulfield serve as the narrator?",
+            "TrueAnswer": "The Catcher in the Rye",
+            "FalseAnswer": [
+              "Lord of the Flies",
+              "Brave New World",
+              "The Bell Jar"
+            ],
+            "Explanation": "Holden Caulfield narrates J.D. Salinger's 'The Catcher in the Rye', offering a poignant portrayal of adolescent alienation and angst."
+          },
+          {
+            "Question": "Which author penned the novel 'The Picture of Dorian Gray'?",
+            "TrueAnswer": "Oscar Wilde",
+            "FalseAnswer": [
+              "Franz Kafka",
+              "F. Scott Fitzgerald",
+              "Virginia Woolf"
+            ],
+            "Explanation": "Oscar Wilde's only novel, 'The Picture of Dorian Gray', explores the consequences of vanity and hedonism in Victorian England."
+          },
+          {
+            "Question": "Which novel features the characters Elizabeth Bennet and Mr. Darcy?",
+            "TrueAnswer": "Pride and Prejudice",
+            "FalseAnswer": [
+              "Wuthering Heights",
+              "Jane Eyre",
+              "Sense and Sensibility"
+            ],
+            "Explanation": "Elizabeth Bennet and Mr. Darcy encounter love, social status, and misconceptions in Jane Austen's classic 'Pride and Prejudice', published in 1813."
+          },
+          {
+            "Question": "What is the title of Agatha Christie's first novel featuring Hercule Poirot?",
+            "TrueAnswer": "The Mysterious Affair at Styles",
+            "FalseAnswer": [
+              "The Murder of Roger Ackroyd",
+              "Murder on the Orient Express",
+              "Death on the Nile"
+            ],
+            "Explanation": "Agatha Christie's 'The Mysterious Affair at Styles' marks the debut of the fastidious Belgian detective Hercule Poirot."
+          },
+          {
+            "Question": "Which author wrote the novel 'The Grapes of Wrath'?",
+            "TrueAnswer": "John Steinbeck",
+            "FalseAnswer": [
+              "Ernest Hemingway",
+              "F. Scott Fitzgerald",
+              "William Faulkner"
+            ],
+            "Explanation": "John Steinbeck's 'The Grapes of Wrath' explores the challenges faced by the Joad family during the Great Depression, offering a critique of social and economic inequality."
+          },
+          {
+            "Question": "In which novel does the character Jane Eyre grow up?",
+            "TrueAnswer": "Jane Eyre",
+            "FalseAnswer": [
+              "Wuthering Heights",
+              "Pride and Prejudice",
+              "Middlemarch"
+            ],
+            "Explanation": "Charlotte Brontë's 'Jane Eyre' follows the eponymous protagonist's journey from a disadvantaged orphan to an independent and passionate woman."
+          },
+          {
+            "Question": "Which author wrote the novel 'Animal Farm'?",
+            "TrueAnswer": "George Orwell",
+            "FalseAnswer": [
+              "Aldous Huxley",
+              "Ray Bradbury",
+              "Margaret Atwood"
+            ],
+            "Explanation": "George Orwell's 'Animal Farm', published in 1945, serves as an allegorical critique of the Russian Revolution and totalitarianism."
+          },
+          {
+            "Question": "What is the title of the dystopian novel by Aldous Huxley?",
+            "TrueAnswer": "Brave New World",
+            "FalseAnswer": [
+              "Fahrenheit 451",
+              "The Handmaid's Tale",
+              "The Road"
+            ],
+            "Explanation": "Aldous Huxley's 'Brave New World', published in 1932, presents a cautionary vision of a future society shaped by technological advancement and social control."
+          },
+          {
+            "Question": "Whose novel 'The War of the Worlds' depicts a Martian invasion of Earth?",
+            "TrueAnswer": "H.G. Wells",
+            "FalseAnswer": [
+              "Jules Verne",
+              "Arthur C. Clarke",
+              "Ray Bradbury"
+            ],
+            "Explanation": "H.G. Wells' 'The War of the Worlds', published in 1898, is a pioneering work of science fiction, exploring themes of imperialism and extraterrestrial conflict."
+          },
+          {
+            "Question": "Which author wrote the novel 'The Catcher in the Rye'?",
+            "TrueAnswer": "J.D. Salinger",
+            "FalseAnswer": [
+              "Sylvia Plath",
+              "F. Scott Fitzgerald",
+              "Ernest Hemingway"
+            ],
+            "Explanation": "J.D. Salinger's 'The Catcher in the Rye', published in 1951, continues to resonate with readers through its depiction of adolescent disillusionment and rebellion."
+          },
+          {
+            "Question": "In which novel does the character Raskolnikov commit a notorious crime?",
+            "TrueAnswer": "Crime and Punishment",
+            "FalseAnswer": [
+              "The Brothers Karamazov",
+              "War and Peace",
+              "Anna Karenina"
+            ],
+            "Explanation": "Fyodor Dostoevsky's 'Crime and Punishment', published in 1866, delves into the psychological turmoil of Raskolnikov, a former student who grapples with morality and guilt after committing murder."
+          },
+          {
+            "Question": "Who wrote the novel 'The Great Gatsby'?",
+            "TrueAnswer": "F. Scott Fitzgerald",
+            "FalseAnswer": [
+              "Ernest Hemingway",
+              "John Steinbeck",
+              "Virginia Woolf"
+            ],
+            "Explanation": "F. Scott Fitzgerald's 'The Great Gatsby', published in 1925, captures the decadence and disillusionment of the Jazz Age in America, centered on the enigmatic Jay Gatsby."
+          },
+          {
+            "Question": "In which novel does the character Jean Brodie influence a group of girls at a Scottish school?",
+            "TrueAnswer": "The Prime of Miss Jean Brodie",
+            "FalseAnswer": [
+              "Middlemarch",
+              "Atonement",
+              "Mrs. Dalloway"
+            ],
+            "Explanation": "Muriel Spark's 'The Prime of Miss Jean Brodie', published in 1961, follows the charismatic teacher's impact on her students and the complexities of loyalty and betrayal."
+          }
+        ]
+      }
+    }
+  ]
+}

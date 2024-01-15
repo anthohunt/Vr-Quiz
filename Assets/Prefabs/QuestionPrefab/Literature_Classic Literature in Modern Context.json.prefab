@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8920573034187972377
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3868478689746264275}
+  - component: {fileID: 5856930355484666118}
+  m_Layer: 0
+  m_Name: Literature_Classic Literature in Modern Context.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3868478689746264275
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8920573034187972377}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5856930355484666118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8920573034187972377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of the novel 'Pride and Prejudice'?
+      TrueAnswer: Jane Austen
+      FalseAnswer:
+      - Emily Bronte
+      - Charlotte Bronte
+      - Virginia Woolf
+      Explanation: Jane Austen is the author of the classic novel 'Pride and Prejudice',
+        published in 1813.
+    - Question: Which novel features the character Jay Gatsby?
+      TrueAnswer: The Great Gatsby
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - Moby-Dick
+      - 1984
+      Explanation: Jay Gatsby is a central character in F. Scott Fitzgerald's novel
+        'The Great Gatsby', published in 1925.
+    - Question: In which city is Charles Dickens' novel 'A Tale of Two Cities' primarily
+        set?
+      TrueAnswer: London
+      FalseAnswer:
+      - Paris
+      - New York
+      - Rome
+      Explanation: Charles Dickens' novel 'A Tale of Two Cities' is primarily set
+        in London during the French Revolution.
+    - Question: Who wrote the play 'Romeo and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - Arthur Miller
+      - Tennessee Williams
+      Explanation: William Shakespeare is the playwright behind the tragic love story
+        'Romeo and Juliet', written in the late 16th century.
+    - Question: Which novel is set in the fictional land of Middle-earth?
+      TrueAnswer: The Lord of the Rings
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - 1984
+      Explanation: J.R.R. Tolkien's epic fantasy novel 'The Lord of the Rings' is
+        set in the fictional land of Middle-earth.
+    - Question: Who is the author of the novel 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - John Steinbeck
+      - Ernest Hemingway
+      - F. Scott Fitzgerald
+      Explanation: Harper Lee is the author of the classic novel 'To Kill a Mockingbird',
+        published in 1960.
+    - Question: Which novel features the character Holden Caulfield?
+      TrueAnswer: The Catcher in the Rye
+      FalseAnswer:
+      - Moby-Dick
+      - 1984
+      - The Great Gatsby
+      Explanation: Holden Caulfield is the protagonist in J.D. Salinger's novel 'The
+        Catcher in the Rye', published in 1951.
+    - Question: In which country is the novel 'One Hundred Years of Solitude' primarily
+        set?
+      TrueAnswer: Colombia
+      FalseAnswer:
+      - Mexico
+      - Argentina
+      - Brazil
+      Explanation: Gabriel Garcia Marquez's novel 'One Hundred Years of Solitude'
+        is primarily set in Colombia.
+    - Question: Who wrote the play 'Hamlet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - George Bernard Shaw
+      - Anton Chekhov
+      - Samuel Beckett
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Hamlet',
+        written in the early 17th century.
+    - Question: Which novel is set during the Russian Revolution?
+      TrueAnswer: Animal Farm
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - 1984
+      Explanation: George Orwell's allegorical novella 'Animal Farm' is set during
+        the Russian Revolution.
+    - Question: Who is the author of the novel 'Jane Eyre'?
+      TrueAnswer: Charlotte Bronte
+      FalseAnswer:
+      - Emily Bronte
+      - Jane Austen
+      - Virginia Woolf
+      Explanation: Charlotte Bronte is the author of the classic novel 'Jane Eyre',
+        published in 1847.
+    - Question: Which novel features the character Elizabeth Bennet?
+      TrueAnswer: Pride and Prejudice
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - Moby-Dick
+      - 1984
+      Explanation: Elizabeth Bennet is the protagonist in Jane Austen's novel 'Pride
+        and Prejudice', published in 1813.
+    - Question: In which city is Fyodor Dostoevsky's novel 'Crime and Punishment'
+        primarily set?
+      TrueAnswer: Saint Petersburg
+      FalseAnswer:
+      - Moscow
+      - Kiev
+      - Warsaw
+      Explanation: Fyodor Dostoevsky's novel 'Crime and Punishment' is primarily
+        set in Saint Petersburg, Russia.
+    - Question: Who wrote the play 'Macbeth'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Arthur Miller
+      - Tennessee Williams
+      - Samuel Beckett
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Macbeth',
+        written in the early 17th century.
+    - Question: Which novel is set in the fictional town of Maycomb, Alabama?
+      TrueAnswer: To Kill a Mockingbird
+      FalseAnswer:
+      - Moby-Dick
+      - 1984
+      - The Great Gatsby
+      Explanation: Harper Lee's novel 'To Kill a Mockingbird' is set in the fictional
+        town of Maycomb, Alabama, during the 1930s.
+    - Question: In which country is the novel 'Don Quixote' primarily set?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Italy
+      - France
+      - Portugal
+      Explanation: Miguel de Cervantes' novel 'Don Quixote' is primarily set in Spain
+        during the 17th century.
+    - Question: Who is the author of the novel 'Moby-Dick'?
+      TrueAnswer: Herman Melville
+      FalseAnswer:
+      - Mark Twain
+      - Nathaniel Hawthorne
+      - Edgar Allan Poe
+      Explanation: Herman Melville is the author of the classic novel 'Moby-Dick',
+        published in 1851.
+    - Question: Which novel features the character Scout Finch?
+      TrueAnswer: To Kill a Mockingbird
+      FalseAnswer:
+      - Pride and Prejudice
+      - 1984
+      - The Great Gatsby
+      Explanation: Scout Finch is the young protagonist in Harper Lee's novel 'To
+        Kill a Mockingbird'.
+    - Question: In which city is F. Scott Fitzgerald's novel 'The Great Gatsby' primarily
+        set?
+      TrueAnswer: New York
+      FalseAnswer:
+      - Chicago
+      - Los Angeles
+      - Boston
+      Explanation: F. Scott Fitzgerald's novel 'The Great Gatsby' is primarily set
+        in New York during the Roaring Twenties.
+    - Question: Who wrote the play 'Romeo and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - Arthur Miller
+      - Tennessee Williams
+      Explanation: William Shakespeare is the playwright behind the tragic love story
+        'Romeo and Juliet', written in the late 16th century.

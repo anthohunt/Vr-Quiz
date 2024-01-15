@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5538031096832226692
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6587243161821362006}
+  - component: {fileID: 5907494009203167598}
+  m_Layer: 0
+  m_Name: Technology_Hacking and Hacker Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6587243161821362006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5538031096832226692}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5907494009203167598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5538031096832226692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for unauthorized access to computer systems?
+      TrueAnswer: Hacking
+      FalseAnswer:
+      - Coding
+      - Networking
+      - Encryption
+      Explanation: Hacking refers to gaining unauthorized access to computer systems
+        or networks.
+    - Question: What is the main goal of ethical hacking?
+      TrueAnswer: Identify vulnerabilities
+      FalseAnswer:
+      - Steal data
+      - Create viruses
+      - Disable systems
+      Explanation: Ethical hacking aims to identify vulnerabilities in computer systems
+        to improve security.
+    - Question: What is a 'white hat' hacker?
+      TrueAnswer: Ethical hacker
+      FalseAnswer:
+      - Malicious hacker
+      - Script kiddie
+      - Cybercriminal
+      Explanation: A 'white hat' hacker is an ethical hacker who uses their skills
+        for legitimate purposes.
+    - Question: What is the term for a hacker who breaks into systems for personal
+        gain?
+      TrueAnswer: Black hat hacker
+      FalseAnswer:
+      - Grey hat hacker
+      - White hat hacker
+      - Hacktivist
+      Explanation: A black hat hacker is someone who hacks into systems with malicious
+        intent for personal gain.
+    - Question: What is the process of disguising information to make it unreadable
+        by unauthorized users?
+      TrueAnswer: Encryption
+      FalseAnswer:
+      - Decryption
+      - Firewall
+      - Phishing
+      Explanation: Encryption is the process of converting information into a code
+        to prevent unauthorized access.
+    - Question: What is the term for a program that replicates itself and spreads
+        to other computers?
+      TrueAnswer: Virus
+      FalseAnswer:
+      - Trojan
+      - Worm
+      - Spyware
+      Explanation: A virus is a malicious program that can replicate itself and spread
+        to other computers.
+    - Question: What is the practice of tricking individuals into revealing sensitive
+        information?
+      TrueAnswer: Phishing
+      FalseAnswer:
+      - Spoofing
+      - Hacking
+      - Malware
+      Explanation: Phishing is a technique used to deceive individuals into providing
+        sensitive information.
+    - Question: What is the term for a program that appears legitimate but performs
+        malicious activities?
+      TrueAnswer: Trojan
+      FalseAnswer:
+      - Firewall
+      - Antivirus
+      - Encryption
+      Explanation: A Trojan is a program that disguises itself as legitimate software
+        but carries out malicious activities.
+    - Question: What is the process of analyzing and identifying vulnerabilities
+        in a computer system?
+      TrueAnswer: Penetration testing
+      FalseAnswer:
+      - Firewall configuration
+      - Data encryption
+      - Software development
+      Explanation: Penetration testing involves analyzing and identifying vulnerabilities
+        in a computer system to improve security.
+    - Question: What is the term for a hacker who breaks into systems to promote
+        a political or social cause?
+      TrueAnswer: Hacktivist
+      FalseAnswer:
+      - Black hat hacker
+      - Script kiddie
+      - Cybercriminal
+      Explanation: A hacktivist is a hacker who breaks into systems to promote political
+        or social causes.
+    - Question: What is the process of gaining unauthorized access to a wireless
+        network?
+      TrueAnswer: Wi-Fi hacking
+      FalseAnswer:
+      - Bluetooth hacking
+      - Satellite hacking
+      - Cellular hacking
+      Explanation: Wi-Fi hacking involves gaining unauthorized access to a wireless
+        network for various purposes.
+    - Question: What is the term for a hacker who lacks technical skills and relies
+        on pre-written tools?
+      TrueAnswer: Script kiddie
+      FalseAnswer:
+      - White hat hacker
+      - Black hat hacker
+      - Grey hat hacker
+      Explanation: A script kiddie is an inexperienced hacker who relies on pre-written
+        tools rather than technical skills.
+    - Question: What is the process of gaining unauthorized access to a computer
+        system through physical means?
+      TrueAnswer: Physical hacking
+      FalseAnswer:
+      - Social engineering
+      - Phishing
+      - Malware
+      Explanation: Physical hacking involves gaining unauthorized access to a computer
+        system through physical means, such as stealing or tampering with hardware.
+    - Question: What is the term for a hacker who operates on the fringes of legality?
+      TrueAnswer: Grey hat hacker
+      FalseAnswer:
+      - White hat hacker
+      - Black hat hacker
+      - Hacktivist
+      Explanation: A grey hat hacker operates on the fringes of legality, sometimes
+        performing hacking activities without explicit permission.
+    - Question: What is the term for a program that monitors and records keystrokes
+        on a computer?
+      TrueAnswer: Keylogger
+      FalseAnswer:
+      - Firewall
+      - Antivirus
+      - Encryption
+      Explanation: A keylogger is a program that monitors and records keystrokes
+        on a computer, often used for malicious purposes.
+    - Question: What is the process of gaining unauthorized access to a computer
+        system through human manipulation?
+      TrueAnswer: Social engineering
+      FalseAnswer:
+      - Physical hacking
+      - Phishing
+      - Malware
+      Explanation: Social engineering involves manipulating individuals to gain unauthorized
+        access to a computer system.
+    - Question: What is the term for a hacker who breaks into systems for financial
+        gain?
+      TrueAnswer: Cybercriminal
+      FalseAnswer:
+      - White hat hacker
+      - Black hat hacker
+      - Hacktivist
+      Explanation: A cybercriminal is a hacker who breaks into systems with the intention
+        of financial gain.
+    - Question: What is the process of gaining unauthorized access to a computer
+        system through email or websites?
+      TrueAnswer: Malware
+      FalseAnswer:
+      - Firewall
+      - Antivirus
+      - Encryption
+      Explanation: Malware refers to malicious software that is designed to gain
+        unauthorized access to a computer system.
+    - Question: What is the term for a hacker who breaks into systems for fun or
+        to prove their skills?
+      TrueAnswer: Black hat hacker
+      FalseAnswer:
+      - Grey hat hacker
+      - White hat hacker
+      - Hacktivist
+      Explanation: A black hat hacker breaks into systems for personal satisfaction
+        or to showcase their hacking skills.
+    - Question: What is the process of protecting computer systems from unauthorized
+        access or attacks?
+      TrueAnswer: Cybersecurity
+      FalseAnswer:
+      - Hacking
+      - Programming
+      - Networking
+      Explanation: Cybersecurity involves implementing measures to protect computer
+        systems from unauthorized access or attacks.
+    - Question: What is the term for a hacker who breaks into systems to expose vulnerabilities
+        and improve security?
+      TrueAnswer: White hat hacker
+      FalseAnswer:
+      - Black hat hacker
+      - Grey hat hacker
+      - Hacktivist
+      Explanation: A white hat hacker is an ethical hacker who breaks into systems
+        to identify vulnerabilities and improve security.

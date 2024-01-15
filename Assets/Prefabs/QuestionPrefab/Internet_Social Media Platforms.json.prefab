@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4585911799350150652
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3946425076500168318}
+  - component: {fileID: 3294112218477797363}
+  m_Layer: 0
+  m_Name: Internet_Social Media Platforms.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3946425076500168318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4585911799350150652}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3294112218477797363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4585911799350150652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which social media platform was launched in 2004?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Twitter
+      - Instagram
+      - Snapchat
+      Explanation: Facebook was launched in 2004 by Mark Zuckerberg and his college
+        roommates.
+    - Question: Which social media platform allows users to share photos and videos?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - LinkedIn
+      - Pinterest
+      - WhatsApp
+      Explanation: Instagram is a popular platform for sharing visual content like
+        photos and videos.
+    - Question: Which social media platform is known for its 280-character limit
+        for tweets?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Facebook
+      - YouTube
+      - TikTok
+      Explanation: Twitter allows users to post short messages called tweets, limited
+        to 280 characters.
+    - Question: Which social media platform is primarily used for professional networking?
+      TrueAnswer: LinkedIn
+      FalseAnswer:
+      - Snapchat
+      - Reddit
+      - Tumblr
+      Explanation: LinkedIn is a platform designed for professional networking and
+        job searching.
+    - Question: Which social media platform is known for its disappearing messages
+        feature?
+      TrueAnswer: Snapchat
+      FalseAnswer:
+      - WhatsApp
+      - Facebook
+      - Twitter
+      Explanation: Snapchat allows users to send photos and videos that disappear
+        after being viewed.
+    - Question: Which social media platform is owned by Facebook?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Twitter
+      - LinkedIn
+      - Pinterest
+      Explanation: Facebook acquired Instagram in 2012, making it one of its subsidiaries.
+    - Question: Which social media platform is popular for sharing and discovering
+        recipes, fashion, and DIY ideas?
+      TrueAnswer: Pinterest
+      FalseAnswer:
+      - YouTube
+      - TikTok
+      - Snapchat
+      Explanation: Pinterest is a visual discovery platform where users can find
+        and save ideas for various interests.
+    - Question: Which social media platform is known for its short-form videos?
+      TrueAnswer: TikTok
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - LinkedIn
+      Explanation: TikTok allows users to create and share short videos, often with
+        music and special effects.
+    - Question: Which social media platform is primarily used for messaging and voice/video
+        calls?
+      TrueAnswer: WhatsApp
+      FalseAnswer:
+      - Twitter
+      - Pinterest
+      - Snapchat
+      Explanation: WhatsApp is a messaging app that allows users to send messages,
+        make voice and video calls.
+    - Question: Which social media platform is known for its upvoting and downvoting
+        system?
+      TrueAnswer: Reddit
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Twitter
+      Explanation: Reddit is a platform where users can submit and discuss content,
+        with an upvoting and downvoting system.
+    - Question: Which social media platform is popular for sharing and watching videos?
+      TrueAnswer: YouTube
+      FalseAnswer:
+      - LinkedIn
+      - Pinterest
+      - WhatsApp
+      Explanation: YouTube is a video-sharing platform where users can upload, watch,
+        and interact with videos.
+    - Question: Which social media platform is known for its live streaming feature?
+      TrueAnswer: Twitch
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Twitter
+      Explanation: Twitch is a platform primarily used for live streaming video games,
+        esports, and other content.
+    - Question: Which social media platform is popular for sharing and discussing
+        news and current events?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Snapchat
+      Explanation: Twitter is often used as a platform for real-time news updates
+        and discussions on various topics.
+    - Question: Which social media platform is known for its short-lived content
+        that disappears after 24 hours?
+      TrueAnswer: Facebook Stories
+      FalseAnswer:
+      - Instagram Stories
+      - Snapchat
+      - Twitter Fleets
+      Explanation: Facebook Stories is a feature that allows users to share photos
+        and videos that disappear after 24 hours.
+    - Question: Which social media platform is popular for sharing and discussing
+        memes?
+      TrueAnswer: Reddit
+      FalseAnswer:
+      - LinkedIn
+      - Pinterest
+      - WhatsApp
+      Explanation: Reddit is a platform where users can find, create, and discuss
+        memes on various topics.
+    - Question: Which social media platform is primarily used for blogging and sharing
+        text-based content?
+      TrueAnswer: Tumblr
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Twitter
+      Explanation: Tumblr is a microblogging platform where users can share text-based
+        content, images, and multimedia.
+    - Question: Which social media platform is known for its location-based check-ins
+        and reviews?
+      TrueAnswer: Foursquare
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Twitter
+      Explanation: Foursquare allows users to check-in at locations, share reviews,
+        and discover new places.
+    - Question: Which social media platform is popular for sharing and discovering
+        music?
+      TrueAnswer: SoundCloud
+      FalseAnswer:
+      - LinkedIn
+      - Pinterest
+      - WhatsApp
+      Explanation: SoundCloud is a platform where users can upload, share, and discover
+        music and audio content.
+    - Question: Which social media platform is primarily used for professional photo
+        and video sharing?
+      TrueAnswer: Vimeo
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Twitter
+      Explanation: Vimeo is a platform where professionals can showcase and share
+        high-quality photos and videos.
+    - Question: Which social media platform is known for its virtual pinboards and
+        visual discovery?
+      TrueAnswer: Pinterest
+      FalseAnswer:
+      - LinkedIn
+      - Instagram
+      - Snapchat
+      Explanation: Pinterest allows users to discover and save ideas through virtual
+        pinboards with visual content.
+    - Question: Which social media platform is popular for sharing and discussing
+        books, articles, and blog posts?
+      TrueAnswer: Goodreads
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Twitter
+      Explanation: Goodreads is a platform where users can discover, review, and
+        discuss books, articles, and blog posts.

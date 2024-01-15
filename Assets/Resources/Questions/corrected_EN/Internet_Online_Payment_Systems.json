@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What does SSL stand for in the context of online payments?",
+          "TrueAnswer": "Secure Sockets Layer",
+          "FalseAnswer": [
+            "Secure Server Login",
+            "Single Sign-On Link",
+            "System Security Level"
+          ],
+          "Explanation": "SSL is a secure protocol used for transmitting sensitive information over the internet. It establishes an encrypted link between a web server and a browser."
+        },
+        {
+          "Question": "Which of the following is a popular online payment gateway?",
+          "TrueAnswer": "PayPal",
+          "FalseAnswer": [
+            "BitTorrent",
+            "Venmo",
+            "Ethereum"
+          ],
+          "Explanation": "PayPal is a widely used online payment system that supports online money transfers and serves as an electronic alternative to traditional methods like checks and money orders."
+        },
+        {
+          "Question": "What is the primary purpose of a CVV/CVC code during online transactions?",
+          "TrueAnswer": "Authentication",
+          "FalseAnswer": [
+            "Authorization",
+            "Encryption",
+            "Identification"
+          ],
+          "Explanation": "CVV/CVC codes provide an extra layer of security by verifying that the customer has the physical card during a card-not-present transaction, reducing the risk of fraud."
+        },
+        {
+          "Question": "What does ACH stand for in the context of online banking?",
+          "TrueAnswer": "Automated Clearing House",
+          "FalseAnswer": [
+            "Automated Card Handling",
+            "Account Checking Hub",
+            "Annual Credit History"
+          ],
+          "Explanation": "ACH is an electronic network used for financial transactions in the U.S., commonly used for direct deposits, payroll payments, and monthly bill payments."
+        },
+        {
+          "Question": "Which of the following is a popular alternative to credit cards for online payments?",
+          "TrueAnswer": "Digital Wallet",
+          "FalseAnswer": [
+            "Cryptocurrency",
+            "Cash on Delivery",
+            "Traveler's Check"
+          ],
+          "Explanation": "A digital wallet allows users to securely store payment information and make transactions through a mobile app, providing convenience and added security."
+        },
+        {
+          "Question": "What does API stand for in the context of integrating payment systems?",
+          "TrueAnswer": "Application Programming Interface",
+          "FalseAnswer": [
+            "Automated Payment Integration",
+            "Advanced Payment Interface",
+            "Authentic Payment Infrastructure"
+          ],
+          "Explanation": "APIs allow different software systems to communicate and share data, enabling seamless integration of online payment functionalities into various applications and websites."
+        },
+        {
+          "Question": "Which of the following is a popular cryptocurrency used for online transactions?",
+          "TrueAnswer": "Bitcoin",
+          "FalseAnswer": [
+            "Ripple",
+            "Litecoin",
+            "Ethereum"
+          ],
+          "Explanation": "Bitcoin is the first and most well-known decentralized cryptocurrency, often used for online transactions due to its widespread acceptance and established infrastructure."
+        },
+        {
+          "Question": "What is an example of a recurring billing model commonly used in online payment systems?",
+          "TrueAnswer": "Subscription",
+          "FalseAnswer": [
+            "One-Time Purchase",
+            "Pay As You Go",
+            "Prepaid Card"
+          ],
+          "Explanation": "Subscription billing allows customers to make periodic payments for ongoing access to a service or product, providing businesses with predictable revenue streams."
+        },
+        {
+          "Question": "What organization oversees the security standards for online payments?",
+          "TrueAnswer": "PCI Security Standards Council",
+          "FalseAnswer": [
+            "ISO (International Organization for Standardization)",
+            "EU Data Protection Authorities",
+            "FBI (Federal Bureau of Investigation)"
+          ],
+          "Explanation": "The PCI SSC establishes and maintains global security standards for protecting sensitive payment card data, ensuring secure processing of online transactions."
+        },
+        {
+          "Question": "What is a notable benefit of using tokenization in online payment systems?",
+          "TrueAnswer": "Enhanced Security",
+          "FalseAnswer": [
+            "Faster Processing",
+            "Lower Fees",
+            "Simplified User Experience"
+          ],
+          "Explanation": "Tokenization replaces sensitive payment data with unique tokens, reducing the risk of data breaches and unauthorized access to cardholder information."
+        },
+        {
+          "Question": "Which of the following technologies is commonly used for secure online payment authentication?",
+          "TrueAnswer": "Two-Factor Authentication",
+          "FalseAnswer": [
+            "Facial Recognition",
+            "Voice Biometrics",
+            "Retina Scan"
+          ],
+          "Explanation": "Two-factor authentication adds an extra layer of security by requiring users to provide two different types of credentials before accessing an online payment system."
+        },
+        {
+          "Question": "What is the primary function of a payment gateway in online transactions?",
+          "TrueAnswer": "Authorizing Transactions",
+          "FalseAnswer": [
+            "Encrypting Data",
+            "Storing Payment Information",
+            "Issuing Refunds"
+          ],
+          "Explanation": "Payment gateways securely transmit transaction data from the merchant to the acquiring bank, where authorization and validation of the transaction take place."
+        },
+        {
+          "Question": "What does EMV stand for in the context of payment card security?",
+          "TrueAnswer": "Europay, MasterCard, Visa",
+          "FalseAnswer": [
+            "Embedded Magnetic Verification",
+            "Electronic Multi-Validation",
+            "Encrypted Mobile Verification"
+          ],
+          "Explanation": "EMV is a global standard for credit and debit card payments based on chip card technology, designed to enhance security and reduce fraud in card-present transactions."
+        },
+        {
+          "Question": "Which of the following is a leading provider of online payment processing services?",
+          "TrueAnswer": "Stripe",
+          "FalseAnswer": [
+            "Amazon",
+            "Alibaba",
+            "Shopify"
+          ],
+          "Explanation": "Stripe is a popular payment processing platform that offers customizable online payment solutions for businesses, including secure checkout and recurring billing capabilities."
+        },
+        {
+          "Question": "What technology is commonly used for contactless payments in online transactions?",
+          "TrueAnswer": "Near Field Communication (NFC)",
+          "FalseAnswer": [
+            "Radio Frequency Identification (RFID)",
+            "Bluetooth Low Energy (BLE)",
+            "Wireless Fidelity (Wi-Fi)"
+          ],
+          "Explanation": "NFC allows communication between devices in close proximity, enabling secure and convenient contactless payments through compatible smartphones and payment terminals."
+        },
+        {
+          "Question": "Which of the following features is essential for secure online payment processing?",
+          "TrueAnswer": "End-to-End Encryption",
+          "FalseAnswer": [
+            "Public Key Infrastructure (PKI)",
+            "Digital Signature",
+            "Data Masking"
+          ],
+          "Explanation": "End-to-end encryption protects payment data at all stages of the transaction, from the point of entry to the authorization process, safeguarding it from potential security threats."
+        },
+        {
+          "Question": "What does TTP stand for in the context of online payment security?",
+          "TrueAnswer": "Trusted Third Party",
+          "FalseAnswer": [
+            "Transaction Tracking Protocol",
+            "Terminal Transaction Process",
+            "Transaction Token Provider"
+          ],
+          "Explanation": "A Trusted Third Party acts as a neutral intermediary to ensure the security and integrity of online transactions, building trust between transacting parties."
+        },
+        {
+          "Question": "Which of the following is a primary concern in online payment fraud prevention?",
+          "TrueAnswer": "Identity Verification",
+          "FalseAnswer": [
+            "Device Fingerprinting",
+            "Geolocation Tracking",
+            "Transaction Monitoring"
+          ],
+          "Explanation": "Identity verification helps validate the identity of users making online payments, reducing the risk of fraudulent transactions and unauthorized access to payment accounts."
+        },
+        {
+          "Question": "What is the primary advantage of using 3D Secure in online payment authentication?",
+          "TrueAnswer": "Liability Shift",
+          "FalseAnswer": [
+            "Instant Authorization",
+            "Reduced Transaction Fees",
+            "Global Acceptance"
+          ],
+          "Explanation": "3D Secure protocol shifts the liability for fraudulent chargebacks from the merchant to the card issuer, providing added protection against unauthorized transactions."
+        },
+        {
+          "Question": "What term describes the process of converting online payments into recurring revenue streams?",
+          "TrueAnswer": "Monetization",
+          "FalseAnswer": [
+            "Optimization",
+            "Standardization",
+            "Diversification"
+          ],
+          "Explanation": "Monetization refers to the strategy of generating revenue from the continuous use or consumption of a product or service, often applied in online payment models."
+        }
+      ]
+    }
+  ]
+}

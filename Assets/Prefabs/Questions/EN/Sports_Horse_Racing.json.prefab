@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8126660132559840147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6000694174366538846}
+  - component: {fileID: 3587060524208698202}
+  m_Layer: 0
+  m_Name: Sports_Horse_Racing.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6000694174366538846
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8126660132559840147}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3587060524208698202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8126660132559840147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which horse race is known as 'The Run for the Roses'?
+      TrueAnswer: Kentucky Derby
+      FalseAnswer:
+      - Belmont Stakes
+      - Preakness Stakes
+      - Grand National
+      Explanation: The Kentucky Derby, first run in 1875, is the oldest continuously
+        held horse race in the U.S.
+    - Question: What is the distance of the longest leg of the Triple Crown?
+      TrueAnswer: 1.5 miles
+      FalseAnswer:
+      - 1 mile
+      - 1.25 miles
+      - 2 miles
+      Explanation: The Belmont Stakes, held in Belmont Park, New York, is the third
+        and final leg of the Triple Crown.
+    - Question: Which native country does the Thoroughbred breed originate from?
+      TrueAnswer: England
+      FalseAnswer:
+      - Ireland
+      - France
+      - United States
+      Explanation: The Thoroughbred breed was first developed in England in the 17th
+        and 18th centuries.
+    - Question: What is the record time for the Grand National steeplechase?
+      TrueAnswer: 8 minutes 47.8 seconds
+      FalseAnswer:
+      - 9 minutes 25.2 seconds
+      - 7 minutes 59.4 seconds
+      - 10 minutes 15.5 seconds
+      Explanation: The fastest time was set by Mr. Frisk in 1990 and still stands
+        today as the course record.
+    - Question: Who is the most successful jockey in Kentucky Derby history?
+      TrueAnswer: Eddie Arcaro
+      FalseAnswer:
+      - Bill Shoemaker
+      - Pat Day
+      - Calvin Borel
+      Explanation: Eddie Arcaro won the Kentucky Derby five times and also achieved
+        a Triple Crown with Whirlaway and Citation.
+    - Question: What is the weight carried by horses in the Grand National steeplechase?
+      TrueAnswer: 11 stone and 10 pounds
+      FalseAnswer:
+      - 10 stone and 8 pounds
+      - 12 stone and 5 pounds
+      - 13 stone and 2 pounds
+      Explanation: The weight carried by horses in the Grand National has been standardized
+        at 11 stone and 10 pounds since 2009.
+    - Question: What is the traditional flower associated with the Preakness Stakes?
+      TrueAnswer: Black-Eyed Susan
+      FalseAnswer:
+      - Tulip
+      - Rose
+      - Orchid
+      Explanation: The Black-Eyed Susan blanket of yellow flowers is presented to
+        the winning horse at the Preakness Stakes.
+    - Question: Which famous horse has the nickname 'Big Red'?
+      TrueAnswer: Secretariat
+      FalseAnswer:
+      - Seattle Slew
+      - Affirmed
+      - Man o' War
+      Explanation: Secretariat, the 1973 Triple Crown winner, was known for his stunning
+        red chestnut coat and dominance on the track.
+    - Question: What is the age requirement for horses in the Triple Crown races?
+      TrueAnswer: 3 years old
+      FalseAnswer:
+      - 2 years old
+      - 4 years old
+      - 5 years old
+      Explanation: Horses participating in the Triple Crown races must be three years
+        old, the age at which they are considered mature enough to handle the demanding
+        races.
+    - Question: Which city hosts the Breeders' Cup World Championships?
+      TrueAnswer: Various cities
+      FalseAnswer:
+      - Louisville
+      - Saratoga Springs
+      - Lexington
+      Explanation: The Breeders' Cup is an annual series of Grade I Thoroughbred
+        horse races and is hosted by different racetracks in the United States and
+        occasionally abroad.
+    - Question: What is the maximum number of runners allowed in the Grand National
+        steeplechase?
+      TrueAnswer: 40
+      FalseAnswer:
+      - 30
+      - 50
+      - 60
+      Explanation: A maximum of 40 horses can compete in the Grand National, making
+        it one of the most widely watched and challenging steeplechase events.
+    - Question: Which jockey holds the record for most Grand National wins?
+      TrueAnswer: George Stevens
+      FalseAnswer:
+      - Ruby Walsh
+      - A. P. McCoy
+      - Tom Olliver
+      Explanation: George Stevens won the Grand National five times in the mid-19th
+        century, a record that still stands to this day.
+    - Question: What is the prize awarded to the winner of the Preakness Stakes?
+      TrueAnswer: Woodlawn Vase
+      FalseAnswer:
+      - Haskell Invitational Trophy
+      - Santa Anita Handicap Cup
+      - Jockey Club Gold Cup
+      Explanation: The Woodlawn Vase is a nearly six-foot tall sterling silver trophy
+        and is one of the most valuable trophies in American sports.
+    - Question: Which horse race is known as the 'Race That Stops a Nation'?
+      TrueAnswer: Melbourne Cup
+      FalseAnswer:
+      - Dubai World Cup
+      - The Everest
+      - Japan Cup
+      Explanation: The Melbourne Cup, held on the first Tuesday in November, is a
+        public holiday in Australia, bringing the nation to a standstill for the
+        iconic race.
+    - Question: What is the minimum distance for a horse racing on the flat?
+      TrueAnswer: 5 furlongs
+      FalseAnswer:
+      - 3 furlongs
+      - 7 furlongs
+      - 10 furlongs
+      Explanation: A furlong is one-eighth of a mile, and a race shorter than 5 furlongs
+        is considered a sprint in horse racing.
+    - Question: Which is the oldest horse race in the United States?
+      TrueAnswer: The Travers Stakes
+      FalseAnswer:
+      - The Belmont Stakes
+      - The Kentucky Derby
+      - The Preakness Stakes
+      Explanation: The Travers Stakes, first run in 1864, is the oldest major thoroughbred
+        horse race in the United States.
+    - Question: Which type of horse race is the Belmont Stakes?
+      TrueAnswer: Stakes
+      FalseAnswer:
+      - Handicap
+      - Claiming
+      - Maiden
+      Explanation: Stakes races are the highest level of thoroughbred races and typically
+        feature the best horses, jockeys, and trainers.
+    - Question: What is the minimum number of runners required in a horse race for
+        place or show betting?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 3
+      - 7
+      - 6
+      Explanation: In most horse races, at least five runners must start the race
+        for place and show betting to be offered by bookmakers and racetracks.
+    - Question: Which horse created history by winning the Triple Crown after a 37-year
+        drought?
+      TrueAnswer: American Pharoah
+      FalseAnswer:
+      - Justify
+      - Secretariat
+      - Affirmed
+      Explanation: In 2015, American Pharoah became the 12th Triple Crown winner,
+        ending a 37-year gap since Affirmed's win in 1978.

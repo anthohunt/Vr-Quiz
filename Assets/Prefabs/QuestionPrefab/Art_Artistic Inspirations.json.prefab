@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &169000619924230606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2533270557040072005}
+  - component: {fileID: 1838733454503339338}
+  m_Layer: 0
+  m_Name: Art_Artistic Inspirations.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2533270557040072005
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169000619924230606}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1838733454503339338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169000619924230606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous artwork 'Mona Lisa'?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Leonardo da Vinci is the artist behind the iconic painting 'Mona
+        Lisa', created during the Renaissance period.
+    - Question: Which artist is known for his 'Campbell's Soup Cans' artwork?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Salvador Dali
+      - Jackson Pollock
+      - Piet Mondrian
+      Explanation: Andy Warhol, a leading figure in the pop art movement, is famous
+        for his 'Campbell's Soup Cans' artwork.
+    - Question: Who sculpted the masterpiece 'David'?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Auguste Rodin
+      - Pablo Picasso
+      - Donatello
+      Explanation: Michelangelo, an Italian artist, created the renowned sculpture
+        'David' during the Renaissance period.
+    - Question: Which artist is associated with the painting 'Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh is the artist behind the famous painting 'Starry
+        Night', known for its swirling sky.
+    - Question: Who is the creator of the 'Sistine Chapel Ceiling' frescoes?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Caravaggio
+      Explanation: Michelangelo painted the breathtaking frescoes on the ceiling
+        of the Sistine Chapel in Vatican City.
+    - Question: Which artist is known for his 'Water Lilies' series?
+      TrueAnswer: Claude Monet
+      FalseAnswer:
+      - Salvador Dali
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Claude Monet, a French impressionist, is famous for his series
+        of paintings called 'Water Lilies'.
+    - Question: Who painted the iconic artwork 'The Persistence of Memory'?
+      TrueAnswer: Salvador Dali
+      FalseAnswer:
+      - Edvard Munch
+      - Gustav Klimt
+      - Frida Kahlo
+      Explanation: Salvador Dali is the artist behind the surreal painting 'The Persistence
+        of Memory', featuring melting clocks.
+    - Question: Which artist is known for his 'Guernica' painting?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Pablo Picasso, a Spanish artist, created the powerful anti-war
+        painting 'Guernica'.
+    - Question: Who is the artist behind the 'Marilyn Monroe' silkscreen prints?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Jackson Pollock
+      - Salvador Dali
+      - Piet Mondrian
+      Explanation: Andy Warhol popularized the 'Marilyn Monroe' silkscreen prints,
+        showcasing his fascination with celebrity culture.
+    - Question: Which artist is known for his 'The Birth of Venus' painting?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Rembrandt
+      - Hieronymus Bosch
+      - Titian
+      Explanation: Sandro Botticelli, an Italian painter, created the iconic painting
+        'The Birth of Venus' during the Renaissance period.
+    - Question: Who is the artist behind the 'The Starry Night' painting?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh painted the mesmerizing artwork 'The Starry Night',
+        depicting a dreamy night sky.
+    - Question: Which artist is known for his 'The Last Supper' mural?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Raphael
+      - Caravaggio
+      Explanation: Leonardo da Vinci painted the famous mural 'The Last Supper',
+        portraying the biblical event.
+    - Question: Who is the creator of the 'The Thinker' sculpture?
+      TrueAnswer: Auguste Rodin
+      FalseAnswer:
+      - Michelangelo
+      - Pablo Picasso
+      - Donatello
+      Explanation: Auguste Rodin, a French sculptor, crafted the renowned sculpture
+        'The Thinker'.
+    - Question: Which artist is associated with the painting 'Girl with a Pearl Earring'?
+      TrueAnswer: Johannes Vermeer
+      FalseAnswer:
+      - Edvard Munch
+      - Gustav Klimt
+      - Frida Kahlo
+      Explanation: Johannes Vermeer is the artist behind the captivating painting
+        'Girl with a Pearl Earring'.
+    - Question: Who painted the masterpiece 'The Creation of Adam' on the Sistine
+        Chapel ceiling?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Caravaggio
+      Explanation: Michelangelo painted the iconic 'The Creation of Adam' on the
+        Sistine Chapel ceiling.
+    - Question: Which artist is known for his 'Les Demoiselles d'Avignon' painting?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Salvador Dali
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Pablo Picasso created the groundbreaking painting 'Les Demoiselles
+        d'Avignon', marking the beginning of Cubism.
+    - Question: Who is the artist behind the 'The Birth of Venus' painting?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Rembrandt
+      - Hieronymus Bosch
+      - Titian
+      Explanation: Sandro Botticelli painted the famous artwork 'The Birth of Venus',
+        depicting the goddess of love.
+    - Question: Which artist is known for his 'The Persistence of Memory' painting?
+      TrueAnswer: Salvador Dali
+      FalseAnswer:
+      - Edvard Munch
+      - Gustav Klimt
+      - Frida Kahlo
+      Explanation: Salvador Dali is the artist behind the surreal painting 'The Persistence
+        of Memory', featuring melting clocks.
+    - Question: Who is the creator of the 'The Thinker' sculpture?
+      TrueAnswer: Auguste Rodin
+      FalseAnswer:
+      - Michelangelo
+      - Pablo Picasso
+      - Donatello
+      Explanation: Auguste Rodin, a French sculptor, crafted the renowned sculpture
+        'The Thinker'.
+    - Question: Which artist is associated with the painting 'The Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh is the artist behind the famous painting 'The
+        Starry Night', known for its swirling sky.

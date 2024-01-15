@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6163444406511028209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7654701475430227173}
+  - component: {fileID: 1339768440927143712}
+  m_Layer: 0
+  m_Name: Literature_Literary Movements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7654701475430227173
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6163444406511028209}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1339768440927143712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6163444406511028209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which literary movement emphasized the power of the individual and
+        the importance of emotion?
+      TrueAnswer: Romanticism
+      FalseAnswer:
+      - Realism
+      - Naturalism
+      - Modernism
+      Explanation: Romanticism celebrated individualism and the expression of intense
+        emotions in literature during the 18th and 19th centuries.
+    - Question: Which literary movement focused on depicting everyday life and ordinary
+        people?
+      TrueAnswer: Realism
+      FalseAnswer:
+      - Romanticism
+      - Symbolism
+      - Postmodernism
+      Explanation: Realism sought to portray life as it is, without idealization
+        or romanticism, during the 19th century.
+    - Question: Which literary movement rejected traditional forms and experimented
+        with new techniques and styles?
+      TrueAnswer: Modernism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Naturalism
+      Explanation: Modernism challenged traditional norms and conventions, embracing
+        experimentation and innovation in the early 20th century.
+    - Question: Which literary movement explored the subconscious mind and used dreamlike
+        imagery?
+      TrueAnswer: Surrealism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Naturalism
+      Explanation: Surrealism sought to unlock the power of the subconscious mind
+        and create dreamlike, illogical narratives.
+    - Question: Which literary movement rejected traditional storytelling and focused
+        on fragmented narratives?
+      TrueAnswer: Postmodernism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Postmodernism challenged traditional narrative structures and
+        embraced fragmentation and intertextuality.
+    - Question: Which literary movement emphasized the power of reason and logic?
+      TrueAnswer: Enlightenment
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: The Enlightenment valued reason, logic, and scientific inquiry
+        as the means to understand and improve the world.
+    - Question: Which literary movement focused on the experiences and perspectives
+        of African Americans?
+      TrueAnswer: Harlem Renaissance
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: The Harlem Renaissance celebrated African American culture and
+        identity through literature, art, and music.
+    - Question: Which literary movement sought to capture the essence of the natural
+        world and its beauty?
+      TrueAnswer: Transcendentalism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Transcendentalism emphasized the spiritual and philosophical connection
+        between humans and nature.
+    - Question: Which literary movement focused on the exploration of the human psyche
+        and inner thoughts?
+      TrueAnswer: Psychological Realism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Psychological Realism delved into the complexities of the human
+        mind and emotions, often through introspection.
+    - Question: Which literary movement rejected traditional societal norms and embraced
+        unconventional lifestyles?
+      TrueAnswer: Beat Generation
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: The Beat Generation rebelled against societal norms, advocating
+        for personal freedom and unconventional lifestyles.
+    - Question: Which literary movement focused on the experiences and perspectives
+        of women?
+      TrueAnswer: Feminism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Feminism sought to address gender inequalities and give voice
+        to women's experiences and perspectives.
+    - Question: Which literary movement emphasized the power of the imagination and
+        the supernatural?
+      TrueAnswer: Gothic
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Gothic literature explored the dark and mysterious, often featuring
+        supernatural elements and intense emotions.
+    - Question: Which literary movement focused on the experiences and perspectives
+        of working-class individuals?
+      TrueAnswer: Social Realism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Social Realism depicted the lives and struggles of working-class
+        individuals, shedding light on social issues.
+    - Question: Which literary movement sought to challenge and subvert traditional
+        gender roles and expectations?
+      TrueAnswer: Gender Studies
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Gender Studies explored the social construction of gender and
+        aimed to challenge traditional gender norms.
+    - Question: Which literary movement focused on the experiences and perspectives
+        of the LGBTQ+ community?
+      TrueAnswer: Queer Literature
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Queer Literature explored LGBTQ+ identities, experiences, and
+        challenges, often advocating for LGBTQ+ rights.
+    - Question: Which literary movement sought to challenge and critique the capitalist
+        system and its effects on society?
+      TrueAnswer: Marxist Criticism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Marxist Criticism analyzed literature through the lens of class
+        struggle and the critique of capitalism.
+    - Question: Which literary movement focused on the experiences and perspectives
+        of Indigenous peoples?
+      TrueAnswer: Native American Renaissance
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: The Native American Renaissance celebrated Indigenous cultures
+        and addressed the historical and contemporary experiences of Native Americans.
+    - Question: Which literary movement sought to challenge and critique colonialism
+        and its impact on society?
+      TrueAnswer: Postcolonialism
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Postcolonialism examined the effects of colonialism and imperialism
+        on cultures, identities, and power dynamics.
+    - Question: Which literary movement focused on the experiences and perspectives
+        of immigrants and their cultural identities?
+      TrueAnswer: Immigrant Literature
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Immigrant Literature explored the experiences of immigrants, their
+        cultural identities, and the challenges they face in a new country.
+    - Question: Which literary movement sought to challenge and critique the representation
+        of race and racism in literature?
+      TrueAnswer: Critical Race Theory
+      FalseAnswer:
+      - Romanticism
+      - Realism
+      - Modernism
+      Explanation: Critical Race Theory analyzed how race and racism are portrayed
+        in literature, aiming to challenge stereotypes and biases.

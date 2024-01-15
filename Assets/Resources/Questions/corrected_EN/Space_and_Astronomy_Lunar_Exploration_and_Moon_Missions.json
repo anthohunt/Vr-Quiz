@@ -1,0 +1,198 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What was the name of the first spacecraft to reach the Moon?",
+          "TrueAnswer": "Luna 2",
+          "FalseAnswer": [
+            "Apollo 11",
+            "Chang'e 5",
+            "Surveyor 1"
+          ],
+          "Explanation": "Luna 2, launched by the Soviet Union, was the first human-made object to reach the Moon, impacting its surface on September 14, 1959."
+        },
+        {
+          "Question": "Which NASA program marked the first successful manned Moon landing?",
+          "TrueAnswer": "Apollo 11",
+          "FalseAnswer": [
+            "Mercury",
+            "Gemini",
+            "Apollo 13"
+          ],
+          "Explanation": "Apollo 11, led by astronauts Neil Armstrong and Buzz Aldrin, successfully landed on the Moon on July 20, 1969."
+        },
+        {
+          "Question": "What is the largest impact crater on the Moon's visible hemisphere?",
+          "TrueAnswer": "South Pole-Aitken Basin",
+          "FalseAnswer": [
+            "Mare Orientale",
+            "Clavius",
+            "Tycho"
+          ],
+          "Explanation": "The South Pole-Aitken Basin is one of the largest known impact craters in the Solar System, measuring approximately 2,500 kilometers in diameter."
+        },
+        {
+          "Question": "Which country's robotic spacecraft made the first soft landing on the Moon?",
+          "TrueAnswer": "USSR (Luna 9)",
+          "FalseAnswer": [
+            "USA (Surveyor 1)",
+            "China (Chang'e 3)",
+            "India (Chandrayaan-2)"
+          ],
+          "Explanation": "The Soviet Union's Luna 9 achieved the first-ever soft landing on the Moon's surface on February 3, 1966, pioneering lunar exploration."
+        },
+        {
+          "Question": "What was the name of the first human-crewed mission to orbit the Moon?",
+          "TrueAnswer": "Apollo 8",
+          "FalseAnswer": [
+            "Gemini 8",
+            "Mercury-Redstone 3",
+            "Artemis 3"
+          ],
+          "Explanation": "Apollo 8, with astronauts Frank Borman, James Lovell, and William Anders, became the first crewed mission to orbit the Moon in December 1968."
+        },
+        {
+          "Question": "Which Apollo mission was the first to conduct a lunar rover exploration?",
+          "TrueAnswer": "Apollo 15",
+          "FalseAnswer": [
+            "Apollo 11",
+            "Apollo 13",
+            "Apollo 17"
+          ],
+          "Explanation": "Apollo 15 astronauts used the Lunar Roving Vehicle (LRV) to explore the Moon's surface, covering a total distance of about 27.9 kilometers."
+        },
+        {
+          "Question": "What was the first extraterrestrial sample-return mission?",
+          "TrueAnswer": "Luna 16",
+          "FalseAnswer": [
+            "Apollo 11",
+            "Chang'e 5",
+            "Clementine"
+          ],
+          "Explanation": "Luna 16, a Soviet robotic spacecraft, successfully brought lunar soil samples back to Earth in September 1970, proving the feasibility of sample return missions."
+        },
+        {
+          "Question": "Which spacecraft detected water ice on the Moon for the first time?",
+          "TrueAnswer": "Chandrayaan-1",
+          "FalseAnswer": [
+            "Apollo 11",
+            "Lunar Prospector",
+            "Clementine"
+          ],
+          "Explanation": "Chandrayaan-1's Moon Mineralogy Mapper (M3) instrument detected the presence of water ice on the Moon's surface in 2008, providing critical insights for future lunar exploration."
+        },
+        {
+          "Question": "What is the longest continuous time spent on the Moon's surface by astronauts?",
+          "TrueAnswer": "74 hours and 59 minutes (Apollo 17)",
+          "FalseAnswer": [
+            "22 hours and 2 minutes (Apollo 11)",
+            "33 hours and 31 minutes (Apollo 16)",
+            "22 hours and 4 minutes (Apollo 14)"
+          ],
+          "Explanation": "The Apollo 17 mission, the final Apollo lunar landing, allowed astronauts Eugene Cernan and Harrison Schmitt to spend nearly 75 hours exploring the lunar terrain."
+        },
+        {
+          "Question": "Which mission detected a gravitational 'anomaly' on the far side of the Moon?",
+          "TrueAnswer": "Lunar Orbiter 5",
+          "FalseAnswer": [
+            "Luna 3",
+            "Apollo 15",
+            "Chang'e 4"
+          ],
+          "Explanation": "Lunar Orbiter 5's photographic data led to the discovery of the mass concentration beneath Mare Ingenii, indicating an unexpected gravitational anomaly on the Moon's far side."
+        },
+        {
+          "Question": "When did the last human mission to the Moon take place?",
+          "TrueAnswer": "December 14-19, 1972 (Apollo 17)",
+          "FalseAnswer": [
+            "July 20-21, 1969 (Apollo 11)",
+            "April 16-27, 1972 (Apollo 16)",
+            "November 14-24, 1969 (Apollo 12)"
+          ],
+          "Explanation": "Apollo 17, the final crewed lunar mission to date, landed on the Moon in December 1972, concluding the remarkable era of human exploration beyond Earth."
+        },
+        {
+          "Question": "Which lunar mission was the first to incorporate a rover for surface exploration?",
+          "TrueAnswer": "Lunokhod 1 (Luna 17)",
+          "FalseAnswer": [
+            "Apollo 15",
+            "Chang'e 4",
+            "Yutu (Chang'e 3)"
+          ],
+          "Explanation": "The Soviet Luna 17 mission deployed the unmanned rover, Lunokhod 1, on the Moon in 1970, paving the way for remote surface exploration."
+        },
+        {
+          "Question": "What is the approximate age of the oldest lunar rock samples brought back to Earth?",
+          "TrueAnswer": "4.4 billion years",
+          "FalseAnswer": [
+            "2.5 billion years",
+            "3.7 billion years",
+            "5.2 billion years"
+          ],
+          "Explanation": "The Apollo 14 mission returned ancient lunar rocks that are roughly 4.4 billion years old, providing valuable insights into the early history of the Moon and the Solar System."
+        },
+        {
+          "Question": "Which lunar probe discovered evidence of volcanic activity on the Moon?",
+          "TrueAnswer": "Lunar Reconnaissance Orbiter (LRO)",
+          "FalseAnswer": [
+            "Apollo 15",
+            "Clementine",
+            "Chandrayaan-1"
+          ],
+          "Explanation": "The Lunar Reconnaissance Orbiter's observations revealed volcanic landforms and deposits, shedding light on the Moon's geological evolution and lava-filled regions."
+        },
+        {
+          "Question": "Which spacecraft found traces of helium-3 on the Moon's surface?",
+          "TrueAnswer": "Lunar Prospector",
+          "FalseAnswer": [
+            "Apollo 17",
+            "Chang'e 2",
+            "SMART-1"
+          ],
+          "Explanation": "Lunar Prospector's neutron spectrometer detected significant amounts of helium-3, an isotope with potential future applications in advanced energy generation, on the Moon."
+        },
+        {
+          "Question": "Which mission discovered the presence of neon in the lunar exosphere?",
+          "TrueAnswer": "Chandrayaan-1",
+          "FalseAnswer": [
+            "Apollo 15",
+            "Lunar Orbiter 2",
+            "Clementine"
+          ],
+          "Explanation": "Chandrayaan-1's Moon Impact Probe (MIP) detected evidence of neon, an inert noble gas, in the tenuous lunar exosphere, contributing to our understanding of lunar surface gases."
+        },
+        {
+          "Question": "How long did the first manned mission to the Moon, Apollo 11, spend on the lunar surface?",
+          "TrueAnswer": "21 hours and 36 minutes",
+          "FalseAnswer": [
+            "12 hours and 34 minutes",
+            "17 hours and 42 minutes",
+            "19 hours and 18 minutes"
+          ],
+          "Explanation": "Neil Armstrong and Buzz Aldrin explored the lunar surface for a total of 21 hours and 36 minutes during the historic Apollo 11 mission in 1969."
+        },
+        {
+          "Question": "Which lunar mission discovered evidence of water molecules on the Moon's sunlit surface?",
+          "TrueAnswer": "Chandrayaan-2",
+          "FalseAnswer": [
+            "Apollo 17",
+            "Lunar Atmosphere and Dust Environment Explorer (LADEE)",
+            "Chang'e 4"
+          ],
+          "Explanation": "Chandrayaan-2's orbiter identified water molecules in the sunlit regions of the Moon, providing critical insights into the distribution of lunar hydration."
+        },
+        {
+          "Question": "What was the primary objective of the Artemis program announced by NASA?",
+          "TrueAnswer": "Sustainable human presence on the Moon by 2024",
+          "FalseAnswer": [
+            "Establishing a lunar space station by 2030",
+            "Mining resources for deep space exploration",
+            "Conducting crewed Mars missions by 2035"
+          ],
+          "Explanation": "The Artemis program aims to return humans to the lunar surface and establish a sustainable presence, serving as a stepping stone for future crewed missions to Mars and beyond."
+        }
+      ]
+    }
+  ]
+}

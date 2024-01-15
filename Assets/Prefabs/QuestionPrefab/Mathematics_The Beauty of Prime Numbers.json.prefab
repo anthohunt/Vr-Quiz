@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5245281233159351634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3500514092385857986}
+  - component: {fileID: 2370710146888932322}
+  m_Layer: 0
+  m_Name: Mathematics_The Beauty of Prime Numbers.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3500514092385857986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5245281233159351634}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2370710146888932322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5245281233159351634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is a prime number?
+      TrueAnswer: A number that is divisible only by 1 and itself
+      FalseAnswer:
+      - A number that is divisible by 2
+      - A number that is divisible by 3
+      - A number that is divisible by 4
+      Explanation: A prime number is a number that is divisible only by 1 and itself,
+        with no other divisors.
+    - Question: Is 1 a prime number?
+      TrueAnswer: No
+      FalseAnswer:
+      - Yes
+      - Sometimes
+      - Not sure
+      Explanation: 1 is not considered a prime number because it only has one divisor,
+        which is 1.
+    - Question: What is the smallest prime number?
+      TrueAnswer: 2
+      FalseAnswer:
+      - 1
+      - 3
+      - 0
+      Explanation: The smallest prime number is 2, as it is the only even prime number.
+    - Question: Are prime numbers odd or even?
+      TrueAnswer: Mostly odd
+      FalseAnswer:
+      - Mostly even
+      - Both odd and even
+      - None of the above
+      Explanation: Most prime numbers are odd, except for the number 2, which is
+        the only even prime number.
+    - Question: What is the largest known prime number?
+      TrueAnswer: "2^82,589,933 \u2212 1"
+      FalseAnswer:
+      - "2^100 \u2212 1"
+      - "2^50,331 \u2212 1"
+      - "2^1,000,000 \u2212 1"
+      Explanation: "The largest known prime number is 2^82,589,933 \u2212 1, a number
+        with 24,862,048 digits."
+    - Question: Can prime numbers be negative?
+      TrueAnswer: No
+      FalseAnswer:
+      - Yes
+      - Only some
+      - Depends on the number
+      Explanation: Prime numbers are defined as positive integers, so they cannot
+        be negative.
+    - Question: What is the sum of the first 10 prime numbers?
+      TrueAnswer: 129
+      FalseAnswer:
+      - 100
+      - 150
+      - 200
+      Explanation: The sum of the first 10 prime numbers (2, 3, 5, 7, 11, 13, 17,
+        19, 23, 29) is 129.
+    - Question: Are there infinitely many prime numbers?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - No
+      - Only a finite number
+      - Not enough information
+      Explanation: There are infinitely many prime numbers, as proven by Euclid around
+        300 BCE.
+    - Question: What is the prime factorization of 36?
+      TrueAnswer: 2^2 * 3^2
+      FalseAnswer:
+      - 2 * 3
+      - 2^3 * 3
+      - 2^2 * 3
+      Explanation: The prime factorization of 36 is 2^2 * 3^2, which means it can
+        be expressed as the product of prime numbers.
+    - Question: What is the only even prime number?
+      TrueAnswer: 2
+      FalseAnswer:
+      - 4
+      - 6
+      - 8
+      Explanation: The only even prime number is 2, as all other even numbers are
+        divisible by 2.
+    - Question: What is the prime factorization of 100?
+      TrueAnswer: 2^2 * 5^2
+      FalseAnswer:
+      - 2 * 5
+      - 2^3 * 5
+      - 2^2 * 3
+      Explanation: The prime factorization of 100 is 2^2 * 5^2, which means it can
+        be expressed as the product of prime numbers.
+    - Question: What is the sum of the first 5 prime numbers?
+      TrueAnswer: 28
+      FalseAnswer:
+      - 10
+      - 15
+      - 20
+      Explanation: The sum of the first 5 prime numbers (2, 3, 5, 7, 11) is 28.
+    - Question: What is the prime factorization of 24?
+      TrueAnswer: 2^3 * 3
+      FalseAnswer:
+      - 2 * 3
+      - 2^2 * 3^2
+      - 2^4 * 3
+      Explanation: The prime factorization of 24 is 2^3 * 3, which means it can be
+        expressed as the product of prime numbers.
+    - Question: What is the sum of the first 20 prime numbers?
+      TrueAnswer: 639
+      FalseAnswer:
+      - 500
+      - 750
+      - 1000
+      Explanation: The sum of the first 20 prime numbers is 639.
+    - Question: What is the prime factorization of 50?
+      TrueAnswer: 2 * 5^2
+      FalseAnswer:
+      - 2^2 * 5
+      - 2^3 * 5^2
+      - 2^2 * 3
+      Explanation: The prime factorization of 50 is 2 * 5^2, which means it can be
+        expressed as the product of prime numbers.
+    - Question: What is the sum of the first 100 prime numbers?
+      TrueAnswer: 24133
+      FalseAnswer:
+      - 10000
+      - 50000
+      - 100000
+      Explanation: The sum of the first 100 prime numbers is 24133.
+    - Question: What is the prime factorization of 60?
+      TrueAnswer: 2^2 * 3 * 5
+      FalseAnswer:
+      - 2 * 3 * 5
+      - 2^3 * 3^2
+      - 2^2 * 5^2
+      Explanation: The prime factorization of 60 is 2^2 * 3 * 5, which means it can
+        be expressed as the product of prime numbers.
+    - Question: What is the sum of the first 50 prime numbers?
+      TrueAnswer: 5830
+      FalseAnswer:
+      - 5000
+      - 7500
+      - 10000
+      Explanation: The sum of the first 50 prime numbers is 5830.
+    - Question: What is the prime factorization of 72?
+      TrueAnswer: 2^3 * 3^2
+      FalseAnswer:
+      - 2 * 3
+      - 2^2 * 3
+      - 2^4 * 3
+      Explanation: The prime factorization of 72 is 2^3 * 3^2, which means it can
+        be expressed as the product of prime numbers.
+    - Question: What is the sum of the first 1000 prime numbers?
+      TrueAnswer: 3,682,913
+      FalseAnswer:
+      - 1,000,000
+      - 5,000,000
+      - 10,000,000
+      Explanation: The sum of the first 1000 prime numbers is 3,682,913.

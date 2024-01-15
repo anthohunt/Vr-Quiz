@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle émission de télévision britannique met en scène un détective consultant et son fidèle ami, le Dr John Watson?",
+            "TrueAnswer": "Sherlock",
+            "FalseAnswer": [
+              "Doctor Who",
+              "Black Mirror",
+              "Peaky Blinders"
+            ],
+            "Explanation": "Sherlock est une adaptation moderne des récits de détective de Sherlock Holmes de Sir Arthur Conan Doyle, se déroulant dans le Londres contemporain."
+          },
+          {
+            "Question": "Dans la série télévisée 'Doctor Who', quel est le mode de transport principal du Docteur?",
+            "TrueAnswer": "TARDIS",
+            "FalseAnswer": [
+              "Machine à remonter le temps",
+              "Téléporteur",
+              "Vaisseau spatial"
+            ],
+            "Explanation": "Le TARDIS signifie Time and Relative Dimension in Space, apparaissant comme une simple cabine de police britannique à l'extérieur."
+          },
+          {
+            "Question": "Quelle série télévisée britannique est située dans un monde post-apocalyptique gouverné par des cybermen et des Daleks?",
+            "TrueAnswer": "Doctor Who",
+            "FalseAnswer": [
+              "Broadchurch",
+              "The Crown",
+              "Line of Duty"
+            ],
+            "Explanation": "Doctor Who est une série de science-fiction de longue date mettant en scène le Docteur, un extraterrestre voyageant dans le temps de la planète Gallifrey."
+          },
+          {
+            "Question": "Comment s'appelle le gang criminel familial de Birmingham dans l'émission de télévision 'Peaky Blinders'?",
+            "TrueAnswer": "Shelby",
+            "FalseAnswer": [
+              "Soprano",
+              "Blinders",
+              "Johnson"
+            ],
+            "Explanation": "Les Peaky Blinders sont un gang dirigé par la famille Shelby, impliqué dans des activités criminelles à Birmingham à la suite de la Première Guerre mondiale."
+          },
+          {
+            "Question": "Quelle émission de télévision britannique présente une série anthologique explorant le côté sombre et satirique de la technologie et de la société?",
+            "TrueAnswer": "Black Mirror",
+            "FalseAnswer": [
+              "The End of the F***ing World",
+              "The Witcher",
+              "The Office (UK)"
+            ],
+            "Explanation": "Black Mirror, créée par Charlie Brooker, présente des épisodes indépendants dépeignant une réflexion dystopique de la société moderne et les conséquences inattendues des nouvelles technologies."
+          },
+          {
+            "Question": "Dans 'Downton Abbey', quel est le nom de la famille qui réside dans le domaine éponyme?",
+            "TrueAnswer": "Crawley",
+            "FalseAnswer": [
+              "Fitzwilliam",
+              "Abbott",
+              "Grantham"
+            ],
+            "Explanation": "Downton Abbey suit principalement la vie de la famille aristocratique Crawley et de leurs domestiques, mettant en évidence les changements sociaux au début du XXe siècle en Angleterre."
+          },
+          {
+            "Question": "Quelle émission de télévision britannique est centrée sur la vie des policiers et des détectives dans une ville fictive corrompue appelée 'Central'?",
+            "TrueAnswer": "Line of Duty",
+            "FalseAnswer": [
+              "Luther",
+              "Broadchurch",
+              "The Fall"
+            ],
+            "Explanation": "Line of Duty, créée par Jed Mercurio, explore les enquêtes de l'unité anticorruption AC-12, révélant des conspirations au sein de la police."
+          },
+          {
+            "Question": "La série télévisée primée 'The Crown' raconte le règne de quel monarque britannique?",
+            "TrueAnswer": "Reine Elizabeth II",
+            "FalseAnswer": [
+              "Reine Victoria",
+              "Roi Henry VIII",
+              "Roi George VI"
+            ],
+            "Explanation": "The Crown retrace le règne de la Reine Elizabeth II, de ses premiers jours en tant que princesse à son rôle actuel de monarque régnant sur le Royaume-Uni."
+          },
+          {
+            "Question": "Quelle émission de télévision britannique est une adaptation de la série de romans de George R.R. Martin 'A Song of Ice and Fire'?",
+            "TrueAnswer": "Game of Thrones",
+            "FalseAnswer": [
+              "Outlander",
+              "The Last Kingdom",
+              "Merlin"
+            ],
+            "Explanation": "Game of Thrones, créée par David Benioff et D.B. Weiss, dépeint les luttes dynastiques effrénées pour le Trône de Fer de Westeros et la menace existentielle des Marcheurs Blancs."
+          },
+          {
+            "Question": "Dans 'Fawlty Towers', quel est le nom du propriétaire d'hôtel constamment frustré et impoli?",
+            "TrueAnswer": "Basil",
+            "FalseAnswer": [
+              "Sybil",
+              "Manuel",
+              "Polly"
+            ],
+            "Explanation": "Le personnage de Basil Fawlty, joué par John Cleese, est connu pour sa mauvaise humeur, causant souvent le chaos dans l'hôtel avec ses facéties, au grand agacement de sa femme et de son personnel."
+          },
+          {
+            "Question": "Quelle émission de télévision britannique met en scène un légendaire extraterrestre voyageant dans le temps connu sous le nom 'Le Docteur'?",
+            "TrueAnswer": "Doctor Who",
+            "FalseAnswer": [
+              "Torchwood",
+              "Humans",
+              "Primeval"
+            ],
+            "Explanation": "Doctor Who est un pilier de la télévision britannique depuis ses débuts en 1963, et le Docteur est connu pour se régénérer sous une nouvelle forme lorsqu'il est mortellement blessé ou qu'il meurt de vieillesse."
+          },
+          {
+            "Question": "Dans 'Peep Show', quels sont les prénoms des colocataires socialement maladroits joués par David Mitchell et Robert Webb?",
+            "TrueAnswer": "Mark et Jeremy",
+            "FalseAnswer": [
+              "Ben et Mike",
+              "Tom et Jerry",
+              "Chris et Simon"
+            ],
+            "Explanation": "Mark Corrigan et Jeremy Usborne naviguent à travers leurs vies dysfonctionnelles, offrant souvent des aperçus hilarants et maladroits de leurs névroses et de leurs escapades dans le monde moderne."
+          },
+          {
+            "Question": "Quelle série télévisée britannique présente la vie de la famille royale depuis l'accession du roi George VI à nos jours?",
+            "TrueAnswer": "The Crown",
+            "FalseAnswer": [
+              "Victoria",
+              "The Tudors",
+              "The White Queen"
+            ],
+            "Explanation": "The Crown offre un aperçu des intrigues personnelles, des romances et des rivalités politiques derrière les grands événements ayant façonné la seconde moitié du XXe siècle."
+          },
+          {
+            "Question": "Dans 'Only Fools and Horses', quel est le nom du commerçant ambitieux et souvent mal avisé?",
+            "TrueAnswer": "Del Boy",
+            "FalseAnswer": [
+              "Oncle Albert",
+              "Rodney",
+              "Trigger"
+            ],
+            "Explanation": "Derek 'Del Boy' Trotter est un personnage attachant mais profondément imparfait, connu pour ses manigances et ses idées pour devenir riche rapidement à Peckham, dans le sud de Londres."
+          },
+          {
+            "Question": "Quelle série télévisée britannique dépeint la vie quotidienne des maladroits et geeks Moss et Roy du service informatique d'une entreprise?",
+            "TrueAnswer": "The IT Crowd",
+            "FalseAnswer": [
+              "Black Books",
+              "Spaced",
+              "The Mighty Boosh"
+            ],
+            "Explanation": "Créée par Graham Linehan, The IT Crowd dépeint avec humour l'inaptitude sociale et les rencontres surréalistes vécues par l'équipe informatique excentrique de Reynholm Industries."
+          },
+          {
+            "Question": "Quelle émission de télévision britannique suit les aventures d'une paire de délinquants vieillissants cherchant à éviter les ennuis dans l'ouest de Londres?",
+            "TrueAnswer": "Auf Wiedersehen, Pet",
+            "FalseAnswer": [
+              "Porridge",
+              "Steptoe and Son",
+              "Open All Hours"
+            ],
+            "Explanation": "Auf Wiedersehen, Pet tourne autour d'un groupe d'ouvriers du bâtiment migrants britanniques, appelés les 'Lads', se lançant dans des projets à travers le monde tout en affrontant des défis personnels et professionnels."
+          },
+          {
+            "Question": "Quelle série télévisée britannique dépeint la vie de six amis vivant à Manchester et faisant l'expérience des hauts et des bas de l'amitié, de l'amour et des carrières?",
+            "TrueAnswer": "Cold Feet",
+            "FalseAnswer": [
+              "This Life",
+              "Teachers",
+              "Skins"
+            ],
+            "Explanation": "Cold Feet suit les vies entremêlées de trois couples, mettant en scène les dynamiques relationnelles, les aspirations professionnelles et les complexités de la vie familiale moderne sur fond de Grande-Bretagne contemporaine."
+          },
+          {
+            "Question": "Dans 'The Office (UK)', quel est le nom du gérant cringeworthy et maladroit de la société de papeterie Wernham Hogg?",
+            "TrueAnswer": "David",
+            "FalseAnswer": [
+              "Tim",
+              "Gareth",
+              "Keith"
+            ],
+            "Explanation": "David Brent, interprété par Ricky Gervais, incarne l'inconfort et l'absurdité de la politique de bureau et la nature banale de la vie en entreprise dans cette sitcom de style mockumentaire."
+          },
+          {
+            "Question": "Quelle émission de télévision britannique est une adaptation des romans historiques de Bernard Cornwell, dépeignant l'invasion viking de la Grande-Bretagne?",
+            "TrueAnswer": "The Last Kingdom",
+            "FalseAnswer": [
+              "Vikings",
+              "Merlin",
+              "Black Sails"
+            ],
+            "Explanation": "The Last Kingdom dépeint la lutte d'Uhtred de Bebbanburg, un noble saxonne capturé enfant et élevé comme un Viking, déchiré entre ses allégeances des deux côtés lors de la période tumultueuse de l'histoire de la Grande-Bretagne."
+          },
+          {
+            "Question": "Quelle série télévisée britannique explore les épreuves et les tribulations d'un groupe d'amis vivant dans la communauté gay de Manchester dans les années 1980?",
+            "TrueAnswer": "Queer as Folk",
+            "FalseAnswer": [
+              "Cucumber",
+              "Skins",
+              "This Life"
+            ],
+            "Explanation": "Queer as Folk, créée par Russell T Davies, dépeignait la vie franche et sans excuses de ses personnages, abordant les questions d'amour, d'acceptation et des défis socio-politiques de l'époque."
+          }
+        ]
+      }
+    }
+  ]
+}

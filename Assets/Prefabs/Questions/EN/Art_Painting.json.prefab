@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6146948168422367319
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 497864149264657191}
+  - component: {fileID: 8430142084330059871}
+  m_Layer: 0
+  m_Name: Art_Painting.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &497864149264657191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6146948168422367319}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8430142084330059871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6146948168422367319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous artwork 'Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Michelangelo
+      Explanation: "Vincent van Gogh painted 'Starry Night' in 1889 while he was
+        in the Saint-Paul-de-Mausole asylum in Saint-R\xE9my-de-Provence. The swirling
+        sky and bright stars depict his emotional state during that period."
+    - Question: What is the technique of applying water-based paint onto wet plaster?
+      TrueAnswer: Fresco
+      FalseAnswer:
+      - Impasto
+      - Sfumato
+      - Chiaroscuro
+      Explanation: Fresco is a painting technique that involves applying pigments
+        mixed with water onto a layer of wet plaster. It requires skill and speed,
+        as the paint becomes a permanent part of the wall as it dries.
+    - Question: Which famous painting is housed in the Louvre Museum?
+      TrueAnswer: Mona Lisa
+      FalseAnswer:
+      - The Scream
+      - The Starry Night
+      - The Last Supper
+      Explanation: The 'Mona Lisa' is one of the most famous paintings in the world
+        and is displayed in the Louvre Museum in Paris. Created by Leonardo da Vinci,
+        it is renowned for the enigmatic smile of the subject.
+    - Question: Who is known for his 'drip painting' technique?
+      TrueAnswer: Jackson Pollock
+      FalseAnswer:
+      - Piet Mondrian
+      - Salvador Dali
+      - Claude Monet
+      Explanation: Jackson Pollock is famous for his unique 'drip painting' technique,
+        which involved pouring and dripping paint onto a canvas laid on the floor.
+        This method allowed him to create highly expressive and dynamic artworks.
+    - Question: Which artist is associated with the creation of 'Guernica'?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Vincent van Gogh
+      - Rembrandt
+      - Georgia O'Keeffe
+      Explanation: Pablo Picasso created the powerful anti-war painting 'Guernica'
+        in response to the bombing of the Basque town during the Spanish Civil War.
+        The mural-sized artwork is a symbol of suffering and inhumanity of war.
+    - Question: Who is famous for painting the ceiling of the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Donatello
+      - Raphael
+      - Caravaggio
+      Explanation: Michelangelo is renowned for painting the ceiling of the Sistine
+        Chapel in Vatican City. The masterpiece includes iconic frescoes such as
+        'The Creation of Adam' and 'The Last Judgment,' showcasing his unparalleled
+        skill and artistry.
+    - Question: Which artistic movement is characterized by dreamlike and mysterious
+        imagery?
+      TrueAnswer: Surrealism
+      FalseAnswer:
+      - Impressionism
+      - Cubism
+      - Baroque
+      Explanation: "Surrealism is an artistic movement that emerged in the early
+        20th century, emphasizing the expression of the subconscious mind. Artists
+        like Salvador Dali and Ren\xE9 Magritte created enigmatic and dreamlike artworks."
+    - Question: Who painted 'The Birth of Venus' depicting the goddess Venus rising
+        from the sea?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Titian
+      - Raphael
+      - Leonardo da Vinci
+      Explanation: Sandro Botticelli, a renowned Italian artist, painted 'The Birth
+        of Venus' in the mid-1480s. The painting, symbolizing beauty and love, is
+        a celebrated example of Renaissance art and remains a popular masterpiece.
+    - Question: Which color is not a primary color in traditional painting?
+      TrueAnswer: Brown
+      FalseAnswer:
+      - Red
+      - Blue
+      - Yellow
+      Explanation: Traditionally, the primary colors in painting are red, blue, and
+        yellow. These colors can be mixed to create a wide range of other colors.
+        Brown is a secondary color formed by mixing complements.
+    - Question: What refers to the overall design or organization of a painting's
+        elements?
+      TrueAnswer: Composition
+      FalseAnswer:
+      - Texture
+      - Contrast
+      - Balance
+      Explanation: Composition in painting encompasses the arrangement and relationship
+        of visual elements such as lines, shapes, colors, and textures. It plays
+        a crucial role in guiding the viewer's eye and creating a harmonious visual
+        experience.

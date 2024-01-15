@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8129021924764433363
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5346304255909422165}
+  - component: {fileID: 7075553795728013702}
+  m_Layer: 0
+  m_Name: Sports_Sports and International Diplomacy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5346304255909422165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8129021924764433363}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7075553795728013702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8129021924764433363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country hosted the 2018 FIFA World Cup?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - France
+      Explanation: Russia hosted the 2018 FIFA World Cup, which was the 21st edition
+        of the tournament.
+    - Question: Which country boycotted the 1980 Summer Olympics held in Moscow?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Soviet Union
+      - China
+      - United Kingdom
+      Explanation: The United States boycotted the 1980 Summer Olympics in Moscow
+        as a protest against the Soviet invasion of Afghanistan.
+    - Question: Which country won the most gold medals in the 2016 Summer Olympics?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Great Britain
+      Explanation: The United States won the most gold medals in the 2016 Summer
+        Olympics held in Rio de Janeiro, Brazil.
+    - Question: Which country hosted the 2014 Winter Olympics?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - Canada
+      - Norway
+      - South Korea
+      Explanation: Russia hosted the 2014 Winter Olympics in Sochi, becoming the
+        first post-Soviet nation to host the Winter Games.
+    - Question: Which country won the most medals in the 2008 Summer Olympics?
+      TrueAnswer: China
+      FalseAnswer:
+      - United States
+      - Russia
+      - Germany
+      Explanation: China won the most medals in the 2008 Summer Olympics held in
+        Beijing, China.
+    - Question: Which country hosted the 2010 FIFA World Cup?
+      TrueAnswer: South Africa
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Spain
+      Explanation: South Africa hosted the 2010 FIFA World Cup, becoming the first
+        African nation to host the tournament.
+    - Question: Which country won the most gold medals in the 2012 Summer Olympics?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Great Britain
+      Explanation: The United States won the most gold medals in the 2012 Summer
+        Olympics held in London, United Kingdom.
+    - Question: Which country hosted the 2006 FIFA World Cup?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - Brazil
+      - Italy
+      - France
+      Explanation: Germany hosted the 2006 FIFA World Cup, which was the 18th edition
+        of the tournament.
+    - Question: Which country won the most medals in the 2018 Winter Olympics?
+      TrueAnswer: Norway
+      FalseAnswer:
+      - United States
+      - Germany
+      - Canada
+      Explanation: Norway won the most medals in the 2018 Winter Olympics held in
+        Pyeongchang, South Korea.
+    - Question: Which country hosted the 2008 Summer Olympics?
+      TrueAnswer: China
+      FalseAnswer:
+      - United States
+      - Russia
+      - Australia
+      Explanation: China hosted the 2008 Summer Olympics in Beijing, becoming the
+        first Asian country to host the Games.
+    - Question: Which country won the most gold medals in the 2004 Summer Olympics?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Australia
+      Explanation: The United States won the most gold medals in the 2004 Summer
+        Olympics held in Athens, Greece.
+    - Question: Which country hosted the 2002 FIFA World Cup?
+      TrueAnswer: South Korea and Japan
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - France
+      Explanation: South Korea and Japan jointly hosted the 2002 FIFA World Cup,
+        becoming the first World Cup held in Asia.
+    - Question: Which country won the most medals in the 2016 Summer Olympics?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Great Britain
+      Explanation: The United States won the most medals in the 2016 Summer Olympics
+        held in Rio de Janeiro, Brazil.
+    - Question: Which country hosted the 1998 FIFA World Cup?
+      TrueAnswer: France
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Italy
+      Explanation: France hosted the 1998 FIFA World Cup, which was the 16th edition
+        of the tournament.
+    - Question: Which country won the most gold medals in the 2000 Summer Olympics?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Australia
+      Explanation: The United States won the most gold medals in the 2000 Summer
+        Olympics held in Sydney, Australia.
+    - Question: Which country hosted the 1994 FIFA World Cup?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Italy
+      Explanation: The United States hosted the 1994 FIFA World Cup, which was the
+        15th edition of the tournament.
+    - Question: Which country won the most medals in the 2006 Winter Olympics?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - United States
+      - Russia
+      - Canada
+      Explanation: Germany won the most medals in the 2006 Winter Olympics held in
+        Turin, Italy.
+    - Question: Which country hosted the 1986 FIFA World Cup?
+      TrueAnswer: Mexico
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Italy
+      Explanation: Mexico hosted the 1986 FIFA World Cup, which was the 13th edition
+        of the tournament.
+    - Question: Which country won the most gold medals in the 1996 Summer Olympics?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Germany
+      Explanation: The United States won the most gold medals in the 1996 Summer
+        Olympics held in Atlanta, United States.
+    - Question: Which country hosted the 1982 FIFA World Cup?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Italy
+      Explanation: Spain hosted the 1982 FIFA World Cup, which was the 12th edition
+        of the tournament.

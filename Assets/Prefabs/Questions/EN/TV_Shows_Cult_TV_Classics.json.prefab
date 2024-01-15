@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3918214240551173555
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2759919610424022118}
+  - component: {fileID: 7492184367105572053}
+  m_Layer: 0
+  m_Name: TV_Shows_Cult_TV_Classics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2759919610424022118
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3918214240551173555}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7492184367105572053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3918214240551173555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show is set in the fictional city of Sunnydale?
+      TrueAnswer: Buffy the Vampire Slayer
+      FalseAnswer:
+      - Supernatural
+      - X-Files
+      - Twin Peaks
+      Explanation: Buffy the Vampire Slayer is set in the fictional Californian town
+        of Sunnydale, where the main protagonist battles vampires and other supernatural
+        entities.
+    - Question: 'What is the name of Captain Picard''s ship in Star Trek: The Next
+        Generation?'
+      TrueAnswer: USS Enterprise
+      FalseAnswer:
+      - USS Voyager
+      - USS Discovery
+      - USS Defiant
+      Explanation: 'Captain Picard is the commanding officer of the USS Enterprise
+        (NCC-1701-D) in Star Trek: The Next Generation, with the ship being a vital
+        part of the show''s narrative.'
+    - Question: In The X-Files, which department is Fox Mulder from?
+      TrueAnswer: FBI
+      FalseAnswer:
+      - CIA
+      - NSA
+      - DEA
+      Explanation: Fox Mulder is an FBI special agent in The X-Files, leading the
+        unsolved cases unit known as the X-Files, which involves paranormal phenomena.
+    - Question: Who is the creator of the cult classic TV show Twin Peaks?
+      TrueAnswer: David Lynch
+      FalseAnswer:
+      - Quentin Tarantino
+      - Stanley Kubrick
+      - Martin Scorsese
+      Explanation: David Lynch is the co-creator and director of Twin Peaks, a groundbreaking
+        series known for its surrealism and mystery in a small town setting.
+    - Question: Which TV show features a group of survivors in a post-apocalyptic
+        world fighting zombies?
+      TrueAnswer: The Walking Dead
+      FalseAnswer:
+      - Lost
+      - Breaking Bad
+      - Stranger Things
+      Explanation: The Walking Dead follows a group of survivors who navigate a world
+        overrun by zombies, exploring human nature and morality in an apocalyptic
+        setting.

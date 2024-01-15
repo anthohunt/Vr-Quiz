@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3807399412420799410
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7105295164539467435}
+  - component: {fileID: 195586938073789527}
+  m_Layer: 0
+  m_Name: Video_Games_Cooperative_(Co-op)_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7105295164539467435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3807399412420799410}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &195586938073789527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3807399412420799410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which game requires players to work together to survive a zombie
+        apocalypse?
+      TrueAnswer: Left 4 Dead
+      FalseAnswer:
+      - Halo
+      - Overwatch
+      - Fortnite
+      Explanation: In 'Left 4 Dead,' players must cooperate to fend off hordes of
+        infected and reach safe zones.
+    - Question: What does 'FPS' stand for in the context of cooperative shooters?
+      TrueAnswer: First-Person Shooter
+      FalseAnswer:
+      - Fast-Paced Strategy
+      - Full-Player Session
+      - Free-Play Style
+      Explanation: FPS games like 'Rainbow Six Siege' and 'Borderlands' offer cooperative
+        gameplay from a first-person perspective.
+    - Question: In 'Portal 2,' who accompanies Chell in the cooperative mode?
+      TrueAnswer: Atlas and P-Body
+      FalseAnswer:
+      - GLaDOS
+      - Wheatley
+      - Companion Cube
+      Explanation: Atlas and P-Body are humanoid robots guided by GLaDOS to solve
+        complex puzzles in cooperative chambers.
+    - Question: Which game encourages players to team up for heists and missions
+        in a fictional city?
+      TrueAnswer: Grand Theft Auto V
+      FalseAnswer:
+      - Red Dead Redemption 2
+      - Minecraft
+      - Fortnite
+      Explanation: In 'GTA V,' players partake in cooperative missions and heists
+        in a fictional city called Los Santos.
+    - Question: What is the primary objective for players in 'A Way Out'?
+      TrueAnswer: Escape from prison
+      FalseAnswer:
+      - Solve puzzles
+      - Survive a zombie outbreak
+      - Win a race
+      Explanation: In 'A Way Out,' two players work together to execute a prison
+        break and embark on a journey to gain freedom.
+    - Question: Which game features a team of four players coordinating to complete
+        various missions set in a post-pandemic world?
+      TrueAnswer: The Division 2
+      FalseAnswer:
+      - Rocket League
+      - 'Animal Crossing: New Horizons'
+      - Minecraft
+      Explanation: In 'The Division 2,' players cooperate to restore order in a dystopian
+        landscape after a widespread virus outbreak.
+    - Question: What is the objective of players in 'Keep Talking and Nobody Explodes'?
+      TrueAnswer: Defusing a bomb
+      FalseAnswer:
+      - Building a city
+      - Solving a mystery
+      - Surviving a disaster
+      Explanation: In 'Keep Talking and Nobody Explodes,' one player defuses a bomb
+        while others guide through provided bomb-defusal manuals.
+    - Question: Which game involves players working together to construct and manage
+        a virtual farm?
+      TrueAnswer: Stardew Valley
+      FalseAnswer:
+      - Call of Duty
+      - League of Legends
+      - Fortnite
+      Explanation: In 'Stardew Valley,' players collectively cultivate a farm, interact
+        with villagers, and explore the countryside.
+    - Question: 'In ''Monster Hunter: World,'' what is the primary objective of cooperative
+        gameplay?'
+      TrueAnswer: Hunting and slaying large monsters
+      FalseAnswer:
+      - Solving puzzles
+      - Building a city
+      - Racing cars
+      Explanation: 'In ''Monster Hunter: World,'' players team up to track and battle
+        formidable creatures in diverse environments.'
+    - Question: Which game allows players to collaborate to construct elaborate structures
+        and defend against nocturnal creatures?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - The Sims
+      - FIFA
+      - World of Warcraft
+      Explanation: In 'Minecraft,' cooperative players gather resources, build shelters,
+        and fend off hostile mobs in a voxel-based world.
+    - Question: What type of game mechanics are prominent in cooperative platformers
+        like 'Rayman Legends'?
+      TrueAnswer: Teamwork and coordination
+      FalseAnswer:
+      - Solo exploration
+      - Time trials
+      - Combat encounters
+      Explanation: In games like 'Rayman Legends,' cooperative gameplay emphasizes
+        teamwork to overcome complex platforming challenges.
+    - Question: What is the primary role each player takes on in cooperative multiplayer
+        modes of 'Tom Clancy's Ghost Recon' games?
+      TrueAnswer: Tactical combat specialist
+      FalseAnswer:
+      - Medic
+      - Pilot
+      - Scout
+      Explanation: In 'Ghost Recon' games, players cooperate as specialists, utilizing
+        tactics and specialized abilities for mission success.
+    - Question: Which game features a squad of players collaborating to complete
+        high-stakes raids and missions in a science fiction universe?
+      TrueAnswer: Destiny 2
+      FalseAnswer:
+      - The Legend of Zelda
+      - "Pok\xE9mon Go"
+      - Sims 4
+      Explanation: In 'Destiny 2,' fireteams of Guardians engage in cooperative multiplayer
+        activities on various planets and moons.
+    - Question: What does 'LFG' stand for in the context of cooperative gameplay?
+      TrueAnswer: Looking for Group
+      FalseAnswer:
+      - Let's Fight Giants
+      - Loot for Gold
+      - Lost in Fantasy Galaxy
+      Explanation: In gaming communities, 'LFG' is used to indicate that a player
+        is seeking a group to engage in cooperative activities.
+    - Question: Which game encourages players to team up to clear dungeons, defeat
+        powerful bosses, and obtain valuable loot?
+      TrueAnswer: Diablo III
+      FalseAnswer:
+      - FIFA 21
+      - The Last of Us
+      - Tetris
+      Explanation: In 'Diablo III,' cooperative multiplayer allows players to tackle
+        challenging dungeons and combat formidable foes together.
+    - Question: 'What is the primary objective for players in ''Divinity: Original
+        Sin 2'' cooperative mode?'
+      TrueAnswer: Solving quests and battling enemies
+      FalseAnswer:
+      - Racing cars
+      - Cooking meals
+      - Building a city
+      Explanation: '''Divinity: Original Sin 2'' emphasizes cooperative storytelling,
+        quest-solving, and tactical combat against diverse enemies.'
+    - Question: Which game features a team-based mode where players work together
+        to secure objectives and outmaneuver opponents?
+      TrueAnswer: Overwatch
+      FalseAnswer:
+      - Candy Crush
+      - PUBG
+      - Tetris
+      Explanation: In 'Overwatch,' cooperative teamwork is essential to secure objectives
+        and counter the opposing team's strategies.
+    - Question: Which game tasks players with collaborating to pilot futuristic combat
+        mechs and engage in team-based battles?
+      TrueAnswer: Titanfall 2
+      FalseAnswer:
+      - 'Animal Crossing: New Horizons'
+      - Farming Simulator
+      - Grand Theft Auto V
+      Explanation: In 'Titanfall 2,' players work together to control mechs and participate
+        in fast-paced, team-based combat scenarios.
+    - Question: 'What is the primary objective for players in ''Warhammer: Vermintide
+        2''?'
+      TrueAnswer: Surviving hordes of enemies
+      FalseAnswer:
+      - Solving riddles
+      - Cooking meals
+      - Exploring the wilderness
+      Explanation: In 'Vermintide 2,' cooperative players must survive relentless
+        hordes of enemies in a dark and gritty fantasy world.
+    - Question: Which game emphasizes cooperative teamwork to plan and execute high-stakes
+        heists and robberies?
+      TrueAnswer: Payday 2
+      FalseAnswer:
+      - 'The Elder Scrolls V: Skyrim'
+      - Just Dance
+      - Minecraft
+      Explanation: In 'Payday 2,' players coordinate to plan and execute elaborate
+        heists while evading law enforcement.

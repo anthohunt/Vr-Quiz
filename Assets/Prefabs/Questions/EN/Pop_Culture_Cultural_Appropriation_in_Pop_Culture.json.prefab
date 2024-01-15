@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3612047025561643863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2436763986023063715}
+  - component: {fileID: 8846649737114763276}
+  m_Layer: 0
+  m_Name: Pop_Culture_Cultural_Appropriation_in_Pop_Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2436763986023063715
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3612047025561643863}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8846649737114763276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3612047025561643863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What rapper's stage name is derived from the Outlaw Immortal?
+      TrueAnswer: 2Pac
+      FalseAnswer:
+      - Eminem
+      - Jay Z
+      - Drake
+      Explanation: 2Pac's stage name derived from the words 'Tupac Amaru', a Peruvian
+        revolutionary who led an indigenous uprising against Spanish rule in the
+        18th century.
+    - Question: Which pop star received backlash for wearing a bindi at the 2013
+        Billboard Music Awards?
+      TrueAnswer: Selena Gomez
+      FalseAnswer:
+      - Ariana Grande
+      - Taylor Swift
+      - "Beyonc\xE9"
+      Explanation: Selena Gomez faced criticism for cultural appropriation when she
+        wore a bindi, a religious Hindu symbol, as a fashion accessory during her
+        performance.
+    - Question: Which fashion brand faced criticism for cultural appropriation with
+        its 'Bo Derek' braids hairstyle?
+      TrueAnswer: Marc Jacobs
+      FalseAnswer:
+      - Gucci
+      - Versace
+      - Prada
+      Explanation: Marc Jacobs faced backlash for using 'Bo Derek' braids on predominantly
+        white models, appropriating a traditional African hairstyle without credit
+        to the culture.
+    - Question: In the music video 'This Is America', who is the artist that addressed
+        cultural appropriation and injustice?
+      TrueAnswer: Childish Gambino
+      FalseAnswer:
+      - Kendrick Lamar
+      - Drake
+      - Jay Z
+      Explanation: Childish Gambino's 'This Is America' highlights cultural appropriation
+        and racial injustice, sparking discussions on the exploitation of black culture.
+    - Question: Which actress received criticism for wearing cornrows, a traditional
+        African hairstyle, at the Oscars?
+      TrueAnswer: Zendaya
+      FalseAnswer:
+      - Emma Stone
+      - Jennifer Lawrence
+      - Scarlett Johansson
+      Explanation: Zendaya was praised for calling out Giuliana Rancic's ignorant
+        comments and addressed the issue of cultural appropriation in Hollywood.

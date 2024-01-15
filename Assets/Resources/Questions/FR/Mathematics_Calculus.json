@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la dérivée de x^2?",
+            "TrueAnswer": "2x",
+            "FalseAnswer": [
+              "x^2",
+              "x",
+              "x^3"
+            ],
+            "Explanation": "La dérivée de x^2 est 2x. En général, la règle de puissance stipule que la dérivée de x^n est nx^(n-1)."
+          },
+          {
+            "Question": "En intégration, quelle opération est l'inverse de la différentiation?",
+            "TrueAnswer": "Antidifférenciation",
+            "FalseAnswer": [
+              "Exponentiation",
+              "Logarithme",
+              "Substitution"
+            ],
+            "Explanation": "L'opération inverse de la différentiation est l'antidifférenciation, ou trouver l'intégrale. Elle est notée par le symbole intégrale ∫."
+          },
+          {
+            "Question": "Que vaut lim(x->3) (2x+1)?",
+            "TrueAnswer": "7",
+            "FalseAnswer": [
+              "12",
+              "5",
+              "0"
+            ],
+            "Explanation": "La limite de (2x+1) lorsque x approche 3 est 7. Évaluer les limites aide à déterminer le comportement des fonctions autour de points spécifiques."
+          },
+          {
+            "Question": "Quelle est l'aire sous la courbe de y = x^2 de x=0 à x=2?",
+            "TrueAnswer": "4/3",
+            "FalseAnswer": [
+              "2",
+              "8/3",
+              "1"
+            ],
+            "Explanation": "L'aire sous la courbe y = x^2 de x=0 à x=2 est 4/3. Cela peut être résolu en utilisant des intégrales définies."
+          },
+          {
+            "Question": "Quand la dérivée d'une fonction représente-t-elle le taux de changement?",
+            "TrueAnswer": "En un point spécifique ou instantané",
+            "FalseAnswer": [
+              "Sur un intervalle",
+              "À la valeur moyenne",
+              "À la valeur maximale"
+            ],
+            "Explanation": "La dérivée d'une fonction représente le taux de changement en un point spécifique ou instantané, fournissant un aperçu du comportement de la fonction."
+          },
+          {
+            "Question": "Quelle est la formule de la dérivée de sin(x)?",
+            "TrueAnswer": "cos(x)",
+            "FalseAnswer": [
+              "sin(x)",
+              "-sin(x)",
+              "-cos(x)"
+            ],
+            "Explanation": "La dérivée de sin(x) est cos(x). Elle illustre la dérivée des fonctions trigonométriques avec des règles de différenciation spécifiques."
+          },
+          {
+            "Question": "Quelle règle est utilisée pour trouver la dérivée de e^x?",
+            "TrueAnswer": "La règle de la fonction exponentielle",
+            "FalseAnswer": [
+              "La règle du produit",
+              "La règle de puissance",
+              "La règle du quotient"
+            ],
+            "Explanation": "La dérivée de e^x est trouvée en utilisant la règle de la fonction exponentielle, qui énonce que la dérivée de e^x est e^x elle-même."
+          },
+          {
+            "Question": "Quelle est la dérivée de ln(x)?",
+            "TrueAnswer": "1/x",
+            "FalseAnswer": [
+              "x",
+              "ln(x)^2",
+              "2/x"
+            ],
+            "Explanation": "La dérivée de ln(x) est 1/x. Il s'agit de l'une des dérivées fondamentales impliquant des fonctions logarithmiques naturelles."
+          },
+          {
+            "Question": "Que vaut lim(x->0) (sin(x)/x)?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "0",
+              "∞",
+              "π"
+            ],
+            "Explanation": "La limite de sin(x)/x lorsque x approche de 0 est 1. Il s'agit d'une limite fondamentale importante en calcul et en trigonométrie."
+          },
+          {
+            "Question": "Quelle technique est utilisée pour trouver l'aire entre deux courbes?",
+            "TrueAnswer": "L'intégration",
+            "FalseAnswer": [
+              "La différentiation",
+              "La substitution",
+              "L'expansion en série"
+            ],
+            "Explanation": "Pour trouver l'aire entre deux courbes, l'intégration est utilisée, notamment avec le concept de trouver la différence entre les deux fonctions de courbe."
+          },
+          {
+            "Question": "Que vaut d/dx (x^n)?",
+            "TrueAnswer": "nx^(n-1)",
+            "FalseAnswer": [
+              "nx^n",
+              "n-1*x^(n-1)",
+              "x^(n-1)"
+            ],
+            "Explanation": "La dérivée de x^n par rapport à x est nx^(n-1). Cela suit la règle de puissance pour la différenciation en calcul."
+          },
+          {
+            "Question": "Quand une fonction est-elle continue sur un intervalle fermé [a, b]?",
+            "TrueAnswer": "Lorsqu'elle est continue à chaque point dans (a, b), et en a et b",
+            "FalseAnswer": [
+              "Lorsqu'elle est différentiable",
+              "Lorsqu'elle n'a pas de virages brusques",
+              "Lorsqu'elle a des maxima et minima"
+            ],
+            "Explanation": "Une fonction est continue sur un intervalle fermé [a, b] si elle est continue à chaque point dans l'intervalle ouvert (a, b) et en a et b. Cela garantit qu'il n'y a pas de ruptures ou de sauts dans le graphe."
+          },
+          {
+            "Question": "Quelle est la seconde dérivée de f(x) = x^3?",
+            "TrueAnswer": "6x",
+            "FalseAnswer": [
+              "x^2",
+              "3x^2",
+              "6"
+            ],
+            "Explanation": "La seconde dérivée de f(x) = x^3 est 6x. Elle représente le taux de changement du taux de changement, fournissant des informations sur le comportement de la fonction."
+          },
+          {
+            "Question": "Que peut exprimer la seconde dérivée au sujet d'une fonction?",
+            "TrueAnswer": "La concavité",
+            "FalseAnswer": [
+              "La pente",
+              "L'aire",
+              "Les racines"
+            ],
+            "Explanation": "La seconde dérivée donne des informations sur la concavité d'une fonction, indiquant si le graphe se courbe vers le haut ou vers le bas à un point spécifique."
+          },
+          {
+            "Question": "Que transmet la limite à droite lorsque x approche c+ de f(x)?",
+            "TrueAnswer": "Le comportement de la fonction lorsque x approche c depuis la droite",
+            "FalseAnswer": [
+              "L'aire sous la courbe",
+              "La pente de la tangente",
+              "Les extrema locaux"
+            ],
+            "Explanation": "La limite à droite lorsque x approche c+ de f(x) décrit le comportement de la fonction lorsque x approche de la valeur spécifique c depuis le côté droit, offrant des informations sur la continuité de la fonction."
+          },
+          {
+            "Question": "Quelle est l'aire sous la courbe de y = ln(x) de x=1 à x=e?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "e",
+              "0",
+              "2"
+            ],
+            "Explanation": "L'aire sous la courbe y = ln(x) de x=1 à x=e est 1. Cela peut être trouvé en utilisant des intégrales définies, offrant des informations sur la fonction logarithmique naturelle."
+          },
+          {
+            "Question": "Quelle est la dérivée de cos(x)?",
+            "TrueAnswer": "-sin(x)",
+            "FalseAnswer": [
+              "cos(x)",
+              "sin(x)",
+              "-cos(x)"
+            ],
+            "Explanation": "La dérivée de cos(x) est -sin(x). Elle correspond à la règle de différenciation des fonctions trigonométriques et a des implications dans différents domaines, y compris la physique et l'ingénierie."
+          },
+          {
+            "Question": "Quel est le résultat de d/dx (e^(-2x))?",
+            "TrueAnswer": "-2e^(-2x)",
+            "FalseAnswer": [
+              "2e^(-2x)",
+              "-e^(2x)",
+              "e^(-2x)"
+            ],
+            "Explanation": "La dérivée de e^(-2x) est -2e^(-2x). Cela illustre la règle de différenciation pour la fonction exponentielle avec un exposant négatif."
+          },
+          {
+            "Question": "Quelle est l'intégrale de 2x par rapport à x?",
+            "TrueAnswer": "x^2 + C",
+            "FalseAnswer": [
+              "2x^2",
+              "2",
+              "2x + C"
+            ],
+            "Explanation": "L'intégrale de 2x par rapport à x est x^2 + C, où C représente la constante d'intégration. Cela démontre la règle de puissance de l'intégration."
+          },
+          {
+            "Question": "En calcul, comment s'appelle le processus pour trouver les valeurs maximales et minimales d'une fonction?",
+            "TrueAnswer": "Optimisation",
+            "FalseAnswer": [
+              "Différentiation",
+              "Intégration",
+              "Évaluation de limite"
+            ],
+            "Explanation": "Le processus en calcul pour trouver les valeurs maximales et minimales d'une fonction s'appelle l'optimisation, impliquant des techniques telles que trouver les points critiques et utiliser les tests de première ou seconde dérivée."
+          }
+        ]
+      }
+    }
+  ]
+}

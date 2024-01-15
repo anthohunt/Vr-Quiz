@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2488348581586979618
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3228274067729520754}
+  - component: {fileID: 8460196150382951879}
+  m_Layer: 0
+  m_Name: Mathematics_Mathematical_Analysis.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3228274067729520754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2488348581586979618}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8460196150382951879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2488348581586979618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the definition of a limit in Mathematical Analysis?
+      TrueAnswer: An accumulation point
+      FalseAnswer:
+      - An isolated point
+      - An endpoint
+      - An average
+      Explanation: In Mathematical Analysis, a limit refers to a value that a function
+        or sequence 'approaches' as the input or index approaches some value. It
+        is often described as an accumulation point of the function or sequence.
+    - Question: What is the derivative of a constant function in Mathematical Analysis?
+      TrueAnswer: Zero
+      FalseAnswer:
+      - One
+      - Infinity
+      - The value of the constant
+      Explanation: The derivative of a constant function is always zero. This is
+        because the rate of change of a constant function is constant, and therefore
+        its derivative is zero.
+    - Question: What does the Riemann integral represent in Mathematical Analysis?
+      TrueAnswer: The area under a curve
+      FalseAnswer:
+      - The slope of a tangent line
+      - The rate of change
+      - The limit of a function
+      Explanation: The Riemann integral represents the area under a curve. It is
+        a fundamental concept in integral calculus and is used to find the total
+        accumulation of a quantity over a given interval.
+    - Question: What is the value of the binomial coefficient '6 choose 3' in Mathematical
+        Analysis?
+      TrueAnswer: 20
+      FalseAnswer:
+      - 4
+      - 9
+      - 15
+      Explanation: The binomial coefficient '6 choose 3' represents the number of
+        ways to choose 3 items from a set of 6 items, and is equal to 20. This concept
+        is important in combinatorics and probability theory.
+    - Question: What is the convergence of the series 1 + 1/2 + 1/3 + 1/4 + ... in
+        Mathematical Analysis?
+      TrueAnswer: Divergent
+      FalseAnswer:
+      - Convergent
+      - Alternating
+      - Negative
+      Explanation: The harmonic series 1 + 1/2 + 1/3 + 1/4 + ... diverges, meaning
+        that its partial sums grow without bound. This is a classic result in the
+        study of series convergence and divergence.
+    - Question: What is the value of the limit lim(x->0) (sin(x)/x) in Mathematical
+        Analysis?
+      TrueAnswer: 1
+      FalseAnswer:
+      - 0
+      - Infinity
+      - Undefined
+      Explanation: The limit lim(x->0) (sin(x)/x) equals 1. This concept is fundamental
+        in calculus and is known as the 'sine of small angle' limit, with significant
+        applications in various areas of mathematics and science.
+    - Question: What is the definition of a continuous function in Mathematical Analysis?
+      TrueAnswer: A function with no abrupt jumps
+      FalseAnswer:
+      - A function with a derivative
+      - A function with integral
+      - A function with a fixed point
+      Explanation: A continuous function is a function without any abrupt jumps,
+        breaks, or holes. This property allows for smooth transitions and is a key
+        concept in the study of limits and calculus.
+    - Question: What does the term 'local maximum' refer to in Mathematical Analysis?
+      TrueAnswer: A peak in a specific region
+      FalseAnswer:
+      - The highest point in the function
+      - The global maximum
+      - A critical point
+      Explanation: A local maximum refers to a peak in a specific region or interval
+        of a function, not necessarily the highest point overall. It represents a
+        relative maximum within a local neighborhood of the function.
+    - Question: What is the definition of a Taylor series in Mathematical Analysis?
+      TrueAnswer: An infinite sum of derivatives
+      FalseAnswer:
+      - A finite sum of derivatives
+      - An infinite sum of integrals
+      - An approximation of the function
+      Explanation: A Taylor series is an infinite sum of derivatives of a function
+        at a particular point. It provides a way to represent a function as an infinite
+        sum, allowing for approximations and insights into its behavior.
+    - Question: What is the value of the integral of x^2 from 0 to 1 in Mathematical
+        Analysis?
+      TrueAnswer: 1/3
+      FalseAnswer:
+      - 1/2
+      - 1
+      - 1/4
+      Explanation: The integral of x^2 from 0 to 1 is equal to 1/3. This area under
+        the curve represents the accumulated value of the function x^2 over the interval
+        [0, 1], a fundamental concept in integral calculus.
+    - Question: What is the definition of a removable discontinuity in Mathematical
+        Analysis?
+      TrueAnswer: A hole in the graph
+      FalseAnswer:
+      - An infinite jump
+      - An asymptote
+      - A critical point
+      Explanation: A removable discontinuity refers to a hole in the graph of a function,
+        where the function could be redefined at that point to make it continuous.
+        It is a type of discontinuity with specific characteristics.
+    - Question: What is the radius of convergence of a power series in Mathematical
+        Analysis?
+      TrueAnswer: The distance to the nearest singularity
+      FalseAnswer:
+      - The sum of the series
+      - The number of terms
+      - The length of the arc
+      Explanation: The radius of convergence of a power series represents the distance
+        from the center of the series to the nearest point where the series fails
+        to converge. It is a critical concept in complex analysis and power series
+        behavior.
+    - Question: What is the definition of a Cauchy sequence in Mathematical Analysis?
+      TrueAnswer: A sequence with convergent differences
+      FalseAnswer:
+      - An alternating sequence
+      - A decreasing sequence
+      - A divergent sequence
+      Explanation: A Cauchy sequence is a fundamental concept in analysis, representing
+        a sequence in which the differences between consecutive terms approach zero,
+        indicating convergence. It is named after the mathematician Augustin-Louis
+        Cauchy.
+    - Question: What is the value of the derivative of e^x in Mathematical Analysis?
+      TrueAnswer: e^x
+      FalseAnswer:
+      - 0
+      - 1
+      - x^e
+      Explanation: The derivative of e^x is equal to e^x, representing the remarkable
+        property of the exponential function. This concept is fundamental in calculus
+        and has numerous applications in areas such as physics and engineering.
+    - Question: What does the term 'supremum' refer to in Mathematical Analysis?
+      TrueAnswer: The least upper bound
+      FalseAnswer:
+      - The greatest lower bound
+      - The absolute maximum
+      - The inflection point
+      Explanation: The supremum of a set is the least upper bound, meaning it is
+        the smallest real number that is greater than or equal to all the elements
+        of the set. It is a key concept in the study of real analysis and has applications
+        in various fields.
+    - Question: What is the solution to the equation x^2 - 4 = 0 in Mathematical
+        Analysis?
+      TrueAnswer: "x = \xB12"
+      FalseAnswer:
+      - "x = \xB11"
+      - "x = \xB13"
+      - x = 0
+      Explanation: "The equation x^2 - 4 = 0 has solutions x = \xB12. These are the
+        values of x that satisfy the equation and are fundamental concepts in the
+        study of quadratic equations and their roots."
+    - Question: What is the definition of a convergent sequence in Mathematical Analysis?
+      TrueAnswer: A sequence with a limit
+      FalseAnswer:
+      - A sequence with infinite terms
+      - A sequence with alternating terms
+      - A sequence with no pattern
+      Explanation: A convergent sequence is a sequence in which the terms 'get close'
+        to a specific value as the sequence progresses, ultimately approaching a
+        fixed limit. This is a core concept in real analysis and the study of limits.
+    - Question: "What is the value of the sum \u2211(k=1 to \u221E) 1/k^2 in Mathematical
+        Analysis?"
+      TrueAnswer: "\u03C0^2/6"
+      FalseAnswer:
+      - 2
+      - 1
+      - "\u221E"
+      Explanation: "The sum of the infinite series \u2211(k=1 to \u221E) 1/k^2 is
+        \u03C0^2/6. This famous result known as the Basel problem has significant
+        implications in number theory, trigonometry, and the study of special functions."
+    - Question: What does the term 'uniform convergence' refer to in Mathematical
+        Analysis?
+      TrueAnswer: Convergence with a common rate
+      FalseAnswer:
+      - Convergence to different limits
+      - Convergence at specific points
+      - Convergence with alternating signs
+      Explanation: Uniform convergence refers to a convergence property of sequences
+        of functions, where the rate of convergence is independent of the specific
+        point in the domain. It is a fundamental concept in the theory of functions
+        and series convergence.
+    - Question: What is the definition of a limit point of a set in Mathematical
+        Analysis?
+      TrueAnswer: A point where any neighborhood contains points of the set
+      FalseAnswer:
+      - A point where the limit exists
+      - A fixed point of the set
+      - A point with no neighbors
+      Explanation: A limit point of a set is a point where every neighborhood of
+        the point contains points of the set. It serves as a measure of accumulation
+        and a fundamental concept in topology and real analysis.

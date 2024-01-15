@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7405456934863712037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7355846655543794392}
+  - component: {fileID: 2366671336549081139}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Furniture_Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7355846655543794392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7405456934863712037}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2366671336549081139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7405456934863712037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What famous designer created the Diamond Chair in 1952?
+      TrueAnswer: Harry Bertoia
+      FalseAnswer:
+      - Charles Eames
+      - Eero Saarinen
+      - Mies van der Rohe
+      Explanation: Harry Bertoia, an Italian designer, created the iconic Diamond
+        Chair for Knoll, using a unique wire construction in 1952.
+    - Question: Which material is not commonly used in mid-century modern furniture
+        design?
+      TrueAnswer: Plastic
+      FalseAnswer:
+      - Wood
+      - Metal
+      - Glass
+      Explanation: Mid-century modern furniture design is characterized by natural
+        materials such as wood, metal, and glass, but not plastic.
+    - Question: What makes Scandinavian furniture design distinct?
+      TrueAnswer: Minimalism
+      FalseAnswer:
+      - Ornate carvings
+      - Colorful patterns
+      - Baroque style
+      Explanation: Scandinavian furniture design emphasizes minimalism, clean lines,
+        and functionalism, reflecting the region's simple and practical lifestyles.
+    - Question: Who is known for the iconic 'Egg Chair' design from 1958?
+      TrueAnswer: Arne Jacobsen
+      FalseAnswer:
+      - Le Corbusier
+      - Philippe Starck
+      - Frank Lloyd Wright
+      Explanation: Arne Jacobsen, a Danish designer, created the Egg Chair for the
+        SAS Royal Hotel in Copenhagen, featuring a futuristic and organic shape.
+    - Question: What is a distinguishing feature of Bauhaus-style furniture design?
+      TrueAnswer: Geometric shapes
+      FalseAnswer:
+      - Floral motifs
+      - Ornate carvings
+      - Curved lines
+      Explanation: Bauhaus furniture design is characterized by the use of simple,
+        geometric shapes and clean lines, reflecting its functional and industrial
+        beginnings.
+    - Question: What furniture design movement focused on functionality and affordability
+        post-World War II?
+      TrueAnswer: Mid-century modern
+      FalseAnswer:
+      - Art Deco
+      - Victorian
+      - Rococo
+      Explanation: The mid-century modern movement emerged with a focus on simple,
+        practical designs accessible to the masses, often incorporating new materials
+        and technologies.
+    - Question: Which designer is renowned for the 'LC4 Chaise Longue' design?
+      TrueAnswer: Le Corbusier
+      FalseAnswer:
+      - Gerrit Rietveld
+      - Marcel Breuer
+      - Hans Wegner
+      Explanation: Le Corbusier, a Swiss-French architect, designed the LC4 Chaise
+        Longue as part of his iconic 'LC' collection known for its functional and
+        ergonomic forms.
+    - Question: What material is commonly used in the construction of Eames Lounge
+        Chair?
+      TrueAnswer: Walnut
+      FalseAnswer:
+      - Cherry
+      - Oak
+      - Rosewood
+      Explanation: The classic Eames Lounge Chair is often constructed with a walnut
+        shell, complemented with leather upholstery for a timeless and luxurious
+        appeal.
+    - Question: Which design principle influenced the 'Wassily Chair' by Marcel Breuer?
+      TrueAnswer: Bauhaus
+      FalseAnswer:
+      - Art Nouveau
+      - Cubism
+      - Art Deco
+      Explanation: Marcel Breuer, a Bauhaus student, designed the Wassily Chair using
+        tubular steel and leather, reflecting the Bauhaus movement's emphasis on
+        form and function.
+    - Question: What type of wood is synonymous with Scandinavian furniture design?
+      TrueAnswer: Teak
+      FalseAnswer:
+      - Mahogany
+      - Oak
+      - Pine
+      Explanation: Teak wood, prized for its durability and natural beauty, is a
+        hallmark of many Scandinavian furniture designs, complementing the minimalist
+        aesthetic.
+    - Question: Which designer is associated with the iconic 'Barcelona Chair' design?
+      TrueAnswer: Ludwig Mies van der Rohe
+      FalseAnswer:
+      - Frank Lloyd Wright
+      - Eileen Gray
+      - Gio Ponti
+      Explanation: Ludwig Mies van der Rohe and Lilly Reich created the Barcelona
+        Chair for the German Pavilion at the 1929 International Exposition, epitomizing
+        modernist design.
+    - Question: What is a defining characteristic of Shaker furniture design?
+      TrueAnswer: Simple and utilitarian
+      FalseAnswer:
+      - Ornate and decorative
+      - Gilded and opulent
+      - Elaborate carvings
+      Explanation: Shaker furniture design is known for its simple, clean lines and
+        functional qualities, reflecting the Shaker religious principles of simplicity
+        and utility.
+    - Question: What type of furniture is characteristic of Eero Saarinen's design
+        style?
+      TrueAnswer: Tulip Chairs
+      FalseAnswer:
+      - Windsor Chairs
+      - Adirondack Chairs
+      - Wingback Chairs
+      Explanation: Eero Saarinen is renowned for his Tulip Chairs, featuring organic,
+        sculptural forms and a single pedestal base, inspired by nature and modernist
+        principles.
+    - Question: What material is often used for the 'Ghost Chair' by Philippe Starck?
+      TrueAnswer: Transparent polycarbonate
+      FalseAnswer:
+      - Metal
+      - Acrylic
+      - Wood
+      Explanation: Philippe Starck's Ghost Chair is crafted from transparent polycarbonate,
+        creating a visually light and ethereal design that adds a modern touch to
+        interiors.
+    - Question: What design movement inspired the 'Cherner Chair' by Norman Cherner?
+      TrueAnswer: Organic Modernism
+      FalseAnswer:
+      - Neoclassicism
+      - Industrialism
+      - Postmodernism
+      Explanation: The Cherner Chair reflects Organic Modernism, characterized by
+        flowing, organic shapes and natural materials, blending craftsmanship with
+        modern aesthetics.
+    - Question: What type of seating did Charles and Ray Eames' 'La Chaise' represent?
+      TrueAnswer: Sculptural
+      FalseAnswer:
+      - Ergonomic
+      - Futuristic
+      - Traditional
+      Explanation: La Chaise, a sculptural lounge chair, represents the Eameses'
+        exploration of new technologies and materials, pushing the boundaries of
+        form and function in furniture design.
+    - Question: What type of design approach did Gio Ponti emphasize in his furniture
+        creations?
+      TrueAnswer: Elegance and functionality
+      FalseAnswer:
+      - Avant-garde and radical
+      - Minimalistic and stark
+      - Extravagant and showy
+      Explanation: Gio Ponti's designs focused on achieving a harmonious balance
+        between elegant aesthetics and functional practicality, often blending modern
+        and traditional elements.
+    - Question: What is characteristic of Art Deco furniture design?
+      TrueAnswer: Luxurious materials and geometric patterns
+      FalseAnswer:
+      - Minimalism and simplicity
+      - Organic forms and natural materials
+      - Functionalism and utilitarianism
+      Explanation: Art Deco furniture is known for opulent materials like exotic
+        woods, ivory, and metal accents, combined with geometric motifs and streamlined
+        forms.
+    - Question: Which designer created the 'Edra Boa Sofa' known for its unique appearance?
+      TrueAnswer: Campana Brothers
+      FalseAnswer:
+      - Isamu Noguchi
+      - George Nelson
+      - Piero Lissoni
+      Explanation: The Campana Brothers, Brazilian designers, created the Edra Boa
+        Sofa, featuring a coiled and intertwined structure resembling a boa constrictor,
+        a playful and innovative design.
+    - Question: What is a distinctive feature of Postmodern furniture design?
+      TrueAnswer: Playful mix of styles and references
+      FalseAnswer:
+      - Pure functionalism
+      - Singular historical inspiration
+      - Minimalist and stark aesthetics
+      Explanation: Postmodern furniture design rejects rigid rules and embraces a
+        playful approach by blending different historical styles, cultural references,
+        and unconventional materials.

@@ -1,0 +1,220 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Qui a peint la célèbre 'Mona Lisa'?",
+            "TrueAnswer": "Leonardo da Vinci",
+            "FalseAnswer": [
+              "Michel-Ange",
+              "Raphaël",
+              "Titien"
+            ],
+            "Explanation": "Leonardo da Vinci a peint la 'Mona Lisa' entre 1503 et 1506. C'est l'un des portraits les plus célèbres au monde."
+          },
+          {
+            "Question": "Quelle ville est connue comme le berceau de la Renaissance?",
+            "TrueAnswer": "Florence",
+            "FalseAnswer": [
+              "Rome",
+              "Venise",
+              "Milan"
+            ],
+            "Explanation": "Florence est considérée comme le berceau de la Renaissance. C'était un centre d'innovation artistique et culturelle aux XIVe et XVe siècles."
+          },
+          {
+            "Question": "Qui a sculpté la statue de 'David'?",
+            "TrueAnswer": "Michel-Ange",
+            "FalseAnswer": [
+              "Donatello",
+              "Leonardo da Vinci",
+              "Raphaël"
+            ],
+            "Explanation": "Michel-Ange a sculpté la célèbre statue de 'David' entre 1501 et 1504. Elle est un symbole de force et de beauté dans l'art de la Renaissance."
+          },
+          {
+            "Question": "Quelle famille était le principal mécène de Leonardo da Vinci?",
+            "TrueAnswer": "Médicis",
+            "FalseAnswer": [
+              "Borgia",
+              "Sforza",
+              "Visconti"
+            ],
+            "Explanation": "La famille des Médicis était un puissant et influent mécène des arts pendant la Renaissance, soutenant des artistes comme Leonardo da Vinci."
+          },
+          {
+            "Question": "Quelle technique Leonardo da Vinci a-t-il utilisée dans 'La Cène'?",
+            "TrueAnswer": "Fresque",
+            "FalseAnswer": [
+              "Peinture à l'huile",
+              "Aquarelle",
+              "Tempera"
+            ],
+            "Explanation": "Leonardo da Vinci a utilisé la technique de la fresque pour peindre 'La Cène' dans le réfectoire du couvent de Santa Maria delle Grazie à Milan."
+          },
+          {
+            "Question": "Qui a peint la fresque 'L'École d'Athènes' au Vatican?",
+            "TrueAnswer": "Raphaël",
+            "FalseAnswer": [
+              "Leonardo da Vinci",
+              "Michel-Ange",
+              "Titien"
+            ],
+            "Explanation": "Raphaël a peint la fresque 'L'École d'Athènes' au Vatican entre 1509 et 1511. Elle représente l'harmonie de la philosophie classique et du savoir."
+          },
+          {
+            "Question": "Qu'a peint Botticelli de manière célèbre dans les années 1480?",
+            "TrueAnswer": "La Naissance de Vénus",
+            "FalseAnswer": [
+              "La Cène",
+              "La Création d'Adam",
+              "La Chapelle Sixtine"
+            ],
+            "Explanation": "Botticelli a peint 'La Naissance de Vénus' dans les années 1480, représentant la déesse Vénus émergeant de la mer sur une coquille."
+          },
+          {
+            "Question": "Quel artiste était connu pour sa perspective atmosphérique précise dans les paysages?",
+            "TrueAnswer": "Leonardo da Vinci",
+            "FalseAnswer": [
+              "Raphaël",
+              "Titien",
+              "Tintoret"
+            ],
+            "Explanation": "Leonardo da Vinci était connu pour sa maîtrise de la perspective atmosphérique, créant profondeur et réalisme dans ses peintures de paysages."
+          },
+          {
+            "Question": "Qui a peint le plafond de la Chapelle Sixtine?",
+            "TrueAnswer": "Michel-Ange",
+            "FalseAnswer": [
+              "Leonardo da Vinci",
+              "Raphaël",
+              "Donatello"
+            ],
+            "Explanation": "Michel-Ange a peint le célèbre plafond de la Chapelle Sixtine entre 1508 et 1512, présentant des fresques à couper le souffle représentant diverses scènes bibliques."
+          },
+          {
+            "Question": "Quel artiste était connu pour son utilisation du sfumato?",
+            "TrueAnswer": "Leonardo da Vinci",
+            "FalseAnswer": [
+              "Michel-Ange",
+              "Raphaël",
+              "Titien"
+            ],
+            "Explanation": "Leonardo da Vinci était connu pour son utilisation du sfumato, une technique de peinture qui crée des contours doux et flous et des transitions homogènes entre les couleurs et les tons."
+          },
+          {
+            "Question": "Qui a conçu le dôme de la cathédrale de Florence?",
+            "TrueAnswer": "Filippo Brunelleschi",
+            "FalseAnswer": [
+              "Leon Battista Alberti",
+              "Michelozzo",
+              "Giorgio Vasari"
+            ],
+            "Explanation": "Filippo Brunelleschi a conçu l'innovant dôme de la cathédrale de Florence, utilisant une structure à double coque et autostable."
+          },
+          {
+            "Question": "Quel artiste a peint l' 'Adoration des Mages'?",
+            "TrueAnswer": "Sandro Botticelli",
+            "FalseAnswer": [
+              "Raphaël",
+              "Leonardo da Vinci",
+              "Caravage"
+            ],
+            "Explanation": "Sandro Botticelli a peint l' 'Adoration des Mages' dans les années 1470, mettant en valeur son style distinctif et son talent pour représenter des thèmes religieux."
+          },
+          {
+            "Question": "Qui est considéré comme l'architecte de la Haute Renaissance?",
+            "TrueAnswer": "Donato Bramante",
+            "FalseAnswer": [
+              "Andrea Palladio",
+              "Machiavel",
+              "Giorgio Vasari"
+            ],
+            "Explanation": "Donato Bramante est considéré comme l'architecte de la Haute Renaissance, connu pour son travail à la Basilique Saint-Pierre au Vatican."
+          },
+          {
+            "Question": "Quelle ville était le centre de l'art et de l'architecture de la Renaissance au XVe siècle?",
+            "TrueAnswer": "Rome",
+            "FalseAnswer": [
+              "Milan",
+              "Florence",
+              "Venise"
+            ],
+            "Explanation": "Rome est devenue le centre de l'art et de l'architecture de la Renaissance au XVe siècle, attirant des artistes et des architectes pour créer des chefs-d'œuvre dans la ville."
+          },
+          {
+            "Question": "Qui a peint la 'Vierge aux Rochers'?",
+            "TrueAnswer": "Leonardo da Vinci",
+            "FalseAnswer": [
+              "Raphaël",
+              "Michel-Ange",
+              "Caravage"
+            ],
+            "Explanation": "Leonardo da Vinci a peint la 'Vierge aux Rochers' en deux versions, démontrant toutes deux sa maîtrise de la composition et de l'utilisation de la lumière et de l'ombre."
+          },
+          {
+            "Question": "Quel artiste était connu pour son utilisation du contrapposto dans ses sculptures?",
+            "TrueAnswer": "Donatello",
+            "FalseAnswer": [
+              "Bernin",
+              "Michel-Ange",
+              "Ghiberti"
+            ],
+            "Explanation": "Donatello était connu pour son utilisation du contrapposto, une technique sculpturale qui crée un sens de naturalisme et de mouvement dynamique dans les figures."
+          },
+          {
+            "Question": "Qui est connu pour avoir introduit la peinture à l'huile à la Renaissance italienne?",
+            "TrueAnswer": "Antonello da Messina",
+            "FalseAnswer": [
+              "Giorgione",
+              "Tintoret",
+              "Titien"
+            ],
+            "Explanation": "Antonello da Messina est crédité d'avoir introduit la technique de la peinture à l'huile à la Renaissance italienne, révolutionnant la manière dont les artistes pouvaient créer des œuvres lumineuses et détaillées."
+          },
+          {
+            "Question": "Quel artiste est connu pour ses fresques dans la Chapelle Brancacci?",
+            "TrueAnswer": "Masaccio",
+            "FalseAnswer": [
+              "Giotto",
+              "Botticelli",
+              "Uccello"
+            ],
+            "Explanation": "Masaccio est connu pour ses fresques novatrices dans la Chapelle Brancacci, démontrant sa maîtrise de la perspective et de la représentation de figures réalistes."
+          },
+          {
+            "Question": "Qui est crédité de l'invention de la perspective linéaire en art?",
+            "TrueAnswer": "Filippo Brunelleschi",
+            "FalseAnswer": [
+              "Leonardo da Vinci",
+              "Raphaël",
+              "Titien"
+            ],
+            "Explanation": "Filippo Brunelleschi est crédité pour avoir découvert les principes de la perspective linéaire, révolutionnant la manière dont les artistes créent une profondeur spatiale réaliste dans leurs œuvres."
+          },
+          {
+            "Question": "Qu'est-ce que la Renaissance a mis l'accent sur l'art et la culture?",
+            "TrueAnswer": "L'humanisme",
+            "FalseAnswer": [
+              "L'intervention divine",
+              "Le classicisme",
+              "Le mysticisme"
+            ],
+            "Explanation": "La Renaissance a mis l'accent sur l'humanisme dans l'art et la culture, mettant l'accent sur le potentiel humain, les réalisations, et l'étude de la littérature et de l'histoire classiques."
+          },
+          {
+            "Question": "Qui était connu comme le 'Peintre Divin' pendant la Renaissance?",
+            "TrueAnswer": "Raphaël",
+            "FalseAnswer": [
+              "Leonardo da Vinci",
+              "Michel-Ange",
+              "Donatello"
+            ],
+            "Explanation": "Raphaël était connu comme le 'Peintre Divin' pendant la Renaissance, loué pour sa maîtrise de l'harmonie, de l'équilibre et de la grâce dans ses peintures."
+          }
+        ]
+      }
+    }
+  ]
+}

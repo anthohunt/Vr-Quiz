@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifient les lettres dans LiDAR?",
+            "TrueAnswer": "Light Detection and Ranging",
+            "FalseAnswer": [
+              "Identification laser et télémétrie",
+              "Détection et télémétrie à longue distance",
+              "Données intégrées d'éclairage et télémétrie"
+            ],
+            "Explanation": "Le LiDAR utilise des impulsions laser pour mesurer les distances et créer des cartes 3D précises, cruciales pour la perception des véhicules autonomes."
+          },
+          {
+            "Question": "Quelle division de véhicules autonomes est connue sous le nom de Waymo?",
+            "TrueAnswer": "Alphabet",
+            "FalseAnswer": [
+              "Tesla",
+              "General Motors",
+              "Uber"
+            ],
+            "Explanation": "Waymo est une filiale d'Alphabet Inc., la société mère de Google, dédiée à la recherche et au développement de véhicules autonomes."
+          },
+          {
+            "Question": "Quelle est la plage approximative d'un véhicule autonome de niveau 5?",
+            "TrueAnswer": "Illimitée",
+            "FalseAnswer": [
+              "100 miles",
+              "500 miles",
+              "1000 miles"
+            ],
+            "Explanation": "Les véhicules autonomes de niveau 5 ont des capacités de conduite entièrement autonome et peuvent fonctionner sans intervention humaine dans n'importe quel environnement, leur plage est donc pratiquement illimitée."
+          },
+          {
+            "Question": "En quoi la communication V2X est-elle bénéfique pour les véhicules autonomes?",
+            "TrueAnswer": "Vehicle-to-Everything",
+            "FalseAnswer": [
+              "Voix à l'extérieur",
+              "Vision à X",
+              "Virtuel à l'extérieur"
+            ],
+            "Explanation": "La communication V2X permet aux véhicules de communiquer avec d'autres véhicules, l'infrastructure et même les piétons, améliorant la sécurité et l'efficacité de la conduite autonome."
+          },
+          {
+            "Question": "Quelle organisation établit les niveaux d'automatisation largement acceptés pour les véhicules?",
+            "TrueAnswer": "Society of Automotive Engineers",
+            "FalseAnswer": [
+              "National Highway Traffic Safety Administration",
+              "Federal Aviation Administration",
+              "Association européenne des constructeurs automobiles"
+            ],
+            "Explanation": "La norme SAE J3016 normalise les niveaux d'automatisation de conduite, fournissant un langage commun pour catégoriser les capacités des véhicules autonomes."
+          },
+          {
+            "Question": "Quel est le nom du système de perception basé sur le lidar développé par Velodyne?",
+            "TrueAnswer": "Velarray",
+            "FalseAnswer": [
+              "LaserNav",
+              "SpectraVision",
+              "OpticSense"
+            ],
+            "Explanation": "Le capteur Velarray utilise la technologie LiDAR et est conçu pour prendre en charge les systèmes avancés d'aide à la conduite et les applications de conduite autonome."
+          },
+          {
+            "Question": "Que signifie ADAS dans le contexte des véhicules autonomes?",
+            "TrueAnswer": "Advanced Driver Assistance Systems",
+            "FalseAnswer": [
+              "Logiciel d'analyse de données automobile",
+              "Système d'aide à la conduite autonome",
+              "Système d'alerte au conducteur adaptatif"
+            ],
+            "Explanation": "Les ADAS fournissent des fonctionnalités telles que le régulateur de vitesse adaptatif et l'assistance au maintien de voie, servant de précurseur à la technologie de conduite entièrement autonome."
+          },
+          {
+            "Question": "Quel capteur est crucial pour la détection d'objets dans les véhicules autonomes?",
+            "TrueAnswer": "Radar",
+            "FalseAnswer": [
+              "Caméra",
+              "Capteur ultrasonique",
+              "Lidar"
+            ],
+            "Explanation": "Les systèmes radar peuvent détecter avec précision la vitesse et la position des objets, complétant d'autres technologies de perception dans des conditions de conduite variées."
+          },
+          {
+            "Question": "Dans le contexte des véhicules autonomes, que signifie la mise à jour OTA?",
+            "TrueAnswer": "Mise à jour Over-the-Air",
+            "FalseAnswer": [
+              "Ajustement de suivi à bord",
+              "Analyse de trafic en ligne",
+              "Évaluation du terrain hors route"
+            ],
+            "Explanation": "Les mises à jour OTA permettent aux véhicules autonomes de recevoir des mises à jour logicielles à distance, garantissant qu'ils restent à jour avec les dernières améliorations et corrections."
+          },
+          {
+            "Question": "Quelle entreprise a initié la fonctionnalité Autopilot pour ses véhicules électriques?",
+            "TrueAnswer": "Tesla",
+            "FalseAnswer": [
+              "Toyota",
+              "General Motors",
+              "Nissan"
+            ],
+            "Explanation": "Le système Autopilot de Tesla utilise des fonctionnalités avancées d'aide à la conduite, posant les bases des capacités de conduite autonome futures."
+          },
+          {
+            "Question": "Quel type d'environnement cible principalement la communication V2V?",
+            "TrueAnswer": "Urbain",
+            "FalseAnswer": [
+              "Autoroute",
+              "Rural",
+              "Banlieue"
+            ],
+            "Explanation": "La communication V2V est particulièrement utile dans les environnements urbains où les véhicules ont des interactions complexes et doivent échanger des données critiques pour la sécurité."
+          },
+          {
+            "Question": "Quelle technologie est essentielle pour la localisation dans les véhicules autonomes?",
+            "TrueAnswer": "GPS",
+            "FalseAnswer": [
+              "Unité de mesure inertielle",
+              "Vision par ordinateur",
+              "Détection ultrasonique"
+            ],
+            "Explanation": "Le GPS joue un rôle clé en fournissant des informations de positionnement précises, aidant à la navigation et assurant une localisation précise pour les véhicules autonomes."
+          },
+          {
+            "Question": "Quel type de technologie informatique est essentiel pour les systèmes de véhicules autonomes?",
+            "TrueAnswer": "IA",
+            "FalseAnswer": [
+              "Informatique quantique",
+              "Blockchain",
+              "Informatique périphérique"
+            ],
+            "Explanation": "L'IA traite les données des capteurs, identifie des schémas et prend des décisions en temps réel, contribuant à l'intelligence des opérations des véhicules autonomes."
+          },
+          {
+            "Question": "Quel secteur a développé des cadres de sécurité détaillés pour les véhicules autonomes?",
+            "TrueAnswer": "Automobile",
+            "FalseAnswer": [
+              "Aérospatiale",
+              "Divertissement",
+              "Santé"
+            ],
+            "Explanation": "L'industrie automobile a été à l'avant-garde de l'établissement de normes de sécurité et de réglementations spécifiques aux véhicules autonomes pour assurer la confiance et la crédibilité publiques."
+          },
+          {
+            "Question": "Que représente l'acronyme AVP dans le contexte des véhicules autonomes?",
+            "TrueAnswer": "Perception de véhicule automatisé",
+            "FalseAnswer": [
+              "Plateforme de visualisation avancée",
+              "Performance de véhicule autonome",
+              "Prototype virtuel de l'automobile"
+            ],
+            "Explanation": "L'AVP englobe les systèmes et les technologies qui permettent aux véhicules autonomes de percevoir et de comprendre leur environnement pour prendre des décisions éclairées de conduite."
+          },
+          {
+            "Question": "Quelle entité se spécialise dans la création de cartes détaillées pour la navigation des véhicules autonomes?",
+            "TrueAnswer": "Here Technologies",
+            "FalseAnswer": [
+              "Google Maps",
+              "Apple Maps",
+              "OpenStreetMap"
+            ],
+            "Explanation": "Here Technologies exploite des services de cartographie et de localisation avancés pour répondre aux besoins de localisation et de navigation précis des véhicules autonomes."
+          },
+          {
+            "Question": "Comment la cartographie HD soutient-elle les opérations des véhicules autonomes?",
+            "TrueAnswer": "Localisation précise",
+            "FalseAnswer": [
+              "Mises à jour de trafic en temps réel",
+              "Vues 3D immersives",
+              "Reconnaissance d'image satellite"
+            ],
+            "Explanation": "Les cartes HD fournissent des informations de localisation hautement détaillées et précises, essentielles pour une navigation précise et une bonne compréhension de l'environnement pour les véhicules autonomes."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'une unité manifolde dans les systèmes de conduite autonome?",
+            "TrueAnswer": "Fusion de données",
+            "FalseAnswer": [
+              "Hub de communications",
+              "Distribution de puissance",
+              "Calibration des capteurs"
+            ],
+            "Explanation": "L'unité de manifolde intègre les données de divers capteurs pour créer une vue complète et fiable de l'environnement du véhicule pour prendre des décisions autonomes."
+          },
+          {
+            "Question": "Quel est le principal avantage des capteurs Lidar par rapport aux caméras traditionnelles pour la perception dans les véhicules autonomes?",
+            "TrueAnswer": "Précision en faible luminosité",
+            "FalseAnswer": [
+              "Large champ de vision",
+              "Reconnaissance des couleurs",
+              "Rentabilité"
+            ],
+            "Explanation": "Les capteurs Lidar excellent dans des conditions de faible luminosité et peuvent détecter précisément les objets même lorsque la visibilité est limitée, ce qui est crucial pour les véhicules autonomes opérant dans des environnements variés."
+          },
+          {
+            "Question": "Comment le pelotonage bénéficie-t-il des opérations de véhicules autonomes?",
+            "TrueAnswer": "Efficacité énergétique",
+            "FalseAnswer": [
+              "Optimisation de la vitesse",
+              "Réduction des embouteillages",
+              "Sécurité renforcée"
+            ],
+            "Explanation": "Le pelotonage permet aux véhicules de rouler étroitement ensemble, réduisant la traînée aérodynamique et améliorant l'efficacité énergétique, ce qui est avantageux pour les flottes autonomes de longue distance."
+          }
+        ]
+      }
+    }
+  ]
+}

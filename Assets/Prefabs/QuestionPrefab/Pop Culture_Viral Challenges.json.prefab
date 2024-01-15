@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7761877557883004850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 212599402931712249}
+  - component: {fileID: 396787076013871179}
+  m_Layer: 0
+  m_Name: Pop Culture_Viral Challenges.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &212599402931712249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7761877557883004850}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &396787076013871179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7761877557883004850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What was the name of the viral challenge where people poured ice
+        water over their heads?
+      TrueAnswer: Ice Bucket Challenge
+      FalseAnswer:
+      - Water Splash Challenge
+      - Cold Shower Challenge
+      - Freezing Challenge
+      Explanation: The Ice Bucket Challenge involved pouring a bucket of ice water
+        over one's head to raise awareness for ALS.
+    - Question: Which viral challenge involved dancing to the song 'Harlem Shake'?
+      TrueAnswer: Harlem Shake Challenge
+      FalseAnswer:
+      - Dance Fever Challenge
+      - Shake It Off Challenge
+      - Hip Hop Dance Challenge
+      Explanation: The Harlem Shake Challenge went viral in 2013, with people creating
+        their own dance videos to the song.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of cinnamon?
+      TrueAnswer: Cinnamon Challenge
+      FalseAnswer:
+      - Spicy Spoon Challenge
+      - Cinnamon Roll Challenge
+      - Sugar Rush Challenge
+      Explanation: The Cinnamon Challenge involved trying to swallow a spoonful of
+        cinnamon without drinking water.
+    - Question: Which viral challenge involved people attempting to do the 'Gangnam
+        Style' dance?
+      TrueAnswer: Gangnam Style Challenge
+      FalseAnswer:
+      - K-Pop Dance Challenge
+      - Psy Dance Challenge
+      - Korean Groove Challenge
+      Explanation: The Gangnam Style Challenge gained popularity in 2012, with people
+        imitating the iconic dance moves from the music video.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of wasabi?
+      TrueAnswer: Wasabi Challenge
+      FalseAnswer:
+      - Spicy Sushi Challenge
+      - Green Fire Challenge
+      - Japanese Heat Challenge
+      Explanation: The Wasabi Challenge involved eating a spoonful of wasabi, a spicy
+        Japanese condiment.
+    - Question: Which viral challenge involved people attempting to do the 'In My
+        Feelings' dance?
+      TrueAnswer: In My Feelings Challenge
+      FalseAnswer:
+      - Drake Dance Challenge
+      - Hip Hop Groove Challenge
+      - Emotional Moves Challenge
+      Explanation: The In My Feelings Challenge became popular in 2018, with people
+        dancing to the song by Drake.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of nutmeg?
+      TrueAnswer: Nutmeg Challenge
+      FalseAnswer:
+      - Spice Challenge
+      - Holiday Spice Challenge
+      - Nutmeg Delight Challenge
+      Explanation: The Nutmeg Challenge involved consuming a spoonful of nutmeg,
+        which can have hallucinogenic effects in large quantities.
+    - Question: Which viral challenge involved people attempting to do the 'Floss'
+        dance?
+      TrueAnswer: Floss Challenge
+      FalseAnswer:
+      - Dental Hygiene Challenge
+      - Dance Move Challenge
+      - Toothbrush Twist Challenge
+      Explanation: The Floss Challenge gained popularity in 2017, with people showcasing
+        their skills in the viral dance move.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of ghost pepper?
+      TrueAnswer: Ghost Pepper Challenge
+      FalseAnswer:
+      - Spicy Inferno Challenge
+      - Pepper Heat Challenge
+      - Fiery Mouth Challenge
+      Explanation: The Ghost Pepper Challenge involved eating a spoonful of one of
+        the hottest peppers in the world.
+    - Question: Which viral challenge involved people attempting to do the 'Mannequin'
+        pose?
+      TrueAnswer: Mannequin Challenge
+      FalseAnswer:
+      - Frozen Pose Challenge
+      - Still Life Challenge
+      - Statue Stance Challenge
+      Explanation: The Mannequin Challenge went viral in 2016, with people freezing
+        in place like mannequins while a camera moved around them.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of Vegemite?
+      TrueAnswer: Vegemite Challenge
+      FalseAnswer:
+      - Australian Delight Challenge
+      - Salty Spread Challenge
+      - Down Under Taste Challenge
+      Explanation: The Vegemite Challenge involved eating a spoonful of Vegemite,
+        a popular Australian spread made from yeast extract.
+    - Question: Which viral challenge involved people attempting to do the 'Dab'
+        dance move?
+      TrueAnswer: Dab Challenge
+      FalseAnswer:
+      - Sneezing Challenge
+      - Shoulder Shuffle Challenge
+      - Hip Hop Pose Challenge
+      Explanation: The Dab Challenge gained popularity in 2015, with people striking
+        the iconic pose from the dance move.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of hot sauce?
+      TrueAnswer: Hot Sauce Challenge
+      FalseAnswer:
+      - Spicy Tongue Challenge
+      - Fire Mouth Challenge
+      - Heatwave Challenge
+      Explanation: The Hot Sauce Challenge involved consuming a spoonful of extremely
+        spicy hot sauce.
+    - Question: Which viral challenge involved people attempting to do the 'Running
+        Man' dance?
+      TrueAnswer: Running Man Challenge
+      FalseAnswer:
+      - Marathon Dance Challenge
+      - Sprint and Shuffle Challenge
+      - Endurance Groove Challenge
+      Explanation: The Running Man Challenge gained popularity in 2016, with people
+        showcasing their moves to the song 'My Boo.'
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of Veggie Mite?
+      TrueAnswer: Veggie Mite Challenge
+      FalseAnswer:
+      - Healthy Bite Challenge
+      - Vegetable Delight Challenge
+      - Green Goodness Challenge
+      Explanation: The Veggie Mite Challenge involved eating a spoonful of Veggie
+        Mite, a vegetarian alternative to Vegemite.
+    - Question: Which viral challenge involved people attempting to do the 'Renegade'
+        dance?
+      TrueAnswer: Renegade Challenge
+      FalseAnswer:
+      - Dance Revolution Challenge
+      - Hip Hop Hype Challenge
+      - Revamped Moves Challenge
+      Explanation: The Renegade Challenge gained popularity in 2020, with people
+        showcasing their skills in the viral dance routine.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of mustard?
+      TrueAnswer: Mustard Challenge
+      FalseAnswer:
+      - Yellow Sauce Challenge
+      - Condiment Craze Challenge
+      - Tangy Taste Challenge
+      Explanation: The Mustard Challenge involved consuming a spoonful of mustard,
+        a popular condiment.
+    - Question: Which viral challenge involved people attempting to do the 'Twerk'
+        dance?
+      TrueAnswer: Twerk Challenge
+      FalseAnswer:
+      - Booty Shake Challenge
+      - Hip Hop Bounce Challenge
+      - Dance Floor Heat Challenge
+      Explanation: The Twerk Challenge gained popularity in 2013, with people showcasing
+        their twerking skills in videos.
+    - Question: What was the name of the viral challenge where people attempted to
+        eat a spoonful of horseradish?
+      TrueAnswer: Horseradish Challenge
+      FalseAnswer:
+      - Spicy Root Challenge
+      - Radish Heat Challenge
+      - Burning Bite Challenge
+      Explanation: The Horseradish Challenge involved eating a spoonful of horseradish,
+        a pungent root vegetable.
+    - Question: Which viral challenge involved people attempting to do the 'Baby
+        Shark' dance?
+      TrueAnswer: Baby Shark Challenge
+      FalseAnswer:
+      - Ocean Dance Challenge
+      - Underwater Groove Challenge
+      - Shark Frenzy Challenge
+      Explanation: The Baby Shark Challenge gained popularity in 2018, with people
+        dancing to the catchy children's song.

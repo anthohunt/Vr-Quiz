@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifie CSS en développement web?",
+            "TrueAnswer": "Feuilles de style en cascade",
+            "FalseAnswer": [
+              "Feuilles de style créatives",
+              "Feuilles de style en cascade",
+              "Feuilles de style codées"
+            ],
+            "Explanation": "CSS signifie Cascading Style Sheets et est utilisé pour styliser la mise en page des pages web écrites en HTML."
+          },
+          {
+            "Question": "Quelle balise est utilisée pour définir une image en HTML?",
+            "TrueAnswer": "img",
+            "FalseAnswer": [
+              "image",
+              "src",
+              "image"
+            ],
+            "Explanation": "La balise 'img' est utilisée pour définir une image en HTML et nécessite l'attribut 'src' pour spécifier l'URL de l'image."
+          },
+          {
+            "Question": "Quel langage de programmation est couramment utilisé pour le développement web?",
+            "TrueAnswer": "JavaScript",
+            "FalseAnswer": [
+              "Python",
+              "Ruby",
+              "Java"
+            ],
+            "Explanation": "JavaScript est un langage de programmation largement utilisé pour le développement web, permettant un contenu web interactif et dynamique."
+          },
+          {
+            "Question": "Lequel des éléments suivants n'est pas un cadre de développement web?",
+            "TrueAnswer": "Photoshop",
+            "FalseAnswer": [
+              "React",
+              "Angular",
+              "Vue.js"
+            ],
+            "Explanation": "Photoshop n'est pas un cadre de développement web. C'est un logiciel de conception graphique utilisé pour créer des éléments visuels pour des projets web."
+          },
+          {
+            "Question": "Que signifie SEO dans le contexte du développement web?",
+            "TrueAnswer": "Optimisation pour les moteurs de recherche",
+            "FalseAnswer": [
+              "Organisation de l'expérience du site",
+              "Optimisation de l'engagement social",
+              "Outreach email sécurisé"
+            ],
+            "Explanation": "Le SEO, ou optimisation pour les moteurs de recherche, est la pratique d'augmenter la quantité et la qualité du trafic vers un site web grâce aux résultats organiques des moteurs de recherche."
+          },
+          {
+            "Question": "Quel type de fichier est couramment utilisé pour la structure et le contenu des pages web?",
+            "TrueAnswer": "HTML",
+            "FalseAnswer": [
+              "PDF",
+              "MP3",
+              "JPEG"
+            ],
+            "Explanation": "HTML (Hypertext Markup Language) est le langage standard pour créer des pages web et des applications web."
+          },
+          {
+            "Question": "Quel est le but de la balise <div> en HTML?",
+            "TrueAnswer": "Créer une division ou section dans le document HTML",
+            "FalseAnswer": [
+              "Afficher une image",
+              "Définir un hyperlien",
+              "Formater du texte"
+            ],
+            "Explanation": "La balise <div> est un élément de niveau bloc utilisé pour créer une division ou section dans un document HTML, facilitant ainsi le stylage et la structuration du contenu."
+          },
+          {
+            "Question": "Quel terme désigne le processus garantissant la compatibilité d'un site web sur différents appareils et navigateurs?",
+            "TrueAnswer": "Compatibilité multi-navigateurs",
+            "FalseAnswer": [
+              "Optimisation multiplateforme",
+              "Adaptation universelle des appareils",
+              "Manipulation de la diversité des navigateurs"
+            ],
+            "Explanation": "La compatibilité multi-navigateurs fait référence à la capacité d'un site web ou d'une application web à fonctionner sur différents navigateurs web, garantissant ainsi une expérience utilisateur cohérente."
+          },
+          {
+            "Question": "Que signifie l'acronyme HTTP dans le contexte du développement web?",
+            "TrueAnswer": "Protocole de transfert hypertexte",
+            "FalseAnswer": [
+              "Chemin de transmission hyperspeed",
+              "Protocole de transition textuel hypertexte",
+              "Chemin de transaction de transfert d'hôte"
+            ],
+            "Explanation": "HTTP (Hypertext Transfer Protocol) est le fondement de la communication de données pour le World Wide Web, régissant la transmission de divers types de médias."
+          },
+          {
+            "Question": "Quel attribut est utilisé pour spécifier la classe CSS d'un élément HTML?",
+            "TrueAnswer": "class",
+            "FalseAnswer": [
+              "style",
+              "id",
+              "name"
+            ],
+            "Explanation": "L'attribut 'class' est utilisé pour spécifier un ou plusieurs noms de classe pour un élément HTML, permettant l'application de styles CSS à l'élément."
+          },
+          {
+            "Question": "Quel est le but principal d'une requête média en conception web?",
+            "TrueAnswer": "Appliquer différents styles pour différents appareils ou tailles d'écran",
+            "FalseAnswer": [
+              "Intégrer du contenu média dans une page web",
+              "Optimiser la transmission de médias serveur",
+              "Catégoriser les fichiers média pour le stockage"
+            ],
+            "Explanation": "Les requêtes média en CSS permettent l'adaptation des styles en fonction de divers facteurs tels que la taille de l'écran, la résolution ou l'orientation de l'appareil pour une conception web responsive."
+          },
+          {
+            "Question": "Quelle propriété CSS est utilisée pour changer la taille de police du texte?",
+            "TrueAnswer": "font-size",
+            "FalseAnswer": [
+              "text-style",
+              "font-change",
+              "size-font"
+            ],
+            "Explanation": "La propriété 'font-size' en CSS est utilisée pour spécifier la taille du texte. Elle peut être définie en différentes unités telles que les pixels, les em ou les pourcentages."
+          },
+          {
+            "Question": "Quel type de fichier est un fichier .js en développement web?",
+            "TrueAnswer": "JavaScript",
+            "FalseAnswer": [
+              "Source Java",
+              "Schéma JSON",
+              "JScript"
+            ],
+            "Explanation": "Les fichiers .js contiennent du code JavaScript, qui est couramment utilisé pour le comportement, l'interactivité et le contenu dynamique sur les sites web."
+          },
+          {
+            "Question": "Quel est le but de la balise <a> en HTML?",
+            "TrueAnswer": "Créer des hyperliens",
+            "FalseAnswer": [
+              "Aligner du texte",
+              "Insérer une image",
+              "Définir un tableau"
+            ],
+            "Explanation": "La balise <a> en HTML est utilisée pour créer des hyperliens, permettant aux utilisateurs de naviguer entre les pages web ou d'accéder à du contenu externe via des textes ou des images cliquables."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un exemple d'un cadre de développement web front-end?",
+            "TrueAnswer": "React",
+            "FalseAnswer": [
+              "Node.js",
+              "Express",
+              "Django"
+            ],
+            "Explanation": "React est une populaire bibliothèque JavaScript côté client pour la construction d'interfaces utilisateur, se concentrant sur le développement basé sur des composants pour des applications web interactives."
+          },
+          {
+            "Question": "Que signifie FTP dans le contexte du développement web?",
+            "TrueAnswer": "Protocole de transfert de fichiers",
+            "FalseAnswer": [
+              "Protocole de transmission rapide",
+              "Procédure de test sur le terrain",
+              "Plateforme technologique front-end"
+            ],
+            "Explanation": "FTP (File Transfer Protocol) est un protocole réseau standard utilisé pour le transfert de fichiers informatiques entre un client et un serveur sur un réseau informatique."
+          },
+          {
+            "Question": "Quel symbole est utilisé pour indiquer le sélecteur ID en CSS?",
+            "TrueAnswer": "#",
+            "FalseAnswer": [
+              ".",
+              "&",
+              "$"
+            ],
+            "Explanation": "Le symbole dièse '#' est utilisé pour indiquer le sélecteur ID en CSS, permettant l'application de styles à un élément HTML spécifique avec un attribut ID correspondant."
+          },
+          {
+            "Question": "Quel type de règle CSS prend le dessus si les deux sont spécifiées pour le même élément?",
+            "TrueAnswer": "Style inline",
+            "FalseAnswer": [
+              "Style interne",
+              "Style externe",
+              "Style importé"
+            ],
+            "Explanation": "Les styles inline, définis dans l'élément HTML, ont la plus haute priorité en CSS, remplaçant à la fois les styles internes et externes spécifiés pour le même élément."
+          },
+          {
+            "Question": "Quelle balise sémantique est utilisée pour regrouper des liens de navigation en HTML?",
+            "TrueAnswer": "nav",
+            "FalseAnswer": [
+              "header",
+              "section",
+              "aside"
+            ],
+            "Explanation": "La balise 'nav' en HTML est utilisée pour définir une section avec des liens de navigation, tels que des menus ou des tables des matières, dans le contexte d'une page web."
+          }
+        ]
+      }
+    }
+  ]
+}

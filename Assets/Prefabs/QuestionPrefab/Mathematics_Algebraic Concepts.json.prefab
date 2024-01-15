@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &255203679065513489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4732452540030423121}
+  - component: {fileID: 2515222056791780729}
+  m_Layer: 0
+  m_Name: Mathematics_Algebraic Concepts.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4732452540030423121
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 255203679065513489}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2515222056791780729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 255203679065513489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the value of x in the equation 2x + 5 = 15?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 10
+      - 3
+      - 7
+      Explanation: To solve the equation, subtract 5 from both sides and divide by
+        2, giving x = 5.
+    - Question: Which property states that a + b = b + a?
+      TrueAnswer: Commutative
+      FalseAnswer:
+      - Associative
+      - Distributive
+      - Identity
+      Explanation: The commutative property of addition states that the order of
+        adding two numbers does not affect the sum.
+    - Question: What is the slope of a horizontal line?
+      TrueAnswer: 0
+      FalseAnswer:
+      - 1
+      - -1
+      - Undefined
+      Explanation: A horizontal line has a slope of 0 because it does not rise or
+        fall.
+    - Question: Which term represents the unknown value in an equation?
+      TrueAnswer: Variable
+      FalseAnswer:
+      - Coefficient
+      - Constant
+      - Expression
+      Explanation: A variable is a symbol that represents an unknown value in an
+        equation or expression.
+    - Question: What is the solution to the equation 3x - 7 = 8?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 15
+      - 2
+      - -5
+      Explanation: To solve the equation, add 7 to both sides and divide by 3, giving
+        x = 5.
+    - Question: Which property states that a(b + c) = ab + ac?
+      TrueAnswer: Distributive
+      FalseAnswer:
+      - Associative
+      - Commutative
+      - Identity
+      Explanation: The distributive property allows you to multiply a number by a
+        sum or difference of numbers.
+    - Question: What is the y-intercept of a linear equation?
+      TrueAnswer: Constant
+      FalseAnswer:
+      - Slope
+      - Variable
+      - Coefficient
+      Explanation: The y-intercept is the constant term in a linear equation and
+        represents the point where the line crosses the y-axis.
+    - Question: What is the value of x in the equation 4(x + 2) = 24?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 10
+      - 3
+      - 7
+      Explanation: To solve the equation, distribute 4 to both terms inside the parentheses,
+        giving 4x + 8 = 24. Then, subtract 8 from both sides and divide by 4, giving
+        x = 5.
+    - Question: Which property states that a + (b + c) = (a + b) + c?
+      TrueAnswer: Associative
+      FalseAnswer:
+      - Commutative
+      - Distributive
+      - Identity
+      Explanation: The associative property of addition states that the grouping
+        of numbers being added does not affect the sum.
+    - Question: What is the solution to the equation 2x - 3 = 7?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 10
+      - 2
+      - -5
+      Explanation: To solve the equation, add 3 to both sides and divide by 2, giving
+        x = 5.
+    - Question: What is the slope-intercept form of a linear equation?
+      TrueAnswer: y = mx + b
+      FalseAnswer:
+      - y = ax^2 + bx + c
+      - y = mx^2 + nx + p
+      - y = a/bx + c
+      Explanation: The slope-intercept form of a linear equation is y = mx + b, where
+        m represents the slope and b represents the y-intercept.
+    - Question: What is the value of x in the equation 3x + 2 = 11?
+      TrueAnswer: 3
+      FalseAnswer:
+      - 8
+      - 5
+      - -3
+      Explanation: To solve the equation, subtract 2 from both sides and divide by
+        3, giving x = 3.
+    - Question: Which property states that a + 0 = a?
+      TrueAnswer: Identity
+      FalseAnswer:
+      - Associative
+      - Commutative
+      - Distributive
+      Explanation: The identity property of addition states that adding zero to any
+        number does not change its value.
+    - Question: What is the solution to the equation 5x + 10 = 35?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 15
+      - 2
+      - -5
+      Explanation: To solve the equation, subtract 10 from both sides and divide
+        by 5, giving x = 5.
+    - Question: What is the slope of a vertical line?
+      TrueAnswer: Undefined
+      FalseAnswer:
+      - 0
+      - 1
+      - -1
+      Explanation: A vertical line has an undefined slope because it does not run
+        horizontally.
+    - Question: Which term represents a number multiplied by a variable in an equation?
+      TrueAnswer: Coefficient
+      FalseAnswer:
+      - Variable
+      - Constant
+      - Expression
+      Explanation: A coefficient is a number multiplied by a variable in an equation
+        or expression.
+    - Question: What is the solution to the equation 2(x - 3) = 10?
+      TrueAnswer: 8
+      FalseAnswer:
+      - 5
+      - 2
+      - -8
+      Explanation: To solve the equation, distribute 2 to both terms inside the parentheses,
+        giving 2x - 6 = 10. Then, add 6 to both sides and divide by 2, giving x =
+        8.
+    - Question: Which property states that a * b = b * a?
+      TrueAnswer: Commutative
+      FalseAnswer:
+      - Associative
+      - Distributive
+      - Identity
+      Explanation: The commutative property of multiplication states that the order
+        of multiplying two numbers does not affect the product.
+    - Question: What is the x-intercept of a linear equation?
+      TrueAnswer: Root
+      FalseAnswer:
+      - Slope
+      - Variable
+      - Coefficient
+      Explanation: The x-intercept is the value of x when the line crosses the x-axis,
+        also known as the root or zero of the equation.
+    - Question: What is the value of x in the equation 6x - 4 = 14?
+      TrueAnswer: 3
+      FalseAnswer:
+      - 8
+      - 5
+      - -3
+      Explanation: To solve the equation, add 4 to both sides and divide by 6, giving
+        x = 3.
+    - Question: Which property states that a * (b * c) = (a * b) * c?
+      TrueAnswer: Associative
+      FalseAnswer:
+      - Commutative
+      - Distributive
+      - Identity
+      Explanation: The associative property of multiplication states that the grouping
+        of numbers being multiplied does not affect the product.

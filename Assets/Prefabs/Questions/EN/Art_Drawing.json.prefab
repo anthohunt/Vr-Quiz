@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &188279708553331087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8609889099525656950}
+  - component: {fileID: 3566397132616694994}
+  m_Layer: 0
+  m_Name: Art_Drawing.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8609889099525656950
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 188279708553331087}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3566397132616694994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 188279708553331087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the typical tool used in charcoal drawing?
+      TrueAnswer: Charcoal
+      FalseAnswer:
+      - Pencil
+      - Marker
+      - Pastel
+      Explanation: Charcoal is a popular drawing medium known for its rich, deep
+        blacks and expressive qualities on textured paper.
+    - Question: Which artist is famous for his detailed anatomical drawings?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Michelangelo
+      Explanation: Leonardo da Vinci's anatomical drawings are renowned for their
+        accuracy and detail, showcasing his scientific and artistic talents.
+    - Question: What is the primary purpose of gesture drawing?
+      TrueAnswer: Capture movement
+      FalseAnswer:
+      - Create hyperrealistic art
+      - Use vibrant colors
+      - Depict landscapes
+      Explanation: Gesture drawing aims to capture the essence of a subject's movement,
+        often using quick, loose, and expressive lines.
+    - Question: Who is known for creating intricate, surreal pen and ink drawings?
+      TrueAnswer: M.C. Escher
+      FalseAnswer:
+      - Salvador Dali
+      - Claude Monet
+      - Vincent van Gogh
+      Explanation: M.C. Escher's mind-bending and intricate pen and ink drawings
+        often depict surreal and impossible architectural scenes, inspiring awe and
+        wonder.
+    - Question: What is a common drawing technique involving scratching the surface
+        of paper?
+      TrueAnswer: Sgraffito
+      FalseAnswer:
+      - Impasto
+      - Hatching
+      - Cross-hatching
+      Explanation: Sgraffito involves the technique of scratching the surface of
+        paper to reveal the layers beneath, creating textured and visually engaging
+        effects.
+    - Question: Which drawing technique uses fine, parallel lines to create shading?
+      TrueAnswer: Stippling
+      FalseAnswer:
+      - Blending
+      - Pointillism
+      - Sfumato
+      Explanation: Stippling involves the creation of shading and texture using small,
+        distinct dots, allowing for a range of tonal values and visual interest.
+    - Question: What is the traditional support for a fresco painting?
+      TrueAnswer: Wet plaster
+      FalseAnswer:
+      - Canvas
+      - Wood panel
+      - Cardboard
+      Explanation: Fresco painting involves applying pigments onto wet plaster, allowing
+        the colors to become an integral part of the wall or surface.
+    - Question: Who is the legendary manga artist behind 'Naruto' and 'Boruto'?
+      TrueAnswer: Masashi Kishimoto
+      FalseAnswer:
+      - Akira Toriyama
+      - Eiichiro Oda
+      - Hirohiko Araki
+      Explanation: Masashi Kishimoto is renowned for his iconic manga series 'Naruto'
+        and its sequel 'Boruto,' captivating readers with compelling characters and
+        dynamic artwork.
+    - Question: Which drawing medium is known for its blendable and vibrant colors?
+      TrueAnswer: Pastel
+      FalseAnswer:
+      - Graphite
+      - Ink
+      - Watercolor
+      Explanation: Pastels offer rich, vibrant colors and blendability, making them
+        a versatile and expressive medium for creating soft, atmospheric, and vivid
+        artworks.
+    - Question: What is the practice of using dots to create images or patterns?
+      TrueAnswer: Pointillism
+      FalseAnswer:
+      - Scumbling
+      - Sgraffito
+      - Stippling
+      Explanation: Pointillism involves the use of small, distinct dots of pure color
+        that are optically blended to create a cohesive image with enhanced luminosity
+        and depth.
+    - Question: Who is known for creating the iconic 'Sunflowers' and 'Starry Night'
+        paintings?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Pablo Picasso
+      - Leonardo da Vinci
+      - Salvador Dali
+      Explanation: Vincent van Gogh's vivid and emotive artworks, such as 'Sunflowers'
+        and 'Starry Night,' resonate with the beauty and turbulence of human emotions.
+    - Question: Which artist is famous for his whimsical and intricate ink drawings
+        of imaginary worlds?
+      TrueAnswer: Shaun Tan
+      FalseAnswer:
+      - Gustav Klimt
+      - Salvador Dali
+      - M.C. Escher
+      Explanation: Shaun Tan's imaginative and intricate ink drawings in works like
+        'The Arrival' depict enchanting and foreign worlds, evoking a sense of wonder
+        and discovery.
+    - Question: What is the term for an observational drawing produced using natural
+        materials?
+      TrueAnswer: Nature drawing
+      FalseAnswer:
+      - Abstract art
+      - Collage
+      - Digital art
+      Explanation: Nature drawing involves capturing the intricate details of natural
+        subjects using natural materials like leaves, twigs, and other organic elements.
+    - Question: Which drawing technique involves applying thick layers of paint for
+        texture and depth?
+      TrueAnswer: Impasto
+      FalseAnswer:
+      - Sfumato
+      - Grisaille
+      - Chiaroscuro
+      Explanation: Impasto involves the application of thick and textured layers
+        of paint to create a three-dimensional effect and add tactile and visual
+        interest.
+    - Question: Who is famous for creating large-scale, detailed charcoal drawings
+        of everyday objects and scenes?
+      TrueAnswer: Robert Longo
+      FalseAnswer:
+      - Jenny Saville
+      - David Hockney
+      - Yayoi Kusama
+      Explanation: Robert Longo's hyperrealistic and immersive charcoal drawings,
+        such as his 'Men in the Cities' series, masterfully capture contemporary
+        urban life and its complexities.
+    - Question: What is the technique of rapidly sketching the initial impression
+        of a subject often using a single continuous line?
+      TrueAnswer: Contour drawing
+      FalseAnswer:
+      - Chiaroscuro
+      - Macchia
+      - Tenebrism
+      Explanation: Contour drawing emphasizes the outline and essential features
+        of a subject, conveying its form and movement through a continuous, fluid
+        line.
+    - Question: Which drawing tool is used to create soft and subtle shading by smudging
+        graphite or charcoal?
+      TrueAnswer: Blending stump
+      FalseAnswer:
+      - Fixative spray
+      - Kneaded eraser
+      - Inking nib
+      Explanation: A blending stump, also known as a tortillon or paper stump, is
+        a tool used to blend, smudge, and soften charcoal or graphite drawings to
+        achieve delicate and smooth shading effects.
+    - Question: What is the traditional Japanese art of ink wash painting called?
+      TrueAnswer: Sumi-e
+      FalseAnswer:
+      - Ukiyo-e
+      - Nihonga
+      - Bokuseki
+      Explanation: Sumi-e, or 'ink painting,' is a technique using black ink and
+        water to create expressive and minimalistic compositions, often emphasizing
+        fluidity, spontaneity, and simplicity.
+    - Question: Which artist is known for his meticulously detailed ballpoint pen
+        drawings on large sheets of paper?
+      TrueAnswer: Nicolas V. Sanchez
+      FalseAnswer:
+      - Yayoi Kusama
+      - Ai Weiwei
+      - Marina Abramovic
+      Explanation: Nicolas V. Sanchez's intricate and surreal ballpoint pen drawings
+        showcase astonishing attention to detail and imagination, inviting viewers
+        into immersive and otherworldly narratives.
+    - Question: What is the technique of using dramatic contrasts between light and
+        dark in drawings called?
+      TrueAnswer: Chiaroscuro
+      FalseAnswer:
+      - Sfumato
+      - Impasto
+      - Tenebrism
+      Explanation: Chiaroscuro, meaning 'light-dark' in Italian, is a drawing and
+        painting technique that uses bold contrasts between light and shadow to create
+        a sense of volume and drama.

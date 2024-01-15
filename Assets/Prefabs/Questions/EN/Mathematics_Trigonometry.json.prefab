@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2724107323700358236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5875338142013328828}
+  - component: {fileID: 21551802663767257}
+  m_Layer: 0
+  m_Name: Mathematics_Trigonometry.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5875338142013328828
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2724107323700358236}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &21551802663767257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2724107323700358236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the trigonometric function opposite over hypotenuse called?
+      TrueAnswer: Sine
+      FalseAnswer:
+      - Cosine
+      - Tangent
+      - Cotangent
+      Explanation: Sine, abbreviated as sin, is a fundamental trigonometric function
+        representing the ratio of the length of the side opposite a given acute angle
+        to the hypotenuse.
+    - Question: What is the reciprocal of cosine?
+      TrueAnswer: Secant
+      FalseAnswer:
+      - Cosecant
+      - Tangent
+      - Cotangent
+      Explanation: Secant, abbreviated as sec, is the reciprocal of the cosine function.
+        It is the ratio of the hypotenuse to the adjacent side of a right-angled
+        triangle.
+    - Question: What is the ratio of the adjacent side to the hypotenuse?
+      TrueAnswer: Cosine
+      FalseAnswer:
+      - Sine
+      - Tangent
+      - Cosecant
+      Explanation: Cosine, abbreviated as cos, represents the ratio of the length
+        of the side adjacent to an acute angle to the length of the hypotenuse in
+        a right-angled triangle.
+    - Question: Which trigonometric function represents the ratio of opposite to
+        adjacent?
+      TrueAnswer: Tangent
+      FalseAnswer:
+      - Cotangent
+      - Sine
+      - Secant
+      Explanation: Tangent, denoted as tan, is the ratio of the length of the side
+        opposite to an acute angle to the length of the side adjacent to the angle
+        in a right-angled triangle.
+    - Question: What is the reciprocal of sine?
+      TrueAnswer: Cosecant
+      FalseAnswer:
+      - Secant
+      - Tangent
+      - Cotangent
+      Explanation: Cosecant, abbreviated as csc, is the reciprocal of the sine function,
+        representing the ratio of the hypotenuse to the side opposite a given acute
+        angle.
+    - Question: What is the relation between tangent and cotangent in terms of reciprocal?
+      TrueAnswer: Inverse
+      FalseAnswer:
+      - Equal
+      - Opposite
+      - Parallel
+      Explanation: Tangent and cotangent are reciprocal functions, meaning the product
+        of their values is always equal to 1 at any given angle.
+    - Question: Which trigonometric function represents the ratio of hypotenuse to
+        adjacent?
+      TrueAnswer: Secant
+      FalseAnswer:
+      - Sine
+      - Tangent
+      - Cotangent
+      Explanation: Secant, abbreviated as sec, is the ratio of the length of the
+        hypotenuse to the length of the side adjacent to an angle in a right-angled
+        triangle.
+    - Question: What is the reciprocal of tangent?
+      TrueAnswer: Cotangent
+      FalseAnswer:
+      - Secant
+      - Sine
+      - Cosecant
+      Explanation: Cotangent, often written as cot, is the reciprocal of the tangent
+        function, representing the ratio of the adjacent side to the opposite side
+        of a right-angled triangle.
+    - Question: What is the relationship between sine and cosine in terms of complementary
+        angles?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Sine and cosine are equal in value for complementary angles, meaning
+        the sine of an angle is equal to the cosine of its complement.
+    - Question: What is the derivative of sine function with respect to x?
+      TrueAnswer: Cosine
+      FalseAnswer:
+      - Tangent
+      - Cosecant
+      - Secant
+      Explanation: The derivative of the sine function with respect to the variable
+        x is the cosine function, representing the rate of change of the sine curve
+        with respect to x.
+    - Question: What is the relation between sine and cotangent in terms of reciprocal?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Sine and cotangent are reciprocals, meaning the product of their
+        values is always equal to 1 at any given angle.
+    - Question: What is the integral of cosine function with respect to x?
+      TrueAnswer: Sine
+      FalseAnswer:
+      - Tangent
+      - Cosecant
+      - Secant
+      Explanation: The integral of the cosine function with respect to the variable
+        x is the sine function, representing the accumulation of the cosine curve
+        over the interval.
+    - Question: What is the relation between cosine and secant in terms of reciprocal?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Cosine and secant are reciprocals, meaning the product of their
+        values is always equal to 1 at any given angle.
+    - Question: Which trigonometric function represents the ratio of hypotenuse to
+        opposite?
+      TrueAnswer: Cosecant
+      FalseAnswer:
+      - Sine
+      - Tangent
+      - Secant
+      Explanation: Cosecant, abbreviated as csc, represents the ratio of the length
+        of the hypotenuse to the side opposite a given acute angle in a right-angled
+        triangle.
+    - Question: What is the relation between cosine and cotangent in terms of reciprocal?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Cosine and cotangent are reciprocals, meaning the product of their
+        values is always equal to 1 at any given angle.
+    - Question: What is the integral of sine function with respect to x?
+      TrueAnswer: -Cosine
+      FalseAnswer:
+      - Tangent
+      - Cosecant
+      - Secant
+      Explanation: The integral of the sine function with respect to the variable
+        x is the negative cosine function, representing the accumulation of the sine
+        curve over the interval.
+    - Question: What is the relation between tangent and secant in terms of reciprocal?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Tangent and secant are reciprocals, meaning the product of their
+        values is always equal to 1 at any given angle.
+    - Question: What is the relationship between cosine and sine in terms of complementary
+        angles?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Cosine and sine are equal in value for complementary angles, meaning
+        the cosine of an angle is equal to the sine of its complement.
+    - Question: What is the derivative of cosine function with respect to x?
+      TrueAnswer: -Sine
+      FalseAnswer:
+      - Tangent
+      - Cosecant
+      - Secant
+      Explanation: The derivative of the cosine function with respect to the variable
+        x is the negative sine function, representing the rate of change of the cosine
+        curve with respect to x.
+    - Question: What is the relationship between secant and cosecant in terms of
+        reciprocal?
+      TrueAnswer: Equal
+      FalseAnswer:
+      - Opposite
+      - Parallel
+      - Inverse
+      Explanation: Secant and cosecant are reciprocals, meaning the product of their
+        values is always equal to 1 at any given angle.

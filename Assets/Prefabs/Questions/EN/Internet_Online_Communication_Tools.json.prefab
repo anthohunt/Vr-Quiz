@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2512556476838182710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8671774398861504385}
+  - component: {fileID: 4169917976147602444}
+  m_Layer: 0
+  m_Name: Internet_Online_Communication_Tools.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8671774398861504385
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2512556476838182710}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4169917976147602444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2512556476838182710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of Slack?
+      TrueAnswer: Team communication
+      FalseAnswer:
+      - Social media networking
+      - Video conferencing
+      - File sharing
+      Explanation: Slack is primarily used for team communication, allowing users
+        to organize conversations by topics, projects, and teams, offering integrations
+        with various tools.
+    - Question: What does SaaS stand for in the context of online tools?
+      TrueAnswer: Software as a Service
+      FalseAnswer:
+      - System as a Service
+      - Security as a Service
+      - Storage as a Service
+      Explanation: SaaS refers to Software as a Service, a software distribution
+        model where applications are hosted by a third-party provider and made available
+        to customers over the internet.
+    - Question: Which of the following is a popular project management tool?
+      TrueAnswer: Trello
+      FalseAnswer:
+      - Instagram
+      - WhatsApp
+      - Snapchat
+      Explanation: Trello is a widely used project management tool that organizes
+        tasks, projects, and teams in a visual and flexible way, featuring boards,
+        lists, and cards.
+    - Question: What does the abbreviation 'UX' stand for in the context of web design?
+      TrueAnswer: User Experience
+      FalseAnswer:
+      - Unique Xylophone
+      - Universal X-ray
+      - Underground Xylophone
+      Explanation: UX stands for User Experience, focusing on enhancing user satisfaction
+        by improving the usability, accessibility, and overall interaction with digital
+        products.
+    - Question: What is the main function of Google Drive?
+      TrueAnswer: File storage and sharing
+      FalseAnswer:
+      - Email management
+      - Social media networking
+      - Search engine optimization
+      Explanation: Google Drive serves as a file storage and synchronization service,
+        allowing users to store files in the cloud, share files, and collaborate
+        with others in real-time.
+    - Question: Which platform is known for short, real-time messaging?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - LinkedIn
+      - Pinterest
+      - Twitch
+      Explanation: Twitter is a popular platform for real-time, short-form messaging
+        called 'tweets', with a character limit of 280 characters, enabling quick
+        and concise communication.
+    - Question: What is the primary function of Zoom?
+      TrueAnswer: Video conferencing
+      FalseAnswer:
+      - Online shopping
+      - Social networking
+      - Photo editing
+      Explanation: Zoom is widely used for video conferencing, offering features
+        for virtual meetings, webinars, and remote collaboration, with options for
+        screen sharing and virtual backgrounds.
+    - Question: Which platform focuses on professional networking?
+      TrueAnswer: LinkedIn
+      FalseAnswer:
+      - Reddit
+      - Tumblr
+      - Discord
+      Explanation: LinkedIn is a social networking platform focused on professional
+        networking and career development, connecting individuals and businesses
+        for professional opportunities.
+    - Question: What is the primary use of Microsoft Teams?
+      TrueAnswer: Collaboration and communication
+      FalseAnswer:
+      - Gaming
+      - Music streaming
+      - Weather forecasting
+      Explanation: Microsoft Teams is designed for collaboration and communication
+        within organizations, providing chat, video conferencing, file sharing, and
+        integration with Microsoft 365 apps.
+    - Question: What is the main purpose of Asana?
+      TrueAnswer: Task and project management
+      FalseAnswer:
+      - Recipe sharing
+      - Fitness tracking
+      - Language learning
+      Explanation: Asana is a task and project management tool that enables teams
+        to organize, prioritize, and track work, offering features for task assignments,
+        deadlines, and progress tracking.
+    - Question: What is the primary function of Skype?
+      TrueAnswer: Voice and video calling
+      FalseAnswer:
+      - Online gaming
+      - E-commerce
+      - Music production
+      Explanation: Skype is commonly used for voice and video calling, allowing users
+        to make audio and video calls, as well as send instant messages and share
+        files.
+    - Question: Which tool is known for virtual whiteboarding and collaboration?
+      TrueAnswer: Miro
+      FalseAnswer:
+      - YouTube
+      - Instagram
+      - TikTok
+      Explanation: Miro is a platform for collaborative online whiteboarding, known
+        for visual collaboration, brainstorming, and organizing ideas using virtual
+        whiteboard canvases.
+    - Question: What is the primary use of Discord?
+      TrueAnswer: Community communication and gaming
+      FalseAnswer:
+      - News broadcasting
+      - Online shopping
+      - Art and design
+      Explanation: Discord is widely used for community communication and gaming,
+        providing text, voice, and video communication, alongside features for server
+        management and moderation.
+    - Question: Which tool is designed for real-time code collaboration and editing?
+      TrueAnswer: Visual Studio Code Live Share
+      FalseAnswer:
+      - Photo editing software
+      - Music streaming platform
+      - Tax preparation tool
+      Explanation: Visual Studio Code Live Share enables real-time code collaboration
+        and editing within the Visual Studio Code editor, allowing multiple developers
+        to work together on the same codebase.
+    - Question: What is the primary function of Figma?
+      TrueAnswer: Design prototyping and collaboration
+      FalseAnswer:
+      - Cooking recipes publication
+      - Travel booking
+      - Fitness tracking
+      Explanation: Figma is a web-based design tool used for interface design, prototyping,
+        and collaboration, enabling designers and teams to create and iterate on
+        design mockups and interactive prototypes.
+    - Question: Which platform is known for organizing and hosting webinars?
+      TrueAnswer: GoToWebinar
+      FalseAnswer:
+      - Online dating platform
+      - Food delivery service
+      - Tourism booking website
+      Explanation: GoToWebinar is a platform for organizing and hosting webinars,
+        providing features for registration, presentation sharing, audience engagement,
+        and webinar analytics.
+    - Question: What is the primary function of Slack?
+      TrueAnswer: Team communication
+      FalseAnswer:
+      - E-commerce
+      - Social media networking
+      - Search engine optimization
+      Explanation: Slack is primarily used for team communication, allowing users
+        to organize conversations by topics, projects, and teams, offering integrations
+        with various tools.
+    - Question: What does CRM stand for in the context of online tools?
+      TrueAnswer: Customer Relationship Management
+      FalseAnswer:
+      - Content Resource Management
+      - Cybersecurity Risk Management
+      - Construction Risk Mitigation
+      Explanation: CRM stands for Customer Relationship Management, referring to
+        strategies and technologies used to manage and analyze customer interactions
+        and data throughout the customer lifecycle.
+    - Question: Which platform is known for real-time document collaboration?
+      TrueAnswer: Google Docs
+      FalseAnswer:
+      - Music streaming platform
+      - Food delivery service
+      - Online gaming
+      Explanation: Google Docs enables real-time collaboration on documents, allowing
+        multiple users to edit and comment on the same document simultaneously, enhancing
+        teamwork and productivity.
+    - Question: What is the primary function of Trello?
+      TrueAnswer: Project management
+      FalseAnswer:
+      - Online dating
+      - Music streaming
+      - Fitness tracking
+      Explanation: Trello is a popular project management tool for organizing tasks,
+        projects, and teams visually, helping teams prioritize work and effectively
+        collaborate.

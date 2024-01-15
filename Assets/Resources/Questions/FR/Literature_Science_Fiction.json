@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Qui a écrit le roman 'Dune' ?",
+            "TrueAnswer": "Frank Herbert",
+            "FalseAnswer": [
+              "Isaac Asimov",
+              "Arthur C. Clarke",
+              "Philip K. Dick"
+            ],
+            "Explanation": "Le 'Dune' de Frank Herbert est un jalon de la science-fiction, ayant remporté les prix Hugo et Nebula."
+          },
+          {
+            "Question": "Quel est le titre du premier livre de la série 'Fondation' d'Isaac Asimov ?",
+            "TrueAnswer": "Fondation",
+            "FalseAnswer": [
+              "Seconde Fondation",
+              "Prélude à Fondation",
+              "Fondation et Empire"
+            ],
+            "Explanation": "La 'Fondation' d'Isaac Asimov est le premier volet de la célèbre série, explorant la psychohistoire et la civilisation humaine."
+          },
+          {
+            "Question": "En quelle année 'Neuromancer' de William Gibson a-t-il été publié ?",
+            "TrueAnswer": "1984",
+            "FalseAnswer": [
+              "1990",
+              "1979",
+              "2001"
+            ],
+            "Explanation": "'Neuromancer' de William Gibson a marqué le début de la fiction cyberpunk et demeure une œuvre phare du genre."
+          },
+          {
+            "Question": "Qui est l'auteur de 'La Main gauche de la nuit' ?",
+            "TrueAnswer": "Ursula K. Le Guin",
+            "FalseAnswer": [
+              "Margaret Atwood",
+              "Octavia E. Butler",
+              "C. J. Cherryh"
+            ],
+            "Explanation": "'La Main gauche de la nuit' d'Ursula K. Le Guin est un roman pionnier de la littérature féministe de science-fiction."
+          },
+          {
+            "Question": "Quelle est l'intelligence artificielle dans '2001 : l'Odyssée de l'espace' d'Arthur C. Clarke ?",
+            "TrueAnswer": "HAL 9000",
+            "FalseAnswer": [
+              "R2-D2",
+              "C-3PO",
+              "Data"
+            ],
+            "Explanation": "La représentation de HAL 9000 dans '2001 : l'Odyssée de l'espace' est devenue une interprétation emblématique de l'IA dans la science-fiction."
+          },
+          {
+            "Question": "Quel écrivain de science-fiction est crédité d'avoir inventé le terme 'cyberspace' ?",
+            "TrueAnswer": "William Gibson",
+            "FalseAnswer": [
+              "Philip K. Dick",
+              "Isaac Asimov",
+              "Arthur C. Clarke"
+            ],
+            "Explanation": "William Gibson, dans son roman 'Neuromancer', a popularisé et défini le concept de 'cyberspace' dans la science-fiction."
+          },
+          {
+            "Question": "Quel est le thème principal de 'Fahrenheit 451' de Ray Bradbury ?",
+            "TrueAnswer": "Censure",
+            "FalseAnswer": [
+              "Technologie",
+              "Invasion extraterrestre",
+              "Voyage dans le temps"
+            ],
+            "Explanation": "'Fahrenheit 451' de Ray Bradbury explore le danger de la censure et l'impact des gouvernements oppressifs sur la liberté intellectuelle."
+          },
+          {
+            "Question": "Qui a écrit 'La Guerre des mondes', décrivant une invasion martienne de la Terre ?",
+            "TrueAnswer": "H.G. Wells",
+            "FalseAnswer": [
+              "Jules Verne",
+              "Edgar Rice Burroughs",
+              "Mary Shelley"
+            ],
+            "Explanation": "'La Guerre des mondes' de H.G. Wells est l'une des œuvres les plus anciennes et les plus influentes du sous-genre de l'invasion extraterrestre."
+          },
+          {
+            "Question": "Quel est l'élément dystopique central dans 'Le Meilleur des mondes' d'Aldous Huxley ?",
+            "TrueAnswer": "Société contrôlée",
+            "FalseAnswer": [
+              "Catastrophe environnementale",
+              "Apocalypse zombie",
+              "Pandémie mondiale"
+            ],
+            "Explanation": "'Le Meilleur des mondes' d'Aldous Huxley présente une société contrôlée par la manipulation technologique et psychologique, explorant les thèmes de la conformité et de l'individualité."
+          },
+          {
+            "Question": "Qui a écrit le roman 'Doctor Who' 'Les Machines de guerre' ?",
+            "TrueAnswer": "George Mann",
+            "FalseAnswer": [
+              "Neil Gaiman",
+              "Terry Pratchett",
+              "Philip Pullman"
+            ],
+            "Explanation": "'Les Machines de guerre' de George Mann explore l'histoire complexe de la Guerre du Temps et l'implication du Docteur."
+          },
+          {
+            "Question": "Quel est le titre de la novella primée aux prix Hugo et Nebula de Ted Chiang ?",
+            "TrueAnswer": "L'histoire de ta vie",
+            "FalseAnswer": [
+              "Exhalation",
+              "La Tour de Babylone",
+              "Comprendre"
+            ],
+            "Explanation": "'L'histoire de ta vie' de Ted Chiang explore la linguistique, le déterminisme et la nature du temps à travers son récit stimulant."
+          },
+          {
+            "Question": "Qui est l'auteur de la série 'Le Guide du voyageur galactique' ?",
+            "TrueAnswer": "Douglas Adams",
+            "FalseAnswer": [
+              "H. G. Wells",
+              "Kurt Vonnegut",
+              "Isaac Asimov"
+            ],
+            "Explanation": "'Le Guide du voyageur galactique' de Douglas Adams est célébré pour son mélange de satire, d'absurdité et de réflexions philosophiques au sein d'un cadre de science-fiction comique."
+          },
+          {
+            "Question": "Quel est le titre du premier livre de la série 'La Stratégie Ender' d'Orson Scott Card ?",
+            "TrueAnswer": "La Stratégie Ender",
+            "FalseAnswer": [
+              "Xénocide",
+              "Les Enfants de l'Esprit",
+              "Le Cycle d'Ender"
+            ],
+            "Explanation": "'La Stratégie Ender' d'Orson Scott Card introduit le protagoniste, Ender Wiggin, et son parcours dans une société futuriste et militariste."
+          },
+          {
+            "Question": "Quel auteur de science-fiction renommé a écrit 'Cantique pour Leibowitz' ?",
+            "TrueAnswer": "Walter M. Miller Jr.",
+            "FalseAnswer": [
+              "Ursula K. Le Guin",
+              "Gene Wolfe",
+              "Cordwainer Smith"
+            ],
+            "Explanation": "'Cantique pour Leibowitz' de Walter M. Miller Jr. présente un monde post-apocalyptique et la préservation des connaissances par un ordre monastique."
+          },
+          {
+            "Question": "Quel est le titre du premier livre de la série 'Culture' de Iain M. Banks ?",
+            "TrueAnswer": "Consider Phlebas",
+            "FalseAnswer": [
+              "L'Usage des armes",
+              "Excès",
+              "Regarde Phlebas"
+            ],
+            "Explanation": "'Consider Phlebas' de Iain M. Banks introduit la civilisation Culture, expansive et énigmatique, au sein d'un univers space opera profondément imaginatif."
+          },
+          {
+            "Question": "Quel écrivain de science-fiction influent a écrit 'Ubik' ?",
+            "TrueAnswer": "Philip K. Dick",
+            "FalseAnswer": [
+              "Alfred Bester",
+              "Stanisław Lem",
+              "Greg Bear"
+            ],
+            "Explanation": "'Ubik' de Philip K. Dick est considéré comme une exploration philosophique et troublante de la réalité et de la perception dans un contexte futuriste."
+          },
+          {
+            "Question": "Qui est l'auteur de 'La Cité & la Cité', un roman de fiction spéculative mêlant crime et éléments surréalistes ?",
+            "TrueAnswer": "China Miéville",
+            "FalseAnswer": [
+              "Haruki Murakami",
+              "Kazuo Ishiguro",
+              "Jeff VanderMeer"
+            ],
+            "Explanation": "'La Cité & la Cité' de China Miéville combine habilement fiction spéculative et roman policier, décrivant deux villes se chevauchant dans le même espace physique."
+          },
+          {
+            "Question": "Dans quel roman l'auteur Octavia E. Butler explore-t-elle le thème du voyage dans le temps et de l'esclavage ?",
+            "TrueAnswer": "Sœur de sang",
+            "FalseAnswer": [
+              "Parabole du semeur",
+              "L'Herbe du diable",
+              "L'Aube"
+            ],
+            "Explanation": "'Sœur de sang' d'Octavia E. Butler mêle habilement réalisme historique, science-fiction et commentaire social pour mettre en lumière l'héritage persistant de l'esclavage."
+          },
+          {
+            "Question": "Quel est le titre du premier roman de la 'Saga Vorkosigan' écrit par Lois McMaster Bujold ?",
+            "TrueAnswer": "Les Vor de l'espace",
+            "FalseAnswer": [
+              "Mémoire",
+              "L'Apprenti guerrier",
+              "Danse miroir"
+            ],
+            "Explanation": "'Les Vor de l'espace' de Lois McMaster Bujold introduit le protagoniste, Cordelia Naismith, et pose les bases de l'univers richement développé de la 'Saga Vorkosigan'."
+          },
+          {
+            "Question": "Quel écrivain de science-fiction réputé est connu pour la série de romans de la 'Cycle de Hain', y compris 'Les Dépossédés' ?",
+            "TrueAnswer": "Ursula K. Le Guin",
+            "FalseAnswer": [
+              "Connie Willis",
+              "C. J. Cherryh",
+              "Greg Bear"
+            ],
+            "Explanation": "'Les Dépossédés' d'Ursula K. Le Guin offre une exploration captivante des idéologies politiques et des structures sociales au sein d'une société interstellaire diversifiée."
+          }
+        ]
+      }
+    }
+  ]
+}

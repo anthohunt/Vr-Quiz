@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ...?",
+          "TrueAnswer": "2",
+          "FalseAnswer": [
+            "1",
+            "3",
+            "4"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/2) = 2."
+        },
+        {
+          "Question": "What is the sum of the infinite arithmetic series 3 + 6 + 9 + 12 + ...?",
+          "TrueAnswer": "Infinity",
+          "FalseAnswer": [
+            "0",
+            "15",
+            "18"
+          ],
+          "Explanation": "The sum of an infinite arithmetic series is infinity if the common difference is not zero."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/3 + 1/9 + 1/27 + ...?",
+          "TrueAnswer": "3/2",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "4"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/3) = 3/2."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 2 + 4 + 8 + ...?",
+          "TrueAnswer": "Infinity",
+          "FalseAnswer": [
+            "0",
+            "15",
+            "16"
+          ],
+          "Explanation": "The sum of an infinite geometric series is infinity if the common ratio is greater than or equal to 1."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 - 1/2 + 1/4 - 1/8 + ...?",
+          "TrueAnswer": "2/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "4"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 + 1/2) = 2/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/2 + 1/6 + 1/24 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/2) = 4/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/5 + 1/25 + 1/125 + ...?",
+          "TrueAnswer": "5/4",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/5) = 5/4."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/10 + 1/100 + 1/1000 + ...?",
+          "TrueAnswer": "10/9",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/10) = 10/9."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/3 + 1/9 + 1/27 + ...?",
+          "TrueAnswer": "3/2",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "4"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/3) = 3/2."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/4 + 1/16 + 1/64 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/4) = 4/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/2 + 1/8 + 1/32 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/2) = 4/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/3 + 1/27 + 1/243 + ...?",
+          "TrueAnswer": "3/2",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "4"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/3) = 3/2."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/5 + 1/25 + 1/125 + ...?",
+          "TrueAnswer": "5/4",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/5) = 5/4."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/10 + 1/100 + 1/1000 + ...?",
+          "TrueAnswer": "10/9",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/10) = 10/9."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/4 + 1/16 + 1/64 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/4) = 4/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/2 + 1/8 + 1/32 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/2) = 4/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/3 + 1/27 + 1/243 + ...?",
+          "TrueAnswer": "3/2",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "4"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/3) = 3/2."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/5 + 1/25 + 1/125 + ...?",
+          "TrueAnswer": "5/4",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/5) = 5/4."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/10 + 1/100 + 1/1000 + ...?",
+          "TrueAnswer": "10/9",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/10) = 10/9."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/4 + 1/16 + 1/64 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/4) = 4/3."
+        },
+        {
+          "Question": "What is the sum of the infinite series 1 + 1/2 + 1/8 + 1/32 + ...?",
+          "TrueAnswer": "4/3",
+          "FalseAnswer": [
+            "1",
+            "2",
+            "3"
+          ],
+          "Explanation": "The sum of an infinite geometric series with a common ratio between -1 and 1 is equal to the first term divided by (1 - common ratio). In this case, the sum is 1 / (1 - 1/2) = 4/3."
+        }
+      ]
+    }
+  ]
+}

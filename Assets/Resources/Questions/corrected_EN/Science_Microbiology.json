@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "Which microscope is used to observe live microorganisms?",
+          "TrueAnswer": "Compound",
+          "FalseAnswer": [
+            "Electron",
+            "Fluorescence",
+            "Scanning"
+          ],
+          "Explanation": "Compound microscopes use two or more lenses to magnify live microorganisms, making them suitable for observing cellular structures and processes."
+        },
+        {
+          "Question": "What is the size range of bacteria in micrometers?",
+          "TrueAnswer": "0.2-10",
+          "FalseAnswer": [
+            "0.001-0.1",
+            "0.1-1",
+            "1-100"
+          ],
+          "Explanation": "Bacteria vary in size, but most are between 0.2 to 10 micrometers, making them visible only under a microscope."
+        },
+        {
+          "Question": "Which technique is used to culture bacteria on solid media?",
+          "TrueAnswer": "Streaking",
+          "FalseAnswer": [
+            "Pouring",
+            "Swabbing",
+            "Dilution"
+          ],
+          "Explanation": "Streaking involves the use of an inoculating loop to spread bacterial cells on the surface of solid media to isolate single colonies."
+        },
+        {
+          "Question": "What is the primary stain used in the Gram staining method?",
+          "TrueAnswer": "Crystal violet",
+          "FalseAnswer": [
+            "Methylene blue",
+            "Safranin",
+            "Carbolfuchsin"
+          ],
+          "Explanation": "Crystal violet is used as the primary stain in the Gram staining process to colorize bacterial cells for differentiation under a microscope."
+        },
+        {
+          "Question": "Which enzyme is used to amplify DNA in PCR?",
+          "TrueAnswer": "Polymerase",
+          "FalseAnswer": [
+            "Ligase",
+            "Helicase",
+            "Restriction endonuclease"
+          ],
+          "Explanation": "DNA polymerase is essential in PCR for synthesizing new DNA strands from the template DNA, enabling exponential amplification of the target sequence."
+        },
+        {
+          "Question": "What is the major site for ATP synthesis in prokaryotic cells?",
+          "TrueAnswer": "Cell membrane",
+          "FalseAnswer": [
+            "Nucleus",
+            "Endoplasmic reticulum",
+            "Golgi apparatus"
+          ],
+          "Explanation": "In prokaryotic cells, ATP synthesis occurs at the cell membrane through the electron transport chain and ATP synthase complexes."
+        },
+        {
+          "Question": "Which microorganism is used in the production of yogurt?",
+          "TrueAnswer": "Lactobacillus",
+          "FalseAnswer": [
+            "Streptococcus",
+            "Saccharomyces",
+            "Escherichia"
+          ],
+          "Explanation": "Lactobacillus bacteria ferment lactose to produce lactic acid, contributing to the tangy flavor and texture of yogurt."
+        },
+        {
+          "Question": "What type of virus causes chickenpox?",
+          "TrueAnswer": "Varicella-zoster",
+          "FalseAnswer": [
+            "Influenza",
+            "Hepatitis B",
+            "HIV"
+          ],
+          "Explanation": "Varicella-zoster virus, a member of the herpesvirus family, is responsible for causing chickenpox and shingles in humans."
+        },
+        {
+          "Question": "What is the primary mode of bacterial reproduction?",
+          "TrueAnswer": "Binary fission",
+          "FalseAnswer": [
+            "Mitosis",
+            "Budding",
+            "Meiosis"
+          ],
+          "Explanation": "Binary fission is the process by which a bacterial cell divides into two identical daughter cells, allowing rapid population growth under favorable conditions."
+        },
+        {
+          "Question": "Which part of a virus is critical for attaching to host cells?",
+          "TrueAnswer": "Glycoprotein",
+          "FalseAnswer": [
+            "Lipid bilayer",
+            "Nucleocapsid",
+            "RNA genome"
+          ],
+          "Explanation": "Glycoproteins on the viral envelope or capsid play a crucial role in recognizing and binding to specific receptor molecules on host cells."
+        },
+        {
+          "Question": "What is the energy currency of microbial metabolism?",
+          "TrueAnswer": "ATP",
+          "FalseAnswer": [
+            "NADH",
+            "FADH2",
+            "GTP"
+          ],
+          "Explanation": "ATP (adenosine triphosphate) serves as the primary energy carrier in microbial metabolism, facilitating diverse cellular processes through its hydrolysis."
+        },
+        {
+          "Question": "In which group do most human pathogens belong?",
+          "TrueAnswer": "Bacteria",
+          "FalseAnswer": [
+            "Fungi",
+            "Protozoa",
+            "Archaea"
+          ],
+          "Explanation": "Among microorganisms, bacteria are the most common causative agents of human diseases, ranging from mild infections to serious illnesses."
+        },
+        {
+          "Question": "Which molecule serves as a genetic material in most viruses?",
+          "TrueAnswer": "RNA",
+          "FalseAnswer": [
+            "DNA",
+            "Protein",
+            "Lipid"
+          ],
+          "Explanation": "Most viruses carry RNA as their genetic material, which directs the synthesis of viral proteins and enables replication within host cells."
+        },
+        {
+          "Question": "What is the process of viral release from a host cell?",
+          "TrueAnswer": "Lysis",
+          "FalseAnswer": [
+            "Endocytosis",
+            "Budding",
+            "Recombination"
+          ],
+          "Explanation": "Viral lysis involves the rupture of the host cell membrane, releasing newly formed virions to infect other cells and propagate the viral infection."
+        },
+        {
+          "Question": "Which structure in bacteria provides motility?",
+          "TrueAnswer": "Flagellum",
+          "FalseAnswer": [
+            "Pilus",
+            "Capsule",
+            "Plasmid"
+          ],
+          "Explanation": "Flagella are whip-like appendages in bacteria that enable motility by rotating and propelling the cell through its surrounding environment."
+        },
+        {
+          "Question": "What is the target of antibiotics that inhibit bacterial cell wall synthesis?",
+          "TrueAnswer": "Peptidoglycan",
+          "FalseAnswer": [
+            "Chitin",
+            "Cellulose",
+            "Lipopolysaccharide"
+          ],
+          "Explanation": "Peptidoglycan, a unique polymer in bacterial cell walls, is the primary target of antibiotics like penicillin, disrupting cell wall integrity and leading to cell lysis."
+        },
+        {
+          "Question": "Which microorganism is used in the production of bread?",
+          "TrueAnswer": "Saccharomyces",
+          "FalseAnswer": [
+            "Lactobacillus",
+            "Streptococcus",
+            "Escherichia"
+          ],
+          "Explanation": "Saccharomyces cerevisiae, a yeast, is essential in bread production, fermenting sugars to produce carbon dioxide, which causes dough to rise."
+        },
+        {
+          "Question": "What is the primary role of bacterial capsules?",
+          "TrueAnswer": "Protection",
+          "FalseAnswer": [
+            "Nutrient storage",
+            "Cellular adhesion",
+            "Metabolic regulation"
+          ],
+          "Explanation": "Bacterial capsules serve as a protective layer, shielding the cell from desiccation, phagocytosis, and immune responses from the host."
+        },
+        {
+          "Question": "Which type of organism is responsible for nitrogen fixation in legume root nodules?",
+          "TrueAnswer": "Rhizobia",
+          "FalseAnswer": [
+            "Mycorrhizae",
+            "Azotobacter",
+            "Bacillus"
+          ],
+          "Explanation": "Rhizobia bacteria establish a symbiotic relationship with legume plants, where they fix atmospheric nitrogen into a form usable by the host plant for growth."
+        },
+        {
+          "Question": "What is the microbial process involved in the production of alcohol?",
+          "TrueAnswer": "Fermentation",
+          "FalseAnswer": [
+            "Respiration",
+            "Photosynthesis",
+            "Ammonification"
+          ],
+          "Explanation": "Fermentation by yeast or bacteria converts sugars into ethanol and carbon dioxide, commonly used in the production of alcoholic beverages and biofuels."
+        }
+      ]
+    }
+  ]
+}

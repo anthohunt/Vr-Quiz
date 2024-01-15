@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1673777915287838229
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9040399058794540515}
+  - component: {fileID: 8892002859435906226}
+  m_Layer: 0
+  m_Name: Sports_Soccer Around the World.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9040399058794540515
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673777915287838229}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8892002859435906226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1673777915287838229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country has won the most FIFA World Cup titles?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - Germany
+      - Italy
+      - Argentina
+      Explanation: Brazil has won the FIFA World Cup a record 5 times, in 1958, 1962,
+        1970, 1994, and 2002.
+    - Question: Who is the all-time leading goal scorer in international soccer?
+      TrueAnswer: Ali Daei
+      FalseAnswer:
+      - Cristiano Ronaldo
+      - Lionel Messi
+      - Pele
+      Explanation: Ali Daei from Iran holds the record for the most international
+        goals scored, with 109 goals.
+    - Question: Which country hosted the first ever FIFA World Cup in 1930?
+      TrueAnswer: Uruguay
+      FalseAnswer:
+      - Brazil
+      - Italy
+      - Germany
+      Explanation: Uruguay hosted and won the inaugural FIFA World Cup in 1930, defeating
+        Argentina in the final.
+    - Question: Which country has won the most UEFA European Championship titles?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - Spain
+      - France
+      - Italy
+      Explanation: Germany has won the UEFA European Championship a record 3 times,
+        in 1972, 1980, and 1996.
+    - Question: Who is the all-time leading goal scorer in the English Premier League?
+      TrueAnswer: Alan Shearer
+      FalseAnswer:
+      - Thierry Henry
+      - Wayne Rooney
+      - Cristiano Ronaldo
+      Explanation: Alan Shearer scored a record 260 goals in the English Premier
+        League during his career.
+    - Question: Which country has won the most Copa America titles?
+      TrueAnswer: Uruguay
+      FalseAnswer:
+      - Brazil
+      - Argentina
+      - Chile
+      Explanation: Uruguay has won the Copa America a record 15 times, the most of
+        any country.
+    - Question: Who is the all-time leading goal scorer in the UEFA Champions League?
+      TrueAnswer: Cristiano Ronaldo
+      FalseAnswer:
+      - Lionel Messi
+      - Raul
+      - Robert Lewandowski
+      Explanation: Cristiano Ronaldo holds the record for the most goals scored in
+        the UEFA Champions League, with 134 goals.
+    - Question: Which country has won the most Africa Cup of Nations titles?
+      TrueAnswer: Egypt
+      FalseAnswer:
+      - Cameroon
+      - Nigeria
+      - Ghana
+      Explanation: Egypt has won the Africa Cup of Nations a record 7 times, the
+        most of any country.
+    - Question: Who is the all-time leading goal scorer in the FIFA Women's World
+        Cup?
+      TrueAnswer: Marta
+      FalseAnswer:
+      - Birgit Prinz
+      - Abby Wambach
+      - Mia Hamm
+      Explanation: Marta from Brazil holds the record for the most goals scored in
+        the FIFA Women's World Cup, with 17 goals.
+    - Question: Which country has won the most Asian Cup titles?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - South Korea
+      - Iran
+      - Saudi Arabia
+      Explanation: Japan has won the Asian Cup a record 4 times, the most of any
+        country.
+    - Question: Who is the all-time leading goal scorer in the UEFA European Championship?
+      TrueAnswer: Michel Platini
+      FalseAnswer:
+      - Cristiano Ronaldo
+      - Thierry Henry
+      - Marco van Basten
+      Explanation: Michel Platini from France holds the record for the most goals
+        scored in the UEFA European Championship, with 9 goals.
+    - Question: Which country has won the most Olympic gold medals in men's soccer?
+      TrueAnswer: Hungary
+      FalseAnswer:
+      - Brazil
+      - Argentina
+      - Germany
+      Explanation: Hungary has won the most Olympic gold medals in men's soccer,
+        with 3 gold medals.
+    - Question: Who is the all-time leading goal scorer in the Copa America?
+      TrueAnswer: "Norberto M\xE9ndez"
+      FalseAnswer:
+      - Lionel Messi
+      - Gabriel Batistuta
+      - Zizinho
+      Explanation: "Norberto M\xE9ndez from Argentina holds the record for the most
+        goals scored in the Copa America, with 17 goals."
+    - Question: Which country has won the most FIFA Club World Cup titles?
+      TrueAnswer: Real Madrid
+      FalseAnswer:
+      - Barcelona
+      - Bayern Munich
+      - Manchester United
+      Explanation: Real Madrid has won the FIFA Club World Cup a record 4 times,
+        the most of any club.
+    - Question: Who is the all-time leading goal scorer in the FIFA Club World Cup?
+      TrueAnswer: Cristiano Ronaldo
+      FalseAnswer:
+      - Lionel Messi
+      - Karim Benzema
+      - Robert Lewandowski
+      Explanation: Cristiano Ronaldo holds the record for the most goals scored in
+        the FIFA Club World Cup, with 7 goals.
+    - Question: Which country has won the most CONCACAF Gold Cup titles?
+      TrueAnswer: Mexico
+      FalseAnswer:
+      - United States
+      - Costa Rica
+      - Canada
+      Explanation: Mexico has won the CONCACAF Gold Cup a record 8 times, the most
+        of any country.
+    - Question: Who is the all-time leading goal scorer in the CONCACAF Gold Cup?
+      TrueAnswer: Landon Donovan
+      FalseAnswer:
+      - Clint Dempsey
+      - Javier Hernandez
+      - Brian McBride
+      Explanation: Landon Donovan from the United States holds the record for the
+        most goals scored in the CONCACAF Gold Cup, with 18 goals.
+    - Question: Which country has won the most African Cup of Nations titles?
+      TrueAnswer: Egypt
+      FalseAnswer:
+      - Cameroon
+      - Nigeria
+      - Ghana
+      Explanation: Egypt has won the African Cup of Nations a record 7 times, the
+        most of any country.
+    - Question: Who is the all-time leading goal scorer in the African Cup of Nations?
+      TrueAnswer: Samuel Eto'o
+      FalseAnswer:
+      - Didier Drogba
+      - Hossam Hassan
+      - Roger Milla
+      Explanation: Samuel Eto'o from Cameroon holds the record for the most goals
+        scored in the African Cup of Nations, with 18 goals.
+    - Question: Which country has won the most OFC Nations Cup titles?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - Australia
+      - Fiji
+      - Solomon Islands
+      Explanation: New Zealand has won the OFC Nations Cup a record 5 times, the
+        most of any country.
+    - Question: Who is the all-time leading goal scorer in the OFC Nations Cup?
+      TrueAnswer: Wynton Rufer
+      FalseAnswer:
+      - Shane Smeltz
+      - Chris Killen
+      - Roy Krishna
+      Explanation: Wynton Rufer from New Zealand holds the record for the most goals
+        scored in the OFC Nations Cup, with 10 goals.

@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8602212819028942133
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6544904921543191818}
+  - component: {fileID: 8629354498556455498}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoon_Network_Originals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6544904921543191818
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8602212819028942133}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8629354498556455498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8602212819028942133}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the city where 'The Powerpuff Girls' live?
+      TrueAnswer: Townsville
+      FalseAnswer:
+      - Metropolis
+      - Springfield
+      - Bikini Bottom
+      Explanation: Townsville is the fictional city where the Powerpuff Girls protect
+        the world from villains and monsters.
+    - Question: Which Cartoon Network show follows the adventures of a boy and his
+        magical dog in the Land of Ooo?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - Regular Show
+      - The Amazing World of Gumball
+      - Steven Universe
+      Explanation: Adventure Time, created by Pendleton Ward, is known for its post-apocalyptic
+        setting and surreal humor.
+    - Question: In 'Dexter's Laboratory', what is the name of Dee Dee's science-obsessed
+        brother?
+      TrueAnswer: Dexter
+      FalseAnswer:
+      - Mandark
+      - Bubbles
+      - Johnny Bravo
+      Explanation: Dexter, the boy genius, often faces comedic conflicts with his
+        mischievous older sister, Dee Dee.
+    - Question: Which group of kids solve mysteries with a crime-solving dog in 'Scooby-Doo,
+        Where Are You!'?
+      TrueAnswer: Mystery Inc.
+      FalseAnswer:
+      - The Goonies
+      - The Rugrats
+      - The Jetsons
+      Explanation: Mystery Inc., comprised of Fred, Daphne, Velma, Shaggy, and Scooby-Doo,
+        investigates spooky and puzzling cases.
+    - Question: What is the name of the mischievous troublemaker in 'Ed, Edd n Eddy'?
+      TrueAnswer: Eddy
+      FalseAnswer:
+      - Ed
+      - Kevin
+      - Rolf
+      Explanation: Eddy is the self-appointed leader of the trio, often devising
+        get-rich-quick schemes to earn jawbreakers.
+    - Question: Who is the main character of 'Samurai Jack', a time-displaced samurai
+        seeking to return to his own time?
+      TrueAnswer: Jack
+      FalseAnswer:
+      - Aku
+      - Ashi
+      - Scaramouche
+      Explanation: Jack, voiced by Phil LaMarr, embarks on a quest to defeat the
+        shape-shifting demon, Aku.
+    - Question: What are the names of the three bear siblings in 'We Bare Bears'?
+      TrueAnswer: Grizzly, Panda, Ice Bear
+      FalseAnswer:
+      - Yogi, Boo-Boo, Cindy
+      - Rigby, Mordecai, Benson
+      - Oscar, Hedgehog, Max
+      Explanation: The show chronicles the daily life of the bear siblings as they
+        integrate into human society and seek adventure.
+    - Question: Which Cartoon Network series features a boy with a magical scar on
+        his forehead?
+      TrueAnswer: The Grim Adventures of Billy & Mandy
+      FalseAnswer:
+      - Foster's Home for Imaginary Friends
+      - Courage the Cowardly Dog
+      - 'Codename: Kids Next Door'
+      Explanation: Harry Potter parodies are present in the show, with Grim as the
+        Deathly Hallows symbol.
+    - Question: 'In ''Codename: Kids Next Door'', what are the operatives'' numbers?'
+      TrueAnswer: 1, 2, 3, 4, 5
+      FalseAnswer:
+      - A, B, C, D, E
+      - Alpha, Bravo, Charlie, Delta, Echo
+      - I, II, III, IV, V
+      Explanation: The five operatives, Numbuh 1, 2, 3, 4, and 5, are members of
+        the global organization Kids Next Door.
+    - Question: Which superhero team fights evil in 'Teen Titans'?
+      TrueAnswer: Robin, Starfire, Raven, Cyborg, Beast Boy
+      FalseAnswer:
+      - The Justice League
+      - The Avengers
+      - The Incredibles
+      Explanation: The show follows the Titans' battles against a variety of antagonists,
+        both within and outside the team.
+    - Question: What is the name of the villain who constantly tries to steal the
+        Krabby Patty formula in 'SpongeBob SquarePants'?
+      TrueAnswer: Plankton
+      FalseAnswer:
+      - Flats the Flounder
+      - Bubble Bass
+      - Man Ray
+      Explanation: Plankton, owner of the Chum Bucket, often resorts to elaborate
+        and comedic schemes to outdo Mr. Krabs.
+    - Question: What is the full name of the alien protagonist in 'Ben 10'?
+      TrueAnswer: Benjamin Tennyson
+      FalseAnswer:
+      - Max Tennyson
+      - Kevin Levin
+      - Gwen Tennyson
+      Explanation: Ben Tennyson discovers the Omnitrix, a device that allows him
+        to transform into various alien forms, using his full name.
+    - Question: What creature does Courage frequently encounter in 'Courage the Cowardly
+        Dog'?
+      TrueAnswer: The Katz
+      FalseAnswer:
+      - The Slugs
+      - The Weremole
+      - The Scarecrow
+      Explanation: The Katz, a sinister and enigmatic figure, often terrifies and
+        confounds Courage with his appearances.
+    - Question: In 'The Flintstones', what is the name of Fred Flintstone's best
+        friend and neighbor?
+      TrueAnswer: Barney Rubble
+      FalseAnswer:
+      - Dino
+      - George Jetson
+      - Yogi Bear
+      Explanation: Barney Rubble is known for his easygoing and loyal nature, often
+        joining Fred in various misadventures.
+    - Question: What is the title of the space-themed action show featuring the Irken
+        invader Zim?
+      TrueAnswer: Invader Zim
+      FalseAnswer:
+      - Space Ghost
+      - Johnny Bravo
+      - The Jetsons
+      Explanation: Irken Zim plots to conquer the Earth but faces constant interference
+        from his malfunctioning robot servant, GIR.
+    - Question: Which Cartoon Network show revolves around the escapades of a boy
+        and his shape-shifting dog?
+      TrueAnswer: 'Grim & Evil: The Adventure Begins'
+      FalseAnswer:
+      - My Gym Partner's a Monkey
+      - Foster's Home for Imaginary Friends
+      - Hi Hi Puffy AmiYumi
+      Explanation: Originally titled 'Grim & Evil', the show features Grim Reaper,
+        Billy, and Mandy, and later spun off into its own series.
+    - Question: What is the name of the naive and optimistic robot in 'The Powerpuff
+        Girls'?
+      TrueAnswer: Bubbles
+      FalseAnswer:
+      - Buttercup
+      - Blossom
+      - Mojo Jojo
+      Explanation: Bubbles, a compassionate and gentle character, balances the group
+        dynamics with her innocence and kindness.
+    - Question: Which creature causes mayhem in 'Foster's Home for Imaginary Friends'?
+      TrueAnswer: Bloo
+      FalseAnswer:
+      - Eduardo
+      - Wilt
+      - Mac
+      Explanation: Bloo, an impulsive and mischievous imaginary friend, often leads
+        the other residents into chaotic situations.
+    - Question: What type of animal is the quirky title character in 'The Grim Adventures
+        of Billy & Mandy'?
+      TrueAnswer: Grim Reaper
+      FalseAnswer:
+      - Vampire
+      - Witch
+      - Frankenstein's Monster
+      Explanation: Grim, the anthropomorphic personification of death, is bound to
+        serve Billy and Mandy after losing a limbo contest.
+    - Question: Which Cartoon Network series features a team of intergalactic heroes
+        led by a space-faring monkey?
+      TrueAnswer: Dexter's Laboratory
+      FalseAnswer:
+      - The Jetsons
+      - The Flintstones
+      - Toonami
+      Explanation: In the episode 'Dial M for Monkey', Dexter's pet lab monkey secretly
+        protects the world from extraterrestrial threats.

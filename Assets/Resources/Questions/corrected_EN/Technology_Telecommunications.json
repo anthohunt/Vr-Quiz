@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the maximum speed of a standard 4G LTE network?",
+          "TrueAnswer": "100 Mbps",
+          "FalseAnswer": [
+            "50 Mbps",
+            "200 Mbps",
+            "500 Mbps"
+          ],
+          "Explanation": "4G LTE networks can reach speeds of up to 100 Mbps under ideal conditions, making it faster than 3G but slower than 5G."
+        },
+        {
+          "Question": "Which technology does VoIP use to transmit phone calls over the internet?",
+          "TrueAnswer": "IP",
+          "FalseAnswer": [
+            "ISDN",
+            "GSM",
+            "CDMA"
+          ],
+          "Explanation": "VoIP, or Voice over Internet Protocol, uses the Internet Protocol (IP) to transmit voice communication over the internet."
+        },
+        {
+          "Question": "What is the frequency range of traditional Wi-Fi networks in gigahertz (GHz)?",
+          "TrueAnswer": "2.4 GHz",
+          "FalseAnswer": [
+            "5 GHz",
+            "1 GHz",
+            "3 GHz"
+          ],
+          "Explanation": "Traditional Wi-Fi networks operate in the 2.4 GHz frequency range, offering good range but potentially more interference from other devices."
+        },
+        {
+          "Question": "Which type of cables are commonly used for transmitting digital audio and video signals?",
+          "TrueAnswer": "HDMI",
+          "FalseAnswer": [
+            "VGA",
+            "S/PDIF",
+            "RCA"
+          ],
+          "Explanation": "HDMI (High Definition Multimedia Interface) cables are widely used for transmitting high-quality digital audio and video signals between devices like TVs and media players."
+        },
+        {
+          "Question": "What is the purpose of a MAC address in a telecommunications network?",
+          "TrueAnswer": "Device identification",
+          "FalseAnswer": [
+            "Data encryption",
+            "Network routing",
+            "Signal modulation"
+          ],
+          "Explanation": "A MAC address (Media Access Control address) is used to uniquely identify network devices for communication within a local network environment, such as Ethernet or Wi-Fi."
+        },
+        {
+          "Question": "Which type of modulation is primarily used in 4G and 5G cellular networks?",
+          "TrueAnswer": "OFDM",
+          "FalseAnswer": [
+            "AM",
+            "FM",
+            "PM"
+          ],
+          "Explanation": "Orthogonal Frequency-Division Multiplexing (OFDM) is the primary modulation technique used in modern cellular networks like 4G LTE and 5G, enabling efficient data transmission in wireless channels."
+        },
+        {
+          "Question": "What is the maximum data transfer rate of a standard Ethernet cable (in Mbps)?",
+          "TrueAnswer": "1000 Mbps",
+          "FalseAnswer": [
+            "500 Mbps",
+            "100 Mbps",
+            "10 Gbps"
+          ],
+          "Explanation": "A standard Ethernet cable, commonly known as Cat 5e or Cat 6, can support data transfer rates up to 1000 Mbps, also referred to as Gigabit Ethernet."
+        },
+        {
+          "Question": "Which organization is responsible for setting global telecommunication standards?",
+          "TrueAnswer": "ITU",
+          "FalseAnswer": [
+            "IEEE",
+            "ISO",
+            "FCC"
+          ],
+          "Explanation": "The International Telecommunication Union (ITU) is the specialized agency of the United Nations responsible for setting global standards for telecommunications and information and communication technologies."
+        },
+        {
+          "Question": "What is the primary function of a router in a computer network?",
+          "TrueAnswer": "Packet forwarding",
+          "FalseAnswer": [
+            "Data storage",
+            "Heat dissipation",
+            "Power distribution"
+          ],
+          "Explanation": "Routers handle the forwarding of data packets between different networks, determining the best path for the packets to reach their destination across a complex interconnected network."
+        },
+        {
+          "Question": "Which wireless technology is commonly used for short-range data exchange between devices?",
+          "TrueAnswer": "Bluetooth",
+          "FalseAnswer": [
+            "NFC",
+            "WiMax",
+            "Zigbee"
+          ],
+          "Explanation": "Bluetooth technology is widely used for short-range communication between devices, such as smartphones, headphones, and computer peripherals, using the 2.4 GHz frequency band."
+        },
+        {
+          "Question": "What is the primary function of DNS in telecommunications and network systems?",
+          "TrueAnswer": "Domain name resolution",
+          "FalseAnswer": [
+            "Data encryption",
+            "Traffic shaping",
+            "Signal modulation"
+          ],
+          "Explanation": "The Domain Name System (DNS) resolves domain names to IP addresses, enabling users to access websites and other network services using easy-to-remember domain names instead of complex IP addresses."
+        },
+        {
+          "Question": "Which satellite navigation system provides global positioning and time information?",
+          "TrueAnswer": "GPS",
+          "FalseAnswer": [
+            "GLONASS",
+            "Galileo",
+            "BeiDou"
+          ],
+          "Explanation": "The Global Positioning System (GPS) is a satellite-based navigation system owned and operated by the United States government, providing accurate positioning and timing services worldwide."
+        },
+        {
+          "Question": "What is the standard protocol used for secure communication over the internet?",
+          "TrueAnswer": "HTTPS",
+          "FalseAnswer": [
+            "FTP",
+            "SMTP",
+            "TELNET"
+          ],
+          "Explanation": "HTTPS (HyperText Transfer Protocol Secure) is the standard protocol for secure communication over the internet, ensuring confidentiality and integrity of data transmitted between web servers and clients."
+        },
+        {
+          "Question": "Which of the following is a common type of fiber optic connector used in telecommunications?",
+          "TrueAnswer": "LC",
+          "FalseAnswer": [
+            "RJ45",
+            "USB",
+            "Thunderbolt"
+          ],
+          "Explanation": "The LC (Lucent Connector) is a common type of fiber optic connector used in telecommunications and data communication applications, known for its compact size and low insertion loss."
+        },
+        {
+          "Question": "In telecommunication, what does DSL stand for?",
+          "TrueAnswer": "Digital Subscriber Line",
+          "FalseAnswer": [
+            "Data Storage Locator",
+            "Dynamic Security Layer",
+            "Digital Signal Link"
+          ],
+          "Explanation": "DSL, or Digital Subscriber Line, is a technology that provides high-speed internet access over traditional copper telephone lines, allowing simultaneous data and voice communications."
+        },
+        {
+          "Question": "What is the maximum range of a typical Bluetooth wireless connection (in meters)?",
+          "TrueAnswer": "10 meters",
+          "FalseAnswer": [
+            "100 meters",
+            "1 meter",
+            "50 meters"
+          ],
+          "Explanation": "The typical range of a Bluetooth wireless connection is around 10 meters, enabling short-range communication between devices in close proximity."
+        },
+        {
+          "Question": "Which protocol is commonly used for sending and receiving email messages over the internet?",
+          "TrueAnswer": "SMTP",
+          "FalseAnswer": [
+            "SSH",
+            "POP3",
+            "IMAP"
+          ],
+          "Explanation": "Simple Mail Transfer Protocol (SMTP) is the standard protocol used for sending and receiving email messages over the internet, facilitating the transfer of electronic mail between servers."
+        },
+        {
+          "Question": "What does the acronym 'VoLTE' stand for in telecommunications?",
+          "TrueAnswer": "Voice over LTE",
+          "FalseAnswer": [
+            "Video on Landline",
+            "Virtual Office Telephony",
+            "Visual Optimization of Telecommunication Equipment"
+          ],
+          "Explanation": "VoLTE, or Voice over LTE, enables the delivery of voice communication over 4G LTE networks, providing high-quality, high-speed voice calls alongside data services."
+        },
+        {
+          "Question": "What is the primary purpose of a mobile network's Home Location Register (HLR)?",
+          "TrueAnswer": "Subscriber data storage",
+          "FalseAnswer": [
+            "Signal transmission",
+            "Network maintenance",
+            "Location tracking"
+          ],
+          "Explanation": "The Home Location Register (HLR) in a mobile network is responsible for storing subscriber data, including user identity, service profiles, and current location information for call routing and billing purposes."
+        },
+        {
+          "Question": "In telecommunications, what does the acronym 'OTT' stand for?",
+          "TrueAnswer": "Over-the-Top",
+          "FalseAnswer": [
+            "On-Time Telecommunication",
+            "Outbound Transmission Technology",
+            "Optical Telephony Transfer"
+          ],
+          "Explanation": "Over-the-Top (OTT) refers to the delivery of media and communication content over the internet without the involvement of traditional service providers, bypassing their network control and regulations."
+        }
+      ]
+    }
+  ]
+}

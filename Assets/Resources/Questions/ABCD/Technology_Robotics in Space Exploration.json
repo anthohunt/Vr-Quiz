@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the name of the first robot to land on Mars?",
+          "TrueAnswer": "Sojourner",
+          "FalseAnswer": [
+            "Opportunity",
+            "Curiosity",
+            "Spirit"
+          ],
+          "Explanation": "Sojourner was the first successful Mars rover, landing on July 4, 1997, as part of the Mars Pathfinder mission."
+        },
+        {
+          "Question": "Which country's space agency developed the robot named Robonaut 2?",
+          "TrueAnswer": "NASA",
+          "FalseAnswer": [
+            "ESA",
+            "Roscosmos",
+            "ISRO"
+          ],
+          "Explanation": "Robonaut 2, or R2, was developed by NASA to assist astronauts in space exploration tasks."
+        },
+        {
+          "Question": "What is the primary purpose of the Canadarm on the International Space Station?",
+          "TrueAnswer": "Robotic Manipulator",
+          "FalseAnswer": [
+            "Solar Power Generation",
+            "Life Support System",
+            "Communication"
+          ],
+          "Explanation": "The Canadarm is a robotic manipulator used for capturing and manipulating payloads, assisting in spacewalks, and more."
+        },
+        {
+          "Question": "Which robot was the first to perform a soft landing on the Moon?",
+          "TrueAnswer": "Lunokhod 1",
+          "FalseAnswer": [
+            "Yutu",
+            "Chandrayaan-2",
+            "Apollo Lunar Module"
+          ],
+          "Explanation": "Lunokhod 1, a Soviet robotic rover, was the first to successfully land and explore the Moon's surface in 1970."
+        },
+        {
+          "Question": "What is the name of the robot that assisted in repairing the Hubble Space Telescope?",
+          "TrueAnswer": "Dextre",
+          "FalseAnswer": [
+            "Robonaut 2",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Dextre, also known as the Special Purpose Dexterous Manipulator, was used to perform delicate repairs on the Hubble Space Telescope."
+        },
+        {
+          "Question": "Which robot was the first to autonomously explore the surface of Mars?",
+          "TrueAnswer": "Sojourner",
+          "FalseAnswer": [
+            "Opportunity",
+            "Curiosity",
+            "Spirit"
+          ],
+          "Explanation": "Sojourner, part of the Mars Pathfinder mission, was the first robot to autonomously explore the Martian surface."
+        },
+        {
+          "Question": "What is the name of the robot that successfully landed on the asteroid Ryugu?",
+          "TrueAnswer": "MASCOT",
+          "FalseAnswer": [
+            "Hayabusa2",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "MASCOT, developed by the German Aerospace Center, successfully landed on the asteroid Ryugu in 2018."
+        },
+        {
+          "Question": "Which robot was the first to land on a comet?",
+          "TrueAnswer": "Philae",
+          "FalseAnswer": [
+            "Rosetta",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Philae, part of the Rosetta mission, was the first robot to successfully land on a comet in 2014."
+        },
+        {
+          "Question": "What is the name of the robot that assisted in assembling the International Space Station?",
+          "TrueAnswer": "Canadarm2",
+          "FalseAnswer": [
+            "Robonaut 2",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Canadarm2, a robotic arm developed by the Canadian Space Agency, played a crucial role in assembling the ISS."
+        },
+        {
+          "Question": "Which robot was the first to perform a powered flight on another planet?",
+          "TrueAnswer": "Ingenuity",
+          "FalseAnswer": [
+            "Perseverance",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Ingenuity, a small helicopter-like robot, made the first powered flight on Mars in April 2021."
+        },
+        {
+          "Question": "What is the name of the robot that explored the surface of Venus?",
+          "TrueAnswer": "Venera",
+          "FalseAnswer": [
+            "Curiosity",
+            "Opportunity",
+            "Spirit"
+          ],
+          "Explanation": "The Venera series of robots, developed by the Soviet Union, explored the surface of Venus in the 1960s and 1970s."
+        },
+        {
+          "Question": "Which robot was the first to successfully drill into Martian rock?",
+          "TrueAnswer": "Curiosity",
+          "FalseAnswer": [
+            "Opportunity",
+            "Spirit",
+            "Perseverance"
+          ],
+          "Explanation": "Curiosity, part of NASA's Mars Science Laboratory mission, successfully drilled into Martian rock in 2013."
+        },
+        {
+          "Question": "What is the name of the robot that assisted in repairing the International Space Station?",
+          "TrueAnswer": "Dextre",
+          "FalseAnswer": [
+            "Robonaut 2",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Dextre, also known as the Special Purpose Dexterous Manipulator, has been used for various repairs on the ISS."
+        },
+        {
+          "Question": "Which robot was the first to land on the surface of Mars?",
+          "TrueAnswer": "Viking 1",
+          "FalseAnswer": [
+            "Opportunity",
+            "Curiosity",
+            "Spirit"
+          ],
+          "Explanation": "Viking 1, part of NASA's Viking program, was the first successful robot to land on Mars in 1976."
+        },
+        {
+          "Question": "What is the name of the robot that explored the surface of the Moon with Apollo astronauts?",
+          "TrueAnswer": "Lunar Roving Vehicle",
+          "FalseAnswer": [
+            "Yutu",
+            "Chandrayaan-2",
+            "Lunokhod 1"
+          ],
+          "Explanation": "The Lunar Roving Vehicle, or Moon buggy, was used by Apollo astronauts to explore the Moon's surface."
+        },
+        {
+          "Question": "Which robot was the first to successfully land on an asteroid?",
+          "TrueAnswer": "Hayabusa2",
+          "FalseAnswer": [
+            "MASCOT",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Hayabusa2, a Japanese spacecraft, successfully landed on the asteroid Ryugu and collected samples."
+        },
+        {
+          "Question": "What is the name of the robot that assisted in repairing the Space Shuttle?",
+          "TrueAnswer": "Canadarm",
+          "FalseAnswer": [
+            "Robonaut 2",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Canadarm, developed by the Canadian Space Agency, was used to repair and manipulate the Space Shuttle."
+        },
+        {
+          "Question": "Which robot was the first to explore the surface of Mars?",
+          "TrueAnswer": "Sojourner",
+          "FalseAnswer": [
+            "Opportunity",
+            "Curiosity",
+            "Spirit"
+          ],
+          "Explanation": "Sojourner, part of the Mars Pathfinder mission, was the first robot to explore the Martian surface."
+        },
+        {
+          "Question": "What is the name of the robot that assisted in repairing the Hubble Space Telescope?",
+          "TrueAnswer": "Dextre",
+          "FalseAnswer": [
+            "Robonaut 2",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Dextre, also known as the Special Purpose Dexterous Manipulator, was used to perform delicate repairs on the Hubble Space Telescope."
+        },
+        {
+          "Question": "Which robot was the first to autonomously explore the surface of Mars?",
+          "TrueAnswer": "Sojourner",
+          "FalseAnswer": [
+            "Opportunity",
+            "Curiosity",
+            "Spirit"
+          ],
+          "Explanation": "Sojourner, part of the Mars Pathfinder mission, was the first robot to autonomously explore the Martian surface."
+        }
+      ]
+    }
+  ]
+}

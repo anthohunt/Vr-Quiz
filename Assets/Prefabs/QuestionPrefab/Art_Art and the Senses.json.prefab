@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &975516974476013710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6752320134283630184}
+  - component: {fileID: 4982195911338495266}
+  m_Layer: 0
+  m_Name: Art_Art and the Senses.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6752320134283630184
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975516974476013710}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4982195911338495266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 975516974476013710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which sense is primarily used to appreciate a painting?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Taste
+      - Smell
+      Explanation: Paintings are primarily appreciated through the sense of sight,
+        as they are visual artworks.
+    - Question: Which sense is engaged when listening to a piece of music?
+      TrueAnswer: Hearing
+      FalseAnswer:
+      - Sight
+      - Touch
+      - Taste
+      Explanation: Listening to music engages the sense of hearing, as it is an auditory
+        experience.
+    - Question: Which sense is involved in the creation of a sculpture?
+      TrueAnswer: Touch
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Smell
+      Explanation: Creating a sculpture involves the sense of touch, as artists shape
+        and mold the material.
+    - Question: Which sense is stimulated when smelling a fragrant artwork?
+      TrueAnswer: Smell
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Taste
+      Explanation: Smelling a fragrant artwork engages the sense of smell, adding
+        another dimension to the experience.
+    - Question: Which sense is involved in the tasting of edible art installations?
+      TrueAnswer: Taste
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Touch
+      Explanation: Edible art installations can be tasted, engaging the sense of
+        taste in the artistic experience.
+    - Question: Which sense is primarily used to appreciate a dance performance?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Taste
+      - Smell
+      Explanation: Dance performances are primarily appreciated through the sense
+        of sight, as they are visual and kinetic artworks.
+    - Question: Which sense is engaged when reading a poem?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Taste
+      Explanation: Reading a poem engages the sense of sight, as it involves visually
+        processing the written words.
+    - Question: Which sense is involved in the creation of a photography artwork?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Smell
+      Explanation: Creating a photography artwork involves the sense of sight, as
+        photographers capture visual images.
+    - Question: Which sense is stimulated when touching a textured artwork?
+      TrueAnswer: Touch
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Smell
+      Explanation: Touching a textured artwork stimulates the sense of touch, allowing
+        for a tactile experience.
+    - Question: Which sense is involved in the tasting of a visually appealing dish?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Taste
+      Explanation: Tasting a visually appealing dish involves the sense of sight,
+        as presentation enhances the experience.
+    - Question: Which sense is primarily used to appreciate a theater performance?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Taste
+      - Smell
+      Explanation: Theater performances are primarily appreciated through the sense
+        of sight, as they are visual and auditory experiences.
+    - Question: Which sense is engaged when watching a film?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Taste
+      Explanation: Watching a film engages the sense of sight, as it involves visually
+        processing the moving images.
+    - Question: Which sense is involved in the creation of a textile artwork?
+      TrueAnswer: Touch
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Smell
+      Explanation: Creating a textile artwork involves the sense of touch, as artists
+        work with fabrics and textures.
+    - Question: Which sense is stimulated when listening to a spoken word performance?
+      TrueAnswer: Hearing
+      FalseAnswer:
+      - Sight
+      - Touch
+      - Taste
+      Explanation: Listening to a spoken word performance stimulates the sense of
+        hearing, as it is an auditory experience.
+    - Question: Which sense is involved in the tasting of a visually captivating
+        dessert?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Taste
+      Explanation: Tasting a visually captivating dessert involves the sense of sight,
+        as presentation enhances the experience.
+    - Question: Which sense is primarily used to appreciate a ballet performance?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Taste
+      - Smell
+      Explanation: Ballet performances are primarily appreciated through the sense
+        of sight, as they are visual and kinetic artworks.
+    - Question: Which sense is engaged when viewing an installation artwork?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Taste
+      Explanation: Viewing an installation artwork engages the sense of sight, as
+        it involves visually processing the arrangement of objects.
+    - Question: Which sense is involved in the creation of a pottery artwork?
+      TrueAnswer: Touch
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Smell
+      Explanation: Creating a pottery artwork involves the sense of touch, as artists
+        shape and mold the clay.
+    - Question: Which sense is stimulated when smelling a scented candle artwork?
+      TrueAnswer: Smell
+      FalseAnswer:
+      - Sight
+      - Hearing
+      - Taste
+      Explanation: Smelling a scented candle artwork stimulates the sense of smell,
+        adding another dimension to the experience.
+    - Question: Which sense is involved in the tasting of a visually enticing dish?
+      TrueAnswer: Sight
+      FalseAnswer:
+      - Hearing
+      - Touch
+      - Taste
+      Explanation: Tasting a visually enticing dish involves the sense of sight,
+        as presentation enhances the experience.

@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5048833450178485271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1594553047972532409}
+  - component: {fileID: 3552798212828577340}
+  m_Layer: 0
+  m_Name: Science_Artificial Life and Synthetic Biology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1594553047972532409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5048833450178485271}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3552798212828577340
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5048833450178485271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the study of creating artificial life forms called?
+      TrueAnswer: Synthetic Biology
+      FalseAnswer:
+      - Artificial Intelligence
+      - Genetic Engineering
+      - Nanotechnology
+      Explanation: Synthetic Biology is the field of study that involves creating
+        artificial life forms using genetic engineering techniques.
+    - Question: Which of the following is an example of an artificial life form?
+      TrueAnswer: Xenobots
+      FalseAnswer:
+      - Bacteria
+      - Plants
+      - Animals
+      Explanation: Xenobots are a recent breakthrough in synthetic biology, consisting
+        of living cells programmed to perform specific tasks.
+    - Question: What is the main goal of synthetic biology?
+      TrueAnswer: Designing and creating new biological systems
+      FalseAnswer:
+      - Cloning existing organisms
+      - Modifying natural ecosystems
+      - Developing artificial intelligence
+      Explanation: Synthetic biology aims to design and create new biological systems
+        with specific functions and properties.
+    - Question: What is the role of DNA in synthetic biology?
+      TrueAnswer: Genetic blueprint for creating artificial life forms
+      FalseAnswer:
+      - Energy source for artificial life forms
+      - Structural component of artificial cells
+      - Communication medium between artificial life forms
+      Explanation: DNA serves as the genetic blueprint that guides the creation of
+        artificial life forms in synthetic biology.
+    - Question: Which of the following is NOT a potential application of synthetic
+        biology?
+      TrueAnswer: Time travel
+      FalseAnswer:
+      - Bioremediation
+      - Drug production
+      - Biofuel production
+      Explanation: While synthetic biology has numerous applications, time travel
+        is not one of them.
+    - Question: What is the term for the process of modifying an organism's DNA to
+        achieve desired traits?
+      TrueAnswer: Genetic engineering
+      FalseAnswer:
+      - Synthetic biology
+      - Artificial selection
+      - Nanotechnology
+      Explanation: Genetic engineering involves modifying an organism's DNA to introduce
+        specific traits or characteristics.
+    - Question: Which of the following is an example of a synthetic biology tool?
+      TrueAnswer: CRISPR-Cas9
+      FalseAnswer:
+      - Microscope
+      - Centrifuge
+      - Petri dish
+      Explanation: CRISPR-Cas9 is a powerful tool used in synthetic biology for precise
+        gene editing and manipulation.
+    - Question: What is the term for the process of creating artificial cells from
+        scratch?
+      TrueAnswer: Protocell synthesis
+      FalseAnswer:
+      - Cellular respiration
+      - Cell division
+      - Cellular differentiation
+      Explanation: Protocell synthesis involves creating artificial cells with minimal
+        biological components to mimic basic cellular functions.
+    - Question: Which of the following is a potential benefit of synthetic biology?
+      TrueAnswer: Development of new medical treatments
+      FalseAnswer:
+      - Environmental pollution
+      - Loss of biodiversity
+      - Ethical concerns
+      Explanation: Synthetic biology has the potential to lead to the development
+        of new medical treatments and therapies.
+    - Question: What is the term for the process of creating artificial DNA sequences?
+      TrueAnswer: DNA synthesis
+      FalseAnswer:
+      - DNA replication
+      - DNA transcription
+      - DNA translation
+      Explanation: DNA synthesis involves artificially creating DNA sequences in
+        the laboratory for various applications in synthetic biology.
+    - Question: Which of the following is a challenge in synthetic biology?
+      TrueAnswer: Ethical considerations
+      FalseAnswer:
+      - Lack of funding
+      - Technological limitations
+      - Lack of public interest
+      Explanation: Ethical considerations surrounding the creation and use of artificial
+        life forms are a significant challenge in synthetic biology.
+    - Question: What is the term for the process of creating artificial proteins?
+      TrueAnswer: Protein engineering
+      FalseAnswer:
+      - Protein synthesis
+      - Protein folding
+      - Protein degradation
+      Explanation: Protein engineering involves designing and creating artificial
+        proteins with specific functions and properties.
+    - Question: Which of the following is a potential risk of synthetic biology?
+      TrueAnswer: Unintended ecological consequences
+      FalseAnswer:
+      - Improved healthcare
+      - Increased food production
+      - Technological advancements
+      Explanation: Synthetic biology carries the risk of unintended ecological consequences,
+        such as the introduction of invasive species or disruption of natural ecosystems.
+    - Question: What is the term for the process of creating artificial organisms
+        with minimal genetic material?
+      TrueAnswer: Minimal genome engineering
+      FalseAnswer:
+      - Genetic modification
+      - Organism cloning
+      - Genome sequencing
+      Explanation: Minimal genome engineering involves creating artificial organisms
+        with the smallest possible set of genes required for survival and reproduction.
+    - Question: Which of the following is a potential application of artificial life
+        forms?
+      TrueAnswer: Environmental cleanup
+      FalseAnswer:
+      - Space exploration
+      - Energy production
+      - Food production
+      Explanation: Artificial life forms can be designed to perform tasks such as
+        environmental cleanup, removing pollutants from ecosystems.
+    - Question: What is the term for the process of creating artificial intelligence
+        using biological components?
+      TrueAnswer: Neuromorphic engineering
+      FalseAnswer:
+      - Robotics
+      - Machine learning
+      - Virtual reality
+      Explanation: Neuromorphic engineering involves creating artificial intelligence
+        systems that mimic the structure and function of biological neural networks.
+    - Question: Which of the following is a potential limitation of synthetic biology?
+      TrueAnswer: Unpredictable outcomes
+      FalseAnswer:
+      - Rapid progress
+      - Cost-effectiveness
+      - Wide range of applications
+      Explanation: Synthetic biology can lead to unpredictable outcomes due to the
+        complexity of biological systems and the potential for unintended consequences.
+    - Question: What is the term for the process of creating artificial organs or
+        tissues?
+      TrueAnswer: Tissue engineering
+      FalseAnswer:
+      - Organ transplantation
+      - Stem cell therapy
+      - Regenerative medicine
+      Explanation: Tissue engineering involves creating artificial organs or tissues
+        in the laboratory for transplantation or medical purposes.
+    - Question: Which of the following is a potential ethical concern in synthetic
+        biology?
+      TrueAnswer: Playing god
+      FalseAnswer:
+      - Improving human health
+      - Advancing scientific knowledge
+      - Environmental conservation
+      Explanation: The ability to create and manipulate life forms raises ethical
+        concerns related to the boundaries of human intervention in nature.
+    - Question: What is the term for the process of creating artificial DNA molecules
+        from existing DNA templates?
+      TrueAnswer: DNA amplification
+      FalseAnswer:
+      - DNA sequencing
+      - DNA replication
+      - DNA recombination
+      Explanation: DNA amplification involves creating multiple copies of a specific
+        DNA sequence using a technique called polymerase chain reaction (PCR).
+    - Question: Which of the following is a potential application of synthetic biology
+        in agriculture?
+      TrueAnswer: Improved crop yields
+      FalseAnswer:
+      - Pest control
+      - Soil conservation
+      - Water management
+      Explanation: Synthetic biology can be used to enhance crop yields by introducing
+        genetic modifications that improve resistance to pests, diseases, or environmental
+        conditions.

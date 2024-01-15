@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &683274599515034826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8591312936816866357}
+  - component: {fileID: 4310857207588449342}
+  m_Layer: 0
+  m_Name: Science_Genetics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8591312936816866357
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683274599515034826}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4310857207588449342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 683274599515034826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the unit of heredity transmission called?
+      TrueAnswer: Gene
+      FalseAnswer:
+      - Chromosome
+      - Allele
+      - Mutation
+      Explanation: Genes are the basic unit of heredity and can be passed down from
+        parent to offspring, influencing traits and characteristics.
+    - Question: What is the term for different forms of a gene?
+      TrueAnswer: Allele
+      FalseAnswer:
+      - Nucleotide
+      - Codon
+      - Locus
+      Explanation: Alleles are variations of a single gene and can result in different
+        traits or characteristics in an organism.
+    - Question: What process creates new combinations of genes in offspring?
+      TrueAnswer: Meiosis
+      FalseAnswer:
+      - Mitosis
+      - Recombination
+      - Mutation
+      Explanation: Meiosis is a type of cell division that results in four daughter
+        cells, each with half the number of chromosomes of the original cell, creating
+        genetic diversity in offspring.
+    - Question: Which molecule carries genetic information in cells?
+      TrueAnswer: DNA
+      FalseAnswer:
+      - RNA
+      - Protein
+      - Carbohydrate
+      Explanation: DNA, or deoxyribonucleic acid, contains the genetic instructions
+        for the development, functioning, growth, and reproduction of all known organisms
+        and many viruses.
+    - Question: What is the term for the complete set of an organism's genes?
+      TrueAnswer: Genome
+      FalseAnswer:
+      - Phenotype
+      - Genotype
+      - Exon
+      Explanation: The genome is the entirety of an organism's hereditary information
+        encoded in its DNA, including all of its genes and other non-coding sequences.
+    - Question: Which scientist first discovered the structure of DNA?
+      TrueAnswer: James Watson
+      FalseAnswer:
+      - Francis Crick
+      - Rosalind Franklin
+      - Gregor Mendel
+      Explanation: James Watson, along with Francis Crick and Maurice Wilkins, elucidated
+        the double helix structure of DNA in 1953, revolutionizing genetics and molecular
+        biology.
+    - Question: What is the term for a sudden, permanent change in a gene?
+      TrueAnswer: Mutation
+      FalseAnswer:
+      - Translocation
+      - Inversion
+      - Deletion
+      Explanation: Mutations can occur spontaneously or as a result of exposure to
+        mutagens, and they can lead to genetic diversity and the evolution of species.
+    - Question: Which disorder is characterized by an extra chromosome 21?
+      TrueAnswer: Down syndrome
+      FalseAnswer:
+      - Turner syndrome
+      - Klinefelter syndrome
+      - Cystic fibrosis
+      Explanation: Down syndrome, also known as trisomy 21, is a genetic condition
+        caused by the presence of all or part of a third copy of chromosome 21.
+    - Question: Who is considered the 'Father of Genetics'?
+      TrueAnswer: Gregor Mendel
+      FalseAnswer:
+      - Charles Darwin
+      - Alfred Russel Wallace
+      - Thomas Hunt Morgan
+      Explanation: Gregor Mendel, an Augustinian friar and scientist, is renowned
+        for his pioneering work on pea plants, establishing the fundamental principles
+        of heredity.
+    - Question: What is the term for the study of heredity and variation in organisms?
+      TrueAnswer: Genetics
+      FalseAnswer:
+      - Embryology
+      - Ecology
+      - Physiology
+      Explanation: Genetics encompasses the study of genes, genetic variation, and
+        heredity in living organisms, providing insights into inheritance patterns
+        and genetic traits.

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8162168155419335840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6094553221483370923}
+  - component: {fileID: 640992932392353101}
+  m_Layer: 0
+  m_Name: Art_Art_Education_and_Pedagogy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6094553221483370923
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8162168155419335840}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &640992932392353101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8162168155419335840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the theory of multiple intelligences by Howard Gardner?
+      TrueAnswer: 8
+      FalseAnswer:
+      - 5
+      - 7
+      - 10
+      Explanation: Howard Gardner proposed 8 different types of intelligences, including
+        linguistic, logical-mathematical, and spatial intelligences, in his theory
+        of multiple intelligences.
+    - Question: Who founded the Black Mountain College in North Carolina?
+      TrueAnswer: Albers
+      FalseAnswer:
+      - Pollock
+      - Gropius
+      - O'Keeffe
+      Explanation: Josef Albers and his wife Anni Albers were influential figures
+        at the Black Mountain College, where they focused on the principles of Bauhaus
+        and modernist art education.
+    - Question: What is the Socratic method in art education?
+      TrueAnswer: Questioning
+      FalseAnswer:
+      - Lecture
+      - Demonstration
+      - Observation
+      Explanation: The Socratic method in art education involves asking and answering
+        questions to stimulate critical thinking and illuminate ideas, emphasizing
+        dialogue and inquiry over direct instruction.
+    - Question: Who founded the influential art school, the Bauhaus?
+      TrueAnswer: Gropius
+      FalseAnswer:
+      - Mies
+      - Kandinsky
+      - Corbusier
+      Explanation: Walter Gropius founded the Bauhaus in Germany, promoting the idea
+        of a total work of art and a close relationship between art, craft, and industry.
+    - Question: What art movement emphasized self-expression and intuition?
+      TrueAnswer: Abstract Expressionism
+      FalseAnswer:
+      - Cubism
+      - Surrealism
+      - Pop Art
+      Explanation: Abstract Expressionism emerged in the 1940s and 1950s, prioritizing
+        spontaneity, emotion, and gestural abstraction, emphasizing the artist's
+        inner world and personal experiences.
+    - Question: What is the purpose of the Reggio Emilia approach to art education?
+      TrueAnswer: Child-Led Learning
+      FalseAnswer:
+      - Structured Curriculum
+      - Teacher-Centered
+      - Rote Learning
+      Explanation: The Reggio Emilia approach to art education encourages child-led
+        learning, valuing the exploration of materials, collaboration, and self-expression
+        through a constructivist and inquiry-based approach.
+    - Question: What is a common principle in arts-based research methods?
+      TrueAnswer: Interdisciplinary
+      FalseAnswer:
+      - Quantitative
+      - Experimental
+      - Qualitative
+      Explanation: Arts-based research often involves an interdisciplinary approach,
+        using creative practices to explore research questions and produce new knowledge
+        beyond traditional methodologies.
+    - Question: Who is known for the practice of 'de-skilling' in art education?
+      TrueAnswer: Kaprow
+      FalseAnswer:
+      - Rauschenberg
+      - Nauman
+      - Duchamp
+      Explanation: Allan Kaprow is known for the concept of 'de-skilling,' where
+        traditional artistic skills are intentionally relinquished in favor of everyday
+        actions and non-art materials, challenging hierarchical views of art.
+    - Question: What does STEAM education integrate with arts-based learning?
+      TrueAnswer: Science
+      FalseAnswer:
+      - Technology
+      - Engineering
+      - Mathematics
+      Explanation: STEAM education incorporates arts practices into STEM subjects,
+        aiming to encourage creativity, critical thinking, and innovation by exploring
+        the intersections between science, technology, engineering, mathematics,
+        and the arts.
+    - Question: Who is known for their concept of the 'teaching artist'?
+      TrueAnswer: Gardner
+      FalseAnswer:
+      - Dewey
+      - Eisner
+      - Greene
+      Explanation: In his theory of multiple intelligences, Howard Gardner emphasized
+        the role of the 'teaching artist,' highlighting the importance of employing
+        diverse pedagogical approaches to accommodate different intelligences and
+        learning styles.
+    - Question: What is the focus of the feminist art pedagogy?
+      TrueAnswer: Gender
+      FalseAnswer:
+      - Race
+      - Class
+      - Sexuality
+      Explanation: Feminist art pedagogy centers on addressing gender issues, dismantling
+        patriarchal power structures, and promoting inclusivity and equity within
+        art education and artistic practice.
+    - Question: What does the term 'accessible art' typically refer to in education?
+      TrueAnswer: Inclusive
+      FalseAnswer:
+      - Affordable
+      - Mainstream
+      - Academic
+      Explanation: In education, 'accessible art' often refers to making art and
+        cultural experiences inclusive, breaking down barriers to participation,
+        and accommodating diverse abilities and backgrounds.
+    - Question: Who is known for advocating the 'public pedagogy' of art?
+      TrueAnswer: Freire
+      FalseAnswer:
+      - Piaget
+      - Vygotsky
+      - Dewey
+      Explanation: Paulo Freire emphasized the transformative potential of art as
+        a tool for public pedagogy, engaging communities to address social issues
+        and promote critical consciousness and social justice.
+    - Question: What learning theory emphasizes observation and imitation?
+      TrueAnswer: Social Learning
+      FalseAnswer:
+      - Cognitive Constructivism
+      - Behaviorism
+      - Information Processing
+      Explanation: Social learning theory focuses on learning through observation
+        and imitation, suggesting that individuals can acquire new behaviors and
+        knowledge by observing others and modeling their actions.
+    - Question: What movement focused on experiential learning through art?
+      TrueAnswer: Reggio Emilia
+      FalseAnswer:
+      - Montessori
+      - Waldorf
+      - Head Start
+      Explanation: The Reggio Emilia approach to education emphasizes experiential
+        learning through the arts, valuing creativity, exploration, and expression
+        in a collaborative and supportive environment.
+    - Question: What does the term 'arts integration' aim to connect within education?
+      TrueAnswer: Curriculum
+      FalseAnswer:
+      - Technology
+      - Assessment
+      - Administration
+      Explanation: Arts integration seeks to connect the arts with existing curriculum
+        standards, aiming to enhance learning outcomes, promote creativity, and engage
+        students through interdisciplinary connections.
+    - Question: What is the fundamental principle of constructivist art education?
+      TrueAnswer: Active Participation
+      FalseAnswer:
+      - Passive Consumption
+      - Memorization
+      - Isolation
+      Explanation: Constructivist art education emphasizes active participation,
+        inquiry, and problem-solving, encouraging students to construct their own
+        understanding and meaning through creative exploration and collaboration.
+    - Question: What is one of the key values in the 'arts for social change' pedagogy?
+      TrueAnswer: Activism
+      FalseAnswer:
+      - Aesthetics
+      - Tradition
+      - Individualism
+      Explanation: '''Arts for social change'' pedagogy emphasizes the role of art
+        in inspiring activism, promoting social justice, and addressing complex societal
+        issues through creative expression and community engagement.'
+    - Question: What approach emphasizes authentic artistic experiences in education?
+      TrueAnswer: Studio-Based
+      FalseAnswer:
+      - Didactic
+      - Experiential
+      - Classroom-Based
+      Explanation: Studio-based art education focuses on providing authentic artistic
+        experiences, allowing students to engage in hands-on creative processes and
+        develop their artistic voice in a supportive and collaborative studio environment.
+    - Question: Who advocated for the arts as a means of democratic education?
+      TrueAnswer: Dewey
+      FalseAnswer:
+      - Gardner
+      - Vygotsky
+      - Piaget
+      Explanation: John Dewey believed that the arts played a crucial role in fostering
+        democratic values, emphasizing creativity, expression, and experiential learning
+        as essential for a well-rounded education and active citizenship.

@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7078736295542781462
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8915028590012100981}
+  - component: {fileID: 5326944792855023229}
+  m_Layer: 0
+  m_Name: Art_Artistic Styles and Techniques.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8915028590012100981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7078736295542781462}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5326944792855023229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7078736295542781462}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the Mona Lisa?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Michelangelo
+      Explanation: Leonardo da Vinci, a renowned Italian artist, painted the Mona
+        Lisa in the 16th century.
+    - Question: Which artistic style is known for its use of bold, vibrant colors?
+      TrueAnswer: Fauvism
+      FalseAnswer:
+      - Cubism
+      - Impressionism
+      - Surrealism
+      Explanation: Fauvism, an early 20th-century art movement, is characterized
+        by its bold and intense use of colors.
+    - Question: What technique involves applying paint thickly to create texture?
+      TrueAnswer: Impasto
+      FalseAnswer:
+      - Gouache
+      - Glazing
+      - Sgraffito
+      Explanation: Impasto is a technique where paint is applied thickly to create
+        a textured surface.
+    - Question: Which artist is known for his 'drip painting' technique?
+      TrueAnswer: Jackson Pollock
+      FalseAnswer:
+      - Salvador Dali
+      - Piet Mondrian
+      - Claude Monet
+      Explanation: Jackson Pollock, an American artist, popularized the 'drip painting'
+        technique in the abstract expressionist movement.
+    - Question: Which artistic style is characterized by distorted and exaggerated
+        figures?
+      TrueAnswer: Expressionism
+      FalseAnswer:
+      - Realism
+      - Surrealism
+      - Cubism
+      Explanation: Expressionism is an art style that emphasizes the emotional and
+        psychological aspects of the subject, often using distorted and exaggerated
+        figures.
+    - Question: What technique involves scratching the surface of a painting to reveal
+        layers underneath?
+      TrueAnswer: Sgraffito
+      FalseAnswer:
+      - Stippling
+      - Collage
+      - Decoupage
+      Explanation: Sgraffito is a technique where the surface of a painting is scratched
+        to reveal the layers of paint underneath.
+    - Question: Which artist is known for his use of vibrant, swirling brushstrokes?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh, a Dutch post-impressionist painter, is known
+        for his vibrant and swirling brushstrokes.
+    - Question: Which artistic style is characterized by its use of geometric shapes
+        and angles?
+      TrueAnswer: Cubism
+      FalseAnswer:
+      - Surrealism
+      - Impressionism
+      - Abstract Expressionism
+      Explanation: Cubism, pioneered by Pablo Picasso and Georges Braque, emphasizes
+        the use of geometric shapes and angles to depict subjects.
+    - Question: What technique involves the use of small dots to create an image?
+      TrueAnswer: Pointillism
+      FalseAnswer:
+      - Chiaroscuro
+      - Trompe-l'oeil
+      - Sfumato
+      Explanation: Pointillism is a technique where small dots of color are applied
+        to create an image when viewed from a distance.
+    - Question: Which artist is known for his melting clocks in the painting 'The
+        Persistence of Memory'?
+      TrueAnswer: Salvador Dali
+      FalseAnswer:
+      - Andy Warhol
+      - Piet Mondrian
+      - Henri Matisse
+      Explanation: Salvador Dali, a Spanish surrealist artist, created the iconic
+        painting 'The Persistence of Memory' featuring melting clocks.
+    - Question: Which artistic style is characterized by dreamlike and illogical
+        imagery?
+      TrueAnswer: Surrealism
+      FalseAnswer:
+      - Realism
+      - Cubism
+      - Abstract Expressionism
+      Explanation: Surrealism is an art movement that explores the subconscious mind
+        through dreamlike and illogical imagery.
+    - Question: What technique involves the use of thin, transparent layers of paint?
+      TrueAnswer: Glazing
+      FalseAnswer:
+      - Collage
+      - Impasto
+      - Gouache
+      Explanation: Glazing is a technique where thin, transparent layers of paint
+        are applied to create depth and luminosity.
+    - Question: Which artist is known for his use of vibrant colors and bold brushstrokes
+        in 'Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh's 'Starry Night' showcases his signature style
+        of vibrant colors and bold brushstrokes.
+    - Question: Which artistic style is characterized by its focus on everyday subjects
+        and scenes?
+      TrueAnswer: Realism
+      FalseAnswer:
+      - Expressionism
+      - Surrealism
+      - Abstract Expressionism
+      Explanation: Realism is an art style that aims to depict everyday subjects
+        and scenes with accuracy and detail.
+    - Question: What technique involves the use of cut-out materials to create a
+        composition?
+      TrueAnswer: Collage
+      FalseAnswer:
+      - Sgraffito
+      - Decoupage
+      - Stippling
+      Explanation: Collage is a technique where cut-out materials, such as paper
+        or fabric, are arranged and glued to create a composition.
+    - Question: Which artist is known for his use of bold, abstract shapes in 'Composition
+        II in Red, Blue, and Yellow'?
+      TrueAnswer: Piet Mondrian
+      FalseAnswer:
+      - Salvador Dali
+      - Andy Warhol
+      - Henri Matisse
+      Explanation: Piet Mondrian, a Dutch artist, is known for his use of bold, abstract
+        shapes in his iconic painting 'Composition II in Red, Blue, and Yellow.'
+    - Question: Which artistic style is characterized by its emphasis on the emotional
+        and spontaneous expression of the artist?
+      TrueAnswer: Abstract Expressionism
+      FalseAnswer:
+      - Realism
+      - Cubism
+      - Impressionism
+      Explanation: Abstract Expressionism is an art movement that emphasizes the
+        emotional and spontaneous expression of the artist.
+    - Question: What technique involves the gradual transition from light to dark
+        tones?
+      TrueAnswer: Chiaroscuro
+      FalseAnswer:
+      - Pointillism
+      - Trompe-l'oeil
+      - Sfumato
+      Explanation: Chiaroscuro is a technique that creates a gradual transition from
+        light to dark tones, adding depth and volume to a painting.
+    - Question: Which artist is known for his use of soft, hazy transitions in 'Mona
+        Lisa'?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Michelangelo
+      Explanation: Leonardo da Vinci's 'Mona Lisa' showcases his mastery of sfumato,
+        creating soft and hazy transitions between colors and tones.
+    - Question: Which artistic style is characterized by its use of optical illusions
+        to deceive the viewer?
+      TrueAnswer: Trompe-l'oeil
+      FalseAnswer:
+      - Fauvism
+      - Surrealism
+      - Cubism
+      Explanation: Trompe-l'oeil is an art technique that uses realistic imagery
+        to create optical illusions, deceiving the viewer's perception.

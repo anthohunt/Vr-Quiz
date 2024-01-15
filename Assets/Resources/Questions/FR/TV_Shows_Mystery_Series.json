@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Dans la série télévisée 'Sherlock', quelle est l'adresse de Sherlock Holmes?",
+            "TrueAnswer": "221B Baker Street",
+            "FalseAnswer": [
+              "123A Baker Street",
+              "333C Baker Street",
+              "456D Baker Street"
+            ],
+            "Explanation": "221B Baker Street est l'adresse londonienne fictive du détective Sherlock Holmes, créée par l'auteur Sir Arthur Conan Doyle. Cette adresse est devenue synonyme du célèbre personnage."
+          },
+          {
+            "Question": "Quel personnage est connu sous le nom de 'Le Mentalist' dans la série mystère du même nom?",
+            "TrueAnswer": "Patrick Jane",
+            "FalseAnswer": [
+              "Teresa Lisbon",
+              "Kimball Cho",
+              "Wayne Rigsby"
+            ],
+            "Explanation": "Patrick Jane, le personnage principal interprété par Simon Baker, est surnommé 'Le Mentalist' en raison de ses remarquables compétences d'observation et de déduction utilisées pour résoudre des crimes."
+          },
+          {
+            "Question": "Quelle actrice joue le rôle du détective dans la série télévisée 'Veronica Mars'?",
+            "TrueAnswer": "Kristen Bell",
+            "FalseAnswer": [
+              "Blake Lively",
+              "Alyson Hannigan",
+              "Leighton Meester"
+            ],
+            "Explanation": "Kristen Bell incarne le personnage de Veronica Mars, une lycéenne perspicace et débrouillarde, devenue ensuite étudiante universitaire qui mène une double vie en tant qu'investigatrice privée."
+          },
+          {
+            "Question": "Dans 'Twin Peaks', qui a tué Laura Palmer, le mystère central de la série?",
+            "TrueAnswer": "Leland Palmer",
+            "FalseAnswer": [
+              "Dale Cooper",
+              "Ben Horne",
+              "Bobby Briggs"
+            ],
+            "Explanation": "Leland Palmer, le père de Laura, est révélé être le meurtrier possédé par un esprit maléfique, dévoilant un réseau complexe d'éléments surnaturels et psychologiques dans la série."
+          },
+          {
+            "Question": "Quel est le nom de plume utilisé par l'informateur anonyme dans 'Castle'?",
+            "TrueAnswer": "Nikki Heat",
+            "FalseAnswer": [
+              "Jameson Rook",
+              "Derrick Storm",
+              "Richard Castle"
+            ],
+            "Explanation": "Nikki Heat est le nom de plume du personnage Jameson Rook dans la série de livres Nikki Heat de Richard Castle, inspirée par ses expériences de travail avec la détective Kate Beckett."
+          }
+        ]
+      }
+    }
+  ]
+}

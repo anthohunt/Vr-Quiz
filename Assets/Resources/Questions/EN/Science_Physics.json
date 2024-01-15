@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the formula for the law of conservation of energy?",
+            "TrueAnswer": "E = mc^2",
+            "FalseAnswer": [
+              "F = ma",
+              "E = 1/2 mv^2",
+              "P = mv"
+            ],
+            "Explanation": "The formula E=mc^2, proposed by Albert Einstein in 1905, states that energy and mass are equivalent and interchangeable."
+          },
+          {
+            "Question": "What is the SI unit of force?",
+            "TrueAnswer": "Newton",
+            "FalseAnswer": [
+              "Joule",
+              "Watt",
+              "Coulomb"
+            ],
+            "Explanation": "The newton (N) is the International System of Units (SI) derived unit of force named after Sir Isaac Newton."
+          },
+          {
+            "Question": "Who proposed the three laws of motion?",
+            "TrueAnswer": "Isaac Newton",
+            "FalseAnswer": [
+              "Albert Einstein",
+              "Stephen Hawking",
+              "Galileo Galilei"
+            ],
+            "Explanation": "Isaac Newton formulated the laws of motion in his work 'Mathematical Principles of Natural Philosophy', also known as the 'Principia', published in 1687."
+          },
+          {
+            "Question": "What force keeps planets in orbit around the sun?",
+            "TrueAnswer": "Gravity",
+            "FalseAnswer": [
+              "Magnetism",
+              "Friction",
+              "Tension"
+            ],
+            "Explanation": "The gravitational force between a planet and the sun keeps the planet in orbit, as described by Kepler's laws of planetary motion."
+          },
+          {
+            "Question": "What is the speed of light in a vacuum?",
+            "TrueAnswer": "299,792,458 m/s",
+            "FalseAnswer": [
+              "100,000,000 m/s",
+              "500,000,000 m/s",
+              "1,000,000,000 m/s"
+            ],
+            "Explanation": "The speed of light in a vacuum is approximately 299,792,458 meters per second, a fundamental constant in physics."
+          },
+          {
+            "Question": "Which scientist proposed the theory of general relativity?",
+            "TrueAnswer": "Albert Einstein",
+            "FalseAnswer": [
+              "Isaac Newton",
+              "Max Planck",
+              "Niels Bohr"
+            ],
+            "Explanation": "In 1915, Albert Einstein published the theory of general relativity, revolutionizing the understanding of gravity and space-time."
+          },
+          {
+            "Question": "What is the wavelength of visible light?",
+            "TrueAnswer": "400-700 nm",
+            "FalseAnswer": [
+              "100-300 nm",
+              "800-1000 nm",
+              "300-600 nm"
+            ],
+            "Explanation": "Visible light consists of electromagnetic waves with wavelengths ranging from approximately 400 to 700 nanometers, perceived as different colors by the human eye."
+          },
+          {
+            "Question": "What is the dual nature of light?",
+            "TrueAnswer": "Wave-particle duality",
+            "FalseAnswer": [
+              "Quantum entanglement",
+              "Electromagnetic resonance",
+              "Wave interference"
+            ],
+            "Explanation": "The wave-particle duality of light means that it exhibits both wave-like and particle-like behavior, as elucidated by quantum mechanics."
+          },
+          {
+            "Question": "What is the unit of electrical resistance?",
+            "TrueAnswer": "Ohm",
+            "FalseAnswer": [
+              "Volt",
+              "Ampere",
+              "Joule"
+            ],
+            "Explanation": "The ohm (Ω) is the SI unit of electrical resistance, named after the German physicist Georg Simon Ohm."
+          },
+          {
+            "Question": "What effect describes the increase in observed frequency of a wave approaching an observer?",
+            "TrueAnswer": "Doppler effect",
+            "FalseAnswer": [
+              "Faraday effect",
+              "Compton effect",
+              "Zeeman effect"
+            ],
+            "Explanation": "The Doppler effect explains the change in frequency and wavelength of a wave, such as sound or light, as the source and observer move relative to each other."
+          },
+          {
+            "Question": "What is the SI unit for measuring work and energy?",
+            "TrueAnswer": "Joule",
+            "FalseAnswer": [
+              "Watt",
+              "Newton",
+              "Coulomb"
+            ],
+            "Explanation": "The joule (J) is the SI unit for both work and energy, representing the amount of work done by a one newton force over a distance of one meter."
+          },
+          {
+            "Question": "What is the fundamental force responsible for radioactive decay?",
+            "TrueAnswer": "Weak nuclear force",
+            "FalseAnswer": [
+              "Strong nuclear force",
+              "Electromagnetic force",
+              "Gravitational force"
+            ],
+            "Explanation": "The weak nuclear force is one of the four fundamental forces in nature and is responsible for processes such as beta decay in radioactive elements."
+          },
+          {
+            "Question": "What principle states that the total electric flux through a closed surface is equal to the charge enclosed?",
+            "TrueAnswer": "Gauss's law",
+            "FalseAnswer": [
+              "Coulomb's law",
+              "Ampère's law",
+              "Faraday's law"
+            ],
+            "Explanation": "Gauss's law for electricity is one of the four Maxwell's equations, describing the relationship between electric charge distribution and the electric field."
+          },
+          {
+            "Question": "What force is responsible for the nuclear fusion in the Sun's core?",
+            "TrueAnswer": "Strong nuclear force",
+            "FalseAnswer": [
+              "Weak nuclear force",
+              "Gravitational force",
+              "Electromagnetic force"
+            ],
+            "Explanation": "The strong nuclear force, one of the fundamental forces, holds protons and neutrons together in atomic nuclei and facilitates nuclear fusion in stars like the Sun."
+          },
+          {
+            "Question": "What property of an object remains constant if no external forces act upon it?",
+            "TrueAnswer": "Velocity",
+            "FalseAnswer": [
+              "Acceleration",
+              "Momentum",
+              "Kinetic energy"
+            ],
+            "Explanation": "According to Newton's first law of motion, an object at rest or in motion will continue at a constant velocity unless acted upon by an unbalanced force."
+          },
+          {
+            "Question": "What quantity is conserved in an isolated system according to the law of conservation of momentum?",
+            "TrueAnswer": "Momentum",
+            "FalseAnswer": [
+              "Energy",
+              "Force",
+              "Angular momentum"
+            ],
+            "Explanation": "The principle of conservation of momentum dictates that the total momentum of an isolated system remains constant if no external forces are present."
+          },
+          {
+            "Question": "What is the unit of measure for the angle subtended by an object as seen by an observer?",
+            "TrueAnswer": "Radian",
+            "FalseAnswer": [
+              "Degree",
+              "Arcsecond",
+              "Revolution"
+            ],
+            "Explanation": "The radian (rad) is the standard unit of measure for angles, defined as the angle subtended at the center of a circle by an arc equal in length to the circle's radius."
+          },
+          {
+            "Question": "What is the fourth fundamental force of nature, aside from gravity, electromagnetism, and the strong nuclear force?",
+            "TrueAnswer": "Weak nuclear force",
+            "FalseAnswer": [
+              "Dark energy force",
+              "Magneto-gravitic force",
+              "Scalar force"
+            ],
+            "Explanation": "The weak nuclear force, also known as the weak interaction, is one of the four fundamental forces and plays a crucial role in many subatomic processes."
+          },
+          {
+            "Question": "What is the equation for the force of gravity between two objects?",
+            "TrueAnswer": "F = G(m1m2/r^2)",
+            "FalseAnswer": [
+              "F = ma",
+              "F = μN",
+              "F = kq1q2/r^2"
+            ],
+            "Explanation": "The equation F = G(m1m2/r^2) describes the force of gravity between two objects, where G is the gravitational constant, m1 and m2 are the masses, and r is the distance between them."
+          },
+          {
+            "Question": "What is the phenomenon wherein light bends as it passes through different mediums?",
+            "TrueAnswer": "Refraction",
+            "FalseAnswer": [
+              "Reflection",
+              "Diffraction",
+              "Dispersion"
+            ],
+            "Explanation": "Refraction is the bending of light as it passes from one medium to another, such as air to water, causing changes in direction and speed."
+          }
+        ]
+      }
+    }
+  ]
+}

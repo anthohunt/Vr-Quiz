@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5319784494376313810
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5723885049381923611}
+  - component: {fileID: 7767991330833329325}
+  m_Layer: 0
+  m_Name: TV_Shows_Game_Shows.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5723885049381923611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5319784494376313810}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7767991330833329325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5319784494376313810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What was the first ever televised game show?
+      TrueAnswer: Spelling Bee
+      FalseAnswer:
+      - The Gen Game
+      - Queen for a Day
+      - Truth or Consequences
+      Explanation: The first game show to be broadcast on television was 'Spelling
+        Bee' in 1938, hosted by Freddie Grisewood.
+    - Question: Who was the original host of 'The Price Is Right'?
+      TrueAnswer: Bill Cullen
+      FalseAnswer:
+      - Bob Barker
+      - Drew Carey
+      - Tom Kennedy
+      Explanation: Bill Cullen was the original host of 'The Price Is Right' when
+        it premiered in 1956 on NBC.
+    - Question: Which game show features contestants answering in the form of a question?
+      TrueAnswer: Jeopardy
+      FalseAnswer:
+      - Wheel of Fortune
+      - Family Feud
+      - Who Wants to Be a Millionaire?
+      Explanation: '''Jeopardy'' is known for its distinctive answer-and-question
+        format, first premiering in 1964 with Art Fleming as the host.'
+    - Question: What was the UK version of the US game show 'The Newlywed Game' called?
+      TrueAnswer: Mr. & Mrs.
+      FalseAnswer:
+      - Match Game
+      - Blankety Blank
+      - Celebrity Squares
+      Explanation: The UK version of 'The Newlywed Game' was called 'Mr. & Mrs.'
+        and was hosted by Derek Batey.
+    - Question: Who is the host of the game show 'Wheel of Fortune'?
+      TrueAnswer: Pat Sajak
+      FalseAnswer:
+      - Alex Trebek
+      - Regis Philbin
+      - Monty Hall
+      Explanation: Pat Sajak has been the host of 'Wheel of Fortune' since 1981,
+        joining Vanna White, the show's co-host.
+    - Question: Which game show gives contestants the opportunity to 'phone a friend'
+        for help?
+      TrueAnswer: Who Wants to Be a Millionaire?
+      FalseAnswer:
+      - The Weakest Link
+      - Deal or No Deal
+      - Are You Smarter Than a 5th Grader?
+      Explanation: '''Who Wants to Be a Millionaire?'' introduced the ''phone a friend''
+        lifeline, allowing contestants to call a friend for assistance with a question.'
+    - Question: In which game show do four strangers answer questions to build a
+        'chain' of correct answers?
+      TrueAnswer: Chain Reaction
+      FalseAnswer:
+      - The Chase
+      - Family Feud
+      - Are You Smarter Than a 5th Grader?
+      Explanation: '''Chain Reaction'' has contestants build a chain of correct answers
+        to win money, first airing in the US in 1980.'
+    - Question: Which game show was notorious for its physical challenges and obstacle
+        course?
+      TrueAnswer: Double Dare
+      FalseAnswer:
+      - Legends of the Hidden Temple
+      - GUTS
+      - Finders Keepers
+      Explanation: '''Double Dare'' was known for its messy physical challenges and
+        obstacle course, hosted by Marc Summers on Nickelodeon.'
+    - Question: Which game show challenges contestants to complete tasks in a restricted
+        timeframe?
+      TrueAnswer: Minute to Win It
+      FalseAnswer:
+      - Survivor
+      - The Amazing Race
+      - Fear Factor
+      Explanation: '''Minute to Win It'' features challenges with a limited time
+        frame to complete tasks to win increasing amounts of prize money.'
+    - Question: Who was the original host of the iconic game show 'Family Feud'?
+      TrueAnswer: Richard Dawson
+      FalseAnswer:
+      - Steve Harvey
+      - Louie Anderson
+      - Ray Combs
+      Explanation: Richard Dawson was the original host of 'Family Feud' when it
+        premiered in 1976, known for his charm and wit.

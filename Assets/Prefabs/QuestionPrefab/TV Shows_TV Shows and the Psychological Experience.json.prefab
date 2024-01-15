@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6097164329024931012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1823566135640543228}
+  - component: {fileID: 2647631078372157127}
+  m_Layer: 0
+  m_Name: TV Shows_TV Shows and the Psychological Experience.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1823566135640543228
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6097164329024931012}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2647631078372157127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6097164329024931012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show features a character with multiple personalities?
+      TrueAnswer: Mr. Robot
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Grey's Anatomy
+      Explanation: Mr. Robot follows Elliot, a cybersecurity expert with dissociative
+        identity disorder, who becomes a vigilante hacker.
+    - Question: In which TV show does a character struggle with addiction?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - The Office
+      - Stranger Things
+      - Game of Thrones
+      Explanation: Breaking Bad tells the story of Walter White, a high school chemistry
+        teacher turned methamphetamine manufacturer.
+    - Question: Which TV show explores the concept of time travel?
+      TrueAnswer: Doctor Who
+      FalseAnswer:
+      - The Simpsons
+      - The Walking Dead
+      - The Crown
+      Explanation: Doctor Who follows the adventures of the Doctor, a time-traveling
+        alien with the ability to regenerate.
+    - Question: Which TV show delves into the psychology of criminal profiling?
+      TrueAnswer: Mindhunter
+      FalseAnswer:
+      - Friends
+      - Stranger Things
+      - The Office
+      Explanation: Mindhunter is based on the true crime book and follows FBI agents
+        who interview imprisoned serial killers to solve ongoing cases.
+    - Question: Which TV show explores the effects of a dystopian society on its
+        characters?
+      TrueAnswer: The Handmaid's Tale
+      FalseAnswer:
+      - The Big Bang Theory
+      - Grey's Anatomy
+      - Friends
+      Explanation: The Handmaid's Tale is set in a totalitarian society where women
+        are subjugated and explores themes of oppression and resistance.
+    - Question: Which TV show focuses on the psychological effects of isolation in
+        space?
+      TrueAnswer: Black Mirror
+      FalseAnswer:
+      - The Crown
+      - The Office
+      - Stranger Things
+      Explanation: Black Mirror is an anthology series that often explores the dark
+        side of technology and its impact on human psychology.
+    - Question: Which TV show features a character with a split personality disorder?
+      TrueAnswer: Legion
+      FalseAnswer:
+      - Game of Thrones
+      - The Walking Dead
+      - The Simpsons
+      Explanation: Legion follows David Haller, a mutant with multiple personalities,
+        as he discovers his powers and battles his inner demons.
+    - Question: Which TV show explores the psychological trauma experienced by war
+        veterans?
+      TrueAnswer: Homeland
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Grey's Anatomy
+      Explanation: Homeland follows a CIA officer with bipolar disorder as she navigates
+        the world of counterterrorism and deals with her own mental health struggles.
+    - Question: Which TV show delves into the psychology of a high-functioning sociopath?
+      TrueAnswer: Sherlock
+      FalseAnswer:
+      - The Office
+      - Stranger Things
+      - Game of Thrones
+      Explanation: Sherlock Holmes, a brilliant detective with sociopathic tendencies,
+        solves complex crimes in modern-day London.
+    - Question: Which TV show explores the psychological effects of a post-apocalyptic
+        world?
+      TrueAnswer: The Walking Dead
+      FalseAnswer:
+      - The Crown
+      - The Office
+      - Stranger Things
+      Explanation: The Walking Dead follows a group of survivors as they navigate
+        a world overrun by zombies and face the psychological toll of their circumstances.
+    - Question: Which TV show focuses on the psychological manipulation of its characters?
+      TrueAnswer: Black Mirror
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Grey's Anatomy
+      Explanation: Black Mirror often explores the ways in which technology can manipulate
+        and control individuals, leading to psychological consequences.
+    - Question: Which TV show delves into the psychology of addiction and recovery?
+      TrueAnswer: BoJack Horseman
+      FalseAnswer:
+      - The Simpsons
+      - The Walking Dead
+      - The Crown
+      Explanation: BoJack Horseman follows the life of a washed-up sitcom star as
+        he navigates addiction, mental health, and the pursuit of happiness.
+    - Question: Which TV show explores the psychological effects of a totalitarian
+        regime?
+      TrueAnswer: The Handmaid's Tale
+      FalseAnswer:
+      - The Big Bang Theory
+      - Grey's Anatomy
+      - Friends
+      Explanation: The Handmaid's Tale depicts a dystopian society where women are
+        oppressed and explores the psychological impact of living under a totalitarian
+        regime.
+    - Question: Which TV show focuses on the psychological consequences of time travel?
+      TrueAnswer: Dark
+      FalseAnswer:
+      - The Office
+      - Stranger Things
+      - Game of Thrones
+      Explanation: Dark follows four interconnected families as they uncover a time
+        travel conspiracy and face the psychological ramifications of altering the
+        past.
+    - Question: Which TV show delves into the psychology of a criminal mastermind?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - Friends
+      - Stranger Things
+      - The Office
+      Explanation: Breaking Bad explores the transformation of Walter White from
+        a mild-mannered chemistry teacher to a ruthless drug lord.
+    - Question: Which TV show explores the psychological effects of grief and loss?
+      TrueAnswer: The Leftovers
+      FalseAnswer:
+      - The Crown
+      - The Office
+      - Stranger Things
+      Explanation: The Leftovers follows the lives of individuals who are left behind
+        after a global event causes the disappearance of 2% of the world's population.
+    - Question: Which TV show focuses on the psychological manipulation of its protagonist?
+      TrueAnswer: Mr. Robot
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Grey's Anatomy
+      Explanation: Mr. Robot follows Elliot, a brilliant hacker who is manipulated
+        by an anarchist known as Mr. Robot.
+    - Question: Which TV show delves into the psychology of a serial killer?
+      TrueAnswer: Dexter
+      FalseAnswer:
+      - Game of Thrones
+      - The Walking Dead
+      - The Simpsons
+      Explanation: Dexter follows a blood spatter analyst who leads a double life
+        as a vigilante serial killer.
+    - Question: Which TV show explores the psychological effects of a traumatic event?
+      TrueAnswer: Stranger Things
+      FalseAnswer:
+      - The Crown
+      - The Office
+      - Friends
+      Explanation: Stranger Things follows a group of kids as they encounter supernatural
+        events and face the psychological consequences of these experiences.
+    - Question: Which TV show focuses on the psychological consequences of a power
+        struggle?
+      TrueAnswer: Game of Thrones
+      FalseAnswer:
+      - The Office
+      - Stranger Things
+      - The Simpsons
+      Explanation: Game of Thrones depicts the psychological toll of political intrigue
+        and power struggles in the fictional world of Westeros.

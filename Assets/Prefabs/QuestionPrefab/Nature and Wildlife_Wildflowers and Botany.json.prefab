@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2301693335555373655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 670014689479287800}
+  - component: {fileID: 9034064086092007253}
+  m_Layer: 0
+  m_Name: Nature and Wildlife_Wildflowers and Botany.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &670014689479287800
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2301693335555373655}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9034064086092007253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2301693335555373655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the national bird of the United States?
+      TrueAnswer: Bald Eagle
+      FalseAnswer:
+      - Blue Jay
+      - Cardinal
+      - Hummingbird
+      Explanation: The Bald Eagle is the national bird of the United States, symbolizing
+        strength and freedom.
+    - Question: Which animal is known for its ability to camouflage?
+      TrueAnswer: Chameleon
+      FalseAnswer:
+      - Giraffe
+      - Peacock
+      - Zebra
+      Explanation: The Chameleon is famous for its ability to change color and blend
+        in with its surroundings.
+    - Question: What is the largest land animal?
+      TrueAnswer: African Elephant
+      FalseAnswer:
+      - Giraffe
+      - Hippopotamus
+      - Rhinoceros
+      Explanation: The African Elephant holds the title for being the largest land
+        animal on Earth.
+    - Question: Which bird is known for its long migration journey?
+      TrueAnswer: Arctic Tern
+      FalseAnswer:
+      - Penguin
+      - Ostrich
+      - Flamingo
+      Explanation: The Arctic Tern travels the longest migration route of any bird,
+        covering thousands of miles each year.
+    - Question: What is the largest species of shark?
+      TrueAnswer: Whale Shark
+      FalseAnswer:
+      - Great White Shark
+      - Tiger Shark
+      - Hammerhead Shark
+      Explanation: The Whale Shark holds the title for being the largest species
+        of shark, reaching lengths of up to 40 feet.
+    - Question: Which animal is known for its ability to hibernate?
+      TrueAnswer: Bear
+      FalseAnswer:
+      - Lion
+      - Tiger
+      - Leopard
+      Explanation: Bears are known for their ability to hibernate during the winter
+        months, conserving energy and surviving on stored fat.
+    - Question: What is the fastest land animal?
+      TrueAnswer: Cheetah
+      FalseAnswer:
+      - Lion
+      - Leopard
+      - Gazelle
+      Explanation: The Cheetah is renowned for its incredible speed, capable of reaching
+        speeds up to 70 miles per hour.
+    - Question: Which animal is known for its ability to regrow its tail?
+      TrueAnswer: Lizard
+      FalseAnswer:
+      - Snake
+      - Frog
+      - Turtle
+      Explanation: Certain species of lizards have the remarkable ability to regrow
+        their tails if they are lost or damaged.
+    - Question: What is the largest species of penguin?
+      TrueAnswer: Emperor Penguin
+      FalseAnswer:
+      - King Penguin
+      - Gentoo Penguin
+      - Adelie Penguin
+      Explanation: The Emperor Penguin is the largest species of penguin, standing
+        up to 4 feet tall.
+    - Question: Which animal is known for its ability to climb trees?
+      TrueAnswer: Squirrel
+      FalseAnswer:
+      - Rabbit
+      - Mouse
+      - Hamster
+      Explanation: Squirrels are agile climbers, using their sharp claws and strong
+        hind legs to ascend trees with ease.
+    - Question: What is the largest species of bear?
+      TrueAnswer: Polar Bear
+      FalseAnswer:
+      - Grizzly Bear
+      - Black Bear
+      - Kodiak Bear
+      Explanation: The Polar Bear is the largest species of bear, adapted to survive
+        in the Arctic region.
+    - Question: Which animal is known for its ability to glide through the air?
+      TrueAnswer: Flying Squirrel
+      FalseAnswer:
+      - Bat
+      - Bird
+      - Butterfly
+      Explanation: The Flying Squirrel has a flap of skin called a patagium that
+        allows it to glide from tree to tree.
+    - Question: What is the tallest living animal?
+      TrueAnswer: Giraffe
+      FalseAnswer:
+      - Elephant
+      - Horse
+      - Kangaroo
+      Explanation: The Giraffe holds the title for being the tallest living animal,
+        with its long neck and legs.
+    - Question: Which animal is known for its ability to burrow underground?
+      TrueAnswer: Mole
+      FalseAnswer:
+      - Rabbit
+      - Badger
+      - Groundhog
+      Explanation: Moles are expert diggers, creating intricate tunnel systems underground
+        for shelter and hunting.
+    - Question: What is the largest species of eagle?
+      TrueAnswer: Harpy Eagle
+      FalseAnswer:
+      - Bald Eagle
+      - Golden Eagle
+      - Steller's Sea Eagle
+      Explanation: The Harpy Eagle is the largest species of eagle, found in the
+        tropical rainforests of Central and South America.
+    - Question: Which animal is known for its ability to mimic human speech?
+      TrueAnswer: Parrot
+      FalseAnswer:
+      - Owl
+      - Crow
+      - Pigeon
+      Explanation: Parrots are highly intelligent birds capable of mimicking human
+        speech and other sounds.
+    - Question: What is the largest species of deer?
+      TrueAnswer: Moose
+      FalseAnswer:
+      - White-tailed Deer
+      - Elk
+      - Reindeer
+      Explanation: The Moose is the largest species of deer, known for its massive
+        size and distinctive antlers.
+    - Question: Which animal is known for its ability to camouflage in snowy environments?
+      TrueAnswer: Arctic Fox
+      FalseAnswer:
+      - Polar Bear
+      - Snowy Owl
+      - Snow Leopard
+      Explanation: The Arctic Fox has a white coat during winter, allowing it to
+        blend in with the snowy landscape.
+    - Question: What is the largest species of kangaroo?
+      TrueAnswer: Red Kangaroo
+      FalseAnswer:
+      - Gray Kangaroo
+      - Tree Kangaroo
+      - Wallaby
+      Explanation: The Red Kangaroo is the largest species of kangaroo, found in
+        the arid regions of Australia.
+    - Question: Which animal is known for its ability to produce silk?
+      TrueAnswer: Silkworm
+      FalseAnswer:
+      - Spider
+      - Ant
+      - Bee
+      Explanation: Silkworms are the larval stage of silk moths and are known for
+        producing silk fibers used in textiles.

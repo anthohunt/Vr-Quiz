@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but des directives pour l'accessibilité du contenu web (WCAG) ?",
+            "TrueAnswer": "Rendre le contenu web plus accessible aux personnes handicapées.",
+            "FalseAnswer": [
+              "Limite l'accès à internet",
+              "Améliorer la vitesse d'internet",
+              "Promouvoir les publicités web"
+            ],
+            "Explanation": "Les WCAG fournissent une norme partagée pour l'accessibilité du contenu web afin de garantir que les personnes handicapées aient un accès égal à l'information et à la fonctionnalité."
+          },
+          {
+            "Question": "Quel terme décrit la conception de sites web qui s'adaptent à divers appareils et tailles d'écran ?",
+            "TrueAnswer": "Conception adaptative",
+            "FalseAnswer": [
+              "Conception dynamique",
+              "Conception statique",
+              "Conception animée"
+            ],
+            "Explanation": "La conception adaptative garantit que le contenu web s'adapte à la taille de l'écran de l'appareil de l'utilisateur, offrant une expérience de visualisation optimale sur différents appareils et plateformes."
+          },
+          {
+            "Question": "Quelle est la norme mondiale pour la création d'expériences numériques accessibles ?",
+            "TrueAnswer": "L'initiative pour l'accessibilité du web (WAI)",
+            "FalseAnswer": [
+              "Le protocole de sécurité internet (ISP)",
+              "L'association du marketing numérique (DMA)",
+              "Le comité des normes de codage (CSC)"
+            ],
+            "Explanation": "Le WAI développe des stratégies, des directives et des ressources pour contribuer à rendre le web plus accessible aux personnes handicapées, garantissant une expérience en ligne plus inclusive pour tous les utilisateurs."
+          },
+          {
+            "Question": "Quel est le but du texte alternatif (alt text) dans l'accessibilité web ?",
+            "TrueAnswer": "Fournir une alternative textuelle aux images pour les utilisateurs handicapés.",
+            "FalseAnswer": [
+              "Suivre les vues d'images",
+              "Améliorer le classement dans les moteurs de recherche",
+              "Promouvoir du contenu sponsorisé"
+            ],
+            "Explanation": "Le texte alternatif est essentiel pour fournir une description des images aux utilisateurs qui utilisent des lecteurs d'écran ou qui ont désactivé les images, leur assurant l'accès aux mêmes informations que les utilisateurs voyants."
+          },
+          {
+            "Question": "Quel est le rôle de ARIA dans l'accessibilité web ?",
+            "TrueAnswer": "Améliorer l'accessibilité du contenu dynamique et des composants avancés de l'interface utilisateur.",
+            "FalseAnswer": [
+              "Créer des graphiques animés",
+              "Bloquer les publicités pop-up",
+              "Crypter les transactions en ligne"
+            ],
+            "Explanation": "ARIA, la suite pour les applications internet riches accessibles, contribue à améliorer l'accessibilité du contenu web et des applications pour les personnes handicapées, en particulier pour ceux qui nécessitent des éléments dynamiques ou interactifs."
+          }
+        ]
+      }
+    }
+  ]
+}

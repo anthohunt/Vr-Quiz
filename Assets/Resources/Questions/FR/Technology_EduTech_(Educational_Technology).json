@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifie STEM en anglais?",
+            "TrueAnswer": "Science, Technologie, Ingénierie, Mathématiques",
+            "FalseAnswer": [
+              "Société, Technologie, Éducation, Mathématiques",
+              "Science, Formation, Ingénierie, Médecine",
+              "Logiciel, Test, Évaluation, Marketing"
+            ],
+            "Explanation": "STEM désigne une approche éducative intégrée qui met l'accent sur la Science, la Technologie, l'Ingénierie et les Mathématiques pour favoriser la pensée critique et les compétences en résolution de problèmes."
+          },
+          {
+            "Question": "Dans l'enseignement, que signifie l'acronyme LMS en anglais?",
+            "TrueAnswer": "Système de Gestion de l'Apprentissage",
+            "FalseAnswer": [
+              "Logiciel de Gestion de Langue",
+              "Système de Maîtrise des Leçons",
+              "Système de Maintenance de Laboratoire"
+            ],
+            "Explanation": "Un LMS est une plateforme numérique utilisée pour gérer et diffuser du contenu éducatif tel que des cours, des devoirs et des évaluations dans un environnement virtuel."
+          },
+          {
+            "Question": "Quel langage de programmation est couramment utilisé pour le développement de jeux?",
+            "TrueAnswer": "C++",
+            "FalseAnswer": [
+              "Java",
+              "Python",
+              "HTML"
+            ],
+            "Explanation": "C++ est un langage de programmation populaire pour le développement de jeux en raison de ses performances et de sa flexibilité, ce qui le rend largement utilisé dans la création de moteurs de jeu et de jeux hautes performances."
+          },
+          {
+            "Question": "Quel est le principal objectif de la technologie d'apprentissage adaptatif?",
+            "TrueAnswer": "Apprentissage personnalisé",
+            "FalseAnswer": [
+              "Apprentissage en groupe",
+              "Enseignement traditionnel",
+              "Tests standardisés"
+            ],
+            "Explanation": "La technologie d'apprentissage adaptatif vise à fournir des expériences d'apprentissage personnalisées en ajustant le contenu et le rythme de l'enseignement pour répondre aux besoins et aux capacités individuels de chaque élève."
+          },
+          {
+            "Question": "Que signifie AR en technologie éducative?",
+            "TrueAnswer": "Réalité augmentée",
+            "FalseAnswer": [
+              "Robotique avancée",
+              "Intelligence artificielle",
+              "Enregistrement audio"
+            ],
+            "Explanation": "La réalité augmentée intègre des informations numériques et des objets virtuels dans l'environnement réel, améliorant l'expérience d'apprentissage en fournissant du contenu interactif et immersif."
+          },
+          {
+            "Question": "Quel type de technologie utilise le suivi oculaire à des fins éducatives?",
+            "TrueAnswer": "Apprentissage basé sur le regard",
+            "FalseAnswer": [
+              "Logiciel de reconnaissance vocale",
+              "Simulation de réalité virtuelle",
+              "Interaction basée sur les gestes"
+            ],
+            "Explanation": "La technologie d'apprentissage basée sur le regard suit et analyse les mouvements oculaires de l'utilisateur pour comprendre les schémas d'attention visuelle et optimiser la diffusion de contenu éducatif."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un exemple de ludification dans l'éducation?",
+            "TrueAnswer": "Points et badges pour les réalisations",
+            "FalseAnswer": [
+              "Devoirs traditionnels",
+              "Enseignement basé sur des conférences",
+              "Tests standardisés"
+            ],
+            "Explanation": "La ludification utilise des éléments de conception de jeux pour engager et motiver les élèves, souvent par le biais de récompenses telles que des points et des badges, pour promouvoir l'apprentissage actif et la compétitivité académique."
+          },
+          {
+            "Question": "Que signifie l'acronyme MOOC dans l'éducation en ligne?",
+            "TrueAnswer": "Cours en ligne ouvert à tous",
+            "FalseAnswer": [
+              "Curriculum mobile en ligne",
+              "Codage orienté objet modulaire",
+              "Bureau obligatoire de l'université"
+            ],
+            "Explanation": "Les MOOC sont des cours en ligne conçus pour un grand nombre de participants, librement accessibles sur Internet, permettant aux apprenants de participer à des expériences d'apprentissage autogérées et collaboratives."
+          },
+          {
+            "Question": "Quelle technologie permet une collaboration et un partage de documents en temps réel dans les salles de classe?",
+            "TrueAnswer": "Google Workspace for Education",
+            "FalseAnswer": [
+              "Microsoft Excel",
+              "Adobe Acrobat",
+              "Suite Apple iWork"
+            ],
+            "Explanation": "Google Workspace for Education propose des outils tels que Google Docs, Sheets et Slides pour un travail collaboratif, permettant aux élèves et aux éducateurs de créer, partager et éditer des documents en temps réel."
+          },
+          {
+            "Question": "En EduTech, que signifie l'acronyme AI?",
+            "TrueAnswer": "Intelligence artificielle",
+            "FalseAnswer": [
+              "Instruction automatisée",
+              "Amélioration académique",
+              "Interaction adaptative"
+            ],
+            "Explanation": "L'intelligence artificielle en EduTech désigne l'utilisation de l'apprentissage automatique et d'algorithmes pour analyser les données des élèves, personnaliser les expériences d'apprentissage et automatiser les processus éducatifs."
+          },
+          {
+            "Question": "Quelle technologie facilite les discussions en ligne interactives et la collaboration entre pairs?",
+            "TrueAnswer": "Forums de discussion",
+            "FalseAnswer": [
+              "Communication par e-mail",
+              "Plateformes de médias sociaux",
+              "Cours en ligne vidéo"
+            ],
+            "Explanation": "Les forums de discussion offrent une plateforme structurée pour que les élèves s'engagent dans un discours en ligne significatif, partagent des idées et collaborent sur des sujets académiques dans l'environnement d'apprentissage."
+          },
+          {
+            "Question": "Quel outil EduTech utilise des tutoriels à son propre rythme et des exercices interactifs pour le développement des compétences?",
+            "TrueAnswer": "Plateformes d'apprentissage en ligne",
+            "FalseAnswer": [
+              "Manuels scolaires traditionnels",
+              "Feuilles de travail sur papier",
+              "Systèmes de gestion de l'apprentissage"
+            ],
+            "Explanation": "Les plateformes d'apprentissage en ligne offrent une large gamme de cours et de ressources, permettant aux apprenants de s'engager dans un apprentissage autodirigé et personnalisé grâce à des tutoriels et des exercices interactifs."
+          },
+          {
+            "Question": "Que représente l'acronyme BYOD en technologie éducative?",
+            "TrueAnswer": "Apportez votre propre appareil",
+            "FalseAnswer": [
+              "Créez votre propre base de données",
+              "Sauvegardez vos données en ligne",
+              "Naviguez dans votre annuaire en ligne"
+            ],
+            "Explanation": "BYOD fait référence à une politique qui permet aux élèves d'utiliser leurs appareils personnels, tels que des ordinateurs portables et des tablettes, à des fins d'apprentissage, favorisant la littératie numérique et l'accessibilité aux ressources."
+          },
+          {
+            "Question": "Quelle technologie permet des visites virtuelles et des expériences d'apprentissage immersives en temps réel?",
+            "TrueAnswer": "Réalité virtuelle",
+            "FalseAnswer": [
+              "Réalité augmentée",
+              "Visioconférence",
+              "Environnements simulés"
+            ],
+            "Explanation": "La technologie de réalité virtuelle crée des environnements simulés explorables et interactifs, offrant aux élèves des expériences éducatives immersives et engageantes, y compris des visites virtuelles et des simulations pratiques."
+          },
+          {
+            "Question": "Quelle méthode technologique implique l'utilisation d'enregistrements audio pour diffuser du contenu de cours et des conférences?",
+            "TrueAnswer": "Diffusion de podcasts",
+            "FalseAnswer": [
+              "Téléconférence",
+              "Livres électroniques",
+              "Webinaires"
+            ],
+            "Explanation": "Les podcasts permettent aux éducateurs de diffuser du contenu audio et des conférences pour que les élèves y aient accès à tout moment, facilitant des opportunités d'apprentissage flexibles et nomades."
+          },
+          {
+            "Question": "Quelle technologie éducative met l'accent sur l'utilisation du récit et des narrations interactives?",
+            "TrueAnswer": "Récit numérique",
+            "FalseAnswer": [
+              "Outils d'analyse de données",
+              "Évaluations en ligne",
+              "Présentations graphiques"
+            ],
+            "Explanation": "Le récit numérique intègre des éléments multimédias pour créer des narrations interactives, favorisant la créativité, les compétences en communication et la pensée critique à travers l'art du récit dans des contextes éducatifs."
+          },
+          {
+            "Question": "Que signifie l'acronyme PBL en EduTech?",
+            "TrueAnswer": "Apprentissage par projet",
+            "FalseAnswer": [
+              "Apprentissage mixte personnalisé",
+              "Langage professionnel des affaires",
+              "Langage de bloc programmable"
+            ],
+            "Explanation": "L'apprentissage par projet met l'accent sur des projets pratiques menés par les élèves pour promouvoir les compétences de résolution de problèmes, la collaboration et la pensée critique dans un contexte réel."
+          },
+          {
+            "Question": "Quelle solution technologique permet aux éducateurs de créer des quiz et des devoirs interactifs?",
+            "TrueAnswer": "Outils EdTech",
+            "FalseAnswer": [
+              "Plateformes d'apprentissage en ligne",
+              "Réseaux sociaux",
+              "Logiciels de gestion de classe"
+            ],
+            "Explanation": "Les outils EdTech regroupent diverses plateformes numériques et logiciels conçus pour améliorer l'enseignement et l'apprentissage, notamment des fonctionnalités pour créer des quiz, des devoirs et des évaluations interactives."
+          },
+          {
+            "Question": "En EduTech, que représente l'acronyme IWB?",
+            "TrueAnswer": "Tableau blanc interactif",
+            "FalseAnswer": [
+              "Web interactif",
+              "Navigateur de poste de travail Internet",
+              "Tableau d'écriture pédagogique"
+            ],
+            "Explanation": "Les tableaux blancs interactifs offrent des écrans interactifs permettant aux éducateurs d'engager les élèves avec un contenu visuel dynamique, des activités interactives et des expériences d'apprentissage collaboratif."
+          },
+          {
+            "Question": "Quelle technologie intègre l'intelligence artificielle pour fournir des retours immédiats sur les réponses des élèves?",
+            "TrueAnswer": "Systèmes de notation automatique",
+            "FalseAnswer": [
+              "Outils d'évaluation entre pairs",
+              "Méthodes d'évaluation traditionnelles",
+              "Exercices basés sur les manuels scolaires"
+            ],
+            "Explanation": "Les systèmes de notation automatique utilisent des algorithmes d'intelligence artificielle pour évaluer et fournir des retours immédiats sur le travail des élèves, soutenant des processus de notation efficaces et permettant des interventions pédagogiques personnalisées."
+          }
+        ]
+      }
+    }
+  ]
+}

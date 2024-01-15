@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1747676749383005351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1064324240760457364}
+  - component: {fileID: 1727115266157885370}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Creativity_and_Imagination_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1064324240760457364
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1747676749383005351}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1727115266157885370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1747676749383005351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: 'Who said: ''Imagination is more important than knowledge''?'
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Isaac Newton
+      - Marie Curie
+      Explanation: Albert Einstein, the renowned physicist, emphasized the power
+        of imagination in the process of scientific discovery and creativity.
+    - Question: 'Which author wrote: ''The world is but a canvas to our imagination''?'
+      TrueAnswer: Henry David Thoreau
+      FalseAnswer:
+      - William Shakespeare
+      - J.K. Rowling
+      - Emily Dickinson
+      Explanation: Henry David Thoreau, the American essayist and naturalist, expressed
+        the boundless potential of imagination to shape one's perception of the world.
+    - Question: 'Who stated: ''Creativity takes courage''?'
+      TrueAnswer: Henri Matisse
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Leonardo da Vinci
+      Explanation: Henri Matisse, the influential French artist, highlighted the
+        bravery and risk-taking inherent in the creative process.
+    - Question: 'Which poet remarked: ''The only way to do great work is to love
+        what you do''?'
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Emily Dickinson
+      - Maya Angelou
+      - William Wordsworth
+      Explanation: Although not a poet himself, Steve Jobs, co-founder of Apple Inc.,
+        emphasized the importance of passion and enthusiasm in achieving creative
+        excellence.
+    - Question: 'Who said: ''Creativity is intelligence having fun''?'
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Pablo Picasso
+      - Marie Curie
+      - Vincent van Gogh
+      Explanation: Albert Einstein, the renowned physicist, expressed the symbiotic
+        relationship between creativity and intelligence in an engaging and playful
+        manner.
+    - Question: 'Which novelist stated: ''Imagination is the golden-eyed monster
+        that never sleeps''?'
+      TrueAnswer: Tom Robbins
+      FalseAnswer:
+      - Jane Austen
+      - Ernest Hemingway
+      - Agatha Christie
+      Explanation: Tom Robbins, the American author, portrayed imagination as a relentless
+        and powerful force that continually influences and inspires.
+    - Question: 'Who declared: ''The true sign of intelligence is not knowledge but
+        imagination''?'
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Rene Descartes
+      - Marie Curie
+      Explanation: Albert Einstein, the acclaimed physicist, emphasized that imagination
+        is a fundamental indicator of intellectual capabilities.
+    - Question: 'Which playwright emphasized: ''Imagination is the highest kite one
+        can fly''?'
+      TrueAnswer: Lauren Bacall
+      FalseAnswer:
+      - George Bernard Shaw
+      - William Shakespeare
+      - Tennessee Williams
+      Explanation: Lauren Bacall, the iconic actress and singer, symbolized the boundless
+        heights achievable through the power of imagination.
+    - Question: 'Who said: ''The world is full of magic things, patiently waiting
+        for our senses to grow sharper''?'
+      TrueAnswer: W.B. Yeats
+      FalseAnswer:
+      - Emily Dickinson
+      - Walt Whitman
+      - Ralph Waldo Emerson
+      Explanation: W.B. Yeats, the esteemed Irish poet, conveyed the transformative
+        potential of imagination in unveiling the wondrous aspects of existence.
+    - Question: 'Which musician stated: ''The only limit to our realization of tomorrow
+        will be our doubts of today''?'
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - Jimi Hendrix
+      - Beethoven
+      - Mozart
+      Explanation: Although not a musician, Franklin D. Roosevelt, the 32nd President
+        of the United States, underscored the impact of belief and imagination on
+        shaping the future.
+    - Question: 'Who famously said: ''Creativity is contagious, pass it on''?'
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Pablo Picasso
+      - Leonardo da Vinci
+      - Thomas Edison
+      Explanation: Albert Einstein, renowned for his scientific acumen, recognized
+        the infectious nature of creativity, inspiring others to perpetuate its influence.
+    - Question: 'Which philosopher asserted: ''Imagination is more important than
+        knowledge''?'
+      TrueAnswer: Immanuel Kant
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Friedrich Nietzsche
+      Explanation: Immanuel Kant, the influential German philosopher, emphasized
+        the pivotal role of imagination in shaping human understanding and perspective.
+    - Question: 'Who stated: ''The power of imagination makes us infinite''?'
+      TrueAnswer: John Muir
+      FalseAnswer:
+      - Ralph Waldo Emerson
+      - Mark Twain
+      - Henry David Thoreau
+      Explanation: John Muir, the renowned naturalist and conservationist, highlighted
+        the capacity of imagination to transcend limitations and expand the human
+        experience.
+    - Question: 'Which artist proclaimed: ''The imagination is the golden pathway
+        to everywhere''?'
+      TrueAnswer: Terence McKenna
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Vincent van Gogh
+      Explanation: Terence McKenna, the influential American ethnobotanist and philosopher,
+        emphasized the transcendent potential of imagination in guiding exploration
+        and discovery.
+    - Question: 'Who said: ''Creativity is just connecting things''?'
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Jeff Bezos
+      - Mark Zuckerberg
+      Explanation: Steve Jobs, the visionary co-founder of Apple Inc., underscored
+        the essence of creativity as a process of synthesizing diverse elements and
+        ideas.
+    - Question: 'Which author wrote: ''Imagination will often carry us to worlds
+        that never were''?'
+      TrueAnswer: Carl Sagan
+      FalseAnswer:
+      - J.K. Rowling
+      - George R.R. Martin
+      - Philip K. Dick
+      Explanation: Carl Sagan, the illustrious American astronomer and cosmologist,
+        celebrated the capacity of imagination to transport us beyond the confines
+        of reality.
+    - Question: 'Who stated: ''The possible''s slow fuse is lit by the imagination''?'
+      TrueAnswer: Emily Dickinson
+      FalseAnswer:
+      - Sylvia Plath
+      - Maya Angelou
+      - Virginia Woolf
+      Explanation: Emily Dickinson, the revered American poet, acknowledged the transformative
+        influence of imagination in igniting potential and fostering creative evolution.
+    - Question: 'Which filmmaker emphasized: ''Imagination should be the center of
+        your life''?'
+      TrueAnswer: Ingmar Bergman
+      FalseAnswer:
+      - Federico Fellini
+      - Stanley Kubrick
+      - Alfred Hitchcock
+      Explanation: Ingmar Bergman, the groundbreaking Swedish director, advocated
+        for the prioritization of imagination as the core foundation of personal
+        and artistic endeavors.
+    - Question: 'Who said: ''Creativity is seeing what everyone else has seen, and
+        thinking what no one else has thought''?'
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Pablo Picasso
+      - Leonardo da Vinci
+      - Vincent van Gogh
+      Explanation: Albert Einstein, the preeminent physicist, articulated the innovative
+        essence of creativity as the capacity to envision beyond established conventions.
+    - Question: 'Which author wrote: ''Imagination is everything. It is the preview
+        of life''s coming attractions.''?'
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Stephen Hawking
+      - Carl Sagan
+      - Neil deGrasse Tyson
+      Explanation: Albert Einstein, renowned for his scientific prowess, extolled
+        the influential role of imagination in shaping and envisioning future experiences.

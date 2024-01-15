@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle entreprise prévoit d'offrir des voyages dans l'espace dans un avenir proche?",
+            "TrueAnswer": "SpaceX",
+            "FalseAnswer": [
+              "Blue Origin",
+              "Virgin Galactic",
+              "NASA"
+            ],
+            "Explanation": "SpaceX prévoit d'offrir des voyages dans l'espace aux particuliers avec son vaisseau spatial Starship, potentiellement dès 2023."
+          },
+          {
+            "Question": "Quel est le coût estimé du billet pour le tourisme spatial de SpaceX?",
+            "TrueAnswer": "55 millions de dollars",
+            "FalseAnswer": [
+              "10 millions de dollars",
+              "100 millions de dollars",
+              "200 000 dollars"
+            ],
+            "Explanation": "Le billet pour le tourisme spatial de SpaceX est estimé à environ 55 millions de dollars par personne pour un voyage autour de la Lune."
+          },
+          {
+            "Question": "Quelle célébrité a réservé une place pour une mission de tourisme spatial de SpaceX?",
+            "TrueAnswer": "Yusaku Maezawa",
+            "FalseAnswer": [
+              "Tom Cruise",
+              "Lady Gaga",
+              "Beyoncé"
+            ],
+            "Explanation": "Le milliardaire japonais Yusaku Maezawa a réservé une place pour une mission autour de la Lune avec SpaceX, visant à emmener des artistes avec lui pour inspirer de nouvelles œuvres d'art."
+          },
+          {
+            "Question": "Quelle est la durée de la mission de tourisme spatial de SpaceX autour de la Lune?",
+            "TrueAnswer": "Une semaine",
+            "FalseAnswer": [
+              "Un jour",
+              "Deux semaines",
+              "Un mois"
+            ],
+            "Explanation": "La mission de tourisme spatial de SpaceX autour de la Lune devrait durer environ une semaine, comprenant une boucle autour de la Lune et un voyage de retour sur Terre."
+          },
+          {
+            "Question": "Quelle entreprise de tourisme spatial propose des escapades suborbitales à bord d'un avion spatial?",
+            "TrueAnswer": "Virgin Galactic",
+            "FalseAnswer": [
+              "Blue Origin",
+              "Space Adventures",
+              "SpaceX"
+            ],
+            "Explanation": "Virgin Galactic propose des vols de tourisme spatial suborbital à bord de son avion spatial, offrant aux passagers quelques minutes d'apesanteur et des vues panoramiques de la Terre."
+          }
+        ]
+      }
+    }
+  ]
+}

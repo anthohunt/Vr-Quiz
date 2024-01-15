@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6438075899927708268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5308047034061474547}
+  - component: {fileID: 6960165248562619830}
+  m_Layer: 0
+  m_Name: Music_Rhythm_and_Blues_(R&B).json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5308047034061474547
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6438075899927708268}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6960165248562619830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6438075899927708268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What iconic R&B artist's real name is Robyn Rihanna Fenty?
+      TrueAnswer: Rihanna
+      FalseAnswer:
+      - Beyonce
+      - Alicia Keys
+      - Whitney Houston
+      Explanation: Rihanna, born in Barbados, is a global R&B sensation known for
+        hits like 'Umbrella' and 'We Found Love.'
+    - Question: Which R&B group released the iconic album 'CrazySexyCool' in 1994?
+      TrueAnswer: TLC
+      FalseAnswer:
+      - Destiny's Child
+      - En Vogue
+      - SWV
+      Explanation: TLC's 'CrazySexyCool' is considered one of the greatest R&B albums,
+        featuring hits like 'Waterfalls' and 'Creep.'
+    - Question: What instrument is prominently featured in R&B music?
+      TrueAnswer: Piano
+      FalseAnswer:
+      - Violin
+      - Trumpet
+      - Banjo
+      Explanation: The piano, with its soulful and expressive sound, is a key instrument
+        in R&B music production and performance.
+    - Question: Which city is often credited as the birthplace of R&B music?
+      TrueAnswer: Detroit
+      FalseAnswer:
+      - New York
+      - Los Angeles
+      - Chicago
+      Explanation: Detroit played a significant role in the development of R&B, birthing
+        Motown Records and iconic R&B acts like The Supremes and The Temptations.
+    - Question: Who is known as the 'King of R&B'?
+      TrueAnswer: R. Kelly
+      FalseAnswer:
+      - Usher
+      - Chris Brown
+      - Marvin Gaye
+      Explanation: R. Kelly has been influential in shaping contemporary R&B and
+        is known for his soulful voice and chart-topping hits.
+    - Question: Which R&B artist is known for their trademark falsetto vocal style?
+      TrueAnswer: Prince
+      FalseAnswer:
+      - Stevie Wonder
+      - Sam Cooke
+      - Otis Redding
+      Explanation: Prince's distinctive falsetto vocals set him apart as a unique
+        and influential figure in the R&B genre.
+    - Question: Which R&B duo released the hit single 'No Scrubs' in 1999?
+      TrueAnswer: TLC
+      FalseAnswer:
+      - Boyz II Men
+      - Outkast
+      - Blackstreet
+      Explanation: '''No Scrubs'' by TLC became a feminist anthem and a defining
+        R&B track of the late ''90s, showcasing the group''s vocal prowess.'
+    - Question: What influential R&B record label was based in Memphis, Tennessee?
+      TrueAnswer: Stax Records
+      FalseAnswer:
+      - Motown Records
+      - Atlantic Records
+      - Def Jam Recordings
+      Explanation: Stax Records, also known as 'Soulsville USA,' played a vital role
+        in shaping the sound of R&B and soul music in the 1960s and 1970s.
+    - Question: Who is often regarded as the 'Queen of R&B'?
+      TrueAnswer: Mary J. Blige
+      FalseAnswer:
+      - Aaliyah
+      - Whitney Houston
+      - Beyonce
+      Explanation: Mary J. Blige's raw and emotive singing style has solidified her
+        status as a dominant figure in contemporary R&B music.
+    - Question: Which R&B artist achieved mainstream success with the album 'The
+        Miseducation of Lauryn Hill'?
+      TrueAnswer: Lauryn Hill
+      FalseAnswer:
+      - Brandy
+      - Monica
+      - Toni Braxton
+      Explanation: Lauryn Hill's solo debut album earned critical acclaim, reshaping
+        R&B and hip-hop with its profound lyrics and soulful sound.
+    - Question: In R&B, what is the role of the rhythm section?
+      TrueAnswer: Provide groove and support
+      FalseAnswer:
+      - Lead melody
+      - Harmonize vocals
+      - Set tempo
+      Explanation: The rhythm section, consisting of drums, bass, and keyboards,
+        anchors the groove in R&B music, providing a solid foundation for other instruments
+        and vocals.
+    - Question: What is a common rhythmic feel in R&B music?
+      TrueAnswer: Swing
+      FalseAnswer:
+      - March
+      - Tango
+      - Samba
+      Explanation: The swing feel in R&B music, characterized by syncopated rhythms
+        and a laid-back groove, contributes to its distinctive and infectious vibe.
+    - Question: Which R&B artist is associated with the subgenre 'neo-soul'?
+      TrueAnswer: Erykah Badu
+      FalseAnswer:
+      - Janet Jackson
+      - Ciara
+      - Ashanti
+      Explanation: Erykah Badu's soulful and eclectic musical style has contributed
+        to the evolution of R&B, particularly within the neo-soul subgenre.
+    - Question: What is a characteristic feature of R&B vocal phrasing?
+      TrueAnswer: Emotive melisma
+      FalseAnswer:
+      - Monotone delivery
+      - Operatic projection
+      - Whispered vocals
+      Explanation: Emotive melisma, the melodic embellishment of vocal lines, is
+        a defining feature of R&B singing known for adding depth and emotion to performances.
+    - Question: What musical era is often associated with the heyday of R&B music?
+      TrueAnswer: 1950s-1970s
+      FalseAnswer:
+      - 1980s-1990s
+      - 2000s-2010s
+      - 1940s-1950s
+      Explanation: The 1950s-1970s marked a golden era for R&B, witnessing the rise
+        of influential artists and the development of the genre's distinct sound
+        and style.
+    - Question: Which prominent musical technique is used in R&B songwriting?
+      TrueAnswer: Call and response
+      FalseAnswer:
+      - Counterpoint
+      - Ornamentation
+      - Crescendo
+      Explanation: Call and response, a musical conversation between lead vocals
+        and backing singers or instruments, is a fundamental technique in R&B songwriting,
+        engaging listeners and creating dynamic compositions.
+    - Question: Which instrument commonly provides the rhythmic pulse in R&B music?
+      TrueAnswer: Drums
+      FalseAnswer:
+      - Acoustic guitar
+      - Flute
+      - Saxophone
+      Explanation: Drums play a crucial role in shaping the rhythmic foundation of
+        R&B, driving the groove and adding dynamic accents to the music.
+    - Question: What iconic venue hosted countless legendary R&B performances during
+        the '60s and '70s?
+      TrueAnswer: Apollo Theater
+      FalseAnswer:
+      - CBGB
+      - Whisky a Go Go
+      - The Fillmore
+      Explanation: The Apollo Theater in Harlem, New York, is renowned for nurturing
+        R&B talent and showcasing iconic performances, contributing to the genre's
+        rich history.
+    - Question: What vocal style is a hallmark of R&B ballads?
+      TrueAnswer: Soulful crooning
+      FalseAnswer:
+      - Operatic belting
+      - Scat singing
+      - Yodeling
+      Explanation: Soulful crooning, characterized by emotive and tender vocal delivery,
+        adds a poignant and romantic touch to R&B ballads, creating an intimate connection
+        with listeners.
+    - Question: What is a characteristic feature of R&B song structure?
+      TrueAnswer: Emphasis on repetitive hooks
+      FalseAnswer:
+      - Complex polyrhythms
+      - Lengthy instrumental solos
+      - Extended spoken word sections
+      Explanation: R&B songs often focus on repetitive hooks, catchy melodies, and
+        memorable choruses, creating a strong and infectious musical identity.

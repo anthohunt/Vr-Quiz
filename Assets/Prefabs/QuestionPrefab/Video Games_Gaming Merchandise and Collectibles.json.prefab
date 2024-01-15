@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8719319141408304033
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7394804828063009224}
+  - component: {fileID: 2310241059841572163}
+  m_Layer: 0
+  m_Name: Video Games_Gaming Merchandise and Collectibles.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7394804828063009224
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8719319141408304033}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2310241059841572163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8719319141408304033}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which video game franchise features the character Master Chief?
+      TrueAnswer: Halo
+      FalseAnswer:
+      - Call of Duty
+      - Assassin's Creed
+      - Final Fantasy
+      Explanation: Master Chief is the iconic character in the Halo franchise, known
+        for its first-person shooter gameplay.
+    - Question: What is the main weapon used in the game 'Fortnite'?
+      TrueAnswer: Assault Rifle
+      FalseAnswer:
+      - Shotgun
+      - Sniper Rifle
+      - Pistol
+      Explanation: The Assault Rifle is a versatile and commonly used weapon in the
+        popular battle royale game Fortnite.
+    - Question: Which gaming console was released by Sony in 1994?
+      TrueAnswer: PlayStation
+      FalseAnswer:
+      - Xbox
+      - Nintendo 64
+      - Sega Genesis
+      Explanation: Sony released the PlayStation in 1994, marking its entry into
+        the console gaming market.
+    - Question: 'What is the name of the protagonist in the game ''The Witcher 3:
+        Wild Hunt''?'
+      TrueAnswer: Geralt of Rivia
+      FalseAnswer:
+      - Ezio Auditore
+      - Kratos
+      - Link
+      Explanation: 'Geralt of Rivia is the main character in the critically acclaimed
+        game ''The Witcher 3: Wild Hunt''.'
+    - Question: Which game series features the character Lara Croft?
+      TrueAnswer: Tomb Raider
+      FalseAnswer:
+      - Uncharted
+      - Resident Evil
+      - Metal Gear Solid
+      Explanation: Lara Croft is the iconic protagonist in the Tomb Raider series,
+        known for her adventurous archaeologist persona.
+    - Question: What is the name of the main character in the game 'God of War'?
+      TrueAnswer: Kratos
+      FalseAnswer:
+      - Aloy
+      - Joel
+      - Nathan Drake
+      Explanation: Kratos is the central character in the 'God of War' series, known
+        for his brutal and vengeful nature.
+    - Question: Which game franchise features the character Samus Aran?
+      TrueAnswer: Metroid
+      FalseAnswer:
+      - Super Mario
+      - The Legend of Zelda
+      - "Pok\xE9mon"
+      Explanation: Samus Aran is the protagonist in the Metroid series, known for
+        her space-faring adventures and power suit.
+    - Question: What is the name of the main character in the game 'Assassin's Creed'?
+      TrueAnswer: Ezio Auditore
+      FalseAnswer:
+      - Altair Ibn-La'Ahad
+      - Connor Kenway
+      - Edward Kenway
+      Explanation: Ezio Auditore is one of the most popular characters in the 'Assassin's
+        Creed' franchise, known for his charismatic personality and assassin skills.
+    - Question: Which game series features the character Sonic the Hedgehog?
+      TrueAnswer: Sonic the Hedgehog
+      FalseAnswer:
+      - Super Mario
+      - Donkey Kong
+      - Crash Bandicoot
+      Explanation: Sonic the Hedgehog is the beloved character in the self-titled
+        game series, known for his super speed and vibrant levels.
+    - Question: What is the name of the main character in the game 'Metal Gear Solid'?
+      TrueAnswer: Solid Snake
+      FalseAnswer:
+      - Big Boss
+      - Raiden
+      - Liquid Snake
+      Explanation: Solid Snake is the iconic protagonist in the 'Metal Gear Solid'
+        series, known for his stealth and tactical abilities.
+    - Question: Which game franchise features the character Mario?
+      TrueAnswer: Super Mario
+      FalseAnswer:
+      - The Legend of Zelda
+      - "Pok\xE9mon"
+      - Final Fantasy
+      Explanation: Mario is the iconic character in the 'Super Mario' franchise,
+        known for his platforming adventures and saving Princess Peach.
+    - Question: What is the name of the main character in the game 'Uncharted'?
+      TrueAnswer: Nathan Drake
+      FalseAnswer:
+      - Joel
+      - Kratos
+      - Ezio Auditore
+      Explanation: Nathan Drake is the charismatic protagonist in the 'Uncharted'
+        series, known for his treasure hunting escapades.
+    - Question: Which game series features the character Link?
+      TrueAnswer: The Legend of Zelda
+      FalseAnswer:
+      - Final Fantasy
+      - Super Mario
+      - Assassin's Creed
+      Explanation: Link is the legendary hero in 'The Legend of Zelda' series, known
+        for his quests to rescue Princess Zelda and defeat Ganon.
+    - Question: What is the name of the main character in the game 'Final Fantasy
+        VII'?
+      TrueAnswer: Cloud Strife
+      FalseAnswer:
+      - Squall Leonhart
+      - Tidus
+      - Noctis Lucis Caelum
+      Explanation: Cloud Strife is the protagonist in 'Final Fantasy VII', known
+        for his spiky hair and giant sword.
+    - Question: Which game franchise features the character Donkey Kong?
+      TrueAnswer: Donkey Kong
+      FalseAnswer:
+      - Crash Bandicoot
+      - Sonic the Hedgehog
+      - Super Mario
+      Explanation: Donkey Kong is the iconic character in the self-titled game franchise,
+        known for his strength and love for bananas.
+    - Question: "What is the name of the main character in the game 'Pok\xE9mon Red
+        and Blue'?"
+      TrueAnswer: Red
+      FalseAnswer:
+      - Ash
+      - Blue
+      - Gary
+      Explanation: "Red is the default name for the main character in 'Pok\xE9mon
+        Red and Blue', representing the player's avatar."
+    - Question: Which game series features the character Joel?
+      TrueAnswer: The Last of Us
+      FalseAnswer:
+      - God of War
+      - Uncharted
+      - Assassin's Creed
+      Explanation: Joel is one of the main characters in 'The Last of Us' series,
+        known for his survival skills and protective nature.
+    - Question: What is the name of the main character in the game 'Crash Bandicoot'?
+      TrueAnswer: Crash
+      FalseAnswer:
+      - Spyro
+      - Coco
+      - Aku Aku
+      Explanation: Crash is the titular character in the 'Crash Bandicoot' series,
+        known for his wacky adventures and spinning attacks.
+    - Question: Which game franchise features the character Ezio Auditore?
+      TrueAnswer: Assassin's Creed
+      FalseAnswer:
+      - Metal Gear Solid
+      - Tomb Raider
+      - Final Fantasy
+      Explanation: Ezio Auditore is one of the most popular characters in the 'Assassin's
+        Creed' franchise, known for his assassin skills and compelling story.
+    - Question: What is the name of the main character in the game 'Resident Evil'?
+      TrueAnswer: Chris Redfield
+      FalseAnswer:
+      - Leon S. Kennedy
+      - Jill Valentine
+      - Albert Wesker
+      Explanation: Chris Redfield is one of the main characters in the 'Resident
+        Evil' series, known for his combat abilities and determination.
+    - Question: Which game series features the character Aloy?
+      TrueAnswer: Horizon Zero Dawn
+      FalseAnswer:
+      - The Witcher
+      - God of War
+      - Final Fantasy
+      Explanation: Aloy is the protagonist in the 'Horizon Zero Dawn' series, known
+        for her archery skills and post-apocalyptic adventures.

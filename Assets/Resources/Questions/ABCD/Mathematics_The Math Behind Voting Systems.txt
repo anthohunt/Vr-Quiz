@@ -1,0 +1,128 @@
+{
+    "Mathematics": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the purpose of voting systems in mathematics?",
+                    "TrueAnswer": "To determine a winner",
+                    "FalseAnswer": ["To confuse voters", "To waste time", "To create chaos"],
+                    "Explanation": "Voting systems in mathematics are designed to determine a clear winner based on the preferences of voters."
+                },
+                {
+                    "Question": "What is the Borda count voting system?",
+                    "TrueAnswer": "A ranked voting system",
+                    "FalseAnswer": ["A lottery-based system", "A coin toss system", "A random selection system"],
+                    "Explanation": "The Borda count voting system assigns points to candidates based on their rank and determines the winner."
+                },
+                {
+                    "Question": "What is the purpose of the plurality voting system?",
+                    "TrueAnswer": "To elect a candidate with the most votes",
+                    "FalseAnswer": ["To elect a candidate with the fewest votes", "To elect multiple candidates", "To randomly select a candidate"],
+                    "Explanation": "The plurality voting system aims to elect a candidate who receives the highest number of votes, regardless of majority."
+                },
+                {
+                    "Question": "What is the Condorcet voting system?",
+                    "TrueAnswer": "A pairwise comparison system",
+                    "FalseAnswer": ["A random selection system", "A lottery-based system", "A ranked voting system"],
+                    "Explanation": "The Condorcet voting system compares candidates in pairwise matchups to determine the winner."
+                },
+                {
+                    "Question": "What is the purpose of the approval voting system?",
+                    "TrueAnswer": "To select all acceptable candidates",
+                    "FalseAnswer": ["To select only one candidate", "To exclude all candidates", "To select the least popular candidate"],
+                    "Explanation": "The approval voting system allows voters to select all candidates they find acceptable, rather than just one."
+                },
+                {
+                    "Question": "What is the Instant Runoff Voting (IRV) system?",
+                    "TrueAnswer": "A ranked voting system with elimination rounds",
+                    "FalseAnswer": ["A random selection system", "A lottery-based system", "A pairwise comparison system"],
+                    "Explanation": "The Instant Runoff Voting system involves multiple rounds of elimination based on ranked preferences."
+                },
+                {
+                    "Question": "What is the purpose of the plurality with elimination voting system?",
+                    "TrueAnswer": "To elect a candidate with majority support",
+                    "FalseAnswer": ["To elect a candidate with the fewest votes", "To elect multiple candidates", "To randomly select a candidate"],
+                    "Explanation": "The plurality with elimination voting system aims to elect a candidate with majority support after eliminating candidates with the fewest votes."
+                },
+                {
+                    "Question": "What is the purpose of the Single Transferable Vote (STV) system?",
+                    "TrueAnswer": "To achieve proportional representation",
+                    "FalseAnswer": ["To achieve unequal representation", "To exclude certain voters", "To favor specific candidates"],
+                    "Explanation": "The Single Transferable Vote system aims to achieve proportional representation by allowing voters to rank candidates and transfer votes."
+                },
+                {
+                    "Question": "What is the purpose of the Coombs' method voting system?",
+                    "TrueAnswer": "To eliminate the least preferred candidate",
+                    "FalseAnswer": ["To eliminate the most preferred candidate", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Coombs' method voting system eliminates the candidate who is least preferred by voters in each round."
+                },
+                {
+                    "Question": "What is the purpose of the Bucklin voting system?",
+                    "TrueAnswer": "To elect a candidate with majority support",
+                    "FalseAnswer": ["To elect a candidate with the fewest votes", "To elect multiple candidates", "To randomly select a candidate"],
+                    "Explanation": "The Bucklin voting system aims to elect a candidate with majority support by considering ranked preferences."
+                },
+                {
+                    "Question": "What is the purpose of the Dodgson's method voting system?",
+                    "TrueAnswer": "To find the most balanced outcome",
+                    "FalseAnswer": ["To find the most extreme outcome", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Dodgson's method voting system aims to find the outcome that requires the fewest changes in ranked preferences."
+                },
+                {
+                    "Question": "What is the purpose of the Kemeny-Young method voting system?",
+                    "TrueAnswer": "To find the consensus ranking",
+                    "FalseAnswer": ["To find the most controversial ranking", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Kemeny-Young method voting system aims to find the ranking that is most preferred by the majority of voters."
+                },
+                {
+                    "Question": "What is the purpose of the Schulze method voting system?",
+                    "TrueAnswer": "To find the strongest candidate",
+                    "FalseAnswer": ["To find the weakest candidate", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Schulze method voting system aims to find the candidate who would win in a head-to-head matchup against all other candidates."
+                },
+                {
+                    "Question": "What is the purpose of the Ranked Pairs voting system?",
+                    "TrueAnswer": "To find the strongest candidate",
+                    "FalseAnswer": ["To find the weakest candidate", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Ranked Pairs voting system aims to find the candidate who would win in a head-to-head matchup based on ranked preferences."
+                },
+                {
+                    "Question": "What is the purpose of the Copeland's method voting system?",
+                    "TrueAnswer": "To find the most popular candidate",
+                    "FalseAnswer": ["To find the least popular candidate", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Copeland's method voting system aims to find the candidate who would win the most head-to-head matchups."
+                },
+                {
+                    "Question": "What is the purpose of the Simpson-Kramer method voting system?",
+                    "TrueAnswer": "To find the most representative candidate",
+                    "FalseAnswer": ["To find the least representative candidate", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Simpson-Kramer method voting system aims to find the candidate who represents the preferences of voters most accurately."
+                },
+                {
+                    "Question": "What is the purpose of the Minimax method voting system?",
+                    "TrueAnswer": "To minimize the maximum regret",
+                    "FalseAnswer": ["To maximize the maximum regret", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Minimax method voting system aims to minimize the maximum regret that voters may have regarding the outcome."
+                },
+                {
+                    "Question": "What is the purpose of the Dodson's method voting system?",
+                    "TrueAnswer": "To find the most balanced outcome",
+                    "FalseAnswer": ["To find the most extreme outcome", "To randomly select a candidate", "To favor specific candidates"],
+                    "Explanation": "The Dodson's method voting system aims to find the outcome that requires the fewest changes in ranked preferences."
+                },
+                {
+                    "Question": "What is the purpose of the Hare-Clark method voting system?",
+                    "TrueAnswer": "To achieve proportional representation",
+                    "FalseAnswer": ["To achieve unequal representation", "To exclude certain voters", "To favor specific candidates"],
+                    "Explanation": "The Hare-Clark method voting system aims to achieve proportional representation by transferring surplus votes."
+                },
+                {
+                    "Question": "What is the purpose of the Sainte-Laguë method voting system?",
+                    "TrueAnswer": "To achieve proportional representation",
+                    "FalseAnswer": ["To achieve unequal representation", "To exclude certain voters", "To favor specific candidates"],
+                    "Explanation": "The Sainte-Laguë method voting system aims to achieve proportional representation by allocating seats based on vote shares."
+                }
+            ]
+        }
+    ]
+}

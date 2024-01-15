@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "Who is considered the father of calculus?",
+          "TrueAnswer": "Isaac Newton",
+          "FalseAnswer": [
+            "Albert Einstein",
+            "Leonhard Euler",
+            "Euclid"
+          ],
+          "Explanation": "Isaac Newton is credited as the father of calculus for his work in the late 17th century."
+        },
+        {
+          "Question": "Who independently developed calculus around the same time as Isaac Newton?",
+          "TrueAnswer": "Gottfried Wilhelm Leibniz",
+          "FalseAnswer": [
+            "Archimedes",
+            "Pythagoras",
+            "Rene Descartes"
+          ],
+          "Explanation": "Gottfried Wilhelm Leibniz independently developed calculus in the late 17th century."
+        },
+        {
+          "Question": "What is the fundamental theorem of calculus?",
+          "TrueAnswer": "The derivative and integral are inverse operations.",
+          "FalseAnswer": [
+            "The sum of two derivatives is the derivative of their sum.",
+            "The integral of a constant is zero.",
+            "The derivative of a constant is zero."
+          ],
+          "Explanation": "The fundamental theorem of calculus states that the derivative and integral are inverse operations."
+        },
+        {
+          "Question": "What is the limit of a function?",
+          "TrueAnswer": "The value a function approaches as the input approaches a certain value.",
+          "FalseAnswer": [
+            "The highest value of a function.",
+            "The lowest value of a function.",
+            "The average value of a function."
+          ],
+          "Explanation": "The limit of a function is the value that the function approaches as the input approaches a certain value."
+        },
+        {
+          "Question": "What is the derivative of a function?",
+          "TrueAnswer": "The rate of change of the function at a given point.",
+          "FalseAnswer": [
+            "The integral of the function.",
+            "The average value of the function.",
+            "The highest value of the function."
+          ],
+          "Explanation": "The derivative of a function represents the rate of change of the function at a given point."
+        },
+        {
+          "Question": "What is the integral of a function?",
+          "TrueAnswer": "The area under the curve of the function.",
+          "FalseAnswer": [
+            "The derivative of the function.",
+            "The average value of the function.",
+            "The highest value of the function."
+          ],
+          "Explanation": "The integral of a function represents the area under the curve of the function."
+        },
+        {
+          "Question": "What is the difference between differential calculus and integral calculus?",
+          "TrueAnswer": "Differential calculus focuses on rates of change, while integral calculus focuses on accumulation.",
+          "FalseAnswer": [
+            "Differential calculus focuses on accumulation, while integral calculus focuses on rates of change.",
+            "Differential calculus focuses on finding areas, while integral calculus focuses on finding derivatives.",
+            "Differential calculus focuses on finding derivatives, while integral calculus focuses on finding areas."
+          ],
+          "Explanation": "Differential calculus focuses on rates of change, while integral calculus focuses on accumulation."
+        },
+        {
+          "Question": "What is the area under a curve called?",
+          "TrueAnswer": "Integral",
+          "FalseAnswer": [
+            "Derivative",
+            "Limit",
+            "Function"
+          ],
+          "Explanation": "The area under a curve is called the integral of the function."
+        },
+        {
+          "Question": "What is the slope of a tangent line to a curve at a given point?",
+          "TrueAnswer": "Derivative",
+          "FalseAnswer": [
+            "Integral",
+            "Limit",
+            "Function"
+          ],
+          "Explanation": "The slope of a tangent line to a curve at a given point is called the derivative of the function."
+        },
+        {
+          "Question": "What is the process of finding the derivative of a function called?",
+          "TrueAnswer": "Differentiation",
+          "FalseAnswer": [
+            "Integration",
+            "Limitation",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the derivative of a function is called differentiation."
+        },
+        {
+          "Question": "What is the process of finding the integral of a function called?",
+          "TrueAnswer": "Integration",
+          "FalseAnswer": [
+            "Differentiation",
+            "Limitation",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the integral of a function is called integration."
+        },
+        {
+          "Question": "What is the symbol used to represent differentiation?",
+          "TrueAnswer": "d/dx",
+          "FalseAnswer": [
+            "∫",
+            "Σ",
+            "∆"
+          ],
+          "Explanation": "The symbol used to represent differentiation is d/dx."
+        },
+        {
+          "Question": "What is the symbol used to represent integration?",
+          "TrueAnswer": "∫",
+          "FalseAnswer": [
+            "d/dx",
+            "Σ",
+            "∆"
+          ],
+          "Explanation": "The symbol used to represent integration is ∫."
+        },
+        {
+          "Question": "What is the area between two curves called?",
+          "TrueAnswer": "Area between curves",
+          "FalseAnswer": [
+            "Derivative",
+            "Integral",
+            "Limit"
+          ],
+          "Explanation": "The area between two curves is called the area between curves."
+        },
+        {
+          "Question": "What is the process of finding the area between two curves called?",
+          "TrueAnswer": "Integration",
+          "FalseAnswer": [
+            "Differentiation",
+            "Limitation",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the area between two curves is called integration."
+        },
+        {
+          "Question": "What is the process of finding the limit of a function called?",
+          "TrueAnswer": "Taking the limit",
+          "FalseAnswer": [
+            "Differentiation",
+            "Integration",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the limit of a function is called taking the limit."
+        },
+        {
+          "Question": "What is the process of finding the derivative of a function using limits called?",
+          "TrueAnswer": "Derivative using limits",
+          "FalseAnswer": [
+            "Differentiation",
+            "Integration",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the derivative of a function using limits is called derivative using limits."
+        },
+        {
+          "Question": "What is the process of finding the integral of a function using limits called?",
+          "TrueAnswer": "Integral using limits",
+          "FalseAnswer": [
+            "Differentiation",
+            "Integration",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the integral of a function using limits is called integral using limits."
+        },
+        {
+          "Question": "What is the process of finding the derivative of a function using the power rule called?",
+          "TrueAnswer": "Derivative using power rule",
+          "FalseAnswer": [
+            "Differentiation",
+            "Integration",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the derivative of a function using the power rule is called derivative using power rule."
+        },
+        {
+          "Question": "What is the process of finding the integral of a function using the power rule called?",
+          "TrueAnswer": "Integral using power rule",
+          "FalseAnswer": [
+            "Differentiation",
+            "Integration",
+            "Functioning"
+          ],
+          "Explanation": "The process of finding the integral of a function using the power rule is called integral using power rule."
+        }
+      ]
+    }
+  ]
+}

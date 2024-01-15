@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1794084951398838361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6508720198694258351}
+  - component: {fileID: 1130716390763865990}
+  m_Layer: 0
+  m_Name: Movies_Horror Movie Subgenres.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6508720198694258351
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1794084951398838361}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1130716390763865990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1794084951398838361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which horror movie subgenre features supernatural entities like ghosts
+        and demons?
+      TrueAnswer: Supernatural
+      FalseAnswer:
+      - Slasher
+      - Found Footage
+      - Zombie
+      Explanation: The supernatural subgenre focuses on paranormal activities and
+        entities beyond the natural world.
+    - Question: Which horror movie subgenre involves a masked killer hunting down
+        and killing victims?
+      TrueAnswer: Slasher
+      FalseAnswer:
+      - Psychological
+      - Body Horror
+      - Vampire
+      Explanation: Slasher films typically involve a serial killer who stalks and
+        murders their victims in a brutal manner.
+    - Question: Which horror movie subgenre revolves around a group of people being
+        trapped and terrorized in a confined space?
+      TrueAnswer: Survival
+      FalseAnswer:
+      - Monster
+      - Cult
+      - Alien
+      Explanation: Survival horror films focus on the struggle for survival against
+        overwhelming odds in a limited environment.
+    - Question: Which horror movie subgenre features creatures or beings that are
+        reanimated corpses?
+      TrueAnswer: Zombie
+      FalseAnswer:
+      - Found Footage
+      - Possession
+      - Werewolf
+      Explanation: Zombie films depict the undead, typically reanimated corpses,
+        who feed on the flesh of the living.
+    - Question: Which horror movie subgenre explores the psychological aspects of
+        fear and terror?
+      TrueAnswer: Psychological
+      FalseAnswer:
+      - Supernatural
+      - Slasher
+      - Witchcraft
+      Explanation: Psychological horror films focus on the mental and emotional torment
+        of the characters, often blurring reality and illusion.
+    - Question: Which horror movie subgenre involves a group of people being hunted
+        by a supernatural entity or force?
+      TrueAnswer: Monster
+      FalseAnswer:
+      - Found Footage
+      - Cannibal
+      - Possession
+      Explanation: Monster movies feature creatures or beings that pose a threat
+        to humanity, often with superhuman abilities or characteristics.
+    - Question: Which horror movie subgenre involves the use of handheld cameras
+        to create a sense of realism?
+      TrueAnswer: Found Footage
+      FalseAnswer:
+      - Slasher
+      - Vampire
+      - Witchcraft
+      Explanation: Found footage films are presented as discovered footage, often
+        shot by the characters themselves, creating a sense of realism and immersion.
+    - Question: Which horror movie subgenre focuses on the transformation of the
+        human body in grotesque and horrifying ways?
+      TrueAnswer: Body Horror
+      FalseAnswer:
+      - Supernatural
+      - Psychological
+      - Ghost
+      Explanation: Body horror films explore the physical and psychological transformation
+        of the human body, often involving mutations, mutilations, or infections.
+    - Question: Which horror movie subgenre involves vampires, creatures that drink
+        the blood of the living?
+      TrueAnswer: Vampire
+      FalseAnswer:
+      - Slasher
+      - Possession
+      - Cult
+      Explanation: Vampire films depict immortal creatures that sustain themselves
+        by feeding on the blood of the living.
+    - Question: Which horror movie subgenre focuses on the possession of individuals
+        by malevolent spirits or entities?
+      TrueAnswer: Possession
+      FalseAnswer:
+      - Zombie
+      - Monster
+      - Witchcraft
+      Explanation: Possession films involve the takeover of a person's body or mind
+        by a malevolent spirit or entity.
+    - Question: Which horror movie subgenre involves the use of witchcraft, spells,
+        and supernatural powers?
+      TrueAnswer: Witchcraft
+      FalseAnswer:
+      - Survival
+      - Psychological
+      - Alien
+      Explanation: Witchcraft films center around witches, magic, and the use of
+        supernatural powers to cause harm or manipulate events.
+    - Question: Which horror movie subgenre features humanoid creatures that transform
+        into wolves or wolf-like creatures?
+      TrueAnswer: Werewolf
+      FalseAnswer:
+      - Found Footage
+      - Cannibal
+      - Ghost
+      Explanation: Werewolf films depict individuals who can transform into wolves
+        or wolf-like creatures, often during the full moon.
+    - Question: Which horror movie subgenre involves a group of people being hunted
+        or terrorized by a cult or cult-like organization?
+      TrueAnswer: Cult
+      FalseAnswer:
+      - Supernatural
+      - Slasher
+      - Zombie
+      Explanation: Cult films revolve around secretive and often dangerous cults
+        or cult-like organizations that pose a threat to the protagonists.
+    - Question: Which horror movie subgenre focuses on extraterrestrial beings or
+        creatures from outer space?
+      TrueAnswer: Alien
+      FalseAnswer:
+      - Monster
+      - Body Horror
+      - Possession
+      Explanation: Alien films explore encounters with extraterrestrial beings or
+        creatures from outer space, often with hostile intentions.
+    - Question: Which horror movie subgenre involves the consumption of human flesh
+        by other humans?
+      TrueAnswer: Cannibal
+      FalseAnswer:
+      - Found Footage
+      - Vampire
+      - Witchcraft
+      Explanation: Cannibal films depict the act of humans consuming the flesh of
+        other humans, often in a gruesome and disturbing manner.
+    - Question: Which horror movie subgenre focuses on the use of dark magic and
+        rituals to summon and control spirits?
+      TrueAnswer: Occult
+      FalseAnswer:
+      - Supernatural
+      - Slasher
+      - Zombie
+      Explanation: Occult films involve the exploration of dark magic, rituals, and
+        the summoning or control of spirits or supernatural entities.
+    - Question: Which horror movie subgenre involves the use of technology or artificial
+        intelligence as a source of terror?
+      TrueAnswer: Technological
+      FalseAnswer:
+      - Psychological
+      - Body Horror
+      - Vampire
+      Explanation: Technological horror films explore the dangers and fears associated
+        with advanced technology, AI, or machines turning against humanity.
+    - Question: Which horror movie subgenre focuses on the fear and terror associated
+        with the unknown and unexplained?
+      TrueAnswer: Mystery
+      FalseAnswer:
+      - Supernatural
+      - Slasher
+      - Zombie
+      Explanation: Mystery horror films center around the unknown and unexplained,
+        often leaving the audience in suspense and uncertainty.
+    - Question: Which horror movie subgenre involves the use of folklore, legends,
+        and mythical creatures?
+      TrueAnswer: Folklore
+      FalseAnswer:
+      - Found Footage
+      - Possession
+      - Werewolf
+      Explanation: Folklore horror films draw inspiration from traditional myths,
+        legends, and folklore, often featuring supernatural creatures or entities.
+    - Question: Which horror movie subgenre combines elements of horror and comedy
+        to create a humorous and scary experience?
+      TrueAnswer: Horror Comedy
+      FalseAnswer:
+      - Supernatural
+      - Slasher
+      - Zombie
+      Explanation: Horror comedy films blend elements of horror and comedy, often
+        using humor to subvert or enhance the scares.

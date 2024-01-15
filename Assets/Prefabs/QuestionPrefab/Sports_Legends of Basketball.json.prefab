@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2237099792595760268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7661431138205074616}
+  - component: {fileID: 8515529182003140529}
+  m_Layer: 0
+  m_Name: Sports_Legends of Basketball.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7661431138205074616
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2237099792595760268}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8515529182003140529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2237099792595760268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the greatest basketball player of all time?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Jordan is widely regarded as the greatest basketball player
+        of all time, winning six NBA championships and earning five MVP awards.
+    - Question: Which player holds the record for the most points scored in a single
+        NBA game?
+      TrueAnswer: Wilt Chamberlain
+      FalseAnswer:
+      - Kareem Abdul-Jabbar
+      - Michael Jordan
+      - Larry Bird
+      Explanation: Wilt Chamberlain scored 100 points in a single NBA game on March
+        2, 1962, a record that still stands today.
+    - Question: Who is the all-time leading scorer in NBA history?
+      TrueAnswer: Kareem Abdul-Jabbar
+      FalseAnswer:
+      - Kobe Bryant
+      - LeBron James
+      - Shaquille O'Neal
+      Explanation: Kareem Abdul-Jabbar scored a total of 38,387 points throughout
+        his NBA career, making him the all-time leading scorer.
+    - Question: Which player has the most NBA championships?
+      TrueAnswer: Bill Russell
+      FalseAnswer:
+      - Michael Jordan
+      - Magic Johnson
+      - Larry Bird
+      Explanation: Bill Russell won a total of 11 NBA championships with the Boston
+        Celtics, the most by any player in history.
+    - Question: Who is the only player to have won the NBA MVP award unanimously?
+      TrueAnswer: Stephen Curry
+      FalseAnswer:
+      - LeBron James
+      - Kevin Durant
+      - Kawhi Leonard
+      Explanation: Stephen Curry became the first player in NBA history to win the
+        MVP award unanimously in 2016.
+    - Question: Which player has the most career triple-doubles in NBA history?
+      TrueAnswer: Russell Westbrook
+      FalseAnswer:
+      - Magic Johnson
+      - LeBron James
+      - Oscar Robertson
+      Explanation: Russell Westbrook holds the record for the most career triple-doubles
+        in NBA history, surpassing Oscar Robertson.
+    - Question: Who is the all-time leader in three-pointers made in NBA history?
+      TrueAnswer: Ray Allen
+      FalseAnswer:
+      - Stephen Curry
+      - Reggie Miller
+      - Larry Bird
+      Explanation: Ray Allen made a total of 2,973 three-pointers in his NBA career,
+        the most in league history.
+    - Question: Which player has the highest career free throw percentage in NBA
+        history?
+      TrueAnswer: Steve Nash
+      FalseAnswer:
+      - Larry Bird
+      - Dirk Nowitzki
+      - Karl Malone
+      Explanation: Steve Nash holds the highest career free throw percentage in NBA
+        history, shooting 90.43% from the free throw line.
+    - Question: Who is the only player to have recorded a quadruple-double in an
+        NBA game?
+      TrueAnswer: Nate Thurmond
+      FalseAnswer:
+      - Hakeem Olajuwon
+      - David Robinson
+      - Shaquille O'Neal
+      Explanation: Nate Thurmond is the only player in NBA history to have recorded
+        a quadruple-double, achieving the feat on October 18, 1974.
+    - Question: Which player has the most steals in NBA history?
+      TrueAnswer: John Stockton
+      FalseAnswer:
+      - Michael Jordan
+      - Gary Payton
+      - Scottie Pippen
+      Explanation: John Stockton recorded a total of 3,265 steals in his NBA career,
+        the most in league history.
+    - Question: Who is the all-time leader in blocked shots in NBA history?
+      TrueAnswer: Hakeem Olajuwon
+      FalseAnswer:
+      - Dikembe Mutombo
+      - Shaquille O'Neal
+      - David Robinson
+      Explanation: Hakeem Olajuwon blocked a total of 3,830 shots in his NBA career,
+        the most in league history.
+    - Question: Which player has the most NBA Finals MVP awards?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - LeBron James
+      - Magic Johnson
+      - Kobe Bryant
+      Explanation: Michael Jordan won the NBA Finals MVP award a total of six times,
+        the most in history.
+    - Question: Who is the only player to have won the NBA Defensive Player of the
+        Year award four times?
+      TrueAnswer: Dikembe Mutombo
+      FalseAnswer:
+      - Ben Wallace
+      - Dennis Rodman
+      - Kawhi Leonard
+      Explanation: Dikembe Mutombo is the only player to have won the NBA Defensive
+        Player of the Year award four times.
+    - Question: Which player has the most assists in NBA history?
+      TrueAnswer: John Stockton
+      FalseAnswer:
+      - Magic Johnson
+      - Jason Kidd
+      - Steve Nash
+      Explanation: John Stockton recorded a total of 15,806 assists in his NBA career,
+        the most in league history.
+    - Question: Who is the all-time leader in rebounds in NBA history?
+      TrueAnswer: Wilt Chamberlain
+      FalseAnswer:
+      - Bill Russell
+      - Kareem Abdul-Jabbar
+      - Shaquille O'Neal
+      Explanation: Wilt Chamberlain grabbed a total of 23,924 rebounds in his NBA
+        career, the most in league history.
+    - Question: Which player has the most NBA All-Star Game MVP awards?
+      TrueAnswer: Kobe Bryant
+      FalseAnswer:
+      - Michael Jordan
+      - LeBron James
+      - Magic Johnson
+      Explanation: Kobe Bryant won the NBA All-Star Game MVP award a total of four
+        times, the most in history.
+    - Question: Who is the only player to have won the NBA scoring title in his rookie
+        season?
+      TrueAnswer: Wilt Chamberlain
+      FalseAnswer:
+      - Michael Jordan
+      - Kareem Abdul-Jabbar
+      - Shaquille O'Neal
+      Explanation: Wilt Chamberlain led the NBA in scoring during his rookie season,
+        averaging 37.6 points per game.
+    - Question: Which player has the most NBA Coach of the Year awards?
+      TrueAnswer: Pat Riley
+      FalseAnswer:
+      - Phil Jackson
+      - Gregg Popovich
+      - Red Auerbach
+      Explanation: Pat Riley won the NBA Coach of the Year award a total of three
+        times, the most in history.
+    - Question: Who is the only player to have won the NBA Sixth Man of the Year
+        award three times?
+      TrueAnswer: Jamal Crawford
+      FalseAnswer:
+      - Manu Ginobili
+      - Lou Williams
+      - Jason Terry
+      Explanation: Jamal Crawford is the only player to have won the NBA Sixth Man
+        of the Year award three times.
+    - Question: Which player has the most NBA Most Improved Player awards?
+      TrueAnswer: Tracy McGrady
+      FalseAnswer:
+      - Kevin Love
+      - Giannis Antetokounmpo
+      - Paul George
+      Explanation: Tracy McGrady won the NBA Most Improved Player award a total of
+        two times, the most in history.
+    - Question: Who is the only player to have won the NBA Rookie of the Year award
+        unanimously?
+      TrueAnswer: Damian Lillard
+      FalseAnswer:
+      - LeBron James
+      - Tim Duncan
+      - Allen Iverson
+      Explanation: Damian Lillard became the first player in NBA history to win the
+        Rookie of the Year award unanimously in 2013.

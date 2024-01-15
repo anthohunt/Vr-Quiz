@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &19014977434332137
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1778887981179055741}
+  - component: {fileID: 4164755923216889409}
+  m_Layer: 0
+  m_Name: Art_Art and Religion.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1778887981179055741
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 19014977434332137}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4164755923216889409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 19014977434332137}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the ceiling of the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Donatello
+      Explanation: Michelangelo painted the iconic ceiling of the Sistine Chapel
+        in Vatican City between 1508 and 1512.
+    - Question: Which religious figure is depicted in Leonardo da Vinci's 'The Last
+        Supper'?
+      TrueAnswer: Jesus
+      FalseAnswer:
+      - Moses
+      - Buddha
+      - Muhammad
+      Explanation: Leonardo da Vinci's 'The Last Supper' portrays Jesus and his twelve
+        apostles during their final meal together.
+    - Question: What is the subject of the famous painting 'The Creation of Adam'?
+      TrueAnswer: God and Adam
+      FalseAnswer:
+      - Adam and Eve
+      - David and Goliath
+      - Cain and Abel
+      Explanation: The painting 'The Creation of Adam' by Michelangelo depicts the
+        biblical story of God giving life to Adam.
+    - Question: Which religious text inspired William Blake's illustrations in 'The
+        Book of Job'?
+      TrueAnswer: The Bible
+      FalseAnswer:
+      - The Quran
+      - The Torah
+      - The Vedas
+      Explanation: William Blake's illustrations in 'The Book of Job' were inspired
+        by the biblical text of Job.
+    - Question: Who is the central figure in Sandro Botticelli's 'The Birth of Venus'?
+      TrueAnswer: Venus
+      FalseAnswer:
+      - Mars
+      - Apollo
+      - Mercury
+      Explanation: Sandro Botticelli's 'The Birth of Venus' depicts the goddess Venus
+        emerging from the sea.
+    - Question: Which religious figure is depicted in the sculpture 'The Pieta' by
+        Michelangelo?
+      TrueAnswer: Mary and Jesus
+      FalseAnswer:
+      - Moses and Aaron
+      - David and Goliath
+      - Adam and Eve
+      Explanation: Michelangelo's 'The Pieta' portrays the Virgin Mary holding the
+        body of Jesus after the crucifixion.
+    - Question: What is the subject of the famous painting 'The Last Judgment' by
+        Hieronymus Bosch?
+      TrueAnswer: The afterlife
+      FalseAnswer:
+      - The crucifixion
+      - The nativity
+      - The resurrection
+      Explanation: Hieronymus Bosch's 'The Last Judgment' depicts various scenes
+        related to the afterlife and divine judgment.
+    - Question: Which religious figure is depicted in the sculpture 'David' by Michelangelo?
+      TrueAnswer: David
+      FalseAnswer:
+      - Samson
+      - Goliath
+      - Hercules
+      Explanation: Michelangelo's 'David' portrays the biblical figure of David,
+        who defeated the giant Goliath.
+    - Question: What is the subject of the famous painting 'The Persistence of Memory'
+        by Salvador Dali?
+      TrueAnswer: Time
+      FalseAnswer:
+      - Love
+      - Dreams
+      - Surrealism
+      Explanation: Salvador Dali's 'The Persistence of Memory' explores the concept
+        of time and its fluid nature.
+    - Question: Which religious figure is depicted in the sculpture 'The Thinker'
+        by Auguste Rodin?
+      TrueAnswer: None
+      FalseAnswer:
+      - Jesus
+      - Buddha
+      - Muhammad
+      Explanation: Auguste Rodin's 'The Thinker' is a representation of a generic
+        human figure contemplating philosophical ideas.
+    - Question: What is the subject of the famous painting 'The Starry Night' by
+        Vincent van Gogh?
+      TrueAnswer: Night sky
+      FalseAnswer:
+      - Sunset
+      - Landscape
+      - Flowers
+      Explanation: Vincent van Gogh's 'The Starry Night' depicts a swirling night
+        sky with stars and a crescent moon.
+    - Question: Which religious figure is depicted in the sculpture 'Ecstasy of Saint
+        Teresa' by Gian Lorenzo Bernini?
+      TrueAnswer: Saint Teresa
+      FalseAnswer:
+      - Virgin Mary
+      - Saint Francis
+      - Saint Peter
+      Explanation: Gian Lorenzo Bernini's 'Ecstasy of Saint Teresa' portrays Saint
+        Teresa of Avila in a state of spiritual ecstasy.
+    - Question: What is the subject of the famous painting 'The Last Judgment' by
+        Michelangelo?
+      TrueAnswer: Divine judgment
+      FalseAnswer:
+      - The crucifixion
+      - The nativity
+      - The resurrection
+      Explanation: Michelangelo's 'The Last Judgment' depicts the final judgment
+        of souls by Jesus Christ.
+    - Question: Which religious figure is depicted in the sculpture 'The Kiss' by
+        Auguste Rodin?
+      TrueAnswer: None
+      FalseAnswer:
+      - Adam
+      - Eve
+      - Cupid
+      Explanation: Auguste Rodin's 'The Kiss' represents a passionate embrace between
+        two lovers, not specifically religious figures.
+    - Question: What is the subject of the famous painting 'The School of Athens'
+        by Raphael?
+      TrueAnswer: Philosophy
+      FalseAnswer:
+      - Religion
+      - Mathematics
+      - Literature
+      Explanation: Raphael's 'The School of Athens' depicts various philosophers
+        and represents the pursuit of knowledge and wisdom.
+    - Question: Which religious figure is depicted in the sculpture 'The Veiled Virgin'
+        by Giovanni Strazza?
+      TrueAnswer: Virgin Mary
+      FalseAnswer:
+      - Eve
+      - Mary Magdalene
+      - Joan of Arc
+      Explanation: Giovanni Strazza's 'The Veiled Virgin' portrays the Virgin Mary
+        with a delicate veil covering her face.
+    - Question: What is the subject of the famous painting 'The Garden of Earthly
+        Delights' by Hieronymus Bosch?
+      TrueAnswer: Human desires and sins
+      FalseAnswer:
+      - Paradise
+      - Nature
+      - Innocence
+      Explanation: Hieronymus Bosch's 'The Garden of Earthly Delights' depicts a
+        surreal and complex allegory of human desires and sins.
+    - Question: Which religious figure is depicted in the sculpture 'The Ecstasy
+        of Saint Francis' by Gian Lorenzo Bernini?
+      TrueAnswer: Saint Francis
+      FalseAnswer:
+      - Saint Peter
+      - Saint Paul
+      - Saint John
+      Explanation: Gian Lorenzo Bernini's 'The Ecstasy of Saint Francis' portrays
+        Saint Francis of Assisi in a state of religious ecstasy.
+    - Question: What is the subject of the famous painting 'The Birth of Venus' by
+        Sandro Botticelli?
+      TrueAnswer: The birth of the goddess Venus
+      FalseAnswer:
+      - The crucifixion
+      - The nativity
+      - The resurrection
+      Explanation: Sandro Botticelli's 'The Birth of Venus' depicts the mythological
+        birth of the goddess Venus from the sea foam.
+    - Question: Which religious figure is depicted in the sculpture 'The Moses' by
+        Michelangelo?
+      TrueAnswer: Moses
+      FalseAnswer:
+      - Abraham
+      - Isaac
+      - Jacob
+      Explanation: Michelangelo's 'The Moses' portrays the biblical figure of Moses
+        holding the Ten Commandments.
+    - Question: What is the subject of the famous painting 'The Creation of Adam'
+        by William Blake?
+      TrueAnswer: The biblical creation of Adam
+      FalseAnswer:
+      - The fall of man
+      - The resurrection of Jesus
+      - The Last Supper
+      Explanation: William Blake's 'The Creation of Adam' depicts the biblical story
+        of God creating the first man, Adam.

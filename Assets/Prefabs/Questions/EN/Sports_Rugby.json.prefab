@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5009926528379588414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6203132757573934707}
+  - component: {fileID: 7930948542037505966}
+  m_Layer: 0
+  m_Name: Sports_Rugby.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6203132757573934707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5009926528379588414}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7930948542037505966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5009926528379588414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the shape of a rugby ball?
+      TrueAnswer: Oval
+      FalseAnswer:
+      - Round
+      - Rectangular
+      - Hexagonal
+      Explanation: A rugby ball is traditionally an oval shape to make it easier
+        to carry and pass with hands.
+    - Question: How many points is a try worth in rugby?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 3
+      - 7
+      - 2
+      Explanation: A try is worth 5 points in rugby, and a successful conversion
+        kick adds 2 points to the team's score.
+    - Question: Which country won the first Rugby World Cup in 1987?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - Australia
+      - England
+      - France
+      Explanation: New Zealand won the inaugural Rugby World Cup in 1987, defeating
+        France in the final.
+    - Question: What is the maximum number of players allowed on a rugby team?
+      TrueAnswer: 15
+      FalseAnswer:
+      - 11
+      - 7
+      - 20
+      Explanation: A standard rugby union team consists of 15 players, while rugby
+        sevens has 7 players per team.
+    - Question: Who is often referred to as the 'father of rugby'?
+      TrueAnswer: William Webb Ellis
+      FalseAnswer:
+      - Jonny Wilkinson
+      - Richie McCaw
+      - Jonah Lomu
+      Explanation: William Webb Ellis is credited with inventing rugby when he famously
+        picked up the ball and ran with it during a football match at Rugby School
+        in 1823.
+    - Question: In which city did the first rugby international match take place?
+      TrueAnswer: Edinburgh
+      FalseAnswer:
+      - London
+      - Paris
+      - Dublin
+      Explanation: The first recorded international rugby match took place between
+        Scotland and England on March 27, 1871, at Raeburn Place in Edinburgh.
+    - Question: What is the name of the tournament contested between the four Home
+        Nations - England, Ireland, Scotland, and Wales?
+      TrueAnswer: Six Nations
+      FalseAnswer:
+      - Five Nations
+      - Heineken Cup
+      - Rugby Championship
+      Explanation: The Six Nations Championship is an annual international rugby
+        union competition contested by the national teams of England, Ireland, Scotland,
+        Wales, France, and Italy since 2000.
+    - Question: Which player holds the record for the most points scored in international
+        rugby?
+      TrueAnswer: Dan Carter
+      FalseAnswer:
+      - Jonny Wilkinson
+      - Dan Biggar
+      - Johnny Sexton
+      Explanation: Dan Carter, the legendary All Blacks fly-half, holds the record
+        for the most points scored in international rugby, amassing 1,598 points
+        in his illustrious career.
+    - Question: In which year was rugby sevens included in the Olympic Games for
+        the first time since 1924?
+      TrueAnswer: 2016
+      FalseAnswer:
+      - 2008
+      - 1996
+      - 2020
+      Explanation: Rugby sevens made its return to the Olympic Games in 2016 in Rio
+        de Janeiro, Brazil, with Fiji winning the inaugural gold medal in the men's
+        competition.
+    - Question: What is the name of the trophy awarded to the winner of the Rugby
+        World Cup?
+      TrueAnswer: Webb Ellis Cup
+      FalseAnswer:
+      - Bledisloe Cup
+      - Calcutta Cup
+      - Triple Crown Trophy
+      Explanation: The Webb Ellis Cup, named after the alleged inventor of rugby,
+        is awarded to the winner of the Rugby World Cup, which takes place every
+        four years.
+    - Question: Where was the 2019 Rugby World Cup held?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - England
+      - New Zealand
+      - South Africa
+      Explanation: Japan hosted the 2019 Rugby World Cup, marking the first time
+        the tournament was held in Asia. South Africa emerged as the eventual champions
+        by defeating England in the final.
+    - Question: Which player is known for popularizing the 'swan dive' try celebration
+        in rugby?
+      TrueAnswer: Brian Habana
+      FalseAnswer:
+      - Jonny Wilkinson
+      - Richie McCaw
+      - Martin Johnson
+      Explanation: South African winger Bryan Habana is famous for his 'swan dive'
+        try celebration, often performed after scoring a try in his illustrious rugby
+        career.
+    - Question: What is the most points a team can score from a single conversion
+        kick in rugby?
+      TrueAnswer: 2
+      FalseAnswer:
+      - 3
+      - 1
+      - 5
+      Explanation: A successful conversion kick following a try is worth 2 points
+        in rugby union and rugby league matches.
+    - Question: Which team is known as the 'All Blacks' in international rugby?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - Ireland
+      - England
+      - South Africa
+      Explanation: The New Zealand national rugby union team is commonly known as
+        the 'All Blacks' due to their famous black playing kit and long-standing
+        tradition.
+    - Question: In which year did the Rugby World Cup expand to include 20 teams?
+      TrueAnswer: 1999
+      FalseAnswer:
+      - 1987
+      - 1995
+      - 2003
+      Explanation: The Rugby World Cup expanded to include 20 teams for the first
+        time in 1999, allowing more nations to participate in the prestigious tournament.
+    - Question: What is the playing time of a standard rugby union match?
+      TrueAnswer: 80 minutes
+      FalseAnswer:
+      - 90 minutes
+      - 70 minutes
+      - 60 minutes
+      Explanation: A standard rugby union match consists of two halves, each lasting
+        40 minutes, resulting in a total playing time of 80 minutes excluding stoppages
+        and injury time.
+    - Question: Which position in rugby is responsible for throwing the ball into
+        the lineout?
+      TrueAnswer: Hooker
+      FalseAnswer:
+      - Prop
+      - Scrum-half
+      - Flanker
+      Explanation: The hooker is responsible for throwing the ball into the lineout
+        to restart play after the ball has gone out of bounds.
+    - Question: Which country is known for performing the 'Haka' dance before rugby
+        matches?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - Australia
+      - England
+      - Ireland
+      Explanation: The New Zealand All Blacks perform the traditional Maori 'Haka'
+        war dance as a pre-match ritual, showcasing their cultural heritage and intimidating
+        opponents.
+    - Question: What is the width of a rugby goal post?
+      TrueAnswer: 5.6 meters
+      FalseAnswer:
+      - 4 meters
+      - 6 meters
+      - 7.5 meters
+      Explanation: The width of rugby goal posts is set at 5.6 meters, providing
+        a target for placekickers aiming to score penalty goals and conversions.
+    - Question: Which player holds the record for the most international rugby caps?
+      TrueAnswer: Richie McCaw
+      FalseAnswer:
+      - Brian O'Driscoll
+      - Alun Wyn Jones
+      - George Gregan
+      Explanation: Richie McCaw, the legendary New Zealand flanker, holds the record
+        for the most international caps, representing the All Blacks in 148 test
+        matches.

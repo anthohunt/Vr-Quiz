@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le premier robot connu de l'histoire?",
+            "TrueAnswer": "Le mécanisme d'Anticythère",
+            "FalseAnswer": [
+              "R.U.R.",
+              "ASIMO",
+              "Roomba"
+            ],
+            "Explanation": "Le mécanisme d'Anticythère est un ancien ordinateur analogique grec et un orrery utilisé pour prédire les positions astronomiques et les éclipses à des fins calendaires et astrologiques. Il est considéré comme l'un des plus anciens dispositifs scientifiques complexes connus."
+          },
+          {
+            "Question": "Quel est le terme désignant l'étude et le développement des robots?",
+            "TrueAnswer": "Robotique",
+            "FalseAnswer": [
+              "Cybernétique",
+              "Nanotechnologie",
+              "Biotechnologie"
+            ],
+            "Explanation": "La robotique est un domaine multidisciplinaire impliquant le génie mécanique, le génie électrique, l'informatique, et d'autres, pour concevoir et construire des robots et étudier leur comportement et leur fonctionnement."
+          },
+          {
+            "Question": "Quelle entreprise a développé le chien robotique 'Aibo'?",
+            "TrueAnswer": "Sony",
+            "FalseAnswer": [
+              "Boston Dynamics",
+              "SoftBank",
+              "iRobot"
+            ],
+            "Explanation": "Aibo de Sony est une série d'animaux de compagnie robotiques conçus pour imiter le comportement et l'intelligence d'un chien. Il a été présenté pour la première fois en 1999 et a depuis connu plusieurs itérations et améliorations."
+          },
+          {
+            "Question": "Quel est le terme désignant la capacité d'un robot à comprendre et à répondre aux émotions humaines?",
+            "TrueAnswer": "Informatique affective",
+            "FalseAnswer": [
+              "Intelligence artificielle",
+              "Intelligence émotionnelle",
+              "Robotique comportementale"
+            ],
+            "Explanation": "L'informatique affective est une branche de l'informatique qui consiste à créer des systèmes et des appareils capables de reconnaître, d'interpréter, de traiter et de simuler les affects humains. Elle vise à permettre aux robots de percevoir et de répondre aux émotions humaines."
+          },
+          {
+            "Question": "Que signifie l'acronyme 'IA' dans le contexte de la robotique?",
+            "TrueAnswer": "Intelligence artificielle",
+            "FalseAnswer": [
+              "Invention avancée",
+              "Interaction automatisée",
+              "Interface adaptative"
+            ],
+            "Explanation": "L'intelligence artificielle (IA) désigne la simulation de l'intelligence humaine dans des machines programmées pour penser et agir comme des humains. En robotique, l'IA est cruciale pour permettre aux robots d'apprendre de leur environnement et de prendre des décisions de manière autonome."
+          },
+          {
+            "Question": "Quelle entreprise de robotique a développé les robots Baxter et Sawyer?",
+            "TrueAnswer": "Rethink Robotics",
+            "FalseAnswer": [
+              "Boston Dynamics",
+              "iRobot",
+              "UBTECH Robotics"
+            ],
+            "Explanation": "Rethink Robotics, fondée par Rodney Brooks, a développé les robots Baxter et Sawyer, conçus pour travailler aux côtés des humains dans des environnements industriels, effectuant des tâches telles que la manipulation de matériaux et l'assemblage de produits."
+          },
+          {
+            "Question": "Quel est le terme désignant la capacité d'un robot à imiter ou reproduire les actions d'un humain?",
+            "TrueAnswer": "Cobots",
+            "FalseAnswer": [
+              "Robots mimétiques",
+              "Machines réplicantes",
+              "Émulateurs humanoïdes"
+            ],
+            "Explanation": "Les cobots, ou robots collaboratifs, sont conçus pour interagir physiquement avec les humains dans un espace de travail partagé. Ils sont destinés à travailler aux côtés des humains, en les aidant dans diverses tâches sans nécessiter de programmation extensive."
+          },
+          {
+            "Question": "Qui a inventé le terme 'robot' dans une pièce de théâtre en 1920?",
+            "TrueAnswer": "Karel Čapek",
+            "FalseAnswer": [
+              "Isaac Asimov",
+              "Arthur C. Clarke",
+              "Philip K. Dick"
+            ],
+            "Explanation": "Karel Čapek, un écrivain tchèque, a introduit le terme 'robot' dans sa pièce 'R.U.R.' ('Rossum's Universal Robots'). Le mot 'robot' vient du mot tchèque 'robota', signifiant 'travail forcé'."
+          },
+          {
+            "Question": "Quelle est la fonction principale du robot industriel 'Fanuc M-2000iA'?",
+            "TrueAnswer": "Levé de charges lourdes",
+            "FalseAnswer": [
+              "Soudage",
+              "Assemblage",
+              "Peinture"
+            ],
+            "Explanation": "Le M-2000iA de Fanuc est conçu pour le levage de charges lourdes et la manutention de matériaux dans des environnements industriels, capable de manipuler de grands et lourds objets avec précision et efficacité."
+          },
+          {
+            "Question": "Quel robot a été en vedette dans le film de science-fiction de 2015 'Ex Machina'?",
+            "TrueAnswer": "Ava",
+            "FalseAnswer": [
+              "C-3PO",
+              "Wall-E",
+              "Baymax"
+            ],
+            "Explanation": "'Ex Machina' raconte l'histoire d'un robot humanoïde hautement avancé nommé Ava, doté d'intelligence artificielle et interagissant avec les humains dans un cadre futuriste."
+          },
+          {
+            "Question": "Quel type de robot Léonard de Vinci a-t-il conçu au XVe siècle?",
+            "TrueAnswer": "Automate chevalier",
+            "FalseAnswer": [
+              "Machine volante",
+              "Sous-marin",
+              "Lion mécanique"
+            ],
+            "Explanation": "Léonard de Vinci a conçu un automate chevalier mécanique, qui pouvait s'asseoir, se lever et bouger ses bras, sa tête et sa mâchoire. C'était une invention révolutionnaire pour son époque, illustrant des principes robotiques précoces."
+          },
+          {
+            "Question": "Quel a été le premier robot industriel conçu pour General Motors en 1961?",
+            "TrueAnswer": "Unimate",
+            "FalseAnswer": [
+              "PUMA",
+              "Baxter",
+              "UR5"
+            ],
+            "Explanation": "Unimate, développé par George Devol et Joseph Engelberger, a été le premier robot industriel utilisé pour des tâches telles que la fonderie et le soudage par points à l'usine General Motors. Il a révolutionné les processus de fabrication en introduisant l'automatisation."
+          },
+          {
+            "Question": "Quel est le robot humanoïde créé par Hanson Robotics et connu pour son apparence réaliste?",
+            "TrueAnswer": "Sophia",
+            "FalseAnswer": [
+              "ASIMO",
+              "Pepper",
+              "Atlas"
+            ],
+            "Explanation": "Sophia, l'œuvre de David Hanson, est un robot humanoïde conçu pour interagir avec les gens, reconnaître les visages et engager la conversation. Il a attiré l'attention pour son apparence réaliste et ses capacités avancées en intelligence artificielle."
+          },
+          {
+            "Question": "Quel langage de programmation est couramment utilisé pour contrôler les robots dans le cadre de la ROS?",
+            "TrueAnswer": "C++",
+            "FalseAnswer": [
+              "Python",
+              "Java",
+              "Scala"
+            ],
+            "Explanation": "C++ est un langage largement utilisé pour développer des logiciels de contrôle de robots dans le cadre du système ROS (Robot Operating System). Il offre la vitesse et l'efficacité nécessaires pour le traitement et le contrôle en temps réel des systèmes robotiques."
+          },
+          {
+            "Question": "Quel cadre logiciel est couramment utilisé pour développer des applications et des recherches en robotique?",
+            "TrueAnswer": "ROS (Robot Operating System)",
+            "FalseAnswer": [
+              "MATLAB",
+              "LabVIEW",
+              "OpenCV"
+            ],
+            "Explanation": "ROS est un cadre ouvert, flexible et puissant pour la construction d'applications robotiques. Il fournit une collection d'outils, de bibliothèques et de conventions pour simplifier la tâche de création de comportements robotiques complexes et robustes sur une grande variété de plateformes."
+          },
+          {
+            "Question": "Quel scientifique est souvent considéré comme le 'père de la robotique moderne'?",
+            "TrueAnswer": "Joseph Engelberger",
+            "FalseAnswer": [
+              "Isaac Asimov",
+              "Nikola Tesla",
+              "Alan Turing"
+            ],
+            "Explanation": "Joseph Engelberger, un ingénieur et entrepreneur américain, est connu comme le père de la robotique moderne pour son travail pionnier dans la robotique industrielle et sa co-création du premier robot industriel, Unimate, qui a révolutionné l'automatisation manufacturière."
+          },
+          {
+            "Question": "Quel a été le premier robot industriel microcontrôlé introduit en 1974?",
+            "TrueAnswer": "IRB 6",
+            "FalseAnswer": [
+              "PUMA",
+              "SCARA",
+              "UR5"
+            ],
+            "Explanation": "L'IRB 6, développé par ASEA (aujourd'hui ABB), a été le premier robot industriel microcontrôlé. Il représentait une avancée significative en termes de précision et de polyvalence, conduisant à une adoption généralisée dans les industries manufacturières."
+          },
+          {
+            "Question": "Quelle est la fonction principale du robot médical 'da Vinci Surgical System'?",
+            "TrueAnswer": "Interventions chirurgicales",
+            "FalseAnswer": [
+              "Thérapie physique",
+              "Imagerie diagnostique",
+              "Surveillance du patient"
+            ],
+            "Explanation": "Le da Vinci Surgical System est renommé pour son utilisation dans des interventions chirurgicales mini-invasives, offrant aux chirurgiens une précision, un contrôle et une visualisation améliorés lors d'opérations complexes. Il a révolutionné les pratiques chirurgicales modernes."
+          },
+          {
+            "Question": "Quel auteur de science-fiction a introduit les 'Trois lois de la robotique'?",
+            "TrueAnswer": "Isaac Asimov",
+            "FalseAnswer": [
+              "Philip K. Dick",
+              "Arthur C. Clarke",
+              "H.G. Wells"
+            ],
+            "Explanation": "Les 'Trois lois de la robotique' d'Isaac Asimov sont un ensemble de règles éthiques conçues pour régir le comportement des robots et garantir que leurs interactions avec les humains soient sûres et bénéfiques. Elles ont influencé de manière significative le domaine de l'éthique en robotique et en intelligence artificielle."
+          },
+          {
+            "Question": "Quel est le plus grand et le plus puissant robot au monde, conçu pour l'assemblage de grandes structures?",
+            "TrueAnswer": "KUKA Titan",
+            "FalseAnswer": [
+              "Baxter",
+              "Robot Atlas de Boston Dynamics",
+              "UR5"
+            ],
+            "Explanation": "Le KUKA Titan est un système robotique massif avec une capacité de charge allant jusqu'à 1 000 kilogrammes. Il est utilisé pour des tâches lourdes telles que l'assemblage de pièces d'avion, de composants de navire et d'autres grandes structures."
+          }
+        ]
+      }
+    }
+  ]
+}

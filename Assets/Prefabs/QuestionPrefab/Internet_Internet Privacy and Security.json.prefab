@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3476950976072743918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4568933814711498107}
+  - component: {fileID: 5814708928533000965}
+  m_Layer: 0
+  m_Name: Internet_Internet Privacy and Security.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4568933814711498107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3476950976072743918}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5814708928533000965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3476950976072743918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is a common method used to protect online accounts?
+      TrueAnswer: Two-factor authentication
+      FalseAnswer:
+      - Password123
+      - Public Wi-Fi
+      - Sharing passwords
+      Explanation: Two-factor authentication adds an extra layer of security by requiring
+        a second form of verification.
+    - Question: What is the purpose of a VPN?
+      TrueAnswer: To encrypt internet traffic
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: A VPN (Virtual Private Network) encrypts internet traffic to protect
+        privacy and enhance security.
+    - Question: What is a phishing attack?
+      TrueAnswer: An attempt to trick users into revealing sensitive information
+      FalseAnswer:
+      - A type of computer virus
+      - A method to bypass firewalls
+      - A form of online advertising
+      Explanation: Phishing attacks involve deceptive tactics to trick users into
+        sharing personal or financial information.
+    - Question: What is the purpose of clearing browser cookies?
+      TrueAnswer: To remove stored data and improve privacy
+      FalseAnswer:
+      - To speed up internet connection
+      - To block pop-up ads
+      - To disable browser extensions
+      Explanation: Clearing browser cookies helps remove stored data, enhancing privacy
+        and reducing tracking.
+    - Question: What is a strong password?
+      TrueAnswer: A combination of letters, numbers, and symbols
+      FalseAnswer:
+      - A single word
+      - A birthdate
+      - A pet's name
+      Explanation: A strong password includes a mix of letters, numbers, and symbols,
+        making it harder to guess.
+    - Question: What is the purpose of antivirus software?
+      TrueAnswer: To detect and remove malware
+      FalseAnswer:
+      - To block internet access
+      - To encrypt files
+      - To optimize computer performance
+      Explanation: Antivirus software scans for and removes malicious software (malware)
+        to protect against cyber threats.
+    - Question: What is the purpose of a firewall?
+      TrueAnswer: To monitor and control network traffic
+      FalseAnswer:
+      - To increase internet speed
+      - To encrypt data
+      - To block websites
+      Explanation: A firewall monitors and controls incoming and outgoing network
+        traffic to protect against unauthorized access.
+    - Question: What is the purpose of incognito mode in a web browser?
+      TrueAnswer: To browse privately without saving browsing history
+      FalseAnswer:
+      - To block ads
+      - To increase internet speed
+      - To disable cookies
+      Explanation: Incognito mode allows users to browse the internet without saving
+        browsing history or cookies.
+    - Question: What is the purpose of a CAPTCHA?
+      TrueAnswer: To verify that the user is human
+      FalseAnswer:
+      - To encrypt internet traffic
+      - To block websites
+      - To track user activity
+      Explanation: CAPTCHA is used to distinguish between humans and automated bots,
+        preventing spam and unauthorized access.
+    - Question: What is the purpose of encryption?
+      TrueAnswer: To secure data by converting it into a coded form
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Encryption converts data into a coded form, making it unreadable
+        to unauthorized users.
+    - Question: What is the purpose of a secure socket layer (SSL) certificate?
+      TrueAnswer: To establish a secure encrypted connection between a website and
+        a user
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: SSL certificates ensure secure communication by encrypting data
+        transmitted between a website and a user.
+    - Question: What is the purpose of a password manager?
+      TrueAnswer: To securely store and manage passwords
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Password managers securely store and manage passwords, reducing
+        the need to remember multiple passwords.
+    - Question: What is the purpose of a privacy policy?
+      TrueAnswer: To inform users about how their personal information is collected
+        and used
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Privacy policies provide transparency by informing users about
+        the collection and use of their personal information.
+    - Question: What is the purpose of multi-factor authentication?
+      TrueAnswer: To add an extra layer of security by requiring multiple forms of
+        verification
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Multi-factor authentication enhances security by requiring multiple
+        forms of verification to access an account.
+    - Question: What is the purpose of a data breach notification?
+      TrueAnswer: To inform individuals about a security incident that may have exposed
+        their personal information
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Data breach notifications inform individuals about security incidents
+        that may have compromised their personal information.
+    - Question: What is the purpose of a privacy-focused web browser?
+      TrueAnswer: To prioritize user privacy by blocking trackers and minimizing
+        data collection
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Privacy-focused web browsers prioritize user privacy by blocking
+        trackers and minimizing data collection.
+    - Question: What is the purpose of a biometric authentication?
+      TrueAnswer: To use unique physical or behavioral characteristics for user identification
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Biometric authentication uses unique physical or behavioral characteristics
+        (e.g., fingerprints, facial recognition) for user identification.
+    - Question: What is the purpose of a digital certificate?
+      TrueAnswer: To verify the authenticity and integrity of digital data
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Digital certificates verify the authenticity and integrity of
+        digital data, ensuring it has not been tampered with.
+    - Question: What is the purpose of a privacy screen protector?
+      TrueAnswer: To prevent others from viewing the screen at certain angles
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Privacy screen protectors limit the viewing angle, preventing
+        others from seeing the screen contents.
+    - Question: What is the purpose of a secure email service?
+      TrueAnswer: To encrypt email messages and attachments for enhanced privacy
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: Secure email services encrypt email messages and attachments,
+        ensuring they can only be accessed by intended recipients.
+    - Question: What is the purpose of a digital footprint?
+      TrueAnswer: To refer to the trail of data left by a person's online activity
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track user activity
+      Explanation: A digital footprint refers to the data trail left by a person's
+        online activity, including posts, searches, and interactions.

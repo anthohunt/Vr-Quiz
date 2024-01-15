@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the present value of $1000 received in 5 years at a 3% interest rate?",
+          "TrueAnswer": "$863.84",
+          "FalseAnswer": [
+            "$1000",
+            "$1159.27",
+            "$924.73"
+          ],
+          "Explanation": "The present value is calculated by dividing the future value by (1 + r)^n, where r is the interest rate and n is the number of periods until the payment."
+        },
+        {
+          "Question": "What is the formula for the present value of an annuity?",
+          "TrueAnswer": "PMT * [(1 - (1 + r)^-n) / r]",
+          "FalseAnswer": [
+            "PMT * n * (1 + r)",
+            "PMT * (1 + r) / r",
+            "PMT * (1 - (1 + r)^n)"
+          ],
+          "Explanation": "The formula for the present value of an annuity calculates the current value of a series of equal payments made at regular intervals, taking into account the interest rate and the number of periods."
+        },
+        {
+          "Question": "What is the most accurate measure of portfolio diversification?",
+          "TrueAnswer": "Correlation coefficient",
+          "FalseAnswer": [
+            "Sharpe ratio",
+            "Beta coefficient",
+            "Standard deviation"
+          ],
+          "Explanation": "The correlation coefficient measures the degree to which the returns of two assets move in relation to each other, indicating the diversification benefits in a portfolio."
+        },
+        {
+          "Question": "What is the formula for calculating compound interest?",
+          "TrueAnswer": "A = P(1 + r/n)^(nt)",
+          "FalseAnswer": [
+            "A = P(1 + r)^t",
+            "A = P(1 + r/n)^t",
+            "A = P(1 + nt)^(r/n)"
+          ],
+          "Explanation": "The compound interest formula calculates the amount of money an investment will grow to after time t, compounded n times per year, with an initial principal amount P and interest rate r."
+        },
+        {
+          "Question": "What is the key assumption of the Black-Scholes model for pricing options?",
+          "TrueAnswer": "Log-normal distribution of stock returns",
+          "FalseAnswer": [
+            "Normal distribution of stock returns",
+            "Pareto distribution of stock returns",
+            "Uniform distribution of stock returns"
+          ],
+          "Explanation": "The Black-Scholes model assumes that the distribution of stock returns is log-normally distributed, allowing for the calculation of option prices using the formula derived from this assumption."
+        },
+        {
+          "Question": "What is the relationship between bond prices and interest rates?",
+          "TrueAnswer": "Inverse",
+          "FalseAnswer": [
+            "Direct",
+            "No relationship",
+            "Non-linear"
+          ],
+          "Explanation": "Bond prices and interest rates have an inverse relationship, meaning that as interest rates rise, bond prices fall, and vice versa. This relationship is fundamental in fixed income investing."
+        },
+        {
+          "Question": "What is the formula for the future value of an investment over n years?",
+          "TrueAnswer": "FV = PV * (1 + r)^n",
+          "FalseAnswer": [
+            "FV = PV * (1 - r)^n",
+            "FV = PV * (1 + r/n)^n",
+            "FV = PV * (1 + nt)"
+          ],
+          "Explanation": "The formula for future value calculates the value of an investment at a specific point in the future, taking into account the initial principal (PV), the interest rate (r), and the number of years (n)."
+        },
+        {
+          "Question": "Which investment has the highest liquidity?",
+          "TrueAnswer": "Treasury bills",
+          "FalseAnswer": [
+            "Real estate",
+            "Certificates of deposit",
+            "Corporate bonds"
+          ],
+          "Explanation": "Treasury bills are considered the most liquid investment as they are short-term, low-risk securities issued by the government and can be easily bought and sold in the secondary market."
+        },
+        {
+          "Question": "What is the formula for calculating the present value of perpetuity?",
+          "TrueAnswer": "PV = PMT / r",
+          "FalseAnswer": [
+            "PV = PMT / (1 + r)",
+            "PV = PMT / (1 - r)",
+            "PV = PMT * r"
+          ],
+          "Explanation": "The present value of perpetuity represents a series of equal cash flows that occur at regular intervals indefinitely. The formula simplifies to PV = PMT / r, where PMT is the payment and r is the interest rate."
+        },
+        {
+          "Question": "What is the primary role of the Federal Reserve in the financial system?",
+          "TrueAnswer": "Monetary policy regulation",
+          "FalseAnswer": [
+            "Fiscal policy formulation",
+            "Household debt management",
+            "Market speculation oversight"
+          ],
+          "Explanation": "The Federal Reserve plays a pivotal role in regulating the nation's monetary policy, influencing interest rates, money supply, and promoting economic stability and growth."
+        },
+        {
+          "Question": "What is the formula for calculating the price of a perpetuity?",
+          "TrueAnswer": "P = PMT / r",
+          "FalseAnswer": [
+            "P = PMT / (1 + r)",
+            "P = PMT / (1 - r)",
+            "P = PMT * r"
+          ],
+          "Explanation": "The price of a perpetuity reflects the present value of an infinite series of periodic payments and is calculated using the formula P = PMT / r, where PMT is the constant payment and r is the interest rate."
+        },
+        {
+          "Question": "What is the main focus of behavioral finance?",
+          "TrueAnswer": "Investor psychology and biases",
+          "FalseAnswer": [
+            "Market efficiency theory",
+            "Technical analysis of stock prices",
+            "Risk-neutral pricing approach"
+          ],
+          "Explanation": "Behavioral finance examines how psychological factors influence financial decision-making and market outcomes, shedding light on cognitive biases, emotional influences, and irrational behavior in investing."
+        },
+        {
+          "Question": "What is the risk-adjusted measure that assesses the excess return per unit of risk?",
+          "TrueAnswer": "Sharpe ratio",
+          "FalseAnswer": [
+            "Treynor ratio",
+            "Jensen's alpha",
+            "Sortino ratio"
+          ],
+          "Explanation": "The Sharpe ratio evaluates the performance of an investment by measuring the excess return per unit of total risk, providing a valuable tool for assessing the risk-adjusted return of an investment strategy."
+        },
+        {
+          "Question": "What is the key factor impacting the value of a call option in the Black-Scholes model?",
+          "TrueAnswer": "Stock price volatility",
+          "FalseAnswer": [
+            "Interest rates",
+            "Time to expiration",
+            "Dividend yield"
+          ],
+          "Explanation": "In the Black-Scholes model, the value of a call option is significantly affected by the volatility of the underlying stock price, as higher volatility leads to a higher option value due to increased potential for price movements."
+        },
+        {
+          "Question": "What does the efficient market hypothesis suggest? ",
+          "TrueAnswer": "All available information is reflected in stock prices.",
+          "FalseAnswer": [
+            "Stock prices are random",
+            "Stock prices are predictable",
+            "Stock prices are determined by supply and demand only"
+          ],
+          "Explanation": "The efficient market hypothesis holds that all available information is already reflected in stock prices, and it is impossible to consistently achieve excess returns by analyzing past market data or making predictions based on historical trends."
+        },
+        {
+          "Question": "What is the primary objective of options pricing models like Black-Scholes?",
+          "TrueAnswer": "Estimating fair value of options",
+          "FalseAnswer": [
+            "Predicting future stock prices",
+            "Calculating dividend yield",
+            "Measuring market volatility"
+          ],
+          "Explanation": "Options pricing models, such as Black-Scholes, aim to determine the fair value of options by considering factors like the underlying stock price, time to expiration, risk-free rate, and volatility, facilitating informed investment decisions."
+        },
+        {
+          "Question": "What is the main purpose of the Capital Asset Pricing Model (CAPM)?",
+          "TrueAnswer": "Calculating expected return for an asset",
+          "FalseAnswer": [
+            "Forecasting stock price movements",
+            "Quantifying market risk premium",
+            "Assessing company profitability"
+          ],
+          "Explanation": "The CAPM is used to calculate the expected return for an asset based on its beta, the risk-free rate, and the market risk premium, providing a framework for evaluating the asset's potential return in relation to its systematic risk."
+        },
+        {
+          "Question": "What is the formula for calculating the annual percentage yield (APY)?",
+          "TrueAnswer": "APY = (1 + r/n)^n - 1",
+          "FalseAnswer": [
+            "APY = r * n",
+            "APY = (1 + r)^n - 1",
+            "APY = r / n"
+          ],
+          "Explanation": "The annual percentage yield (APY) formula adjusts the nominal interest rate for the effects of compounding, allowing investors to compare the true return on different investment options with different compounding frequencies."
+        },
+        {
+          "Question": "What is the primary goal of financial risk management?",
+          "TrueAnswer": "Minimize potential losses",
+          "FalseAnswer": [
+            "Maximize short-term gains",
+            "Eliminate market volatility ",
+            "Strategic long-term planning"
+          ],
+          "Explanation": "Financial risk management aims to minimize potential losses by identifying, assessing, and mitigating risks in the context of investment portfolios, market volatility, and operational activities, enhancing overall financial stability and resilience."
+        },
+        {
+          "Question": "What is the primary factor affecting the yield to maturity of a bond?",
+          "TrueAnswer": "Changes in interest rates",
+          "FalseAnswer": [
+            "Credit rating of the issuer",
+            "Bond's maturity date",
+            "Market liquidity of the bond"
+          ],
+          "Explanation": "The yield to maturity of a bond is primarily impacted by changes in interest rates, as it represents the total return an investor can expect to receive if the bond is held to maturity, factoring in both coupon payments and any change in bond price due to interest rate movements."
+        }
+      ]
+    }
+  ]
+}

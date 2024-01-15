@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4908437514363891131
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5560725665907758802}
+  - component: {fileID: 5716041048104138984}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes on Truth and Deception.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5560725665907758802
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4908437514363891131}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5716041048104138984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4908437514363891131}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'The truth will set you free'?
+      TrueAnswer: Jesus
+      FalseAnswer:
+      - Buddha
+      - Socrates
+      - Confucius
+      Explanation: This quote is attributed to Jesus in the Bible, specifically in
+        the Gospel of John.
+    - Question: Which philosopher said 'The only true wisdom is in knowing you know
+        nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Descartes
+      Explanation: Socrates, the ancient Greek philosopher, is credited with this
+        famous quote.
+    - Question: Who said 'The greatest enemy of knowledge is not ignorance, it is
+        the illusion of knowledge'?
+      TrueAnswer: Stephen Hawking
+      FalseAnswer:
+      - Albert Einstein
+      - Isaac Newton
+      - Galileo Galilei
+      Explanation: This quote is from Stephen Hawking, the renowned physicist and
+        cosmologist.
+    - Question: Which author said 'The truth is rarely pure and never simple'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Jane Austen
+      - Ernest Hemingway
+      Explanation: Oscar Wilde, the Irish writer and poet, is the author of this
+        quote.
+    - Question: Who said 'The truth is incontrovertible. Malice may attack it, ignorance
+        may deride it, but in the end, there it is'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: This quote is attributed to Winston Churchill, the British statesman
+        and Prime Minister.
+    - Question: Which philosopher said 'The measure of intelligence is the ability
+        to change'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - "Ren\xE9 Descartes"
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Albert Einstein, the renowned physicist, is credited with this
+        quote.
+    - Question: Who said 'The truth is like a lion; you don't have to defend it.
+        Let it loose; it will defend itself'?
+      TrueAnswer: Augustine of Hippo
+      FalseAnswer:
+      - Thomas Aquinas
+      - Martin Luther
+      - John Calvin
+      Explanation: This quote is attributed to Augustine of Hippo, an early Christian
+        theologian and philosopher.
+    - Question: Which author said 'The truth is rarely pure and never simple'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Jane Austen
+      - Ernest Hemingway
+      Explanation: Oscar Wilde, the Irish writer and poet, is the author of this
+        quote.
+    - Question: Who said 'The truth is incontrovertible. Malice may attack it, ignorance
+        may deride it, but in the end, there it is'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: This quote is attributed to Winston Churchill, the British statesman
+        and Prime Minister.
+    - Question: Which philosopher said 'The measure of intelligence is the ability
+        to change'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - "Ren\xE9 Descartes"
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Albert Einstein, the renowned physicist, is credited with this
+        quote.
+    - Question: Who said 'The truth is like a lion; you don't have to defend it.
+        Let it loose; it will defend itself'?
+      TrueAnswer: Augustine of Hippo
+      FalseAnswer:
+      - Thomas Aquinas
+      - Martin Luther
+      - John Calvin
+      Explanation: This quote is attributed to Augustine of Hippo, an early Christian
+        theologian and philosopher.
+    - Question: Which philosopher said 'The truth is rarely pure and never simple'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Jane Austen
+      - Ernest Hemingway
+      Explanation: Oscar Wilde, the Irish writer and poet, is the author of this
+        quote.
+    - Question: Who said 'The truth is incontrovertible. Malice may attack it, ignorance
+        may deride it, but in the end, there it is'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: This quote is attributed to Winston Churchill, the British statesman
+        and Prime Minister.
+    - Question: Which philosopher said 'The measure of intelligence is the ability
+        to change'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - "Ren\xE9 Descartes"
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Albert Einstein, the renowned physicist, is credited with this
+        quote.
+    - Question: Who said 'The truth is like a lion; you don't have to defend it.
+        Let it loose; it will defend itself'?
+      TrueAnswer: Augustine of Hippo
+      FalseAnswer:
+      - Thomas Aquinas
+      - Martin Luther
+      - John Calvin
+      Explanation: This quote is attributed to Augustine of Hippo, an early Christian
+        theologian and philosopher.
+    - Question: Which philosopher said 'The truth is rarely pure and never simple'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Jane Austen
+      - Ernest Hemingway
+      Explanation: Oscar Wilde, the Irish writer and poet, is the author of this
+        quote.
+    - Question: Who said 'The truth is incontrovertible. Malice may attack it, ignorance
+        may deride it, but in the end, there it is'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: This quote is attributed to Winston Churchill, the British statesman
+        and Prime Minister.
+    - Question: Which philosopher said 'The measure of intelligence is the ability
+        to change'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - "Ren\xE9 Descartes"
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Albert Einstein, the renowned physicist, is credited with this
+        quote.
+    - Question: Who said 'The truth is like a lion; you don't have to defend it.
+        Let it loose; it will defend itself'?
+      TrueAnswer: Augustine of Hippo
+      FalseAnswer:
+      - Thomas Aquinas
+      - Martin Luther
+      - John Calvin
+      Explanation: This quote is attributed to Augustine of Hippo, an early Christian
+        theologian and philosopher.
+    - Question: Which philosopher said 'The truth is rarely pure and never simple'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Jane Austen
+      - Ernest Hemingway
+      Explanation: Oscar Wilde, the Irish writer and poet, is the author of this
+        quote.
+    - Question: Who said 'The truth is incontrovertible. Malice may attack it, ignorance
+        may deride it, but in the end, there it is'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: This quote is attributed to Winston Churchill, the British statesman
+        and Prime Minister.
+    - Question: Which philosopher said 'The measure of intelligence is the ability
+        to change'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - "Ren\xE9 Descartes"
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Albert Einstein, the renowned physicist, is credited with this
+        quote.
+    - Question: Who said 'The truth is like a lion; you don't have to defend it.
+        Let it loose; it will defend itself'?
+      TrueAnswer: Augustine of Hippo
+      FalseAnswer:
+      - Thomas Aquinas
+      - Martin Luther
+      - John Calvin
+      Explanation: This quote is attributed to Augustine of Hippo, an early Christian
+        theologian and philosopher.

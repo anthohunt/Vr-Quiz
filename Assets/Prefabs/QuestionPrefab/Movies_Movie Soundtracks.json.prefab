@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4747680199565261866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2023441662102811350}
+  - component: {fileID: 5569027786370028459}
+  m_Layer: 0
+  m_Name: Movies_Movie Soundtracks.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2023441662102811350
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4747680199565261866}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5569027786370028459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4747680199565261866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who composed the soundtrack for the movie 'Jurassic Park'?
+      TrueAnswer: John Williams
+      FalseAnswer:
+      - Hans Zimmer
+      - Alan Silvestri
+      - James Horner
+      Explanation: John Williams composed the iconic soundtrack for 'Jurassic Park',
+        known for its thrilling and majestic themes.
+    - Question: Which movie features the song 'My Heart Will Go On'?
+      TrueAnswer: Titanic
+      FalseAnswer:
+      - The Lion King
+      - Frozen
+      - Dirty Dancing
+      Explanation: The song 'My Heart Will Go On' is featured in the movie 'Titanic',
+        becoming a worldwide hit.
+    - Question: Who composed the soundtrack for the movie 'The Dark Knight'?
+      TrueAnswer: Hans Zimmer
+      FalseAnswer:
+      - John Williams
+      - Alan Silvestri
+      - James Horner
+      Explanation: Hans Zimmer composed the intense and atmospheric soundtrack for
+        'The Dark Knight', capturing the essence of the film.
+    - Question: Which movie features the song 'Let It Go'?
+      TrueAnswer: Frozen
+      FalseAnswer:
+      - The Lion King
+      - Titanic
+      - Dirty Dancing
+      Explanation: The song 'Let It Go' is featured in the movie 'Frozen', becoming
+        a popular anthem.
+    - Question: Who composed the soundtrack for the movie 'Star Wars'?
+      TrueAnswer: John Williams
+      FalseAnswer:
+      - Hans Zimmer
+      - Alan Silvestri
+      - James Horner
+      Explanation: John Williams composed the iconic and memorable soundtrack for
+        the 'Star Wars' franchise.
+    - Question: Which movie features the song 'I Will Always Love You'?
+      TrueAnswer: The Bodyguard
+      FalseAnswer:
+      - Dirty Dancing
+      - Titanic
+      - Frozen
+      Explanation: The song 'I Will Always Love You' is featured in the movie 'The
+        Bodyguard', sung by Whitney Houston.
+    - Question: Who composed the soundtrack for the movie 'Inception'?
+      TrueAnswer: Hans Zimmer
+      FalseAnswer:
+      - John Williams
+      - Alan Silvestri
+      - James Horner
+      Explanation: Hans Zimmer composed the intense and mind-bending soundtrack for
+        'Inception', enhancing the film's dream-like atmosphere.
+    - Question: Which movie features the song 'Can't Stop the Feeling!'?
+      TrueAnswer: Trolls
+      FalseAnswer:
+      - The Lion King
+      - Frozen
+      - Dirty Dancing
+      Explanation: The song 'Can't Stop the Feeling!' is featured in the movie 'Trolls',
+        bringing a catchy and upbeat vibe.
+    - Question: Who composed the soundtrack for the movie 'E.T. the Extra-Terrestrial'?
+      TrueAnswer: John Williams
+      FalseAnswer:
+      - Hans Zimmer
+      - Alan Silvestri
+      - James Horner
+      Explanation: John Williams composed the magical and heartwarming soundtrack
+        for 'E.T. the Extra-Terrestrial'.
+    - Question: Which movie features the song 'Eye of the Tiger'?
+      TrueAnswer: Rocky III
+      FalseAnswer:
+      - The Lion King
+      - Titanic
+      - Dirty Dancing
+      Explanation: The song 'Eye of the Tiger' is featured in the movie 'Rocky III',
+        becoming an iconic sports anthem.
+    - Question: Who composed the soundtrack for the movie 'The Lion King'?
+      TrueAnswer: Hans Zimmer
+      FalseAnswer:
+      - John Williams
+      - Alan Silvestri
+      - James Horner
+      Explanation: Hans Zimmer composed the majestic and emotionally powerful soundtrack
+        for 'The Lion King'.
+    - Question: Which movie features the song 'Time of My Life'?
+      TrueAnswer: Dirty Dancing
+      FalseAnswer:
+      - The Bodyguard
+      - Titanic
+      - Frozen
+      Explanation: The song 'Time of My Life' is featured in the movie 'Dirty Dancing',
+        becoming a beloved dance classic.
+    - Question: Who composed the soundtrack for the movie 'Avatar'?
+      TrueAnswer: James Horner
+      FalseAnswer:
+      - Hans Zimmer
+      - Alan Silvestri
+      - John Williams
+      Explanation: James Horner composed the epic and immersive soundtrack for 'Avatar',
+        capturing the film's otherworldly atmosphere.
+    - Question: Which movie features the song 'Circle of Life'?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Frozen
+      - Titanic
+      - Dirty Dancing
+      Explanation: The song 'Circle of Life' is featured in the movie 'The Lion King',
+        setting the stage for the animal kingdom.
+    - Question: Who composed the soundtrack for the movie 'Back to the Future'?
+      TrueAnswer: Alan Silvestri
+      FalseAnswer:
+      - Hans Zimmer
+      - John Williams
+      - James Horner
+      Explanation: Alan Silvestri composed the iconic and adventurous soundtrack
+        for 'Back to the Future', enhancing the time-traveling story.
+    - Question: Which movie features the song 'I See You'?
+      TrueAnswer: Avatar
+      FalseAnswer:
+      - The Bodyguard
+      - Titanic
+      - Frozen
+      Explanation: The song 'I See You' is featured in the movie 'Avatar', capturing
+        the film's emotional and awe-inspiring moments.
+    - Question: Who composed the soundtrack for the movie 'Harry Potter and the Sorcerer's
+        Stone'?
+      TrueAnswer: John Williams
+      FalseAnswer:
+      - Hans Zimmer
+      - Alan Silvestri
+      - James Horner
+      Explanation: John Williams composed the magical and enchanting soundtrack for
+        'Harry Potter and the Sorcerer's Stone'.
+    - Question: Which movie features the song 'My Girl'?
+      TrueAnswer: My Girl
+      FalseAnswer:
+      - The Lion King
+      - Titanic
+      - Dirty Dancing
+      Explanation: The song 'My Girl' is featured in the movie 'My Girl', becoming
+        a soulful and nostalgic classic.
+    - Question: Who composed the soundtrack for the movie 'Interstellar'?
+      TrueAnswer: Hans Zimmer
+      FalseAnswer:
+      - John Williams
+      - Alan Silvestri
+      - James Horner
+      Explanation: Hans Zimmer composed the epic and ethereal soundtrack for 'Interstellar',
+        enhancing the film's cosmic journey.
+    - Question: Which movie features the song 'I Will Follow Him'?
+      TrueAnswer: Sister Act
+      FalseAnswer:
+      - The Bodyguard
+      - Titanic
+      - Frozen
+      Explanation: The song 'I Will Follow Him' is featured in the movie 'Sister
+        Act', bringing a joyful and uplifting spirit.

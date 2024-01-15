@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5324943853743482629
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9024154152954472300}
+  - component: {fileID: 2605784502664458045}
+  m_Layer: 0
+  m_Name: Literature_Science_Fiction.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9024154152954472300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5324943853743482629}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2605784502664458045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5324943853743482629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the novel 'Dune'?
+      TrueAnswer: Frank Herbert
+      FalseAnswer:
+      - Isaac Asimov
+      - Arthur C. Clarke
+      - Philip K. Dick
+      Explanation: Frank Herbert's 'Dune' is a landmark in science fiction, winning
+        the Hugo and Nebula awards.
+    - Question: What is the title of the first 'Foundation' book by Isaac Asimov?
+      TrueAnswer: Foundation
+      FalseAnswer:
+      - Second Foundation
+      - Prelude to Foundation
+      - Foundation and Earth
+      Explanation: Isaac Asimov's 'Foundation' is the initial installment of the
+        renowned series, exploring psychohistory and human civilization.
+    - Question: In which year was 'Neuromancer' published by William Gibson?
+      TrueAnswer: 1984
+      FalseAnswer:
+      - 1990
+      - 1979
+      - 2001
+      Explanation: William Gibson's 'Neuromancer' marked the inception of cyberpunk
+        fiction and remains a seminal work in the genre.
+    - Question: Who is the author of 'The Left Hand of Darkness'?
+      TrueAnswer: Ursula K. Le Guin
+      FalseAnswer:
+      - Margaret Atwood
+      - Octavia E. Butler
+      - C. J. Cherryh
+      Explanation: Ursula K. Le Guin's 'The Left Hand of Darkness' is a pioneering
+        novel in feminist science fiction literature.
+    - Question: 'What is the artificial intelligence in Arthur C. Clarke''s ''2001:
+        A Space Odyssey''?'
+      TrueAnswer: HAL 9000
+      FalseAnswer:
+      - R2-D2
+      - C-3PO
+      - Data
+      Explanation: 'HAL 9000''s depiction in ''2001: A Space Odyssey'' has become
+        an iconic portrayal of AI in science fiction.'
+    - Question: Which science fiction writer is credited with coining the term 'cyberspace'?
+      TrueAnswer: William Gibson
+      FalseAnswer:
+      - Philip K. Dick
+      - Isaac Asimov
+      - Arthur C. Clarke
+      Explanation: William Gibson, in his novel 'Neuromancer', popularized and defined
+        the concept of 'cyberspace' in science fiction.
+    - Question: What is the main theme of Ray Bradbury's 'Fahrenheit 451'?
+      TrueAnswer: Censorship
+      FalseAnswer:
+      - Technology
+      - Alien Invasion
+      - Time Travel
+      Explanation: Ray Bradbury's 'Fahrenheit 451' explores the danger of censorship
+        and the impact of oppressive governments on intellectual freedom.
+    - Question: Who wrote 'The War of the Worlds', depicting a Martian invasion of
+        Earth?
+      TrueAnswer: H.G. Wells
+      FalseAnswer:
+      - Jules Verne
+      - Edgar Rice Burroughs
+      - Mary Shelley
+      Explanation: H.G. Wells' 'The War of the Worlds' is one of the earliest and
+        most influential works in the alien invasion subgenre.
+    - Question: What is the central dystopian element in Aldous Huxley's 'Brave New
+        World'?
+      TrueAnswer: Controlled Society
+      FalseAnswer:
+      - Environmental Disaster
+      - Zombie Apocalypse
+      - Global Pandemic
+      Explanation: Aldous Huxley's 'Brave New World' presents a society controlled
+        through technological and psychological manipulation, exploring themes of
+        conformity and individuality.
+    - Question: Who penned the 'Doctor Who' novel 'Engines of War'?
+      TrueAnswer: George Mann
+      FalseAnswer:
+      - Neil Gaiman
+      - Terry Pratchett
+      - Philip Pullman
+      Explanation: George Mann's 'Engines of War' delves into the complex history
+        of the Time War and the Doctor's involvement.
+    - Question: What is the title of the Hugo and Nebula award-winning novella by
+        Ted Chiang?
+      TrueAnswer: Story of Your Life
+      FalseAnswer:
+      - Exhalation
+      - Tower of Babylon
+      - Understand
+      Explanation: Ted Chiang's 'Story of Your Life' explores linguistics, determinism,
+        and the nature of time through its thought-provoking narrative.
+    - Question: Who is the author of the 'Hitchhiker's Guide to the Galaxy' series?
+      TrueAnswer: Douglas Adams
+      FalseAnswer:
+      - H. G. Wells
+      - Kurt Vonnegut
+      - Isaac Asimov
+      Explanation: Douglas Adams' 'Hitchhiker's Guide to the Galaxy' is celebrated
+        for its blend of satire, absurdity, and philosophical musings within a comedic
+        science fiction framework.
+    - Question: What is the title of the first book in Orson Scott Card's 'Ender's
+        Game' series?
+      TrueAnswer: Ender's Game
+      FalseAnswer:
+      - Speaker for the Dead
+      - Xenocide
+      - Children of the Mind
+      Explanation: Orson Scott Card's 'Ender's Game' introduces the protagonist,
+        Ender Wiggin, and his journey in a futuristic, militaristic society.
+    - Question: Which acclaimed science fiction author wrote 'A Canticle for Leibowitz'?
+      TrueAnswer: Walter M. Miller Jr.
+      FalseAnswer:
+      - Ursula K. Le Guin
+      - Gene Wolfe
+      - Cordwainer Smith
+      Explanation: Walter M. Miller Jr.'s 'A Canticle for Leibowitz' presents a post-apocalyptic
+        world and the preservation of knowledge by a monastic order.
+    - Question: What is the title of the first book in the 'Culture' series by Iain
+        M. Banks?
+      TrueAnswer: Consider Phlebas
+      FalseAnswer:
+      - Use of Weapons
+      - Excession
+      - Look to Windward
+      Explanation: Iain M. Banks' 'Consider Phlebas' introduces the expansive and
+        enigmatic Culture civilization, set within a profoundly imaginative space
+        opera universe.
+    - Question: Which influential science fiction writer wrote 'Ubik'?
+      TrueAnswer: Philip K. Dick
+      FalseAnswer:
+      - Alfred Bester
+      - "Stanis\u0142aw Lem"
+      - Greg Bear
+      Explanation: Philip K. Dick's 'Ubik' is regarded as a philosophical and mind-bending
+        exploration of reality and perception within a futuristic context.
+    - Question: Who is the author of 'The City & the City', a speculative fiction
+        novel blending crime and surreal elements?
+      TrueAnswer: "China Mi\xE9ville"
+      FalseAnswer:
+      - Haruki Murakami
+      - Kazuo Ishiguro
+      - Jeff VanderMeer
+      Explanation: "China Mi\xE9ville's 'The City & the City' deftly combines speculative
+        and crime fiction, portraying two cities overlapping in the same physical
+        space."
+    - Question: In which novel does author Octavia E. Butler explore the theme of
+        time travel and slavery?
+      TrueAnswer: Kindred
+      FalseAnswer:
+      - Parable of the Sower
+      - Wild Seed
+      - Dawn
+      Explanation: Octavia E. Butler's 'Kindred' intricately weaves together historical
+        realism, science fiction, and social commentary to illuminate the enduring
+        legacy of slavery.
+    - Question: What is the title of the first novel in the 'Vorkosigan Saga' written
+        by Lois McMaster Bujold?
+      TrueAnswer: Shards of Honor
+      FalseAnswer:
+      - Memory
+      - The Warrior's Apprentice
+      - Mirror Dance
+      Explanation: Lois McMaster Bujold's 'Shards of Honor' introduces the protagonist,
+        Cordelia Naismith, and sets the stage for the richly developed 'Vorkosigan
+        Saga' universe.
+    - Question: Which science fiction author is known for the 'Hainish Cycle' series
+        of novels, including 'The Dispossessed'?
+      TrueAnswer: Ursula K. Le Guin
+      FalseAnswer:
+      - Connie Willis
+      - C. J. Cherryh
+      - Greg Bear
+      Explanation: Ursula K. Le Guin's 'The Dispossessed' offers a compelling exploration
+        of political ideologies and social structures within a diverse interstellar
+        society.

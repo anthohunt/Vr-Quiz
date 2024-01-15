@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4645192495092802634
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6413451509036231652}
+  - component: {fileID: 2057219387264447117}
+  m_Layer: 0
+  m_Name: Pop_Culture_Comic_Books_and_Graphic_Novels.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6413451509036231652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4645192495092802634}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2057219387264447117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4645192495092802634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the real name of Spider-Man?
+      TrueAnswer: Peter Parker
+      FalseAnswer:
+      - Tony Stark
+      - Bruce Banner
+      - Clark Kent
+      Explanation: Peter Parker is the alter ego of Spider-Man, created by writer
+        Stan Lee and artist Steve Ditko. He first appeared in 'Amazing Fantasy' #15
+        in 1962.
+    - Question: Which superhero is known as the 'Man of Steel'?
+      TrueAnswer: Superman
+      FalseAnswer:
+      - Batman
+      - Iron Man
+      - The Flash
+      Explanation: Superman, created by writer Jerry Siegel and artist Joe Shuster,
+        first appeared in 'Action Comics' #1 in 1938.
+    - Question: What is the alter ego of Batman?
+      TrueAnswer: Bruce Wayne
+      FalseAnswer:
+      - Clark Kent
+      - Peter Parker
+      - Tony Stark
+      Explanation: Bruce Wayne, a billionaire philanthropist and owner of Wayne Enterprises,
+        is the crime-fighting vigilante known as Batman.
+    - Question: Who is the arch-nemesis of The Flash?
+      TrueAnswer: Reverse-Flash
+      FalseAnswer:
+      - Joker
+      - Lex Luthor
+      - Doctor Octopus
+      Explanation: Reverse-Flash, also known as Professor Zoom or Eobard Thawne,
+        is a super-speedster villain who antagonizes The Flash.
+    - Question: Which graphic novel features the character V and a dystopian UK?
+      TrueAnswer: V for Vendetta
+      FalseAnswer:
+      - Watchmen
+      - The Sandman
+      - 'Batman: The Killing Joke'
+      Explanation: '''V for Vendetta,'' written by Alan Moore and illustrated by
+        David Lloyd, presents a masked vigilante fighting against a totalitarian
+        regime in a dystopian UK.'
+    - Question: Who is the creator of the graphic novel 'Sin City'?
+      TrueAnswer: Frank Miller
+      FalseAnswer:
+      - Alan Moore
+      - Neil Gaiman
+      - Brian K. Vaughan
+      Explanation: Frank Miller wrote and illustrated 'Sin City,' a series of neo-noir
+        comics, known for its gritty and graphic storytelling.
+    - Question: Which Marvel superhero wields Mjolnir, the enchanted hammer?
+      TrueAnswer: Thor
+      FalseAnswer:
+      - Captain America
+      - Iron Man
+      - Wolverine
+      Explanation: Thor, the Norse God of Thunder, is known for wielding Mjolnir,
+        a powerful weapon that he can summon at will.
+    - Question: What is the real name of the X-Men member known as Wolverine?
+      TrueAnswer: Logan
+      FalseAnswer:
+      - Scott Summers
+      - Charles Xavier
+      - Jean Grey
+      Explanation: Wolverine, a mutant with a regenerative healing factor and adamantium
+        claws, goes by the name Logan as his real identity.
+    - Question: In which city does the vigilante Daredevil protect the streets?
+      TrueAnswer: New York City
+      FalseAnswer:
+      - Gotham City
+      - Metropolis
+      - Hell's Kitchen
+      Explanation: Daredevil, also known as Matt Murdock, operates in New York City's
+        Hell's Kitchen, using his enhanced senses to fight crime.
+    - Question: Which DC Comics superhero is known as the King of Atlantis?
+      TrueAnswer: Aquaman
+      FalseAnswer:
+      - Green Lantern
+      - The Flash
+      - Cyborg
+      Explanation: Aquaman, also known as Arthur Curry, is the King of Atlantis,
+        possessing superhuman strength and the ability to communicate with marine
+        life.
+    - Question: What is the real name of the Green Lantern Hal Jordan?
+      TrueAnswer: Harold Jordan
+      FalseAnswer:
+      - Henry Jordan
+      - Howard Jordan
+      - Hank Jordan
+      Explanation: Hal Jordan is a test pilot who becomes the first human member
+        of the Green Lantern Corps, wielding the power ring and lantern.
+    - Question: Which supervillain is famously known as the 'Crown Prince of Crime'?
+      TrueAnswer: Joker
+      FalseAnswer:
+      - Lex Luthor
+      - Magneto
+      - Doctor Doom
+      Explanation: The Joker, created by Bill Finger, Bob Kane, and Jerry Robinson,
+        is a chaotic and infamous adversary of Batman.
+    - Question: Who is the telepathic mutant and leader of the X-Men?
+      TrueAnswer: Professor X
+      FalseAnswer:
+      - Magneto
+      - Wolverine
+      - Cyclops
+      Explanation: Professor Charles Xavier, also known as Professor X, founded the
+        X-Men to promote peace and coexistence between mutants and humans.
+    - Question: Who is the android member of the Avengers, created by Ultron?
+      TrueAnswer: Vision
+      FalseAnswer:
+      - Iron Man
+      - Hawkeye
+      - Black Widow
+      Explanation: Vision, an android with advanced capabilities, was created by
+        the villain Ultron but eventually joined the Avengers as a heroic member.
+    - Question: Which graphic novel features an alternate history where superheroes
+        exist?
+      TrueAnswer: Watchmen
+      FalseAnswer:
+      - V for Vendetta
+      - The Dark Knight Returns
+      - Sandman
+      Explanation: '''Watchmen,'' written by Alan Moore and illustrated by Dave Gibbons,
+        portrays a world where masked heroes emerge in the midst of Cold War tensions.'
+    - Question: Who is the teenage superhero and protege of Batman known as Robin?
+      TrueAnswer: Dick Grayson
+      FalseAnswer:
+      - Jason Todd
+      - Damian Wayne
+      - Tim Drake
+      Explanation: Dick Grayson, the original Robin, later becomes Nightwing, leading
+        his own heroic path after serving as Batman's loyal partner.
+    - Question: Which graphic novel serves as the origin story for the Joker, Batman's
+        nemesis?
+      TrueAnswer: 'Batman: The Killing Joke'
+      FalseAnswer:
+      - The Dark Knight Returns
+      - 'Arkham Asylum: A Serious House on Serious Earth'
+      - 'Batman: Year One'
+      Explanation: '''Batman: The Killing Joke,'' written by Alan Moore and illustrated
+        by Brian Bolland, delves into the Joker''s disturbing backstory and his clash
+        with Batman.'
+    - Question: What is the team of superheroes brought together by Nick Fury in
+        the Marvel Universe?
+      TrueAnswer: The Avengers
+      FalseAnswer:
+      - X-Men
+      - Fantastic Four
+      - Guardians of the Galaxy
+      Explanation: Nick Fury forms The Avengers to combat global threats, leading
+        an iconic team consisting of Iron Man, Captain America, Thor, and others.
+    - Question: Which Marvel superhero is known for his sarcastic wit and red suit?
+      TrueAnswer: Deadpool
+      FalseAnswer:
+      - Spider-Man
+      - Wolverine
+      - Iron Man
+      Explanation: Deadpool, also known as Wade Wilson, is a mercenary antihero famous
+        for his humor, breaking the fourth wall, and regenerative healing abilities.
+    - Question: Who is the powerful mutant with weather-manipulating abilities in
+        the X-Men?
+      TrueAnswer: Storm
+      FalseAnswer:
+      - Rogue
+      - Jean Grey
+      - Mystique
+      Explanation: Ororo Munroe, also known as Storm, is a mutant with the ability
+        to control weather phenomena and is a key member of the X-Men.

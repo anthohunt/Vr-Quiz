@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6514530610167278633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5109265842899575684}
+  - component: {fileID: 6194791370822710236}
+  m_Layer: 0
+  m_Name: Video_Games_Sci-Fi_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5109265842899575684
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6514530610167278633}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6194791370822710236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6514530610167278633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which game features the protagonist, Master Chief?
+      TrueAnswer: Halo
+      FalseAnswer:
+      - Mass Effect
+      - Destiny
+      - Borderlands
+      Explanation: Master Chief is the central character of the 'Halo' series, a
+        futuristic, sci-fi, first-person shooter game developed by Bungie and later
+        343 Industries.
+    - Question: What is the main enemy faction in the 'Mass Effect' series?
+      TrueAnswer: Reapers
+      FalseAnswer:
+      - Covenant
+      - Flood
+      - Collectors
+      Explanation: The Reapers are an ancient, highly advanced machine race that
+        systematically wipes out all advanced organic civilizations every 50,000
+        years in the 'Mass Effect' series.
+    - Question: In 'StarCraft II', which race is known for its advanced technology
+        and psionics?
+      TrueAnswer: Protoss
+      FalseAnswer:
+      - Terran
+      - Zerg
+      - Hybrids
+      Explanation: The Protoss are a technologically advanced alien race in 'StarCraft
+        II,' emphasizing psionic and cybernetic abilities in their units and structures.
+    - Question: Which game features a faction called the New Conglomerate, fighting
+        in a futuristic war?
+      TrueAnswer: Planetside 2
+      FalseAnswer:
+      - EVE Online
+      - Warframe
+      - Titanfall 2
+      Explanation: In 'Planetside 2,' players choose one of three factions, with
+        New Conglomerate being a group that aims for freedom and separation from
+        the oppressive Terran Republic.
+    - Question: 'What is the primary objective in ''Deus Ex: Human Revolution''?'
+      TrueAnswer: Ending Augmented Tyranny
+      FalseAnswer:
+      - Destroying Alien Invaders
+      - Creating AI Utopia
+      - Rescuing Hostages
+      Explanation: '''Deus Ex: Human Revolution'' focuses on combating the abuse
+        of human augmentation technology and uncovering a global conspiracy in a
+        cyberpunk setting.'
+    - Question: Which game is set in a universe where humanity is at war with a collective
+        of alien races called the Covenant?
+      TrueAnswer: Halo
+      FalseAnswer:
+      - Killzone
+      - Gears of War
+      - Half-Life
+      Explanation: The 'Halo' series primarily revolves around the war between humans
+        and the Covenant, an alliance of alien species bent on humanity's destruction.
+    - Question: In 'Dead Space', what is the primary goal of the protagonist, Isaac
+        Clarke?
+      TrueAnswer: Surviving the Necromorphs
+      FalseAnswer:
+      - Exploring Ancient Ruins
+      - Solving Alien Mysteries
+      - Defeating Robot Uprising
+      Explanation: Isaac Clarke's main objective in 'Dead Space' is to survive and
+        escape the infested USG Ishimura spaceship, overrun by grotesque reanimated
+        human corpses known as Necromorphs.
+    - Question: Which game features the spacefaring adventures of Commander Shepard?
+      TrueAnswer: Mass Effect
+      FalseAnswer:
+      - Elite Dangerous
+      - No Man's Sky
+      - EVE Valkyrie
+      Explanation: Commander Shepard is the central character in the 'Mass Effect'
+        series, leading a team to protect the galaxy from various threats in a rich
+        space opera setting.
+    - Question: What technology provides traversal and puzzle-solving abilities to
+        the protagonist in 'Portal'?
+      TrueAnswer: Portal Gun
+      FalseAnswer:
+      - Gravity Boots
+      - Jetpack
+      - Telekinesis
+      Explanation: The 'Portal' game series centers around the Aperture Science Handheld
+        Portal Device, more commonly known as the Portal Gun, allowing the player
+        to create linked portals on flat surfaces.
+    - Question: Which game series allows players to pilot customizable giant robots
+        known as 'Mechs'?
+      TrueAnswer: MechWarrior
+      FalseAnswer:
+      - Armored Core
+      - Titanfall
+      - Hawken
+      Explanation: The 'MechWarrior' series is renowned for its simulation of piloting
+        BattleMechs, offering in-depth customization of these colossal war machines
+        in futuristic warfare settings.

@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4390470462351855146
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1702981213368596612}
+  - component: {fileID: 5039834512343474883}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Galactic Structure and Evolution.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1702981213368596612
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4390470462351855146}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5039834512343474883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4390470462351855146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Neptune
+      - Mars
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of about 86,881 miles.
+    - Question: What is the closest star to Earth, other than the Sun?
+      TrueAnswer: Proxima Centauri
+      FalseAnswer:
+      - Alpha Centauri A
+      - Sirius
+      - Betelgeuse
+      Explanation: Proxima Centauri is the closest star to Earth, located about 4.24
+        light-years away in the Alpha Centauri system.
+    - Question: What is the process by which a star dies?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nebula
+      - Black Hole
+      - White Dwarf
+      Explanation: A supernova is the explosive death of a massive star, resulting
+        in a burst of radiation and the creation of heavy elements.
+    - Question: What is the name of the galaxy that contains our solar system?
+      TrueAnswer: Milky Way
+      FalseAnswer:
+      - Andromeda
+      - Whirlpool
+      - Sombrero
+      Explanation: The Milky Way is the spiral galaxy that contains our solar system,
+        with billions of stars and other celestial objects.
+    - Question: What is the process by which galaxies collide and merge?
+      TrueAnswer: Galactic Cannibalism
+      FalseAnswer:
+      - Galactic Filament
+      - Galactic Halo
+      - Galactic Nucleus
+      Explanation: Galactic cannibalism is the process in which galaxies collide
+        and merge, often resulting in the formation of larger galaxies.
+    - Question: What is the name of the supermassive black hole at the center of
+        our galaxy?
+      TrueAnswer: Sagittarius A*
+      FalseAnswer:
+      - Cygnus X-1
+      - V404 Cygni
+      - Messier 87
+      Explanation: Sagittarius A* is the supermassive black hole at the center of
+        the Milky Way galaxy, with a mass of about 4 million times that of the Sun.
+    - Question: What is the term for the study of the origin and evolution of the
+        universe?
+      TrueAnswer: Cosmology
+      FalseAnswer:
+      - Astrobiology
+      - Astrophysics
+      - Exoplanetology
+      Explanation: Cosmology is the scientific study of the origin, evolution, and
+        eventual fate of the universe as a whole.
+    - Question: What is the name of the theory that explains the expansion of the
+        universe?
+      TrueAnswer: Big Bang Theory
+      FalseAnswer:
+      - Steady State Theory
+      - String Theory
+      - Multiverse Theory
+      Explanation: The Big Bang Theory is the prevailing cosmological model that
+        explains the origin and expansion of the universe.
+    - Question: What is the term for a group of stars that form a recognizable pattern?
+      TrueAnswer: Constellation
+      FalseAnswer:
+      - Nebula
+      - Galaxy
+      - Cluster
+      Explanation: A constellation is a group of stars that form a recognizable pattern
+        or shape, often with mythological or cultural significance.
+    - Question: What is the name of the process by which stars generate energy?
+      TrueAnswer: Nuclear Fusion
+      FalseAnswer:
+      - Nuclear Fission
+      - Blackbody Radiation
+      - Gravitational Contraction
+      Explanation: Nuclear fusion is the process in which stars generate energy by
+        fusing hydrogen atoms together to form helium.
+    - Question: What is the term for a massive explosion that occurs at the end of
+        a star's life?
+      TrueAnswer: Supernova
+      FalseAnswer:
+      - Nova
+      - Hypernova
+      - Pulsar
+      Explanation: A supernova is a massive explosion that occurs at the end of a
+        star's life, releasing a tremendous amount of energy.
+    - Question: What is the name of the region around a black hole from which nothing
+        can escape?
+      TrueAnswer: Event Horizon
+      FalseAnswer:
+      - Singularity
+      - Photon Sphere
+      - Ergosphere
+      Explanation: The event horizon is the boundary around a black hole beyond which
+        nothing, not even light, can escape its gravitational pull.
+    - Question: What is the term for a small, icy body that orbits the Sun?
+      TrueAnswer: Comet
+      FalseAnswer:
+      - Asteroid
+      - Meteoroid
+      - Dwarf Planet
+      Explanation: A comet is a small, icy body that orbits the Sun, often developing
+        a glowing coma and tail when it approaches the inner solar system.
+    - Question: What is the name of the largest moon in our solar system?
+      TrueAnswer: Ganymede
+      FalseAnswer:
+      - Titan
+      - Europa
+      - Callisto
+      Explanation: Ganymede is the largest moon in our solar system and is even larger
+        than the planet Mercury.
+    - Question: What is the term for the point in a planet's orbit where it is closest
+        to the Sun?
+      TrueAnswer: Perihelion
+      FalseAnswer:
+      - Aphelion
+      - Equinox
+      - Solstice
+      Explanation: Perihelion is the point in a planet's orbit where it is closest
+        to the Sun, resulting in increased gravitational pull.
+    - Question: What is the name of the process by which a planet or moon cools and
+        solidifies?
+      TrueAnswer: Planetary Differentiation
+      FalseAnswer:
+      - Planetary Accretion
+      - Planetary Erosion
+      - Planetary Migration
+      Explanation: Planetary differentiation is the process by which a planet or
+        moon cools and solidifies, forming distinct layers based on density.
+    - Question: What is the term for a region of space with extremely high gravitational
+        pull?
+      TrueAnswer: Black Hole
+      FalseAnswer:
+      - Neutron Star
+      - White Dwarf
+      - Pulsar
+      Explanation: A black hole is a region of space with extremely high gravitational
+        pull, from which nothing, not even light, can escape.
+    - Question: What is the name of the process by which stars convert hydrogen into
+        helium?
+      TrueAnswer: Nuclear Fusion
+      FalseAnswer:
+      - Nuclear Fission
+      - Blackbody Radiation
+      - Gravitational Contraction
+      Explanation: Nuclear fusion is the process in which stars convert hydrogen
+        into helium, releasing a tremendous amount of energy.
+    - Question: What is the term for a cloud of gas and dust in space?
+      TrueAnswer: Nebula
+      FalseAnswer:
+      - Galaxy
+      - Cluster
+      - Supernova
+      Explanation: A nebula is a cloud of gas and dust in space, often the birthplace
+        of stars and planetary systems.
+    - Question: What is the name of the theory that suggests the existence of multiple
+        universes?
+      TrueAnswer: Multiverse Theory
+      FalseAnswer:
+      - String Theory
+      - Parallel Universe Theory
+      - Cosmic Inflation Theory
+      Explanation: The multiverse theory suggests the existence of multiple universes,
+        each with its own set of physical laws and properties.

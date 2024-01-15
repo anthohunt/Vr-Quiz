@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3252126594990975147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1792733752521164200}
+  - component: {fileID: 6673713577419304171}
+  m_Layer: 0
+  m_Name: Art_Baroque_Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1792733752521164200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3252126594990975147}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6673713577419304171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3252126594990975147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous Baroque masterpiece 'The Night Watch'?
+      TrueAnswer: Rembrandt
+      FalseAnswer:
+      - Rubens
+      - Caravaggio
+      - Vermeer
+      Explanation: Rembrandt van Rijn created 'The Night Watch' in 1642, characterized
+        by its dramatic use of light and shadow.
+    - Question: Which Baroque artist is known for his ornate and theatrical ceiling
+        frescoes at the Vatican?
+      TrueAnswer: Giovanni Battista Gaulli
+      FalseAnswer:
+      - Caravaggio
+      - Bernini
+      - "Vel\xE1zquez"
+      Explanation: "Giovanni Battista Gaulli, also known as Baciccio, decorated the
+        Church of the Ges\xF9 with his spectacular frescoes."
+    - Question: What is the term for the unique Italian Baroque architectural style
+        featuring dramatic use of space and light?
+      TrueAnswer: Baroque architecture
+      FalseAnswer:
+      - Rococo style
+      - Neoclassical style
+      - Gothic architecture
+      Explanation: Baroque architecture, exemplified by St. Peter's Basilica in Rome,
+        emphasizes grandeur, sensationalism, and emotional impact.
+    - Question: Who is the leading Baroque architect renowned for the Palace of Versailles
+        and the Hall of Mirrors?
+      TrueAnswer: Jules Hardouin-Mansart
+      FalseAnswer:
+      - Andrea Palladio
+      - Christopher Wren
+      - Francesco Borromini
+      Explanation: Jules Hardouin-Mansart, along with Louis Le Vau, designed the
+        iconic Palace of Versailles under King Louis XIV's patronage.
+    - Question: Which Baroque artist is celebrated for the series of paintings depicting
+        the life of Saint Matthew?
+      TrueAnswer: Caravaggio
+      FalseAnswer:
+      - Artemisia Gentileschi
+      - Johannes Vermeer
+      - Rembrandt
+      Explanation: Caravaggio's 'The Calling of Saint Matthew' and 'The Martyrdom
+        of Saint Matthew' are among his masterpieces focusing on religious themes.
+    - Question: What is the nickname for the Italian Baroque painter Michelangelo
+        Merisi da Caravaggio?
+      TrueAnswer: Caravaggio
+      FalseAnswer:
+      - Raphael
+      - Titian
+      - El Greco
+      Explanation: Michelangelo Merisi da Caravaggio is commonly known by his birthplace
+        name, Caravaggio, a small town in Lombardy, Italy.
+    - Question: Which Baroque artist is best known for his emotive and dynamic sculptures,
+        such as 'The Ecstasy of Saint Teresa'?
+      TrueAnswer: Gian Lorenzo Bernini
+      FalseAnswer:
+      - Michelangelo Buonarroti
+      - Francesco Borromini
+      - Antonio Canova
+      Explanation: Gian Lorenzo Bernini's sculptural masterpiece 'The Ecstasy of
+        Saint Teresa' epitomizes the Baroque emphasis on theatricality and emotion.
+    - Question: What distinguishing feature did Dutch Baroque paintings often portray
+        in their still lifes and landscapes?
+      TrueAnswer: Light
+      FalseAnswer:
+      - Darkness
+      - Dramatic figures
+      - Barren landscapes
+      Explanation: Dutch Baroque artists ingeniously used light to illuminate and
+        animate everyday subjects, creating a sense of heightened realism.
+    - Question: Which Baroque artist's works are characterized by his mastery of
+        light and shadow, known as chiaroscuro?
+      TrueAnswer: Rembrandt
+      FalseAnswer:
+      - Peter Paul Rubens
+      - "Diego Vel\xE1zquez"
+      - Nicolas Poussin
+      Explanation: Rembrandt's use of chiaroscuro in his portraits and biblical scenes
+        profoundly influenced Baroque painting, adding depth and drama.
+    - Question: What was the primary focus of Baroque art, exploring themes of transience,
+        mortality, and the passage of time?
+      TrueAnswer: Vanitas
+      FalseAnswer:
+      - Still life
+      - Landscape
+      - Portraiture
+      Explanation: Baroque artists conveyed vanitas through symbolic elements, like
+        wilting flowers and decaying objects, to remind viewers of life's fleeting
+        nature.
+    - Question: Which Baroque artist is credited with the creation of the oblique
+        and engaging compositions in his paintings, reflecting a sense of movement
+        and tension?
+      TrueAnswer: Caravaggio
+      FalseAnswer:
+      - Giovanni Battista Gaulli
+      - Artemisia Gentileschi
+      - "Diego Vel\xE1zquez"
+      Explanation: Caravaggio's innovative use of dramatic lighting and diagonally
+        arranged figures revolutionized Baroque painting, inviting viewers into the
+        scene.
+    - Question: What was the primary function of the elaborate Baroque palaces and
+        churches in Europe?
+      TrueAnswer: Displaying power and wealth
+      FalseAnswer:
+      - Providing shelter
+      - Promoting education
+      - Serving as trade centers
+      Explanation: Baroque architecture served to glorify rulers and the Church,
+        aiming to awe and impress visitors with opulence and grandeur.
+    - Question: Who is the Baroque artist known for his series of paintings portraying
+        the mythological love story of Cupid and Psyche?
+      TrueAnswer: Peter Paul Rubens
+      FalseAnswer:
+      - "Diego Vel\xE1zquez"
+      - Rembrandt
+      - Caravaggio
+      Explanation: Peter Paul Rubens' voluptuous and sensual depiction of Cupid and
+        Psyche's love story embodies Baroque sensuality and emotion.
+    - Question: Which Baroque artist is renowned for his soul-stirring portrayal
+        of intense and psychological portraits?
+      TrueAnswer: "Diego Vel\xE1zquez"
+      FalseAnswer:
+      - Johannes Vermeer
+      - Frans Hals
+      - Caravaggio
+      Explanation: "Diego Vel\xE1zquez's portraits, like 'Las Meninas', showcase
+        his remarkable understanding of the human psyche and mastery of realism."
+    - Question: What is the term for the sculptural style prominent in the Baroque
+        era, emphasizing dramatic emotional expressions and movement?
+      TrueAnswer: Dramatic Baroque sculpture
+      FalseAnswer:
+      - Neoclassical sculpture
+      - Minimalist sculpture
+      - Abstract sculpture
+      Explanation: Dramatic Baroque sculptures, exemplified in works by Bernini and
+        others, aimed to engage viewers emotionally and spiritually through theatricality.
+    - Question: Which Baroque artist is known for his use of exaggerated perspective
+        and illusionistic architectural elements in his paintings?
+      TrueAnswer: Andrea Pozzo
+      FalseAnswer:
+      - Edgar Degas
+      - Nicolas Poussin
+      - "\xC9lisabeth Louise Vig\xE9e Le Brun"
+      Explanation: "Andrea Pozzo's mastery of trompe-l'\u0153il and illusionistic
+        architecture created immersive and captivating visual experiences in Baroque
+        art."
+    - Question: Who was the primary patron of Baroque art, responsible for commissioning
+        numerous artworks in Rome and across Europe?
+      TrueAnswer: Catholic Church
+      FalseAnswer:
+      - Royal families
+      - Wealthy merchants
+      - Secular institutions
+      Explanation: The Catholic Church, seeking to reassert itself after the Protestant
+        Reformation, became a major patron of Baroque art, commissioning grand religious
+        works.
+    - Question: What did Baroque artists often use to accentuate the dramatic effects
+        in their artwork, creating a sense of movement and intensity?
+      TrueAnswer: Diagonal lines
+      FalseAnswer:
+      - Vertical lines
+      - Horizontal lines
+      - Curved lines
+      Explanation: The use of diagonal lines in Baroque art compositions added dynamism
+        and visual tension, intensifying the emotional impact on viewers.
+    - Question: Which Baroque artist is celebrated for his virtuosic use of color
+        and dynamic brushwork in his paintings of biblical and mythological subjects?
+      TrueAnswer: Peter Paul Rubens
+      FalseAnswer:
+      - Claude Lorrain
+      - Nicolas Poussin
+      - "\xC9lisabeth Louise Vig\xE9e Le Brun"
+      Explanation: Rubens' vibrant palette, coupled with energetic and expressive
+        brushstrokes, imbued his works with an unparalleled sense of vitality and
+        drama.
+    - Question: What is the term for the ornamental style in Baroque art characterized
+        by elaborate and exuberant decoration?
+      TrueAnswer: Baroque ornamentation
+      FalseAnswer:
+      - Minimalist design
+      - Geometric patterns
+      - Abstract expressionism
+      Explanation: Baroque ornamentation, seen in architecture, furniture, and decorative
+        arts, employed opulent and lavish embellishments to evoke grandeur and awe.
+    - Question: Which Baroque artist is renowned for his intricate still-life paintings
+        featuring luxurious objects and sumptuous textures?
+      TrueAnswer: Willem Kalf
+      FalseAnswer:
+      - Claude Lorrain
+      - Judith Leyster
+      - Anthony van Dyck
+      Explanation: Willem Kalf's masterful still lifes depicted opulent table settings
+        and luxurious objects with meticulous attention to detail and texture.

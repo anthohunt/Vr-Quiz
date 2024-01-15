@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7275088321026023884
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6167455812707033097}
+  - component: {fileID: 4792033161472177752}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Culinary_History.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6167455812707033097
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7275088321026023884}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4792033161472177752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7275088321026023884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country claims to be the birthplace of pasta?
+      TrueAnswer: Italy
+      FalseAnswer:
+      - China
+      - Greece
+      - India
+      Explanation: Italy is widely recognized as the birthplace of pasta, with historical
+        evidence tracing its origins to the ancient Romans.
+    - Question: What is the main ingredient in traditional paella?
+      TrueAnswer: Rice
+      FalseAnswer:
+      - Pasta
+      - Quinoa
+      - Barley
+      Explanation: Authentic paella is made with rice, specifically the short-grain
+        variety known as bomba or Calasparra rice.
+    - Question: Which ancient civilization is credited with the invention of beer?
+      TrueAnswer: Mesopotamia
+      FalseAnswer:
+      - Ancient Egypt
+      - Greece
+      - China
+      Explanation: Mesopotamia, particularly the Sumerians, is where evidence of
+        the earliest known beer production has been found, dating back to around
+        3500-3100 BCE.
+    - Question: What year was the first chocolate bar introduced?
+      TrueAnswer: 1847
+      FalseAnswer:
+      - 1776
+      - 1925
+      - 1950
+      Explanation: The first solid chocolate bar was produced by Joseph Fry in 1847,
+        marking a significant milestone in the history of chocolate consumption.
+    - Question: Which spice was once used as currency?
+      TrueAnswer: Pepper
+      FalseAnswer:
+      - Cinnamon
+      - Saffron
+      - Paprika
+      Explanation: Pepper was so valuable in the ancient world that it was used as
+        a form of currency, often referred to as 'black gold' or 'king of spices'.
+    - Question: What country is credited with the invention of sushi?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - China
+      - Thailand
+      - Vietnam
+      Explanation: Sushi, as we know it today, originated in Japan as a method of
+        preserving fish by fermenting it with rice and salt.
+    - Question: Who is often considered the father of French haute cuisine?
+      TrueAnswer: "Antonin Car\xEAme"
+      FalseAnswer:
+      - Julia Child
+      - Gordon Ramsay
+      - Jamie Oliver
+      Explanation: "Antonin Car\xEAme, a pioneer in the culinary arts, is credited
+        with establishing the foundations of modern French gastronomy and influencing
+        haute cuisine."
+    - Question: Where did the tradition of afternoon tea originate?
+      TrueAnswer: England
+      FalseAnswer:
+      - France
+      - China
+      - Japan
+      Explanation: The tradition of afternoon tea is believed to have originated
+        in England in the mid-19th century, popularized by the Duchess of Bedford.
+    - Question: Which ancient civilization is associated with the creation of the
+        first known cookbook?
+      TrueAnswer: Ancient Rome
+      FalseAnswer:
+      - Ancient Greece
+      - Ancient China
+      - Ancient Egypt
+      Explanation: Apicius, a collection of Roman recipes and culinary techniques,
+        is one of the oldest surviving cookbooks dating back to the 4th century CE.
+    - Question: What vegetable was once considered poisonous and inedible?
+      TrueAnswer: Tomato
+      FalseAnswer:
+      - Carrot
+      - Potato
+      - Cucumber
+      Explanation: In the 18th century, tomatoes were believed to be toxic due to
+        their resemblance to deadly nightshade, leading to their classification as
+        'poison apples'.
+    - Question: Who is known for introducing the concept of five basic tastes in
+        culinary science?
+      TrueAnswer: Kikunae Ikeda
+      FalseAnswer:
+      - Gordon Ramsay
+      - Auguste Escoffier
+      - Heston Blumenthal
+      Explanation: Kikunae Ikeda, a Japanese chemist, identified the fifth taste
+        'umami' and proposed it as one of the fundamental tastes alongside sweet,
+        sour, salty, and bitter.
+    - Question: Which ancient civilization valued garlic for its medicinal properties?
+      TrueAnswer: Ancient Egypt
+      FalseAnswer:
+      - Ancient Greece
+      - Ancient China
+      - Mesopotamia
+      Explanation: Garlic was highly regarded by the ancient Egyptians for its medicinal
+        properties, using it for culinary and therapeutic purposes.
+    - Question: What was the primary sweetener used in Europe before the introduction
+        of sugar?
+      TrueAnswer: Honey
+      FalseAnswer:
+      - Maple Syrup
+      - Agave Nectar
+      - Molasses
+      Explanation: Honey was the predominant source of sweetness in Europe before
+        the widespread use of sugarcane, often used in both cooking and ceremonial
+        offerings.
+    - Question: Which culture is often credited with the invention of the fork for
+        dining?
+      TrueAnswer: Byzantine Empire
+      FalseAnswer:
+      - Ancient Rome
+      - Ancient China
+      - Medieval England
+      Explanation: The use of forks for dining became popular in the Byzantine Empire
+        before spreading to the rest of Europe during the Renaissance period.
+    - Question: "Who is considered the founder of modern French p\xE2tisserie?"
+      TrueAnswer: "Marie-Antoine Car\xEAme"
+      FalseAnswer:
+      - Paul Bocuse
+      - Alain Ducasse
+      - "Jo\xEBl Robuchon"
+      Explanation: "Marie-Antoine Car\xEAme revolutionized French pastry, developing
+        elaborate techniques and creating iconic desserts that shaped the art of
+        p\xE2tisserie."
+    - Question: What is the origin of the popular dish 'ceviche'?
+      TrueAnswer: Peru
+      FalseAnswer:
+      - Mexico
+      - ' Spain'
+      - Brazil
+      Explanation: Ceviche, a quintessential dish of raw fish cured in citrus juices
+        and spices, is believed to have originated in Peru thousands of years ago.
+    - Question: Which ancient civilization is credited with cultivating the first
+        vineyards for winemaking?
+      TrueAnswer: Ancient Mesopotamia
+      FalseAnswer:
+      - Ancient Greece
+      - Ancient Egypt
+      - Ancient Rome
+      Explanation: The fertile lands of Mesopotamia enabled the cultivation of grapevines
+        and the production of wine, laying the foundation for viticulture and oenology.
+    - Question: What is the primary seasoning in the traditional Ethiopian spice
+        blend, Berbere?
+      TrueAnswer: Chili Peppers
+      FalseAnswer:
+      - Cumin
+      - Coriander
+      - Fenugreek
+      Explanation: Berbere, a complex spice blend, is characterized by its fiery
+        heat derived from the use of chili peppers and other aromatic spices.
+    - Question: Which region is known for the invention of the deep-fried dish, tempura?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - China
+      - United States
+      - Italy
+      Explanation: Tempura, a cooking technique of deep-frying seafood and vegetables
+        in a light batter, was introduced to Japan by Portuguese missionaries in
+        the 16th century.

@@ -1,0 +1,198 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the chemical symbol for gold?",
+          "TrueAnswer": "Au",
+          "FalseAnswer": [
+            "Ag",
+            "Pt",
+            "Cu"
+          ],
+          "Explanation": "The chemical symbol 'Au' for gold is derived from its Latin name 'Aurum.' Gold is a transition metal known for its lustrous yellow color and is a valuable and rare element."
+        },
+        {
+          "Question": "What is the atomic number of carbon?",
+          "TrueAnswer": "6",
+          "FalseAnswer": [
+            "8",
+            "12",
+            "16"
+          ],
+          "Explanation": "The atomic number of carbon is 6, indicating its number of protons and defining its unique elemental properties. Carbon is a crucial building block of life and essential in organic chemistry."
+        },
+        {
+          "Question": "Which of these is a noble gas?",
+          "TrueAnswer": "Helium",
+          "FalseAnswer": [
+            "Oxygen",
+            "Nitrogen",
+            "Chlorine"
+          ],
+          "Explanation": "Helium, with the chemical symbol 'He,' is a noble gas known for its low density and non-reactivity. It is used in various applications such as cooling and filling balloons."
+        },
+        {
+          "Question": "What is the pH level of a neutral solution?",
+          "TrueAnswer": "7",
+          "FalseAnswer": [
+            "5",
+            "9",
+            "12"
+          ],
+          "Explanation": "A neutral solution has a pH level of 7, indicating a balance between acidity and alkalinity. Pure water at room temperature is an example of a neutral solution."
+        },
+        {
+          "Question": "Which element is the most abundant in the Earth's crust?",
+          "TrueAnswer": "Oxygen",
+          "FalseAnswer": [
+            "Iron",
+            "Silicon",
+            "Aluminum"
+          ],
+          "Explanation": "Oxygen is the most abundant element in the Earth's crust, primarily bound with other elements in minerals such as silica and oxides. It plays a crucial role in various geological processes."
+        },
+        {
+          "Question": "What is the common name for the compound H2O?",
+          "TrueAnswer": "Water",
+          "FalseAnswer": [
+            "Carbon dioxide",
+            "Sodium chloride",
+            "Sulphuric acid"
+          ],
+          "Explanation": "The compound H2O is commonly known as water, essential for life and existing in various forms on Earth. It is a polar molecule with unique properties due to hydrogen bonding."
+        },
+        {
+          "Question": "Which gas is produced during photosynthesis?",
+          "TrueAnswer": "Oxygen",
+          "FalseAnswer": [
+            "Carbon dioxide",
+            "Methane",
+            "Nitrogen"
+          ],
+          "Explanation": "During photosynthesis, plants and algae produce oxygen as a byproduct, releasing it into the atmosphere. This process is vital for the oxygen cycle and sustaining life on Earth."
+        },
+        {
+          "Question": "What is the chemical formula of methane?",
+          "TrueAnswer": "CH4",
+          "FalseAnswer": [
+            "CO2",
+            "H2O",
+            "NH3"
+          ],
+          "Explanation": "Methane has the chemical formula CH4, comprising one carbon atom bonded to four hydrogen atoms. It is a potent greenhouse gas and a significant component of natural gas."
+        },
+        {
+          "Question": "Which element is commonly used in batteries?",
+          "TrueAnswer": "Lithium",
+          "FalseAnswer": [
+            "Sodium",
+            "Potassium",
+            "Magnesium"
+          ],
+          "Explanation": "Lithium is commonly used in rechargeable batteries due to its lightweight and highly reactive nature. It is an essential element in modern energy storage technologies."
+        },
+        {
+          "Question": "What is the state of matter of carbon dioxide at room temperature?",
+          "TrueAnswer": "Gas",
+          "FalseAnswer": [
+            "Liquid",
+            "Solid",
+            "Plasma"
+          ],
+          "Explanation": "At room temperature, carbon dioxide exists as a gas. It is known for its crucial role in the carbon cycle and as a greenhouse gas influencing Earth's climate."
+        },
+        {
+          "Question": "Which subatomic particle determines an element's identity?",
+          "TrueAnswer": "Proton",
+          "FalseAnswer": [
+            "Neutron",
+            "Electron",
+            "Photon"
+          ],
+          "Explanation": "Protons, with a positive charge, are the subatomic particles that define an element's identity and determine its atomic number. They are found in the nucleus of an atom along with neutrons."
+        },
+        {
+          "Question": "What is the bond type in a molecule of sodium chloride (NaCl)?",
+          "TrueAnswer": "Ionic",
+          "FalseAnswer": [
+            "Covalent",
+            "Metallic",
+            "Hydrogen"
+          ],
+          "Explanation": "Sodium chloride (NaCl) is formed by an ionic bond. This occurs when one atom donates an electron to another, resulting in the formation of positively and negatively charged ions that attract each other."
+        },
+        {
+          "Question": "Which chemical element's name originates from the Greek word for 'stone'?",
+          "TrueAnswer": "Lithium",
+          "FalseAnswer": [
+            "Titanium",
+            "Platinum",
+            "Mercury"
+          ],
+          "Explanation": "The name 'lithium' is derived from the Greek word 'lithos,' meaning stone. Lithium is an alkali metal and is found in various minerals, contributing to the naming origin."
+        },
+        {
+          "Question": "What is the process of a substance changing directly from a solid to a gas called?",
+          "TrueAnswer": "Sublimation",
+          "FalseAnswer": [
+            "Deposition",
+            "Evaporation",
+            "Condensation"
+          ],
+          "Explanation": "Sublimation is the process where a substance transitions directly from a solid to a gas phase without passing through the liquid state. This phenomenon is exhibited by various compounds under specific conditions."
+        },
+        {
+          "Question": "What type of reaction involves the combination of two or more substances to form a new compound?",
+          "TrueAnswer": "Synthesis",
+          "FalseAnswer": [
+            "Decomposition",
+            "Combustion",
+            "Replacement"
+          ],
+          "Explanation": "In a synthesis reaction, two or more substances combine to form a new compound. This process often involves the rearrangement of atoms and the formation of chemical bonds."
+        },
+        {
+          "Question": "What is the study of the composition, structure, and properties of matter called?",
+          "TrueAnswer": "Chemistry",
+          "FalseAnswer": [
+            "Physics",
+            "Biology",
+            "Geology"
+          ],
+          "Explanation": "Chemistry is the scientific discipline focused on the study of matter and its properties, including its composition and structure. It encompasses various fields such as organic, inorganic, and physical chemistry."
+        },
+        {
+          "Question": "What is the SI unit of measurement for the amount of a substance?",
+          "TrueAnswer": "Mole",
+          "FalseAnswer": [
+            "Newton",
+            "Ohm",
+            "Pascal"
+          ],
+          "Explanation": "The mole is the SI unit used to express the amount of a substance, representing Avogadro's number of entities. It is vital in quantitative chemistry for measuring quantities of atoms, molecules, or ions."
+        },
+        {
+          "Question": "What is the process of a substance changing from a gas to a liquid called?",
+          "TrueAnswer": "Condensation",
+          "FalseAnswer": [
+            "Sublimation",
+            "Evaporation",
+            "Freezing"
+          ],
+          "Explanation": "Condensation is the process in which a substance transitions from a gaseous state to a liquid state. This occurs when the temperature of the gas decreases, leading to the formation of liquid droplets."
+        },
+        {
+          "Question": "Which element is often used as a catalyst in chemical reactions?",
+          "TrueAnswer": "Platinum",
+          "FalseAnswer": [
+            "Gold",
+            "Rhodium",
+            "Palladium"
+          ],
+          "Explanation": "Platinum is widely used as a catalyst in various chemical reactions due to its ability to promote the reaction without being consumed. It plays a crucial role in industries such as petroleum refining and automotive catalytic converters."
+        }
+      ]
+    }
+  ]
+}

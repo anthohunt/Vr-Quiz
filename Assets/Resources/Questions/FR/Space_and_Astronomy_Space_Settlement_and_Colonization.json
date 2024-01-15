@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la plus grande planète de notre système solaire?",
+            "TrueAnswer": "Jupiter",
+            "FalseAnswer": [
+              "Neptune",
+              "Saturne",
+              "Mars"
+            ],
+            "Explanation": "Jupiter est la plus grande planète de notre système solaire, avec un diamètre d'environ 86 881 miles (139 822 kilomètres). Elle est connue pour sa gigantesque tempête, la Grande Tache Rouge."
+          },
+          {
+            "Question": "Quel corps céleste est connu sous le nom de planète sœur de la Terre?",
+            "TrueAnswer": "Vénus",
+            "FalseAnswer": [
+              "Mars",
+              "Jupiter",
+              "Saturne"
+            ],
+            "Explanation": "Vénus est souvent appelée la planète sœur de la Terre en raison de sa taille et masse similaires. Cependant, son atmosphère hostile la rend très différente de la Terre."
+          },
+          {
+            "Question": "Quel est le nom de la première station spatiale lancée par l'Union soviétique en 1971?",
+            "TrueAnswer": "Saliout 1",
+            "FalseAnswer": [
+              "Mir",
+              "Skylab",
+              "ISS"
+            ],
+            "Explanation": "Saliout 1 a été la première station spatiale de l'histoire humaine, lancée par l'Union soviétique. Elle a ouvert la voie à des stations spatiales et avant-postes orbitaux futurs."
+          },
+          {
+            "Question": "Quel satellite de Jupiter est connu pour son potentiel à abriter la vie?",
+            "TrueAnswer": "Europe",
+            "FalseAnswer": [
+              "Io",
+              "Ganymède",
+              "Callisto"
+            ],
+            "Explanation": "Europe est considéré comme l'un des meilleurs candidats pour la découverte de la vie extraterrestre en raison de son océan subsurface et de son potentiel de conditions habitables."
+          },
+          {
+            "Question": "Quel est le temps de voyage estimé vers Mars avec la technologie actuelle de propulsion spatiale?",
+            "TrueAnswer": "6-8 mois",
+            "FalseAnswer": [
+              "1 mois",
+              "3-5 ans",
+              "10-12 mois"
+            ],
+            "Explanation": "La technologie actuelle de propulsion spatiale nécessiterait environ 6 à 8 mois pour voyager de la Terre à Mars, en fonction de la position des deux planètes dans leurs orbites."
+          },
+          {
+            "Question": "Quel est le terme couramment utilisé pour la proposition hypothétique de construire un grand habitat spatial?",
+            "TrueAnswer": "Cylindre d'O'Neill",
+            "FalseAnswer": [
+              "Sphère de Dyson",
+              "Sonde Von Neumann",
+              "Terraformation"
+            ],
+            "Explanation": "Un cylindre d'O'Neill est un concept proposé pour la conception d'un établissement spatial. Il implique un cylindre rotatif pour simuler la gravité et utiliser l'énergie solaire pour l'habitation humaine."
+          },
+          {
+            "Question": "Quelle mission de la NASA vise à faire atterrir la première femme et le prochain homme sur la Lune d'ici 2024?",
+            "TrueAnswer": "Artémis",
+            "FalseAnswer": [
+              "Apollo",
+              "Cassini",
+              "Juno"
+            ],
+            "Explanation": "Le programme Artémis vise à ramener des humains sur la Lune, en mettant l'accent sur la durabilité pour l'exploration future et le potentiel de missions vers Mars."
+          },
+          {
+            "Question": "Quelle planète pourrait potentiellement soutenir la colonisation humaine en raison de ses caractéristiques similaires à la Terre?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Jupiter",
+              "Saturne",
+              "Neptune"
+            ],
+            "Explanation": "Mars est un candidat idéal pour la colonisation humaine en raison de sa longueur de jour relativement similaire, de sa gravité de surface et de son potentiel d'extraction durable des ressources."
+          },
+          {
+            "Question": "Quel est le concept proposé de créer un établissement humain sur un autre corps céleste ou objet spatial?",
+            "TrueAnswer": "Colonisation spatiale",
+            "FalseAnswer": [
+              "Station orbitale",
+              "Tourisme spatial",
+              "Astrobiologie"
+            ],
+            "Explanation": "La colonisation spatiale implique l'établissement d'une présence humaine permanente sur un autre monde, tel qu'une planète, une lune ou un astéroïde, dans le but d'habitation et d'utilisation durable des ressources."
+          },
+          {
+            "Question": "Quelle agence spatiale est connue pour ses accords Artémis, visant à créer un cadre pacifique et transparent pour l'exploration lunaire?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "Roscosmos",
+              "CNSA"
+            ],
+            "Explanation": "Les accords Artémis de la NASA établissent un ensemble de principes et de lignes directrices pour l'exploration et l'utilisation de la Lune, promouvant la coopération et la transparence entre les partenaires internationaux."
+          },
+          {
+            "Question": "Quel est le terme pour le changement de trajectoire d'un vaisseau spatial en utilisant la gravité d'une planète sans utiliser la propulsion?",
+            "TrueAnswer": "Assistance gravitationnelle",
+            "FalseAnswer": [
+              "Insertion orbitale",
+              "Amarrage spatial",
+              "Atterrissage lunaire"
+            ],
+            "Explanation": "L'assistance gravitationnelle est une technique utilisée dans l'exploration spatiale pour accélérer ou rediriger la trajectoire d'un vaisseau spatial en utilisant l'attraction gravitationnelle d'une planète ou autre corps céleste."
+          },
+          {
+            "Question": "Quelle entreprise spatiale privée a proposé des plans ambitieux pour coloniser Mars dans le cadre du projet 'Starship'?",
+            "TrueAnswer": "SpaceX",
+            "FalseAnswer": [
+              "Blue Origin",
+              "Virgin Galactic",
+              "Boeing"
+            ],
+            "Explanation": "SpaceX, dirigée par Elon Musk, vise à établir une colonie humaine autonome sur Mars en utilisant leur vaisseau spatial Starship et en exploitant la technologie des fusées réutilisables."
+          },
+          {
+            "Question": "Quel est le terme pour convertir un corps céleste pour avoir des conditions similaires à la Terre pour l'habitation humaine?",
+            "TrueAnswer": "Terraformation",
+            "FalseAnswer": [
+              "Évasion atmosphérique",
+              "Exploitation minière spatiale",
+              "Redirection d'astéroïdes"
+            ],
+            "Explanation": "La terraformation consiste à transformer l'environnement d'une planète, d'une lune ou d'un autre corps céleste pour le rendre habitable pour la vie terrestre, potentiellement par la modification de l'atmosphère et de la température."
+          },
+          {
+            "Question": "Quel concept implique l'établissement d'habitats humains autosuffisants dans l'espace extra-atmosphérique ou sur d'autres corps célestes?",
+            "TrueAnswer": "Installation spatiale",
+            "FalseAnswer": [
+              "Exploration profonde de l'espace",
+              "Voyage interstellaire",
+              "Colonisation galactique"
+            ],
+            "Explanation": "L'installation spatiale fait référence à la création de communautés permanentes et autosuffisantes dans l'espace, telles que sur la Lune, sur Mars ou dans des habitats spatiaux artificiels, dans le but d'une présence humaine à long terme et de l'utilisation des ressources."
+          },
+          {
+            "Question": "Quelle mission spatiale a réussi à poser le premier humain sur la Lune en 1969?",
+            "TrueAnswer": "Apollo 11",
+            "FalseAnswer": [
+              "Voyager 1",
+              "Télescope spatial Hubble",
+              "Rover Curiosity"
+            ],
+            "Explanation": "Apollo 11, menée par les astronautes Neil Armstrong, Buzz Aldrin et Michael Collins, a réalisé le premier atterrissage humain sur la Lune le 20 juillet 1969, pendant la course spatiale historique."
+          },
+          {
+            "Question": "Quel est le terme pour l'épuisement des ressources naturelles d'une planète ou d'une lune en raison des activités humaines?",
+            "TrueAnswer": "Épuisement planétaire",
+            "FalseAnswer": [
+              "Découverte d'exoplanètes",
+              "Déplétion astrophysique",
+              "Érosion spatiale"
+            ],
+            "Explanation": "L'épuisement planétaire désigne l'épuisement potentiel des ressources vitales sur un corps planétaire, impactant sa durabilité et son habitabilité pour l'installation humaine et l'exploration à long terme."
+          },
+          {
+            "Question": "Quelle planète de notre système solaire possède le plus grand volcan et le plus grand canyon, en faisant un site potentiel pour la colonisation humaine?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Terre",
+              "Vénus",
+              "Mercure"
+            ],
+            "Explanation": "Mars abrite Olympus Mons, le plus grand volcan, et Valles Marineris, le plus long canyon du système solaire, offrant des ressources géologiques potentielles pour une future colonisation humaine."
+          },
+          {
+            "Question": "Quel est le terme pour un habitat spatial autosuffisant qui simule la gravité terrestre par rotation?",
+            "TrueAnswer": "Colonie spatiale",
+            "FalseAnswer": [
+              "Avant-poste d'astéroïde",
+              "Laboratoire dans l'espace lointain",
+              "Hôtel interstellaire"
+            ],
+            "Explanation": "Une colonie spatiale est un habitat proposé où les humains peuvent vivre et travailler dans l'espace, potentiellement sur une planète, une lune, un astéroïde ou une structure artificielle, assurant une durabilité et une habitation à long terme."
+          },
+          {
+            "Question": "Quelle initiative internationale vise à établir une présence humaine permanente sur Mars en mettant l'accent sur la coopération et la collaboration non gouvernementale?",
+            "TrueAnswer": "Mars One",
+            "FalseAnswer": [
+              "ExoMars",
+              "Mars Direct",
+              "Mars Society"
+            ],
+            "Explanation": "Mars One, une initiative privée néerlandaise, visait à établir une colonie humaine permanente sur Mars, mettant l'accent sur la participation publique et le financement collaboratif pour la mission."
+          },
+          {
+            "Question": "Quel est le terme pour l'utilisation des ressources provenant d'objets spatiaux, tels que les astéroïdes ou la Lune, pour soutenir les activités humaines dans l'espace?",
+            "TrueAnswer": "Utilisation des ressources in situ (ISRU)",
+            "FalseAnswer": [
+              "Récupération des débris spatiaux",
+              "Recyclage des matériaux cosmiques",
+              "Exploitation minière des corps célestes"
+            ],
+            "Explanation": "L'ISRU consiste à extraire et utiliser des matériaux trouvés dans l'espace pour le carburant, l'eau, l'oxygène et d'autres ressources, réduisant le besoin de transporter des fournitures depuis la Terre et permettant une installation spatiale durable."
+          }
+        ]
+      }
+    }
+  ]
+}

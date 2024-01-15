@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5348987849552668221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5494333537003709239}
+  - component: {fileID: 5752740818754913986}
+  m_Layer: 0
+  m_Name: Geography_Oceans and Seas.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5494333537003709239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5348987849552668221}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5752740818754913986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5348987849552668221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest ocean in the world?
+      TrueAnswer: Pacific
+      FalseAnswer:
+      - Atlantic
+      - Indian
+      - Arctic
+      Explanation: The Pacific Ocean is the largest ocean in the world, covering
+        more than 60 million square miles.
+    - Question: Which sea is the saltiest body of water on Earth?
+      TrueAnswer: Dead
+      FalseAnswer:
+      - Mediterranean
+      - Red
+      - Caspian
+      Explanation: The Dead Sea is the saltiest body of water on Earth, with a salinity
+        level of around 34%.
+    - Question: Which ocean is the warmest?
+      TrueAnswer: Indian
+      FalseAnswer:
+      - Atlantic
+      - Pacific
+      - Arctic
+      Explanation: "The Indian Ocean is the warmest ocean in the world, with average
+        surface temperatures ranging from 22-30\xB0C."
+    - Question: Which sea is the smallest sea in the world?
+      TrueAnswer: Red
+      FalseAnswer:
+      - Caspian
+      - Mediterranean
+      - Black
+      Explanation: The Red Sea is the smallest sea in the world, covering an area
+        of about 169,100 square miles.
+    - Question: Which ocean is the coldest?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Atlantic
+      - Pacific
+      - Indian
+      Explanation: The Arctic Ocean is the coldest ocean in the world, with temperatures
+        often below freezing.
+    - Question: Which sea is the largest inland body of water?
+      TrueAnswer: Caspian
+      FalseAnswer:
+      - Mediterranean
+      - Red
+      - Black
+      Explanation: The Caspian Sea is the largest inland body of water, bordered
+        by five countries and covering an area of about 143,000 square miles.
+    - Question: Which ocean is the saltiest?
+      TrueAnswer: Atlantic
+      FalseAnswer:
+      - Pacific
+      - Indian
+      - Arctic
+      Explanation: The Atlantic Ocean is the saltiest ocean in the world, with an
+        average salinity level of about 3.5%.
+    - Question: Which sea is known for its pink color?
+      TrueAnswer: Mediterranean
+      FalseAnswer:
+      - Red
+      - Caspian
+      - Black
+      Explanation: The Mediterranean Sea is known for its pink color, caused by the
+        presence of a type of algae called Dunaliella salina.
+    - Question: Which ocean is the most polluted?
+      TrueAnswer: Pacific
+      FalseAnswer:
+      - Atlantic
+      - Indian
+      - Arctic
+      Explanation: The Pacific Ocean is the most polluted ocean in the world, with
+        a large amount of plastic debris and pollution.
+    - Question: Which sea is the deepest in the world?
+      TrueAnswer: Mariana
+      FalseAnswer:
+      - Caribbean
+      - South China
+      - Bering
+      Explanation: The Mariana Trench in the western Pacific Ocean is the deepest
+        part of any ocean, reaching a depth of about 36,070 feet.
+    - Question: Which ocean is the most biodiverse?
+      TrueAnswer: Indian
+      FalseAnswer:
+      - Atlantic
+      - Pacific
+      - Arctic
+      Explanation: The Indian Ocean is considered the most biodiverse ocean, with
+        a wide variety of marine species and ecosystems.
+    - Question: Which sea is known for its bioluminescent plankton?
+      TrueAnswer: Sea of Stars
+      FalseAnswer:
+      - Baltic
+      - Adriatic
+      - Coral
+      Explanation: The Sea of Stars, also known as Vaadhoo Island in the Maldives,
+        is famous for its bioluminescent plankton that create a stunning glowing
+        effect at night.
+    - Question: Which ocean is the most remote?
+      TrueAnswer: Southern
+      FalseAnswer:
+      - Atlantic
+      - Pacific
+      - Indian
+      Explanation: The Southern Ocean, also known as the Antarctic Ocean, is the
+        most remote ocean, surrounding the continent of Antarctica.
+    - Question: Which sea is the saltiest lake in the world?
+      TrueAnswer: Dead
+      FalseAnswer:
+      - Caspian
+      - Mediterranean
+      - Red
+      Explanation: The Dead Sea is not only the saltiest body of water but also the
+        saltiest lake in the world.
+    - Question: Which ocean is the most turbulent?
+      TrueAnswer: Atlantic
+      FalseAnswer:
+      - Pacific
+      - Indian
+      - Arctic
+      Explanation: The Atlantic Ocean is known for its turbulent weather patterns
+        and strong currents, making it the most turbulent ocean.
+    - Question: Which sea is the most densely populated with islands?
+      TrueAnswer: Philippine
+      FalseAnswer:
+      - Caribbean
+      - Mediterranean
+      - Maldives
+      Explanation: The Philippine Sea is the most densely populated with islands,
+        with thousands of islands and islets scattered throughout its waters.
+    - Question: "Which ocean is the most affected by El Ni\xF1o and La Ni\xF1a?"
+      TrueAnswer: Pacific
+      FalseAnswer:
+      - Atlantic
+      - Indian
+      - Arctic
+      Explanation: "The Pacific Ocean is the most affected by El Ni\xF1o and La Ni\xF1a,
+        which are climate patterns that impact global weather systems."
+    - Question: Which sea is the warmest in the Mediterranean region?
+      TrueAnswer: Red
+      FalseAnswer:
+      - Caspian
+      - Black
+      - Adriatic
+      Explanation: "The Red Sea is the warmest sea in the Mediterranean region, with
+        average temperatures ranging from 21-30\xB0C."
+    - Question: Which ocean is the most explored by humans?
+      TrueAnswer: Atlantic
+      FalseAnswer:
+      - Pacific
+      - Indian
+      - Arctic
+      Explanation: The Atlantic Ocean is the most explored by humans, with centuries
+        of maritime exploration and trade routes.
+    - Question: Which sea is known for its coral reefs?
+      TrueAnswer: Great Barrier Reef
+      FalseAnswer:
+      - Red
+      - Caspian
+      - Mediterranean
+      Explanation: The Great Barrier Reef in the Coral Sea is the largest coral reef
+        system in the world, known for its rich biodiversity.

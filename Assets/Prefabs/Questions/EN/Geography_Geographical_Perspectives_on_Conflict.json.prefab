@@ -1,0 +1,248 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4449176010539332921
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4222657423247765403}
+  - component: {fileID: 44840507951593507}
+  m_Layer: 0
+  m_Name: Geography_Geographical_Perspectives_on_Conflict.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4222657423247765403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4449176010539332921}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &44840507951593507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4449176010539332921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What geographical term refers to a boundary line separating two or
+        more nations or territories?
+      TrueAnswer: Border
+      FalseAnswer:
+      - Latitude
+      - Longitude
+      - Equator
+      Explanation: Borders mark the territorial limits of a country. They can be
+        characterized by physical barriers, such as walls or fences, or simply by
+        imaginary lines on a map.
+    - Question: Which of the following is an example of a geopolitical conflict over
+        control of natural resources?
+      TrueAnswer: Oil fields
+      FalseAnswer:
+      - Diamond mines
+      - Fishing waters
+      - Timber forests
+      Explanation: Oil fields have been a frequent source of geopolitical conflict
+        due to their economic importance and strategic value in international relations.
+    - Question: What is the term for a region at the edge of a settled area, where
+        it transitions into a wilderness?
+      TrueAnswer: Frontier
+      FalseAnswer:
+      - Metropolis
+      - Suburb
+      - Outback
+      Explanation: Frontiers often serve as zones of contestation, where conflicting
+        interests of different groups collide, leading to historical and contemporary
+        conflicts over land and resources.
+    - Question: In geography, what is the study and mapping of the Earth's features
+        called?
+      TrueAnswer: Cartography
+      FalseAnswer:
+      - Climatology
+      - Geomorphology
+      - Pedology
+      Explanation: Cartography plays a crucial role in conflict resolution and prevention
+        by providing accurate spatial information and visualization of contested
+        territories and boundaries.
+    - Question: In the context of geopolitical conflict, what term refers to a pre-existing
+        geographic division or separation between different ethnic or cultural groups?
+      TrueAnswer: Divide
+      FalseAnswer:
+      - Confluence
+      - Subduction
+      - Erosion
+      Explanation: Divides are often areas of tension and conflict, as historical
+        grievances and resource distribution exacerbate societal differences and
+        competition.
+    - Question: Which geographical feature is often contested as a strategic chokepoint
+        due to its narrow passage and control over maritime traffic?
+      TrueAnswer: Strait
+      FalseAnswer:
+      - Peninsula
+      - Atoll
+      - Estuary
+      Explanation: Straits such as the Strait of Hormuz and the Strait of Malacca
+        have been focal points of geopolitical tensions and military confrontations
+        due to their crucial role in global trade and energy transportation.
+    - Question: What is the term for a geographical area characterized by ongoing
+        violent conflict and contentious territorial claims?
+      TrueAnswer: Hotspot
+      FalseAnswer:
+      - Oasis
+      - Plateau
+      - Fjord
+      Explanation: Hotspots are regions where geopolitical, ethnic, or religious
+        conflicts often converge, leading to prolonged instability and humanitarian
+        crises.
+    - Question: Which of the following is an example of a natural boundary separating
+        countries or territories?
+      TrueAnswer: River
+      FalseAnswer:
+      - Highway
+      - Railroad
+      - Airport
+      Explanation: Rivers often serve as natural borders, and disputes over their
+        allocation and access can lead to diplomatic tensions and conflicts between
+        riparian states.
+    - Question: What term refers to the study of the relationships between spatial
+        patterns and geopolitical dynamics?
+      TrueAnswer: Geopolitics
+      FalseAnswer:
+      - Ecology
+      - Anthropology
+      - Sociology
+      Explanation: Geopolitics evaluates the impact of geographical factors on international
+        relations, power struggles, and conflicts, shedding light on the spatial
+        dimension of political and military strategies.
+    - Question: What type of geographic feature often becomes a flashpoint of conflict
+        due to its potential for resource exploitation and control?
+      TrueAnswer: Island
+      FalseAnswer:
+      - Desert
+      - Mountain
+      - Volcano
+      Explanation: Islands, especially those situated in strategic maritime routes
+        or rich in natural resources, have historically been subject to disputes
+        and militarization by competing nations seeking to assert territorial claims
+        and influence.
+    - Question: In geopolitics, what term describes a territory that has a significant
+        impact on global political and economic affairs?
+      TrueAnswer: Power center
+      FalseAnswer:
+      - Backwater
+      - Outpost
+      - Enclave
+      Explanation: Power centers, such as major cities or key transit hubs, often
+        attract geopolitical interest and become focal points of conflict and competition
+        due to their influence on regional and global dynamics.
+    - Question: What is the term for a political boundary following an agreed-upon
+        line in the middle of a navigable river or lake?
+      TrueAnswer: Median line
+      FalseAnswer:
+      - Great circle
+      - Tropic line
+      - Datum line
+      Explanation: Median lines are used to divide water bodies between neighboring
+        states, aiming to ensure equitable access and allocation of aquatic resources
+        while minimizing conflicts over maritime boundaries.
+    - Question: Which geographical barrier serves as a symbol of division and conflict
+        in the Middle East?
+      TrueAnswer: Barrier wall
+      FalseAnswer:
+      - Irrigation canal
+      - Sand dune
+      - Taiga forest
+      Explanation: The Barrier wall, including the Israeli West Bank barrier and
+        the border wall between Israel and Egypt, is emblematic of the Israeli-Palestinian
+        conflict and has sparked international debates and human rights concerns.
+    - Question: What term refers to a region in which two or more rival states claim
+        exclusive economic exploitation and control?
+      TrueAnswer: Zone of contention
+      FalseAnswer:
+      - Safe zone
+      - Conservation area
+      - Buffer zone
+      Explanation: Zones of contention are areas of overlapping maritime boundaries
+        or disputed territorial waters where conflicting claims lead to tensions
+        and potential escalation, requiring diplomatic negotiations and legal settlement.
+    - Question: In the context of geopolitical strategy, what term refers to the
+        use of geographic advantages for military or political gain?
+      TrueAnswer: Geostrategy
+      FalseAnswer:
+      - Technocracy
+      - Neuroscience
+      - Horticulture
+      Explanation: Geostrategy encompasses the assessment and utilization of geographical
+        factors, such as topography, climate, and resource distribution, to shape
+        military operations and foreign policy objectives in conflict scenarios.
+    - Question: Which geographical concept pertains to the influence of spatial arrangement
+        on the interconnectedness and power relations of states and regions?
+      TrueAnswer: Spatial politics
+      FalseAnswer:
+      - Geodesy
+      - Toponymy
+      - Hydrography
+      Explanation: Spatial politics analyzes the impact of geographic configurations
+        on interstate relations, emphasizing the role of proximity, borders, and
+        territorial control in shaping geopolitical interactions and conflicts.
+    - Question: What is the term for a geographical area that is subject to external
+        political domination and control?
+      TrueAnswer: Dependent territory
+      FalseAnswer:
+      - Extraterritorial enclave
+      - Buffer zone
+      - Freezone
+      Explanation: Dependent territories, such as colonies or overseas territories,
+        remain under the authority of a sovereign state, often leading to disputes
+        over their status and sovereignty, particularly in decolonization processes.
+    - Question: Which geographic feature represents a disputed militarized zone between
+        North and South Korea?
+      TrueAnswer: Demilitarized zone (DMZ)
+      FalseAnswer:
+      - Trade route
+      - Energy pipeline
+      - Tourist attraction
+      Explanation: The DMZ acts as a buffer zone, symbolizing the divide between
+        the two Koreas, and remains a significant flashpoint subject to military
+        tensions and diplomatic negotiations.
+    - Question: What is the term for the state policy of acquiring strategic territories
+        beyond a country's established borders?
+      TrueAnswer: Territorial expansion
+      FalseAnswer:
+      - Isolationism
+      - Containment
+      - Decolonization
+      Explanation: Territorial expansionism historically gave rise to conflicts and
+        colonial conquests as states sought to extend their influence and control
+        over lands, resources, and strategic positions.
+    - Question: In the context of state sovereignty, what term refers to the exclusive
+        economic zone extending 200 nautical miles from a country's coastline?
+      TrueAnswer: EEZ (Exclusive Economic Zone)
+      FalseAnswer:
+      - TER (Territorial Extent Range)
+      - OCE (Oceanic Control Embrace)
+      - SEA (Sovereign Expanse Area)
+      Explanation: The EEZ grants coastal states exclusive rights to exploit and
+        manage marine resources within the designated zone, leading to conflicts
+        over fishing, mineral extraction, and energy exploration.

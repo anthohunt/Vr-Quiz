@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the sum of the interior angles of a triangle?",
+          "TrueAnswer": "180",
+          "FalseAnswer": [
+            "90",
+            "270",
+            "360"
+          ],
+          "Explanation": "The sum of the interior angles of a triangle is always 180 degrees, a fundamental property of Euclidean geometry."
+        },
+        {
+          "Question": "What is the term for a line that touches a circle at exactly one point?",
+          "TrueAnswer": "Tangent",
+          "FalseAnswer": [
+            "Chord",
+            "Secant",
+            "Arc"
+          ],
+          "Explanation": "A tangent is a line that touches a circle at exactly one point, perpendicular to the radius at the point of contact."
+        },
+        {
+          "Question": "What is the measure of the central angle of a full circle?",
+          "TrueAnswer": "360",
+          "FalseAnswer": [
+            "180",
+            "270",
+            "90"
+          ],
+          "Explanation": "A full circle has 360 degrees, and the central angle of a full circle encompasses the entire circle."
+        },
+        {
+          "Question": "Which of the following is a regular polygon?",
+          "TrueAnswer": "Hexagon",
+          "FalseAnswer": [
+            "Pentagon",
+            "Heptagon",
+            "Octagon"
+          ],
+          "Explanation": "A regular polygon has all sides and angles congruent, and a hexagon is a six-sided regular polygon."
+        },
+        {
+          "Question": "What is the formula for finding the area of a square?",
+          "TrueAnswer": "Side²",
+          "FalseAnswer": [
+            "2 * Side",
+            "Side * Height",
+            "Side * Perimeter"
+          ],
+          "Explanation": "The area of a square is calculated by multiplying the length of one side by itself, expressed as side squared."
+        },
+        {
+          "Question": "Which theorem states that the square of the hypotenuse equals the sum of the squares of the other two sides in a right-angled triangle?",
+          "TrueAnswer": "Pythagorean",
+          "FalseAnswer": [
+            "Fermat's Last",
+            "Prime Number",
+            "Converse"
+          ],
+          "Explanation": "The Pythagorean theorem is a fundamental principle in Euclidean geometry, named after the ancient Greek mathematician Pythagoras."
+        },
+        {
+          "Question": "Which type of quadrilateral has opposite sides parallel and equal in length?",
+          "TrueAnswer": "Parallelogram",
+          "FalseAnswer": [
+            "Rhombus",
+            "Rectangle",
+            "Trapezoid"
+          ],
+          "Explanation": "A parallelogram has opposite sides that are both parallel and equal in length, forming equal opposite angles."
+        },
+        {
+          "Question": "What is the term for a polygon with eight sides?",
+          "TrueAnswer": "Octagon",
+          "FalseAnswer": [
+            "Decagon",
+            "Hexagon",
+            "Nonagon"
+          ],
+          "Explanation": "An octagon is a polygon with eight straight sides and eight angles, often encountered in architecture and design."
+        },
+        {
+          "Question": "How many faces, edges, and vertices does a cube have?",
+          "TrueAnswer": "6, 12, 8",
+          "FalseAnswer": [
+            "8, 12, 6",
+            "12, 6, 8",
+            "6, 8, 12"
+          ],
+          "Explanation": "A cube has 6 faces, 12 edges, and 8 vertices, making it a regular polyhedron and one of the five Platonic solids."
+        },
+        {
+          "Question": "What is the measure of each interior angle of a regular pentagon?",
+          "TrueAnswer": "108",
+          "FalseAnswer": [
+            "90",
+            "120",
+            "72"
+          ],
+          "Explanation": "In a regular pentagon, each interior angle measures 108 degrees, calculated using the formula (n-2) * 180 / n, where n is the number of sides."
+        },
+        {
+          "Question": "Which conic section has a single curve that never closes back on itself?",
+          "TrueAnswer": "Hyperbola",
+          "FalseAnswer": [
+            "Parabola",
+            "Ellipse",
+            "Circle"
+          ],
+          "Explanation": "A hyperbola is formed by the intersection of a plane with two equal and oppositely directed cones, resulting in a non-closed, asymptotic curve."
+        },
+        {
+          "Question": "What is the term for a three-dimensional analogue of a square?",
+          "TrueAnswer": "Cube",
+          "FalseAnswer": [
+            "Rectangular Prism",
+            "Pyramid",
+            "Cylinder"
+          ],
+          "Explanation": "A cube is the three-dimensional analogue of a square, with all sides equal in length and all angles being right angles."
+        },
+        {
+          "Question": "What is the measure of the angle at the center of a circle subtended by an arc that is one-quarter of the circumference?",
+          "TrueAnswer": "90",
+          "FalseAnswer": [
+            "180",
+            "45",
+            "60"
+          ],
+          "Explanation": "An angle at the center of a circle subtended by a quarter-circumference arc is 90 degrees, forming a right angle."
+        },
+        {
+          "Question": "Which type of transformation preserves angles and lengths but may change orientation and position?",
+          "TrueAnswer": "Isometry",
+          "FalseAnswer": [
+            "Dilation",
+            "Reflection",
+            "Rotation"
+          ],
+          "Explanation": "An isometry is a transformation that preserves distances and angles, including translations, rotations, and reflections, without changing the shape of the object."
+        },
+        {
+          "Question": "What is the term for a polygon with twelve sides?",
+          "TrueAnswer": "Dodecagon",
+          "FalseAnswer": [
+            "Hendecagon",
+            "Decagon",
+            "Icosagon"
+          ],
+          "Explanation": "A dodecagon is a polygon with twelve straight sides and twelve angles, often seen in geometric patterns and architectural designs."
+        },
+        {
+          "Question": "What is the measure of each interior angle of a regular hexagon?",
+          "TrueAnswer": "120",
+          "FalseAnswer": [
+            "90",
+            "108",
+            "135"
+          ],
+          "Explanation": "In a regular hexagon, each interior angle measures 120 degrees; calculated using the formula (n-2) * 180 / n, where n is the number of sides."
+        },
+        {
+          "Question": "Which of the following is the formula for finding the circumference of a circle?",
+          "TrueAnswer": "2 * π * r",
+          "FalseAnswer": [
+            "π * r",
+            "π * r²",
+            "2 * π * r²"
+          ],
+          "Explanation": "The circumference of a circle is calculated as 2 times π times the radius, denoted by the formula 2πr which represents the distance around the circle."
+        },
+        {
+          "Question": "What is the intersection of two sides of a polygon called?",
+          "TrueAnswer": "Vertex",
+          "FalseAnswer": [
+            "Midpoint",
+            "Endpoint",
+            "Center"
+          ],
+          "Explanation": "A vertex is the point where two sides of a polygon meet, also referred to as a corner, and is pluralized as vertices."
+        },
+        {
+          "Question": "Which type of angle measures more than 90 degrees but less than 180 degrees?",
+          "TrueAnswer": "Obtuse",
+          "FalseAnswer": [
+            "Acute",
+            "Right",
+            "Straight"
+          ],
+          "Explanation": "An obtuse angle measures more than 90 degrees but less than 180 degrees, often found in various geometric shapes and structures."
+        },
+        {
+          "Question": "Which type of quadrilateral has four sides of equal length but unequal angles?",
+          "TrueAnswer": "Rhombus",
+          "FalseAnswer": [
+            "Rectangle",
+            "Square",
+            "Parallelogram"
+          ],
+          "Explanation": "A rhombus is a quadrilateral with all sides of equal length, but unlike a square, its angles are not right angles."
+        },
+        {
+          "Question": "What is the term for the distance from the center of a circle to any point on its circumference?",
+          "TrueAnswer": "Radius",
+          "FalseAnswer": [
+            "Circumference",
+            "Diameter",
+            "Chord"
+          ],
+          "Explanation": "The radius of a circle is the distance from the center of the circle to any point on its circumference, having a crucial role in various circle-related calculations."
+        }
+      ]
+    }
+  ]
+}

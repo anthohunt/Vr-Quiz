@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &179899278647837097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 594004516724539820}
+  - component: {fileID: 997488729277917356}
+  m_Layer: 0
+  m_Name: Internet_Internet Privacy Legislation and Concerns.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &594004516724539820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 179899278647837097}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &997488729277917356
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 179899278647837097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of internet privacy legislation?
+      TrueAnswer: To protect personal information
+      FalseAnswer:
+      - To restrict internet access
+      - To promote online advertising
+      - To increase government surveillance
+      Explanation: Internet privacy legislation aims to safeguard individuals' personal
+        information from unauthorized access and use.
+    - Question: Which country has the most comprehensive internet privacy legislation?
+      TrueAnswer: European Union
+      FalseAnswer:
+      - United States
+      - China
+      - Russia
+      Explanation: The European Union has implemented the General Data Protection
+        Regulation (GDPR), which provides extensive privacy rights for its citizens.
+    - Question: What is the main concern regarding internet privacy?
+      TrueAnswer: Unauthorized data collection
+      FalseAnswer:
+      - Slow internet speeds
+      - Online shopping scams
+      - Social media addiction
+      Explanation: The primary concern is the collection of personal data without
+        consent, leading to potential misuse and privacy breaches.
+    - Question: What is the purpose of a VPN (Virtual Private Network)?
+      TrueAnswer: To enhance online privacy
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To monitor online activities
+      Explanation: A VPN creates a secure and encrypted connection, protecting users'
+        online privacy by masking their IP address and encrypting data.
+    - Question: What is the role of cookies in internet privacy?
+      TrueAnswer: To track user behavior
+      FalseAnswer:
+      - To prevent online tracking
+      - To improve website performance
+      - To block advertisements
+      Explanation: Cookies are used to track user behavior, collect data, and personalize
+        online experiences, raising concerns about privacy invasion.
+    - Question: What is the purpose of the Children's Online Privacy Protection Act
+        (COPPA)?
+      TrueAnswer: To protect children's privacy
+      FalseAnswer:
+      - To promote online gaming
+      - To regulate social media
+      - To restrict internet access
+      Explanation: COPPA aims to protect the online privacy of children under 13
+        by requiring parental consent for data collection and usage.
+    - Question: What is the main concern with facial recognition technology?
+      TrueAnswer: Invasion of privacy
+      FalseAnswer:
+      - Identity theft
+      - Slow processing speed
+      - Lack of accuracy
+      Explanation: Facial recognition technology raises concerns about invasion of
+        privacy, as it can be used for surveillance and tracking without consent.
+    - Question: What is the purpose of the California Consumer Privacy Act (CCPA)?
+      TrueAnswer: To enhance consumer privacy rights
+      FalseAnswer:
+      - To regulate online gaming
+      - To promote targeted advertising
+      - To restrict internet access
+      Explanation: The CCPA grants California residents greater control over their
+        personal information and imposes obligations on businesses regarding data
+        privacy.
+    - Question: What is the main concern with online data breaches?
+      TrueAnswer: Loss of personal information
+      FalseAnswer:
+      - Increased internet speeds
+      - Excessive online advertisements
+      - Social media addiction
+      Explanation: Online data breaches can result in the loss of personal information,
+        leading to identity theft and other privacy-related issues.
+    - Question: What is the purpose of the General Data Protection Regulation (GDPR)?
+      TrueAnswer: To protect data privacy
+      FalseAnswer:
+      - To promote online surveillance
+      - To restrict internet access
+      - To increase targeted advertising
+      Explanation: The GDPR aims to protect the privacy and personal data of European
+        Union citizens by regulating its collection and usage.
+    - Question: What is the main concern with online tracking?
+      TrueAnswer: Lack of control over personal information
+      FalseAnswer:
+      - Slow internet speeds
+      - Online shopping scams
+      - Social media addiction
+      Explanation: Online tracking raises concerns about individuals' lack of control
+        over their personal information and potential misuse by third parties.
+    - Question: What is the purpose of the Electronic Communications Privacy Act
+        (ECPA)?
+      TrueAnswer: To protect electronic communications
+      FalseAnswer:
+      - To promote online advertising
+      - To increase government surveillance
+      - To restrict internet access
+      Explanation: The ECPA safeguards the privacy of electronic communications,
+        including emails, by regulating their interception and unauthorized access.
+    - Question: What is the main concern with social media privacy?
+      TrueAnswer: Unauthorized sharing of personal information
+      FalseAnswer:
+      - Slow internet speeds
+      - Online shopping scams
+      - Social media addiction
+      Explanation: The main concern is the unauthorized sharing of personal information
+        on social media platforms, potentially leading to privacy breaches.
+    - Question: What is the purpose of the Personal Information Protection and Electronic
+        Documents Act (PIPEDA)?
+      TrueAnswer: To regulate data privacy
+      FalseAnswer:
+      - To promote online gaming
+      - To restrict internet access
+      - To increase targeted advertising
+      Explanation: PIPEDA governs how private sector organizations collect, use,
+        and disclose personal information in the course of commercial activities.
+    - Question: What is the main concern with online surveillance?
+      TrueAnswer: Violation of privacy rights
+      FalseAnswer:
+      - Identity theft
+      - Slow processing speed
+      - Lack of accuracy
+      Explanation: Online surveillance raises concerns about the violation of individuals'
+        privacy rights and potential abuse of power.
+    - Question: What is the purpose of the Health Insurance Portability and Accountability
+        Act (HIPAA)?
+      TrueAnswer: To protect health information privacy
+      FalseAnswer:
+      - To promote online gaming
+      - To regulate social media
+      - To restrict internet access
+      Explanation: HIPAA safeguards the privacy and security of individuals' health
+        information by establishing standards for its protection and usage.
+    - Question: What is the main concern with online behavioral advertising?
+      TrueAnswer: Lack of transparency
+      FalseAnswer:
+      - Increased internet speeds
+      - Excessive online advertisements
+      - Social media addiction
+      Explanation: Online behavioral advertising raises concerns due to the lack
+        of transparency in how personal data is collected and used for targeted ads.
+    - Question: What is the purpose of the Telecommunications Act of 1996?
+      TrueAnswer: To protect consumer privacy
+      FalseAnswer:
+      - To promote online gaming
+      - To regulate social media
+      - To restrict internet access
+      Explanation: The Telecommunications Act of 1996 includes provisions to protect
+        consumer privacy in the telecommunications industry.
+    - Question: What is the main concern with data retention policies?
+      TrueAnswer: Potential misuse of stored data
+      FalseAnswer:
+      - Slow internet speeds
+      - Online shopping scams
+      - Social media addiction
+      Explanation: Data retention policies raise concerns about the potential misuse
+        of stored data and the risk of unauthorized access.
+    - Question: What is the purpose of the Privacy Act of 1974?
+      TrueAnswer: To protect personal privacy
+      FalseAnswer:
+      - To promote online gaming
+      - To regulate social media
+      - To restrict internet access
+      Explanation: The Privacy Act of 1974 safeguards individuals' personal privacy
+        by regulating the collection and usage of their information by federal agencies.
+    - Question: What is the main concern with online location tracking?
+      TrueAnswer: Violation of privacy
+      FalseAnswer:
+      - Identity theft
+      - Slow processing speed
+      - Lack of accuracy
+      Explanation: Online location tracking raises concerns about the violation of
+        individuals' privacy, as it can reveal sensitive information and movements.

@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6827090295514214382
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5479057824071986439}
+  - component: {fileID: 6927859122055887775}
+  m_Layer: 0
+  m_Name: TV Shows_TV Spin-Offs and Shared Universes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5479057824071986439
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6827090295514214382}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6927859122055887775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6827090295514214382}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show is a spin-off of 'Friends'?
+      TrueAnswer: Joey
+      FalseAnswer:
+      - How I Met Your Mother
+      - The Big Bang Theory
+      - Seinfeld
+      Explanation: Joey is a spin-off of 'Friends' that follows the character Joey
+        Tribbiani in Los Angeles.
+    - Question: Which TV show is set in the same universe as 'Breaking Bad'?
+      TrueAnswer: Better Call Saul
+      FalseAnswer:
+      - The Walking Dead
+      - Stranger Things
+      - Game of Thrones
+      Explanation: Better Call Saul is a prequel to 'Breaking Bad' and focuses on
+        the character Saul Goodman.
+    - Question: Which TV show is a spin-off of 'The Office'?
+      TrueAnswer: Parks and Recreation
+      FalseAnswer:
+      - Brooklyn Nine-Nine
+      - The Good Place
+      - The Big Bang Theory
+      Explanation: Parks and Recreation is a spin-off of 'The Office' and shares
+        a similar mockumentary style.
+    - Question: Which TV show is set in the same universe as 'Grey's Anatomy'?
+      TrueAnswer: Private Practice
+      FalseAnswer:
+      - Scandal
+      - How to Get Away with Murder
+      - Friends
+      Explanation: Private Practice is a spin-off of 'Grey's Anatomy' and follows
+        the character Addison Montgomery.
+    - Question: Which TV show is a spin-off of 'Buffy the Vampire Slayer'?
+      TrueAnswer: Angel
+      FalseAnswer:
+      - Supernatural
+      - The Vampire Diaries
+      - True Blood
+      Explanation: Angel is a spin-off of 'Buffy the Vampire Slayer' and focuses
+        on the character Angel.
+    - Question: Which TV show is set in the same universe as 'The Walking Dead'?
+      TrueAnswer: Fear the Walking Dead
+      FalseAnswer:
+      - Stranger Things
+      - Breaking Bad
+      - Game of Thrones
+      Explanation: Fear the Walking Dead is a prequel to 'The Walking Dead' and explores
+        the early days of the zombie apocalypse.
+    - Question: Which TV show is a spin-off of 'Law & Order'?
+      TrueAnswer: 'Law & Order: Special Victims Unit'
+      FalseAnswer:
+      - 'CSI: Crime Scene Investigation'
+      - NCIS
+      - Criminal Minds
+      Explanation: 'Law & Order: Special Victims Unit is a spin-off of ''Law & Order''
+        and focuses on crimes of a sexual nature.'
+    - Question: Which TV show is set in the same universe as 'The X-Files'?
+      TrueAnswer: The Lone Gunmen
+      FalseAnswer:
+      - Stranger Things
+      - Supernatural
+      - Fringe
+      Explanation: The Lone Gunmen is a spin-off of 'The X-Files' and follows the
+        conspiracy theorists from the original series.
+    - Question: Which TV show is a spin-off of 'Happy Days'?
+      TrueAnswer: Laverne & Shirley
+      FalseAnswer:
+      - The Brady Bunch
+      - The Mary Tyler Moore Show
+      - M*A*S*H
+      Explanation: Laverne & Shirley is a spin-off of 'Happy Days' and follows the
+        lives of two friends in Milwaukee.
+    - Question: Which TV show is set in the same universe as 'Arrow'?
+      TrueAnswer: The Flash
+      FalseAnswer:
+      - Supergirl
+      - Daredevil
+      - Gotham
+      Explanation: The Flash is set in the same universe as 'Arrow' and features
+        characters from both shows crossing over.
+    - Question: Which TV show is a spin-off of 'The Vampire Diaries'?
+      TrueAnswer: The Originals
+      FalseAnswer:
+      - True Blood
+      - Buffy the Vampire Slayer
+      - Supernatural
+      Explanation: The Originals is a spin-off of 'The Vampire Diaries' and focuses
+        on the original vampire family.
+    - Question: Which TV show is set in the same universe as 'Doctor Who'?
+      TrueAnswer: Torchwood
+      FalseAnswer:
+      - Stranger Things
+      - Supernatural
+      - Sherlock
+      Explanation: Torchwood is set in the same universe as 'Doctor Who' and follows
+        a team of alien hunters.
+    - Question: Which TV show is a spin-off of 'NCIS'?
+      TrueAnswer: 'NCIS: Los Angeles'
+      FalseAnswer:
+      - 'CSI: Crime Scene Investigation'
+      - 'Law & Order: Special Victims Unit'
+      - Criminal Minds
+      Explanation: 'NCIS: Los Angeles is a spin-off of ''NCIS'' and focuses on a
+        team of undercover agents in Los Angeles.'
+    - Question: Which TV show is set in the same universe as 'Friends'?
+      TrueAnswer: Mad About You
+      FalseAnswer:
+      - Seinfeld
+      - How I Met Your Mother
+      - The Big Bang Theory
+      Explanation: Mad About You is set in the same universe as 'Friends' and features
+        crossover episodes.
+    - Question: Which TV show is a spin-off of 'M*A*S*H'?
+      TrueAnswer: Trapper John, M.D.
+      FalseAnswer:
+      - The Brady Bunch
+      - The Mary Tyler Moore Show
+      - Laverne & Shirley
+      Explanation: Trapper John, M.D. is a spin-off of 'M*A*S*H' and follows the
+        character Trapper John McIntyre.
+    - Question: Which TV show is set in the same universe as 'Supernatural'?
+      TrueAnswer: Arrow
+      FalseAnswer:
+      - The Flash
+      - Buffy the Vampire Slayer
+      - The Vampire Diaries
+      Explanation: Arrow is set in the same universe as 'Supernatural' and features
+        crossover episodes.
+    - Question: 'Which TV show is a spin-off of ''CSI: Crime Scene Investigation''?'
+      TrueAnswer: 'CSI: Miami'
+      FalseAnswer:
+      - NCIS
+      - 'Law & Order: Special Victims Unit'
+      - Criminal Minds
+      Explanation: 'CSI: Miami is a spin-off of ''CSI: Crime Scene Investigation''
+        and is set in Miami.'
+    - Question: Which TV show is set in the same universe as 'Sherlock'?
+      TrueAnswer: Doctor Who
+      FalseAnswer:
+      - Stranger Things
+      - Supernatural
+      - Torchwood
+      Explanation: Doctor Who is set in the same universe as 'Sherlock' and features
+        crossover episodes.
+    - Question: Which TV show is a spin-off of 'The Brady Bunch'?
+      TrueAnswer: The Brady Brides
+      FalseAnswer:
+      - Laverne & Shirley
+      - The Mary Tyler Moore Show
+      - M*A*S*H
+      Explanation: The Brady Brides is a spin-off of 'The Brady Bunch' and follows
+        the lives of the Brady sisters.
+    - Question: Which TV show is set in the same universe as 'Game of Thrones'?
+      TrueAnswer: Westworld
+      FalseAnswer:
+      - Stranger Things
+      - Breaking Bad
+      - The Walking Dead
+      Explanation: Westworld is set in the same universe as 'Game of Thrones' and
+        features similar themes of power and manipulation.

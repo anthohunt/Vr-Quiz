@@ -1,0 +1,128 @@
+{
+    "Geography": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the tallest volcano in the world?",
+                    "TrueAnswer": "Mauna Kea",
+                    "FalseAnswer": ["Mount Everest", "Mount Kilimanjaro", "Mount Fuji"],
+                    "Explanation": "Mauna Kea, located in Hawaii, is the tallest volcano in the world, measuring over 33,000 feet from its base on the ocean floor."
+                },
+                {
+                    "Question": "Which country is home to the famous volcano Mount Vesuvius?",
+                    "TrueAnswer": "Italy",
+                    "FalseAnswer": ["Japan", "Mexico", "Indonesia"],
+                    "Explanation": "Mount Vesuvius is located near Naples, Italy, and is famous for its eruption in 79 AD that destroyed the cities of Pompeii and Herculaneum."
+                },
+                {
+                    "Question": "What is the largest active volcano in Europe?",
+                    "TrueAnswer": "Mount Etna",
+                    "FalseAnswer": ["Mount St. Helens", "Mount Pinatubo", "Mount Krakatoa"],
+                    "Explanation": "Mount Etna, located in Sicily, Italy, is the largest active volcano in Europe and one of the most active in the world."
+                },
+                {
+                    "Question": "Which country is known as the 'Land of Fire and Ice' due to its numerous volcanoes and glaciers?",
+                    "TrueAnswer": "Iceland",
+                    "FalseAnswer": ["New Zealand", "Chile", "Philippines"],
+                    "Explanation": "Iceland is known as the 'Land of Fire and Ice' because it has a high concentration of active volcanoes and large glaciers."
+                },
+                {
+                    "Question": "What is the largest volcanic crater in the world?",
+                    "TrueAnswer": "Ngorongoro Crater",
+                    "FalseAnswer": ["Yellowstone Caldera", "Haleakala Crater", "Crater Lake"],
+                    "Explanation": "The Ngorongoro Crater in Tanzania is the largest volcanic crater in the world, formed by the collapse of a large volcano millions of years ago."
+                },
+                {
+                    "Question": "Which country is home to the famous volcano Mount Fuji?",
+                    "TrueAnswer": "Japan",
+                    "FalseAnswer": ["United States", "Mexico", "Italy"],
+                    "Explanation": "Mount Fuji is located on Honshu Island in Japan and is one of the country's most iconic symbols."
+                },
+                {
+                    "Question": "What is the world's most active volcano?",
+                    "TrueAnswer": "Kilauea",
+                    "FalseAnswer": ["Mount Vesuvius", "Mount Etna", "Mount St. Helens"],
+                    "Explanation": "Kilauea, located in Hawaii, is the world's most active volcano, with continuous eruptions since 1983."
+                },
+                {
+                    "Question": "Which country is home to the famous volcano Mount Kilimanjaro?",
+                    "TrueAnswer": "Tanzania",
+                    "FalseAnswer": ["Kenya", "Uganda", "Ethiopia"],
+                    "Explanation": "Mount Kilimanjaro is located in Tanzania and is the highest mountain in Africa, with three volcanic cones."
+                },
+                {
+                    "Question": "What is the largest volcanic island in the world?",
+                    "TrueAnswer": "Iceland",
+                    "FalseAnswer": ["Hawaii", "Java", "Sicily"],
+                    "Explanation": "Iceland is the largest volcanic island in the world, with a high concentration of active volcanoes due to its location on the Mid-Atlantic Ridge."
+                },
+                {
+                    "Question": "Which country is home to the famous volcano Mount Rainier?",
+                    "TrueAnswer": "United States",
+                    "FalseAnswer": ["Canada", "Mexico", "Chile"],
+                    "Explanation": "Mount Rainier is located in Washington state, United States, and is an active stratovolcano in the Cascade Range."
+                },
+                {
+                    "Question": "What is the world's largest geothermal power plant?",
+                    "TrueAnswer": "The Geysers",
+                    "FalseAnswer": ["Yellowstone National Park", "Larderello", "Hellisheiði Power Station"],
+                    "Explanation": "The Geysers, located in California, United States, is the world's largest geothermal power plant, producing electricity from underground steam."
+                },
+                {
+                    "Question": "Which country is known for its geothermal activity and the Blue Lagoon?",
+                    "TrueAnswer": "Iceland",
+                    "FalseAnswer": ["New Zealand", "United States", "Italy"],
+                    "Explanation": "Iceland is known for its geothermal activity, with hot springs, geysers, and the famous Blue Lagoon spa."
+                },
+                {
+                    "Question": "What is the world's largest geothermal field?",
+                    "TrueAnswer": "Yellowstone Caldera",
+                    "FalseAnswer": ["The Geysers", "Hellisheiði Power Station", "Larderello"],
+                    "Explanation": "The Yellowstone Caldera, located in Yellowstone National Park, United States, is the world's largest geothermal field, with numerous geysers and hot springs."
+                },
+                {
+                    "Question": "Which country is home to the famous geothermal site Rotorua?",
+                    "TrueAnswer": "New Zealand",
+                    "FalseAnswer": ["Iceland", "United States", "Italy"],
+                    "Explanation": "Rotorua, located in New Zealand, is famous for its geothermal activity, including geysers, hot springs, and mud pools."
+                },
+                {
+                    "Question": "What is the world's largest geothermal power capacity per capita?",
+                    "TrueAnswer": "Iceland",
+                    "FalseAnswer": ["United States", "New Zealand", "Philippines"],
+                    "Explanation": "Iceland has the world's largest geothermal power capacity per capita, utilizing its abundant geothermal resources for electricity and heating."
+                },
+                {
+                    "Question": "Which country is known for its geothermal activity and the Valley of Geysers?",
+                    "TrueAnswer": "Russia",
+                    "FalseAnswer": ["Iceland", "United States", "New Zealand"],
+                    "Explanation": "Russia is known for its geothermal activity, including the Valley of Geysers on the Kamchatka Peninsula, one of the largest geyser fields in the world."
+                },
+                {
+                    "Question": "What is the world's largest geothermal power station in terms of installed capacity?",
+                    "TrueAnswer": "Hellisheiði Power Station",
+                    "FalseAnswer": ["The Geysers", "Larderello", "The Geothermal Project"],
+                    "Explanation": "The Hellisheiði Power Station in Iceland is the world's largest geothermal power station in terms of installed capacity, generating electricity and providing hot water for heating."
+                },
+                {
+                    "Question": "Which country is known for its geothermal activity and the Larderello Geothermal Complex?",
+                    "TrueAnswer": "Italy",
+                    "FalseAnswer": ["Iceland", "United States", "New Zealand"],
+                    "Explanation": "Italy is known for its geothermal activity, with the Larderello Geothermal Complex being the first geothermal power plant in the world."
+                },
+                {
+                    "Question": "What is the world's largest geothermal power plant in terms of electricity generation?",
+                    "TrueAnswer": "Larderello",
+                    "FalseAnswer": ["The Geysers", "Hellisheiði Power Station", "The Geothermal Project"],
+                    "Explanation": "Larderello in Italy is the world's largest geothermal power plant in terms of electricity generation, harnessing the heat from underground steam."
+                },
+                {
+                    "Question": "Which country is known for its geothermal activity and the Tiwi Geothermal Power Plant?",
+                    "TrueAnswer": "Philippines",
+                    "FalseAnswer": ["Iceland", "United States", "New Zealand"],
+                    "Explanation": "The Philippines is known for its geothermal activity, with the Tiwi Geothermal Power Plant being one of the largest geothermal power plants in the country."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel scientifique a proposé la célèbre équation E=mc^2?",
+            "TrueAnswer": "Albert Einstein",
+            "FalseAnswer": [
+              "Isaac Newton",
+              "Stephen Hawking",
+              "Marie Curie"
+            ],
+            "Explanation": "Albert Einstein, dans sa théorie de la relativité restreinte, a dérivé la formule pour relier la masse et l'énergie."
+          },
+          {
+            "Question": "Quelle est la plus petite particule fondamentale dans le Modèle Standard de la physique des particules?",
+            "TrueAnswer": "Quark",
+            "FalseAnswer": [
+              "Neutrino",
+              "Électron",
+              "Photon"
+            ],
+            "Explanation": "Les quarks sont les éléments constitutifs des protons et des neutrons, et sont influencés par la force nucléaire forte."
+          },
+          {
+            "Question": "Quel est le nom de la particule associée au champ de Higgs?",
+            "TrueAnswer": "Boson de Higgs",
+            "FalseAnswer": [
+              "Fermion",
+              "Gluon",
+              "Boson Z"
+            ],
+            "Explanation": "Le boson de Higgs est la particule responsable de donner de la masse aux autres particules à travers le mécanisme de Higgs."
+          },
+          {
+            "Question": "Quelle expérience a confirmé l'existence de la masse du neutrino?",
+            "TrueAnswer": "Expérience des neutrinos solaires",
+            "FalseAnswer": [
+              "Expérience de la double fente",
+              "Grand collisionneur de hadrons",
+              "Expérience de Millikan sur la goutte d'huile"
+            ],
+            "Explanation": "L'expérience des neutrinos solaires dans les années 1960 a observé un déficit de neutrinos attendus venant du soleil, suggérant que les neutrinos changent de saveur et ont une masse."
+          },
+          {
+            "Question": "Quelle est la particule théorique porteuse de la force nucléaire faible?",
+            "TrueAnswer": "Bosons W et Z",
+            "FalseAnswer": [
+              "Gluon",
+              "Graviton",
+              "Photon"
+            ],
+            "Explanation": "Les bosons W et Z sont responsables de la médiation des interactions de la force nucléaire faible entre les particules."
+          },
+          {
+            "Question": "Quelle particule subatomique a été découverte en 2012 au Grand collisionneur de hadrons?",
+            "TrueAnswer": "Boson de Higgs",
+            "FalseAnswer": [
+              "Quark top",
+              "Graviton",
+              "Muon"
+            ],
+            "Explanation": "La découverte du boson de Higgs a confirmé le mécanisme par lequel les particules acquièrent de la masse dans le Modèle Standard."
+          },
+          {
+            "Question": "Quels sont les quarks qui composent un proton?",
+            "TrueAnswer": "Deux quarks up et un quark down",
+            "FalseAnswer": [
+              "Deux quarks down et un quark up",
+              "Trois quarks up",
+              "Trois quarks down"
+            ],
+            "Explanation": "Les protons sont composés de deux quarks up et un quark down, tandis que les neutrons sont composés de deux quarks down et un quark up."
+          },
+          {
+            "Question": "Quel type de désintégration subit un neutron lors de la désintégration bêta?",
+            "TrueAnswer": "Conversion en un proton, un électron et un antineutrino",
+            "FalseAnswer": [
+              "Conversion en un proton et un électron",
+              "Émission d'un électron",
+              "Émission d'un positron"
+            ],
+            "Explanation": "Les neutrons se désintègrent via la force nucléaire faible, se convertissant en un proton, un électron et un antineutrino pour conserver la charge et le nombre de leptons."
+          },
+          {
+            "Question": "Quel est le nom du concept qui explique le comportement des particules à l'échelle quantique?",
+            "TrueAnswer": "Théorie quantique des champs",
+            "FalseAnswer": [
+              "Théorie des cordes",
+              "Relativité générale",
+              "Mécanique quantique"
+            ],
+            "Explanation": "La théorie quantique des champs décrit la dynamique des interactions entre particules et est fondamentale pour la compréhension du Modèle Standard."
+          },
+          {
+            "Question": "Quelle force agit entre les quarks à l'intérieur d'un hadron?",
+            "TrueAnswer": "Force nucléaire forte",
+            "FalseAnswer": [
+              "Force électromagnétique",
+              "Force nucléaire faible",
+              "Force gravitationnelle"
+            ],
+            "Explanation": "La force nucléaire forte est responsable de lier les quarks ensemble pour former des hadrons, surmontant la force électromagnétique répulsive à de petites distances."
+          },
+          {
+            "Question": "Quelle propriété des particules est décrite par la symétrie d'isospin?",
+            "TrueAnswer": "Étrangeté",
+            "FalseAnswer": [
+              "Charge électrique",
+              "Spin",
+              "Charge de couleur"
+            ],
+            "Explanation": "La symétrie d'isospin est un concept dans le Modèle Standard qui décrit la similitude entre les particules avec une étrangeté différente mais des interactions similaires."
+          },
+          {
+            "Question": "Quelle est la particule porteuse prédite pour la force de gravité?",
+            "TrueAnswer": "Graviton",
+            "FalseAnswer": [
+              "Photon",
+              "Boson W",
+              "Boson Z"
+            ],
+            "Explanation": "Dans le cadre de la théorie quantique des champs, le graviton est théorisé pour médiatiser la force de gravité au niveau quantique."
+          },
+          {
+            "Question": "Quelle est la somme des charges électriques des trois familles de quarks dans le Modèle Standard?",
+            "TrueAnswer": "Zéro",
+            "FalseAnswer": [
+              "+1",
+              "-1",
+              "Valeurs fractionnaires"
+            ],
+            "Explanation": "Les trois familles de quarks s'équilibrent pour avoir une charge électrique totale de zéro, contribuant à la neutralité globale de la matière."
+          },
+          {
+            "Question": "Qu'est-ce qui détermine la chiralité des interactions de la force nucléaire faible impliquant des fermions?",
+            "TrueAnswer": "Chiralité",
+            "FalseAnswer": [
+              "Spin",
+              "Charge de couleur",
+              "Saveur"
+            ],
+            "Explanation": "La chiralité, ou la main droite et la gauche, différencie les fermions gauches et droits dans les interactions de la force faible, comme décrit par la théorie de Weinberg-Salam."
+          },
+          {
+            "Question": "Quelle force fondamentale est associée à l'échange de gluons virtuels?",
+            "TrueAnswer": "Force nucléaire forte",
+            "FalseAnswer": [
+              "Force électromagnétique",
+              "Force nucléaire faible",
+              "Force gravitationnelle"
+            ],
+            "Explanation": "L'échange de gluons médie les interactions de la force nucléaire forte entre les quarks et les gluons eux-mêmes à l'intérieur des hadrons."
+          },
+          {
+            "Question": "Quel est le nom du champ quantique responsable des interactions électromagnétiques?",
+            "TrueAnswer": "Champ photon",
+            "FalseAnswer": [
+              "Champ gluon",
+              "Champ de Higgs",
+              "Champs des bosons W et Z"
+            ],
+            "Explanation": "Le champ photon décrit l'échange de photons virtuels qui transmettent la force électromagnétique entre les particules chargées."
+          },
+          {
+            "Question": "Quelle interaction est responsable de la désintégration bêta dans les noyaux atomiques?",
+            "TrueAnswer": "Force nucléaire faible",
+            "FalseAnswer": [
+              "Force nucléaire forte",
+              "Force électromagnétique",
+              "Force gravitationnelle"
+            ],
+            "Explanation": "La force nucléaire faible régit la désintégration bêta impliquant la conversion d'un neutron en un proton à l'intérieur des noyaux atomiques."
+          },
+          {
+            "Question": "Quelle loi de conservation est associée à l'absence de voies de désintégration pour les protons?",
+            "TrueAnswer": "Conservation du nombre baryonique",
+            "FalseAnswer": [
+              "Conservation du nombre leptonique",
+              "Conservation de la charge électrique",
+              "Conservation de l'énergie"
+            ],
+            "Explanation": "La conservation du nombre baryonique est liée à la stabilité des protons, empêchant leur désintégration en particules plus légères en raison de l'absence de particules correspondantes."
+          },
+          {
+            "Question": "Lors de collisions de particules à haute énergie, quelle quantité est conservée avec l'énergie et la quantité de mouvement?",
+            "TrueAnswer": "Momentum transverse",
+            "FalseAnswer": [
+              "Charge de l'électron",
+              "Spin",
+              "Charge de couleur"
+            ],
+            "Explanation": "La conservation du momentum transverse est cruciale pour évaluer les résultats des collisions à haute énergie, fournissant des informations sur les propriétés des particules et leurs interactions."
+          },
+          {
+            "Question": "Quel est le principe de symétrie associé à la conservation de la charge électrique?",
+            "TrueAnswer": "Symétrie U(1)",
+            "FalseAnswer": [
+              "Symétrie SU(2)",
+              "Symétrie SU(3)",
+              "Symétrie de Poincaré"
+            ],
+            "Explanation": "La symétrie U(1) est fondamentale pour la théorie quantique des champs et sous-tend la conservation de la charge électrique dans les interactions de particules, comme décrit par la force électromagnétique."
+          }
+        ]
+      }
+    }
+  ]
+}

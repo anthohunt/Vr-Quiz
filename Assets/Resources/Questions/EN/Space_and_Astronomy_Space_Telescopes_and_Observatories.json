@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the primary function of the Hubble Space Telescope?",
+            "TrueAnswer": "Observing distant galaxies",
+            "FalseAnswer": [
+              "Studying asteroids",
+              "Measuring star brightness",
+              "Searching for black holes"
+            ],
+            "Explanation": "The Hubble Space Telescope is known for its role in significantly expanding our understanding of the universe by capturing images of distant galaxies and celestial phenomena."
+          },
+          {
+            "Question": "Which space observatory operates primarily in the X-ray part of the electromagnetic spectrum?",
+            "TrueAnswer": "Chandra X-ray Observatory",
+            "FalseAnswer": [
+              "Spitzer Space Telescope",
+              "Kepler Space Telescope",
+              "James Webb Space Telescope"
+            ],
+            "Explanation": "The Chandra X-ray Observatory is specifically designed to detect and observe X-ray emission from high-energy regions of the universe, including black holes and supernovae remnants."
+          },
+          {
+            "Question": "What is the main purpose of the James Webb Space Telescope?",
+            "TrueAnswer": "Studying the early universe",
+            "FalseAnswer": [
+              "Hunting for exoplanets",
+              "Mapping the asteroid belt",
+              "Observing solar flares"
+            ],
+            "Explanation": "The James Webb Space Telescope aims to study the universe's first stars and galaxies, as well as the formation of planetary systems, to provide insights into the early universe."
+          },
+          {
+            "Question": "Which space telescope is known for its infrared observations of the cosmos?",
+            "TrueAnswer": "Spitzer Space Telescope",
+            "FalseAnswer": [
+              "Hubble Space Telescope",
+              "Chandra X-ray Observatory",
+              "Kepler Space Telescope"
+            ],
+            "Explanation": "The Spitzer Space Telescope is renowned for its pioneering work in the field of infrared astronomy, enabling the study of cool and distant objects such as protostars and exoplanets."
+          },
+          {
+            "Question": "What space observatory has been crucial for the discovery and study of exoplanets?",
+            "TrueAnswer": "Kepler Space Telescope",
+            "FalseAnswer": [
+              "Hubble Space Telescope",
+              "Chandra X-ray Observatory",
+              "James Webb Space Telescope"
+            ],
+            "Explanation": "The Kepler Space Telescope revolutionized the study of exoplanets by detecting thousands of planetary candidates, providing valuable data for understanding planetary systems beyond our solar system."
+          }
+        ]
+      }
+    }
+  ]
+}

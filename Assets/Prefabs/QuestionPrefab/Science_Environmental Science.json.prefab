@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8557816630801349171
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2505246342884141611}
+  - component: {fileID: 7718561109715607709}
+  m_Layer: 0
+  m_Name: Science_Environmental Science.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2505246342884141611
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8557816630801349171}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7718561109715607709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8557816630801349171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary greenhouse gas responsible for climate change?
+      TrueAnswer: Carbon dioxide
+      FalseAnswer:
+      - Methane
+      - Nitrous oxide
+      - Ozone
+      Explanation: Carbon dioxide is the main greenhouse gas contributing to global
+        warming and climate change.
+    - Question: What is the process by which plants convert sunlight into energy?
+      TrueAnswer: Photosynthesis
+      FalseAnswer:
+      - Respiration
+      - Fermentation
+      - Transpiration
+      Explanation: Photosynthesis is the process by which plants use sunlight to
+        convert carbon dioxide and water into glucose and oxygen.
+    - Question: What is the layer of the atmosphere that protects Earth from harmful
+        UV radiation?
+      TrueAnswer: Ozone layer
+      FalseAnswer:
+      - Stratosphere
+      - Troposphere
+      - Ionosphere
+      Explanation: The ozone layer is a region in the stratosphere that absorbs most
+        of the Sun's ultraviolet (UV) radiation.
+    - Question: What is the term for the gradual increase in Earth's average temperature?
+      TrueAnswer: Global warming
+      FalseAnswer:
+      - Climate change
+      - Ozone depletion
+      - Acid rain
+      Explanation: Global warming refers to the long-term increase in Earth's average
+        temperature due to human activities and greenhouse gas emissions.
+    - Question: What is the process by which water changes from a liquid to a gas?
+      TrueAnswer: Evaporation
+      FalseAnswer:
+      - Condensation
+      - Precipitation
+      - Transpiration
+      Explanation: Evaporation is the process by which water changes from a liquid
+        to a gas, usually due to heat.
+    - Question: What is the term for the variety of life on Earth?
+      TrueAnswer: Biodiversity
+      FalseAnswer:
+      - Ecosystem
+      - Habitat
+      - Population
+      Explanation: Biodiversity refers to the variety of life on Earth, including
+        all species of plants, animals, and microorganisms.
+    - Question: What is the process by which rocks are broken down into smaller pieces?
+      TrueAnswer: Weathering
+      FalseAnswer:
+      - Erosion
+      - Deposition
+      - Melting
+      Explanation: Weathering is the process by which rocks are broken down into
+        smaller pieces by physical, chemical, or biological means.
+    - Question: What is the term for the loss of a species from a particular habitat
+        or from the entire planet?
+      TrueAnswer: Extinction
+      FalseAnswer:
+      - Endangerment
+      - Migration
+      - Adaptation
+      Explanation: Extinction occurs when a species no longer exists in a particular
+        habitat or on the entire planet.
+    - Question: What is the process by which water vapor in the atmosphere turns
+        into liquid water?
+      TrueAnswer: Condensation
+      FalseAnswer:
+      - Evaporation
+      - Precipitation
+      - Transpiration
+      Explanation: Condensation is the process by which water vapor in the atmosphere
+        cools and turns into liquid water, forming clouds.
+    - Question: What is the term for the gradual wearing away of land by natural
+        forces?
+      TrueAnswer: Erosion
+      FalseAnswer:
+      - Deposition
+      - Weathering
+      - Melting
+      Explanation: Erosion is the process by which land is worn away by natural forces
+        such as water, wind, or ice.
+    - Question: What is the term for the process by which plants release water vapor
+        through their leaves?
+      TrueAnswer: Transpiration
+      FalseAnswer:
+      - Photosynthesis
+      - Respiration
+      - Evaporation
+      Explanation: Transpiration is the process by which plants release water vapor
+        through their leaves into the atmosphere.
+    - Question: What is the term for the introduction of harmful substances into
+        the environment?
+      TrueAnswer: Pollution
+      FalseAnswer:
+      - Conservation
+      - Sustainability
+      - Restoration
+      Explanation: Pollution refers to the introduction of harmful substances or
+        pollutants into the environment, causing damage to ecosystems and human health.
+    - Question: What is the term for the process by which plants and animals change
+        to better survive in their environment?
+      TrueAnswer: Adaptation
+      FalseAnswer:
+      - Evolution
+      - Mutation
+      - Natural selection
+      Explanation: Adaptation is the process by which plants and animals change over
+        time to better survive in their environment.
+    - Question: What is the term for the process by which water falls from the atmosphere
+        to the Earth's surface?
+      TrueAnswer: Precipitation
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Transpiration
+      Explanation: Precipitation is the process by which water falls from the atmosphere
+        to the Earth's surface in the form of rain, snow, sleet, or hail.
+    - Question: What is the term for the natural materials and resources provided
+        by the Earth?
+      TrueAnswer: Natural resources
+      FalseAnswer:
+      - Renewable energy
+      - Fossil fuels
+      - Non-renewable resources
+      Explanation: Natural resources are the materials and resources provided by
+        the Earth, such as air, water, minerals, and forests.
+    - Question: What is the term for the process by which plants and animals produce
+        offspring of the same species?
+      TrueAnswer: Reproduction
+      FalseAnswer:
+      - Growth
+      - Development
+      - Metabolism
+      Explanation: Reproduction is the process by which plants and animals produce
+        offspring of the same species, ensuring the continuation of the species.
+    - Question: What is the term for the process by which plants and animals exchange
+        gases with their environment?
+      TrueAnswer: Respiration
+      FalseAnswer:
+      - Photosynthesis
+      - Transpiration
+      - Evaporation
+      Explanation: Respiration is the process by which plants and animals exchange
+        gases, such as oxygen and carbon dioxide, with their environment.
+    - Question: What is the term for the process by which energy is transferred from
+        one organism to another in a food chain?
+      TrueAnswer: Energy transfer
+      FalseAnswer:
+      - Energy conversion
+      - Energy production
+      - Energy storage
+      Explanation: Energy transfer is the process by which energy is passed from
+        one organism to another in a food chain, sustaining life.
+    - Question: What is the term for the study of the interactions between organisms
+        and their environment?
+      TrueAnswer: Ecology
+      FalseAnswer:
+      - Biology
+      - Chemistry
+      - Physics
+      Explanation: Ecology is the scientific study of the interactions between organisms
+        and their environment, including the relationships between species and their
+        habitats.
+    - Question: What is the term for the process by which waste materials are broken
+        down and recycled in nature?
+      TrueAnswer: Decomposition
+      FalseAnswer:
+      - Combustion
+      - Incineration
+      - Landfill
+      Explanation: Decomposition is the process by which waste materials, such as
+        dead plants and animals, are broken down and recycled in nature.

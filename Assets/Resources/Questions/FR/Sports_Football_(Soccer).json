@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Qui a remporté la Coupe du Monde de la FIFA en 2018?",
+            "TrueAnswer": "France",
+            "FalseAnswer": [
+              "Brésil",
+              "Allemagne",
+              "Argentine"
+            ],
+            "Explanation": "La France a remporté sa deuxième Coupe du Monde de la FIFA, en battant la Croatie 4-2 en finale au stade Loujniki à Moscou."
+          },
+          {
+            "Question": "Combien de remplacements sont autorisés lors d'un match de football régulier?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "5",
+              "2",
+              "4"
+            ],
+            "Explanation": "Chaque équipe est autorisée à effectuer un maximum de 3 remplacements lors d'un match de football régulier, avec une substitution supplémentaire en cas de blessure."
+          },
+          {
+            "Question": "Qui est le meilleur buteur de tous les temps de la Ligue des champions de l'UEFA?",
+            "TrueAnswer": "Cristiano Ronaldo",
+            "FalseAnswer": [
+              "Lionel Messi",
+              "Raul",
+              "Robert Lewandowski"
+            ],
+            "Explanation": "Cristiano Ronaldo détient le record du nombre de buts marqués en Ligue des champions de l'UEFA, avec plus de 130 buts."
+          },
+          {
+            "Question": "Quel pays a remporté le plus de titres de la Coupe du Monde de la FIFA?",
+            "TrueAnswer": "Brésil",
+            "FalseAnswer": [
+              "Allemagne",
+              "Italie",
+              "Argentine"
+            ],
+            "Explanation": "Le Brésil a remporté un record de 5 titres de la Coupe du Monde de la FIFA, en 1958, 1962, 1970, 1994 et 2002."
+          },
+          {
+            "Question": "Que signifie le terme 'hat-trick' en football?",
+            "TrueAnswer": "Marquer trois buts dans un seul match",
+            "FalseAnswer": [
+              "Les trois premiers buts d'un joueur de la saison",
+              "Fournir trois passes décisives lors d'un match",
+              "Une équipe gagnant trois matchs consécutifs"
+            ],
+            "Explanation": "Un 'hat-trick' en football fait référence à un joueur marquant trois buts dans un seul match, un exploit notable dans le sport."
+          },
+          {
+            "Question": "Combien de joueurs y a-t-il dans une équipe de football standard sur le terrain?",
+            "TrueAnswer": "11",
+            "FalseAnswer": [
+              "10",
+              "9",
+              "12"
+            ],
+            "Explanation": "Une équipe de football standard compte 11 joueurs sur le terrain, comprenant des gardiens de but, des défenseurs, des milieux de terrain et des attaquants."
+          },
+          {
+            "Question": "Qui est l'entraineur de Liverpool FC en 2021?",
+            "TrueAnswer": "Jurgen Klopp",
+            "FalseAnswer": [
+              "Pep Guardiola",
+              "Jose Mourinho",
+              "Diego Simeone"
+            ],
+            "Explanation": "Jurgen Klopp est l'entraineur du Liverpool FC depuis octobre 2015, conduisant l'équipe à de nombreux succès, dont le titre de la Premier League en 2020."
+          },
+          {
+            "Question": "Comment s'appelle le trophée remis au vainqueur de la Ligue des champions de l'UEFA?",
+            "TrueAnswer": "La Coupe des clubs champions européens",
+            "FalseAnswer": [
+              "La Coupe des champions",
+              "La Coupe de l'UEFA",
+              "La Coupe d'Europe"
+            ],
+            "Explanation": "Le trophée remis au vainqueur de la Ligue des champions de l'UEFA est officiellement connu sous le nom de 'La Coupe des clubs champions européens', communément appelé la 'Coupe d'Europe'."
+          },
+          {
+            "Question": "Dans quel pays s'est déroulée la première Coupe du Monde de la FIFA?",
+            "TrueAnswer": "Uruguay",
+            "FalseAnswer": [
+              "Brésil",
+              "Italie",
+              "Allemagne"
+            ],
+            "Explanation": "La première Coupe du Monde de la FIFA a eu lieu en Uruguay en 1930, avec la nation hôte remportant le tournoi."
+          },
+          {
+            "Question": "Quelle est la durée maximale d'un match de football standard, excluant les prolongations?",
+            "TrueAnswer": "90 minutes",
+            "FalseAnswer": [
+              "100 minutes",
+              "80 minutes",
+              "120 minutes"
+            ],
+            "Explanation": "Un match de football standard se compose de deux mi-temps, chacune durant 45 minutes, pour une durée totale de 90 minutes, hors arrêts de jeu."
+          },
+          {
+            "Question": "Qui est le meilleur buteur de l'histoire de l'équipe nationale brésilienne?",
+            "TrueAnswer": "Pelé",
+            "FalseAnswer": [
+              "Ronaldo",
+              "Neymar",
+              "Zico"
+            ],
+            "Explanation": "Pelé, largement considéré comme l'un des plus grands footballeurs de tous les temps, est le meilleur buteur de l'histoire de l'équipe nationale brésilienne."
+          },
+          {
+            "Question": "Quel club de football détient le record du nombre de titres de la Premier League anglaise?",
+            "TrueAnswer": "Manchester United",
+            "FalseAnswer": [
+              "Liverpool",
+              "Arsenal",
+              "Chelsea"
+            ],
+            "Explanation": "Manchester United a remporté le titre de la Premier League anglaise à 13 reprises, ce qui en fait le club le plus titré de l'histoire de la compétition."
+          },
+          {
+            "Question": "Qui a été le premier joueur à remporter le prix du Ballon d'or de la FIFA?",
+            "TrueAnswer": "Stanley Matthews",
+            "FalseAnswer": [
+              "Luis Suarez",
+              "Lionel Messi",
+              "Cristiano Ronaldo"
+            ],
+            "Explanation": "Stanley Matthews, un footballeur anglais, a été le premier récipiendaire du prix du Ballon d'or de la FIFA en 1956 pour ses compétences exceptionnelles et ses performances."
+          },
+          {
+            "Question": "Quel joueur détient le record du nombre de matchs disputés en Premier League anglaise?",
+            "TrueAnswer": "Gareth Barry",
+            "FalseAnswer": [
+              "Ryan Giggs",
+              "Frank Lampard",
+              "David James"
+            ],
+            "Explanation": "Gareth Barry détient le record du plus grand nombre de matchs disputés en Premier League anglaise, avec une carrière remarquable dans plusieurs clubs et des années de performances constantes."
+          },
+          {
+            "Question": "Comment s'appelle le stade qui accueille la finale de la Ligue des champions de l'UEFA?",
+            "TrueAnswer": "Stade olympique Ataturk",
+            "FalseAnswer": [
+              "Stade de Wembley",
+              "Allianz Arena",
+              "Camp Nou"
+            ],
+            "Explanation": "Le Stade olympique Ataturk à Istanbul, en Turquie, est le lieu désigné pour la finale de la Ligue des champions de l'UEFA, connu pour sa capacité et sa signification historique."
+          },
+          {
+            "Question": "Quel pays a accueilli la Coupe du Monde de la FIFA en 2014?",
+            "TrueAnswer": "Brésil",
+            "FalseAnswer": [
+              "Allemagne",
+              "Afrique du Sud",
+              "Russie"
+            ],
+            "Explanation": "Le Brésil a été le pays hôte de la Coupe du Monde de la FIFA en 2014, où le tournoi a mis en valeur la passion et la culture footballistique du pays hôte."
+          },
+          {
+            "Question": "Qui est le seul joueur à avoir marqué lors de trois tournois de la Coupe du Monde de la FIFA différents?",
+            "TrueAnswer": "Miroslav Klose",
+            "FalseAnswer": [
+              "Pelé",
+              "Diego Maradona",
+              "Cristiano Ronaldo"
+            ],
+            "Explanation": "Miroslav Klose, un prolifique attaquant allemand, a réussi l'exploit de marquer lors de trois tournois différents de la Coupe du Monde de la FIFA, démontrant sa longévité et son talent de buteur sur la grande scène."
+          },
+          {
+            "Question": "Quel pays a remporté le plus de titres du Championnat d'Europe de l'UEFA?",
+            "TrueAnswer": "Allemagne",
+            "FalseAnswer": [
+              "Espagne",
+              "France",
+              "Italie"
+            ],
+            "Explanation": "L'Allemagne a remporté le titre du Championnat d'Europe de l'UEFA à trois reprises, en 1972, 1980 et 1996, démontrant sa domination historique dans le football européen."
+          },
+          {
+            "Question": "Qui est le transfert de football le plus cher à ce jour, en 2021?",
+            "TrueAnswer": "Neymar",
+            "FalseAnswer": [
+              "Kylian Mbappe",
+              "Cristiano Ronaldo",
+              "Lionel Messi"
+            ],
+            "Explanation": "Le transfert de Neymar du FC Barcelone au Paris Saint-Germain (PSG) en 2017 a établi un record mondial à l'époque, consolidant ainsi son statut de transfert de football le plus cher."
+          },
+          {
+            "Question": "Quelle joueuse a remporté le plus de fois la Coupe du Monde féminine de la FIFA?",
+            "TrueAnswer": "Marta",
+            "FalseAnswer": [
+              "Megan Rapinoe",
+              "Alex Morgan",
+              "Carli Lloyd"
+            ],
+            "Explanation": "Marta, une légendaire joueuse de football brésilienne, a remporté la Coupe du Monde féminine de la FIFA à un record 5 reprises, faisant étalage de son impact remarquable et de son succès dans le football féminin."
+          }
+        ]
+      }
+    }
+  ]
+}

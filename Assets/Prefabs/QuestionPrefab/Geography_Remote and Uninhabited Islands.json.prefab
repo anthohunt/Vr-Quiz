@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1062909104838217896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4691295399221715509}
+  - component: {fileID: 5833910057121910959}
+  m_Layer: 0
+  m_Name: Geography_Remote and Uninhabited Islands.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4691295399221715509
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1062909104838217896}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5833910057121910959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1062909104838217896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which is the largest uninhabited island in the world?
+      TrueAnswer: Greenland
+      FalseAnswer:
+      - Iceland
+      - Madagascar
+      - Borneo
+      Explanation: Greenland is the largest uninhabited island, located between the
+        Arctic and Atlantic Oceans.
+    - Question: Which remote island is known for its giant stone statues called Moai?
+      TrueAnswer: Easter Island
+      FalseAnswer:
+      - Galapagos Islands
+      - Seychelles
+      - Maldives
+      Explanation: Easter Island is famous for its mysterious Moai statues, carved
+        by the Rapa Nui people.
+    - Question: Which uninhabited island is a US territory and used for military
+        testing?
+      TrueAnswer: Wake Island
+      FalseAnswer:
+      - Bora Bora
+      - Tahiti
+      - Fiji
+      Explanation: Wake Island is a US territory in the Pacific Ocean and serves
+        as a military testing site.
+    - Question: Which remote island is home to the world's largest population of
+        wild goats?
+      TrueAnswer: Kerguelen Islands
+      FalseAnswer:
+      - Malta
+      - Santorini
+      - Corsica
+      Explanation: The Kerguelen Islands have the largest population of wild goats
+        due to their isolation and lack of predators.
+    - Question: Which uninhabited island is a UNESCO World Heritage Site and known
+        for its unique wildlife?
+      TrueAnswer: Gough Island
+      FalseAnswer:
+      - Ibiza
+      - Hawaii
+      - Sardinia
+      Explanation: Gough Island is a UNESCO World Heritage Site and home to various
+        unique bird species.
+    - Question: Which remote island is located in the Indian Ocean and famous for
+        its giant tortoises?
+      TrueAnswer: Aldabra Atoll
+      FalseAnswer:
+      - Cuba
+      - Jamaica
+      - Puerto Rico
+      Explanation: Aldabra Atoll in the Indian Ocean is known for its giant tortoises
+        and diverse marine life.
+    - Question: Which uninhabited island is a breeding ground for millions of seabirds?
+      TrueAnswer: South Georgia Island
+      FalseAnswer:
+      - Iceland
+      - New Zealand
+      - Japan
+      Explanation: South Georgia Island is a breeding ground for millions of seabirds,
+        including penguins and albatrosses.
+    - Question: Which remote island is located in the Pacific Ocean and known for
+        its underwater volcanic activity?
+      TrueAnswer: Tonga
+      FalseAnswer:
+      - Mauritius
+      - Seychelles
+      - Maldives
+      Explanation: Tonga, located in the Pacific Ocean, is known for its underwater
+        volcanic activity and coral reefs.
+    - Question: Which uninhabited island is a nature reserve and home to a large
+        population of seals?
+      TrueAnswer: Sable Island
+      FalseAnswer:
+      - Ibiza
+      - Hawaii
+      - Sardinia
+      Explanation: Sable Island is a nature reserve and hosts a significant population
+        of seals and various bird species.
+    - Question: Which remote island is located in the Atlantic Ocean and known for
+        its rugged cliffs and puffins?
+      TrueAnswer: Faroe Islands
+      FalseAnswer:
+      - Cuba
+      - Jamaica
+      - Puerto Rico
+      Explanation: The Faroe Islands in the Atlantic Ocean are famous for their dramatic
+        cliffs and puffin colonies.
+    - Question: Which uninhabited island is a breeding ground for sea turtles and
+        located in the Caribbean?
+      TrueAnswer: Buck Island
+      FalseAnswer:
+      - Malta
+      - Santorini
+      - Corsica
+      Explanation: Buck Island in the Caribbean is a breeding ground for sea turtles
+        and offers vibrant coral reefs.
+    - Question: Which remote island is known for its pink sand beaches and crystal-clear
+        waters?
+      TrueAnswer: Harbour Island
+      FalseAnswer:
+      - Bora Bora
+      - Tahiti
+      - Fiji
+      Explanation: Harbour Island is famous for its stunning pink sand beaches and
+        pristine turquoise waters.
+    - Question: Which uninhabited island is located in the Arctic Ocean and known
+        for its polar bear population?
+      TrueAnswer: Svalbard
+      FalseAnswer:
+      - Iceland
+      - Madagascar
+      - Borneo
+      Explanation: Svalbard, in the Arctic Ocean, is home to a significant population
+        of polar bears and other Arctic wildlife.
+    - Question: Which remote island is a British Overseas Territory and known for
+        its volcanic landscapes?
+      TrueAnswer: Montserrat
+      FalseAnswer:
+      - Galapagos Islands
+      - Seychelles
+      - Maldives
+      Explanation: Montserrat, a British Overseas Territory, is famous for its volcanic
+        landscapes and exclusion zone.
+    - Question: Which uninhabited island is located in the Mediterranean Sea and
+        known for its ancient ruins?
+      TrueAnswer: Delos
+      FalseAnswer:
+      - Malta
+      - Santorini
+      - Corsica
+      Explanation: Delos, in the Mediterranean Sea, is an archaeological site with
+        well-preserved ancient ruins.
+    - Question: Which remote island is part of the Andaman and Nicobar Islands and
+        known for its indigenous tribes?
+      TrueAnswer: North Sentinel Island
+      FalseAnswer:
+      - Bora Bora
+      - Tahiti
+      - Fiji
+      Explanation: North Sentinel Island is part of the Andaman and Nicobar Islands
+        and inhabited by indigenous tribes.
+    - Question: Which uninhabited island is located in the Pacific Ocean and known
+        for its vibrant coral reefs?
+      TrueAnswer: Palmyra Atoll
+      FalseAnswer:
+      - Iceland
+      - Madagascar
+      - Borneo
+      Explanation: Palmyra Atoll in the Pacific Ocean is renowned for its diverse
+        marine life and vibrant coral reefs.
+    - Question: Which remote island is a French Overseas Territory and known for
+        its active volcano?
+      TrueAnswer: Reunion Island
+      FalseAnswer:
+      - Galapagos Islands
+      - Seychelles
+      - Maldives
+      Explanation: Reunion Island, a French Overseas Territory, is famous for its
+        active volcano, Piton de la Fournaise.
+    - Question: Which uninhabited island is located in the Caribbean and known for
+        its shipwrecks?
+      TrueAnswer: Bonaire
+      FalseAnswer:
+      - Malta
+      - Santorini
+      - Corsica
+      Explanation: Bonaire in the Caribbean is renowned for its excellent diving
+        spots and numerous shipwrecks.
+    - Question: Which remote island is part of the Solomon Islands and known for
+        its World War II history?
+      TrueAnswer: Guadalcanal
+      FalseAnswer:
+      - Mauritius
+      - Seychelles
+      - Maldives
+      Explanation: Guadalcanal, part of the Solomon Islands, played a significant
+        role in World War II and has historical sites.

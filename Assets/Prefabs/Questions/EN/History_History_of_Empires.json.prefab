@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4754763363423134000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5398988768603286667}
+  - component: {fileID: 3581401980927245319}
+  m_Layer: 0
+  m_Name: History_History_of_Empires.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5398988768603286667
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4754763363423134000}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3581401980927245319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4754763363423134000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which empire was known for its extensive road network called the
+        Royal Road?
+      TrueAnswer: Persian
+      FalseAnswer:
+      - Roman
+      - Mongol
+      - Mughal
+      Explanation: The Persian Empire, under King Darius I, constructed the Royal
+        Road, a 1,600-mile roadway connecting Sardis in Asia Minor to Susa in Persia,
+        facilitating communication and trade.
+    - Question: Who was the founder of the Mauryan Empire in ancient India?
+      TrueAnswer: Chandragupta Maurya
+      FalseAnswer:
+      - Asoka the Great
+      - Bindusara
+      - Buddhaghosha
+      Explanation: Chandragupta Maurya, with the help of his advisor Chanakya, established
+        the Mauryan Empire in 322 BCE, ruling over much of the Indian subcontinent.
+    - Question: Which empire's capital city was the renowned center of learning,
+        Alexandria?
+      TrueAnswer: Ptolemaic
+      FalseAnswer:
+      - Byzantine
+      - Ottoman
+      - Sasanian
+      Explanation: The Ptolemaic Empire, based in Egypt, founded the city of Alexandria,
+        which became a major hub for scholarly activities and housed the famous Library
+        of Alexandria.
+    - Question: Which empire expanded its territory through the famous military campaigns
+        of Alexander the Great?
+      TrueAnswer: Macedonian
+      FalseAnswer:
+      - Achaemenid
+      - Seleucid
+      - Parthian
+      Explanation: Under the leadership of Alexander the Great, the Macedonian Empire
+        expanded across Asia, Africa, and Europe, leaving a lasting Hellenistic influence
+        on the conquered regions.
+    - Question: Which empire was known for its code of laws, including the famous
+        'Hammurabi's Code'?
+      TrueAnswer: Babylonian
+      FalseAnswer:
+      - Assyrian
+      - Hittite
+      - Sumerian
+      Explanation: The Babylonian Empire, under the reign of Hammurabi, established
+        a comprehensive legal code known as 'Hammurabi's Code,' which influenced
+        legal systems for centuries to come.
+    - Question: Which empire constructed iconic structures like the Pyramids of Giza
+        and the Sphinx?
+      TrueAnswer: Ancient Egyptian
+      FalseAnswer:
+      - Incan
+      - Ottoman
+      - Aztec
+      Explanation: The Ancient Egyptian Empire built monumental structures like the
+        Pyramids of Giza and the Great Sphinx, showcasing their advanced architectural
+        and engineering prowess.
+    - Question: Which empire was characterized by its use of cavalry and the creation
+        of the Parthian Shot tactic?
+      TrueAnswer: Parthian
+      FalseAnswer:
+      - Sassanian
+      - Mughal
+      - Byzantine
+      Explanation: The Parthian Empire excelled in cavalry warfare and developed
+        the Parthian Shot, a formidable tactic involving feigned retreats and ambushes,
+        utilized to devastating effect against opponents.
+    - Question: Which empire, founded by the legendary Romulus and Remus, became
+        a dominant force in the Mediterranean?
+      TrueAnswer: Roman
+      FalseAnswer:
+      - Carthaginian
+      - Byzantine
+      - Etruscan
+      Explanation: The Roman Empire, tracing its origins to the mythic founders Romulus
+        and Remus, emerged as a formidable power, shaping the cultural, political,
+        and legal landscape of Western civilization.
+    - Question: Which empire's ruler, Asoka the Great, promoted the spread of Buddhism
+        throughout the Indian subcontinent?
+      TrueAnswer: Mauryan
+      FalseAnswer:
+      - Gupta
+      - Harsha
+      - Pala
+      Explanation: Asoka the Great, the renowned Mauryan Emperor, embraced Buddhism
+        following the brutal Kalinga War and propagated its teachings, leading to
+        the widespread adoption of Buddhism in his empire and beyond.
+    - Question: Which empire, led by Suleiman the Magnificent, controlled vast territories
+        across Europe, Asia, and Africa?
+      TrueAnswer: Ottoman
+      FalseAnswer:
+      - Safavid
+      - Mughal
+      - Seljuk
+      Explanation: The Ottoman Empire, under the rule of Suleiman the Magnificent,
+        reached its zenith, exerting influence over a diverse expanse that encompassed
+        much of Southeast Europe, Western Asia, and North Africa.
+    - Question: Which empire's defeat marked the end of the Hellenistic period and
+        the rise of the Roman Empire?
+      TrueAnswer: Ptolemaic
+      FalseAnswer:
+      - Seleucid
+      - Macedonian
+      - Byzantine
+      Explanation: The fall of the Ptolemaic Empire following the Battle of Actium
+        marked the demise of the Hellenistic era and allowed the Roman Empire to
+        ascend to prominence in the Mediterranean region.
+    - Question: Which empire was renowned for its vast cavalry forces and its defeat
+        of the Roman legions at the Battle of Carrhae?
+      TrueAnswer: Parthian
+      FalseAnswer:
+      - Sassanian
+      - Seljuk
+      - Hepthalite
+      Explanation: The Parthian Empire's mastery of cavalry warfare, exemplified
+        by their victory at the Battle of Carrhae, showcased their military prowess
+        and strategic acumen.
+    - Question: Which empire's ruler, Ashurbanipal, amassed a comprehensive library
+        of cuneiform tablets in Nineveh?
+      TrueAnswer: Assyrian
+      FalseAnswer:
+      - Babylonian
+      - Hittite
+      - Phoenician
+      Explanation: Ashurbanipal of the Assyrian Empire assembled a vast collection
+        of cuneiform tablets in Nineveh, documenting a wide array of knowledge and
+        literature from ancient Mesopotamia.
+    - Question: Which empire's ruler, Shah Jahan, commissioned the construction of
+        the iconic Taj Mahal?
+      TrueAnswer: Mughal
+      FalseAnswer:
+      - Maratha
+      - Vijayanagara
+      - Delhi Sultanate
+      Explanation: Shah Jahan, a Mughal Emperor, commissioned the construction of
+        the Taj Mahal in memory of his beloved wife Mumtaz Mahal, exemplifying the
+        empire's architectural and artistic legacy.
+    - Question: Which empire's military campaigns were led by the formidable general
+        Hannibal during the Punic Wars?
+      TrueAnswer: Carthaginian
+      FalseAnswer:
+      - Roman
+      - Seleucid
+      - Gaul
+      Explanation: The Carthaginian Empire, under the strategic genius Hannibal,
+        waged the Punic Wars against Rome and posed a significant threat to the Roman
+        Republic through his famous crossing of the Alps.
+    - Question: Which empire, known for its ingenious siege tactics and weaponry,
+        successfully withstood the Roman Empire's assaults on Masada?
+      TrueAnswer: Jewish
+      FalseAnswer:
+      - Spartan
+      - Byzantine
+      - Nabatean
+      Explanation: The Jewish rebels, holding the fortress of Masada, demonstrated
+        remarkable resilience against the Roman forces, utilizing innovative defense
+        strategies before ultimately falling to the Roman siege.
+    - Question: Which empire's ruler, Harsha, fostered a renaissance of Indian culture
+        and learning during his reign?
+      TrueAnswer: Harsha
+      FalseAnswer:
+      - Gupta
+      - Pala
+      - Chola
+      Explanation: Emperor Harsha of the Harsha Empire patronized art, literature,
+        and scholarly pursuits, nurturing a cultural revival and fostering intellectual
+        achievements during his rule in the Indian subcontinent.
+    - Question: Which empire was renowned for its military might and the establishment
+        of the Aksumite Kingdom in East Africa?
+      TrueAnswer: Axumite
+      FalseAnswer:
+      - Sabaean
+      - Nubian
+      - Himyarite
+      Explanation: The Axumite Empire, centered in modern-day Ethiopia and Eritrea,
+        boasted formidable military prowess and established the Aksumite Kingdom,
+        which exerted influence across East Africa and the Red Sea region.
+    - Question: Which empire's ruler, Ashoka, embraced Buddhism and promoted nonviolence
+        and religious tolerance?
+      TrueAnswer: Mauryan
+      FalseAnswer:
+      - Gupta
+      - Kushan
+      - Pala
+      Explanation: Emperor Ashoka of the Mauryan Empire renounced violence after
+        the Kalinga War and embraced Buddhism, advocating moral principles of peace,
+        compassion, and religious harmony.

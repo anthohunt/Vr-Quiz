@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7749458696351793288
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4496369899884123283}
+  - component: {fileID: 5925546351637841868}
+  m_Layer: 0
+  m_Name: Cartoons_The Art of Voice Acting.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4496369899884123283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749458696351793288}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5925546351637841868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749458696351793288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the voice actor for SpongeBob SquarePants?
+      TrueAnswer: Tom Kenny
+      FalseAnswer:
+      - Bill Fagerbakke
+      - Rodger Bumpass
+      - Clancy Brown
+      Explanation: Tom Kenny is the voice actor for the iconic character SpongeBob
+        SquarePants.
+    - Question: Which cartoon character is voiced by Tara Strong?
+      TrueAnswer: Bubbles
+      FalseAnswer:
+      - Dexter
+      - Timmy Turner
+      - Raven
+      Explanation: Tara Strong provides the voice for the character Bubbles in the
+        cartoon 'The Powerpuff Girls'.
+    - Question: Who voices Homer Simpson in 'The Simpsons'?
+      TrueAnswer: Dan Castellaneta
+      FalseAnswer:
+      - Nancy Cartwright
+      - Hank Azaria
+      - Yeardley Smith
+      Explanation: Dan Castellaneta is the voice actor behind the lovable character
+        Homer Simpson.
+    - Question: 'Which actor voices Batman in ''Batman: The Animated Series''?'
+      TrueAnswer: Kevin Conroy
+      FalseAnswer:
+      - Mark Hamill
+      - Tara Strong
+      - Will Friedle
+      Explanation: 'Kevin Conroy is known for his iconic portrayal of Batman in ''Batman:
+        The Animated Series''.'
+    - Question: Who provides the voice for Bugs Bunny?
+      TrueAnswer: Mel Blanc
+      FalseAnswer:
+      - Billy West
+      - Jim Cummings
+      - Tom Kenny
+      Explanation: Mel Blanc was the original voice actor for the beloved character
+        Bugs Bunny.
+    - Question: Which actor voices Peter Griffin in 'Family Guy'?
+      TrueAnswer: Seth MacFarlane
+      FalseAnswer:
+      - Mike Henry
+      - Alex Borstein
+      - Mila Kunis
+      Explanation: Seth MacFarlane not only created 'Family Guy' but also voices
+        the character Peter Griffin.
+    - Question: Who is the voice actor for Scooby-Doo?
+      TrueAnswer: Frank Welker
+      FalseAnswer:
+      - Casey Kasem
+      - Matthew Lillard
+      - Don Messick
+      Explanation: Frank Welker has been the voice of Scooby-Doo since the character's
+        creation.
+    - Question: Which actor voices Bender in 'Futurama'?
+      TrueAnswer: John DiMaggio
+      FalseAnswer:
+      - Billy West
+      - Katey Sagal
+      - Phil LaMarr
+      Explanation: John DiMaggio provides the voice for the lovable robot Bender
+        in 'Futurama'.
+    - Question: Who voices Marge Simpson in 'The Simpsons'?
+      TrueAnswer: Julie Kavner
+      FalseAnswer:
+      - Yeardley Smith
+      - Dan Castellaneta
+      - Nancy Cartwright
+      Explanation: Julie Kavner is the voice actor behind the character Marge Simpson.
+    - Question: Which actor voices Stewie Griffin in 'Family Guy'?
+      TrueAnswer: Seth MacFarlane
+      FalseAnswer:
+      - Mike Henry
+      - Alex Borstein
+      - Mila Kunis
+      Explanation: Seth MacFarlane not only created 'Family Guy' but also voices
+        the character Stewie Griffin.
+    - Question: Who provides the voice for Mickey Mouse?
+      TrueAnswer: Walt Disney
+      FalseAnswer:
+      - Wayne Allwine
+      - Bret Iwan
+      - Tony Anselmo
+      Explanation: Walt Disney was the original voice actor for the iconic character
+        Mickey Mouse.
+    - Question: Which actor voices Bart Simpson in 'The Simpsons'?
+      TrueAnswer: Nancy Cartwright
+      FalseAnswer:
+      - Dan Castellaneta
+      - Hank Azaria
+      - Yeardley Smith
+      Explanation: Nancy Cartwright is the voice actor behind the mischievous character
+        Bart Simpson.
+    - Question: Who voices Optimus Prime in 'Transformers'?
+      TrueAnswer: Peter Cullen
+      FalseAnswer:
+      - Frank Welker
+      - Steve Blum
+      - David Kaye
+      Explanation: Peter Cullen has been the voice of Optimus Prime since the original
+        'Transformers' series.
+    - Question: Which actor voices Lisa Simpson in 'The Simpsons'?
+      TrueAnswer: Yeardley Smith
+      FalseAnswer:
+      - Dan Castellaneta
+      - Hank Azaria
+      - Nancy Cartwright
+      Explanation: Yeardley Smith is the voice actor behind the intelligent character
+        Lisa Simpson.
+    - Question: Who provides the voice for Daffy Duck?
+      TrueAnswer: Mel Blanc
+      FalseAnswer:
+      - Billy West
+      - Jim Cummings
+      - Tom Kenny
+      Explanation: Mel Blanc was the original voice actor for the iconic character
+        Daffy Duck.
+    - Question: Which actor voices Bender in 'Futurama'?
+      TrueAnswer: John DiMaggio
+      FalseAnswer:
+      - Billy West
+      - Katey Sagal
+      - Phil LaMarr
+      Explanation: John DiMaggio provides the voice for the lovable robot Bender
+        in 'Futurama'.
+    - Question: Who voices Woody in the 'Toy Story' movies?
+      TrueAnswer: Tom Hanks
+      FalseAnswer:
+      - Tim Allen
+      - Don Rickles
+      - Jim Varney
+      Explanation: Tom Hanks lends his voice to the character Woody in the 'Toy Story'
+        movies.
+    - Question: Which actor voices Meg Griffin in 'Family Guy'?
+      TrueAnswer: Mila Kunis
+      FalseAnswer:
+      - Mike Henry
+      - Alex Borstein
+      - Seth MacFarlane
+      Explanation: Mila Kunis provides the voice for the character Meg Griffin in
+        'Family Guy'.
+    - Question: Who is the voice actor for Bugs Bunny?
+      TrueAnswer: Mel Blanc
+      FalseAnswer:
+      - Billy West
+      - Jim Cummings
+      - Tom Kenny
+      Explanation: Mel Blanc was the original voice actor for the beloved character
+        Bugs Bunny.
+    - Question: Which actor voices Bender in 'Futurama'?
+      TrueAnswer: John DiMaggio
+      FalseAnswer:
+      - Billy West
+      - Katey Sagal
+      - Phil LaMarr
+      Explanation: John DiMaggio provides the voice for the lovable robot Bender
+        in 'Futurama'.

@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3875026455672672322
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8757760112475542756}
+  - component: {fileID: 8580844387338029153}
+  m_Layer: 0
+  m_Name: Geography_Hydrology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8757760112475542756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3875026455672672322}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8580844387338029153
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3875026455672672322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most abundant liquid on Earth's surface?
+      TrueAnswer: Water
+      FalseAnswer:
+      - Carbon Dioxide
+      - Sulfuric Acid
+      - Methane
+      Explanation: Water covers about 71% of the Earth's surface, existing primarily
+        in the oceans and other large water bodies.
+    - Question: Which of the following is a type of glacier that forms in high mountain
+        valleys?
+      TrueAnswer: Valley Glacier
+      FalseAnswer:
+      - Iceberg
+      - Cirque Glacier
+      - Ice Sheet
+      Explanation: Valley glaciers form when snow and ice accumulate in high mountain
+        valleys, slowly moving downhill under gravity.
+    - Question: In hydrology, what is the term for the total amount of water vapor
+        present in the air?
+      TrueAnswer: Humidity
+      FalseAnswer:
+      - Precipitation
+      - Dew Point
+      - Cloud Cover
+      Explanation: Humidity refers to the amount of water vapor present in the air,
+        influencing weather patterns and atmospheric conditions.
+    - Question: What is the main source of water for rivers and streams?
+      TrueAnswer: Precipitation
+      FalseAnswer:
+      - Groundwater
+      - Desalination
+      - Spring Water
+      Explanation: Precipitation, including rain, snow, and sleet, provides the primary
+        input of water into river and stream systems.
+    - Question: What is the primary force shaping the course of rivers and streams?
+      TrueAnswer: Erosion
+      FalseAnswer:
+      - Deposition
+      - Evaporation
+      - Condensation
+      Explanation: Erosion, through the action of flowing water, gradually reshapes
+        the terrain and forms river valleys.
+    - Question: What type of large, slow-moving mass of ice flows along with the
+        underlying land?
+      TrueAnswer: Ice Sheet
+      FalseAnswer:
+      - Iceberg
+      - Glacier
+      - Ice Cap
+      Explanation: Ice sheets cover large areas and are not confined by topographic
+        features, unlike glaciers and ice caps.
+    - Question: Which of the following is used to measure the depth and shape of
+        the seabed?
+      TrueAnswer: Bathymetry
+      FalseAnswer:
+      - Topography
+      - Hygrometer
+      - Anemometer
+      Explanation: Bathymetry involves using sonar and other techniques to map and
+        study the ocean floor's topography and features.
+    - Question: What process involves the refreezing of snow or ice into more compact,
+        granular ice?
+      TrueAnswer: Firnification
+      FalseAnswer:
+      - Freezing Rain
+      - Sleet Formation
+      - Ice Crystallization
+      Explanation: Firnification is a key stage in the transformation of snow into
+        glacial ice, altering its physical properties over time.
+    - Question: What is the term for the boundary between two adjoining water bodies
+        with different densities?
+      TrueAnswer: Halocline
+      FalseAnswer:
+      - Thermocline
+      - Pycnocline
+      - Isopycnal
+      Explanation: A halocline represents a distinct transition zone where the density
+        of seawater changes rapidly with depth due to variations in salinity.
+    - Question: What type of wetland contains a significant amount of peat deposits?
+      TrueAnswer: Bog
+      FalseAnswer:
+      - Swamp
+      - Marsh
+      - Fen
+      Explanation: Bogs are characterized by acidic, nutrient-poor conditions that
+        favor the accumulation of peat, formed from partially decayed plant matter.
+    - Question: Which term describes the process of water seeping from the ground
+        and re-entering rivers or lakes?
+      TrueAnswer: Groundwater Discharge
+      FalseAnswer:
+      - Evaporation
+      - Transpiration
+      - Percolation
+      Explanation: Groundwater discharge replenishes surface water bodies, contributing
+        to streamflow and maintaining ecological balance.
+    - Question: What physical property of water enables it to absorb and store large
+        amounts of heat?
+      TrueAnswer: High Specific Heat
+      FalseAnswer:
+      - Low Viscosity
+      - Minimal Conductivity
+      - Low Surface Tension
+      Explanation: Water's high specific heat capacity allows it to moderate temperature
+        changes in aquatic environments, influencing climate patterns.
+    - Question: What type of landform is created by the erosion of limestone, dolomite,
+        or gypsum?
+      TrueAnswer: Karst Topography
+      FalseAnswer:
+      - Mesa
+      - Plateau
+      - Butte
+      Explanation: Karst landscapes develop as soluble rocks dissolve over time,
+        forming distinctive features such as sinkholes, caves, and underground rivers.
+    - Question: Which of the following is a large-scale oceanic circulation pattern
+        driven by winds and temperature differences?
+      TrueAnswer: Gyre
+      FalseAnswer:
+      - Thermohaline Circulation
+      - "El Ni\xF1o"
+      - "La Ni\xF1a"
+      Explanation: Gyres are significant circular currents that play a crucial role
+        in distributing heat, nutrients, and marine life across the oceans.
+    - Question: What factor contributes to the development of distinct rainfall patterns
+        on different sides of mountain ranges?
+      TrueAnswer: Orographic Effect
+      FalseAnswer:
+      - Coriolis Force
+      - Foehn Wind
+      - Convergence Zone
+      Explanation: The orographic effect results in moist air rising over mountains,
+        cooling, and releasing precipitation on the windward side, leading to a rain
+        shadow on the leeward side.
+    - Question: What term describes the area drained by a single river system?
+      TrueAnswer: Watershed
+      FalseAnswer:
+      - Drainage Basin
+      - Aquifer
+      - Estuary
+      Explanation: A watershed represents a distinct geographical area where all
+        surface water and runoff flow into the same river, lake, or ocean outlet.
+    - Question: What process involves the transfer of water from plants to the atmosphere
+        through small openings in leaves?
+      TrueAnswer: Transpiration
+      FalseAnswer:
+      - Photosynthesis
+      - Respiration
+      - Capillarity
+      Explanation: Transpiration plays a vital role in the water cycle, regulating
+        plant temperature and maintaining moisture balance in ecosystems.
+    - Question: What is the term for the level below the Earth's surface where all
+        voids in the rock are filled with water?
+      TrueAnswer: Saturated Zone
+      FalseAnswer:
+      - Unconfined Aquifer
+      - Water Table
+      - Perched Water Table
+      Explanation: The saturated zone indicates the depth at which groundwater fills
+        all available spaces, playing a crucial role in aquifer dynamics and water
+        supply.
+    - Question: Which of the following is a measure of the average kinetic energy
+        of water molecules in a substance?
+      TrueAnswer: Temperature
+      FalseAnswer:
+      - Density
+      - Viscosity
+      - Salinity
+      Explanation: Temperature influences water's physical state and ecological processes,
+        affecting aquatic habitats and thermal stratification in water bodies.
+    - Question: What glacier type forms in bowl-shaped mountain hollows and cirques?
+      TrueAnswer: Cirque Glacier
+      FalseAnswer:
+      - Moulins Glacier
+      - Tidewater Glacier
+      - Piedmont Glacier
+      Explanation: Cirque glaciers originate in steep, bowl-shaped hollows on the
+        sides of mountains, gradually shaping the landscape through glacial erosion.

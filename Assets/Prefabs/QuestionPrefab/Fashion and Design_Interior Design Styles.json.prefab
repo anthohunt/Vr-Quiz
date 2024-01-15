@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8595254575584069519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9129508410479105229}
+  - component: {fileID: 4657640798835959045}
+  m_Layer: 0
+  m_Name: Fashion and Design_Interior Design Styles.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9129508410479105229
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8595254575584069519}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4657640798835959045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8595254575584069519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular color in fashion?
+      TrueAnswer: Black
+      FalseAnswer:
+      - Red
+      - Yellow
+      - Blue
+      Explanation: Black is considered a timeless and versatile color that is widely
+        used in fashion.
+    - Question: Which designer is known for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Christian Dior
+      - Giorgio Armani
+      - Ralph Lauren
+      Explanation: Coco Chanel popularized the little black dress, a classic and
+        essential piece in women's fashion.
+    - Question: What is the purpose of a fashion sketch?
+      TrueAnswer: To visualize design ideas
+      FalseAnswer:
+      - To measure body proportions
+      - To create patterns
+      - To sew garments
+      Explanation: Fashion sketches are used to visually represent design ideas before
+        creating the actual garments.
+    - Question: What is haute couture?
+      TrueAnswer: High-end custom-made fashion
+      FalseAnswer:
+      - Mass-produced clothing
+      - Vintage fashion
+      - Streetwear
+      Explanation: Haute couture refers to high-end fashion that is custom-made and
+        tailored specifically for individual clients.
+    - Question: What is the purpose of a mood board in fashion design?
+      TrueAnswer: To gather inspiration and visualize concepts
+      FalseAnswer:
+      - To create sewing patterns
+      - To showcase finished garments
+      - To analyze market trends
+      Explanation: Mood boards are used by fashion designers to collect visual references
+        and convey the overall concept and mood of a collection.
+    - Question: Which fashion designer is known for the red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for his signature red-soled shoes,
+        which have become a symbol of luxury and high fashion.
+    - Question: What is the purpose of a fashion runway show?
+      TrueAnswer: To showcase new collections to buyers and the press
+      FalseAnswer:
+      - To sell clothing directly to customers
+      - To promote accessories only
+      - To host fashion competitions
+      Explanation: Runway shows are organized by fashion designers to present their
+        latest collections to potential buyers and the media.
+    - Question: What is the main function of a fashion stylist?
+      TrueAnswer: To create visually appealing outfits
+      FalseAnswer:
+      - To design clothing patterns
+      - To manage fashion events
+      - To analyze market trends
+      Explanation: Fashion stylists are responsible for creating cohesive and visually
+        appealing outfits for individuals or fashion shoots.
+    - Question: What is the purpose of a fashion magazine?
+      TrueAnswer: To showcase fashion trends and provide style inspiration
+      FalseAnswer:
+      - To sell clothing directly to customers
+      - To promote beauty products only
+      - To feature celebrity gossip
+      Explanation: Fashion magazines serve as a platform to showcase current fashion
+        trends, provide style inspiration, and feature industry-related content.
+    - Question: What is the purpose of a fashion internship?
+      TrueAnswer: To gain practical experience in the fashion industry
+      FalseAnswer:
+      - To earn a fashion degree
+      - To start a fashion business
+      - To become a fashion model
+      Explanation: Fashion internships offer individuals the opportunity to gain
+        hands-on experience and learn about various aspects of the fashion industry.
+    - Question: What is the purpose of a fashion trend forecast?
+      TrueAnswer: To predict upcoming fashion trends
+      FalseAnswer:
+      - To analyze past fashion trends
+      - To create sewing patterns
+      - To promote sustainable fashion
+      Explanation: Fashion trend forecasts are used to predict upcoming trends, helping
+        designers and retailers make informed decisions about their collections.
+    - Question: What is the purpose of a fashion showroom?
+      TrueAnswer: To display and promote fashion collections to buyers
+      FalseAnswer:
+      - To sell clothing directly to customers
+      - To host fashion competitions
+      - To provide fashion education
+      Explanation: Fashion showrooms are spaces where designers display their collections
+        to potential buyers, allowing them to view and place orders.
+    - Question: What is the purpose of a fashion portfolio?
+      TrueAnswer: To showcase a fashion designer's work and skills
+      FalseAnswer:
+      - To measure body proportions
+      - To create sewing patterns
+      - To analyze market trends
+      Explanation: A fashion portfolio is a collection of a designer's work, including
+        sketches, illustrations, and photographs, used to showcase their skills and
+        style.
+    - Question: What is the purpose of a fashion brand logo?
+      TrueAnswer: To create brand recognition and identity
+      FalseAnswer:
+      - To showcase fashion trends
+      - To sell clothing directly to customers
+      - To promote beauty products only
+      Explanation: A fashion brand logo is a visual symbol that represents a brand,
+        creating recognition and identity among consumers.
+    - Question: What is the purpose of a fashion trade show?
+      TrueAnswer: To showcase fashion brands to buyers and retailers
+      FalseAnswer:
+      - To sell clothing directly to customers
+      - To promote beauty products only
+      - To host fashion competitions
+      Explanation: Fashion trade shows provide a platform for fashion brands to showcase
+        their collections to potential buyers and retailers.
+    - Question: What is the purpose of a fashion buyer?
+      TrueAnswer: To select and purchase clothing for a store
+      FalseAnswer:
+      - To design clothing patterns
+      - To manage fashion events
+      - To analyze market trends
+      Explanation: Fashion buyers are responsible for selecting and purchasing clothing
+        and accessories for retail stores or online platforms.
+    - Question: What is the purpose of a fashion trendsetter?
+      TrueAnswer: To influence and set new fashion trends
+      FalseAnswer:
+      - To analyze past fashion trends
+      - To create sewing patterns
+      - To promote sustainable fashion
+      Explanation: Fashion trendsetters are individuals who have a significant influence
+        on the fashion industry and are known for setting new trends.
+    - Question: What is the purpose of a fashion consultant?
+      TrueAnswer: To provide fashion advice and guidance
+      FalseAnswer:
+      - To earn a fashion degree
+      - To start a fashion business
+      - To become a fashion model
+      Explanation: Fashion consultants offer advice and guidance to individuals or
+        businesses on various fashion-related matters, such as personal style or
+        brand image.
+    - Question: What is the purpose of a fashion blogger?
+      TrueAnswer: To share fashion-related content and opinions online
+      FalseAnswer:
+      - To sell clothing directly to customers
+      - To promote beauty products only
+      - To feature celebrity gossip
+      Explanation: Fashion bloggers create online content, such as blog posts or
+        social media posts, to share their fashion-related opinions, trends, and
+        style inspiration.
+    - Question: What is the purpose of a fashion event?
+      TrueAnswer: To showcase fashion collections or celebrate fashion industry achievements
+      FalseAnswer:
+      - To sell clothing directly to customers
+      - To promote beauty products only
+      - To host fashion competitions
+      Explanation: Fashion events are organized to showcase fashion collections,
+        promote brands, or celebrate achievements within the fashion industry.

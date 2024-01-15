@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7618069088474512801
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4935651595732573743}
+  - component: {fileID: 5559385981022818600}
+  m_Layer: 0
+  m_Name: Literature_Children's Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4935651595732573743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7618069088474512801}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5559385981022818600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7618069088474512801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of 'Harry Potter and the Philosopher's Stone'?
+      TrueAnswer: J.K. Rowling
+      FalseAnswer:
+      - Roald Dahl
+      - C.S. Lewis
+      - Dr. Seuss
+      Explanation: J.K. Rowling is the author of the popular 'Harry Potter' series,
+        starting with 'Philosopher's Stone'.
+    - Question: What is the name of the lion in 'The Lion, the Witch and the Wardrobe'?
+      TrueAnswer: Aslan
+      FalseAnswer:
+      - Simba
+      - Mufasa
+      - Nala
+      Explanation: Aslan is the majestic lion and central character in C.S. Lewis'
+        'The Lion, the Witch and the Wardrobe'.
+    - Question: Which character is known for saying 'I do not like green eggs and
+        ham'?
+      TrueAnswer: Sam-I-Am
+      FalseAnswer:
+      - The Cat in the Hat
+      - Horton
+      - Thing One
+      Explanation: Sam-I-Am is the persistent character who tries to convince others
+        to try green eggs and ham in Dr. Seuss' book.
+    - Question: What is the name of the boy who never grows up in 'Peter Pan'?
+      TrueAnswer: Peter Pan
+      FalseAnswer:
+      - Wendy Darling
+      - Captain Hook
+      - Tinker Bell
+      Explanation: Peter Pan is the mischievous boy who never grows up and leads
+        the Lost Boys in J.M. Barrie's 'Peter Pan'.
+    - Question: Which book features a rabbit named Peter and his adventures in Mr.
+        McGregor's garden?
+      TrueAnswer: The Tale of Peter Rabbit
+      FalseAnswer:
+      - Winnie-the-Pooh
+      - Charlotte's Web
+      - Alice's Adventures in Wonderland
+      Explanation: The Tale of Peter Rabbit is a classic children's book written
+        by Beatrix Potter.
+    - Question: Who is the author of 'Charlie and the Chocolate Factory'?
+      TrueAnswer: Roald Dahl
+      FalseAnswer:
+      - J.K. Rowling
+      - Dr. Seuss
+      - C.S. Lewis
+      Explanation: Roald Dahl is the author of 'Charlie and the Chocolate Factory',
+        a beloved children's book.
+    - Question: What is the name of the young girl who falls down a rabbit hole in
+        'Alice's Adventures in Wonderland'?
+      TrueAnswer: Alice
+      FalseAnswer:
+      - Dorothy
+      - Wendy Darling
+      - Matilda
+      Explanation: Alice is the curious protagonist who enters a whimsical world
+        in Lewis Carroll's 'Alice's Adventures in Wonderland'.
+    - Question: Which book tells the story of a pig named Wilbur and his friendship
+        with a spider named Charlotte?
+      TrueAnswer: Charlotte's Web
+      FalseAnswer:
+      - The Lion, the Witch and the Wardrobe
+      - The Secret Garden
+      - The Giving Tree
+      Explanation: Charlotte's Web, written by E.B. White, is a heartwarming tale
+        of friendship and loyalty.
+    - Question: Who is the author of 'The Cat in the Hat'?
+      TrueAnswer: Dr. Seuss
+      FalseAnswer:
+      - Roald Dahl
+      - J.K. Rowling
+      - C.S. Lewis
+      Explanation: Dr. Seuss, also known as Theodor Geisel, wrote 'The Cat in the
+        Hat' and many other beloved children's books.
+    - Question: What is the name of the young wizard in 'Harry Potter and the Chamber
+        of Secrets'?
+      TrueAnswer: Harry Potter
+      FalseAnswer:
+      - Ron Weasley
+      - Hermione Granger
+      - Albus Dumbledore
+      Explanation: Harry Potter is the main character and young wizard in J.K. Rowling's
+        'Harry Potter' series.
+    - Question: Which book features a young girl named Matilda with extraordinary
+        intelligence and telekinetic powers?
+      TrueAnswer: Matilda
+      FalseAnswer:
+      - Alice's Adventures in Wonderland
+      - The Secret Garden
+      - The Giving Tree
+      Explanation: Roald Dahl's 'Matilda' tells the story of a gifted girl who overcomes
+        adversity with her intelligence.
+    - Question: What is the name of the boy who befriends a giant in 'The BFG'?
+      TrueAnswer: Sophie
+      FalseAnswer:
+      - Charlie
+      - James
+      - George
+      Explanation: Sophie is the young girl who befriends a Big Friendly Giant in
+        Roald Dahl's 'The BFG'.
+    - Question: Who is the author of 'The Secret Garden'?
+      TrueAnswer: Frances Hodgson Burnett
+      FalseAnswer:
+      - Beatrix Potter
+      - E.B. White
+      - Lewis Carroll
+      Explanation: Frances Hodgson Burnett wrote 'The Secret Garden', a classic children's
+        novel about a hidden garden.
+    - Question: What is the name of the boy who enters a magical land through a wardrobe
+        in 'The Chronicles of Narnia'?
+      TrueAnswer: Lucy
+      FalseAnswer:
+      - Edmund
+      - Peter
+      - Susan
+      Explanation: Lucy is the first of the Pevensie children to discover the magical
+        land of Narnia in C.S. Lewis' series.
+    - Question: Which book features a young girl named Dorothy and her adventures
+        in the Land of Oz?
+      TrueAnswer: The Wonderful Wizard of Oz
+      FalseAnswer:
+      - Peter Pan
+      - Alice's Adventures in Wonderland
+      - Charlotte's Web
+      Explanation: L. Frank Baum's 'The Wonderful Wizard of Oz' follows Dorothy's
+        journey in the magical Land of Oz.
+    - Question: Who is the author of 'Green Eggs and Ham'?
+      TrueAnswer: Dr. Seuss
+      FalseAnswer:
+      - Roald Dahl
+      - J.K. Rowling
+      - C.S. Lewis
+      Explanation: Dr. Seuss wrote 'Green Eggs and Ham', a popular children's book
+        known for its repetitive rhymes.
+    - Question: What is the name of the young girl who discovers a hidden door in
+        her new home in 'Coraline'?
+      TrueAnswer: Coraline
+      FalseAnswer:
+      - Alice
+      - Wendy Darling
+      - Matilda
+      Explanation: Coraline is the adventurous protagonist who finds a secret world
+        in Neil Gaiman's 'Coraline'.
+    - Question: Which book features a young boy named Max who sails to an island
+        inhabited by wild creatures?
+      TrueAnswer: Where the Wild Things Are
+      FalseAnswer:
+      - The Giving Tree
+      - The Cat in the Hat
+      - The Secret Garden
+      Explanation: Maurice Sendak's 'Where the Wild Things Are' tells the imaginative
+        story of Max and his wild adventures.
+    - Question: Who is the author of 'The Giving Tree'?
+      TrueAnswer: Shel Silverstein
+      FalseAnswer:
+      - Beatrix Potter
+      - E.B. White
+      - Lewis Carroll
+      Explanation: Shel Silverstein wrote 'The Giving Tree', a touching story about
+        the selfless love of a tree.
+    - Question: What is the name of the young girl who discovers a hidden garden
+        in 'The Secret Garden'?
+      TrueAnswer: Mary
+      FalseAnswer:
+      - Alice
+      - Wendy Darling
+      - Matilda
+      Explanation: Mary is the young girl who discovers a hidden garden and brings
+        it back to life in Frances Hodgson Burnett's novel.

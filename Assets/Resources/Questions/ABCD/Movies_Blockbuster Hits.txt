@@ -1,0 +1,128 @@
+{
+    "Movies": [
+        {
+            "Questions": [
+                {
+                    "Question": "Who directed the movie 'Titanic'?",
+                    "TrueAnswer": "James Cameron",
+                    "FalseAnswer": ["Steven Spielberg", "Martin Scorsese", "Christopher Nolan"],
+                    "Explanation": "James Cameron directed the blockbuster hit 'Titanic' released in 1997."
+                },
+                {
+                    "Question": "Which actor played the character Iron Man in the Marvel Cinematic Universe?",
+                    "TrueAnswer": "Robert Downey Jr.",
+                    "FalseAnswer": ["Chris Evans", "Chris Hemsworth", "Mark Ruffalo"],
+                    "Explanation": "Robert Downey Jr. portrayed the iconic character Iron Man in the Marvel Cinematic Universe."
+                },
+                {
+                    "Question": "What is the highest-grossing film of all time?",
+                    "TrueAnswer": "Avengers: Endgame",
+                    "FalseAnswer": ["Avatar", "Titanic", "Star Wars: The Force Awakens"],
+                    "Explanation": "As of 2021, 'Avengers: Endgame' holds the record for the highest box office earnings."
+                },
+                {
+                    "Question": "Which movie won the Academy Award for Best Picture in 2020?",
+                    "TrueAnswer": "Parasite",
+                    "FalseAnswer": ["Joker", "1917", "Once Upon a Time in Hollywood"],
+                    "Explanation": "'Parasite' made history by becoming the first South Korean film to win the Best Picture Oscar."
+                },
+                {
+                    "Question": "Who played the character Jack Sparrow in the 'Pirates of the Caribbean' series?",
+                    "TrueAnswer": "Johnny Depp",
+                    "FalseAnswer": ["Orlando Bloom", "Geoffrey Rush", "Javier Bardem"],
+                    "Explanation": "Johnny Depp portrayed the eccentric pirate Jack Sparrow in the 'Pirates of the Caribbean' series."
+                },
+                {
+                    "Question": "Which movie features the line 'Here's Johnny!'?",
+                    "TrueAnswer": "The Shining",
+                    "FalseAnswer": ["Psycho", "A Clockwork Orange", "The Exorcist"],
+                    "Explanation": "The line 'Here's Johnny!' is famously uttered by Jack Nicholson's character in 'The Shining'."
+                },
+                {
+                    "Question": "Who directed the movie 'The Dark Knight'?",
+                    "TrueAnswer": "Christopher Nolan",
+                    "FalseAnswer": ["Tim Burton", "Zack Snyder", "Joss Whedon"],
+                    "Explanation": "Christopher Nolan directed the critically acclaimed superhero film 'The Dark Knight'."
+                },
+                {
+                    "Question": "Which movie features the character Darth Vader?",
+                    "TrueAnswer": "Star Wars",
+                    "FalseAnswer": ["The Matrix", "Blade Runner", "Interstellar"],
+                    "Explanation": "Darth Vader is a central character in the 'Star Wars' franchise created by George Lucas."
+                },
+                {
+                    "Question": "Who played the character Neo in 'The Matrix' trilogy?",
+                    "TrueAnswer": "Keanu Reeves",
+                    "FalseAnswer": ["Tom Cruise", "Brad Pitt", "Leonardo DiCaprio"],
+                    "Explanation": "Keanu Reeves portrayed the protagonist Neo in 'The Matrix' trilogy."
+                },
+                {
+                    "Question": "Which movie features the song 'Let It Go'?",
+                    "TrueAnswer": "Frozen",
+                    "FalseAnswer": ["Moana", "Coco", "Tangled"],
+                    "Explanation": "The song 'Let It Go' is a popular musical number from the animated film 'Frozen'."
+                },
+                {
+                    "Question": "Who directed the movie 'Jurassic Park'?",
+                    "TrueAnswer": "Steven Spielberg",
+                    "FalseAnswer": ["James Cameron", "Peter Jackson", "Ridley Scott"],
+                    "Explanation": "Steven Spielberg directed the groundbreaking film 'Jurassic Park' released in 1993."
+                },
+                {
+                    "Question": "Which movie features the character Tony Montana?",
+                    "TrueAnswer": "Scarface",
+                    "FalseAnswer": ["The Godfather", "Goodfellas", "Pulp Fiction"],
+                    "Explanation": "Tony Montana is the main character in the crime film 'Scarface' portrayed by Al Pacino."
+                },
+                {
+                    "Question": "Who played the character Hermione Granger in the 'Harry Potter' film series?",
+                    "TrueAnswer": "Emma Watson",
+                    "FalseAnswer": ["Daniel Radcliffe", "Rupert Grint", "Tom Felton"],
+                    "Explanation": "Emma Watson portrayed the intelligent witch Hermione Granger in the 'Harry Potter' film series."
+                },
+                {
+                    "Question": "Which movie features the character Hannibal Lecter?",
+                    "TrueAnswer": "The Silence of the Lambs",
+                    "FalseAnswer": ["Se7en", "American Psycho", "Saw"],
+                    "Explanation": "Hannibal Lecter is a prominent character in the psychological thriller 'The Silence of the Lambs'."
+                },
+                {
+                    "Question": "Who directed the movie 'Inception'?",
+                    "TrueAnswer": "Christopher Nolan",
+                    "FalseAnswer": ["Quentin Tarantino", "David Fincher", "Stanley Kubrick"],
+                    "Explanation": "Christopher Nolan directed the mind-bending film 'Inception' released in 2010."
+                },
+                {
+                    "Question": "Which movie features the character Ellen Ripley?",
+                    "TrueAnswer": "Alien",
+                    "FalseAnswer": ["Predator", "The Terminator", "Blade Runner"],
+                    "Explanation": "Ellen Ripley is the protagonist in the science fiction horror film 'Alien' portrayed by Sigourney Weaver."
+                },
+                {
+                    "Question": "Who played the character James Bond in the film 'Casino Royale'?",
+                    "TrueAnswer": "Daniel Craig",
+                    "FalseAnswer": ["Pierce Brosnan", "Sean Connery", "Roger Moore"],
+                    "Explanation": "Daniel Craig portrayed the iconic spy James Bond in the film 'Casino Royale'."
+                },
+                {
+                    "Question": "Which movie features the character Forrest Gump?",
+                    "TrueAnswer": "Forrest Gump",
+                    "FalseAnswer": ["Rain Man", "The Shawshank Redemption", "Good Will Hunting"],
+                    "Explanation": "The character Forrest Gump is the protagonist of the film 'Forrest Gump' portrayed by Tom Hanks."
+                },
+                {
+                    "Question": "Who directed the movie 'The Avengers'?",
+                    "TrueAnswer": "Joss Whedon",
+                    "FalseAnswer": ["Jon Favreau", "Taika Waititi", "Patty Jenkins"],
+                    "Explanation": "Joss Whedon directed the superhero ensemble film 'The Avengers' released in 2012."
+                },
+                {
+                    "Question": "Which movie features the character Luke Skywalker?",
+                    "TrueAnswer": "Star Wars",
+                    "FalseAnswer": ["Guardians of the Galaxy", "Interstellar", "The Matrix"],
+                    "Explanation": "Luke Skywalker is a central character in the 'Star Wars' franchise created by George Lucas."
+                }
+            ]
+        }
+    ]
+}

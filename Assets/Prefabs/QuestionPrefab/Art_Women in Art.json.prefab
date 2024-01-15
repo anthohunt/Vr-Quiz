@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3142456763878637742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 170580215126259253}
+  - component: {fileID: 173127958105023975}
+  m_Layer: 0
+  m_Name: Art_Women in Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &170580215126259253
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3142456763878637742}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &173127958105023975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3142456763878637742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the Mona Lisa?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Michelangelo
+      Explanation: Leonardo da Vinci is the artist behind the iconic painting, Mona
+        Lisa, created during the Renaissance period.
+    - Question: Which artist is known for her large-scale flower paintings?
+      TrueAnswer: Georgia O'Keeffe
+      FalseAnswer:
+      - Frida Kahlo
+      - Mary Cassatt
+      - Yayoi Kusama
+      Explanation: Georgia O'Keeffe is renowned for her vibrant and detailed flower
+        paintings, showcasing the beauty of nature.
+    - Question: Who sculpted the famous statue of David?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Auguste Rodin
+      - Pablo Picasso
+      - Donatello
+      Explanation: Michelangelo's masterpiece, the statue of David, is a symbol of
+        Renaissance art and human perfection.
+    - Question: Which artist is associated with the Surrealist movement?
+      TrueAnswer: "Salvador Dal\xED"
+      FalseAnswer:
+      - Claude Monet
+      - Andy Warhol
+      - Vincent van Gogh
+      Explanation: "Salvador Dal\xED is known for his dreamlike and bizarre imagery,
+        making him a prominent figure in Surrealism."
+    - Question: Who painted the famous artwork 'The Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Vincent van Gogh's 'The Starry Night' is a masterpiece that captures
+        his unique style and emotional turmoil.
+    - Question: Which artist is known for her self-portraits and feminist themes?
+      TrueAnswer: Frida Kahlo
+      FalseAnswer:
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      - Yayoi Kusama
+      Explanation: Frida Kahlo's self-portraits explore her personal experiences,
+        Mexican culture, and feminist ideas.
+    - Question: Who painted the ceiling of the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: Michelangelo's frescoes on the ceiling of the Sistine Chapel are
+        considered one of the greatest achievements in Western art.
+    - Question: Which artist is known for her abstract expressionist paintings?
+      TrueAnswer: Lee Krasner
+      FalseAnswer:
+      - Yoko Ono
+      - Cindy Sherman
+      - Barbara Kruger
+      Explanation: Lee Krasner was a prominent figure in abstract expressionism,
+        known for her energetic and gestural paintings.
+    - Question: Who is the artist behind the iconic painting 'The Birth of Venus'?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Edvard Munch
+      - Gustav Klimt
+      - "Diego Vel\xE1zquez"
+      Explanation: Sandro Botticelli's 'The Birth of Venus' is a masterpiece of the
+        Italian Renaissance, depicting the goddess of love and beauty.
+    - Question: Which artist is known for her installation art and polka dot motifs?
+      TrueAnswer: Yayoi Kusama
+      FalseAnswer:
+      - Frida Kahlo
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      Explanation: Yayoi Kusama's immersive installations and repetitive polka dot
+        patterns have made her a prominent figure in contemporary art.
+    - Question: Who painted 'Girl with a Pearl Earring'?
+      TrueAnswer: Johannes Vermeer
+      FalseAnswer:
+      - Rembrandt van Rijn
+      - Hieronymus Bosch
+      - Pieter Bruegel the Elder
+      Explanation: Johannes Vermeer's 'Girl with a Pearl Earring' is a captivating
+        portrait that showcases his mastery of light and detail.
+    - Question: Which artist is known for her colorful and geometric abstract paintings?
+      TrueAnswer: Hilma af Klint
+      FalseAnswer:
+      - Frida Kahlo
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      Explanation: Hilma af Klint was a pioneer of abstract art, creating vibrant
+        and intricate paintings inspired by spiritualism.
+    - Question: Who is the artist behind the iconic painting 'Guernica'?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Pablo Picasso's 'Guernica' is a powerful anti-war painting, depicting
+        the horrors of the Spanish Civil War.
+    - Question: Which artist is known for her depictions of motherhood and domestic
+        life?
+      TrueAnswer: Mary Cassatt
+      FalseAnswer:
+      - Frida Kahlo
+      - Georgia O'Keeffe
+      - Yayoi Kusama
+      Explanation: Mary Cassatt's paintings often focused on the intimate moments
+        of women and children, highlighting the beauty of motherhood.
+    - Question: Who sculpted the famous statue 'The Thinker'?
+      TrueAnswer: Auguste Rodin
+      FalseAnswer:
+      - Michelangelo
+      - Pablo Picasso
+      - Donatello
+      Explanation: Auguste Rodin's 'The Thinker' is a renowned sculpture that represents
+        intellect and contemplation.
+    - Question: Which artist is known for her iconic pop art prints?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - "Salvador Dal\xED"
+      - Claude Monet
+      - Vincent van Gogh
+      Explanation: Andy Warhol revolutionized art with his vibrant and mass-produced
+        prints, reflecting consumer culture and celebrity.
+    - Question: Who painted 'The Persistence of Memory'?
+      TrueAnswer: "Salvador Dal\xED"
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Claude Monet
+      Explanation: "Salvador Dal\xED's 'The Persistence of Memory' is a surreal masterpiece
+        featuring melting clocks and dreamlike imagery."
+    - Question: Which artist is known for her iconic flower sculptures?
+      TrueAnswer: Yayoi Kusama
+      FalseAnswer:
+      - Frida Kahlo
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      Explanation: Yayoi Kusama's flower sculptures, often covered in polka dots,
+        are a reflection of her obsession and love for nature.
+    - Question: Who painted 'The Last Supper'?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Leonardo da Vinci's 'The Last Supper' is a renowned mural depicting
+        the final meal of Jesus and his disciples.
+    - Question: Which artist is known for her iconic self-portraits and unibrow?
+      TrueAnswer: Frida Kahlo
+      FalseAnswer:
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      - Yayoi Kusama
+      Explanation: Frida Kahlo's self-portraits often featured her distinctive unibrow
+        and explored themes of identity, pain, and resilience.

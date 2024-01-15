@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5051813060254913702
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3050614422237228015}
+  - component: {fileID: 7136802193932345963}
+  m_Layer: 0
+  m_Name: Art_Renaissance Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3050614422237228015
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5051813060254913702}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7136802193932345963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5051813060254913702}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the Mona Lisa?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Raphael
+      - Donatello
+      Explanation: Leonardo da Vinci is the artist behind the iconic painting, Mona
+        Lisa, known for its enigmatic smile.
+    - Question: Which artist painted the ceiling of the Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Titian
+      Explanation: Michelangelo is the artist responsible for the breathtaking frescoes
+        on the ceiling of the Sistine Chapel in Vatican City.
+    - Question: Who sculpted the statue of David?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Donatello
+      Explanation: Michelangelo created the famous marble sculpture of David, depicting
+        the biblical hero.
+    - Question: Which artist painted The Last Supper?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Raphael
+      - Titian
+      Explanation: Leonardo da Vinci's The Last Supper is a renowned mural depicting
+        the final meal of Jesus with his disciples.
+    - Question: Who painted The Birth of Venus?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Titian
+      Explanation: Sandro Botticelli is the artist behind the famous painting, The
+        Birth of Venus, depicting the goddess emerging from the sea.
+    - Question: Who painted The School of Athens?
+      TrueAnswer: Raphael
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Titian
+      Explanation: Raphael's The School of Athens is a masterpiece fresco portraying
+        ancient Greek philosophers in a grand architectural setting.
+    - Question: Who painted The Creation of Adam?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Titian
+      Explanation: Michelangelo's The Creation of Adam is a famous fresco depicting
+        the biblical creation of Adam by God.
+    - Question: Who painted The Last Judgment?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Titian
+      Explanation: Michelangelo's The Last Judgment is a monumental fresco illustrating
+        the second coming of Christ and the final judgment.
+    - Question: Who painted The Persistence of Memory?
+      TrueAnswer: "Salvador Dal\xED"
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: "Salvador Dal\xED is the artist behind the surrealist painting,
+        The Persistence of Memory, featuring melting clocks."
+    - Question: Who painted The Starry Night?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Pablo Picasso
+      - "Salvador Dal\xED"
+      - Claude Monet
+      Explanation: Vincent van Gogh's The Starry Night is a famous post-impressionist
+        painting depicting a night sky with swirling stars.
+    - Question: Who painted The Creation of Eve?
+      TrueAnswer: Titian
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Titian's The Creation of Eve is a notable painting depicting the
+        biblical creation of Eve from Adam's rib.
+    - Question: Who painted The Birth of Adam?
+      TrueAnswer: Piero della Francesca
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Piero della Francesca's The Birth of Adam is a Renaissance fresco
+        depicting the creation of Adam.
+    - Question: Who painted The Last Supper of San Salvi?
+      TrueAnswer: Andrea del Castagno
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Andrea del Castagno's The Last Supper of San Salvi is a notable
+        fresco depicting the biblical event.
+    - Question: Who painted The Annunciation?
+      TrueAnswer: Fra Angelico
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Fra Angelico's The Annunciation is a significant painting depicting
+        the biblical event of the angel Gabriel announcing the birth of Jesus to
+        Mary.
+    - Question: Who painted The Tempest?
+      TrueAnswer: Giorgione
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Giorgione's The Tempest is a mysterious painting featuring a stormy
+        landscape with a nursing mother and a soldier.
+    - Question: Who painted The Last Supper of Jesus Christ?
+      TrueAnswer: Tintoretto
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Tintoretto's The Last Supper of Jesus Christ is a notable painting
+        depicting the biblical event.
+    - Question: Who painted The Garden of Earthly Delights?
+      TrueAnswer: Hieronymus Bosch
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Hieronymus Bosch's The Garden of Earthly Delights is a triptych
+        painting depicting various scenes of paradise, earthly delights, and hell.
+    - Question: Who painted The Birth of the Virgin?
+      TrueAnswer: Andrea del Sarto
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Andrea del Sarto's The Birth of the Virgin is a notable painting
+        depicting the birth of the Virgin Mary.
+    - Question: Who painted The Assumption of the Virgin?
+      TrueAnswer: Titian
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Titian's The Assumption of the Virgin is a significant painting
+        depicting the ascent of the Virgin Mary into heaven.
+    - Question: Who painted The Last Supper of Sant'Apollonia?
+      TrueAnswer: Andrea del Castagno
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: Andrea del Castagno's The Last Supper of Sant'Apollonia is a notable
+        fresco depicting the biblical event.

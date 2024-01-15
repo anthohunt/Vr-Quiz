@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2622043800135325433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7617033896502611663}
+  - component: {fileID: 7318234551072241370}
+  m_Layer: 0
+  m_Name: Nature and Wildlife_Natural Disasters and Recovery.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7617033896502611663
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2622043800135325433}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7318234551072241370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2622043800135325433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest land animal in the world?
+      TrueAnswer: Elephant
+      FalseAnswer:
+      - Giraffe
+      - Hippopotamus
+      - Rhino
+      Explanation: The elephant is the largest land animal, known for its size and
+        distinctive trunk.
+    - Question: Which bird is known for its ability to mimic human speech?
+      TrueAnswer: Parrot
+      FalseAnswer:
+      - Ostrich
+      - Penguin
+      - Eagle
+      Explanation: Parrots are known for their ability to mimic human speech, making
+        them popular pets.
+    - Question: What is the largest species of shark?
+      TrueAnswer: Whale Shark
+      FalseAnswer:
+      - Great White Shark
+      - Tiger Shark
+      - Hammerhead Shark
+      Explanation: The whale shark is the largest species of shark, known for its
+        massive size and filter-feeding habits.
+    - Question: Which animal is known for its black and white stripes?
+      TrueAnswer: Zebra
+      FalseAnswer:
+      - Giraffe
+      - Tiger
+      - Leopard
+      Explanation: Zebras are known for their distinctive black and white stripes,
+        which help them blend into their surroundings.
+    - Question: What is the largest species of penguin?
+      TrueAnswer: Emperor Penguin
+      FalseAnswer:
+      - King Penguin
+      - Adelie Penguin
+      - Gentoo Penguin
+      Explanation: The emperor penguin is the largest species of penguin, known for
+        its size and unique breeding habits.
+    - Question: Which animal is known for its ability to camouflage and change colors?
+      TrueAnswer: Chameleon
+      FalseAnswer:
+      - Lizard
+      - Snake
+      - Frog
+      Explanation: Chameleons are known for their ability to change colors and blend
+        into their surroundings, helping them avoid predators.
+    - Question: What is the largest species of bear?
+      TrueAnswer: Polar Bear
+      FalseAnswer:
+      - Grizzly Bear
+      - Black Bear
+      - Kodiak Bear
+      Explanation: The polar bear is the largest species of bear, known for its adaptation
+        to cold Arctic environments.
+    - Question: Which animal is known for its long neck?
+      TrueAnswer: Giraffe
+      FalseAnswer:
+      - Elephant
+      - Kangaroo
+      - Horse
+      Explanation: Giraffes are known for their long necks, which help them reach
+        leaves on tall trees.
+    - Question: What is the fastest land animal?
+      TrueAnswer: Cheetah
+      FalseAnswer:
+      - Lion
+      - Leopard
+      - Gazelle
+      Explanation: The cheetah is the fastest land animal, capable of reaching speeds
+        up to 70 miles per hour.
+    - Question: Which animal is known for its ability to climb trees?
+      TrueAnswer: Sloth
+      FalseAnswer:
+      - Koala
+      - Panda
+      - Gorilla
+      Explanation: Sloths are known for their ability to climb trees and spend most
+        of their lives hanging upside down.
+  - Questions: []

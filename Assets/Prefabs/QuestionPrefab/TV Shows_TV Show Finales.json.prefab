@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8351496122351469124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1846240721555024870}
+  - component: {fileID: 5388669562147852437}
+  m_Layer: 0
+  m_Name: TV Shows_TV Show Finales.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1846240721555024870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8351496122351469124}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5388669562147852437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8351496122351469124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who killed Joffrey Baratheon in the TV show 'Game of Thrones'?
+      TrueAnswer: Olenna Tyrell
+      FalseAnswer:
+      - Tyrion Lannister
+      - Sansa Stark
+      - Jaime Lannister
+      Explanation: Olenna Tyrell, also known as the Queen of Thorns, poisoned Joffrey
+        Baratheon during his wedding feast.
+    - Question: Which character becomes the ruler of Westeros in the TV show 'Game
+        of Thrones'?
+      TrueAnswer: Bran Stark
+      FalseAnswer:
+      - Jon Snow
+      - Daenerys Targaryen
+      - Cersei Lannister
+      Explanation: Bran Stark, also known as the Three-Eyed Raven, is chosen as the
+        new king of Westeros.
+    - Question: Who is revealed to be 'A' in the TV show 'Pretty Little Liars'?
+      TrueAnswer: CeCe Drake
+      FalseAnswer:
+      - Alison DiLaurentis
+      - Spencer Hastings
+      - Ezra Fitz
+      Explanation: CeCe Drake, also known as Charlotte DiLaurentis, is revealed to
+        be the mysterious 'A'.
+    - Question: What is the name of the fictional town in the TV show 'Stranger Things'?
+      TrueAnswer: Hawkins
+      FalseAnswer:
+      - Derry
+      - Sunnydale
+      - Riverdale
+      Explanation: The TV show 'Stranger Things' is set in the fictional town of
+        Hawkins, Indiana.
+    - Question: Who is the mother of Ted's children in the TV show 'How I Met Your
+        Mother'?
+      TrueAnswer: Tracy McConnell
+      FalseAnswer:
+      - Robin Scherbatsky
+      - Lily Aldrin
+      - Stella Zinman
+      Explanation: Tracy McConnell, also known as 'The Mother', is revealed to be
+        the mother of Ted's children.
+    - Question: What is the name of the coffee shop in the TV show 'Friends'?
+      TrueAnswer: Central Perk
+      FalseAnswer:
+      - Central Park
+      - Perk Central
+      - Friends Cafe
+      Explanation: The coffee shop in the TV show 'Friends' is called Central Perk.
+    - Question: Who is the real identity of the character 'Red' in the TV show 'The
+        Blacklist'?
+      TrueAnswer: Raymond Reddington
+      FalseAnswer:
+      - Tom Keen
+      - Elizabeth Keen
+      - Harold Cooper
+      Explanation: Raymond Reddington is revealed to be the real identity of the
+        character 'Red' in 'The Blacklist'.
+    - Question: What is the name of the fictional city in the TV show 'The Office'?
+      TrueAnswer: Scranton
+      FalseAnswer:
+      - Pawnee
+      - Dunder Mifflin
+      - Schrute Farms
+      Explanation: The TV show 'The Office' is set in the fictional city of Scranton,
+        Pennsylvania.
+    - Question: Who is the main antagonist in the TV show 'Breaking Bad'?
+      TrueAnswer: Gustavo Fring
+      FalseAnswer:
+      - Walter White
+      - Jesse Pinkman
+      - Saul Goodman
+      Explanation: Gustavo Fring, also known as Gus, is the main antagonist in the
+        TV show 'Breaking Bad'.
+    - Question: What is the name of the fictional hospital in the TV show 'Grey's
+        Anatomy'?
+      TrueAnswer: Grey Sloan Memorial Hospital
+      FalseAnswer:
+      - Seattle Grace Hospital
+      - Mercy West Hospital
+      - Seattle Grace Mercy West Hospital
+      Explanation: The TV show 'Grey's Anatomy' is set in the fictional Grey Sloan
+        Memorial Hospital.
+    - Question: Who is revealed to be the 'Mother' in the TV show 'How I Met Your
+        Mother'?
+      TrueAnswer: Tracy McConnell
+      FalseAnswer:
+      - Robin Scherbatsky
+      - Lily Aldrin
+      - Stella Zinman
+      Explanation: Tracy McConnell, also known as 'The Mother', is revealed to be
+        the mother of Ted's children.
+    - Question: What is the name of the fictional town in the TV show 'The Walking
+        Dead'?
+      TrueAnswer: Alexandria
+      FalseAnswer:
+      - Woodbury
+      - Hilltop
+      - Sanctuary
+      Explanation: The TV show 'The Walking Dead' is set in the fictional town of
+        Alexandria.
+    - Question: Who is revealed to be 'Gossip Girl' in the TV show 'Gossip Girl'?
+      TrueAnswer: Dan Humphrey
+      FalseAnswer:
+      - Serena van der Woodsen
+      - Blair Waldorf
+      - Chuck Bass
+      Explanation: Dan Humphrey is revealed to be the mysterious 'Gossip Girl' in
+        the TV show.
+    - Question: What is the name of the fictional town in the TV show 'Riverdale'?
+      TrueAnswer: Riverdale
+      FalseAnswer:
+      - Greendale
+      - Hawkins
+      - Sunnydale
+      Explanation: The TV show 'Riverdale' is set in the fictional town of Riverdale.
+    - Question: Who is revealed to be 'A.D.' in the TV show 'Pretty Little Liars'?
+      TrueAnswer: Alex Drake
+      FalseAnswer:
+      - Spencer Hastings
+      - Alison DiLaurentis
+      - Ezra Fitz
+      Explanation: Alex Drake, Spencer Hastings' identical twin sister, is revealed
+        to be 'A.D.'.
+    - Question: What is the name of the fictional town in the TV show 'The Vampire
+        Diaries'?
+      TrueAnswer: Mystic Falls
+      FalseAnswer:
+      - Fell's Church
+      - New Orleans
+      - Sunnydale
+      Explanation: The TV show 'The Vampire Diaries' is set in the fictional town
+        of Mystic Falls.
+    - Question: Who is revealed to be the 'Mother' in the TV show 'How I Met Your
+        Mother'?
+      TrueAnswer: Tracy McConnell
+      FalseAnswer:
+      - Robin Scherbatsky
+      - Lily Aldrin
+      - Stella Zinman
+      Explanation: Tracy McConnell, also known as 'The Mother', is revealed to be
+        the mother of Ted's children.
+    - Question: What is the name of the fictional town in the TV show 'Stranger Things'?
+      TrueAnswer: Hawkins
+      FalseAnswer:
+      - Derry
+      - Sunnydale
+      - Riverdale
+      Explanation: The TV show 'Stranger Things' is set in the fictional town of
+        Hawkins, Indiana.
+    - Question: Who is the main antagonist in the TV show 'Breaking Bad'?
+      TrueAnswer: Gustavo Fring
+      FalseAnswer:
+      - Walter White
+      - Jesse Pinkman
+      - Saul Goodman
+      Explanation: Gustavo Fring, also known as Gus, is the main antagonist in the
+        TV show 'Breaking Bad'.
+    - Question: What is the name of the fictional city in the TV show 'The Office'?
+      TrueAnswer: Scranton
+      FalseAnswer:
+      - Pawnee
+      - Dunder Mifflin
+      - Schrute Farms
+      Explanation: The TV show 'The Office' is set in the fictional city of Scranton,
+        Pennsylvania.

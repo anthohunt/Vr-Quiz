@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2079015851723168926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1274812998832437513}
+  - component: {fileID: 4849770094885344687}
+  m_Layer: 0
+  m_Name: Art_Public Art and Murals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1274812998832437513
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079015851723168926}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4849770094885344687
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2079015851723168926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous mural 'Guernica'?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Vincent van Gogh
+      - Leonardo da Vinci
+      - Claude Monet
+      Explanation: Pablo Picasso, a Spanish artist, painted the mural 'Guernica'
+        in 1937 as a response to the bombing of Guernica during the Spanish Civil
+        War.
+    - Question: What is the largest mural in the world?
+      TrueAnswer: The Great Wall of Los Angeles
+      FalseAnswer:
+      - The Sistine Chapel
+      - The Berlin Wall
+      - The Mona Lisa
+      Explanation: The Great Wall of Los Angeles, located in California, is the largest
+        mural in the world, spanning half a mile in length.
+    - Question: Which artist is known for creating the 'Balloon Dog' sculptures?
+      TrueAnswer: Jeff Koons
+      FalseAnswer:
+      - Banksy
+      - Frida Kahlo
+      - Andy Warhol
+      Explanation: Jeff Koons, an American artist, is famous for his stainless steel
+        sculptures, including the 'Balloon Dog' series.
+    - Question: Where can you find the 'Mona Lisa' mural?
+      TrueAnswer: The Louvre Museum
+      FalseAnswer:
+      - The Guggenheim Museum
+      - The Tate Modern
+      - The Metropolitan Museum of Art
+      Explanation: The 'Mona Lisa' mural, painted by Leonardo da Vinci, is housed
+        in the Louvre Museum in Paris, France.
+    - Question: Who painted the mural 'The Last Supper'?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Leonardo da Vinci, an Italian artist, painted the mural 'The Last
+        Supper' in the late 15th century.
+    - Question: What is the purpose of public art?
+      TrueAnswer: To enhance public spaces and engage communities
+      FalseAnswer:
+      - To make money for artists
+      - To promote political agendas
+      - To create controversy
+      Explanation: Public art aims to improve the aesthetic quality of public spaces
+        and foster community engagement and interaction.
+    - Question: Which city is known for its vibrant street art scene?
+      TrueAnswer: Berlin
+      FalseAnswer:
+      - New York City
+      - Paris
+      - Tokyo
+      Explanation: Berlin, the capital of Germany, is renowned for its vibrant and
+        diverse street art scene.
+    - Question: What is the technique used to create murals with small ceramic pieces?
+      TrueAnswer: Mosaic
+      FalseAnswer:
+      - Graffiti
+      - Stencil
+      - Spray paint
+      Explanation: Mosaic is a technique where small ceramic pieces, called tesserae,
+        are used to create a larger image or pattern.
+    - Question: Who is the artist behind the 'Hope' poster featuring Barack Obama?
+      TrueAnswer: Shepard Fairey
+      FalseAnswer:
+      - Banksy
+      - Keith Haring
+      - Jean-Michel Basquiat
+      Explanation: Shepard Fairey, an American street artist, created the iconic
+        'Hope' poster during Barack Obama's 2008 presidential campaign.
+    - Question: What is the purpose of a mural?
+      TrueAnswer: To tell a story or convey a message
+      FalseAnswer:
+      - To decorate a space
+      - To showcase an artist's skills
+      - To attract tourists
+      Explanation: Murals are often created to communicate a narrative, express a
+        message, or reflect the identity of a community.
+    - Question: Which artist is known for his large-scale murals of flowers?
+      TrueAnswer: Banksy
+      FalseAnswer:
+      - Jean-Michel Basquiat
+      - Keith Haring
+      - Shepard Fairey
+      Explanation: Banksy, a British street artist, is recognized for his politically-charged
+        stenciled murals, including those featuring flowers.
+    - Question: What is the purpose of a public art program?
+      TrueAnswer: To integrate art into public spaces and promote cultural expression
+      FalseAnswer:
+      - To beautify cities
+      - To increase tourism
+      - To generate revenue
+      Explanation: Public art programs aim to incorporate art into public spaces,
+        fostering cultural expression and community engagement.
+    - Question: Which artist is known for his 'Campbell's Soup Cans' series?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Jackson Pollock
+      - "Salvador Dal\xED"
+      - Piet Mondrian
+      Explanation: Andy Warhol, an American artist, popularized the 'Campbell's Soup
+        Cans' series, showcasing mass production and consumer culture.
+    - Question: What is the technique used to create murals by applying paint to
+        wet plaster?
+      TrueAnswer: Fresco
+      FalseAnswer:
+      - Graffiti
+      - Stencil
+      - Spray paint
+      Explanation: Fresco is a technique where paint is applied to wet plaster, allowing
+        the pigments to become an integral part of the wall.
+    - Question: Who painted the mural 'The Creation of Adam' on the ceiling of the
+        Sistine Chapel?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Raphael
+      - Donatello
+      Explanation: Michelangelo, an Italian artist, painted 'The Creation of Adam'
+        as part of his masterpiece on the Sistine Chapel ceiling.
+    - Question: What is the purpose of a community mural project?
+      TrueAnswer: To involve and empower local residents in the creation of public
+        art
+      FalseAnswer:
+      - To showcase the skills of professional artists
+      - To beautify a neighborhood
+      - To attract tourists
+      Explanation: Community mural projects aim to engage and empower local residents,
+        fostering a sense of ownership and pride in the artwork.
+    - Question: Which artist is known for his 'Drowning Girl' painting?
+      TrueAnswer: Roy Lichtenstein
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Claude Monet
+      Explanation: Roy Lichtenstein, an American pop artist, created the iconic 'Drowning
+        Girl' painting in 1963, inspired by comic book panels.
+    - Question: What is the technique used to create murals by spraying paint through
+        stencils?
+      TrueAnswer: Stencil
+      FalseAnswer:
+      - Graffiti
+      - Mosaic
+      - Spray paint
+      Explanation: Stencil is a technique where paint is sprayed through a cut-out
+        design, allowing for precise and repeatable patterns in murals.
+    - Question: Who painted the mural 'The Starry Night'?
+      TrueAnswer: Vincent van Gogh
+      FalseAnswer:
+      - Pablo Picasso
+      - Leonardo da Vinci
+      - Claude Monet
+      Explanation: Vincent van Gogh, a Dutch post-impressionist artist, painted the
+        iconic mural 'The Starry Night' in 1889.
+    - Question: What is the purpose of a mural festival?
+      TrueAnswer: To celebrate and showcase public art
+      FalseAnswer:
+      - To sell artwork
+      - To promote commercial brands
+      - To attract tourists
+      Explanation: Mural festivals bring artists together to create new artworks,
+        celebrate public art, and engage the community in the creative process.
+    - Question: Which artist is known for his 'Campbell's Soup Cans' series?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Jackson Pollock
+      - "Salvador Dal\xED"
+      - Piet Mondrian
+      Explanation: Andy Warhol, an American artist, popularized the 'Campbell's Soup
+        Cans' series, showcasing mass production and consumer culture.

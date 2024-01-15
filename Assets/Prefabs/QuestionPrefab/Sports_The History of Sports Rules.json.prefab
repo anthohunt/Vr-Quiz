@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7218550823067676134
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6836806072557849662}
+  - component: {fileID: 7396106875849110379}
+  m_Layer: 0
+  m_Name: Sports_The History of Sports Rules.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6836806072557849662
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7218550823067676134}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7396106875849110379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7218550823067676134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In which year were the first modern Olympic Games held?
+      TrueAnswer: 1896
+      FalseAnswer:
+      - 1900
+      - 1876
+      - 1924
+      Explanation: The first modern Olympic Games were held in 1896 in Athens, Greece.
+    - Question: Which sport was added to the Olympic program in 1996?
+      TrueAnswer: Beach Volleyball
+      FalseAnswer:
+      - Rugby Sevens
+      - BMX Racing
+      - Triathlon
+      Explanation: Beach Volleyball was added to the Olympic program in 1996, bringing
+        a new dynamic to the Games.
+    - Question: What is the maximum number of players allowed on a basketball court
+        at one time?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 6
+      - 4
+      - 7
+      Explanation: Basketball allows a maximum of 5 players from each team on the
+        court at one time.
+    - Question: Which country is credited with inventing the game of cricket?
+      TrueAnswer: England
+      FalseAnswer:
+      - India
+      - Australia
+      - South Africa
+      Explanation: Cricket is believed to have been invented in England and later
+        spread to other countries.
+    - Question: What is the maximum number of clubs a golfer can carry in their bag?
+      TrueAnswer: 14
+      FalseAnswer:
+      - 10
+      - 16
+      - 12
+      Explanation: Golfers are allowed to carry a maximum of 14 clubs in their bag
+        during a round.
+    - Question: Which sport uses a shuttlecock?
+      TrueAnswer: Badminton
+      FalseAnswer:
+      - Tennis
+      - Table Tennis
+      - Squash
+      Explanation: Badminton is played with a shuttlecock, which is hit back and
+        forth over a net.
+    - Question: What is the maximum weight for a boxing glove in professional matches?
+      TrueAnswer: 10 ounces
+      FalseAnswer:
+      - 8 ounces
+      - 12 ounces
+      - 14 ounces
+      Explanation: In professional boxing matches, the maximum weight for a glove
+        is 10 ounces.
+    - Question: Which country hosted the first FIFA World Cup in 1930?
+      TrueAnswer: Uruguay
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Italy
+      Explanation: Uruguay hosted the first FIFA World Cup in 1930, winning the tournament
+        as well.
+    - Question: What is the maximum number of fouls a player can commit in basketball
+        before fouling out?
+      TrueAnswer: 5
+      FalseAnswer:
+      - 4
+      - 6
+      - 3
+      Explanation: A basketball player can commit a maximum of 5 fouls before fouling
+        out of the game.
+    - Question: Which sport is known as the 'king of sports'?
+      TrueAnswer: Soccer
+      FalseAnswer:
+      - Basketball
+      - Tennis
+      - Cricket
+      Explanation: Soccer is often referred to as the 'king of sports' due to its
+        global popularity.
+    - Question: What is the maximum number of players on a baseball team's roster?
+      TrueAnswer: 25
+      FalseAnswer:
+      - 20
+      - 30
+      - 35
+      Explanation: A baseball team can have a maximum of 25 players on its roster.
+    - Question: Which country is credited with inventing the game of basketball?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Canada
+      - Spain
+      - France
+      Explanation: Basketball was invented by Dr. James Naismith, a Canadian physical
+        education instructor, in the United States.
+    - Question: What is the maximum number of players on a soccer team's field at
+        one time?
+      TrueAnswer: 11
+      FalseAnswer:
+      - 10
+      - 12
+      - 9
+      Explanation: A soccer team can have a maximum of 11 players on the field at
+        one time.
+    - Question: Which sport is played with a puck?
+      TrueAnswer: Ice Hockey
+      FalseAnswer:
+      - Field Hockey
+      - Roller Hockey
+      - Lacrosse
+      Explanation: Ice Hockey is played with a puck, which is hit into the opposing
+        team's net to score goals.
+    - Question: What is the maximum number of players on a football team's field
+        at one time?
+      TrueAnswer: 11
+      FalseAnswer:
+      - 10
+      - 12
+      - 9
+      Explanation: A football team can have a maximum of 11 players on the field
+        at one time.
+    - Question: Which country hosted the first modern Olympic Games?
+      TrueAnswer: Greece
+      FalseAnswer:
+      - France
+      - United States
+      - Germany
+      Explanation: The first modern Olympic Games were hosted by Greece in 1896,
+        the birthplace of the ancient Olympics.
+    - Question: What is the maximum number of players on a volleyball team's court
+        at one time?
+      TrueAnswer: 6
+      FalseAnswer:
+      - 5
+      - 7
+      - 8
+      Explanation: A volleyball team can have a maximum of 6 players on the court
+        at one time.
+    - Question: Which sport is played with a cue ball and 15 colored balls?
+      TrueAnswer: Snooker
+      FalseAnswer:
+      - Pool
+      - Billiards
+      - Bowling
+      Explanation: Snooker is played with a cue ball and 15 colored balls, aiming
+        to score points by potting them in the correct order.
+    - Question: What is the maximum number of players on a rugby union team's field
+        at one time?
+      TrueAnswer: 15
+      FalseAnswer:
+      - 10
+      - 12
+      - 7
+      Explanation: A rugby union team can have a maximum of 15 players on the field
+        at one time.
+    - Question: Which country is credited with inventing the game of baseball?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Cuba
+      - Japan
+      - Dominican Republic
+      Explanation: Baseball is believed to have been invented in the United States,
+        becoming a popular national pastime.

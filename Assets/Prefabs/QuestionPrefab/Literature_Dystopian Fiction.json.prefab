@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4326354780998848100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9088386782027258146}
+  - component: {fileID: 5950730843385366260}
+  m_Layer: 0
+  m_Name: Literature_Dystopian Fiction.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9088386782027258146
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4326354780998848100}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5950730843385366260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4326354780998848100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the author of the dystopian novel '1984'?
+      TrueAnswer: George Orwell
+      FalseAnswer:
+      - Aldous Huxley
+      - Ray Bradbury
+      - Margaret Atwood
+      Explanation: '''1984'' was written by George Orwell and published in 1949,
+        depicting a totalitarian society.'
+    - Question: What is the name of the protagonist in 'The Hunger Games' trilogy?
+      TrueAnswer: Katniss Everdeen
+      FalseAnswer:
+      - Peeta Mellark
+      - Gale Hawthorne
+      - Primrose Everdeen
+      Explanation: Katniss Everdeen is the main character in 'The Hunger Games' trilogy
+        by Suzanne Collins.
+    - Question: Which dystopian novel features a society divided into factions based
+        on virtues?
+      TrueAnswer: Divergent
+      FalseAnswer:
+      - Brave New World
+      - Fahrenheit 451
+      - The Giver
+      Explanation: '''Divergent'' by Veronica Roth is set in a future Chicago where
+        people are divided into factions based on their personalities.'
+    - Question: In 'The Handmaid's Tale', what is the protagonist's assigned name?
+      TrueAnswer: Offred
+      FalseAnswer:
+      - June
+      - Serena Joy
+      - Moira
+      Explanation: Offred is the name given to the main character in Margaret Atwood's
+        'The Handmaid's Tale'.
+    - Question: Which dystopian novel features a society where books are banned and
+        burned?
+      TrueAnswer: Fahrenheit 451
+      FalseAnswer:
+      - 1984
+      - Brave New World
+      - The Hunger Games
+      Explanation: '''Fahrenheit 451'' by Ray Bradbury portrays a future society
+        where books are outlawed and burned by the firemen.'
+    - Question: Who is the author of the dystopian novel 'Brave New World'?
+      TrueAnswer: Aldous Huxley
+      FalseAnswer:
+      - George Orwell
+      - Ray Bradbury
+      - Margaret Atwood
+      Explanation: '''Brave New World'' was written by Aldous Huxley and published
+        in 1932, depicting a futuristic society.'
+    - Question: What is the name of the totalitarian regime in 'The Maze Runner'
+        series?
+      TrueAnswer: WICKED
+      FalseAnswer:
+      - The Capitol
+      - The Society
+      - The Faction
+      Explanation: WICKED is the name of the organization controlling the dystopian
+        world in 'The Maze Runner' series by James Dashner.
+    - Question: Which dystopian novel features a society where emotions are suppressed
+        by daily injections?
+      TrueAnswer: The Giver
+      FalseAnswer:
+      - 1984
+      - Brave New World
+      - Fahrenheit 451
+      Explanation: '''The Giver'' by Lois Lowry portrays a society where emotions
+        are controlled and memories are erased.'
+    - Question: What is the name of the oppressive government in 'The Hunger Games'
+        trilogy?
+      TrueAnswer: The Capitol
+      FalseAnswer:
+      - Panem
+      - District 13
+      - The Society
+      Explanation: The Capitol is the ruling government in 'The Hunger Games' trilogy
+        by Suzanne Collins.
+    - Question: Which dystopian novel features a society where women are divided
+        into classes based on fertility?
+      TrueAnswer: The Handmaid's Tale
+      FalseAnswer:
+      - 1984
+      - Brave New World
+      - Fahrenheit 451
+      Explanation: '''The Handmaid''s Tale'' by Margaret Atwood depicts a society
+        where women are assigned roles based on their reproductive abilities.'
+    - Question: Who is the author of the dystopian novel 'The Maze Runner'?
+      TrueAnswer: James Dashner
+      FalseAnswer:
+      - Suzanne Collins
+      - Veronica Roth
+      - Lois Lowry
+      Explanation: '''The Maze Runner'' was written by James Dashner and published
+        in 2009, introducing a post-apocalyptic world.'
+    - Question: What is the name of the protagonist in '1984'?
+      TrueAnswer: Winston Smith
+      FalseAnswer:
+      - Julia
+      - Big Brother
+      - O'Brien
+      Explanation: Winston Smith is the main character in George Orwell's dystopian
+        novel '1984'.
+    - Question: Which dystopian novel features a society where memories are erased
+        to maintain peace?
+      TrueAnswer: The Giver
+      FalseAnswer:
+      - 1984
+      - Brave New World
+      - Fahrenheit 451
+      Explanation: '''The Giver'' by Lois Lowry explores a society where memories
+        are erased to prevent conflict and maintain control.'
+    - Question: What is the name of the protagonist in 'Brave New World'?
+      TrueAnswer: Bernard Marx
+      FalseAnswer:
+      - John the Savage
+      - Lenina Crowne
+      - Mustapha Mond
+      Explanation: Bernard Marx is the central character in Aldous Huxley's dystopian
+        novel 'Brave New World'.
+    - Question: Which dystopian novel features a society where citizens are controlled
+        through pleasure and drugs?
+      TrueAnswer: Brave New World
+      FalseAnswer:
+      - 1984
+      - Fahrenheit 451
+      - The Handmaid's Tale
+      Explanation: '''Brave New World'' by Aldous Huxley presents a society where
+        people are controlled through pleasure and the use of drugs.'
+    - Question: What is the name of the protagonist in 'Fahrenheit 451'?
+      TrueAnswer: Guy Montag
+      FalseAnswer:
+      - Clarisse McClellan
+      - Captain Beatty
+      - Mildred Montag
+      Explanation: Guy Montag is the main character in Ray Bradbury's dystopian novel
+        'Fahrenheit 451'.
+    - Question: Which dystopian novel features a society where citizens are assigned
+        jobs based on their abilities?
+      TrueAnswer: The Giver
+      FalseAnswer:
+      - 1984
+      - Brave New World
+      - Fahrenheit 451
+      Explanation: '''The Giver'' by Lois Lowry portrays a society where individuals
+        are assigned roles based on their abilities.'
+    - Question: What is the name of the protagonist in 'The Handmaid's Tale'?
+      TrueAnswer: Offred
+      FalseAnswer:
+      - June
+      - Serena Joy
+      - Moira
+      Explanation: Offred is the name given to the main character in Margaret Atwood's
+        'The Handmaid's Tale'.
+    - Question: Which dystopian novel features a society where individuals are genetically
+        engineered and assigned roles?
+      TrueAnswer: Brave New World
+      FalseAnswer:
+      - 1984
+      - Fahrenheit 451
+      - The Giver
+      Explanation: '''Brave New World'' by Aldous Huxley presents a society where
+        people are genetically engineered and assigned specific roles.'
+    - Question: What is the name of the protagonist in 'Divergent'?
+      TrueAnswer: Tris Prior
+      FalseAnswer:
+      - Four
+      - Eric
+      - Jeanine Matthews
+      Explanation: Tris Prior is the central character in Veronica Roth's dystopian
+        novel 'Divergent'.
+    - Question: Which dystopian novel features a society where individuals are divided
+        into castes based on intelligence?
+      TrueAnswer: Brave New World
+      FalseAnswer:
+      - 1984
+      - Fahrenheit 451
+      - The Handmaid's Tale
+      Explanation: '''Brave New World'' by Aldous Huxley portrays a society where
+        people are divided into castes based on intelligence.'

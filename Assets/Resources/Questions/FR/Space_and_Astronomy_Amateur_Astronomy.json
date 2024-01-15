@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le terme désignant le décalage apparent de la position d'une étoile proche dû à l'orbite de la Terre ?",
+            "TrueAnswer": "Parallaxe",
+            "FalseAnswer": [
+              "Écliptique",
+              "Zodiaque",
+              "Supernova"
+            ],
+            "Explanation": "La parallaxe est utilisée en astronomie amateur pour mesurer la distance jusqu'aux étoiles proches en observant leur mouvement apparent par rapport aux étoiles lointaines en arrière-plan."
+          },
+          {
+            "Question": "Quelle planète a la rotation la plus lente du Système Solaire ?",
+            "TrueAnswer": "Vénus",
+            "FalseAnswer": [
+              "Mars",
+              "Terre",
+              "Jupiter"
+            ],
+            "Explanation": "Vénus a une rotation extrêmement lente, prenant environ 243 jours terrestres pour effectuer une rotation complète sur son axe."
+          },
+          {
+            "Question": "Quel est le terme désignant la traînée lumineuse brillante causée par une petite particule pénétrant dans l'atmosphère terrestre ?",
+            "TrueAnswer": "Météore",
+            "FalseAnswer": [
+              "Comète",
+              "Astéroïde",
+              "Supernova"
+            ],
+            "Explanation": "Les météores, également connus sous le nom d'étoiles filantes, sont causés par de petites particules qui brûlent en entrant dans l'atmosphère terrestre, créant une traînée de lumière brève mais brillante."
+          },
+          {
+            "Question": "Quel type de télescope utilise un ensemble de grands miroirs pour recueillir et focaliser la lumière ?",
+            "TrueAnswer": "Réflecteur",
+            "FalseAnswer": [
+              "Réfracteur",
+              "Catadioptrique",
+              "Spectrographe"
+            ],
+            "Explanation": "Les télescopes réflecteurs recueillent et focalisent la lumière en utilisant des miroirs, permettant des ouvertures plus grandes et moins de distorsion par rapport aux télescopes réfracteurs."
+          },
+          {
+            "Question": "Quel composant du télescope contrôle la direction vers laquelle pointe le télescope ?",
+            "TrueAnswer": "Monture",
+            "FalseAnswer": [
+              "Oculaire",
+              "Ouverture",
+              "Lentille de Barlow"
+            ],
+            "Explanation": "La monture est la partie du télescope qui maintient et déplace le télescope pour permettre un pointage précis et un suivi des objets célestes."
+          },
+          {
+            "Question": "Quel est le nom du plus célèbre amas ouvert d'étoiles dans la constellation du Taureau ?",
+            "TrueAnswer": "Pléiades",
+            "FalseAnswer": [
+              "Nébuleuse d'Orion",
+              "Galaxie d'Andromède",
+              "Amas de la Crèche"
+            ],
+            "Explanation": "Les Pléiades, également connues sous le nom des Sept Sœurs, sont un bel amas ouvert d'étoiles facilement visible à l'œil nu dans la constellation du Taureau."
+          },
+          {
+            "Question": "Quel est le terme désignant le point dans le ciel directement au-dessus d'un observateur ?",
+            "TrueAnswer": "Zénith",
+            "FalseAnswer": [
+              "Nadir",
+              "Méridien",
+              "Écliptique"
+            ],
+            "Explanation": "Le zénith est le point dans le ciel directement au-dessus d'un observateur et est opposé au nadir, qui est le point directement en dessous."
+          },
+          {
+            "Question": "Quel est le nom du nuage faiblement diffuse de gaz et de poussière dans le ciel nocturne ?",
+            "TrueAnswer": "Nébuleuse",
+            "FalseAnswer": [
+              "Quasar",
+              "Trou noir",
+              "Vestige de supernova"
+            ],
+            "Explanation": "Les nébuleuses sont de vastes régions de l'espace où naissent de nouvelles étoiles, et elles apparaissent souvent comme des structures faiblement nuageuses dans le ciel nocturne."
+          },
+          {
+            "Question": "Quel type d'étoile a la température de surface la plus élevée ?",
+            "TrueAnswer": "Étoile de type O",
+            "FalseAnswer": [
+              "Étoile de type M",
+              "Étoile de type G",
+              "Étoile de type K"
+            ],
+            "Explanation": "Les étoiles de type O font partie des étoiles principales les plus chaudes, avec des températures de surface dépassant les 30 000 degrés Kelvin."
+          },
+          {
+            "Question": "Quel est le terme désignant un éclaircissement soudain et intense d'une étoile dû à une explosion thermonucléaire ?",
+            "TrueAnswer": "Nova",
+            "FalseAnswer": [
+              "Pulsar",
+              "Quasar",
+              "Supernova"
+            ],
+            "Explanation": "Les novae se produisent dans des systèmes d'étoiles binaires lorsque qu'une naine blanche accrète de la matière de sa compagne, entraînant une augmentation soudaine de luminosité."
+          },
+          {
+            "Question": "Quelle partie visible de l'atmosphère du Soleil est observable pendant une éclipse solaire ?",
+            "TrueAnswer": "Couronne",
+            "FalseAnswer": [
+              "Photosphère",
+              "Chromosphère",
+              "Prominence"
+            ],
+            "Explanation": "La couronne est la couche la plus externe de l'atmosphère du Soleil visible pendant une éclipse solaire totale, apparaissant comme un halo de plasma autour du Soleil obscurci."
+          },
+          {
+            "Question": "Quel est le terme désignant l'alignement de trois corps célestes en ligne droite ?",
+            "TrueAnswer": "Syzygie",
+            "FalseAnswer": [
+              "Opposition",
+              "Conjonction",
+              "Périgée"
+            ],
+            "Explanation": "La syzygie se produit lorsque le Soleil, la Terre et la Lune sont alignés, provoquant des phénomènes tels que les éclipses et les marées en raison des forces gravitationnelles."
+          },
+          {
+            "Question": "Quel instrument est utilisé pour mesurer la luminosité des étoiles et autres objets célestes ?",
+            "TrueAnswer": "Photomètre",
+            "FalseAnswer": [
+              "Micromètre",
+              "Spectroscope",
+              "Lentille de Barlow"
+            ],
+            "Explanation": "Les photomètres mesurent l'intensité de la lumière émise par les objets célestes, permettant aux astronomes de quantifier la luminosité et les variations des étoiles."
+          },
+          {
+            "Question": "Quelle est la galaxie spirale la plus proche de la Voie lactée ?",
+            "TrueAnswer": "Andromède",
+            "FalseAnswer": [
+              "Triangulum",
+              "Tourbillon",
+              "Pincée"
+            ],
+            "Explanation": "La galaxie d'Andromède est située à environ 2,537 millions d'années-lumière de la Voie lactée et est la galaxie spirale la plus proche de la nôtre."
+          },
+          {
+            "Question": "Quel est le terme désignant le moment où le Soleil est au point le plus élevé dans le ciel ?",
+            "TrueAnswer": "Midi solaire",
+            "FalseAnswer": [
+              "Équinoxe",
+              "Solstice",
+              "Aphélie"
+            ],
+            "Explanation": "Le midi solaire est le moment de la journée où le Soleil atteint son point le plus élevé dans le ciel, indiquant le point médian entre le lever et le coucher du soleil."
+          },
+          {
+            "Question": "Quel est le nom du nuage de poussière et de gaz très réfléchissant éclairé par des étoiles proches ?",
+            "TrueAnswer": "Nébuleuse de réflexion",
+            "FalseAnswer": [
+              "Nébuleuse planétaire",
+              "Nébuleuse sombre",
+              "Vestige de supernova"
+            ],
+            "Explanation": "Les nébuleuses de réflexion sont composées de gaz et de poussière qui reflètent la lumière des étoiles proches, leur donnant l'apparence de structures lumineuses en forme de nuage dans l'espace."
+          },
+          {
+            "Question": "Quel est le terme désignant la trajectoire circulaire suivie par une planète ou un corps céleste dans son orbite autour du Soleil ?",
+            "TrueAnswer": "Orbite",
+            "FalseAnswer": [
+              "Axe",
+              "Écliptique",
+              "Zénith"
+            ],
+            "Explanation": "L'orbite est le chemin courbé le long duquel une planète ou un corps céleste voyage en orbite autour du Soleil ou d'un autre objet céleste."
+          },
+          {
+            "Question": "Quel est le nom du plus grand astéroïde du Système Solaire ?",
+            "TrueAnswer": "Cérès",
+            "FalseAnswer": [
+              "Vesta",
+              "Pallas",
+              "Hygie"
+            ],
+            "Explanation": "Cérès est l'objet le plus important de la ceinture d'astéroïdes entre Mars et Jupiter et est classé comme une planète naine en raison de sa taille et de sa forme sphérique."
+          },
+          {
+            "Question": "Quel est le terme désignant un groupe d'étoiles formant une configuration reconnaissable ou une forme dans le ciel ?",
+            "TrueAnswer": "Constellation",
+            "FalseAnswer": [
+              "Galaxie",
+              "Nébuleuse",
+              "Amas"
+            ],
+            "Explanation": "Les constellations sont des configurations d'étoiles qui semblent former des motifs distinctifs lorsqu'elles sont vues depuis la Terre, représentant souvent des figures ou des objets mythiques."
+          },
+          {
+            "Question": "Quel est le terme désignant le point dans une orbite où une planète ou un corps céleste est le plus proche du Soleil ?",
+            "TrueAnswer": "Périhélie",
+            "FalseAnswer": [
+              "Aphélie",
+              "Équinoxe",
+              "Solstice"
+            ],
+            "Explanation": "Le périhélie est le point de l'orbite d'une planète où elle est la plus proche du Soleil, entraînant un chauffage solaire accru et un mouvement orbital plus rapide."
+          }
+        ]
+      }
+    }
+  ]
+}

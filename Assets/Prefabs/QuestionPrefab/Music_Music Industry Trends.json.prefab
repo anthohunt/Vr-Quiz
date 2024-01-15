@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7027704954398361511
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 375193152791841500}
+  - component: {fileID: 1796886540285065612}
+  m_Layer: 0
+  m_Name: Music_Music Industry Trends.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &375193152791841500
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7027704954398361511}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1796886540285065612
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7027704954398361511}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which streaming platform has the most subscribers?
+      TrueAnswer: Spotify
+      FalseAnswer:
+      - Apple Music
+      - Tidal
+      - Amazon Music
+      Explanation: As of 2021, Spotify has the highest number of subscribers among
+        streaming platforms.
+    - Question: Which artist holds the record for the most Grammy Awards won?
+      TrueAnswer: "Beyonc\xE9"
+      FalseAnswer:
+      - Taylor Swift
+      - Adele
+      - Michael Jackson
+      Explanation: "Beyonc\xE9 currently holds the record for the most Grammy Awards
+        won by a female artist."
+    - Question: Which genre of music is currently the most popular worldwide?
+      TrueAnswer: Pop
+      FalseAnswer:
+      - Hip Hop
+      - Rock
+      - Country
+      Explanation: Pop music is currently the most popular genre worldwide, dominating
+        charts and streaming platforms.
+    - Question: Which country is known for producing the most K-pop groups?
+      TrueAnswer: South Korea
+      FalseAnswer:
+      - Japan
+      - China
+      - United States
+      Explanation: South Korea is renowned for its K-pop industry, which has gained
+        global popularity in recent years.
+    - Question: Which social media platform is most commonly used by musicians to
+        promote their music?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - TikTok
+      Explanation: Instagram is widely used by musicians to share updates, connect
+        with fans, and promote their music.
+    - Question: Which music streaming platform offers the highest audio quality for
+        subscribers?
+      TrueAnswer: Tidal
+      FalseAnswer:
+      - Spotify
+      - Apple Music
+      - Amazon Music
+      Explanation: Tidal is known for its high-quality audio streaming, offering
+        lossless and Hi-Fi options for subscribers.
+    - Question: Which artist has the most followers on Spotify?
+      TrueAnswer: Ed Sheeran
+      FalseAnswer:
+      - Drake
+      - Ariana Grande
+      - Justin Bieber
+      Explanation: Ed Sheeran currently has the most followers on Spotify, with millions
+        of listeners worldwide.
+    - Question: Which music genre experienced a surge in popularity during the COVID-19
+        pandemic?
+      TrueAnswer: Lo-fi
+      FalseAnswer:
+      - Reggaeton
+      - EDM
+      - Classical
+      Explanation: Lo-fi music gained significant popularity during the pandemic,
+        providing a calming and nostalgic escape for listeners.
+    - Question: Which streaming platform offers a free ad-supported tier for users?
+      TrueAnswer: Spotify
+      FalseAnswer:
+      - Apple Music
+      - Tidal
+      - Amazon Music
+      Explanation: Spotify offers a free ad-supported tier, allowing users to listen
+        to music with occasional advertisements.
+    - Question: Which artist's album broke the record for the most streams in a single
+        day?
+      TrueAnswer: Taylor Swift
+      FalseAnswer:
+      - "Beyonc\xE9"
+      - Drake
+      - Adele
+      Explanation: Taylor Swift's album 'Folklore' broke the record for the most
+        streams in a single day on Spotify.
+    - Question: Which music streaming platform was the first to introduce personalized
+        playlists?
+      TrueAnswer: Pandora
+      FalseAnswer:
+      - Spotify
+      - Apple Music
+      - Tidal
+      Explanation: Pandora was one of the first music streaming platforms to introduce
+        personalized playlists based on user preferences.
+    - Question: Which artist's music video holds the record for the most views on
+        YouTube?
+      TrueAnswer: BTS
+      FalseAnswer:
+      - Justin Bieber
+      - Taylor Swift
+      - Katy Perry
+      Explanation: BTS holds the record for the most views on YouTube with their
+        music video 'Dynamite'.
+    - Question: Which music streaming platform offers exclusive releases and content
+        from certain artists?
+      TrueAnswer: Apple Music
+      FalseAnswer:
+      - Spotify
+      - Tidal
+      - Amazon Music
+      Explanation: Apple Music often secures exclusive releases and content from
+        popular artists, enticing users to subscribe.
+    - Question: Which artist's album had the highest first-week sales in history?
+      TrueAnswer: Adele
+      FalseAnswer:
+      - Taylor Swift
+      - "Beyonc\xE9"
+      - Drake
+      Explanation: Adele's album '25' had the highest first-week sales in history,
+        breaking numerous records.
+    - Question: Which music genre saw a decline in popularity in recent years?
+      TrueAnswer: Rock
+      FalseAnswer:
+      - R&B
+      - Country
+      - Reggaeton
+      Explanation: Rock music has seen a decline in popularity in recent years, with
+        other genres taking the spotlight.
+    - Question: Which artist's album was the first to reach one billion streams on
+        Spotify?
+      TrueAnswer: Drake
+      FalseAnswer:
+      - Ed Sheeran
+      - Ariana Grande
+      - Justin Bieber
+      Explanation: Drake's album 'Scorpion' was the first to reach one billion streams
+        on Spotify.
+    - Question: Which music streaming platform offers a family plan subscription
+        option?
+      TrueAnswer: Amazon Music
+      FalseAnswer:
+      - Spotify
+      - Apple Music
+      - Tidal
+      Explanation: Amazon Music offers a family plan subscription option, allowing
+        multiple users to share an account.
+    - Question: Which artist's album had the longest consecutive run at number one
+        on the Billboard 200?
+      TrueAnswer: Taylor Swift
+      FalseAnswer:
+      - "Beyonc\xE9"
+      - Drake
+      - Adele
+      Explanation: Taylor Swift's album 'Folklore' had the longest consecutive run
+        at number one on the Billboard 200.
+    - Question: Which music genre is known for its fast-paced, aggressive style?
+      TrueAnswer: Metal
+      FalseAnswer:
+      - Jazz
+      - Folk
+      - R&B
+      Explanation: Metal music is characterized by its fast-paced, aggressive style,
+        often featuring heavy guitar riffs and intense vocals.
+    - Question: Which artist's album had the highest debut sales in history?
+      TrueAnswer: BTS
+      FalseAnswer:
+      - Taylor Swift
+      - Adele
+      - Drake
+      Explanation: BTS' album 'BE' had the highest debut sales in history, breaking
+        multiple records worldwide.

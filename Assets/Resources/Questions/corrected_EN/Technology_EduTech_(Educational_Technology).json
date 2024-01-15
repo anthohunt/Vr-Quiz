@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What does STEM stand for?",
+          "TrueAnswer": "Science, Technology, Engineering, Mathematics",
+          "FalseAnswer": [
+            "Social, Technology, Education, Mathematics",
+            "Science, Training, Engineering, Medicine",
+            "Software, Testing, Evaluation, Marketing"
+          ],
+          "Explanation": "STEM refers to an integrated educational approach that emphasizes Science, Technology, Engineering, and Mathematics to foster critical thinking and problem-solving skills."
+        },
+        {
+          "Question": "In teaching, what does the acronym LMS stand for?",
+          "TrueAnswer": "Learning Management System",
+          "FalseAnswer": [
+            "Language Management Software",
+            "Lesson Mastering System",
+            "Laboratory Maintenance System"
+          ],
+          "Explanation": "An LMS is a digital platform used to manage and deliver educational content such as courses, assignments, and assessments in a virtual environment."
+        },
+        {
+          "Question": "Which programming language is commonly used for game development?",
+          "TrueAnswer": "C++",
+          "FalseAnswer": [
+            "Java",
+            "Python",
+            "HTML"
+          ],
+          "Explanation": "C++ is a popular programming language for game development due to its performance and flexibility, making it widely used in creating game engines and high-performance games."
+        },
+        {
+          "Question": "What is the main goal of adaptive learning technology?",
+          "TrueAnswer": "Personalized Learning",
+          "FalseAnswer": [
+            "Group Learning",
+            "Traditional Teaching",
+            "Standardized Testing"
+          ],
+          "Explanation": "Adaptive learning technology aims to provide personalized learning experiences by adjusting the content and pace of instruction to meet the individual needs and abilities of each student."
+        },
+        {
+          "Question": "What does AR stand for in educational technology?",
+          "TrueAnswer": "Augmented Reality",
+          "FalseAnswer": [
+            "Advanced Robotics",
+            "Artificial Intelligence",
+            "Audio Recording"
+          ],
+          "Explanation": "Augmented Reality integrates digital information and virtual objects into the real-world environment, enhancing the learning experience by providing interactive and immersive content."
+        },
+        {
+          "Question": "What type of technology uses eye-tracking for educational purposes?",
+          "TrueAnswer": "Gaze-based Learning",
+          "FalseAnswer": [
+            "Speech Recognition Software",
+            "Virtual Reality Simulation",
+            "Gesture-based Interaction"
+          ],
+          "Explanation": "Gaze-based learning technology tracks and analyzes the user's eye movements to understand visual attention patterns and optimize educational content delivery."
+        },
+        {
+          "Question": "Which of the following is an example of gamification in education?",
+          "TrueAnswer": "Points and Badges for Achievements",
+          "FalseAnswer": [
+            "Traditional Homework Assignments",
+            "Lecture-based Instruction",
+            "Standardized Testing"
+          ],
+          "Explanation": "Gamification uses game-design elements to engage and motivate students, often through rewards like points and badges, to promote active learning and academic competitiveness."
+        },
+        {
+          "Question": "What does the acronym MOOC stand for in online education?",
+          "TrueAnswer": "Massive Open Online Course",
+          "FalseAnswer": [
+            "Mobile Online Offline Curriculum",
+            "Modular Object-Oriented Coding",
+            "Mandatory Office of College"
+          ],
+          "Explanation": "MOOCs are online courses designed for a large number of participants, freely accessible over the internet, allowing learners to engage in self-paced, collaborative learning experiences."
+        },
+        {
+          "Question": "Which technology allows real-time collaboration and document sharing in classrooms?",
+          "TrueAnswer": "Google Workspace for Education",
+          "FalseAnswer": [
+            "Microsoft Excel",
+            "Adobe Acrobat",
+            "Apple iWork Suite"
+          ],
+          "Explanation": "Google Workspace for Education provides tools such as Google Docs, Sheets, and Slides for collaborative work, enabling students and educators to create, share, and edit documents in real-time."
+        },
+        {
+          "Question": "In EduTech, what does the acronym AI stand for?",
+          "TrueAnswer": "Artificial Intelligence",
+          "FalseAnswer": [
+            "Automated Instruction",
+            "Academic Improvement",
+            "Adaptive Interaction"
+          ],
+          "Explanation": "Artificial Intelligence in EduTech refers to the use of machine learning and algorithms to analyze student data, personalize learning experiences, and automate educational processes."
+        },
+        {
+          "Question": "Which technology facilitates interactive online discussions and peer collaboration?",
+          "TrueAnswer": "Discussion Forums",
+          "FalseAnswer": [
+            "Email Communication",
+            "Social Media Platforms",
+            "Video Lectures"
+          ],
+          "Explanation": "Discussion forums provide a structured platform for students to engage in meaningful online discourse, share ideas, and collaborate on academic topics within the learning environment."
+        },
+        {
+          "Question": "What EduTech tool uses self-paced tutorials and interactive exercises for skill development?",
+          "TrueAnswer": "Online Learning Platforms",
+          "FalseAnswer": [
+            "Traditional Textbooks",
+            "Paper-based Worksheets",
+            "Learning Management Systems"
+          ],
+          "Explanation": "Online learning platforms offer a wide range of courses and resources, allowing learners to engage in personalized, self-directed learning through interactive tutorials and exercises."
+        },
+        {
+          "Question": "What does the acronym BYOD represent in educational technology?",
+          "TrueAnswer": "Bring Your Own Device",
+          "FalseAnswer": [
+            "Build Your Own Database",
+            "Backup Your Online Data",
+            "Browse Your Online Directory"
+          ],
+          "Explanation": "BYOD refers to a policy that allows students to use their personal devices, such as laptops and tablets, for learning purposes, promoting digital literacy and accessibility to resources."
+        },
+        {
+          "Question": "Which technology enables virtual field trips and immersive learning experiences?",
+          "TrueAnswer": "Virtual Reality",
+          "FalseAnswer": [
+            "Augmented Reality",
+            "Video Conferencing",
+            "Simulated Environments"
+          ],
+          "Explanation": "Virtual Reality technology creates simulated environments that can be explored and interacted with, offering students immersive and engaging educational experiences, including virtual field trips and hands-on simulations."
+        },
+        {
+          "Question": "What technology method involves the use of audio recordings to deliver course content and lectures?",
+          "TrueAnswer": "Podcasting",
+          "FalseAnswer": [
+            "Teleconferencing",
+            "E-books",
+            "Webinars"
+          ],
+          "Explanation": "Podcasting allows educators to deliver audio content and lectures for students to access at their convenience, facilitating flexible and on-the-go learning opportunities."
+        },
+        {
+          "Question": "Which educational technology emphasizes the use of storytelling and interactive narratives?",
+          "TrueAnswer": "Digital Storytelling",
+          "FalseAnswer": [
+            "Data Analysis Tools",
+            "Online Assessments",
+            "Graphical Presentations"
+          ],
+          "Explanation": "Digital storytelling integrates multimedia elements to create interactive narratives, promoting creativity, communication skills, and critical thinking through the art of storytelling in educational contexts."
+        },
+        {
+          "Question": "What does the acronym PBL stand for in EduTech?",
+          "TrueAnswer": "Project-Based Learning",
+          "FalseAnswer": [
+            "Personalized Blended Learning",
+            "Professional Business Language",
+            "Programmable Block Language"
+          ],
+          "Explanation": "Project-Based Learning emphasizes student-driven, hands-on projects to promote problem-solving, collaboration, and critical thinking skills within a real-world context."
+        },
+        {
+          "Question": "Which technology solution allows educators to create interactive quizzes and assignments?",
+          "TrueAnswer": "EdTech Tools",
+          "FalseAnswer": [
+            "E-learning platforms",
+            "Social Media Networks",
+            "Classroom Management Software"
+          ],
+          "Explanation": "EdTech tools encompass various digital platforms and software designed to enhance teaching and learning, including features for creating interactive quizzes, assignments, and assessments."
+        },
+        {
+          "Question": "In EduTech, what does the acronym IWB represent?",
+          "TrueAnswer": "Interactive Whiteboard",
+          "FalseAnswer": [
+            "Innovative Web-Based",
+            "Internet Workstation Browser",
+            "Instructional Writing Board"
+          ],
+          "Explanation": "Interactive Whiteboards offer interactive displays that allow educators to engage students through dynamic visual content, interactive activities, and collaborative learning experiences."
+        },
+        {
+          "Question": "Which technology integrates artificial intelligence to provide immediate feedback on student responses?",
+          "TrueAnswer": "Automatic Grading Systems",
+          "FalseAnswer": [
+            "Peer Assessment Tools",
+            "Traditional Testing Methods",
+            "Textbook-based Exercises"
+          ],
+          "Explanation": "Automatic grading systems use AI algorithms to assess and provide real-time feedback on student work, supporting efficient grading processes and enabling personalized learning interventions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom du célèbre leader mythologique norrois ?",
+            "TrueAnswer": "Odin",
+            "FalseAnswer": [
+              "Thor",
+              "Loki",
+              "Freyr"
+            ],
+            "Explanation": "Odin est le principal dieu nordique, associé à la sagesse, à la guerre, à la poésie et à la magie. Il est également le dieu des morts."
+          },
+          {
+            "Question": "Dans l'épopée philippine 'Biag ni Lam-ang', quelle créature Lam-ang a-t-il tuée ?",
+            "TrueAnswer": "Serpent",
+            "FalseAnswer": [
+              "Dragon",
+              "Géant",
+              "Basilic"
+            ],
+            "Explanation": "Lam-ang, une figure mythique, défait un serpent géant dans l'épopée, symbolisant sa force et son héroïsme."
+          },
+          {
+            "Question": "Quel élément de la nature est mis en avant dans le conte africain 'Anansi the Spider' ?",
+            "TrueAnswer": "Soleil",
+            "FalseAnswer": [
+              "Lune",
+              "Vent",
+              "Pluie"
+            ],
+            "Explanation": "Le soleil joue un rôle important dans le conte 'Anansi the Spider', mettant en valeur l'astuce et la ruse d'Anansi sous la lumière du soleil."
+          },
+          {
+            "Question": "Quel personnage célèbre peut-on trouver dans les contes arabes des Mille et une nuits ?",
+            "TrueAnswer": "Schéhérazade",
+            "FalseAnswer": [
+              "Aladin",
+              "Sinbad",
+              "Ali Baba"
+            ],
+            "Explanation": "Schéhérazade est la reine des conteuses qui sauve habilement sa vie en captivant le roi avec ses récits."
+          },
+          {
+            "Question": "Quelle créature est connue pour accorder trois vœux dans le folklore européen ?",
+            "TrueAnswer": "Génie",
+            "FalseAnswer": [
+              "Lutin",
+              "Leprechaun",
+              "Sirène"
+            ],
+            "Explanation": "Le génie, souvent représenté dans le folklore et les 'Mille et une nuits', est connu pour accorder trois vœux à celui qui le libère de sa captivité."
+          },
+          {
+            "Question": "Quel animal joue un rôle central dans le conte africain 'La Queue de Vache Magique' ?",
+            "TrueAnswer": "Bœuf",
+            "FalseAnswer": [
+              "Lion",
+              "Éléphant",
+              "Girafe"
+            ],
+            "Explanation": "Le bœuf est un personnage clé dont la queue devient la baguette magique dans le conte africain, symbolisant la résilience et la transformation."
+          },
+          {
+            "Question": "Quel est le nom du conte chinois sur un voyage vers l'Ouest ?",
+            "TrueAnswer": "Voyage vers l'Ouest",
+            "FalseAnswer": [
+              "Roi Singe",
+              "Princesse Dragon",
+              "Mulan"
+            ],
+            "Explanation": "Le 'Voyage vers l'Ouest' ou 'Roi Singe' est basé sur le pèlerinage légendaire d'un moine bouddhiste de la dynastie Tang en Inde pour obtenir des textes sacrés."
+          },
+          {
+            "Question": "Dans le folklore amérindien, quel animal est souvent dépeint comme un trompeur ?",
+            "TrueAnswer": "Coyote",
+            "FalseAnswer": [
+              "Bison",
+              "Aigle",
+              "Ours"
+            ],
+            "Explanation": "Le coyote est un personnage trompeur de premier plan dans le folklore amérindien, connu pour utiliser l'esprit et la ruse pour tromper autrui."
+          },
+          {
+            "Question": "Quelle créature mythique est une figure importante dans les contes slaves ?",
+            "TrueAnswer": "Oiseau de feu",
+            "FalseAnswer": [
+              "Dragon",
+              "Koschei l'Immortel",
+              "Rusalka"
+            ],
+            "Explanation": "L'Oiseau de feu, un oiseau magique aux plumes scintillantes, est un symbole de chance et est souvent poursuivi par des héros dans le folklore slave."
+          },
+          {
+            "Question": "Quelle créature mythique est un personnage essentiel dans le conte gallois 'Le Mabinogion' ?",
+            "TrueAnswer": "Ceridwen",
+            "FalseAnswer": [
+              "Arthur",
+              "Branwen",
+              "Taliesin"
+            ],
+            "Explanation": "Ceridwen, une puissante sorcière, joue un rôle significatif dans 'Le Mabinogion' en brassant une potion magique qui accorde la sagesse et l'inspiration."
+          },
+          {
+            "Question": "Dans le conte populaire hispanique 'La Llorona', quelle action tragique hante le personnage principal ?",
+            "TrueAnswer": "Noie ses enfants",
+            "FalseAnswer": [
+              "Se lier d'amitié avec un fantôme",
+              "Jeter un sort à une sorcière",
+              "Vol chez un roi"
+            ],
+            "Explanation": "La légende de 'La Llorona' tourne autour d'une femme en pleurs qui a noyé ses enfants et qui erre maintenant à leur recherche dans l'au-delà."
+          },
+          {
+            "Question": "Quel objet accorde la capacité de comprendre le langage des animaux dans le conte africain 'Le Crâne Parlant' ?",
+            "TrueAnswer": "Crâne",
+            "FalseAnswer": [
+              "Miroir",
+              "Bague",
+              "Livre"
+            ],
+            "Explanation": "Le crâne, souvent en possession du protagoniste, est doué de la capacité de comprendre le langage des animaux."
+          },
+          {
+            "Question": "Dans le folklore hispanique, quelle créature surnaturelle est connue pour aspirer le souffle des enfants ?",
+            "TrueAnswer": "El Cucuy",
+            "FalseAnswer": [
+              "Chupacabra",
+              "Sirène",
+              "Selkie"
+            ],
+            "Explanation": "El Cucuy, aussi appelé le croque-mitaine, est une figure du folklore qui terrifie les enfants, connue pour rôder la nuit et capturer les enfants indisciplinés."
+          },
+          {
+            "Question": "Quel animal joue un rôle central dans le conte amérindien du Nord-Ouest Pacifique 'Le Corbeau Vole la Lumière' ?",
+            "TrueAnswer": "Corbeau",
+            "FalseAnswer": [
+              "Ours",
+              "Loup",
+              "Aigle"
+            ],
+            "Explanation": "Le corbeau, un héros culturel, est central dans le conte lorsqu'il vole la lumière, l'apportant dans le monde et créant l'ordre."
+          },
+          {
+            "Question": "Dans le conte japonais 'Momotaro', quel type de créature le personnage éponyme se lie d'amitié avec ?",
+            "TrueAnswer": "Singe",
+            "FalseAnswer": [
+              "Dragon",
+              "Chat",
+              "Tanuki"
+            ],
+            "Explanation": "Momotaro se lie d'amitié avec un singe, un chien et un faisan pour l'aider dans sa quête pour vaincre les ogres et apporter la paix au pays."
+          },
+          {
+            "Question": "Quel sujet de l'épopée de Gilgamesh est souvent considéré comme d'origine divine ?",
+            "TrueAnswer": "Enkidu",
+            "FalseAnswer": [
+              "Humbaba",
+              "Ereshkigal",
+              "Urshanabi"
+            ],
+            "Explanation": "Enkidu, un puissant guerrier et compagnon de Gilgamesh, a été créé par les dieux à partir d'argile et d'eau, incarnant un équilibre entre nature et civilisation."
+          },
+          {
+            "Question": "Quelle entité surnaturelle tourmente le protagoniste dans le conte russe 'Baba Yaga' ?",
+            "TrueAnswer": "Sorcière",
+            "FalseAnswer": [
+              "Fantôme",
+              "Démon",
+              "Vampire"
+            ],
+            "Explanation": "Baba Yaga, une redoutable sorcière, est un personnage populaire du folklore slave, connue pour sa sagesse et sa malveillance alors qu'elle aide ou entrave ceux qui la rencontrent."
+          },
+          {
+            "Question": "Qui est le protagoniste dans la légende cherokee de la 'Sagesse de la Voie Lactée' ?",
+            "TrueAnswer": "Grand-Mère Araignée",
+            "FalseAnswer": [
+              "Grande Ourse",
+              "Coyote",
+              "Tortue"
+            ],
+            "Explanation": "Grand-mère Araignée, une figure sage et débrouillarde, transmet le savoir et la sagesse au peuple cherokee dans l'histoire de la 'Sagesse de la Voie Lactée'."
+          },
+          {
+            "Question": "Quelle créature sert de guide au héros dans le conte indonésien 'L'Émeraude Magique' ?",
+            "TrueAnswer": "Tortue",
+            "FalseAnswer": [
+              "Phénix",
+              "Dragon",
+              "Serpent"
+            ],
+            "Explanation": "La tortue, sous la forme d'un guide, aide le héros dans 'L'Émeraude Magique' en lui fournissant des conseils précieux et des idées pendant sa quête."
+          },
+          {
+            "Question": "Quelle est la quête essentielle dans le folklore anglais de 'Jack et le Haricot Magique' ?",
+            "TrueAnswer": "Récupérer le trésor",
+            "FalseAnswer": [
+              "Sauver une princesse",
+              "Vaincre un géant",
+              "Tuer un dragon"
+            ],
+            "Explanation": "La quête principale dans 'Jack et le Haricot Magique' implique de récupérer le trésor du château du géant, mettant à l'épreuve le courage et l'ingéniosité de Jack dans le processus."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle agence a lancé le télescope spatial Hubble ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "CNSA",
+              "Roscosmos"
+            ],
+            "Explanation": "La NASA a lancé le télescope spatial Hubble en 1990 à bord de la navette spatiale Discovery."
+          },
+          {
+            "Question": "Quelle organisation a lancé la mission Chandrayaan-2 vers la lune ?",
+            "TrueAnswer": "ISRO",
+            "FalseAnswer": [
+              "NASA",
+              "ESA",
+              "JAXA"
+            ],
+            "Explanation": "L'Organisation indienne de recherche spatiale (ISRO) a lancé Chandrayaan-2, la deuxième mission d'exploration lunaire de l'Inde, en juillet 2019."
+          },
+          {
+            "Question": "Qui exploite la Station spatiale internationale (ISS) ?",
+            "TrueAnswer": "Roscosmos",
+            "FalseAnswer": [
+              "NASA",
+              "ESA",
+              "CNSA"
+            ],
+            "Explanation": "L'agence spatiale russe, Roscosmos, exploite le segment russe de l'ISS."
+          },
+          {
+            "Question": "Quelle agence spatiale a lancé le rover Perseverance sur Mars en 2020 ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "JAXA"
+            ],
+            "Explanation": "Le rover Perseverance de la NASA a atterri avec succès sur Mars en février 2021 pour rechercher des signes de vie microbienne ancienne."
+          },
+          {
+            "Question": "Quelle organisation a développé et exploite le télescope spatial Hubble ?",
+            "TrueAnswer": "ESA",
+            "FalseAnswer": [
+              "NASA",
+              "JAXA",
+              "Roscosmos"
+            ],
+            "Explanation": "Bien que la NASA ait lancé le télescope spatial Hubble, l'Agence spatiale européenne (ESA) l'a développé et l'exploite."
+          },
+          {
+            "Question": "Quelle agence a envoyé le premier humain dans l'espace ?",
+            "TrueAnswer": "Programme spatial soviétique",
+            "FalseAnswer": [
+              "NASA",
+              "ESA",
+              "CNSA"
+            ],
+            "Explanation": "Le 12 avril 1961, la mission Vostok 1 de l'Union soviétique a envoyé Youri Gagarine comme premier humain dans l'espace."
+          },
+          {
+            "Question": "Quelle agence gère l'orbiteur de reconnaissance de Mars ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "Roscosmos"
+            ],
+            "Explanation": "L'orbiteur de reconnaissance de Mars de la NASA étudie la surface et le climat martiens depuis son arrivée en orbite en 2006."
+          },
+          {
+            "Question": "Quelle organisation spatiale a lancé les sondes Voyager 1 et Voyager 2 ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "CNSA"
+            ],
+            "Explanation": "Le programme Voyager de la NASA a lancé les sondes Voyager 1 et Voyager 2 en 1977 pour explorer le système solaire externe."
+          },
+          {
+            "Question": "Qui gère le centre spatial européen en Guyane française ?",
+            "TrueAnswer": "ESA",
+            "FalseAnswer": [
+              "NASA",
+              "Roscosmos",
+              "ISRO"
+            ],
+            "Explanation": "L'Agence spatiale européenne (ESA) gère le Centre spatial guyanais situé en Guyane française, un site de lancement majeur pour les charges utiles européennes."
+          },
+          {
+            "Question": "Quelle agence spatiale a lancé l'orbiteur Juno pour étudier Jupiter ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "CNSA"
+            ],
+            "Explanation": "L'orbiteur Juno de la NASA est arrivé sur Jupiter en 2016 et étudie l'atmosphère, le champ magnétique et plus encore de la planète."
+          },
+          {
+            "Question": "Quelle organisation exploite l'observatoire Chandra de rayons X ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "CNSA",
+              "Roscosmos"
+            ],
+            "Explanation": "L'observatoire Chandra de rayons X de la NASA, lancé en 1999, aide les astronomes à comprendre la structure et l'évolution de l'univers."
+          },
+          {
+            "Question": "Quelle agence spatiale a lancé l'observatoire de la dynamique solaire (SDO) ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "CNSA"
+            ],
+            "Explanation": "L'observatoire de la dynamique solaire (SDO) de la NASA a été lancé en 2010 pour étudier les champs magnétiques du Soleil, les éruptions solaires et d'autres activités solaires."
+          },
+          {
+            "Question": "Quelle agence a envoyé le premier objet fabriqué par l'homme, Spoutnik 1, dans l'espace ?",
+            "TrueAnswer": "Programme spatial soviétique",
+            "FalseAnswer": [
+              "NASA",
+              "ESA",
+              "CNSA"
+            ],
+            "Explanation": "Le lancement du Spoutnik 1 par l'Union soviétique en 1957 a marqué le début de l'ère spatiale et de l'exploration spatiale."
+          },
+          {
+            "Question": "Quelle organisation exploite le module d'atterrissage InSight sur Mars ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "CNSA"
+            ],
+            "Explanation": "Le module d'atterrissage InSight de la NASA, arrivé sur Mars en 2018, étudie l'activité sismique et la structure interne de la planète."
+          },
+          {
+            "Question": "Quelle agence spatiale a lancé le télescope spatial Kepler pour rechercher des exoplanètes ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "CNSA"
+            ],
+            "Explanation": "Le télescope spatial Kepler de la NASA, lancé en 2009, a découvert des milliers d'exoplanètes en observant les variations de luminosité des étoiles."
+          },
+          {
+            "Question": "Quelle organisation a développé et exploite le télescope spatial James Webb ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "JAXA",
+              "Roscosmos"
+            ],
+            "Explanation": "Le télescope spatial James Webb de la NASA, prévu pour être lancé en 2021, explorera l'histoire de l'univers et étudiera les galaxies lointaines."
+          },
+          {
+            "Question": "Quelle agence spatiale exploite la mission Mars Express ?",
+            "TrueAnswer": "ESA",
+            "FalseAnswer": [
+              "NASA",
+              "ISRO",
+              "Roscosmos"
+            ],
+            "Explanation": "La mission Mars Express de l'Agence spatiale européenne, lancée en 2003, étudie la géologie et l'atmosphère de la planète rouge."
+          },
+          {
+            "Question": "Qui a lancé le programme de la navette spatiale pour le transport spatial en orbite ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "Roscosmos",
+              "ISRO"
+            ],
+            "Explanation": "Le programme de la navette spatiale de la NASA, actif de 1981 à 2011, a révolutionné les voyages spatiaux et la construction de l'ISS."
+          },
+          {
+            "Question": "Quelle organisation spatiale a lancé l'orbiteur Dawn pour explorer les astéroïdes ?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "ISRO",
+              "CNSA"
+            ],
+            "Explanation": "L'orbiteur Dawn de la NASA a orbite et étudié les deux plus grands corps de la ceinture d'astéroïdes : Vesta et Cérès."
+          }
+        ]
+      }
+    }
+  ]
+}

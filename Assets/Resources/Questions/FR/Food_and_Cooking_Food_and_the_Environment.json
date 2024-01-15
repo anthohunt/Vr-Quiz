@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'impact environnemental de l'élevage bovin?",
+            "TrueAnswer": "Émissions de méthane",
+            "FalseAnswer": [
+              "Séquestration du carbone",
+              "Conservation de l'eau",
+              "Énergie renouvelable"
+            ],
+            "Explanation": "L'élevage bovin est une source importante d'émissions de méthane, contribuant à l'accumulation de gaz à effet de serre et au changement climatique."
+          },
+          {
+            "Question": "Comment la production alimentaire affecte-t-elle la déforestation?",
+            "TrueAnswer": "Défrichage des terres pour l'agriculture",
+            "FalseAnswer": [
+              "Compensation carbone",
+              "Régénération forestière",
+              "Urbanisation"
+            ],
+            "Explanation": "Le défrichage des forêts pour les terres agricoles et les pâturages entraîne la perte de biodiversité et perturbe les écosystèmes, ayant un impact négatif sur l'environnement."
+          },
+          {
+            "Question": "Quelle est une alternative durable à la surpêche?",
+            "TrueAnswer": "Aquaculture",
+            "FalseAnswer": [
+              "Pêche en haute mer",
+              "Chalutage",
+              "Pêche au filet dérivant"
+            ],
+            "Explanation": "L'aquaculture, ou l'élevage de poissons, peut contribuer à réduire la pression sur les populations de poissons sauvages et à minimiser l'impact négatif sur les océans."
+          },
+          {
+            "Question": "Comment le gaspillage alimentaire et les décharges contribuent-ils aux problèmes environnementaux?",
+            "TrueAnswer": "Production de méthane",
+            "FalseAnswer": [
+              "Enrichissement du sol",
+              "Pollinisation",
+              "Purification de l'eau"
+            ],
+            "Explanation": "Lorsque les déchets alimentaires se décomposent dans les décharges, ils produisent du méthane, un puissant gaz à effet de serre qui contribue au changement climatique."
+          },
+          {
+            "Question": "Quelle pratique agricole aide à réduire l'érosion des sols et le ruissellement des produits chimiques?",
+            "TrueAnswer": "Rotation des cultures",
+            "FalseAnswer": [
+              "Monoculture",
+              "Labour",
+              "Utilisation de pesticides"
+            ],
+            "Explanation": "La rotation des cultures améliore la santé des sols et réduit la nécessité d'intrants chimiques, préservant l'environnement et favorisant la biodiversité."
+          },
+          {
+            "Question": "Quel est le principal contributeur aux zones mortes dans les océans?",
+            "TrueAnswer": "Ruissellement d'azote",
+            "FalseAnswer": [
+              "Énergie des vagues",
+              "Blanchissement des coraux",
+              "Zones marines protégées"
+            ],
+            "Explanation": "Le ruissellement d'azote des engrais et des déchets industriels alimente les proliférations algales, épuisant l'oxygène et créant des zones mortes dans les océans."
+          },
+          {
+            "Question": "Comment le transport des aliments impacte-t-il l'environnement?",
+            "TrueAnswer": "Émissions de gaz à effet de serre",
+            "FalseAnswer": [
+              "Appauvrissement de l'ozone",
+              "Érosion des sols",
+              "Pollution sonore"
+            ],
+            "Explanation": "Le transport des aliments sur de longues distances génère d'importantes émissions, contribuant au changement climatique et à la pollution de l'air."
+          },
+          {
+            "Question": "Quelle est une approche durable pour le contrôle des ravageurs en agriculture?",
+            "TrueAnswer": "Contrôle biologique",
+            "FalseAnswer": [
+              "Pulvérisation de pesticides",
+              "Modification génétique",
+              "Fumigation chimique"
+            ],
+            "Explanation": "Le contrôle biologique utilise des prédateurs et des agents pathogènes naturels pour gérer les ravageurs, réduisant la dépendance aux pesticides chimiques nocifs."
+          },
+          {
+            "Question": "Comment les monocultures impactent-elles la biodiversité?",
+            "TrueAnswer": "Réduction",
+            "FalseAnswer": [
+              "Augmentation",
+              "Stabilisation",
+              "Mutation"
+            ],
+            "Explanation": "Les monocultures entraînent une réduction de la biodiversité, rendant les écosystèmes plus vulnérables aux maladies, aux ravageurs et aux pressions liées au changement climatique."
+          },
+          {
+            "Question": "Quel est le bénéfice écologique de l'agriculture biologique?",
+            "TrueAnswer": "Favorise la santé des sols",
+            "FalseAnswer": [
+              "Diminue la diversité des habitats",
+              "Accélère la désertification",
+              "Augmente la contamination chimique"
+            ],
+            "Explanation": "Les pratiques de l'agriculture biologique, telles que la rotation des cultures et le compostage, améliorent la fertilité des sols et la biodiversité, favorisant la santé des écosystèmes."
+          },
+          {
+            "Question": "Comment la pêche industrielle impacte-t-elle les écosystèmes marins?",
+            "TrueAnswer": "Surpêche",
+            "FalseAnswer": [
+              "Conservation des espèces",
+              "Équilibre des écosystèmes",
+              "Zones marines protégées"
+            ],
+            "Explanation": "Les opérations de pêche industrielle entraînent souvent une surexploitation des stocks de poissons, perturbant l'équilibre et la santé des écosystèmes marins."
+          },
+          {
+            "Question": "Qu'est-ce qui contribue à la pollution de l'eau par l'agriculture?",
+            "TrueAnswer": "Ruissellement de pesticides",
+            "FalseAnswer": [
+              "Courants océaniques",
+              "Fonte des neiges",
+              "Recharge des eaux souterraines"
+            ],
+            "Explanation": "Les pesticides utilisés en agriculture peuvent s'infiltrer dans les systèmes aquatiques, les contaminant et menaçant les organismes aquatiques et la santé humaine."
+          },
+          {
+            "Question": "Comment la demande mondiale de viande impacte-t-elle l'utilisation des terres?",
+            "TrueAnswer": "Conversion des terres en pâturages",
+            "FalseAnswer": [
+              "Boisement",
+              "Préservation des zones humides",
+              "Expansion urbaine"
+            ],
+            "Explanation": "La hausse de la consommation de viande entraîne la conversion des forêts et des prairies en pâturages, réduisant l'habitat de la faune sauvage et contribuant à la déforestation."
+          },
+          {
+            "Question": "Qu'est-ce qui contribue à la pollution des nutriments dans les cours d'eau?",
+            "TrueAnswer": "Ruissellement d'engrais",
+            "FalseAnswer": [
+              "Absorption minérale",
+              "Marées",
+              "Sédimentation fluviale"
+            ],
+            "Explanation": "L'excès d'engrais qui s'écoule des fermes dans les cours d'eau favorise la croissance des algues, entraînant l'eutrophisation et nuisant aux écosystèmes aquatiques."
+          },
+          {
+            "Question": "Comment l'industrie alimentaire contribue-t-elle à la pollution de l'air?",
+            "TrueAnswer": "Consommation d'énergie",
+            "FalseAnswer": [
+              "Séquestration du carbone",
+              "Filtration de l'air",
+              "Réduction du bruit"
+            ],
+            "Explanation": "Les processus énergivores de l'industrie alimentaire, la réfrigération et le transport contribuent à la pollution de l'air et au changement climatique."
+          },
+          {
+            "Question": "Quel impact environnemental a la production d'huile de palme?",
+            "TrueAnswer": "Déforestation",
+            "FalseAnswer": [
+              "Séquestration du carbone",
+              "Désertification",
+              "Pollution marine"
+            ],
+            "Explanation": "Les plantations d'huile de palme entraînent la déforestation, entraînant la perte de biodiversité et d'habitats pour des espèces menacées comme les orangs-outans."
+          },
+          {
+            "Question": "Comment l'emballage alimentaire contribue-t-il au gaspillage environnemental?",
+            "TrueAnswer": "Pollution plastique",
+            "FalseAnswer": [
+              "Capture du carbone",
+              "Biodégradabilité",
+              "Matériaux écologiques"
+            ],
+            "Explanation": "L'emballage alimentaire en plastique à usage unique contribue à la pollution, nuisant à la vie marine et aux écosystèmes et augmentant les déchets dans les décharges."
+          },
+          {
+            "Question": "Quelle est une pratique durable pour réduire les déchets de cuisine?",
+            "TrueAnswer": "Compostage",
+            "FalseAnswer": [
+              "Incinération",
+              "Élimination en décharge",
+              "Décomposition chimique"
+            ],
+            "Explanation": "Le compostage des déchets alimentaires et organiques réduit la charge des décharges et produit un amendement du sol riche en nutriments pour une agriculture durable."
+          },
+          {
+            "Question": "Comment les choix alimentaires impactent-ils la conservation de l'eau?",
+            "TrueAnswer": "Réduction de la consommation de viande",
+            "FalseAnswer": [
+              "Surpêche",
+              "Durabilité des produits de la mer",
+              "Énergie hydroélectrique"
+            ],
+            "Explanation": "Réduire la consommation de viande réduit empreinte eau de l'alimentation, la production de viande étant intensive en eau par rapport aux aliments d'origine végétale."
+          },
+          {
+            "Question": "Quel est l'impact du gaspillage alimentaire sur la consommation de ressources?",
+            "TrueAnswer": "Énergie et eau gaspillées",
+            "FalseAnswer": [
+              "Séquestration du carbone",
+              "Génération d'énergie renouvelable",
+              "Abondance des ressources"
+            ],
+            "Explanation": "La production de nourriture gaspillée nécessite des ressources considérables, y compris de l'énergie, de l'eau et des terres, contribuant à la pression et à l'inefficacité environnementales."
+          }
+        ]
+      }
+    }
+  ]
+}

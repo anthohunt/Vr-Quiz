@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8312110679726502175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2561010442462114819}
+  - component: {fileID: 2205754225517920205}
+  m_Layer: 0
+  m_Name: Literature_Shakespearean Works.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2561010442462114819
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8312110679726502175}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2205754225517920205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8312110679726502175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which play is known as 'The Scottish Play'?
+      TrueAnswer: Macbeth
+      FalseAnswer:
+      - Hamlet
+      - Romeo and Juliet
+      - Othello
+      Explanation: Macbeth is referred to as 'The Scottish Play' due to a superstition
+        among actors.
+    - Question: Who is the tragic hero in 'Romeo and Juliet'?
+      TrueAnswer: Romeo
+      FalseAnswer:
+      - Juliet
+      - Mercutio
+      - Tybalt
+      Explanation: Romeo is the tragic hero in 'Romeo and Juliet' as his actions
+        lead to the tragic outcome.
+    - Question: Which play features the character Iago?
+      TrueAnswer: Othello
+      FalseAnswer:
+      - Macbeth
+      - Hamlet
+      - King Lear
+      Explanation: Iago is a central character in 'Othello' and is known for his
+        manipulation and deceit.
+    - Question: Who is the author of 'Hamlet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Jane Austen
+      - Charles Dickens
+      - Mark Twain
+      Explanation: William Shakespeare is the renowned playwright who wrote 'Hamlet'
+        among other famous works.
+    - Question: Which play is set in the city of Verona?
+      TrueAnswer: Romeo and Juliet
+      FalseAnswer:
+      - Macbeth
+      - Othello
+      - Hamlet
+      Explanation: The tragic love story of 'Romeo and Juliet' takes place in the
+        city of Verona.
+    - Question: Who is the main antagonist in 'Macbeth'?
+      TrueAnswer: Macbeth
+      FalseAnswer:
+      - Lady Macbeth
+      - Duncan
+      - Banquo
+      Explanation: Macbeth himself is the main antagonist in the play as he succumbs
+        to his ambition.
+    - Question: Which play features the character Portia?
+      TrueAnswer: The Merchant of Venice
+      FalseAnswer:
+      - Much Ado About Nothing
+      - Twelfth Night
+      - As You Like It
+      Explanation: Portia is a prominent character in 'The Merchant of Venice' known
+        for her intelligence and wit.
+    - Question: Who is the author of 'King Lear'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Emily Bronte
+      - George Orwell
+      - F. Scott Fitzgerald
+      Explanation: William Shakespeare is the playwright behind the tragedy 'King
+        Lear'.
+    - Question: Which play features the character Rosalind?
+      TrueAnswer: As You Like It
+      FalseAnswer:
+      - Macbeth
+      - Hamlet
+      - Othello
+      Explanation: Rosalind is a central character in 'As You Like It' and is known
+        for her wit and charm.
+    - Question: Who is the author of 'Othello'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Jane Austen
+      - Charles Dickens
+      - Mark Twain
+      Explanation: William Shakespeare is the renowned playwright who wrote 'Othello'
+        among other famous works.
+    - Question: Which play is set in the city of Venice?
+      TrueAnswer: The Merchant of Venice
+      FalseAnswer:
+      - Macbeth
+      - Romeo and Juliet
+      - Hamlet
+      Explanation: The city of Venice serves as the backdrop for 'The Merchant of
+        Venice'.
+    - Question: Who is the author of 'Macbeth'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Emily Bronte
+      - George Orwell
+      - F. Scott Fitzgerald
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Macbeth'.
+    - Question: Which play features the character Hamlet?
+      TrueAnswer: Hamlet
+      FalseAnswer:
+      - Romeo and Juliet
+      - Othello
+      - King Lear
+      Explanation: The play 'Hamlet' revolves around the character of Hamlet, the
+        Prince of Denmark.
+    - Question: Who is the author of 'Romeo and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Jane Austen
+      - Charles Dickens
+      - Mark Twain
+      Explanation: William Shakespeare is the renowned playwright who wrote 'Romeo
+        and Juliet' among other famous works.
+    - Question: Which play is set in the city of Elsinore?
+      TrueAnswer: Hamlet
+      FalseAnswer:
+      - Macbeth
+      - Othello
+      - King Lear
+      Explanation: The city of Elsinore is the setting for the tragedy 'Hamlet'.
+    - Question: Who is the author of 'The Merchant of Venice'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Emily Bronte
+      - George Orwell
+      - F. Scott Fitzgerald
+      Explanation: William Shakespeare is the playwright behind 'The Merchant of
+        Venice'.
+    - Question: Which play features the character Desdemona?
+      TrueAnswer: Othello
+      FalseAnswer:
+      - Macbeth
+      - Hamlet
+      - King Lear
+      Explanation: Desdemona is a central character in 'Othello' and is known for
+        her innocence and loyalty.
+    - Question: Who is the author of 'As You Like It'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Emily Bronte
+      - George Orwell
+      - F. Scott Fitzgerald
+      Explanation: William Shakespeare is the playwright behind the comedy 'As You
+        Like It'.
+    - Question: Which play is set in the city of Athens?
+      TrueAnswer: A Midsummer Night's Dream
+      FalseAnswer:
+      - Macbeth
+      - Romeo and Juliet
+      - Hamlet
+      Explanation: The city of Athens is the setting for the magical comedy 'A Midsummer
+        Night's Dream'.
+    - Question: Who is the author of 'King Henry V'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Emily Bronte
+      - George Orwell
+      - F. Scott Fitzgerald
+      Explanation: William Shakespeare is the playwright behind the historical play
+        'King Henry V'.

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the minimum age of the universe?",
+            "TrueAnswer": "13.8 billion years",
+            "FalseAnswer": [
+              "100 million years",
+              "1 trillion years",
+              "5 billion years"
+            ],
+            "Explanation": "The age of the universe, based on measurements of the cosmic microwave background radiation, is estimated at 13.8 billion years."
+          },
+          {
+            "Question": "What is the dual nature of light?",
+            "TrueAnswer": "Wave-particle duality",
+            "FalseAnswer": [
+              "Photon wave",
+              "Particle duality",
+              "Wave-particle interference"
+            ],
+            "Explanation": "Light exhibits both wave-like and particle-like properties. This phenomenon is known as wave-particle duality in quantum mechanics."
+          },
+          {
+            "Question": "Which physicist proposed the uncertainty principle?",
+            "TrueAnswer": "Werner Heisenberg",
+            "FalseAnswer": [
+              "Niels Bohr",
+              "Max Planck",
+              "Albert Einstein"
+            ],
+            "Explanation": "Werner Heisenberg introduced the uncertainty principle, stating that certain pairs of physical properties cannot be simultaneously known with precision."
+          },
+          {
+            "Question": "What does Schrödinger's wave equation describe?",
+            "TrueAnswer": "Quantum wave function",
+            "FalseAnswer": [
+              "Particle velocity",
+              "Electron orbitals",
+              "Atomic mass"
+            ],
+            "Explanation": "Schrödinger's equation is used to calculate the wave function of a quantum system, providing information about the probability of finding a particle in a particular state."
+          },
+          {
+            "Question": "What is the smallest unit of energy in quantum mechanics?",
+            "TrueAnswer": "Photon",
+            "FalseAnswer": [
+              "Electron",
+              "Quark",
+              "Neutrino"
+            ],
+            "Explanation": "Photons are discrete packets of energy that make up electromagnetic waves. In quantum mechanics, photons are fundamental particles responsible for the electromagnetic force."
+          },
+          {
+            "Question": "What is the fundamental property of a quantum system analogous to angular momentum?",
+            "TrueAnswer": "Spin",
+            "FalseAnswer": [
+              "Charge",
+              "Mass",
+              "Velocity"
+            ],
+            "Explanation": "Spin is an intrinsic form of angular momentum carried by elementary particles, distinguishing quantum particles from classical objects and influencing their behavior."
+          },
+          {
+            "Question": "What is the maximum number of electrons that can fill an atomic orbital?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "4",
+              "6",
+              "8"
+            ],
+            "Explanation": "According to the Pauli exclusion principle, each orbital can hold a maximum of 2 electrons with opposite spins, preventing the occupation of the same quantum state by more than two electrons."
+          },
+          {
+            "Question": "Which type of particles are subject to the Pauli exclusion principle?",
+            "TrueAnswer": "Fermions",
+            "FalseAnswer": [
+              "Bosons",
+              "Leptons",
+              "Quarks"
+            ],
+            "Explanation": "Fermions, including electrons, protons, and neutrons, follow the Pauli exclusion principle, which prohibits two identical fermions from occupying the same quantum state simultaneously."
+          },
+          {
+            "Question": "What is the minimum temperature theoretically achievable?",
+            "TrueAnswer": "Absolute zero",
+            "FalseAnswer": [
+              "Room temperature",
+              "500 K",
+              "−273.15°C"
+            ],
+            "Explanation": "Absolute zero, at 0 Kelvin (-273.15°C or -459.67°F), is the lowest possible temperature, where the thermal motion of particles stops, and entropy reaches its minimum value."
+          },
+          {
+            "Question": "What is the probability density function used to describe an electron in an atom?",
+            "TrueAnswer": "Wave function",
+            "FalseAnswer": [
+              "Quantum flux",
+              "Electron cloud",
+              "Orbital pattern"
+            ],
+            "Explanation": "The wave function, often denoted as Ψ, describes the behavior of an electron in an atom, determining the probability of finding the electron in a specific location."
+          },
+          {
+            "Question": "Which experiment observed the wave-particle duality of electrons?",
+            "TrueAnswer": "Double-slit experiment",
+            "FalseAnswer": [
+              "Photoelectric effect",
+              "Compton scattering",
+              "Quantum tunneling"
+            ],
+            "Explanation": "The double-slit experiment demonstrated that electrons exhibit wave-like behavior, challenging the classical view and confirming the wave-particle duality prediction of quantum mechanics."
+          },
+          {
+            "Question": "What is the name for a quantum system's change when observed?",
+            "TrueAnswer": "Wave function collapse",
+            "FalseAnswer": [
+              "Quantum jump",
+              "Particle decoherence",
+              "Observer effect"
+            ],
+            "Explanation": "Wave function collapse refers to the sudden change in a quantum system's wave function upon observation, leading to a specific outcome and indicating a transition from superposition to a definite state."
+          },
+          {
+            "Question": "What is the energy level diagram representation of an atom's electrons called?",
+            "TrueAnswer": "Quantum state diagram",
+            "FalseAnswer": [
+              "Atomic orbital chart",
+              "Electron configuration plot",
+              "Bohr model graph"
+            ],
+            "Explanation": "A quantum state diagram visually represents the allowed energy levels and electron configurations within an atom, following the principles of quantum mechanics and the Pauli exclusion principle."
+          },
+          {
+            "Question": "What is the entangled state of two quantum particles called?",
+            "TrueAnswer": "Bell state",
+            "FalseAnswer": [
+              "Quantum superposition",
+              "Coherent state",
+              "Collapsing state"
+            ],
+            "Explanation": "A Bell state describes the entanglement of two quantum particles, where their properties become correlated and interdependent, even when spatially separated, demonstrating the non-local nature of quantum mechanics."
+          },
+          {
+            "Question": "What do quantum gates manipulate in quantum computing?",
+            "TrueAnswer": "Qubits",
+            "FalseAnswer": [
+              "Bits",
+              "Bytes",
+              "Registers"
+            ],
+            "Explanation": "Quantum gates are operations that act on qubits, the fundamental units of quantum information, manipulating their state to perform quantum computations with superposition and entanglement effects."
+          },
+          {
+            "Question": "What is the quantum principle used as the foundation of quantum cryptography?",
+            "TrueAnswer": "Heisenberg's uncertainty principle",
+            "FalseAnswer": [
+              "Planck's constant",
+              "Bell's theorem",
+              "Quantum indeterminacy principle"
+            ],
+            "Explanation": "The uncertainty principle is utilized in quantum cryptography to enable secure communication through the inherent limitations on the simultaneous measurement of certain quantum properties, establishing principles of quantum key distribution."
+          },
+          {
+            "Question": "What effect does superposition have on quantum systems?",
+            "TrueAnswer": "Concurrent states",
+            "FalseAnswer": [
+              "Ordered states",
+              "Decohered states",
+              "Singular state"
+            ],
+            "Explanation": "Superposition allows a quantum system to exist in multiple states simultaneously, constituting a combination or superposition of all possible states until measured or observed, as described by quantum mechanics."
+          },
+          {
+            "Question": "What is the term for the spontaneous emission of light by an excited atom in quantum mechanics?",
+            "TrueAnswer": "Quantum jump",
+            "FalseAnswer": [
+              "Photon emission",
+              "Electron transition",
+              "Wave collapse"
+            ],
+            "Explanation": "A quantum jump, or quantum leap, represents the sudden transition of an atom from an excited state to a lower energy state, accompanied by the emission of a photon."
+          },
+          {
+            "Question": "What is the term for the process in which a quantum system interacts with its environment, resulting in state decoherence?",
+            "TrueAnswer": "Quantum entanglement",
+            "FalseAnswer": [
+              "Quantum tunneling",
+              "Quantum superposition",
+              "Quantum collapse"
+            ],
+            "Explanation": "Quantum entanglement involves the interconnection of quantum systems, leading to entanglement and decoherence, which poses challenges in maintaining coherence for quantum technologies and communications."
+          },
+          {
+            "Question": "What type of particles are used in quantum teleportation?",
+            "TrueAnswer": "Entangled particles",
+            "FalseAnswer": [
+              "Polarized particles",
+              "Excited particles",
+              "Aligned particles"
+            ],
+            "Explanation": "Quantum teleportation involves the transfer of quantum information between entangled particles, utilizing the unique correlation and non-local connection established by quantum entanglement."
+          }
+        ]
+      }
+    }
+  ]
+}

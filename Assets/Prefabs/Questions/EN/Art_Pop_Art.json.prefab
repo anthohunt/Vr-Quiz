@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8553453883518290452
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3008822847834563869}
+  - component: {fileID: 2656921851543252349}
+  m_Layer: 0
+  m_Name: Art_Pop_Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3008822847834563869
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8553453883518290452}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2656921851543252349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8553453883518290452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the pioneer of Pop Art?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Roy Lichtenstein
+      - Keith Haring
+      - Jasper Johns
+      Explanation: Andy Warhol is often considered the foundation of Pop Art, known
+        for his iconic Campbell's Soup Cans and Marilyn Monroe prints.
+    - Question: Which artistic medium did Roy Lichtenstein primarily use in his Pop
+        Art works?
+      TrueAnswer: Comic strips
+      FalseAnswer:
+      - Oil painting
+      - Sculpture
+      - Photography
+      Explanation: Roy Lichtenstein gained fame for his use of comic strips as inspiration,
+        creating large-scale, visually impactful paintings.
+    - Question: What everyday object did Claes Oldenburg famously create sculptures
+        of in Pop Art?
+      TrueAnswer: Household items
+      FalseAnswer:
+      - Automobiles
+      - Plants
+      - Animals
+      Explanation: Claes Oldenburg is known for his oversized sculptures of everyday
+        items, such as typewriters, ice cream cones, and hamburgers.
+    - Question: Which Pop Art artist explored the theme of consumerism through his
+        artwork?
+      TrueAnswer: James Rosenquist
+      FalseAnswer:
+      - Robert Rauschenberg
+      - Yayoi Kusama
+      - David Hockney
+      Explanation: James Rosenquist's artwork often reflected the impact of consumer
+        culture, featuring fragmented and juxtaposed images of advertisements.
+    - Question: What famous symbol did Jasper Johns frequently incorporate into his
+        Pop Art works?
+      TrueAnswer: American flag
+      FalseAnswer:
+      - Eiffel Tower
+      - Mona Lisa
+      - Sunflower
+      Explanation: Jasper Johns' use of the American flag in his artwork challenged
+        traditional notions of art and representation.
+    - Question: Which art movement heavily influenced the emergence of Pop Art in
+        the 1950s?
+      TrueAnswer: Abstract Expressionism
+      FalseAnswer:
+      - Cubism
+      - Surrealism
+      - Minimalism
+      Explanation: The freedom of expression and use of popular culture in Abstract
+        Expressionism laid the groundwork for the Pop Art movement.
+    - Question: Who coined the term 'Pop Art' to describe the new art movement?
+      TrueAnswer: Lawrence Alloway
+      FalseAnswer:
+      - Clement Greenberg
+      - Harold Rosenberg
+      - Leo Steinberg
+      Explanation: Art critic Lawrence Alloway played a pivotal role in defining
+        and popularizing the term 'Pop Art' in the 1950s.
+    - Question: Which city is often associated as the birthplace of the Pop Art movement?
+      TrueAnswer: New York City
+      FalseAnswer:
+      - Paris
+      - London
+      - Los Angeles
+      Explanation: New York City became the epicenter of the Pop Art movement, thriving
+        in its vibrant and bustling cultural scene.
+    - Question: Which artist collaborated with Andy Warhol and is known for her iconic
+        'Love' artwork?
+      TrueAnswer: Judy Chicago
+      FalseAnswer:
+      - Yoko Ono
+      - Yayoi Kusama
+      - Barbara Kruger
+      Explanation: Judy Chicago, a prominent feminist artist, worked with Warhol
+        and is celebrated for her influential 'The Dinner Party' and 'The Birth Project'
+        series.
+    - Question: What specific food item is frequently depicted in the artwork of
+        Claes Oldenburg?
+      TrueAnswer: Hamburger
+      FalseAnswer:
+      - Pizza
+      - Hotdog
+      - Ice cream
+      Explanation: Claes Oldenburg created monumental sculptures of hamburgers, demonstrating
+        a playful and larger-than-life interpretation of common objects.
+    - Question: Which iconic singer did Andy Warhol famously depict in his silk-screen
+        prints?
+      TrueAnswer: Marilyn Monroe
+      FalseAnswer:
+      - Elvis Presley
+      - The Beatles
+      - Michael Jackson
+      Explanation: Warhol's vivid and repetitive images of Marilyn Monroe became
+        synonymous with his exploration of celebrity and mass production in Pop Art.
+    - Question: Which everyday material did Yayoi Kusama famously incorporate in
+        her immersive art installations?
+      TrueAnswer: Polka dots
+      FalseAnswer:
+      - Feathers
+      - Mirrors
+      - Glass shards
+      Explanation: Yayoi Kusama's use of polka dots and infinity mirrors has defined
+        her surrealist and avant-garde approach to Pop Art.
+    - Question: Which iconic product did Andy Warhol depict in his series of paintings,
+        showcasing varied flavors and colors?
+      TrueAnswer: Campbell's Soup Cans
+      FalseAnswer:
+      - Coca-Cola bottles
+      - Pop-Tarts
+      - Oreo cookies
+      Explanation: Warhol's fascination with mass-produced objects led to his iconic
+        and innovative approach in depicting Campbell's Soup Cans.
+    - Question: Which Pop Art artist is known for her mirrored rooms and polka-dotted
+        pumpkins?
+      TrueAnswer: Yayoi Kusama
+      FalseAnswer:
+      - Bridget Riley
+      - "Marina Abramovi\u0107"
+      - Cindy Sherman
+      Explanation: Yayoi Kusama's immersive and dreamlike installations, featuring
+        polka dots and mirrors, have redefined the boundaries of contemporary art.
+    - Question: Which Pop Art artist is associated with the use of Benday dots and
+        comic book imagery in his works?
+      TrueAnswer: Roy Lichtenstein
+      FalseAnswer:
+      - Jackson Pollock
+      - Mark Rothko
+      - Jean-Michel Basquiat
+      Explanation: Roy Lichtenstein's adaptation of Benday dots and comic book style
+        elevated popular imagery to the realm of high art in the Pop movement.
+    - Question: What everyday object did Claes Oldenburg depict in a colossal sculpture
+        in central Philadelphia?
+      TrueAnswer: Clothespin
+      FalseAnswer:
+      - Washing machine
+      - Telephone booth
+      - Chair
+      Explanation: Oldenburg's colossal Clothespin sculpture brought a playful and
+        surreal touch to the urban landscape of Philadelphia.
+    - Question: Which art form did Andy Warhol notably explore, blurring the lines
+        between mass production and art?
+      TrueAnswer: Silk-screen printing
+      FalseAnswer:
+      - Wood carving
+      - Pottery
+      - Weaving
+      Explanation: Warhol's use of silk-screen printing redefined the concept of
+        originality and mass production within the context of artmaking.
+    - Question: Which famous actress did Roy Lichtenstein frequently portray in his
+        Pop Art paintings?
+      TrueAnswer: Marilyn Monroe
+      FalseAnswer:
+      - Audrey Hepburn
+      - Elizabeth Taylor
+      - Grace Kelly
+      Explanation: Lichtenstein's bold and graphic portrayals of Marilyn Monroe embodied
+        the consumer culture's fascination with celebrity and glamour.
+    - Question: Which color did James Rosenquist frequently use in his large-scale
+        paintings, symbolizing prosperity and consumerism?
+      TrueAnswer: Gold
+      FalseAnswer:
+      - Purple
+      - Green
+      - Orange
+      Explanation: Rosenquist's integration of gold color emphasized the allure and
+        excess associated with consumer culture in his striking artworks.
+    - Question: Which female artist gained recognition for her use of unconventional
+        materials and protest against gender inequality?
+      TrueAnswer: Martha Rosler
+      FalseAnswer:
+      - Georgia O'Keeffe
+      - Louise Bourgeois
+      - Agnes Martin
+      Explanation: Martha Rosler's groundbreaking works incorporated photomontage
+        and performance art as tools for social critique and feminist activism.

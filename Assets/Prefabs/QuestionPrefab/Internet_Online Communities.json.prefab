@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1927654644485306818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1681587200906493920}
+  - component: {fileID: 4700375150458786823}
+  m_Layer: 0
+  m_Name: Internet_Online Communities.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1681587200906493920
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927654644485306818}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4700375150458786823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1927654644485306818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What does URL stand for?
+      TrueAnswer: Uniform Resource Locator
+      FalseAnswer:
+      - Universal Resource Locator
+      - Uniform Retrieval Locator
+      - Universal Retrieval Locator
+      Explanation: URL stands for Uniform Resource Locator, which is the address
+        of a resource on the internet.
+    - Question: What is the most widely used web browser?
+      TrueAnswer: Google Chrome
+      FalseAnswer:
+      - Mozilla Firefox
+      - Safari
+      - Internet Explorer
+      Explanation: Google Chrome is the most popular web browser, developed by Google.
+    - Question: What does HTML stand for?
+      TrueAnswer: Hypertext Markup Language
+      FalseAnswer:
+      - Hyperlink Markup Language
+      - Hypertext Modeling Language
+      - Hypermedia Text Language
+      Explanation: HTML stands for Hypertext Markup Language, which is used to create
+        web pages.
+    - Question: What is the main purpose of a search engine?
+      TrueAnswer: To find information on the internet
+      FalseAnswer:
+      - To create websites
+      - To send emails
+      - To play online games
+      Explanation: The main purpose of a search engine is to help users find information
+        on the internet.
+    - Question: What is the most popular social media platform?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - Snapchat
+      Explanation: Facebook is the most widely used social media platform, connecting
+        billions of people worldwide.
+    - Question: What does ISP stand for?
+      TrueAnswer: Internet Service Provider
+      FalseAnswer:
+      - Internet Speed Provider
+      - Internet Security Protocol
+      - Internet Storage Provider
+      Explanation: ISP stands for Internet Service Provider, which is a company that
+        provides internet access to customers.
+    - Question: What is the purpose of a firewall?
+      TrueAnswer: To protect a network from unauthorized access
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To monitor online activities
+      Explanation: A firewall is used to protect a network from unauthorized access
+        and potential cyber threats.
+    - Question: What is the meaning of the acronym VPN?
+      TrueAnswer: Virtual Private Network
+      FalseAnswer:
+      - Virtual Public Network
+      - Verified Personal Network
+      - Virtual Personal Network
+      Explanation: VPN stands for Virtual Private Network, which provides a secure
+        connection over the internet.
+    - Question: What is the purpose of a CAPTCHA?
+      TrueAnswer: To verify that the user is human
+      FalseAnswer:
+      - To block internet access
+      - To encrypt data
+      - To track online activities
+      Explanation: CAPTCHA is used to verify that the user is human and not a computer
+        program.
+    - Question: What is the maximum number of characters allowed in a tweet on Twitter?
+      TrueAnswer: 280
+      FalseAnswer:
+      - 140
+      - 200
+      - 320
+      Explanation: The maximum number of characters allowed in a tweet on Twitter
+        is 280.
+    - Question: What is the purpose of a cookie on a website?
+      TrueAnswer: To store user preferences and data
+      FalseAnswer:
+      - To block website access
+      - To display advertisements
+      - To track user location
+      Explanation: Cookies are used to store user preferences and data on a website
+        for a personalized experience.
+    - Question: What is the most popular email service provider?
+      TrueAnswer: Gmail
+      FalseAnswer:
+      - Yahoo Mail
+      - Outlook
+      - Hotmail
+      Explanation: Gmail, developed by Google, is the most popular email service
+        provider with a user-friendly interface.
+    - Question: What is the purpose of a hashtag on social media?
+      TrueAnswer: To categorize and search for content
+      FalseAnswer:
+      - To send private messages
+      - To block users
+      - To create polls
+      Explanation: Hashtags are used to categorize and search for specific content
+        on social media platforms.
+    - Question: What is the purpose of a forum in an online community?
+      TrueAnswer: To facilitate discussions and exchange information
+      FalseAnswer:
+      - To sell products
+      - To share photos
+      - To play online games
+      Explanation: Forums are platforms within online communities that allow users
+        to discuss and exchange information on various topics.
+    - Question: What is the purpose of a moderator in an online community?
+      TrueAnswer: To enforce community guidelines and maintain order
+      FalseAnswer:
+      - To create content
+      - To advertise products
+      - To provide technical support
+      Explanation: Moderators are responsible for enforcing community guidelines
+        and maintaining order within an online community.
+    - Question: What is the purpose of a user profile in an online community?
+      TrueAnswer: To provide information about the user
+      FalseAnswer:
+      - To block other users
+      - To send private messages
+      - To create events
+      Explanation: User profiles in online communities serve as a way for users to
+        provide information about themselves to others.
+    - Question: What is the purpose of a like button on social media?
+      TrueAnswer: To show appreciation or agreement
+      FalseAnswer:
+      - To report content
+      - To send friend requests
+      - To share posts
+      Explanation: The like button on social media platforms is used to show appreciation
+        or agreement with a post or comment.
+    - Question: What is the purpose of a private message on a social media platform?
+      TrueAnswer: To have a conversation with another user privately
+      FalseAnswer:
+      - To post publicly
+      - To share photos
+      - To create events
+      Explanation: Private messages on social media platforms allow users to have
+        conversations with each other privately.
+    - Question: What is the purpose of a notification on a website or app?
+      TrueAnswer: To alert the user of new activity or updates
+      FalseAnswer:
+      - To block access to the website
+      - To display advertisements
+      - To track user location
+      Explanation: Notifications on websites or apps are used to alert the user of
+        new activity or updates.
+    - Question: What is the purpose of a meme in online culture?
+      TrueAnswer: To convey humor or a shared experience
+      FalseAnswer:
+      - To promote products
+      - To spread misinformation
+      - To create online quizzes
+      Explanation: Memes are widely used in online culture to convey humor or a shared
+        experience among internet users.

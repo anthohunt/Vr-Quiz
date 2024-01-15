@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8157977473666066187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3968803722001696090}
+  - component: {fileID: 7454293634735219210}
+  m_Layer: 0
+  m_Name: Literature_Historical_Fiction.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3968803722001696090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8157977473666066187}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7454293634735219210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8157977473666066187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In which era is the historical fiction novel 'The Book Thief' set?
+      TrueAnswer: World War II
+      FalseAnswer:
+      - Victorian Era
+      - Ancient Rome
+      - Medieval Times
+      Explanation: '''The Book Thief'' by Markus Zusak is set in Nazi Germany during
+        World War II, providing a unique perspective on the time period.'
+    - Question: Who is the author of the historical fiction novel 'Wolf Hall'?
+      TrueAnswer: Hilary Mantel
+      FalseAnswer:
+      - Ken Follett
+      - Philippa Gregory
+      - Bernard Cornwell
+      Explanation: Hilary Mantel's 'Wolf Hall' explores the Tudor era and the rise
+        of Thomas Cromwell in the court of King Henry VIII.
+    - Question: What historical event is the novel 'All the Light We Cannot See'
+        centered around?
+      TrueAnswer: World War II
+      FalseAnswer:
+      - French Revolution
+      - American Civil War
+      - The Black Death
+      Explanation: Anthony Doerr's Pulitzer Prize-winning novel 'All the Light We
+        Cannot See' unfolds during the turmoil of World War II.
+    - Question: "Which city serves as the backdrop for 'The Shadow of the Wind' by
+        Carlos Ruiz Zaf\xF3n?"
+      TrueAnswer: Barcelona
+      FalseAnswer:
+      - London
+      - Paris
+      - Florence
+      Explanation: "Set in post-World War II Barcelona, Zaf\xF3n's novel seamlessly
+        mixes historical fiction with mystery and intrigue."
+    - Question: The historical novel 'Pillars of the Earth' is set during the construction
+        of which monumental structure?
+      TrueAnswer: Gothic Cathedral
+      FalseAnswer:
+      - Pyramids of Giza
+      - Great Wall of China
+      - Roman Colosseum
+      Explanation: Ken Follett's epic saga 'Pillars of the Earth' follows the construction
+        of a Gothic cathedral in 12th-century England.
+    - Question: Who wrote the historical fiction series 'The Saxon Stories', which
+        inspired the TV show 'The Last Kingdom'?
+      TrueAnswer: Bernard Cornwell
+      FalseAnswer:
+      - George R.R. Martin
+      - Diana Gabaldon
+      - Conn Iggulden
+      Explanation: Bernard Cornwell's 'The Saxon Stories' follows the protagonist
+        Uhtred of Bebbanburg in the time of Alfred the Great.
+    - Question: Which iconic historical figure is the subject of the novel 'The Other
+        Boleyn Girl'?
+      TrueAnswer: Anne Boleyn
+      FalseAnswer:
+      - Cleopatra
+      - Elizabeth I
+      - Joan of Arc
+      Explanation: Philippa Gregory's novel delves into the life of Anne Boleyn,
+        the second wife of King Henry VIII of England.
+    - Question: In the historical novel 'The Nightingale', two sisters navigate life
+        in France during which war?
+      TrueAnswer: World War II
+      FalseAnswer:
+      - World War I
+      - American Civil War
+      - Vietnam War
+      Explanation: Kristin Hannah's 'The Nightingale' tells the gripping story of
+        two sisters struggling to survive in German-occupied France during World
+        War II.
+    - Question: Which historical figure is the central character in 'The Black Jacobins'
+        by C.L.R. James?
+      TrueAnswer: Toussaint Louverture
+      FalseAnswer:
+      - Napoleon Bonaparte
+      - George Washington
+      - Cleopatra
+      Explanation: C.L.R. James' 'The Black Jacobins' chronicles the Haitian Revolution,
+        focusing on the enigmatic leader Toussaint Louverture.
+    - Question: The novel 'Sarah's Key' intertwines a contemporary story with which
+        significant historical event?
+      TrueAnswer: Vel' d'Hiv Roundup
+      FalseAnswer:
+      - Titanic Sinking
+      - Hiroshima Bombing
+      - Berlin Wall Construction
+      Explanation: Tatiana de Rosnay's novel juxtaposes a modern journalist's investigation
+        with the harrowing events of the Vel' d'Hiv Roundup during World War II.
+    - Question: Who authored the historical fiction series 'The Grail Quest' set
+        during the Hundred Years' War?
+      TrueAnswer: Bernard Cornwell
+      FalseAnswer:
+      - Conn Iggulden
+      - Simon Scarrow
+      - Diana Gabaldon
+      Explanation: Bernard Cornwell's 'The Grail Quest' series follows the adventures
+        of the archer Thomas of Hookton amid the backdrop of the Hundred Years' War.
+    - Question: In 'The King's Witch' by Tracy Borman, the protagonist serves as
+        a royal confidante during the reign of which monarch?
+      TrueAnswer: James I
+      FalseAnswer:
+      - Henry VIII
+      - Elizabeth I
+      - Charles I
+      Explanation: Tracy Borman's novel follows the story of Frances Gorges, who
+        becomes entangled in court intrigue during the reign of King James I of England.
+    - Question: What real historical figure serves as the inspiration for the character
+        in 'I, Claudius' by Robert Graves?
+      TrueAnswer: Roman Emperor Claudius
+      FalseAnswer:
+      - Alexander the Great
+      - Julius Caesar
+      - Attila the Hun
+      Explanation: Robert Graves' masterpiece 'I, Claudius' is an imaginative portrayal
+        of the life of the Roman Emperor Claudius, drawing from historical sources
+        and his own interpretation.
+    - Question: Which turbulent time period is depicted in the historical novel 'The
+        Luminaries' by Eleanor Catton?
+      TrueAnswer: New Zealand Gold Rush
+      FalseAnswer:
+      - Victorian Era London
+      - American Wild West
+      - Renaissance Italy
+      Explanation: Eleanor Catton's novel is set during the 1860s gold rush in New
+        Zealand, capturing the social and economic upheaval of the era.
+    - Question: In 'The Pillars of Rome' by Jack Ludlow, the protagonist struggles
+        to survive during the fall of which ancient empire?
+      TrueAnswer: Roman Empire
+      FalseAnswer:
+      - Byzantine Empire
+      - Mongol Empire
+      - Ottoman Empire
+      Explanation: Jack Ludlow's novel portrays the tumultuous events surrounding
+        the decline of the Roman Empire, following the protagonist's journey amid
+        the historical upheaval.
+    - Question: Which historical period serves as the backdrop for 'Sacred Hunger'
+        by Barry Unsworth?
+      TrueAnswer: Transatlantic Slave Trade
+      FalseAnswer:
+      - Renaissance Florence
+      - French Revolution
+      - American Civil War
+      Explanation: Barry Unsworth's novel delves into the brutal and morally complex
+        world of the transatlantic slave trade in the 18th century, illustrating
+        the devastating impact on individuals and societies.
+    - Question: What international conflict forms the backdrop for 'The Guernsey
+        Literary and Potato Peel Pie Society'?
+      TrueAnswer: World War II
+      FalseAnswer:
+      - Korean War
+      - Vietnam War
+      - Gulf War
+      Explanation: Mary Ann Shaffer and Annie Barrows' novel is set in post-World
+        War II Guernsey, depicting the island's occupation by the German forces and
+        its impact on the residents.
+    - Question: In the novel 'An Instance of the Fingerpost' by Iain Pears, the narrative
+        unfolds amid the political intrigue of which historical era?
+      TrueAnswer: English Civil War
+      FalseAnswer:
+      - French Revolution
+      - Russian Revolution
+      - Spanish Inquisition
+      Explanation: Iain Pears' novel is set in 17th-century England during the tumultuous
+        English Civil War, capturing the intrigue and uncertainty of the era through
+        multiple perspectives.
+    - Question: Which significant historical figure is the central character in 'The
+        Moor's Account' by Laila Lalami?
+      TrueAnswer: Estevanico
+      FalseAnswer:
+      - Marco Polo
+      - Roald Amundsen
+      - Ibn Battuta
+      Explanation: Laila Lalami's novel reimagines the expedition of Cabeza de Vaca
+        to North America, narrated through the perspective of Estevanico, a Moroccan
+        slave and explorer.
+    - Question: The historical novel 'The Witchfinder's Sister' revolves around the
+        infamous witch trials that took place during which period?
+      TrueAnswer: English Civil War
+      FalseAnswer:
+      - Salem Witch Trials
+      - Medieval Inquisition
+      - Spanish Inquisition
+      Explanation: Beth Underdown's novel is set in 17th-century England during the
+        English Civil War, delving into the hysteria and persecution surrounding
+        accusations of witchcraft.

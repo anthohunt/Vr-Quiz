@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6691856283089745698
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8863983314311263557}
+  - component: {fileID: 5012100767900507683}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes on Overcoming Adversity.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8863983314311263557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6691856283089745698}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5012100767900507683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6691856283089745698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, the co-founder of Apple Inc., emphasized the importance
+        of passion in achieving success.
+    - Question: Which famous figure said, 'In the middle of difficulty lies opportunity'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Thomas Edison
+      - Nelson Mandela
+      - Winston Churchill
+      Explanation: Albert Einstein, the renowned physicist, believed that challenges
+        present chances for growth and progress.
+    - Question: 'Who said, ''Success is not final, failure is not fatal: It is the
+        courage to continue that counts''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Martin Luther King Jr.
+      - Mahatma Gandhi
+      Explanation: Winston Churchill, the British Prime Minister, highlighted the
+        importance of resilience and perseverance.
+    - Question: Which famous figure said, 'The future belongs to those who believe
+        in the beauty of their dreams'?
+      TrueAnswer: Eleanor Roosevelt
+      FalseAnswer:
+      - Oprah Winfrey
+      - Maya Angelou
+      - Malala Yousafzai
+      Explanation: Eleanor Roosevelt, the former First Lady of the United States,
+        emphasized the power of dreams and belief.
+    - Question: Who said, 'It does not matter how slowly you go as long as you do
+        not stop'?
+      TrueAnswer: Confucius
+      FalseAnswer:
+      - Buddha
+      - Socrates
+      - Lao Tzu
+      Explanation: Confucius, the Chinese philosopher, emphasized the importance
+        of perseverance and continuous effort.
+    - Question: Which famous figure said, 'The only limit to our realization of tomorrow
+        will be our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - Ronald Reagan
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        highlighted the role of self-belief in achieving future success.
+    - Question: Who said, 'The greatest glory in living lies not in never falling,
+        but in rising every time we fall'?
+      TrueAnswer: Nelson Mandela
+      FalseAnswer:
+      - Martin Luther King Jr.
+      - Malcolm X
+      - Desmond Tutu
+      Explanation: Nelson Mandela, the South African anti-apartheid revolutionary,
+        emphasized the strength in overcoming adversity.
+    - Question: Which famous figure said, 'Believe you can and you're halfway there'?
+      TrueAnswer: Theodore Roosevelt
+      FalseAnswer:
+      - Abraham Lincoln
+      - John F. Kennedy
+      - Barack Obama
+      Explanation: Theodore Roosevelt, the 26th President of the United States, highlighted
+        the importance of self-confidence.
+    - Question: Who said, 'The harder the conflict, the greater the triumph'?
+      TrueAnswer: George Washington
+      FalseAnswer:
+      - Alexander Hamilton
+      - Thomas Jefferson
+      - Benjamin Franklin
+      Explanation: George Washington, the first President of the United States, believed
+        that overcoming challenges leads to significant achievements.
+    - Question: Which famous figure said, 'It always seems impossible until it's
+        done'?
+      TrueAnswer: Nelson Mandela
+      FalseAnswer:
+      - Winston Churchill
+      - Martin Luther King Jr.
+      - Mahatma Gandhi
+      Explanation: Nelson Mandela, the South African leader, emphasized the transformative
+        power of perseverance and determination.
+    - Question: Who said, 'The only person you are destined to become is the person
+        you decide to be'?
+      TrueAnswer: Ralph Waldo Emerson
+      FalseAnswer:
+      - Henry David Thoreau
+      - Walt Whitman
+      - Emily Dickinson
+      Explanation: Ralph Waldo Emerson, the American essayist, highlighted the importance
+        of personal choice and self-determination.
+    - Question: Which famous figure said, 'Success is not the absence of failure;
+        it's the persistence through failure'?
+      TrueAnswer: Aisha Tyler
+      FalseAnswer:
+      - Oprah Winfrey
+      - Ellen DeGeneres
+      - Serena Williams
+      Explanation: Aisha Tyler, the American actress, emphasized that success is
+        not avoiding failure but rather persevering despite it.
+    - Question: Who said, 'The only way to discover the limits of the possible is
+        to go beyond them into the impossible'?
+      TrueAnswer: Arthur C. Clarke
+      FalseAnswer:
+      - Jules Verne
+      - H.G. Wells
+      - Isaac Asimov
+      Explanation: Arthur C. Clarke, the British science fiction writer, encouraged
+        pushing boundaries and exploring the unknown.
+    - Question: Which famous figure said, 'The greatest glory in living lies not
+        in never failing, but in rising every time we fail'?
+      TrueAnswer: Ralph Waldo Emerson
+      FalseAnswer:
+      - Henry David Thoreau
+      - Walt Whitman
+      - Emily Dickinson
+      Explanation: Ralph Waldo Emerson, the American essayist, emphasized the strength
+        in bouncing back from failure.
+    - Question: Who said, 'The only limit to our realization of tomorrow will be
+        our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - Ronald Reagan
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        highlighted the role of self-belief in achieving future success.
+    - Question: Which famous figure said, 'The only way to do great work is to love
+        what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, the co-founder of Apple Inc., emphasized the importance
+        of passion in achieving success.
+    - Question: 'Who said, ''Success is not final, failure is not fatal: It is the
+        courage to continue that counts''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Martin Luther King Jr.
+      - Mahatma Gandhi
+      Explanation: Winston Churchill, the British Prime Minister, highlighted the
+        importance of resilience and perseverance.
+    - Question: Which famous figure said, 'In the middle of difficulty lies opportunity'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Thomas Edison
+      - Nelson Mandela
+      - Winston Churchill
+      Explanation: Albert Einstein, the renowned physicist, believed that challenges
+        present chances for growth and progress.
+    - Question: Who said, 'It does not matter how slowly you go as long as you do
+        not stop'?
+      TrueAnswer: Confucius
+      FalseAnswer:
+      - Buddha
+      - Socrates
+      - Lao Tzu
+      Explanation: Confucius, the Chinese philosopher, emphasized the importance
+        of perseverance and continuous effort.
+    - Question: Which famous figure said, 'The future belongs to those who believe
+        in the beauty of their dreams'?
+      TrueAnswer: Eleanor Roosevelt
+      FalseAnswer:
+      - Oprah Winfrey
+      - Maya Angelou
+      - Malala Yousafzai
+      Explanation: Eleanor Roosevelt, the former First Lady of the United States,
+        emphasized the power of dreams and belief.

@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6271119621501175579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7987416043861245060}
+  - component: {fileID: 8287167093429491828}
+  m_Layer: 0
+  m_Name: Cartoons_Animated_TV_Series.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7987416043861245060
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6271119621501175579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8287167093429491828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6271119621501175579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the family in 'The Simpsons'?
+      TrueAnswer: Simpson
+      FalseAnswer:
+      - Johnson
+      - Smith
+      - Anderson
+      Explanation: The Simpsons family consists of Homer, Marge, Bart, Lisa, and
+        Maggie Simpson.
+    - Question: In 'Rick and Morty,' what dimension is Rick from?
+      TrueAnswer: C-137
+      FalseAnswer:
+      - C-500A
+      - B-612
+      - D-232
+      Explanation: C-137 is the dimension where most of the main series takes place.
+    - Question: Who is the creator of 'Adventure Time'?
+      TrueAnswer: Pendleton Ward
+      FalseAnswer:
+      - Rebecca Sugar
+      - J.G. Quintel
+      - Alex Hirsch
+      Explanation: Pendleton Ward developed the show and serves as an executive producer
+        and story writer.
+    - Question: Which character from 'Futurama' has an alcohol addiction?
+      TrueAnswer: Bender
+      FalseAnswer:
+      - Fry
+      - Leela
+      - Zoidberg
+      Explanation: Bender is powered by alcohol and always seeks alcohol to function
+        properly.
+    - Question: In 'Bojack Horseman,' what animal is Bojack?
+      TrueAnswer: Horse
+      FalseAnswer:
+      - Dog
+      - Cat
+      - Elephant
+      Explanation: Bojack is an anthropomorphic horse who starred in the 1990s sitcom
+        'Horsin' Around.'
+    - Question: What is the primary setting of 'Bob's Burgers'?
+      TrueAnswer: Restaurant
+      FalseAnswer:
+      - School
+      - Hospital
+      - Office
+      Explanation: The series centers on the Belcher family who owns a hamburger
+        restaurant.
+    - Question: Which animated series features a character named Sterling Archer?
+      TrueAnswer: Archer
+      FalseAnswer:
+      - Family Guy
+      - SpongeBob SquarePants
+      - South Park
+      Explanation: Archer is an American adult animated sitcom revolving around the
+        mishaps of intelligence agents.
+    - Question: What is the name of the human living in The Land of Ooo in 'Adventure
+        Time'?
+      TrueAnswer: Finn
+      FalseAnswer:
+      - Jake
+      - Princess Bubblegum
+      - Ice King
+      Explanation: Finn, a human boy with a heroic heart, is one of the main characters
+        in the show.
+    - Question: Which animated series features a character named Tina Belcher?
+      TrueAnswer: Bob's Burgers
+      FalseAnswer:
+      - Rick and Morty
+      - The Simpsons
+      - Bojack Horseman
+      Explanation: Tina Belcher is the awkward and slightly strange eldest child
+        of the Belcher family.
+    - Question: In 'The Boondocks,' what is the last name of Huey and Riley?
+      TrueAnswer: Freeman
+      FalseAnswer:
+      - Jackson
+      - Smith
+      - Thompson
+      Explanation: The show follows the lives of two young African American brothers,
+        Huey and Riley Freeman.
+    - Question: Which animated series features a character named Lisa Simpson?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Bob's Burgers
+      - Futurama
+      - Archer
+      Explanation: Lisa is the intelligent and kind-hearted daughter of the Simpson
+        family in the animated series.
+    - Question: In 'Rick and Morty,' what species is Morty's pet Jerry?
+      TrueAnswer: Alien
+      FalseAnswer:
+      - Human
+      - Cat
+      - Robot
+      Explanation: Jerry is a small, green, caterpillar-like species that Morty adopts
+        in the series.
+    - Question: Which animated series features a character named Linda Belcher?
+      TrueAnswer: Bob's Burgers
+      FalseAnswer:
+      - Adventure Time
+      - Rick and Morty
+      - South Park
+      Explanation: Linda is the warm, nurturing, and upbeat wife of Bob Belcher in
+        the show.
+    - Question: Name the robotic character in 'Futurama' who works as a bending unit.
+      TrueAnswer: Bender
+      FalseAnswer:
+      - Fry
+      - Leela
+      - Zoidberg
+      Explanation: Bender, often referred to as Bender Bending Rodriguez, is a central
+        character on 'Futurama.'
+    - Question: In 'Bojack Horseman,' what is Diane Nguyen's profession?
+      TrueAnswer: Writer
+      FalseAnswer:
+      - Doctor
+      - Actress
+      - Chef
+      Explanation: Diane is a Vietnamese-American ghostwriter from Boston who becomes
+        well-known for her writing skills.
+    - Question: Which animated series features a character named Sterling Mallory
+        Archer?
+      TrueAnswer: Archer
+      FalseAnswer:
+      - Bojack Horseman
+      - Rick and Morty
+      - Family Guy
+      Explanation: Sterling Archer is a suave, self-centered spy in the animated
+        series 'Archer.'
+    - Question: In 'Rick and Morty,' what is Rick Sanchez's favorite catchphrase?
+      TrueAnswer: Wubba lubba dub dub!
+      FalseAnswer:
+      - Pickle Rick!
+      - And that's the way the news goes.
+      - I'm Mr. Meeseeks, look at me!
+      Explanation: The phrase was originally a joke, but it was later given a darker
+        context in the series.
+    - Question: Which animated series features a character named Sterling Malory
+        Archer?
+      TrueAnswer: Archer
+      FalseAnswer:
+      - Bob's Burgers
+      - Futurama
+      - The Simpsons
+      Explanation: Sterling Malory Archer is the main character and world's most
+        dangerous spy in 'Archer.'
+    - Question: In 'Bojack Horseman,' which animal is Todd Chavez?
+      TrueAnswer: Human
+      FalseAnswer:
+      - Lizard
+      - Horse
+      - Cat
+      Explanation: Todd is Bojack's best friend and a lovable, goofy human character
+        in the series.
+    - Question: "What is the name of the caf\xE9 where Archer and his colleagues
+        work in 'Archer'?"
+      TrueAnswer: ISIS
+      FalseAnswer:
+      - MI6
+      - KGB
+      - CIA
+      Explanation: ISIS is the name of the spy agency where the main characters work
+        in the earlier seasons.

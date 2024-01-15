@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4173573314552064043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2654658171877045659}
+  - component: {fileID: 3695582391938208616}
+  m_Layer: 0
+  m_Name: Pop_Culture_Television.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2654658171877045659
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4173573314552064043}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3695582391938208616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4173573314552064043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the longest-serving actor to play the Doctor in 'Doctor Who'?
+      TrueAnswer: Tom Baker
+      FalseAnswer:
+      - David Tennant
+      - Peter Capaldi
+      - Matt Smith
+      Explanation: Tom Baker portrayed the Fourth Doctor from 1974 to 1981, becoming
+        an iconic figure in 'Doctor Who' history.
+    - Question: Which TV show features a character named Walter White?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - The Sopranos
+      - The Wire
+      - Lost
+      Explanation: '''Breaking Bad'' follows the transformation of chemistry teacher
+        Walter White into a methamphetamine-producing drug lord.'
+    - Question: What is the name of the fictional city in 'Stranger Things'?
+      TrueAnswer: Hawkins
+      FalseAnswer:
+      - Springfield
+      - Hill Valley
+      - Sunnydale
+      Explanation: The series is set in the small town of Hawkins, Indiana, which
+        becomes the center of mysterious occurrences.
+    - Question: Which character from 'Friends' is portrayed by Jennifer Aniston?
+      TrueAnswer: Rachel Green
+      FalseAnswer:
+      - Monica Geller
+      - Phoebe Buffay
+      - Joey Tribbiani
+      Explanation: Jennifer Aniston gained widespread recognition for her role as
+        Rachel Green in the beloved sitcom 'Friends.'
+    - Question: What is the name of the ship in the TV show 'Firefly'?
+      TrueAnswer: Serenity
+      FalseAnswer:
+      - Enterprise
+      - Millennium Falcon
+      - Galactica
+      Explanation: The Firefly-class spaceship 'Serenity' serves as the primary setting
+        for the cult-classic series 'Firefly.'
+    - Question: Who created 'The Office' (US) television series?
+      TrueAnswer: Greg Daniels
+      FalseAnswer:
+      - Ricky Gervais
+      - Steve Carell
+      - Judd Apatow
+      Explanation: Greg Daniels adapted the British series, created by Ricky Gervais
+        and Stephen Merchant, into the successful US version.
+    - Question: Which TV show features a character named Eleven?
+      TrueAnswer: Stranger Things
+      FalseAnswer:
+      - The Crown
+      - The Mandalorian
+      - Westworld
+      Explanation: Eleven, portrayed by Millie Bobby Brown, is a central character
+        with psychokinetic abilities in 'Stranger Things'.
+    - Question: What is the catchphrase often associated with 'The X-Files'?
+      TrueAnswer: The Truth Is Out There
+      FalseAnswer:
+      - I Want to Believe
+      - Trust No One
+      - Deny Everything
+      Explanation: The tagline 'The Truth Is Out There' encapsulates the show's overarching
+        theme of paranormal investigations and government conspiracies.
+    - Question: What is the name of the fictional continent in 'Game of Thrones'?
+      TrueAnswer: Westeros
+      FalseAnswer:
+      - Mordor
+      - Narnia
+      - Middle-earth
+      Explanation: Westeros, with its complex power struggles and rich history, serves
+        as a primary setting in the epic fantasy series.
+    - Question: In 'Friends', which character is known for saying 'How you doin'?'
+      TrueAnswer: Joey Tribbiani
+      FalseAnswer:
+      - Chandler Bing
+      - Ross Geller
+      - Phoebe Buffay
+      Explanation: Joey's flirtatious catchphrase 'How you doin'?' became a signature
+        element of his character on 'Friends.'
+    - Question: Who played the role of Cersei Lannister in 'Game of Thrones'?
+      TrueAnswer: Lena Headey
+      FalseAnswer:
+      - Emilia Clarke
+      - Sophie Turner
+      - Maisie Williams
+      Explanation: Lena Headey skillfully portrayed the cunning and formidable character
+        of Cersei Lannister throughout the series.
+    - Question: Which TV show is set in a post-apocalyptic world filled with zombie-like
+        creatures called 'walkers'?
+      TrueAnswer: The Walking Dead
+      FalseAnswer:
+      - Fear the Walking Dead
+      - Z Nation
+      - Stranger Things
+      Explanation: Amidst the horror of the zombie apocalypse, 'The Walking Dead'
+        showcases intense survival dynamics and human drama.
+    - Question: What is the name of the high school in 'Buffy the Vampire Slayer'?
+      TrueAnswer: Sunnydale High
+      FalseAnswer:
+      - Ridgemont High
+      - Hogwarts School
+      - West Beverly High
+      Explanation: Sunnydale High School served as the backdrop for the supernatural
+        encounters and teenage drama in the popular series.
+    - Question: Which TV show is known for the iconic phrase 'May the Force be with
+        you'?
+      TrueAnswer: 'Star Wars: The Clone Wars'
+      FalseAnswer:
+      - 'Star Trek: The Next Generation'
+      - Battlestar Galactica
+      - Doctor Who
+      Explanation: The phrase 'May the Force be with you' is a hallmark of the 'Star
+        Wars' franchise, echoing its themes of hope and resilience.
+    - Question: Who portrayed Sherlock Holmes in the TV series 'Sherlock'?
+      TrueAnswer: Benedict Cumberbatch
+      FalseAnswer:
+      - Jonny Lee Miller
+      - Robert Downey Jr.
+      - David Tennant
+      Explanation: Benedict Cumberbatch brought a modern, captivating portrayal to
+        the renowned detective character in 'Sherlock.'
+    - Question: Which TV show revolves around a group of survivors in a mysterious
+        cube-shaped structure?
+      TrueAnswer: The Cube
+      FalseAnswer:
+      - The Circle
+      - The Square
+      - The Sphere
+      Explanation: '''The Cube'' challenges contestants to navigate through various
+        physical and mental tasks within its enigmatic confines.'
+    - Question: What is the name of the motel in the TV series 'Bates Motel'?
+      TrueAnswer: Bates Motel
+      FalseAnswer:
+      - Overlook Hotel
+      - Grand Hotel
+      - Marigold Hotel
+      Explanation: The fictional motel, central to the storyline of 'Bates Motel',
+        becomes synonymous with unsettling psychological suspense.
+    - Question: Which TV show features a dysfunctional animated family living in
+        the fictional town of Springfield?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Family Guy
+      - American Dad
+      - South Park
+      Explanation: The iconic 'Simpsons' family, residing in Springfield, brings
+        satirical humor and enduring social commentary to the forefront of television.
+    - Question: Who hosts the televised music competition show 'The Voice'?
+      TrueAnswer: Carson Daly
+      FalseAnswer:
+      - Ryan Seacrest
+      - Nick Cannon
+      - Tom Bergeron
+      Explanation: Carson Daly has served as the host of 'The Voice' since its inception,
+        guiding the journey of aspiring artists in the competition.
+    - Question: In 'Stranger Things', what is the name of the parallel dimension
+        inhabited by the Demogorgon?
+      TrueAnswer: The Upside Down
+      FalseAnswer:
+      - The Other Side
+      - The Netherworld
+      - The Beyond
+      Explanation: The mysterious and foreboding Upside Down exists as a haunting
+        alternate dimension connected to the town of Hawkins.

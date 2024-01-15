@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the goal of Artificial Intelligence?",
+          "TrueAnswer": "To mimic human intelligence",
+          "FalseAnswer": [
+            "To replace human intelligence",
+            "To create robots",
+            "To solve complex problems"
+          ],
+          "Explanation": "The goal of Artificial Intelligence is to develop machines that can imitate human intelligence and perform tasks that would typically require human intelligence."
+        },
+        {
+          "Question": "What is the main branch of AI that focuses on learning from data?",
+          "TrueAnswer": "Machine Learning",
+          "FalseAnswer": [
+            "Robotics",
+            "Natural Language Processing",
+            "Expert Systems"
+          ],
+          "Explanation": "Machine Learning is a branch of AI that focuses on developing algorithms that allow machines to learn from and make predictions or decisions based on data."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can learn and improve without explicit programming?",
+          "TrueAnswer": "Deep Learning",
+          "FalseAnswer": [
+            "Artificial Neural Networks",
+            "Genetic Algorithms",
+            "Expert Systems"
+          ],
+          "Explanation": "Deep Learning refers to AI systems that can learn and improve by themselves through neural networks without explicit programming or human intervention."
+        },
+        {
+          "Question": "Which AI technique involves training a model to perform a specific task using labeled data?",
+          "TrueAnswer": "Supervised Learning",
+          "FalseAnswer": [
+            "Unsupervised Learning",
+            "Reinforcement Learning",
+            "Genetic Algorithms"
+          ],
+          "Explanation": "Supervised Learning is an AI technique where a model is trained using labeled data to perform a specific task, such as classification or regression."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can understand and generate human language?",
+          "TrueAnswer": "Natural Language Processing",
+          "FalseAnswer": [
+            "Computer Vision",
+            "Expert Systems",
+            "Robotics"
+          ],
+          "Explanation": "Natural Language Processing is a branch of AI that focuses on enabling machines to understand, interpret, and generate human language, both written and spoken."
+        },
+        {
+          "Question": "Which AI technique involves training a model to make decisions based on rewards and punishments?",
+          "TrueAnswer": "Reinforcement Learning",
+          "FalseAnswer": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Genetic Algorithms"
+          ],
+          "Explanation": "Reinforcement Learning is an AI technique where a model learns to make decisions based on rewards and punishments received from its environment."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can perceive and understand visual information?",
+          "TrueAnswer": "Computer Vision",
+          "FalseAnswer": [
+            "Natural Language Processing",
+            "Robotics",
+            "Expert Systems"
+          ],
+          "Explanation": "Computer Vision is a field of AI that focuses on enabling machines to perceive and understand visual information from images or videos."
+        },
+        {
+          "Question": "Which AI technique involves training a model to find patterns and relationships in data without labeled examples?",
+          "TrueAnswer": "Unsupervised Learning",
+          "FalseAnswer": [
+            "Supervised Learning",
+            "Reinforcement Learning",
+            "Genetic Algorithms"
+          ],
+          "Explanation": "Unsupervised Learning is an AI technique where a model learns to find patterns and relationships in data without the need for labeled examples."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can reason and make decisions like a human expert?",
+          "TrueAnswer": "Expert Systems",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Robotics"
+          ],
+          "Explanation": "Expert Systems are AI systems that use knowledge and rules to reason and make decisions in a specific domain, mimicking the expertise of a human expert."
+        },
+        {
+          "Question": "Which AI technique involves simulating the process of natural selection to solve problems?",
+          "TrueAnswer": "Genetic Algorithms",
+          "FalseAnswer": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning"
+          ],
+          "Explanation": "Genetic Algorithms are AI techniques that simulate the process of natural selection to solve problems by evolving a population of potential solutions."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can physically interact with the environment?",
+          "TrueAnswer": "Robotics",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+          ],
+          "Explanation": "Robotics is a branch of AI that focuses on designing and developing physical machines (robots) that can interact with and manipulate the environment."
+        },
+        {
+          "Question": "Which AI technique involves training a model to generate new content based on existing examples?",
+          "TrueAnswer": "Generative Adversarial Networks",
+          "FalseAnswer": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning"
+          ],
+          "Explanation": "Generative Adversarial Networks (GANs) are AI models that consist of a generator and a discriminator, trained together to generate new content based on existing examples."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can understand and respond to human emotions?",
+          "TrueAnswer": "Affective Computing",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+          ],
+          "Explanation": "Affective Computing is a field of AI that focuses on developing systems that can understand and respond to human emotions, such as facial expressions or voice tone."
+        },
+        {
+          "Question": "Which AI technique involves training a model to classify data into multiple predefined categories?",
+          "TrueAnswer": "Multiclass Classification",
+          "FalseAnswer": [
+            "Binary Classification",
+            "Regression",
+            "Clustering"
+          ],
+          "Explanation": "Multiclass Classification is an AI technique where a model is trained to classify data into multiple predefined categories or classes."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can understand and interpret human gestures?",
+          "TrueAnswer": "Gesture Recognition",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+          ],
+          "Explanation": "Gesture Recognition is a field of AI that focuses on enabling machines to understand and interpret human gestures, such as hand movements or body language."
+        },
+        {
+          "Question": "Which AI technique involves training a model to predict a continuous value based on input data?",
+          "TrueAnswer": "Regression",
+          "FalseAnswer": [
+            "Binary Classification",
+            "Multiclass Classification",
+            "Clustering"
+          ],
+          "Explanation": "Regression is an AI technique where a model is trained to predict a continuous value (e.g., price, temperature) based on input data."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can understand and interpret spatial relationships?",
+          "TrueAnswer": "Spatial Reasoning",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+          ],
+          "Explanation": "Spatial Reasoning is a field of AI that focuses on enabling machines to understand and interpret spatial relationships between objects or elements."
+        },
+        {
+          "Question": "Which AI technique involves grouping similar data points together based on their characteristics?",
+          "TrueAnswer": "Clustering",
+          "FalseAnswer": [
+            "Binary Classification",
+            "Multiclass Classification",
+            "Regression"
+          ],
+          "Explanation": "Clustering is an AI technique where similar data points are grouped together based on their characteristics or similarities."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can understand and interpret human facial expressions?",
+          "TrueAnswer": "Facial Expression Recognition",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+          ],
+          "Explanation": "Facial Expression Recognition is a field of AI that focuses on enabling machines to understand and interpret human facial expressions, such as happiness or sadness."
+        },
+        {
+          "Question": "Which AI technique involves training a model to make decisions based on probabilities and uncertainty?",
+          "TrueAnswer": "Probabilistic Reasoning",
+          "FalseAnswer": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Reinforcement Learning"
+          ],
+          "Explanation": "Probabilistic Reasoning is an AI technique where a model makes decisions based on probabilities and uncertainty, taking into account various factors and their likelihoods."
+        },
+        {
+          "Question": "What is the term used to describe AI systems that can understand and interpret human speech?",
+          "TrueAnswer": "Speech Recognition",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision"
+          ],
+          "Explanation": "Speech Recognition is a field of AI that focuses on enabling machines to understand and interpret human speech, converting spoken words into written text."
+        }
+      ]
+    }
+  ]
+}

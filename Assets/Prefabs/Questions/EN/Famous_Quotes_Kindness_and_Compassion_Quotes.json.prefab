@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &622607345809068464
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8297773144997634668}
+  - component: {fileID: 2988222915371575910}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Kindness_and_Compassion_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8297773144997634668
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622607345809068464}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2988222915371575910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 622607345809068464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'No act of kindness, no matter how small, is ever wasted'?
+      TrueAnswer: Aesop
+      FalseAnswer:
+      - Confucius
+      - Gandhi
+      - Buddha
+      Explanation: Aesop, the ancient Greek storyteller, is credited with this saying,
+        emphasizing the value of even the smallest acts of kindness.
+    - Question: Which famous figure expressed, 'Be kind whenever possible. It is
+        always possible'?
+      TrueAnswer: Dalai Lama
+      FalseAnswer:
+      - Mother Teresa
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: The 14th Dalai Lama, Tenzin Gyatso, is the spiritual leader of
+        Tibetan Buddhism and promotes the message of kindness in every situation.
+    - Question: Who is associated with the quote, 'Kindness is the language which
+        the deaf can hear and the blind can see'?
+      TrueAnswer: Mark Twain
+      FalseAnswer:
+      - Oscar Wilde
+      - Henry David Thoreau
+      - Ralph Waldo Emerson
+      Explanation: Renowned author Mark Twain, known for his wit and wisdom, penned
+        this quote emphasizing the universal nature of kindness.
+    - Question: "Which influential woman said, 'Remember there\u2019s no such thing
+        as a small act of kindness. Every act creates a ripple with no logical end'?"
+      TrueAnswer: Scott Adams
+      FalseAnswer:
+      - Maya Angelou
+      - Jane Goodall
+      - Oprah Winfrey
+      Explanation: Scott Adams, the creator of the 'Dilbert' comic strip, is credited
+        with this empowering quote about the pervasive impact of kindness.
+    - Question: Who expressed, 'We make a living by what we get, but we make a life
+        by what we give'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Abraham Lincoln
+      - Theodore Roosevelt
+      - Napoleon Bonaparte
+      Explanation: Sir Winston Churchill, British Prime Minister, highlighted the
+        importance of giving and kindness in shaping a meaningful life.

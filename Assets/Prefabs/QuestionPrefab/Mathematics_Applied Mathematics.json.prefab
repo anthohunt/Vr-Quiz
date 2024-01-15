@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4840795304111873922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8062940951259159667}
+  - component: {fileID: 4678277665540016336}
+  m_Layer: 0
+  m_Name: Mathematics_Applied Mathematics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8062940951259159667
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4840795304111873922}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4678277665540016336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4840795304111873922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the derivative of a constant function?
+      TrueAnswer: 0
+      FalseAnswer:
+      - 1
+      - 2
+      - -1
+      Explanation: The derivative of a constant function is always 0, as the slope
+        is constant.
+    - Question: What is the integral of a constant function?
+      TrueAnswer: cx
+      FalseAnswer:
+      - x^2
+      - sin(x)
+      - e^x
+      Explanation: The integral of a constant function is cx, where c is a constant.
+    - Question: What is the Pythagorean theorem used for?
+      TrueAnswer: Finding the length of a side in a right triangle
+      FalseAnswer:
+      - Solving quadratic equations
+      - Calculating the area of a circle
+      - Determining prime numbers
+      Explanation: The Pythagorean theorem is used to find the length of a side in
+        a right triangle.
+    - Question: What is the formula for compound interest?
+      TrueAnswer: A = P(1 + r/n)^(nt)
+      FalseAnswer:
+      - A = P + rt
+      - A = P(1 + r)^t
+      - A = P(1 - r/n)^(nt)
+      Explanation: The formula for compound interest is A = P(1 + r/n)^(nt), where
+        A is the final amount, P is the principal, r is the interest rate, n is the
+        number of times interest is compounded per year, and t is the number of years.
+    - Question: What is the formula for the area of a triangle?
+      TrueAnswer: A = (1/2)bh
+      FalseAnswer:
+      - A = l^2
+      - "A = \u03C0r^2"
+      - A = bh
+      Explanation: The formula for the area of a triangle is A = (1/2)bh, where b
+        is the base and h is the height.
+    - Question: What is the formula for the volume of a sphere?
+      TrueAnswer: "V = (4/3)\u03C0r^3"
+      FalseAnswer:
+      - V = lwh
+      - "V = \u03C0r^2h"
+      - "V = (1/3)\u03C0r^2h"
+      Explanation: "The formula for the volume of a sphere is V = (4/3)\u03C0r^3,
+        where r is the radius."
+    - Question: What is the formula for the area of a circle?
+      TrueAnswer: "A = \u03C0r^2"
+      FalseAnswer:
+      - A = l^2
+      - A = (1/2)bh
+      - "A = 2\u03C0r"
+      Explanation: "The formula for the area of a circle is A = \u03C0r^2, where
+        r is the radius."
+    - Question: What is the formula for the circumference of a circle?
+      TrueAnswer: "C = 2\u03C0r"
+      FalseAnswer:
+      - "C = \u03C0r^2"
+      - "C = 2\u03C0rh"
+      - "C = \u03C0d"
+      Explanation: "The formula for the circumference of a circle is C = 2\u03C0r,
+        where r is the radius."
+    - Question: What is the formula for the area of a rectangle?
+      TrueAnswer: A = lw
+      FalseAnswer:
+      - "A = \u03C0r^2"
+      - A = (1/2)bh
+      - A = 2lw
+      Explanation: The formula for the area of a rectangle is A = lw, where l is
+        the length and w is the width.
+    - Question: What is the formula for the volume of a cylinder?
+      TrueAnswer: "V = \u03C0r^2h"
+      FalseAnswer:
+      - "V = (4/3)\u03C0r^3"
+      - V = lwh
+      - "V = (1/3)\u03C0r^2h"
+      Explanation: "The formula for the volume of a cylinder is V = \u03C0r^2h, where
+        r is the radius and h is the height."
+    - Question: What is the formula for the area of a trapezoid?
+      TrueAnswer: A = (1/2)(b1 + b2)h
+      FalseAnswer:
+      - A = l^2
+      - "A = \u03C0r^2"
+      - A = bh
+      Explanation: The formula for the area of a trapezoid is A = (1/2)(b1 + b2)h,
+        where b1 and b2 are the lengths of the parallel bases and h is the height.
+    - Question: What is the formula for the volume of a cone?
+      TrueAnswer: "V = (1/3)\u03C0r^2h"
+      FalseAnswer:
+      - "V = (4/3)\u03C0r^3"
+      - V = lwh
+      - "V = \u03C0r^2h"
+      Explanation: "The formula for the volume of a cone is V = (1/3)\u03C0r^2h,
+        where r is the radius and h is the height."
+    - Question: What is the formula for the area of a square?
+      TrueAnswer: A = s^2
+      FalseAnswer:
+      - "A = \u03C0r^2"
+      - A = (1/2)bh
+      - A = 4s
+      Explanation: The formula for the area of a square is A = s^2, where s is the
+        length of a side.
+    - Question: What is the formula for the volume of a rectangular prism?
+      TrueAnswer: V = lwh
+      FalseAnswer:
+      - "V = (4/3)\u03C0r^3"
+      - "V = \u03C0r^2h"
+      - "V = (1/3)\u03C0r^2h"
+      Explanation: The formula for the volume of a rectangular prism is V = lwh,
+        where l is the length, w is the width, and h is the height.
+    - Question: What is the formula for the area of a parallelogram?
+      TrueAnswer: A = bh
+      FalseAnswer:
+      - A = l^2
+      - "A = \u03C0r^2"
+      - A = (1/2)bh
+      Explanation: The formula for the area of a parallelogram is A = bh, where b
+        is the base and h is the height.
+    - Question: What is the formula for the volume of a pyramid?
+      TrueAnswer: V = (1/3)Bh
+      FalseAnswer:
+      - "V = (4/3)\u03C0r^3"
+      - V = lwh
+      - "V = \u03C0r^2h"
+      Explanation: The formula for the volume of a pyramid is V = (1/3)Bh, where
+        B is the base area and h is the height.
+    - Question: What is the formula for the area of a rhombus?
+      TrueAnswer: A = (1/2)diagonal1diagonal2
+      FalseAnswer:
+      - A = l^2
+      - "A = \u03C0r^2"
+      - A = bh
+      Explanation: The formula for the area of a rhombus is A = (1/2)diagonal1diagonal2,
+        where diagonal1 and diagonal2 are the lengths of the diagonals.
+    - Question: What is the formula for the volume of a rectangular pyramid?
+      TrueAnswer: V = (1/3)lwh
+      FalseAnswer:
+      - "V = (4/3)\u03C0r^3"
+      - "V = \u03C0r^2h"
+      - "V = (1/3)\u03C0r^2h"
+      Explanation: The formula for the volume of a rectangular pyramid is V = (1/3)lwh,
+        where l is the length, w is the width, and h is the height.
+    - Question: What is the formula for the area of a regular polygon?
+      TrueAnswer: A = (1/2)ap
+      FalseAnswer:
+      - A = l^2
+      - "A = \u03C0r^2"
+      - A = bh
+      Explanation: The formula for the area of a regular polygon is A = (1/2)ap,
+        where a is the apothem and p is the perimeter.
+    - Question: What is the formula for the volume of a sphere?
+      TrueAnswer: "V = (4/3)\u03C0r^3"
+      FalseAnswer:
+      - V = lwh
+      - "V = \u03C0r^2h"
+      - "V = (1/3)\u03C0r^2h"
+      Explanation: "The formula for the volume of a sphere is V = (4/3)\u03C0r^3,
+        where r is the radius."

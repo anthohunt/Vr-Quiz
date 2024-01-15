@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nombre maximal d'arêtes dans un graphe complet avec 10 sommets ?",
+            "TrueAnswer": "45",
+            "FalseAnswer": [
+              "55",
+              "35",
+              "60"
+            ],
+            "Explanation": "Dans un graphe complet avec n sommets, il y a n(n-1)/2 arêtes, donnant 10(10-1)/2 = 45 arêtes."
+          },
+          {
+            "Question": "Quel problème célèbre consiste à trouver un chemin qui visite chaque sommet exactement une fois ?",
+            "TrueAnswer": "Problème du voyageur de commerce",
+            "FalseAnswer": [
+              "Problème du sac à dos",
+              "Tour de Hanoï",
+              "Dernier théorème de Fermat"
+            ],
+            "Explanation": "Le problème du voyageur de commerce demande le plus court itinéraire possible qui visite chaque ville une fois et revient à la ville d'origine."
+          },
+          {
+            "Question": "Quel est le nombre minimum de couleurs nécessaires pour colorer n'importe quelle carte planaire afin qu'aucune région adjacente n'ait la même couleur ?",
+            "TrueAnswer": "Quatre",
+            "FalseAnswer": [
+              "Trois",
+              "Cinq",
+              "Six"
+            ],
+            "Explanation": "Le théorème des quatre couleurs stipule qu'une carte sur un plan peut être colorée avec au plus quatre couleurs de telle sorte que deux régions adjacentes n'aient pas la même couleur."
+          },
+          {
+            "Question": "En théorie des graphes, à quoi se réfère le terme 'degré' ?",
+            "TrueAnswer": "Le nombre d'arêtes incidentes à un sommet",
+            "FalseAnswer": [
+              "Le nombre d'arêtes dans un graphe",
+              "Le nombre de sommets dans un graphe",
+              "La longueur d'un chemin dans un graphe"
+            ],
+            "Explanation": "Le degré d'un sommet dans un graphe est le nombre d'arêtes incidentes à ce sommet, et les boucles sont comptées deux fois."
+          },
+          {
+            "Question": "Quel algorithme est utilisé pour trouver le plus court chemin dans un graphe pondéré ?",
+            "TrueAnswer": "Algorithme de Dijkstra",
+            "FalseAnswer": [
+              "Recherche en largeur d'abord",
+              "Recherche en profondeur d'abord",
+              "Algorithme de Prim"
+            ],
+            "Explanation": "L'algorithme de Dijkstra est un algorithme pour trouver le plus court chemin d'un sommet source unique à tous les autres sommets dans un graphe pondéré."
+          },
+          {
+            "Question": "Quel type de graphe a des arêtes dirigées d'un sommet à un autre ?",
+            "TrueAnswer": "Graphe orienté",
+            "FalseAnswer": [
+              "Graphe non orienté",
+              "Graphe complet",
+              "Graphe biparti"
+            ],
+            "Explanation": "Un graphe orienté est un graphe dans lequel les arêtes ont une direction, indiquant quel sommet est la source et lequel est la destination."
+          },
+          {
+            "Question": "Quel type de graphe n'a pas de cycles et est connecté ?",
+            "TrueAnswer": "Arbre",
+            "FalseAnswer": [
+              "Graphe complet",
+              "Graphe planaire",
+              "Graphe eulérien"
+            ],
+            "Explanation": "Un arbre est un graphe non orienté dans lequel deux sommets quelconques sont reliés par exactement un chemin simple sans cycles."
+          },
+          {
+            "Question": "Quelle est la somme des degrés de tous les sommets dans un graphe ?",
+            "TrueAnswer": "Deux fois le nombre d'arêtes",
+            "FalseAnswer": [
+              "Le nombre de sommets",
+              "Le nombre d'arêtes",
+              "Quatre fois le nombre d'arêtes"
+            ],
+            "Explanation": "La somme des degrés de tous les sommets dans un graphe est toujours deux fois le nombre d'arêtes, car chaque arête contribue au degré de deux sommets."
+          },
+          {
+            "Question": "Quel mathématicien a formulé le célèbre 'théorème des quatre couleurs' ?",
+            "TrueAnswer": "Kenneth Appel et Wolfgang Haken",
+            "FalseAnswer": [
+              "Leonhard Euler",
+              "Pierre de Fermat",
+              "Andrew Wiles"
+            ],
+            "Explanation": "Kenneth Appel et Wolfgang Haken ont célèbrement prouvé le théorème des quatre couleurs en 1976 en utilisant un ordinateur pour vérifier systématiquement toutes les configurations possibles."
+          },
+          {
+            "Question": "Quel est le nombre minimal d'arêtes nécessaire pour connecter un graphe non orienté avec 4 sommets ?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "2",
+              "4",
+              "5"
+            ],
+            "Explanation": "Pour connecter un graphe non orienté avec 4 sommets, au moins 3 arêtes sont nécessaires pour garantir que chaque sommet est connecté à au moins un autre sommet."
+          },
+          {
+            "Question": "En théorie des graphes, qu'est-ce qu'un 'graphe biparti' caractérisé par ?",
+            "TrueAnswer": "Le fait de ne pas avoir de cycles impairs",
+            "FalseAnswer": [
+              "Le fait d'être planaire",
+              "Le fait d'être complet",
+              "Le fait d'avoir un cycle hamiltonien"
+            ],
+            "Explanation": "Un graphe biparti est un graphe dont les sommets peuvent être divisés en deux ensembles disjoints et indépendants, de telle manière que deux sommets du même ensemble ne soient pas adjacents."
+          },
+          {
+            "Question": "À quoi se réfère le terme 'nombre chromatique' en théorie des graphes ?",
+            "TrueAnswer": "Le nombre minimum de couleurs nécessaires pour colorer les sommets d'un graphe",
+            "FalseAnswer": [
+              "Le nombre d'arêtes dans un graphe",
+              "Le nombre de sommets dans un graphe",
+              "La longueur d'un chemin dans un graphe"
+            ],
+            "Explanation": "Le nombre chromatique d'un graphe est le nombre minimum de couleurs nécessaires pour colorer les sommets de telle sorte que deux sommets adjacents n'aient pas la même couleur."
+          },
+          {
+            "Question": "Quel problème célèbre concerne la recherche d'un sous-graphe qui est un arbre et inclut tous les sommets du graphe d'origine ?",
+            "TrueAnswer": "Problème de l'arbre couvrant minimal",
+            "FalseAnswer": [
+              "Problème du flot maximal",
+              "Problème du plus court chemin",
+              "Problème du chemin eulérien"
+            ],
+            "Explanation": "Le problème de l'arbre couvrant minimal consiste à trouver un arbre qui relie tous les sommets du graphe d'origine avec le poids d'arête total le plus faible possible."
+          },
+          {
+            "Question": "Quel est le nombre maximal d'arêtes dans un graphe non orienté acyclique avec 8 sommets ?",
+            "TrueAnswer": "7",
+            "FalseAnswer": [
+              "20",
+              "18",
+              "12"
+            ],
+            "Explanation": "Dans un graphe non orienté acyclique avec n sommets, le nombre maximal d'arêtes est n-1, donnant 8-1 = 7 arêtes."
+          },
+          {
+            "Question": "Quel type de graphe a des arêtes qui relient chaque paire de sommets distincts ?",
+            "TrueAnswer": "Graphe complet",
+            "FalseAnswer": [
+              "Graphe connecté",
+              "Graphe eulérien",
+              "Graphe planaire"
+            ],
+            "Explanation": "Un graphe complet est un graphe non orienté simple dans lequel chaque paire de sommets distincts est reliée par une unique arête."
+          },
+          {
+            "Question": "Quel est le nombre maximal de régions pouvant être formées dans un graphe planaire avec 7 sommets et 9 arêtes ?",
+            "TrueAnswer": "11",
+            "FalseAnswer": [
+              "17",
+              "14",
+              "9"
+            ],
+            "Explanation": "Le nombre maximal de régions dans un graphe planaire est donné par R = E - V + 2, où E est le nombre d'arêtes et V est le nombre de sommets, ce qui donne 9 - 7 + 2 = 11 régions."
+          },
+          {
+            "Question": "Quel algorithme est utilisé pour détecter les cycles dans un graphe orienté ?",
+            "TrueAnswer": "Algorithme de Tarjan",
+            "FalseAnswer": [
+              "Algorithme de Floyd-Warshall",
+              "Algorithme de Prim",
+              "Algorithme de Bellman-Ford"
+            ],
+            "Explanation": "L'algorithme de Tarjan est un algorithme de graphe utilisé pour trouver les composantes fortement connexes dans un graphe, et peut également détecter les cycles dans un graphe orienté."
+          },
+          {
+            "Question": "Quel est le nombre maximal d'arêtes dans un graphe non orienté simple avec 6 sommets ?",
+            "TrueAnswer": "15",
+            "FalseAnswer": [
+              "14",
+              "20",
+              "18"
+            ],
+            "Explanation": "Dans un graphe non orienté simple avec n sommets, le nombre maximal d'arêtes est n*(n-1)/2, ce qui donne 6*(6-1)/2 = 15 arêtes."
+          },
+          {
+            "Question": "Quel mathématicien a développé la théorie des graphes ?",
+            "TrueAnswer": "Leonhard Euler",
+            "FalseAnswer": [
+              "Carl Friedrich Gauss",
+              "Pierre-Simon Laplace",
+              "David Hilbert"
+            ],
+            "Explanation": "Leonhard Euler est considéré comme le père de la théorie des graphes pour son œuvre fondatrice au 18ème siècle sur le problème des sept ponts de Königsberg."
+          },
+          {
+            "Question": "Quel est le nombre minimum d'arêtes dans un graphe planaire connecté avec 6 sommets ?",
+            "TrueAnswer": "9",
+            "FalseAnswer": [
+              "5",
+              "11",
+              "8"
+            ],
+            "Explanation": "Dans un graphe planaire connecté avec n sommets, le nombre minimum d'arêtes est de 3n - 6, ce qui donne 3*6 - 6 = 9 arêtes."
+          }
+        ]
+      }
+    }
+  ]
+}

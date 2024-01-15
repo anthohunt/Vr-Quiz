@@ -1,0 +1,390 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9197226611471836558
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9119552534373492777}
+  - component: {fileID: 1043361944775319677}
+  m_Layer: 0
+  m_Name: Cartoons_Animation and Virtual Influencers.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9119552534373492777
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9197226611471836558}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1043361944775319677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9197226611471836558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the main character in the cartoon 'SpongeBob SquarePants'?
+      TrueAnswer: SpongeBob
+      FalseAnswer:
+      - Patrick
+      - Squidward
+      - Mr. Krabs
+      Explanation: SpongeBob SquarePants is a yellow sponge who lives in a pineapple
+        under the sea.
+    - Question: Which cartoon features a family with a dog named Brian?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - The Simpsons
+      - American Dad
+      - South Park
+      Explanation: Family Guy is an animated sitcom that follows the Griffin family,
+        including their talking dog Brian.
+    - Question: What is the name of the princess in the Disney movie 'Frozen'?
+      TrueAnswer: Elsa
+      FalseAnswer:
+      - Anna
+      - Cinderella
+      - Ariel
+      Explanation: Elsa is the older sister and Snow Queen with magical ice powers
+        in the movie 'Frozen'.
+    - Question: Which cartoon features a group of babies with unique personalities?
+      TrueAnswer: Rugrats
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Adventure Time
+      Explanation: Rugrats is an animated series that follows the adventures of Tommy,
+        Chuckie, and their baby friends.
+    - Question: Who is the main character in the cartoon 'Tom and Jerry'?
+      TrueAnswer: Tom
+      FalseAnswer:
+      - Jerry
+      - Spike
+      - Butch
+      Explanation: Tom is the mischievous cat who constantly chases Jerry, the clever
+        mouse.
+    - Question: Which cartoon features a yellow family living in Springfield?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Family Guy
+      - Bob's Burgers
+      - Futurama
+      Explanation: The Simpsons is a long-running animated sitcom that follows the
+        lives of the Simpson family.
+    - Question: What is the name of the blue fish in the movie 'Finding Nemo'?
+      TrueAnswer: Dory
+      FalseAnswer:
+      - Nemo
+      - Marlin
+      - Gill
+      Explanation: Dory is a friendly and forgetful fish who helps Marlin find his
+        son Nemo in the movie 'Finding Nemo'.
+    - Question: Which cartoon features a group of superhero girls with superpowers?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - Teen Titans Go!
+      - My Little Pony
+      - Winx Club
+      Explanation: The Powerpuff Girls are Blossom, Bubbles, and Buttercup, who fight
+        crime and save the day in Townsville.
+    - Question: What is the name of the lion in the Disney movie 'The Lion King'?
+      TrueAnswer: Simba
+      FalseAnswer:
+      - Mufasa
+      - Scar
+      - Timon
+      Explanation: Simba is the young lion who becomes the rightful king of the Pride
+        Lands in 'The Lion King'.
+    - Question: Which cartoon features a boy with a magical talking backpack?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - Paw Patrol
+      - Peppa Pig
+      - Blaze and the Monster Machines
+      Explanation: Dora the Explorer is an educational cartoon where Dora and her
+        talking backpack go on adventures.
+    - Question: Who is the main character in the cartoon 'Looney Tunes'?
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Tweety Bird
+      - Porky Pig
+      Explanation: Bugs Bunny is the iconic rabbit known for his catchphrase 'What's
+        up, Doc?' in 'Looney Tunes'.
+    - Question: Which cartoon features a group of friends living in the underwater
+        city of Bikini Bottom?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - The Fairly OddParents
+      - Teenage Mutant Ninja Turtles
+      - The Flintstones
+      Explanation: SpongeBob SquarePants and his friends, including Patrick and Squidward,
+        live in Bikini Bottom.
+    - Question: What is the name of the cat in the cartoon 'Tom and Jerry'?
+      TrueAnswer: Tom
+      FalseAnswer:
+      - Jerry
+      - Spike
+      - Butch
+      Explanation: Tom is the mischievous cat who constantly chases Jerry, the clever
+        mouse.
+    - Question: Which cartoon features a group of talking ponies with magical abilities?
+      TrueAnswer: My Little Pony
+      FalseAnswer:
+      - Paw Patrol
+      - Peppa Pig
+      - Blaze and the Monster Machines
+      Explanation: My Little Pony follows the adventures of Twilight Sparkle and
+        her pony friends in the magical land of Equestria.
+    - Question: What is the name of the yellow bird in the cartoon 'Looney Tunes'?
+      TrueAnswer: Tweety Bird
+      FalseAnswer:
+      - Bugs Bunny
+      - Daffy Duck
+      - Porky Pig
+      Explanation: Tweety Bird is the small yellow canary who often outsmarts Sylvester
+        the cat in 'Looney Tunes'.
+    - Question: Which cartoon features a group of mutant turtles trained in martial
+        arts?
+      TrueAnswer: Teenage Mutant Ninja Turtles
+      FalseAnswer:
+      - The Fairly OddParents
+      - SpongeBob SquarePants
+      - The Flintstones
+      Explanation: The Teenage Mutant Ninja Turtles, named after famous artists,
+        fight crime in New York City.
+    - Question: What is the name of the dog in the cartoon 'Scooby-Doo'?
+      TrueAnswer: Scooby
+      FalseAnswer:
+      - Shaggy
+      - Fred
+      - Velma
+      Explanation: Scooby-Doo is the talking Great Dane who solves mysteries with
+        his human friends.
+    - Question: Which cartoon features a group of babies with superpowers?
+      TrueAnswer: The Rugrats
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Adventure Time
+      Explanation: The Rugrats is an animated series that follows the adventures
+        of Tommy, Chuckie, and their baby friends.
+    - Question: What is the name of the yellow sponge in the cartoon 'SpongeBob SquarePants'?
+      TrueAnswer: SpongeBob
+      FalseAnswer:
+      - Patrick
+      - Squidward
+      - Mr. Krabs
+      Explanation: SpongeBob SquarePants is a yellow sponge who lives in a pineapple
+        under the sea.
+    - Question: Which cartoon features a group of friends living in the town of South
+        Park?
+      TrueAnswer: South Park
+      FalseAnswer:
+      - Family Guy
+      - The Simpsons
+      - American Dad
+      Explanation: South Park is an adult animated sitcom that follows the lives
+        of four boys in the fictional town of South Park, Colorado.
+  - Questions:
+    - Question: What is a virtual influencer?
+      TrueAnswer: A computer-generated character that acts as a social media influencer.
+      FalseAnswer:
+      - A human influencer who promotes virtual reality products.
+      - A video game character with a large following.
+      - An animated character that appears in virtual reality movies.
+      Explanation: A virtual influencer is a computer-generated character designed
+        to engage with social media users and promote brands or products.
+    - Question: Which virtual influencer gained popularity on Instagram?
+      TrueAnswer: Lil Miquela
+      FalseAnswer:
+      - Kylie Jenner
+      - PewDiePie
+      - Kim Kardashian
+      Explanation: Lil Miquela is a virtual influencer who gained a significant following
+        on Instagram for her fashion and lifestyle content.
+    - Question: What technology is used to create virtual influencers?
+      TrueAnswer: Computer-generated imagery (CGI)
+      FalseAnswer:
+      - Virtual reality (VR)
+      - Augmented reality (AR)
+      - Motion capture
+      Explanation: Computer-generated imagery (CGI) is the technology used to create
+        virtual influencers and bring them to life.
+    - Question: How do virtual influencers interact with their followers?
+      TrueAnswer: Through social media platforms and online content.
+      FalseAnswer:
+      - Through virtual reality experiences.
+      - Through live events and meet-ups.
+      - Through video game collaborations.
+      Explanation: Virtual influencers interact with their followers through social
+        media platforms and by creating online content such as videos and posts.
+    - Question: What is the purpose of virtual influencers?
+      TrueAnswer: To promote brands, products, and engage with social media users.
+      FalseAnswer:
+      - To replace human influencers in the digital space.
+      - To entertain audiences with virtual reality experiences.
+      - To star in animated movies and TV shows.
+      Explanation: The purpose of virtual influencers is to promote brands, products,
+        and engage with social media users through their digital presence.
+    - Question: Are virtual influencers real people?
+      TrueAnswer: No
+      FalseAnswer:
+      - Yes
+      - Sometimes
+      - Only in virtual reality
+      Explanation: Virtual influencers are not real people but computer-generated
+        characters designed to resemble humans.
+    - Question: What is the advantage of using virtual influencers?
+      TrueAnswer: They can be controlled and manipulated to fit brand messaging.
+      FalseAnswer:
+      - They have a more authentic and relatable presence.
+      - They can physically interact with their followers.
+      - They have a longer lifespan than human influencers.
+      Explanation: The advantage of using virtual influencers is that they can be
+        controlled and manipulated to fit brand messaging and marketing strategies.
+    - Question: Do virtual influencers have a physical form?
+      TrueAnswer: No
+      FalseAnswer:
+      - Yes
+      - Only in virtual reality
+      - Only in video games
+      Explanation: Virtual influencers do not have a physical form as they exist
+        solely in the digital realm.
+    - Question: Can virtual influencers have emotions and personalities?
+      TrueAnswer: Yes, they can be programmed with emotions and personalities.
+      FalseAnswer:
+      - No, they are emotionless and robotic.
+      - Yes, but only in virtual reality experiences.
+      - No, they are controlled by human operators.
+      Explanation: Virtual influencers can be programmed with emotions and personalities
+        to enhance their interactions with social media users.
+    - Question: Are virtual influencers a new phenomenon?
+      TrueAnswer: Relatively new, gaining popularity in recent years.
+      FalseAnswer:
+      - No, they have been around for decades.
+      - Yes, they have been around since the early 2000s.
+      - No, they are a futuristic concept.
+      Explanation: Virtual influencers have gained significant popularity in recent
+        years, but the concept of computer-generated characters has been around for
+        a while.
+    - Question: What is the future of virtual influencers?
+      TrueAnswer: They are expected to continue growing in popularity and influence.
+      FalseAnswer:
+      - They will be replaced by human influencers.
+      - They will become more realistic and indistinguishable from humans.
+      - They will transition into virtual reality experiences only.
+      Explanation: Virtual influencers are expected to continue growing in popularity
+        and influence as brands and marketers recognize their potential in the digital
+        space.
+    - Question: Can virtual influencers age?
+      TrueAnswer: No, they can maintain a consistent appearance over time.
+      FalseAnswer:
+      - Yes, they age like humans.
+      - No, they are immortal.
+      - Yes, but only in virtual reality experiences.
+      Explanation: Virtual influencers do not age like humans and can maintain a
+        consistent appearance over time, making them timeless in the digital realm.
+    - Question: Do virtual influencers have a physical presence in the real world?
+      TrueAnswer: No, they exist solely in the digital realm.
+      FalseAnswer:
+      - Yes, they can attend events and interact with people.
+      - No, they only exist in virtual reality.
+      - Yes, but only in video games.
+      Explanation: Virtual influencers do not have a physical presence in the real
+        world as they exist solely in the digital realm.
+    - Question: Can virtual influencers collaborate with human influencers?
+      TrueAnswer: Yes, they can collaborate on social media campaigns and content.
+      FalseAnswer:
+      - No, they cannot interact with humans.
+      - Yes, but only in virtual reality experiences.
+      - No, they are competitors to human influencers.
+      Explanation: Virtual influencers can collaborate with human influencers on
+        social media campaigns and content, combining their digital presence with
+        real-world influence.
+    - Question: Are virtual influencers limited to a specific language or culture?
+      TrueAnswer: No, they can cater to global audiences and adapt to different languages
+        and cultures.
+      FalseAnswer:
+      - Yes, they are limited to a specific language and culture.
+      - No, they can only communicate in virtual reality experiences.
+      - Yes, but only in video games.
+      Explanation: Virtual influencers can cater to global audiences and adapt to
+        different languages and cultures, making them versatile in reaching diverse
+        communities.
+    - Question: Can virtual influencers have relationships with their followers?
+      TrueAnswer: Yes, they can engage and interact with their followers on social
+        media.
+      FalseAnswer:
+      - No, they are incapable of forming relationships.
+      - Yes, but only in virtual reality experiences.
+      - No, they are controlled by human operators.
+      Explanation: Virtual influencers can engage and interact with their followers
+        on social media, forming relationships and building a community.
+    - Question: Do virtual influencers have a physical body?
+      TrueAnswer: No, they are purely digital creations.
+      FalseAnswer:
+      - Yes, they have a physical body in virtual reality.
+      - No, they exist as holograms.
+      - Yes, but only in video games.
+      Explanation: Virtual influencers do not have a physical body as they are purely
+        digital creations existing in the virtual space.
+    - Question: Can virtual influencers express opinions and beliefs?
+      TrueAnswer: Yes, they can be programmed with specific opinions and beliefs.
+      FalseAnswer:
+      - No, they are neutral and unbiased.
+      - Yes, but only in virtual reality experiences.
+      - No, they are controlled by human operators.
+      Explanation: Virtual influencers can be programmed with specific opinions and
+        beliefs, allowing them to express their own perspectives within their digital
+        presence.
+    - Question: Are virtual influencers replacing human influencers?
+      TrueAnswer: No, they coexist and offer a different approach to influencer marketing.
+      FalseAnswer:
+      - Yes, virtual influencers are replacing human influencers.
+      - No, human influencers are more effective.
+      - Yes, but only in virtual reality experiences.
+      Explanation: Virtual influencers are not replacing human influencers but rather
+        coexist and offer a different approach to influencer marketing in the digital
+        space.
+    - Question: Can virtual influencers have flaws and imperfections?
+      TrueAnswer: Yes, they can be designed with flaws and imperfections to appear
+        more human-like.
+      FalseAnswer:
+      - No, they are perfect and flawless.
+      - Yes, but only in virtual reality experiences.
+      - No, they are controlled by human operators.
+      Explanation: Virtual influencers can be designed with flaws and imperfections
+        to appear more human-like and relatable to their followers.
+    - Question: Do virtual influencers have a physical presence on social media?
+      TrueAnswer: No, they exist as digital profiles on social media platforms.
+      FalseAnswer:
+      - Yes, they can physically interact with their followers.
+      - No, they only exist in virtual reality.
+      - Yes, but only in video games.
+      Explanation: Virtual influencers do not have a physical presence on social
+        media but exist as digital profiles, interacting with their followers through
+        online content.

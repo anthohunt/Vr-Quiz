@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9133507929572823433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6579976829806308266}
+  - component: {fileID: 8769914516867093231}
+  m_Layer: 0
+  m_Name: Food and Cooking_Food Photography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6579976829806308266
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133507929572823433}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8769914516867093231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9133507929572823433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main ingredient in a classic Margherita pizza?
+      TrueAnswer: Tomatoes
+      FalseAnswer:
+      - Cheese
+      - Basil
+      - Pepperoni
+      Explanation: A classic Margherita pizza is topped with fresh tomatoes, mozzarella
+        cheese, and basil leaves.
+    - Question: Which country is known for inventing sushi?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - China
+      - Thailand
+      - Italy
+      Explanation: Sushi is a traditional Japanese dish that consists of vinegared
+        rice and various ingredients like raw fish or vegetables.
+    - Question: What is the main ingredient in guacamole?
+      TrueAnswer: Avocado
+      FalseAnswer:
+      - Tomato
+      - Onion
+      - Lime
+      Explanation: Guacamole is a Mexican dip made from mashed avocados, mixed with
+        lime juice, onion, and other seasonings.
+    - Question: Which spice is commonly used in Indian curry dishes?
+      TrueAnswer: Turmeric
+      FalseAnswer:
+      - Cinnamon
+      - Paprika
+      - Cumin
+      Explanation: Turmeric is a key spice in Indian cuisine, giving curry dishes
+        their vibrant yellow color and earthy flavor.
+    - Question: What is the main ingredient in a traditional Caesar salad?
+      TrueAnswer: Romaine lettuce
+      FalseAnswer:
+      - Parmesan cheese
+      - Croutons
+      - Caesar dressing
+      Explanation: A traditional Caesar salad is made with crisp romaine lettuce,
+        Parmesan cheese, croutons, and a tangy Caesar dressing.
+    - Question: Which fruit is used to make guava juice?
+      TrueAnswer: Guava
+      FalseAnswer:
+      - Pineapple
+      - Mango
+      - Watermelon
+      Explanation: Guava juice is made from the tropical fruit guava, known for its
+        sweet and tangy flavor.
+    - Question: What is the main ingredient in a classic French omelette?
+      TrueAnswer: Eggs
+      FalseAnswer:
+      - Cheese
+      - Ham
+      - Onion
+      Explanation: A classic French omelette is made with beaten eggs, cooked gently
+        in a pan and folded over various fillings.
+    - Question: Which ingredient is commonly used to thicken soups and sauces?
+      TrueAnswer: Cornstarch
+      FalseAnswer:
+      - Flour
+      - Butter
+      - Egg yolk
+      Explanation: Cornstarch is a common thickening agent used in cooking to give
+        soups and sauces a smooth and thick consistency.
+    - Question: What is the main ingredient in a traditional Greek moussaka?
+      TrueAnswer: Eggplant
+      FalseAnswer:
+      - Lamb
+      - Potato
+      - Tomato
+      Explanation: "A traditional Greek moussaka is a layered dish made with eggplant,
+        minced meat, tomato sauce, and b\xE9chamel sauce."
+    - Question: Which ingredient is commonly used to make a classic Italian risotto?
+      TrueAnswer: Arborio rice
+      FalseAnswer:
+      - Pasta
+      - Quinoa
+      - Couscous
+      Explanation: A classic Italian risotto is made with Arborio rice, which has
+        a high starch content that creates a creamy texture when cooked.
+    - Question: What is the main ingredient in a traditional Mexican mole sauce?
+      TrueAnswer: Chocolate
+      FalseAnswer:
+      - Chili peppers
+      - Cinnamon
+      - Peanuts
+      Explanation: A traditional Mexican mole sauce is made with a combination of
+        chili peppers, spices, and chocolate for a rich and complex flavor.
+    - Question: Which ingredient is commonly used to make a classic French baguette?
+      TrueAnswer: Wheat flour
+      FalseAnswer:
+      - Yeast
+      - Salt
+      - Water
+      Explanation: A classic French baguette is made with wheat flour, yeast, salt,
+        and water, resulting in a crispy crust and soft interior.
+    - Question: What is the main ingredient in a traditional Thai green curry?
+      TrueAnswer: Green chili peppers
+      FalseAnswer:
+      - Coconut milk
+      - Lemongrass
+      - Fish sauce
+      Explanation: A traditional Thai green curry is made with a paste of green chili
+        peppers, garlic, lemongrass, and other aromatic ingredients.
+    - Question: Which ingredient is commonly used to make a classic American apple
+        pie?
+      TrueAnswer: Cinnamon
+      FalseAnswer:
+      - Apples
+      - Sugar
+      - Butter
+      Explanation: Cinnamon is a key spice used in the filling of a classic American
+        apple pie, adding warmth and flavor to the apples.
+    - Question: What is the main ingredient in a traditional Spanish paella?
+      TrueAnswer: Rice
+      FalseAnswer:
+      - Saffron
+      - Seafood
+      - Bell peppers
+      Explanation: A traditional Spanish paella is made with rice, saffron, and a
+        variety of ingredients like seafood, meat, and vegetables.
+    - Question: Which ingredient is commonly used to make a classic British fish
+        and chips?
+      TrueAnswer: Potatoes
+      FalseAnswer:
+      - Cod
+      - Vinegar
+      - Peas
+      Explanation: A classic British fish and chips dish is made with deep-fried
+        potatoes, usually in the form of thick-cut fries.
+    - Question: What is the main ingredient in a traditional Indian samosa?
+      TrueAnswer: Potato
+      FalseAnswer:
+      - Lamb
+      - Peas
+      - Cumin
+      Explanation: A traditional Indian samosa is a deep-fried pastry filled with
+        a mixture of potatoes, peas, and spices.
+    - Question: Which ingredient is commonly used to make a classic Mexican salsa?
+      TrueAnswer: Tomatoes
+      FalseAnswer:
+      - Onion
+      - Cilantro
+      - Lime juice
+      Explanation: A classic Mexican salsa is made with ripe tomatoes, onion, cilantro,
+        lime juice, and various chili peppers for heat.
+    - Question: What is the main ingredient in a traditional Japanese miso soup?
+      TrueAnswer: Miso paste
+      FalseAnswer:
+      - Tofu
+      - Seaweed
+      - Green onions
+      Explanation: A traditional Japanese miso soup is made with miso paste, which
+        is a fermented soybean paste, along with tofu, seaweed, and other ingredients.
+    - Question: Which ingredient is commonly used to make a classic Italian tiramisu?
+      TrueAnswer: Ladyfingers
+      FalseAnswer:
+      - Coffee
+      - Mascarpone cheese
+      - Cocoa powder
+      Explanation: A classic Italian tiramisu is made with layers of ladyfingers
+        soaked in coffee, mascarpone cheese, and dusted with cocoa powder.

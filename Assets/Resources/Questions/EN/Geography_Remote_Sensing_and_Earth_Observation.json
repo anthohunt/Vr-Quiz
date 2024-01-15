@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the abbreviation for Geographic Information System?",
+            "TrueAnswer": "GIS",
+            "FalseAnswer": [
+              "GPS",
+              "RIS",
+              "EOS"
+            ],
+            "Explanation": "GIS is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data."
+          },
+          {
+            "Question": "Whose equations form the basis for analyzing electromagnetic radiation interactions with the Earth's surface?",
+            "TrueAnswer": "Maxwell",
+            "FalseAnswer": [
+              "Einstein",
+              "Newton",
+              "Tesla"
+            ],
+            "Explanation": "James Clerk Maxwell's equations describe how electric and magnetic fields are generated and altered by charges and currents."
+          },
+          {
+            "Question": "What is the process by which the atmosphere scatters and reflects sunlight in all directions?",
+            "TrueAnswer": "Rayleigh scattering",
+            "FalseAnswer": [
+              "Mie scattering",
+              "Absorption",
+              "Refraction"
+            ],
+            "Explanation": "Rayleigh scattering occurs when the size of the particles in the atmosphere is much smaller than the wavelength of the radiation. It causes the sky to appear blue."
+          },
+          {
+            "Question": "Which is a satellite-based radar system commonly used for Earth Observation?",
+            "TrueAnswer": "SAR",
+            "FalseAnswer": [
+              "LIDAR",
+              "SONAR",
+              "RADAR"
+            ],
+            "Explanation": "Synthetic Aperture Radar (SAR) uses the motion of the radar antenna over a target region to provide finer spatial resolution."
+          },
+          {
+            "Question": "What kind of remote sensing technology uses active illumination to collect spatially referenced data?",
+            "TrueAnswer": "LIDAR",
+            "FalseAnswer": [
+              "Passive Infrared",
+              "Spectrometer",
+              "Hyperspectral imaging"
+            ],
+            "Explanation": "LIDAR stands for Light Detection and Ranging, and it measures the distance to a target by illuminating it with a laser and analyzing the reflected light."
+          },
+          {
+            "Question": "Which type of spectrum is used to distinguish different vegetation types in Earth Observation?",
+            "TrueAnswer": "Near-infrared",
+            "FalseAnswer": [
+              "Ultraviolet",
+              "Visible",
+              "Infrared"
+            ],
+            "Explanation": "Near-infrared light is strongly reflected by healthy vegetation, making it valuable for mapping and monitoring vegetation cover."
+          },
+          {
+            "Question": "What is Earth's mean radius in kilometers?",
+            "TrueAnswer": "6371",
+            "FalseAnswer": [
+              "5430",
+              "6959",
+              "8229"
+            ],
+            "Explanation": "The mean radius of Earth is approximately 6,371 kilometers, making it the fifth largest planet in the solar system."
+          },
+          {
+            "Question": "Which sensor aboard Landsat satellites captures visible and infrared radiation?",
+            "TrueAnswer": "OLI",
+            "FalseAnswer": [
+              "TIRS",
+              "ETM+",
+              "MSS"
+            ],
+            "Explanation": "The Operational Land Imager (OLI) on Landsat satellites captures images in visible, near-infrared, and shortwave infrared bands for land surface monitoring."
+          },
+          {
+            "Question": "What is the term for the pattern of parallel scanning tracks on the Earth's surface by a satellite sensor?",
+            "TrueAnswer": "Swath",
+            "FalseAnswer": [
+              "Pixel",
+              "Footprint",
+              "Path"
+            ],
+            "Explanation": "The swath width is the total horizontal distance covered by an instrument on each satellite pass, influencing the spatial coverage and resolution of collected data."
+          },
+          {
+            "Question": "Which is NOT a common use of thermal remote sensing for Earth Observation?",
+            "TrueAnswer": "Species identification",
+            "FalseAnswer": [
+              "Urban heat island analysis",
+              "Wildfire monitoring",
+              "Volcano monitoring"
+            ],
+            "Explanation": "While thermal remote sensing can detect temperature variations, it is not typically used for species identification, but rather for environmental and natural disaster monitoring."
+          },
+          {
+            "Question": "What type of orbit enables a sensor to repeatedly observe the same area?",
+            "TrueAnswer": "Sun-synchronous",
+            "FalseAnswer": [
+              "Polar",
+              "Geostationary",
+              "Molniya"
+            ],
+            "Explanation": "Sun-synchronous orbits synchronize with the Sun's position, causing the satellite to pass over the same part of the Earth at the same local solar time on each orbit."
+          },
+          {
+            "Question": "Which Earth Observation platform is designed for long-term monitoring of global climate and environment?",
+            "TrueAnswer": "Sentinel",
+            "FalseAnswer": [
+              "GOES",
+              "TIROS",
+              "Aqua"
+            ],
+            "Explanation": "The Sentinel series, operated by the European Space Agency, contributes to the Copernicus Earth observation program and provides data for climate change, land use, and disaster management."
+          },
+          {
+            "Question": "What is the primary purpose of Earth Observation satellites equipped with multispectral sensors?",
+            "TrueAnswer": "Land cover mapping",
+            "FalseAnswer": [
+              "Astronomical observation",
+              "Military reconnaissance",
+              "Telecommunication"
+            ],
+            "Explanation": "Multispectral sensors enable the classification and mapping of land cover types based on their unique spectral signatures, supporting environmental and land management applications."
+          },
+          {
+            "Question": "Which of these is a common technique for correcting atmospheric distortions in satellite imagery?",
+            "TrueAnswer": "Atmospheric correction",
+            "FalseAnswer": [
+              "Geometric correction",
+              "Radiometric correction",
+              "Topographic correction"
+            ],
+            "Explanation": "Atmospheric correction accounts for the influence of the atmosphere on remote sensing data, enhancing the accuracy of measurements and enabling consistent inter-temporal comparisons."
+          },
+          {
+            "Question": "What is the term for the process of determining the geometric relationship between image coordinates and ground coordinates?",
+            "TrueAnswer": "Georeferencing",
+            "FalseAnswer": [
+              "Orthorectification",
+              "Mosaicking",
+              "Resampling"
+            ],
+            "Explanation": "Georeferencing involves aligning imagery to specific geographic coordinates, essential for integrating remote sensing data with geographic information systems and maps."
+          },
+          {
+            "Question": "What measurement does a radiometer typically perform in remote sensing?",
+            "TrueAnswer": "Radiance",
+            "FalseAnswer": [
+              "Reflectance",
+              "Elevation",
+              "Temperature"
+            ],
+            "Explanation": "Radiance is the intensity of electromagnetic radiation traveling in a given direction per unit of area perpendicular to the direction."
+          },
+          {
+            "Question": "Which remote sensing technique uses the specific microwave wavelengths emitted by Earth's surface to gather information?",
+            "TrueAnswer": "Passive microwave",
+            "FalseAnswer": [
+              "Active microwave",
+              "Electromagnetic induction",
+              "Radio detection"
+            ],
+            "Explanation": "Passive microwave sensing measures naturally emitted microwave radiation, offering insights into soil moisture, sea ice, and vegetation dynamics."
+          },
+          {
+            "Question": "What is the term for the position in orbit where the gravitational pull of Earth and the orbital path balance?",
+            "TrueAnswer": "Geostationary",
+            "FalseAnswer": [
+              "Leo",
+              "Molniya",
+              "Polar"
+            ],
+            "Explanation": "Geostationary satellites orbit at the same rate as the Earth's rotation, allowing them to remain fixed relative to a specific location on the planet's surface."
+          },
+          {
+            "Question": "What is the name of the process to infer and map Earth's surface temperatures using remotely sensed data?",
+            "TrueAnswer": "Thermal remote sensing",
+            "FalseAnswer": [
+              "Hyperspectral imaging",
+              "SAR processing",
+              "LIDAR scan"
+            ],
+            "Explanation": "Thermal remote sensing measures the heat emitted and reflected by Earth's surface, supporting applications in climate monitoring, urban heat island analysis, and geothermal exploration."
+          }
+        ]
+      }
+    }
+  ]
+}

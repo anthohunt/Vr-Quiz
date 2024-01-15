@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2458791659288620027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2162181886781401364}
+  - component: {fileID: 4335335612614526984}
+  m_Layer: 0
+  m_Name: Video_Games_War_and_Military_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2162181886781401364
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2458791659288620027}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4335335612614526984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2458791659288620027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In which year was the first Call of Duty game released?
+      TrueAnswer: 2003
+      FalseAnswer:
+      - 1999
+      - 2000
+      - 2005
+      Explanation: Call of Duty was released in 2003 for Microsoft Windows and is
+        set during World War II.
+    - Question: What is the setting of the Battlefield 1 game?
+      TrueAnswer: World War I
+      FalseAnswer:
+      - Vietnam War
+      - World War II
+      - Cold War
+      Explanation: Battlefield 1 takes place during World War I, featuring historical
+        battles and settings.
+    - Question: Which Warhammer 40,000 faction was the focus of the game 'Dawn of
+        War'?
+      TrueAnswer: Space Marines
+      FalseAnswer:
+      - Orks
+      - Eldar
+      - Necrons
+      Explanation: The game 'Dawn of War' mainly focuses on the conflict between
+        the Space Marines and other factions.
+    - Question: What is the main playable faction in the 'Company of Heroes' series?
+      TrueAnswer: Allies
+      FalseAnswer:
+      - Axis
+      - Soviet Union
+      - No specific faction
+      Explanation: The 'Company of Heroes' series predominantly focuses on the Allied
+        forces during World War II.
+    - Question: At which event does the first mission of 'Medal of Honor' take place?
+      TrueAnswer: D-Day
+      FalseAnswer:
+      - Pearl Harbor
+      - Battle of Midway
+      - Battle of Stalingrad
+      Explanation: 'The first mission in ''Medal of Honor: Allied Assault'' is set
+        during the D-Day landings in Normandy.'
+    - Question: 'In the game ''Brothers in Arms: Hell''s Highway'', which division
+        do players control?'
+      TrueAnswer: 101st Airborne Division
+      FalseAnswer:
+      - 1st Infantry Division
+      - 29th Infantry Division
+      - 82nd Airborne Division
+      Explanation: The game follows the 101st Airborne Division as they make their
+        way through the Netherlands during Operation Market Garden.
+    - Question: 'Which real-life battle is the focus of the game ''Battlefield: Bad
+        Company 2''?'
+      TrueAnswer: Vietnam War
+      FalseAnswer:
+      - Korean War
+      - Gulf War
+      - Iraq War
+      Explanation: The game's multiplayer map 'Hill 137' is set in Vietnam, and the
+        single-player campaign features elements from the Vietnam War.
+    - Question: Who is the protagonist of the 'Metal Gear Solid' series?
+      TrueAnswer: Solid Snake
+      FalseAnswer:
+      - Big Boss
+      - Raiden
+      - Liquid Snake
+      Explanation: Solid Snake, also known as David, is the primary character and
+        a legendary soldier in the 'Metal Gear' series.
+    - Question: Which faction do players primarily control in 'World in Conflict'?
+      TrueAnswer: NATO
+      FalseAnswer:
+      - Soviet Union
+      - United States
+      - No specific faction
+      Explanation: The game predominantly focuses on NATO forces defending against
+        a Soviet invasion in an alternate history scenario during the Cold War.
+    - Question: 'In the game ''Spec Ops: The Line'', where does the story take place?'
+      TrueAnswer: Dubai
+      FalseAnswer:
+      - New York
+      - London
+      - Tokyo
+      Explanation: The game is set in a sandstorm-ravaged Dubai, where the player
+        confronts difficult moral choices and the consequences of their actions.

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'ingrédient principal du célèbre plat indien, Tandoori Chicken?",
+            "TrueAnswer": "Yaourt",
+            "FalseAnswer": [
+              "Lait de coco",
+              "Sauce tomate",
+              "Jus de citron"
+            ],
+            "Explanation": "Le yaourt est utilisé comme agent de tendreté et confère une saveur acidulée au poulet lorsqu'il est mariné."
+          },
+          {
+            "Question": "Quel pays est connu pour avoir introduit les sushis au monde?",
+            "TrueAnswer": "Japon",
+            "FalseAnswer": [
+              "Chine",
+              "Thaïlande",
+              "Inde"
+            ],
+            "Explanation": "Les sushis ont été inventés au Japon comme méthode de conservation du poisson dans du riz fermenté aux alentours du 8e siècle."
+          },
+          {
+            "Question": "Quelle céréale est utilisée pour faire l'aliment de base mexicain, les tortillas?",
+            "TrueAnswer": "Maïs",
+            "FalseAnswer": [
+              "Quinoa",
+              "Riz",
+              "Orge"
+            ],
+            "Explanation": "Le maïs est un aliment de base de la cuisine mexicaine depuis des milliers d'années et est utilisé pour fabriquer des tortillas."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un ingrédient classique du curry vert thaïlandais?",
+            "TrueAnswer": "Pousses de bambou",
+            "FalseAnswer": [
+              "Ananas",
+              "Épinards",
+              "Carottes"
+            ],
+            "Explanation": "Les pousses de bambou ajoutent une texture et une saveur uniques au curry vert thaïlandais, populaire dans la cuisine thaïlandaise."
+          },
+          {
+            "Question": "Dans quel pays le plat populaire Paella prend-il son origine?",
+            "TrueAnswer": "Espagne",
+            "FalseAnswer": [
+              "Italie",
+              "Mexique",
+              "Grèce"
+            ],
+            "Explanation": "La Paella est originaire de Valence, en Espagne, et comprend traditionnellement des ingrédients tels que le safran, les fruits de mer et le poulet."
+          },
+          {
+            "Question": "Quelle cuisine comprend le plat Bibimbap, un bol de riz mélangé avec des légumes et de la viande?",
+            "TrueAnswer": "Coréen",
+            "FalseAnswer": [
+              "Chinois",
+              "Japonais",
+              "Vietnamien"
+            ],
+            "Explanation": "Le Bibimbap est un plat emblématique de la cuisine coréenne, connu pour sa présentation colorée et ses saveurs diverses."
+          },
+          {
+            "Question": "Quel est le mélange d'épices principal utilisé dans le plat indien, le curry?",
+            "TrueAnswer": "Garam masala",
+            "FalseAnswer": [
+              "Cumin",
+              "Curcuma",
+              "Paprika"
+            ],
+            "Explanation": "Le garam masala est un mélange d'épices moulu courant dans les cuisines indienne et sud-asiatique, ajoutant chaleur et profondeur de saveur aux currys."
+          },
+          {
+            "Question": "Dans quel pays trouveriez-vous un plat traditionnel de falafel, une boulette frite à base de pois chiches ou de fèves?",
+            "TrueAnswer": "Liban",
+            "FalseAnswer": [
+              "Turquie",
+              "Grèce",
+              "Égypte"
+            ],
+            "Explanation": "Le falafel est un plat populaire du Moyen-Orient, et le Liban est connu pour ses préparations de falafel savoureuses et croustillantes."
+          },
+          {
+            "Question": "Quelle est la principale protéine utilisée dans le plat péruvien, Lomo Saltado?",
+            "TrueAnswer": "Boeuf",
+            "FalseAnswer": [
+              "Poulet",
+              "Porc",
+              "Poisson"
+            ],
+            "Explanation": "Le Lomo Saltado est un plat sauté péruvien populaire qui comprend généralement du bœuf, des oignons, des tomates et des pommes de terre frites."
+          },
+          {
+            "Question": "Quels sont les ingrédients principaux du plat éthiopien, Doro Wat?",
+            "TrueAnswer": "Poulet et mélange d'épices berbère",
+            "FalseAnswer": [
+              "Agneau et cumin",
+              "Boeuf et poudre de curry",
+              "Tofu et curcuma"
+            ],
+            "Explanation": "Le Doro Wat est un ragoût épicé de poulet éthiopien aromatisé au berbere, un mélange d'épices aromatique et épicé."
+          },
+          {
+            "Question": "Quelle cuisine propose le ragoût savoureux et aromatique, le Coq au Vin?",
+            "TrueAnswer": "Français",
+            "FalseAnswer": [
+              "Italien",
+              "Grec",
+              "Allemand"
+            ],
+            "Explanation": "Le Coq au Vin est un plat classique français de poulet braisé au vin, aux champignons et aux légumes aromatiques."
+          },
+          {
+            "Question": "Quel type de nouilles est couramment utilisé dans le plat japonais traditionnel, le Ramen?",
+            "TrueAnswer": "Blé",
+            "FalseAnswer": [
+              "Riz",
+              "Oeuf",
+              "Sarrasin"
+            ],
+            "Explanation": "Les nouilles ramen sont fabriquées à partir de farine de blé, d'eau et d'une eau minérale alcaline appelée kansui, leur donnant ainsi leur texture distincte."
+          },
+          {
+            "Question": "Quelle cuisine est connue pour le plat, le Borscht, une soupe aigre à base de betteraves?",
+            "TrueAnswer": "Russe",
+            "FalseAnswer": [
+              "Polonais",
+              "Suédois",
+              "Tchèque"
+            ],
+            "Explanation": "Le Borscht est un pilier de la cuisine russe, souvent servi avec de la crème sure et du pain de seigle copieux."
+          },
+          {
+            "Question": "Quel fruit est un ingrédient principal du plat marocain traditionnel, le Tagine?",
+            "TrueAnswer": "Abricots",
+            "FalseAnswer": [
+              "Oranges",
+              "Dattes",
+              "Grenades"
+            ],
+            "Explanation": "Les abricots ajoutent une saveur douce et acidulée aux tajines marocains, complétant ainsi les épices savoureuses et la viande tendre."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal de la sauce grecque, le Tzatziki?",
+            "TrueAnswer": "Yaourt et concombre",
+            "FalseAnswer": [
+              "Houmous et pois chiches",
+              "Aubergine et tahini",
+              "Feta et olives"
+            ],
+            "Explanation": "Le Tzatziki est une trempette rafraîchissante et un condiment à base de yaourt, de concombre, d'ail et d'herbes, populaire dans la cuisine grecque."
+          },
+          {
+            "Question": "Quelle cuisine comprend généralement le plat, le Canard laqué de Pékin, connu pour sa peau croustillante et sa viande tendre?",
+            "TrueAnswer": "Chinois",
+            "FalseAnswer": [
+              "Thaï",
+              "Japonais",
+              "Coréen"
+            ],
+            "Explanation": "Le Canard laqué de Pékin est un plat célèbre de la cuisine chinoise, et sa préparation implique un processus complexe de rôtissage et de croustillage de la peau."
+          },
+          {
+            "Question": "Quel est l'ingrédient clé du plat vietnamien, le Pho, une soupe de nouilles savoureuse?",
+            "TrueAnswer": "Nouilles de riz",
+            "FalseAnswer": [
+              "Nouilles aux oeufs",
+              "Vermicelles de riz",
+              "Udon"
+            ],
+            "Explanation": "Le Pho est fait avec des nouilles de riz plates, offrant une texture lisse qui se marie bien avec le bouillon parfumé et la viande tendre."
+          },
+          {
+            "Question": "Quelle culture de base est l'ingrédient principal du plat traditionnel brésilien, la Feijoada?",
+            "TrueAnswer": "Haricots noirs",
+            "FalseAnswer": [
+              "Riz",
+              "Manioc",
+              "Quinoa"
+            ],
+            "Explanation": "La Feijoada est un ragoût brésilien consistant de haricots noirs et de diverses viandes, souvent servis avec du riz, de la farofa et des tranches d'orange."
+          },
+          {
+            "Question": "Quelle est la principale protéine utilisée dans le plat jamaïcain classique, le Jerk Chicken?",
+            "TrueAnswer": "Poulet",
+            "FalseAnswer": [
+              "Porc",
+              "Poisson",
+              "Chèvre"
+            ],
+            "Explanation": "Le Jerk Chicken est un plat emblématique de la cuisine jamaïcaine, assaisonné d'un mélange d'ingrédients épicés et aromatiques avant d'être grillé ou fumé."
+          },
+          {
+            "Question": "Quel type de feuille est généralement utilisé pour envelopper et cuire le plat mexicain, les Tamales?",
+            "TrueAnswer": "Maïs",
+            "FalseAnswer": [
+              "Banane",
+              "Laitue",
+              "Raisin"
+            ],
+            "Explanation": "Les tamales sont enveloppés dans des feuilles de maïs, ce qui leur donne une saveur subtile et aide à maintenir la garniture humide pendant la cuisson à la vapeur."
+          }
+        ]
+      }
+    }
+  ]
+}

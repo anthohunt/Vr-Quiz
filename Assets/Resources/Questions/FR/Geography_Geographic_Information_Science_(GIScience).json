@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifie GIS?",
+            "TrueAnswer": "Systèmes d'informations géographiques",
+            "FalseAnswer": [
+              "Système d'information global",
+              "Science de l'information au sol",
+              "Logiciel d'information géologique"
+            ],
+            "Explanation": "GIS signifie Systèmes d'informations géographiques, un système conçu pour capturer, stocker, analyser, gérer et présenter des données spatiales ou géographiques."
+          },
+          {
+            "Question": "Avec quel type de données GIS traite-t-il principalement?",
+            "TrueAnswer": "Spatiale",
+            "FalseAnswer": [
+              "Temporelle",
+              "Catégorielle",
+              "Numérique"
+            ],
+            "Explanation": "GIS gère principalement des données spatiales, incluant des informations sur l'emplacement et la forme des caractéristiques géographiques."
+          },
+          {
+            "Question": "Quel est le but de la géocodification en GIS?",
+            "TrueAnswer": "Attribuer des coordonnées géographiques aux emplacements",
+            "FalseAnswer": [
+              "Catégoriser les formes de relief",
+              "Mesurer les conditions atmosphériques",
+              "Analyser les tendances démographiques"
+            ],
+            "Explanation": "La géocodification consiste à attribuer des coordonnées géographiques (latitude et longitude) à une description de lieu, permettant de le placer précisément sur une carte."
+          },
+          {
+            "Question": "Quelle technologie est couramment utilisée pour collecter des données géospatiales?",
+            "TrueAnswer": "GPS",
+            "FalseAnswer": [
+              "Radar",
+              "Sonar",
+              "Balayage laser"
+            ],
+            "Explanation": "Le GPS (Système de positionnement global) est largement utilisé pour collecter des données géospatiales, fournissant des informations de localisation précises grâce à des signaux satellites."
+          },
+          {
+            "Question": "Qu'est-ce que la télédétection dans le contexte de la science GIS?",
+            "TrueAnswer": "Collecte de données à distance",
+            "FalseAnswer": [
+              "Collecte directe de données",
+              "Manipulation de données physiques",
+              "Création de cartes numériques"
+            ],
+            "Explanation": "La télédétection consiste à collecter des données sur la surface de la Terre à distance, souvent par le biais de satellites ou de photographie aérienne, pour créer des cartes détaillées et analyser les changements dans l'environnement."
+          },
+          {
+            "Question": "Quel type d'analyse identifie le meilleur emplacement pour un nouveau magasin de détail?",
+            "TrueAnswer": "Analyse de la pertinence du site",
+            "FalseAnswer": [
+              "Analyse de réseau",
+              "Analyse par superposition",
+              "Analyse de proximité"
+            ],
+            "Explanation": "L'analyse de la pertinence du site évalue divers critères pour déterminer l'emplacement le plus approprié à un usage spécifique, tel qu'un magasin de détail, en tenant compte de facteurs tels que l'accessibilité, la concurrence et la démographie des consommateurs."
+          },
+          {
+            "Question": "Quel est le but d'une base de données géospatiale?",
+            "TrueAnswer": "Stocker, récupérer et analyser des données spatiales",
+            "FalseAnswer": [
+              "Gérer des informations financières",
+              "Stocker des fichiers multimédias",
+              "Suivre les dossiers des employés"
+            ],
+            "Explanation": "Une base de données géospatiale est spécialement conçue pour stocker, récupérer et analyser des données spatiales, permettant une gestion efficace et une récupération d'informations géographiques pour diverses applications."
+          },
+          {
+            "Question": "Quelle projection préserve une superficie précise mais déforme les formes et les angles?",
+            "TrueAnswer": "Projection équivalente (ou de superficie égale)",
+            "FalseAnswer": [
+              "Projection conforme",
+              "Projection équidistante",
+              "Projection azimutale"
+            ],
+            "Explanation": "La projection équivalente (ou de superficie égale) préserve des mesures précises de superficie, ce qui la rend adaptée à la cartographie thématique où la préservation des tailles relatives des caractéristiques géographiques est plus importante que la préservation des formes et angles."
+          },
+          {
+            "Question": "Que signifie le terme 'analyse géospatiale'?",
+            "TrueAnswer": "Analyse de données géographiques",
+            "FalseAnswer": [
+              "Analyse statistique",
+              "Analyse de marché",
+              "Analyse textuelle"
+            ],
+            "Explanation": "L'analyse géospatiale consiste à examiner des données géographiques, incluant des schémas, tendances et relations, pour obtenir des informations sur les phénomènes spatiaux et éclairer la prise de décision dans divers domaines."
+          },
+          {
+            "Question": "Quelle application GIS permet la création de cartes personnalisées?",
+            "TrueAnswer": "Cartographie",
+            "FalseAnswer": [
+              "Géocaching",
+              "Géorepérage",
+              "Géoréférencement"
+            ],
+            "Explanation": "La cartographie est le processus de création de cartes personnalisées, impliquant la conception, la compilation et la production d'informations géographiques à des fins de visualisation et de communication."
+          }
+        ]
+      }
+    }
+  ]
+}

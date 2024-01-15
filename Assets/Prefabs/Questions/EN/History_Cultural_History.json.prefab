@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5463909932592377125
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 719501635385930367}
+  - component: {fileID: 3950063655512997517}
+  m_Layer: 0
+  m_Name: History_Cultural_History.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &719501635385930367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5463909932592377125}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3950063655512997517
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5463909932592377125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What ancient civilization built the famous city of Machu Picchu?
+      TrueAnswer: Inca
+      FalseAnswer:
+      - Aztec
+      - Maya
+      - Olmec
+      Explanation: The Inca civilization constructed the iconic Machu Picchu around
+        1450 AD, but it was abandoned during the Spanish conquest.
+    - Question: Who was the first female pharaoh of ancient Egypt?
+      TrueAnswer: Hatshepsut
+      FalseAnswer:
+      - Cleopatra
+      - Nefertiti
+      - Nefertari
+      Explanation: Hatshepsut reigned as pharaoh in the 15th century BC and is known
+        for her ambitious building projects and trade expeditions.
+    - Question: In which century did the Renaissance period begin?
+      TrueAnswer: 15th
+      FalseAnswer:
+      - 14th
+      - 16th
+      - 17th
+      Explanation: The Renaissance, marked by a revival of art and culture, emerged
+        in Italy around the 14th to 17th centuries.
+    - Question: Who wrote the epic poem 'The Iliad'?
+      TrueAnswer: Homer
+      FalseAnswer:
+      - Virgil
+      - Sophocles
+      - Euripides
+      Explanation: Homer, an ancient Greek poet, composed 'The Iliad', an important
+        work in Greek literature, around the 8th century BC.
+    - Question: Which Chinese dynasty is known for the construction of the Great
+        Wall?
+      TrueAnswer: Qin
+      FalseAnswer:
+      - Han
+      - Tang
+      - Ming
+      Explanation: The first Emperor of the Qin Dynasty, Qin Shi Huang, ordered the
+        initial construction of the Great Wall during the 3rd century BC.
+    - Question: Who was the first emperor of Rome?
+      TrueAnswer: Augustus
+      FalseAnswer:
+      - Julius Caesar
+      - Tiberius
+      - Nero
+      Explanation: Augustus, originally known as Octavian, became the first emperor
+        of Rome after the death of Julius Caesar and the fall of the Roman Republic.
+    - Question: Which empire was ruled by Suleiman the Magnificent?
+      TrueAnswer: Ottoman
+      FalseAnswer:
+      - Mongol
+      - Byzantine
+      - Safavid
+      Explanation: Suleiman I, a significant ruler of the Ottoman Empire, governed
+        from 1520 to 1566, overseeing an era of military expansion and cultural growth.
+    - Question: What architectural wonder was built in ancient Greece to honor the
+        goddess Athena?
+      TrueAnswer: Parthenon
+      FalseAnswer:
+      - Colosseum
+      - Pyramid of Giza
+      - Hanging Gardens of Babylon
+      Explanation: The Parthenon, located atop the Acropolis in Athens, was constructed
+        in the 5th century BC and is a symbol of Greek classical architecture.
+    - Question: Which Japanese period was characterized by the establishment of the
+        samurai class?
+      TrueAnswer: Heian
+      FalseAnswer:
+      - Edo
+      - Sengoku
+      - Muromachi
+      Explanation: The Heian period, from 794 to 1185, witnessed the rise of the
+        samurai warrior class and the flourishing of arts and culture.
+    - Question: What ancient civilization is credited with the invention of the first
+        form of writing?
+      TrueAnswer: Sumerians
+      FalseAnswer:
+      - Egyptians
+      - Chinese
+      - Greeks
+      Explanation: The Sumerians in Mesopotamia developed cuneiform script around
+        3400 BC, marking one of the earliest known writing systems in human history.
+    - Question: Which European city was the center of the Renaissance during the
+        15th century?
+      TrueAnswer: Florence
+      FalseAnswer:
+      - Venice
+      - Rome
+      - Milan
+      Explanation: Florence, as the birthplace of the Renaissance, fostered artistic
+        innovations, intellectual pursuits, and the patronage of prominent Medici
+        family.
+    - Question: Who was the prominent leader of the Haitian Revolution, leading to
+        the country's independence from France?
+      TrueAnswer: Toussaint Louverture
+      FalseAnswer:
+      - Jean-Jacques Dessalines
+      - Henri Christophe
+      - Simon Bolivar
+      Explanation: Toussaint Louverture, a key figure in the abolition of slavery,
+        guided the successful struggle for Haiti's liberation and became its governor-general.
+    - Question: In which century did the Aztec Empire reach its height of power in
+        Mesoamerica?
+      TrueAnswer: 15th
+      FalseAnswer:
+      - 14th
+      - 16th
+      - 17th
+      Explanation: During the 15th century, the Aztec Empire, with its capital city
+        Tenochtitlan, became a dominant force in Mesoamerican civilization.
+    - Question: Who was the first female prime minister of the United Kingdom?
+      TrueAnswer: Margaret Thatcher
+      FalseAnswer:
+      - Indira Gandhi
+      - Angela Merkel
+      - Theresa May
+      Explanation: Margaret Thatcher, known as the 'Iron Lady', served as the UK's
+        prime minister from 1979 to 1990, implementing conservative policies and
+        reforms.
+    - Question: What ancient civilization developed the concept of zero in mathematics?
+      TrueAnswer: Maya
+      FalseAnswer:
+      - Greek
+      - Egyptian
+      - Chinese
+      Explanation: The Maya civilization in Mesoamerica advanced their mathematics
+        by introducing the revolutionary concept of zero as a placeholder in numeral
+        systems.
+    - Question: Who was the influential leader of the Indian independence movement
+        against British colonial rule?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Jawaharlal Nehru
+      - Subhas Chandra Bose
+      - Sardar Patel
+      Explanation: Mahatma Gandhi, through nonviolent resistance and civil disobedience,
+        led India to independence from British rule, emphasizing peace and equality.
+    - Question: In which century did the Enlightenment period blossom in Europe?
+      TrueAnswer: 18th
+      FalseAnswer:
+      - 17th
+      - 19th
+      - 20th
+      Explanation: The Enlightenment, marked by intellectual and philosophical growth,
+        thrived across 18th-century Europe, promoting reason, freedom, and progress.
+    - Question: Which ancient civilization is renowned for its grand city of Petra
+        in present-day Jordan?
+      TrueAnswer: Nabateans
+      FalseAnswer:
+      - Assyrians
+      - Phoenicians
+      - Persians
+      Explanation: The Nabateans, an ancient Arab people, established the breathtaking
+        city of Petra, showcasing their engineering and architectural prowess.
+    - Question: Who is considered the father of modern psychology?
+      TrueAnswer: Sigmund Freud
+      FalseAnswer:
+      - William James
+      - Carl Jung
+      - Ivan Pavlov
+      Explanation: Sigmund Freud, an Austrian neurologist, developed psychoanalysis
+        and laid the foundation for the understanding of the human mind and behavior.
+    - Question: What influential 6th-century BC philosopher is known for his paradoxes
+        and 'wisdom of uncertainty'?
+      TrueAnswer: Heraclitus
+      FalseAnswer:
+      - Socrates
+      - Plato
+      - Aristotle
+      Explanation: Heraclitus of Ephesus is renowned for his philosophical views
+        on change and the nature of reality, influencing later thinkers and the Stoic
+        school.

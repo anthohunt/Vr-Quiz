@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'objectif de Slack?",
+            "TrueAnswer": "Communication d'équipe",
+            "FalseAnswer": [
+              "Réseautage sur les médias sociaux",
+              "Visioconférence",
+              "Partage de fichiers"
+            ],
+            "Explanation": "Slack est principalement utilisé pour la communication d'équipe, permettant aux utilisateurs d'organiser les conversations par thèmes, projets et équipes, offrant des intégrations avec divers outils."
+          },
+          {
+            "Question": "Que signifie SaaS dans le contexte des outils en ligne?",
+            "TrueAnswer": "Logiciel en tant que service",
+            "FalseAnswer": [
+              "Système en tant que service",
+              "Sécurité en tant que service",
+              "Stockage en tant que service"
+            ],
+            "Explanation": "SaaS fait référence à Logiciel en tant que service, un modèle de distribution de logiciels où les applications sont hébergées par un fournisseur tiers et mises à disposition des clients via Internet."
+          },
+          {
+            "Question": "Quel est l'outil de gestion de projet populaire parmi les suivants?",
+            "TrueAnswer": "Trello",
+            "FalseAnswer": [
+              "Instagram",
+              "WhatsApp",
+              "Snapchat"
+            ],
+            "Explanation": "Trello est un outil de gestion de projet largement utilisé qui organise les tâches, les projets et les équipes de manière visuelle et flexible, présentant des tableaux, des listes et des cartes."
+          },
+          {
+            "Question": "Que signifie l'abréviation 'UX' dans le contexte du design web?",
+            "TrueAnswer": "Expérience utilisateur",
+            "FalseAnswer": [
+              "Xylophone unique",
+              "Rayon X universel",
+              "Xylophone souterrain"
+            ],
+            "Explanation": "UX signifie Expérience utilisateur, mettant l'accent sur l'amélioration de la satisfaction des utilisateurs en améliorant la convivialité, l'accessibilité et l'interaction globale avec les produits numériques."
+          },
+          {
+            "Question": "Quelle est la fonction principale de Google Drive?",
+            "TrueAnswer": "Stockage et partage de fichiers",
+            "FalseAnswer": [
+              "Gestion des e-mails",
+              "Réseautage sur les médias sociaux",
+              "Optimisation pour les moteurs de recherche"
+            ],
+            "Explanation": "Google Drive sert de service de stockage et de synchronisation de fichiers, permettant aux utilisateurs de stocker des fichiers dans le cloud, de partager des fichiers et de collaborer avec d'autres en temps réel."
+          },
+          {
+            "Question": "Quelle plateforme est connue pour des messages courts en temps réel?",
+            "TrueAnswer": "Twitter",
+            "FalseAnswer": [
+              "LinkedIn",
+              "Pinterest",
+              "Twitch"
+            ],
+            "Explanation": "Twitter est une plateforme populaire pour des messages courts en temps réel appelés 'tweets', avec une limite de caractères de 280, permettant une communication rapide et concise."
+          },
+          {
+            "Question": "Quelle est la fonction principale de Zoom?",
+            "TrueAnswer": "Visioconférence",
+            "FalseAnswer": [
+              "Achat en ligne",
+              "Réseautage social",
+              "Édition de photos"
+            ],
+            "Explanation": "Zoom est largement utilisé pour la visioconférence, offrant des fonctionnalités pour les réunions virtuelles, les webinaires et la collaboration à distance, avec des options de partage d'écran et d'arrière-plans virtuels."
+          },
+          {
+            "Question": "Quelle plateforme met l'accent sur le réseautage professionnel?",
+            "TrueAnswer": "LinkedIn",
+            "FalseAnswer": [
+              "Reddit",
+              "Tumblr",
+              "Discord"
+            ],
+            "Explanation": "LinkedIn est une plateforme de réseautage social axée sur le réseautage professionnel et le développement de carrière, connectant les individus et les entreprises pour des opportunités professionnelles."
+          },
+          {
+            "Question": "Quelle est l'utilisation principale de Microsoft Teams?",
+            "TrueAnswer": "Collaboration et communication",
+            "FalseAnswer": [
+              "Jeux",
+              "Diffusion musicale",
+              "Prévisions météorologiques"
+            ],
+            "Explanation": "Microsoft Teams est conçu pour la collaboration et la communication au sein des organisations, fournissant des discussions, des visioconférences, le partage de fichiers et l'intégration avec les applications Microsoft 365."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'Asana?",
+            "TrueAnswer": "Gestion des tâches et des projets",
+            "FalseAnswer": [
+              "Partage de recettes",
+              "Suivi de remise en forme",
+              "Apprentissage des langues"
+            ],
+            "Explanation": "Asana est un outil de gestion des tâches et des projets qui permet aux équipes d'organiser, de prioriser et de suivre le travail, offrant des fonctionnalités pour l'assignation de tâches, les délais et le suivi des progrès."
+          },
+          {
+            "Question": "Quelle est la fonction principale de Skype?",
+            "TrueAnswer": "Appels vocaux et vidéo",
+            "FalseAnswer": [
+              "Jeux en ligne",
+              "Commerce électronique",
+              "Production musicale"
+            ],
+            "Explanation": "Skype est couramment utilisé pour les appels vocaux et vidéo, permettant aux utilisateurs de passer des appels audio et vidéo, ainsi que d'envoyer des messages instantanés et de partager des fichiers."
+          },
+          {
+            "Question": "Quel outil est connu pour le tableau blanc virtuel et la collaboration?",
+            "TrueAnswer": "Miro",
+            "FalseAnswer": [
+              "YouTube",
+              "Instagram",
+              "TikTok"
+            ],
+            "Explanation": "Miro est une plateforme de tableau blanc virtuel collaboratif, connue pour la collaboration visuelle, le brainstorming et l'organisation des idées à l'aide de tableaux blancs virtuels."
+          },
+          {
+            "Question": "Quelle est l'utilisation principale de Discord?",
+            "TrueAnswer": "Communication communautaire et jeux",
+            "FalseAnswer": [
+              "Diffusion de nouvelles",
+              "Achat en ligne",
+              "Art et design"
+            ],
+            "Explanation": "Discord est largement utilisé pour la communication communautaire et les jeux, offrant des fonctionnalités de communication textuelle, vocale et vidéo, ainsi que des fonctionnalités de gestion des serveurs et de modération."
+          },
+          {
+            "Question": "Quel outil est conçu pour la collaboration et l'édition de code en temps réel?",
+            "TrueAnswer": "Visual Studio Code Live Share",
+            "FalseAnswer": [
+              "Logiciel d'édition photo",
+              "Plateforme de diffusion musicale",
+              "Outil de préparation de taxes"
+            ],
+            "Explanation": "Visual Studio Code Live Share permet la collaboration et l'édition de code en temps réel dans l'éditeur Visual Studio Code, permettant à plusieurs développeurs de travailler ensemble sur le même code source."
+          },
+          {
+            "Question": "Quelle est la fonction principale de Figma?",
+            "TrueAnswer": "Prototypage et collaboration en design",
+            "FalseAnswer": [
+              "Publication de recettes de cuisine",
+              "Réservation de voyages",
+              "Suivi de la remise en forme"
+            ],
+            "Explanation": "Figma est un outil de conception basé sur le web utilisé pour la conception d'interfaces, le prototypage et la collaboration, permettant aux concepteurs et aux équipes de créer et d'itérer sur des maquettes de design et des prototypes interactifs."
+          },
+          {
+            "Question": "Quelle plateforme est connue pour l'organisation et l'hébergement de webinaires?",
+            "TrueAnswer": "GoToWebinar",
+            "FalseAnswer": [
+              "Plateforme de rencontre en ligne",
+              "Service de livraison de repas",
+              "Site de réservation de tourisme"
+            ],
+            "Explanation": "GoToWebinar est une plateforme d'organisation et d'hébergement de webinaires, offrant des fonctionnalités d'inscription, de partage de présentations, d'engagement du public et d'analyse des webinaires."
+          },
+          {
+            "Question": "Quelle est la fonction principale de Slack?",
+            "TrueAnswer": "Communication d'équipe",
+            "FalseAnswer": [
+              "Commerce électronique",
+              "Réseautage sur les médias sociaux",
+              "Optimisation pour les moteurs de recherche"
+            ],
+            "Explanation": "Slack est principalement utilisé pour la communication d'équipe, permettant aux utilisateurs d'organiser les conversations par thèmes, projets et équipes, offrant des intégrations avec divers outils."
+          },
+          {
+            "Question": "Que signifie CRM dans le contexte des outils en ligne?",
+            "TrueAnswer": "Gestion de la relation client",
+            "FalseAnswer": [
+              "Gestion de ressources de contenu",
+              "Gestion des risques liés à la cybersécurité",
+              "Atténuation des risques de construction"
+            ],
+            "Explanation": "CRM signifie Gestion de la relation client, faisant référence aux stratégies et aux technologies utilisées pour gérer et analyser les interactions et les données des clients tout au long du cycle de vie du client."
+          },
+          {
+            "Question": "Quelle plateforme est connue pour la collaboration en temps réel sur les documents?",
+            "TrueAnswer": "Google Docs",
+            "FalseAnswer": [
+              "Plateforme de diffusion musicale",
+              "Service de livraison de repas",
+              "Jeux en ligne"
+            ],
+            "Explanation": "Google Docs permet la collaboration en temps réel sur les documents, permettant à plusieurs utilisateurs de modifier et de commenter le même document simultanément, améliorant ainsi le travail d'équipe et la productivité."
+          },
+          {
+            "Question": "Quelle est la fonction principale de Trello?",
+            "TrueAnswer": "Gestion de projet",
+            "FalseAnswer": [
+              "Rencontre en ligne",
+              "Diffusion musicale",
+              "Suivi de la remise en forme"
+            ],
+            "Explanation": "Trello est un outil de gestion de projet populaire pour organiser les tâches, les projets et les équipes de manière visuelle, aidant les équipes à prioriser le travail et à collaborer efficacement."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'ingrédient le plus courant dans la carbonara italienne?",
+            "TrueAnswer": "Œufs",
+            "FalseAnswer": [
+              "Crème",
+              "Beurre",
+              "Tomate"
+            ],
+            "Explanation": "La véritable carbonara est préparée avec des œufs, du fromage Pecorino Romano, de la pancetta et du poivre noir, créant une sauce crémeuse sans utiliser de crème."
+          },
+          {
+            "Question": "Quelle herbe est couramment utilisée dans le curry vert thaïlandais?",
+            "TrueAnswer": "Basilic",
+            "FalseAnswer": [
+              "Menthe",
+              "Coriandre",
+              "Thym"
+            ],
+            "Explanation": "Le curry vert thaïlandais inclut généralement du basilic thaï, également connu sous le nom de basilic sacré, pour ajouter une saveur poivrée et légèrement sucrée au plat."
+          },
+          {
+            "Question": "Quel est l'ingrédient essentiel de la paella espagnole?",
+            "TrueAnswer": "Safran",
+            "FalseAnswer": [
+              "Curcuma",
+              "Paprika",
+              "Curry en poudre"
+            ],
+            "Explanation": "Le safran ajoute non seulement une couleur jaune distincte à la paella, mais confère également une arôme floral et une saveur uniques au plat."
+          },
+          {
+            "Question": "Quel est l'élément clé de la pâte à tempura japonaise?",
+            "TrueAnswer": "Eau glacée",
+            "FalseAnswer": [
+              "Jaune d'œuf",
+              "Lait",
+              "Bière"
+            ],
+            "Explanation": "L'utilisation de l'eau glacée dans la pâte à tempura aide à créer une texture croustillante et légère lors de la friture, donnant naissance à une tempura délicate et croquante."
+          },
+          {
+            "Question": "Quel ingrédient est essentiel pour fabriquer des croissants français traditionnels?",
+            "TrueAnswer": "Beurre",
+            "FalseAnswer": [
+              "Margarine",
+              "Saindoux",
+              "Saindoux"
+            ],
+            "Explanation": "Les croissants français authentiques sont fabriqués avec des couches de beurre de haute qualité, ce qui leur confère leur texture feuilletée et riche."
+          },
+          {
+            "Question": "Quelle méthode de cuisson principale est utilisée pour faire une omelette française classique?",
+            "TrueAnswer": "Cuisson à la poêle",
+            "FalseAnswer": [
+              "Cuisson à l'eau bouillante",
+              "Grillage",
+              "Cuisson au micro-ondes"
+            ],
+            "Explanation": "Une omelette française classique est réalisée en agitant continuellement les œufs dans une poêle chaude et beurrée pour créer une texture crémeuse et veloutée."
+          },
+          {
+            "Question": "Quel type de riz est couramment utilisé pour faire un risotto?",
+            "TrueAnswer": "Arborio",
+            "FalseAnswer": [
+              "Basmati",
+              "Jasmin",
+              "Complet"
+            ],
+            "Explanation": "Le riz arborio, connu pour sa teneur élevée en amidon, est indispensable pour obtenir la texture crémeuse caractéristique du risotto."
+          },
+          {
+            "Question": "Quel ingrédient est indispensable dans le guacamole mexicain traditionnel?",
+            "TrueAnswer": "Jus de citron vert",
+            "FalseAnswer": [
+              "Vinaigre",
+              "Jus d'orange",
+              "Zeste de citron"
+            ],
+            "Explanation": "Le jus de citron vert ajoute non seulement une saveur acidulée au guacamole, mais aide également à empêcher les avocats de brunir trop rapidement."
+          },
+          {
+            "Question": "Quel est l'agent aromatisant principal du masala chai indien?",
+            "TrueAnswer": "Cardamome",
+            "FalseAnswer": [
+              "Cannelle",
+              "Gingembre",
+              "Clous de girofle"
+            ],
+            "Explanation": "La cardamome, avec son goût sucré et aromatique, est une épice clé utilisée pour rehausser le goût complexe et réconfortant du masala chai."
+          },
+          {
+            "Question": "Quel ingrédient principal distingue la chowder aux palourdes de Nouvelle-Angleterre de la chowder aux palourdes de Manhattan?",
+            "TrueAnswer": "Crème",
+            "FalseAnswer": [
+              "Tomates",
+              "Vin blanc",
+              "Lait de coco"
+            ],
+            "Explanation": "La chowder aux palourdes de Nouvelle-Angleterre est connue pour sa base crémeuse, tandis que la chowder aux palourdes de Manhattan contient un bouillon à base de tomates."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans un gazpacho espagnol traditionnel?",
+            "TrueAnswer": "Tomates",
+            "FalseAnswer": [
+              "Concombres",
+              "Poivrons rouges",
+              "Oignons"
+            ],
+            "Explanation": "Les tomates constituent la base de l'authentique gazpacho espagnol, offrant une couleur vibrante et une saveur rafraîchissante et acidulée."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans la célèbre sauce hollandaise française?",
+            "TrueAnswer": "Jaunes d'œufs",
+            "FalseAnswer": [
+              "Beurre",
+              "Jus de citron",
+              "Vin blanc"
+            ],
+            "Explanation": "Les jaunes d'œufs sont l'élément clé de la sauce hollandaise, conférant de la richesse et une texture lisse et veloutée lorsqu'ils sont émulsifiés avec du beurre."
+          },
+          {
+            "Question": "Quel ingrédient est essentiel pour fabriquer un bouillon dashi japonais traditionnel?",
+            "TrueAnswer": "Kombu",
+            "FalseAnswer": [
+              "Paillettes de bonite",
+              "Champignons",
+              "Anchois"
+            ],
+            "Explanation": "Le kombu, un type d'algue séchée, est un ingrédient fondamental dans le bouillon dashi, ajoutant de l'umami et de la profondeur au bouillon japonais savoureux."
+          },
+          {
+            "Question": "Quel élément est nécessaire pour créer un mirepoix français classique?",
+            "TrueAnswer": "Carottes",
+            "FalseAnswer": [
+              "Oignons",
+              "Céleri",
+              "Ail"
+            ],
+            "Explanation": "Un mirepoix traditionnel se compose de carottes, d'oignons et de céleri finement hachés, servant de base aromatique pour divers plats de la cuisine française."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans le baklava turc traditionnel?",
+            "TrueAnswer": "Pâte phyllo",
+            "FalseAnswer": [
+              "Pâte feuilletée",
+              "Pâte brisée",
+              "Pâte à choux"
+            ],
+            "Explanation": "La pâte phyllo, avec ses fines couches, est un élément crucial pour créer la texture feuilletée et croustillante du baklava turc."
+          },
+          {
+            "Question": "Quel est l'ingrédient clé dans le kimchi coréen populaire?",
+            "TrueAnswer": "Chou chinois",
+            "FalseAnswer": [
+              "Radis daïkon",
+              "Oignons verts",
+              "Carottes"
+            ],
+            "Explanation": "Le chou chinois sert d'ingrédient végétal principal dans le kimchi, subissant une fermentation avec divers assaisonnements pour développer sa saveur distinctive."
+          },
+          {
+            "Question": "Quel est l'ingrédient essentiel pour faire une sauce tzatziki grecque authentique?",
+            "TrueAnswer": "Yaourt",
+            "FalseAnswer": [
+              "Crème sure",
+              "Mayonnaise",
+              "Crème épaisse"
+            ],
+            "Explanation": "Le yaourt est la base du tzatziki traditionnel, offrant une consistance acidulée et crémeuse pour compléter les saveurs du concombre et des herbes."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal du célèbre plat français Coq au Vin?",
+            "TrueAnswer": "Poulet",
+            "FalseAnswer": [
+              "Bœuf",
+              "Porc",
+              "Canard"
+            ],
+            "Explanation": "Le Coq au Vin, un plat français classique, met en vedette du poulet braisé dans du vin rouge avec des légumes aromatiques, des herbes et des champignons."
+          },
+          {
+            "Question": "Quel ingrédient est essentiel dans le dal makhani indien traditionnel?",
+            "TrueAnswer": "Lentilles noires",
+            "FalseAnswer": [
+              "Lentilles rouges",
+              "Pois cassés jaunes",
+              "Pois chiches"
+            ],
+            "Explanation": "Les lentilles noires, également connues sous le nom d'urad dal, sont un élément clé de la texture riche et crémeuse du dal makhani indien authentique."
+          }
+        ]
+      }
+    }
+  ]
+}

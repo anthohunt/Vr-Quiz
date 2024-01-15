@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8207629155055919127
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5148159593516215457}
+  - component: {fileID: 105843700629237672}
+  m_Layer: 0
+  m_Name: Sports_Sports_Business_and_Management.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5148159593516215457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8207629155055919127}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &105843700629237672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8207629155055919127}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular sport in the world?
+      TrueAnswer: Football
+      FalseAnswer:
+      - Basketball
+      - Cricket
+      - Tennis
+      Explanation: Football, also known as soccer, is the most widely played and
+        followed sport globally, with an estimated 4 billion fans.
+    - Question: Which sports league has the highest annual revenue?
+      TrueAnswer: NFL
+      FalseAnswer:
+      - NBA
+      - Premier League
+      - MLB
+      Explanation: The National Football League (NFL) generates the highest annual
+        revenue among sports leagues, largely due to broadcasting rights and sponsorships.
+    - Question: Who is the highest-paid athlete in the world?
+      TrueAnswer: Conor McGregor
+      FalseAnswer:
+      - Lionel Messi
+      - LeBron James
+      - Tom Brady
+      Explanation: Conor McGregor became the highest-paid athlete in 2021, earning
+        a total of $180 million through his UFC fights and endorsements.
+    - Question: Which sports team has the most Twitter followers?
+      TrueAnswer: Real Madrid
+      FalseAnswer:
+      - Manchester United
+      - FC Barcelona
+      - New York Yankees
+      Explanation: Real Madrid is the most followed sports team on Twitter, with
+        over 38 million followers, showcasing its global fan base and social media
+        presence.
+    - Question: What is the average salary of a professional basketball player in
+        the NBA?
+      TrueAnswer: $7.7 million
+      FalseAnswer:
+      - $3.2 million
+      - $5.5 million
+      - $9.4 million
+      Explanation: The average NBA player salary is approximately $7.7 million, reflecting
+        the high earning potential in professional basketball.
+    - Question: Which sports organization hosts the Tour de France?
+      TrueAnswer: ASO (Amaury Sport Organisation)
+      FalseAnswer:
+      - FIFA
+      - NBA
+      - IOC (International Olympic Committee)
+      Explanation: The Tour de France, one of the most prestigious cycling events,
+        is organized by ASO, showcasing their influence in the cycling industry.
+    - Question: Which company owns the most valuable sports franchise in the world?
+      TrueAnswer: Dallas Cowboys
+      FalseAnswer:
+      - Real Madrid
+      - New York Yankees
+      - Manchester United
+      Explanation: The Dallas Cowboys, valued at over $5 billion, are the most valuable
+        sports franchise globally, showcasing the business success of the NFL team.
+    - Question: Which sportswear brand sponsors the most athletes worldwide?
+      TrueAnswer: Nike
+      FalseAnswer:
+      - Adidas
+      - Under Armour
+      - Puma
+      Explanation: Nike's widespread athlete endorsements across multiple sports
+        solidify its position as the leading sportswear brand in the global market.
+    - Question: What is the most valuable sports event sponsorship deal in history?
+      TrueAnswer: NFL & PepsiCo (Super Bowl)
+      FalseAnswer:
+      - NBA & Kia (NBA Finals)
+      - FIFA World Cup & Coca-Cola
+      - Olympics & McDonald's
+      Explanation: The NFL's partnership with PepsiCo for the Super Bowl, valued
+        at over $560 million, represents the most valuable sports event sponsorship
+        deal to date.
+    - Question: Which sports franchise has the largest social media following across
+        all platforms?
+      TrueAnswer: FC Barcelona
+      FalseAnswer:
+      - Los Angeles Lakers
+      - New England Patriots
+      - Chelsea FC
+      Explanation: FC Barcelona's extensive global fan base contributes to its status
+        as the sports franchise with the largest combined social media following
+        across platforms.
+    - Question: What percentage of MLB revenue comes from broadcasting rights?
+      TrueAnswer: 40%
+      FalseAnswer:
+      - 25%
+      - 60%
+      - 75%
+      Explanation: Approximately 40% of MLB's revenue is derived from broadcasting
+        rights, emphasizing the significant financial impact of television deals
+        in baseball.
+    - Question: Which sports industry sector experiences the highest annual growth?
+      TrueAnswer: Esports
+      FalseAnswer:
+      - Athleisure
+      - Sports Betting
+      - Fitness Technology
+      Explanation: Esports, with an annual growth rate of over 15%, is the fastest-growing
+        sector in the sports industry, driven by digital engagement and global tournaments.
+    - Question: What is the average franchise value in the Major League Soccer (MLS)?
+      TrueAnswer: $550 million
+      FalseAnswer:
+      - $200 million
+      - $350 million
+      - $700 million
+      Explanation: The average franchise value in the MLS is approximately $550 million,
+        demonstrating the increasing financial value and investment appeal of soccer
+        in the US market.
+    - Question: Which sports agency represents the most professional athletes?
+      TrueAnswer: CAA (Creative Artists Agency)
+      FalseAnswer:
+      - WME (William Morris Endeavor)
+      - Roc Nation Sports
+      - Octagon
+      Explanation: CAA, a leading entertainment and sports agency, represents the
+        highest number of professional athletes, including major stars in various
+        sports leagues.
+    - Question: What percentage of NFL revenue comes from merchandise sales?
+      TrueAnswer: 20%
+      FalseAnswer:
+      - 35%
+      - 50%
+      - 60%
+      Explanation: Merchandise sales contribute approximately 20% to the NFL's overall
+        revenue, showcasing the significant impact of branded products and team apparel.
+    - Question: Which sports organization owns the most professional teams across
+        different sports?
+      TrueAnswer: Anschutz Entertainment Group (AEG)
+      FalseAnswer:
+      - Kraft Group
+      - Red Bull GmbH
+      - Kroenke Sports & Entertainment
+      Explanation: AEG's diverse sports portfolio includes ownership of multiple
+        professional teams across various sports, highlighting their broad influence
+        in the industry.
+    - Question: What is the total global revenue of the sports industry?
+      TrueAnswer: $600 billion
+      FalseAnswer:
+      - $400 billion
+      - $800 billion
+      - $1 trillion
+      Explanation: The sports industry generates approximately $600 billion in global
+        revenue annually, reflecting its substantial economic impact and commercial
+        significance.
+    - Question: Which sports management degree program is ranked #1 globally?
+      TrueAnswer: Ohio University
+      FalseAnswer:
+      - Harvard University
+      - Stanford University
+      - Columbia University
+      Explanation: Ohio University's sports management program is widely recognized
+        for its comprehensive curriculum and successful alumni, earning it a top
+        global ranking.
+    - Question: What is the average annual revenue of a sports agency?
+      TrueAnswer: $100 million
+      FalseAnswer:
+      - $50 million
+      - $150 million
+      - $200 million
+      Explanation: The average annual revenue of a sports agency is approximately
+        $100 million, reflecting the lucrative nature of player representation and
+        endorsements in the industry.
+    - Question: Which sports business sector is leading in digital innovation and
+        fan engagement?
+      TrueAnswer: Mixed Martial Arts (MMA)
+      FalseAnswer:
+      - Golf
+      - Tennis
+      - Major League Baseball (MLB)
+      Explanation: MMA's digital innovation, including immersive online content and
+        interactive fan experiences, positions the industry at the forefront of digital
+        engagement in sports business.

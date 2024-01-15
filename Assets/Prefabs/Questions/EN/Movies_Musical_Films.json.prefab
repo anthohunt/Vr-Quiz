@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3730847827826860806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5204871389708317304}
+  - component: {fileID: 5474887869793914792}
+  m_Layer: 0
+  m_Name: Movies_Musical_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5204871389708317304
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3730847827826860806}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5474887869793914792
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3730847827826860806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which musical features the song 'The Sound of Music'?
+      TrueAnswer: The Sound of Music
+      FalseAnswer:
+      - Mary Poppins
+      - Singin' in the Rain
+      - "Les Mis\xE9rables"
+      Explanation: The Sound of Music is a 1965 musical film based on the Broadway
+        musical of the same name, starring Julie Andrews.
+    - Question: Which actor plays the lead role in 'La La Land'?
+      TrueAnswer: Ryan Gosling
+      FalseAnswer:
+      - Emma Stone
+      - Bradley Cooper
+      - James Franco
+      Explanation: Ryan Gosling stars alongside Emma Stone in the 2016 musical film
+        'La La Land,' directed by Damien Chazelle.
+    - Question: In 'Mamma Mia!', what's the name of the Greek island the story is
+        set in?
+      TrueAnswer: Kalokairi
+      FalseAnswer:
+      - Santorini
+      - Mykonos
+      - Crete
+      Explanation: The musical film 'Mamma Mia!' is set on the fictional Greek island
+        of Kalokairi, where the story unfolds.
+    - Question: Which musical film features the iconic song 'Dancing Queen'?
+      TrueAnswer: Mamma Mia!
+      FalseAnswer:
+      - Grease
+      - The Sound of Music
+      - Chicago
+      Explanation: The song 'Dancing Queen' is a standout number in the 2008 musical
+        film adaptation of 'Mamma Mia!' based on ABBA's songs.
+    - Question: Which legendary choreographer directed the film 'A Chorus Line'?
+      TrueAnswer: Michael Bennett
+      FalseAnswer:
+      - Bob Fosse
+      - Busby Berkeley
+      - Gene Kelly
+      Explanation: Michael Bennett directed the 1985 film adaptation of 'A Chorus
+        Line,' based on the Broadway musical he originally choreographed.
+    - Question: Which musical features the story of an aspiring actress and jazz
+        musician in Los Angeles?
+      TrueAnswer: La La Land
+      FalseAnswer:
+      - Chicago
+      - Dreamgirls
+      - Cabaret
+      Explanation: The 2016 musical 'La La Land' follows the romantic journey of
+        an aspiring actress and a jazz musician in Los Angeles.
+    - Question: In 'The Greatest Showman,' what is PT Barnum's famous circus called?
+      TrueAnswer: Barnum's American Museum
+      FalseAnswer:
+      - Ringling Bros. and Barnum & Bailey Circus
+      - Barnum & Bailey Circus
+      - Barnum's Grand Circus
+      Explanation: In 'The Greatest Showman,' PT Barnum opens Barnum's American Museum,
+        a renowned entertainment establishment in New York City.
+    - Question: Which musical film is based on the life of pop group ABBA?
+      TrueAnswer: Mamma Mia!
+      FalseAnswer:
+      - Rocketman
+      - Bohemian Rhapsody
+      - Dreamgirls
+      Explanation: The 2008 musical film 'Mamma Mia!' is based on the songs of pop
+        group ABBA and its smash-hit stage musical adaptation.
+    - Question: "What is the title of the 2002 musical film with Catherine Zeta-Jones
+        and Ren\xE9e Zellweger?"
+      TrueAnswer: Chicago
+      FalseAnswer:
+      - Moulin Rouge!
+      - Dreamgirls
+      - Cabaret
+      Explanation: "The film 'Chicago' features Catherine Zeta-Jones and Ren\xE9e
+        Zellweger in their award-winning performances in the 2002 adaptation of the
+        Broadway musical."
+    - Question: Which musical film takes place in the Parisian nightclub 'Moulin
+        Rouge'?
+      TrueAnswer: Moulin Rouge!
+      FalseAnswer:
+      - Cabaret
+      - La La Land
+      - Gigi
+      Explanation: The 2001 musical film 'Moulin Rouge!' is set in the iconic Parisian
+        nightclub during the Bohemian Revolution in Montmartre.

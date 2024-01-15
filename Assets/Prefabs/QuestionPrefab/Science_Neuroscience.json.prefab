@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7103965949322245773
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7555299598882365315}
+  - component: {fileID: 5446535291711998940}
+  m_Layer: 0
+  m_Name: Science_Neuroscience.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7555299598882365315
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7103965949322245773}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5446535291711998940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7103965949322245773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main function of the cerebellum?
+      TrueAnswer: Coordination of movement
+      FalseAnswer:
+      - Memory storage
+      - Emotional regulation
+      - Language processing
+      Explanation: The cerebellum is responsible for coordinating voluntary movements,
+        such as balance, posture, and coordination.
+    - Question: Which neurotransmitter is associated with pleasure and reward?
+      TrueAnswer: Dopamine
+      FalseAnswer:
+      - Serotonin
+      - GABA
+      - Acetylcholine
+      Explanation: Dopamine is a neurotransmitter that plays a key role in the brain's
+        reward and pleasure centers.
+    - Question: What is the primary function of the hippocampus?
+      TrueAnswer: Memory formation
+      FalseAnswer:
+      - Motor control
+      - Visual processing
+      - Emotional regulation
+      Explanation: The hippocampus is involved in the formation and retrieval of
+        long-term memories.
+    - Question: Which part of the brain is responsible for regulating body temperature?
+      TrueAnswer: Hypothalamus
+      FalseAnswer:
+      - Amygdala
+      - Cerebral cortex
+      - Pituitary gland
+      Explanation: The hypothalamus helps regulate body temperature by controlling
+        sweating, shivering, and blood flow to the skin.
+    - Question: What is the main function of the frontal lobe?
+      TrueAnswer: Executive functions
+      FalseAnswer:
+      - Visual processing
+      - Emotional regulation
+      - Motor control
+      Explanation: The frontal lobe is responsible for higher cognitive functions,
+        such as decision-making, problem-solving, and planning.
+    - Question: Which part of the brain is responsible for processing visual information?
+      TrueAnswer: Occipital lobe
+      FalseAnswer:
+      - Temporal lobe
+      - Parietal lobe
+      - Frontal lobe
+      Explanation: The occipital lobe is primarily responsible for processing visual
+        information from the eyes.
+    - Question: What is the main function of the amygdala?
+      TrueAnswer: Emotional processing
+      FalseAnswer:
+      - Language processing
+      - Motor control
+      - Memory formation
+      Explanation: The amygdala plays a key role in the processing and regulation
+        of emotions, especially fear and aggression.
+    - Question: Which part of the brain is responsible for language comprehension?
+      TrueAnswer: Wernicke's area
+      FalseAnswer:
+      - Broca's area
+      - Hippocampus
+      - Cerebellum
+      Explanation: Wernicke's area is involved in the comprehension and understanding
+        of language.
+    - Question: What is the main function of the parietal lobe?
+      TrueAnswer: Sensory processing
+      FalseAnswer:
+      - Motor control
+      - Emotional regulation
+      - Memory formation
+      Explanation: The parietal lobe is responsible for processing sensory information,
+        such as touch, temperature, and pain.
+    - Question: Which part of the brain is responsible for regulating sleep and wakefulness?
+      TrueAnswer: Reticular formation
+      FalseAnswer:
+      - Thalamus
+      - Hippocampus
+      - Cerebellum
+      Explanation: The reticular formation helps regulate sleep and wakefulness by
+        controlling arousal and attention.
+    - Question: What is the main function of the temporal lobe?
+      TrueAnswer: Auditory processing
+      FalseAnswer:
+      - Visual processing
+      - Motor control
+      - Language comprehension
+      Explanation: The temporal lobe is primarily responsible for processing auditory
+        information, including speech and sound recognition.
+    - Question: Which part of the brain is responsible for regulating hunger and
+        thirst?
+      TrueAnswer: Hypothalamus
+      FalseAnswer:
+      - Amygdala
+      - Cerebral cortex
+      - Pituitary gland
+      Explanation: The hypothalamus helps regulate hunger and thirst by controlling
+        appetite and fluid balance.
+    - Question: What is the main function of the motor cortex?
+      TrueAnswer: Voluntary movement
+      FalseAnswer:
+      - Memory storage
+      - Emotional regulation
+      - Language processing
+      Explanation: The motor cortex is responsible for planning, executing, and controlling
+        voluntary movements.
+    - Question: Which neurotransmitter is associated with sleep and relaxation?
+      TrueAnswer: Serotonin
+      FalseAnswer:
+      - Dopamine
+      - GABA
+      - Acetylcholine
+      Explanation: Serotonin is a neurotransmitter that helps regulate sleep, mood,
+        and relaxation.
+    - Question: What is the primary function of the prefrontal cortex?
+      TrueAnswer: Higher cognitive functions
+      FalseAnswer:
+      - Visual processing
+      - Emotional regulation
+      - Motor control
+      Explanation: The prefrontal cortex is involved in higher cognitive functions,
+        such as decision-making, attention, and social behavior.
+    - Question: Which part of the brain is responsible for regulating breathing and
+        heart rate?
+      TrueAnswer: Medulla oblongata
+      FalseAnswer:
+      - Cerebellum
+      - Thalamus
+      - Hippocampus
+      Explanation: The medulla oblongata controls vital functions, including breathing,
+        heart rate, and blood pressure.
+    - Question: What is the main function of the limbic system?
+      TrueAnswer: Emotion and memory
+      FalseAnswer:
+      - Motor control
+      - Visual processing
+      - Language comprehension
+      Explanation: The limbic system is involved in emotion, memory, and motivation,
+        playing a key role in survival and adaptation.
+    - Question: Which part of the brain is responsible for regulating hormone production?
+      TrueAnswer: Pituitary gland
+      FalseAnswer:
+      - Amygdala
+      - Cerebral cortex
+      - Hypothalamus
+      Explanation: The pituitary gland is often referred to as the 'master gland'
+        as it controls the release of hormones throughout the body.
+    - Question: What is the main function of the corpus callosum?
+      TrueAnswer: Communication between brain hemispheres
+      FalseAnswer:
+      - Memory storage
+      - Emotional regulation
+      - Language processing
+      Explanation: The corpus callosum allows for communication and coordination
+        between the left and right hemispheres of the brain.
+    - Question: Which neurotransmitter is associated with muscle movement and coordination?
+      TrueAnswer: Acetylcholine
+      FalseAnswer:
+      - Dopamine
+      - Serotonin
+      - GABA
+      Explanation: Acetylcholine is a neurotransmitter that plays a crucial role
+        in muscle movement, coordination, and motor control.

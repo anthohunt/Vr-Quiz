@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2738792181337628773
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4720605879938670913}
+  - component: {fileID: 4706189613308347072}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Black_Holes_and_Gravitational_Waves.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4720605879938670913
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2738792181337628773}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4706189613308347072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2738792181337628773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the region surrounding a black hole from which nothing can
+        escape called?
+      TrueAnswer: Event Horizon
+      FalseAnswer:
+      - Cosmic Boundary
+      - Singularity
+      - Photon Belt
+      Explanation: The event horizon is the point of no return, beyond which nothing
+        can escape the gravitational pull of the black hole.
+    - Question: What is the theoretical boundary around a black hole where light
+        cannot escape called?
+      TrueAnswer: Photon Sphere
+      FalseAnswer:
+      - Ergosphere
+      - Schwarzschild Radius
+      - Hawking Point
+      Explanation: The photon sphere is the region around a black hole where gravity
+        bends light rays, creating a ring of photons around the black hole.
+    - Question: What is the celestial object formed from the gravitational collapse
+        of a massive star called?
+      TrueAnswer: Black Hole
+      FalseAnswer:
+      - Neutron Star
+      - Quasar
+      - Supernova
+      Explanation: A black hole is a region of space where the gravitational pull
+        is so intense that nothing, not even light, can escape.
+    - Question: Who proposed the existence of black holes in the early 20th century?
+      TrueAnswer: Karl Schwarzschild
+      FalseAnswer:
+      - Albert Einstein
+      - Stephen Hawking
+      - Isaac Newton
+      Explanation: Karl Schwarzschild found the first solution to the equations of
+        general relativity that describes a black hole, now known as the Schwarzschild
+        metric.
+    - Question: What did the LIGO observatory detect for the first time in 2015,
+        confirming a prediction made by Einstein's general theory of relativity?
+      TrueAnswer: Gravitational Waves
+      FalseAnswer:
+      - Dark Matter
+      - Neutrinos
+      - Higgs Boson
+      Explanation: Gravitational waves are ripples in spacetime that are caused by
+        the acceleration of massive objects and can carry information about their
+        origins and behaviors.
+    - Question: Which phenomenon refers to the distortion of spacetime caused by
+        the acceleration of massive objects?
+      TrueAnswer: Gravitational Waves
+      FalseAnswer:
+      - Cosmic Inflation
+      - Quantum Entanglement
+      - Blackbody Radiation
+      Explanation: Gravitational waves are disturbances in the curvature of spacetime,
+        produced by accelerating masses, that propagate as waves at the speed of
+        light.
+    - Question: What is the property of black holes that prevents any information
+        from inside them from escaping?
+      TrueAnswer: Information Paradox
+      FalseAnswer:
+      - Hawking Radiation
+      - Quantum Tunneling
+      - Spaghettification
+      Explanation: The information paradox arises from the conflict between the laws
+        of quantum mechanics and general relativity regarding the conservation of
+        information in a black hole.
+    - Question: Which of Einstein's equations predicts the existence of black holes?
+      TrueAnswer: Einstein Field Equations
+      FalseAnswer:
+      - Special Theory of Relativity
+      - Brownian Motion Equation
+      - Photoelectric Effect Formula
+      Explanation: The Einstein field equations are a set of ten interrelated differential
+        equations that describe the fundamental interaction of gravitation as a result
+        of spacetime being curved by matter and energy.
+    - Question: What is the point in the center of a black hole where mass is concentrated
+        called?
+      TrueAnswer: Singularity
+      FalseAnswer:
+      - Neutron Core
+      - Event Horizon
+      - Photon Belt
+      Explanation: A singularity is a point where density and gravity become infinite,
+        as predicted by the laws of general relativity.
+    - Question: What is the hypothetical border of a black hole beyond which time
+        and space cease to exist called?
+      TrueAnswer: Gravitational Singularity
+      FalseAnswer:
+      - Temporal Horizon
+      - Cosmic Boundary
+      - Eternal Abyss
+      Explanation: The gravitational singularity is a point of infinite density,
+        where the laws of physics as we know them cease to apply.
+    - Question: What effect do black holes have on the passage of time near their
+        event horizons?
+      TrueAnswer: Time Dilation
+      FalseAnswer:
+      - Quantum Entanglement
+      - Time Reversal
+      - Space Contraction
+      Explanation: Time dilation near a black hole occurs because the intense gravitational
+        field slows down the passage of time as experienced by an outside observer.
+    - Question: What is the proposed theory that black holes emit radiation and lose
+        mass over time called?
+      TrueAnswer: Hawking Radiation
+      FalseAnswer:
+      - Gravitational Lensing
+      - Quantum Tunneling
+      - Event Horizon Emission
+      Explanation: Hawking radiation is a process by which black holes can emit thermal
+        energy, causing them to gradually lose mass and potentially eventually evaporate.
+    - Question: What is the effect where objects appear stretched vertically and
+        compressed horizontally near a black hole called?
+      TrueAnswer: Spaghettification
+      FalseAnswer:
+      - Time Dilation
+      - Redshift
+      - Ether Drag
+      Explanation: Spaghettification results from the huge tidal forces near a black
+        hole, which cause objects to be stretched into long, thin shapes.
+    - Question: What is the maximum spherical radius around a non-rotating black
+        hole within which light can escape called?
+      TrueAnswer: Schwarzschild Radius
+      FalseAnswer:
+      - Einstein Radius
+      - Kerr Limit
+      - Oppenheimer-Phillips Bound
+      Explanation: The Schwarzschild radius defines the boundary within which the
+        escape velocity exceeds the speed of light, trapping all matter and preventing
+        light from escaping.
+    - Question: What is the critically unstable region surrounding a rotating black
+        hole just outside its event horizon called?
+      TrueAnswer: Ergosphere
+      FalseAnswer:
+      - Plasma Sheath
+      - Magnetic Umbra
+      - Quantum Aura
+      Explanation: The ergosphere is a region of spacetime where objects cannot remain
+        stationary but are forced to rotate in the same direction as the black hole's
+        spin.
+    - Question: What is the type of spacetime distortion that occurs near a rotating
+        black hole due to its spin called?
+      TrueAnswer: Frame Dragging
+      FalseAnswer:
+      - Warp Bubble
+      - Quantum Flux
+      - Dimensional Shear
+      Explanation: Frame dragging is the phenomenon where the rotation of a massive
+        object twists the fabric of spacetime, dragging it along with it as it rotates.
+    - Question: Which event marked the first direct detection of gravitational waves,
+        caused by the merger of two black holes?
+      TrueAnswer: GW150914
+      FalseAnswer:
+      - Alpha Centauri Burst
+      - Vega Signal
+      - Cygnus X-1 Flare
+      Explanation: GW150914 was a significant event observed by the LIGO observatory,
+        confirming the existence of gravitational waves and opening a new era of
+        gravitational wave astronomy.
+    - Question: What type of radiation did astronomers use to confirm the existence
+        of black holes in the center of galaxies?
+      TrueAnswer: X-Rays
+      FalseAnswer:
+      - Infrared
+      - Ultraviolet
+      - Gamma Rays
+      Explanation: X-rays are emitted from the accretion disks around black holes,
+        allowing astronomers to detect their presence and study their properties.
+    - Question: What is the term for the phenomenon where gravitational waves cause
+        the stretching and squeezing of space?
+      TrueAnswer: Gravitational Strain
+      FalseAnswer:
+      - Spacetime Spindle
+      - Relativistic Shear
+      - Quantum Distortion
+      Explanation: Gravitational strain is a measure of the distortion of spacetime
+        caused by passing gravitational waves, affecting the distances between test
+        masses in perpendicular directions.
+    - Question: What is the hypothetical particle associated with a black hole's
+        loss of mass due to Hawking radiation called?
+      TrueAnswer: Hawking Photon
+      FalseAnswer:
+      - Wheeler Boson
+      - Lorentz Higgs
+      - Schwarzschild Meson
+      Explanation: The concept of a Hawking photon refers to the virtual particles
+        near the event horizon, with one escaping as radiation while the other falls
+        into the black hole, causing mass loss.

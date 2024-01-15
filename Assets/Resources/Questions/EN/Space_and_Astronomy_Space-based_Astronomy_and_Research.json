@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Which space telescope launched in 1990?",
+            "TrueAnswer": "Hubble",
+            "FalseAnswer": [
+              "Spitzer",
+              "Chandra",
+              "Kepler"
+            ],
+            "Explanation": "The Hubble Space Telescope has provided some of the most detailed images of distant galaxies and nebulae."
+          },
+          {
+            "Question": "Who was the first woman to go into space?",
+            "TrueAnswer": "Tereshkova",
+            "FalseAnswer": [
+              "Ride",
+              "Collins",
+              "Jemison"
+            ],
+            "Explanation": "Valentina Tereshkova of the Soviet Union became the first woman to travel to space in 1963."
+          },
+          {
+            "Question": "What is the study of celestial bodies and phenomena?",
+            "TrueAnswer": "Astronomy",
+            "FalseAnswer": [
+              "Astrology",
+              "Meteorology",
+              "Botany"
+            ],
+            "Explanation": "Astronomy is the scientific study of celestial objects, such as stars, planets, comets, and galaxies, and their phenomena."
+          },
+          {
+            "Question": "Which agency manages the International Space Station?",
+            "TrueAnswer": "NASA",
+            "FalseAnswer": [
+              "ESA",
+              "Roscosmos",
+              "CNSA"
+            ],
+            "Explanation": "NASA, the United States' space agency, is responsible for the management of the International Space Station (ISS)."
+          },
+          {
+            "Question": "What is the closest star to Earth (other than the Sun)?",
+            "TrueAnswer": "Proxima Centauri",
+            "FalseAnswer": [
+              "Alpha Centauri A",
+              "Sirius",
+              "Betelgeuse"
+            ],
+            "Explanation": "Proxima Centauri is a red dwarf star located in the Alpha Centauri star system, approximately 4.24 light-years from Earth."
+          },
+          {
+            "Question": "Which NASA mission discovered evidence of water on Mars?",
+            "TrueAnswer": "Mars Reconnaissance Orbiter",
+            "FalseAnswer": [
+              "Curiosity",
+              "Opportunity",
+              "InSight"
+            ],
+            "Explanation": "The Mars Reconnaissance Orbiter has observed features on Mars that suggest the presence of water ice on the planet's surface."
+          },
+          {
+            "Question": "What type of telescope detects X-ray emissions from astronomical objects?",
+            "TrueAnswer": "Chandra",
+            "FalseAnswer": [
+              "Hubble",
+              "Spitzer",
+              "James Webb"
+            ],
+            "Explanation": "The Chandra X-ray Observatory is specially designed to detect X-ray emission from very hot regions of the Universe."
+          },
+          {
+            "Question": "What is the name of NASA's upcoming space telescope, set to launch in 2021?",
+            "TrueAnswer": "James Webb",
+            "FalseAnswer": [
+              "Hubble",
+              "Spitzer",
+              "Chandra"
+            ],
+            "Explanation": "The James Webb Space Telescope is planned to be the successor to the Hubble Space Telescope, with enhanced capabilities."
+          },
+          {
+            "Question": "How many Earth days does it take for Venus to orbit the Sun?",
+            "TrueAnswer": "225",
+            "FalseAnswer": [
+              "365",
+              "88",
+              "687"
+            ],
+            "Explanation": "Venus completes an orbit around the Sun in approximately 225 Earth days, moving in a retrograde rotation."
+          },
+          {
+            "Question": "What is the largest moon of Jupiter?",
+            "TrueAnswer": "Ganymede",
+            "FalseAnswer": [
+              "Europa",
+              "Io",
+              "Callisto"
+            ],
+            "Explanation": "Ganymede, with a diameter of about 5,268 kilometers, is the largest moon in the Solar System."
+          },
+          {
+            "Question": "Which planet has the tallest volcano in the Solar System?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Venus",
+              "Earth",
+              "Jupiter"
+            ],
+            "Explanation": "Olympus Mons, a shield volcano on Mars, is about 21.9 km (13.6 mi) high, making it the tallest volcano."
+          },
+          {
+            "Question": "Who proposed the heliocentric model of the Solar System?",
+            "TrueAnswer": "Copernicus",
+            "FalseAnswer": [
+              "Galileo",
+              "Kepler",
+              "Ptolemy"
+            ],
+            "Explanation": "Nicolaus Copernicus introduced the heliocentric model in his work 'De revolutionibus orbium coelestium' in 1543."
+          },
+          {
+            "Question": "What is the phenomenon where light is stretched by the expansion of the Universe?",
+            "TrueAnswer": "Redshift",
+            "FalseAnswer": [
+              "Blueshift",
+              "Whiteshift",
+              "Blackshift"
+            ],
+            "Explanation": "The redshift of light from distant galaxies is evidence for the expansion of the Universe, first observed by Edwin Hubble."
+          },
+          {
+            "Question": "Which constellation contains the North Star (Polaris)?",
+            "TrueAnswer": "Ursa Minor",
+            "FalseAnswer": [
+              "Orion",
+              "Cassiopeia",
+              "Leo"
+            ],
+            "Explanation": "Polaris, the North Star, is located at the end of the handle of the Little Dipper, which is part of Ursa Minor."
+          },
+          {
+            "Question": "What are the remains of a massive star that has exploded?",
+            "TrueAnswer": "Supernova",
+            "FalseAnswer": [
+              "Nebula",
+              "Quasar",
+              "Pulsar"
+            ],
+            "Explanation": "A supernova is a cataclysmic event that marks the violent death of a star and can briefly outshine an entire galaxy."
+          },
+          {
+            "Question": "What is the name of the first artificial Earth satellite?",
+            "TrueAnswer": "Sputnik 1",
+            "FalseAnswer": [
+              "Vostok 1",
+              "Explorer 1",
+              "Apollo 11"
+            ],
+            "Explanation": "Launched by the Soviet Union in 1957, Sputnik 1 initiated the age of space exploration and the space race."
+          },
+          {
+            "Question": "What event occurs when the Moon moves into the Earth's shadow?",
+            "TrueAnswer": "Lunar Eclipse",
+            "FalseAnswer": [
+              "Solar Eclipse",
+              "Transit",
+              "Occultation"
+            ],
+            "Explanation": "During a lunar eclipse, the Earth comes between the Sun and the Moon, casting its shadow on the lunar surface."
+          },
+          {
+            "Question": "Which spacecraft holds the record for the farthest image ever taken from Earth?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "New Horizons",
+              "Mariner 10",
+              "Cassini"
+            ],
+            "Explanation": "The 'Pale Blue Dot' photo taken by Voyager 1 from a distance of about 6 billion kilometers is the farthest image."
+          },
+          {
+            "Question": "What is the region in space with a gravitational field so intense that nothing can escape it?",
+            "TrueAnswer": "Black Hole",
+            "FalseAnswer": [
+              "Neutron Star",
+              "White Dwarf",
+              "Red Giant"
+            ],
+            "Explanation": "A black hole is formed from the remains of a massive star and has a gravitational pull strong enough to trap even light."
+          },
+          {
+            "Question": "What is the name of the first space telescope in orbit?",
+            "TrueAnswer": "Hubble",
+            "FalseAnswer": [
+              "Spitzer",
+              "Chandra",
+              "Kepler"
+            ],
+            "Explanation": "Launched in 1990, the Hubble Space Telescope provided breakthrough discoveries in astronomy and deep space imaging."
+          }
+        ]
+      }
+    }
+  ]
+}

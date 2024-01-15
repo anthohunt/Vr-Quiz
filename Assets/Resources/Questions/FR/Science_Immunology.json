@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelles cellules du système immunitaire sont responsables de la production d'anticorps?",
+            "TrueAnswer": "Cellules B",
+            "FalseAnswer": [
+              "Cellules T",
+              "Cellules tueuses naturelles",
+              "Macrophages"
+            ],
+            "Explanation": "Les cellules B, un type de globule blanc, sont responsables de la production d'anticorps pour neutraliser et éliminer les agents pathogènes."
+          },
+          {
+            "Question": "Quelle est la protéine à la surface d'un virus ou d'une bactérie qui déclenche une réponse immunitaire appelée?",
+            "TrueAnswer": "Antigène",
+            "FalseAnswer": [
+              "Anticorps",
+              "Agent pathogène",
+              "Enzyme"
+            ],
+            "Explanation": "Les antigènes sont des protéines spécifiques à la surface des agents pathogènes que le système immunitaire reconnaît comme étrangères, déclenchant une réponse immunitaire."
+          },
+          {
+            "Question": "Quel type d'immunité est acquis par la vaccination ou l'exposition à un agent pathogène?",
+            "TrueAnswer": "Immunité active",
+            "FalseAnswer": [
+              "Immunité passive",
+              "Immunité innée",
+              "Immunité adaptative"
+            ],
+            "Explanation": "L'immunité active est obtenue lorsque le corps produit sa propre réponse immunitaire, soit par la vaccination, soit par une exposition naturelle à un agent pathogène."
+          },
+          {
+            "Question": "Quel est le processus par lequel les globules blancs engloutissent et digèrent des particules étrangères?",
+            "TrueAnswer": "Phagocytose",
+            "FalseAnswer": [
+              "Endocytose",
+              "Exocytose",
+              "Pinocytose"
+            ],
+            "Explanation": "La phagocytose est le mécanisme par lequel les cellules immunitaires engloutissent et digèrent des particules étrangères, telles que des bactéries ou des cellules mortes."
+          },
+          {
+            "Question": "Quelle classe d'anticorps est la plus courante dans le flux sanguin?",
+            "TrueAnswer": "IgG",
+            "FalseAnswer": [
+              "IgA",
+              "IgM",
+              "IgE"
+            ],
+            "Explanation": "Les anticorps IgG sont le type le plus courant dans le flux sanguin et jouent un rôle clé dans la fourniture d'une immunité à long terme."
+          },
+          {
+            "Question": "Quelle est la principale fonction du complexe majeur d'histocompatibilité (CMH) dans le système immunitaire?",
+            "TrueAnswer": "Présenter des antigènes aux cellules T",
+            "FalseAnswer": [
+              "Produire des anticorps",
+              "Détruire les agents pathogènes",
+              "Activer les cellules B"
+            ],
+            "Explanation": "Les molécules du CMH présentent des antigènes aux cellules T, permettant au système immunitaire de reconnaître et de monter une réponse contre des agents pathogènes spécifiques."
+          },
+          {
+            "Question": "Quelles cellules immunitaires spécialisées libèrent de l'histamine lors d'une réponse allergique?",
+            "TrueAnswer": "Cellules mastocytaires",
+            "FalseAnswer": [
+              "Neutrophiles",
+              "Éosinophiles",
+              "Basophiles"
+            ],
+            "Explanation": "Les cellules mastocytaires libèrent de l'histamine, déclenchant les symptômes d'une réponse allergique, tels que des démangeaisons, un gonflement et une production de mucus."
+          },
+          {
+            "Question": "Quel type de cellules T coordonne la réponse immunitaire et active d'autres cellules immunitaires?",
+            "TrueAnswer": "Cellules T auxiliaires",
+            "FalseAnswer": [
+              "Cellules T tueuses",
+              "Cellules T de mémoire",
+              "Cellules T régulatrices"
+            ],
+            "Explanation": "Les cellules T auxiliaires jouent un rôle central dans la coordination et la régulation de la réponse immunitaire en activant d'autres cellules immunitaires lorsqu'un antigène est présent."
+          },
+          {
+            "Question": "Quelle est la fonction principale des cellules tueuses naturelles (NK) dans le système immunitaire?",
+            "TrueAnswer": "Détruire les cellules infectées par des virus et les cellules cancéreuses",
+            "FalseAnswer": [
+              "Produire des anticorps",
+              "Phagocytose de bactéries",
+              "Libérer de l'histamine"
+            ],
+            "Explanation": "Les cellules NK sont spécialisées dans la reconnaissance et l'élimination des cellules infectées par des virus et des cellules cancéreuses sans sensibilisation préalable."
+          },
+          {
+            "Question": "Quel immunoglobuline est le premier à être produit lors d'une réponse immunitaire initiale?",
+            "TrueAnswer": "IgM",
+            "FalseAnswer": [
+              "IgG",
+              "IgA",
+              "IgE"
+            ],
+            "Explanation": "Les anticorps IgM sont les premiers à être produits lors de la réponse immunitaire initiale à un agent pathogène infectieux."
+          }
+        ]
+      }
+    }
+  ]
+}

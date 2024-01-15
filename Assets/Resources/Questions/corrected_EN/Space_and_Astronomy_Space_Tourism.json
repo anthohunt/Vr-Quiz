@@ -1,0 +1,58 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "Which company plans to offer space tours in the near future?",
+          "TrueAnswer": "SpaceX",
+          "FalseAnswer": [
+            "Blue Origin",
+            "Virgin Galactic",
+            "NASA"
+          ],
+          "Explanation": "SpaceX plans to offer space tours for private individuals with its Starship spacecraft, potentially launching as early as 2023."
+        },
+        {
+          "Question": "What is the estimated cost of SpaceX's space tourism ticket?",
+          "TrueAnswer": "$55 million",
+          "FalseAnswer": [
+            "$10 million",
+            "$100 million",
+            "$200,000"
+          ],
+          "Explanation": "SpaceX's space tourism ticket is estimated to cost around $55 million per person for a trip around the Moon."
+        },
+        {
+          "Question": "Which celebrity has booked a seat on a SpaceX space tourism mission?",
+          "TrueAnswer": "Yusaku Maezawa",
+          "FalseAnswer": [
+            "Tom Cruise",
+            "Lady Gaga",
+            "Beyoncé"
+          ],
+          "Explanation": "Japanese billionaire Yusaku Maezawa has booked a seat on a SpaceX mission around the Moon, aiming to bring artists with him to inspire new works of art."
+        },
+        {
+          "Question": "What is the length of SpaceX's space tourism mission around the Moon?",
+          "TrueAnswer": "One week",
+          "FalseAnswer": [
+            "One day",
+            "Two weeks",
+            "One month"
+          ],
+          "Explanation": "SpaceX's space tourism mission around the Moon is expected to last about one week, including a loop around the Moon and return journey to Earth."
+        },
+        {
+          "Question": "Which space tourism company offers suborbital joyrides on a spaceplane?",
+          "TrueAnswer": "Virgin Galactic",
+          "FalseAnswer": [
+            "Blue Origin",
+            "Space Adventures",
+            "SpaceX"
+          ],
+          "Explanation": "Virgin Galactic offers suborbital space tourism flights on its spaceplane, providing passengers with a few minutes of weightlessness and panoramic views of the Earth."
+        }
+      ]
+    }
+  ]
+}

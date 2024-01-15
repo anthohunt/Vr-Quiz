@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6191649944739508633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2601155201433515936}
+  - component: {fileID: 8578695051309538803}
+  m_Layer: 0
+  m_Name: Pop Culture_Memes and Internet Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2601155201433515936
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6191649944739508633}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8578695051309538803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6191649944739508633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the popular internet meme featuring a Shiba Inu
+        dog?
+      TrueAnswer: Doge
+      FalseAnswer:
+      - Grumpy Cat
+      - Nyan Cat
+      - Keyboard Cat
+      Explanation: Doge is a popular internet meme featuring a Shiba Inu dog with
+        captions written in broken English.
+    - Question: Which internet meme became a symbol of the 2016 US presidential election?
+      TrueAnswer: Pepe the Frog
+      FalseAnswer:
+      - Harambe
+      - Salt Bae
+      - Distracted Boyfriend
+      Explanation: Pepe the Frog, originally a harmless meme, was co-opted by alt-right
+        groups during the 2016 US presidential election.
+    - Question: What is the name of the viral dance move popularized by the song
+        'Gangnam Style'?
+      TrueAnswer: The Horse Dance
+      FalseAnswer:
+      - The Floss
+      - The Dab
+      - The Macarena
+      Explanation: The Horse Dance, also known as the 'Gangnam Style' dance, involves
+        mimicking riding a horse.
+    - Question: Which internet meme features a woman yelling at a white cat sitting
+        at a dinner table?
+      TrueAnswer: Woman Yelling at a Cat
+      FalseAnswer:
+      - Distracted Boyfriend
+      - Crying Jordan
+      - Doge
+      Explanation: The 'Woman Yelling at a Cat' meme features a screenshot from a
+        reality TV show combined with a picture of a white cat.
+    - Question: What is the name of the internet meme that involves a stick figure
+        with a coffee cup?
+      TrueAnswer: This is Fine
+      FalseAnswer:
+      - Doge
+      - Pepe the Frog
+      - Salt Bae
+      Explanation: The 'This is Fine' meme depicts a stick figure sitting in a room
+        on fire, calmly sipping coffee.
+    - Question: Which internet meme features a GIF of a baby dancing to a catchy
+        tune?
+      TrueAnswer: Baby Shark
+      FalseAnswer:
+      - Rickrolling
+      - Distracted Boyfriend
+      - The Harlem Shake
+      Explanation: The 'Baby Shark' meme features a GIF of a baby dancing to the
+        popular children's song 'Baby Shark'.
+    - Question: What is the name of the internet meme that involves a person dramatically
+        falling to the ground?
+      TrueAnswer: Dramatic Chipmunk
+      FalseAnswer:
+      - Keyboard Cat
+      - Nyan Cat
+      - Salt Bae
+      Explanation: The 'Dramatic Chipmunk' meme features a clip of a chipmunk turning
+        its head dramatically.
+    - Question: Which internet meme features a GIF of a man sprinkling salt on a
+        piece of meat?
+      TrueAnswer: Salt Bae
+      FalseAnswer:
+      - Doge
+      - Pepe the Frog
+      - Distracted Boyfriend
+      Explanation: "The 'Salt Bae' meme features a GIF of a Turkish chef named Nusret
+        G\xF6k\xE7e sprinkling salt on a piece of meat."
+    - Question: What is the name of the internet meme that involves a person pretending
+        to be a statue?
+      TrueAnswer: Mannequin Challenge
+      FalseAnswer:
+      - The Floss
+      - The Dab
+      - The Macarena
+      Explanation: The 'Mannequin Challenge' meme involves a group of people freezing
+        in place like mannequins while a camera moves around them.
+    - Question: Which internet meme features a GIF of a person rolling their eyes?
+      TrueAnswer: Eye Roll
+      FalseAnswer:
+      - Crying Jordan
+      - Distracted Boyfriend
+      - Doge
+      Explanation: The 'Eye Roll' meme features a GIF of a person rolling their eyes
+        in response to something annoying or frustrating.
+    - Question: What is the name of the internet meme that involves a person dabbing?
+      TrueAnswer: The Dab
+      FalseAnswer:
+      - The Floss
+      - The Macarena
+      - The Horse Dance
+      Explanation: The 'Dab' meme involves a person tucking their head into the crook
+        of their arm while extending the other arm.
+    - Question: Which internet meme features a GIF of a person spinning a basketball
+        on their finger?
+      TrueAnswer: Spinning Basketball
+      FalseAnswer:
+      - Doge
+      - Pepe the Frog
+      - Salt Bae
+      Explanation: The 'Spinning Basketball' meme features a GIF of a person effortlessly
+        spinning a basketball on their finger.
+    - Question: What is the name of the internet meme that involves a person dancing
+        with exaggerated arm movements?
+      TrueAnswer: The Floss
+      FalseAnswer:
+      - The Dab
+      - The Macarena
+      - The Horse Dance
+      Explanation: The 'Floss' meme involves a person swinging their hips in one
+        direction while simultaneously swinging their arms in the opposite direction.
+    - Question: Which internet meme features a GIF of a person looking back at someone
+        while walking with their partner?
+      TrueAnswer: Distracted Boyfriend
+      FalseAnswer:
+      - Crying Jordan
+      - Keyboard Cat
+      - Doge
+      Explanation: The 'Distracted Boyfriend' meme features a stock photo of a man
+        looking back at another woman while his girlfriend looks on disapprovingly.
+    - Question: What is the name of the internet meme that involves a person crying
+        while wearing a Michael Jordan jersey?
+      TrueAnswer: Crying Jordan
+      FalseAnswer:
+      - Doge
+      - Pepe the Frog
+      - Salt Bae
+      Explanation: The 'Crying Jordan' meme involves a photo of Michael Jordan crying
+        during his Basketball Hall of Fame induction speech.
+    - Question: Which internet meme features a GIF of a cat playing a keyboard?
+      TrueAnswer: Keyboard Cat
+      FalseAnswer:
+      - Nyan Cat
+      - Doge
+      - Distracted Boyfriend
+      Explanation: The 'Keyboard Cat' meme features a GIF of a cat playing a keyboard,
+        often used to accompany fail videos.
+    - Question: What is the name of the internet meme that involves a person dancing
+        with exaggerated hip movements?
+      TrueAnswer: The Macarena
+      FalseAnswer:
+      - The Floss
+      - The Dab
+      - The Horse Dance
+      Explanation: The 'Macarena' meme involves a person performing the iconic dance
+        moves from the song 'Macarena'.
+    - Question: Which internet meme features a GIF of a person being surprised by
+        something?
+      TrueAnswer: Surprised Pikachu
+      FalseAnswer:
+      - Doge
+      - Pepe the Frog
+      - Distracted Boyfriend
+      Explanation: The 'Surprised Pikachu' meme features a GIF of Pikachu, a Pokemon
+        character, looking surprised.
+    - Question: What is the name of the internet meme that involves a person pretending
+        to ride an invisible horse?
+      TrueAnswer: Gangnam Style
+      FalseAnswer:
+      - The Floss
+      - The Dab
+      - The Macarena
+      Explanation: The 'Gangnam Style' meme involves a person mimicking riding an
+        invisible horse, inspired by the song 'Gangnam Style'.
+    - Question: Which internet meme features a GIF of a person dancing with wild
+        movements?
+      TrueAnswer: The Harlem Shake
+      FalseAnswer:
+      - Rickrolling
+      - Distracted Boyfriend
+      - Baby Shark
+      Explanation: The 'Harlem Shake' meme involves a group of people dancing wildly
+        to the song 'Harlem Shake' by Baauer.

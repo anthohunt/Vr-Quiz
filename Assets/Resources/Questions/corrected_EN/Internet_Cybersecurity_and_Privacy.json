@@ -1,0 +1,198 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the purpose of a VPN (Virtual Private Network)?",
+          "TrueAnswer": "Protect privacy",
+          "FalseAnswer": [
+            "Increase internet speed",
+            "Block website access",
+            "Encrypt files"
+          ],
+          "Explanation": "A VPN allows users to securely access a private network and share data remotely through public networks while maintaining privacy and security."
+        },
+        {
+          "Question": "Which of the following is a common form of phishing?",
+          "TrueAnswer": "Email scams",
+          "FalseAnswer": [
+            "SMS scams",
+            "In-person scams",
+            "Social media scams"
+          ],
+          "Explanation": "Email scams (phishing) are a fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity in electronic communication."
+        },
+        {
+          "Question": "What does HTTPS stand for in a website's URL?",
+          "TrueAnswer": "Hypertext Transfer Protocol Secure",
+          "FalseAnswer": [
+            "Hypertext Transmission Protocol",
+            "High Efficiency Transfer Protocol",
+            "Hyperlink Transport Protocol"
+          ],
+          "Explanation": "HTTPS is a protocol for secure communication over a computer network and is widely used on the internet, providing authentication and data integrity."
+        },
+        {
+          "Question": "What is the purpose of two-factor authentication (2FA)?",
+          "TrueAnswer": "Enhance security",
+          "FalseAnswer": [
+            "Hide personal information",
+            "Increase internet speed",
+            "Encrypt files"
+          ],
+          "Explanation": "2FA adds an extra layer of security by requiring a second form of authentication, such as a code sent to a mobile device, in addition to a password."
+        },
+        {
+          "Question": "Which of the following is NOT considered personally identifiable information (PII)?",
+          "TrueAnswer": "Favorite color",
+          "FalseAnswer": [
+            "Social Security number",
+            "Birthdate",
+            "Home address"
+          ],
+          "Explanation": "While preferences like favorite color may be personal, they are not typically considered as personally identifiable information (PII) under privacy laws."
+        },
+        {
+          "Question": "What is the main purpose of a firewall in network security?",
+          "TrueAnswer": "Monitor and control traffic",
+          "FalseAnswer": [
+            "Increase internet speed",
+            "Encrypt files",
+            "Block unauthorized websites"
+          ],
+          "Explanation": "Firewalls act as a barrier between a trusted internal network and an untrusted external network, monitoring and controlling incoming and outgoing network traffic based on predetermined security rules."
+        },
+        {
+          "Question": "What is the primary goal of cyber attackers when conducting a DDoS (Distributed Denial of Service) attack?",
+          "TrueAnswer": "Disrupting services",
+          "FalseAnswer": [
+            "Gaining access to data",
+            "Slowing internet speed",
+            "Encrypting files"
+          ],
+          "Explanation": "DDoS attacks attempt to overwhelm a targeted system, service, or network by flooding it with a flood of internet traffic, causing disruption or even shutdown of services."
+        },
+        {
+          "Question": "Which security measure involves masking or hiding sensitive data when transmitted over a network?",
+          "TrueAnswer": "Data encryption",
+          "FalseAnswer": [
+            "Data compression",
+            "Data anonymization",
+            "Data obfuscation"
+          ],
+          "Explanation": "Data encryption involves converting the original representation of data into an unreadable format to prevent unauthorized access, ensuring secure transmission over a network."
+        },
+        {
+          "Question": "What does the term 'pharming' refer to in cyber security?",
+          "TrueAnswer": "Redirecting web traffic",
+          "FalseAnswer": [
+            "Stealing personal emails",
+            "Overloading servers",
+            "Modifying software code"
+          ],
+          "Explanation": "Pharming is a cyber attack aimed at redirecting a website's traffic to another, bogus website, often with the intent to gather user information for malicious purposes."
+        },
+        {
+          "Question": "What is a common method used to secure online accounts from unauthorized access?",
+          "TrueAnswer": "Strong passwords",
+          "FalseAnswer": [
+            "Publishing login credentials",
+            "Using public Wi-Fi",
+            "Sharing account details"
+          ],
+          "Explanation": "Using strong, unique, and complex passwords, combined with two-factor authentication, is a common and effective measure to secure online accounts from unauthorized access."
+        },
+        {
+          "Question": "Which type of malware is designed to block access to a computer system until a sum of money is paid?",
+          "TrueAnswer": "Ransomware",
+          "FalseAnswer": [
+            "Adware",
+            "Spyware",
+            "Trojan horse"
+          ],
+          "Explanation": "Ransomware is a type of malicious software that encrypts a user's data and demands payment for its release, often causing significant disruption and financial loss to individuals and organizations."
+        },
+        {
+          "Question": "What is a common technique to protect sensitive data in an email communication?",
+          "TrueAnswer": "Encryption",
+          "FalseAnswer": [
+            "Open sharing",
+            "Digital signatures",
+            "Attachment password protection"
+          ],
+          "Explanation": "Encryption allows for secure transmission of sensitive data in email communications, making the content unreadable to unauthorized parties without the decryption key."
+        },
+        {
+          "Question": "What role does a security patch play in cybersecurity?",
+          "TrueAnswer": "Fixing vulnerabilities",
+          "FalseAnswer": [
+            "Enhancing internet speed",
+            "Adding new features",
+            "Improving user interface"
+          ],
+          "Explanation": "Security patches are software updates designed to fix vulnerabilities in computer programs or systems, addressing potential exploits that could be used by cyber attackers."
+        },
+        {
+          "Question": "Which security measure involves the use of biometric data for authentication?",
+          "TrueAnswer": "Biometric identification",
+          "FalseAnswer": [
+            "Password rotation",
+            "Email verification",
+            "Social media profiling"
+          ],
+          "Explanation": "Biometric identification uses unique physical or behavioral traits, such as fingerprints or facial recognition, for user authentication, enhancing security by minimizing reliance on easily replicable credentials."
+        },
+        {
+          "Question": "What is the purpose of a CAPTCHA in online security?",
+          "TrueAnswer": "Preventing automated bots",
+          "FalseAnswer": [
+            "Protecting personal data",
+            "Verifying email addresses",
+            "Filtering offensive content"
+          ],
+          "Explanation": "CAPTCHA is designed to distinguish between human and automated computer systems, reducing the risk of automated bots gaining unauthorized access or carrying out malicious activities."
+        },
+        {
+          "Question": "Which type of cyber attack involves intercepting and altering communication between two parties without their knowledge?",
+          "TrueAnswer": "Man-in-the-middle",
+          "FalseAnswer": [
+            "Distributed Denial of Service (DDoS)",
+            "Phishing",
+            "Ransomware"
+          ],
+          "Explanation": "A man-in-the-middle attack is when a cyber attacker secretly intercepts and possibly alters communication between two parties to eavesdrop, steal information, or impersonate one of the communicators."
+        },
+        {
+          "Question": "What type of data is usually not encrypted by default in messaging applications?",
+          "TrueAnswer": "Metadata",
+          "FalseAnswer": [
+            "Text content",
+            "Media attachments",
+            "User contact information"
+          ],
+          "Explanation": "While message text content and media attachments are often encrypted, metadata, such as sender and recipient information, timestamps, and routing details, may not be encrypted by default."
+        },
+        {
+          "Question": "What does the term 'white hat' refer to in the context of cybersecurity?",
+          "TrueAnswer": "Ethical hacker",
+          "FalseAnswer": [
+            "Malicious software",
+            "Internship program",
+            "Security breach investigation"
+          ],
+          "Explanation": "White hat refers to ethical hackers who use their skills to identify security vulnerabilities, perform penetration testing, and improve cybersecurity defenses, often employed to protect organizations from cyber threats."
+        },
+        {
+          "Question": "What is a common risk associated with using public Wi-Fi networks without proper security measures?",
+          "TrueAnswer": "Data interception",
+          "FalseAnswer": [
+            "Enhanced privacy",
+            "Reduced internet speed",
+            "Automatic data backup"
+          ],
+          "Explanation": "Public Wi-Fi networks lack security measures, making users vulnerable to data interception and unauthorized access by malicious actors on the same network, potentially compromising sensitive information."
+        }
+      ]
+    }
+  ]
+}

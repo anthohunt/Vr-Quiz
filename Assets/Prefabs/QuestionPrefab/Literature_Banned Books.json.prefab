@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &36922282921995920
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6532275033984079042}
+  - component: {fileID: 3942965761740421649}
+  m_Layer: 0
+  m_Name: Literature_Banned Books.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6532275033984079042
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 36922282921995920}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3942965761740421649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 36922282921995920}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which famous novel was banned in the United States for its explicit
+        content?
+      TrueAnswer: Lady Chatterley's Lover
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - The Catcher in the Rye
+      - 1984
+      Explanation: Lady Chatterley's Lover by D.H. Lawrence was banned in the United
+        States for its explicit sexual content.
+    - Question: Which classic novel was banned in several countries for its criticism
+        of communism?
+      TrueAnswer: Animal Farm
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Great Gatsby
+      Explanation: Animal Farm by George Orwell was banned in several countries for
+        its criticism of communism and totalitarianism.
+    - Question: Which controversial book was banned in many schools for its depiction
+        of racism?
+      TrueAnswer: To Kill a Mockingbird
+      FalseAnswer:
+      - The Lord of the Rings
+      - Harry Potter and the Sorcerer's Stone
+      - The Hunger Games
+      Explanation: To Kill a Mockingbird by Harper Lee was banned in many schools
+        for its depiction of racism and racial slurs.
+    - Question: Which dystopian novel was banned in some countries for its portrayal
+        of a totalitarian regime?
+      TrueAnswer: 1984
+      FalseAnswer:
+      - The Hobbit
+      - The Chronicles of Narnia
+      - Brave New World
+      Explanation: 1984 by George Orwell was banned in some countries for its portrayal
+        of a totalitarian regime and thought control.
+    - Question: Which controversial book was banned in the United States for its
+        explicit language and sexual content?
+      TrueAnswer: Ulysses
+      FalseAnswer:
+      - The Great Gatsby
+      - Pride and Prejudice
+      - Moby-Dick
+      Explanation: Ulysses by James Joyce was banned in the United States for its
+        explicit language and sexual content.
+    - Question: Which novel was banned in the United States for its portrayal of
+        drug use and sexual content?
+      TrueAnswer: Naked Lunch
+      FalseAnswer:
+      - The Catcher in the Rye
+      - To Kill a Mockingbird
+      - 1984
+      Explanation: Naked Lunch by William S. Burroughs was banned in the United States
+        for its portrayal of drug use and sexual content.
+    - Question: Which controversial book was banned in many countries for its depiction
+        of violence and sexual content?
+      TrueAnswer: Lolita
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Great Gatsby
+      Explanation: Lolita by Vladimir Nabokov was banned in many countries for its
+        depiction of pedophilia, violence, and sexual content.
+    - Question: Which classic novel was banned in the United States for its explicit
+        language and sexual content?
+      TrueAnswer: The Catcher in the Rye
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - 1984
+      - Pride and Prejudice
+      Explanation: The Catcher in the Rye by J.D. Salinger was banned in the United
+        States for its explicit language and sexual content.
+    - Question: Which controversial book was banned in many schools for its depiction
+        of witchcraft and wizardry?
+      TrueAnswer: Harry Potter and the Sorcerer's Stone
+      FalseAnswer:
+      - The Lord of the Rings
+      - To Kill a Mockingbird
+      - The Hunger Games
+      Explanation: Harry Potter and the Sorcerer's Stone by J.K. Rowling was banned
+        in many schools for its depiction of witchcraft and wizardry.
+    - Question: Which novel was banned in several countries for its portrayal of
+        a dystopian society?
+      TrueAnswer: Brave New World
+      FalseAnswer:
+      - The Hobbit
+      - The Chronicles of Narnia
+      - 1984
+      Explanation: Brave New World by Aldous Huxley was banned in several countries
+        for its portrayal of a dystopian society and promiscuity.
+    - Question: Which controversial book was banned in many schools for its depiction
+        of violence and racism?
+      TrueAnswer: The Adventures of Huckleberry Finn
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Great Gatsby
+      Explanation: The Adventures of Huckleberry Finn by Mark Twain was banned in
+        many schools for its depiction of violence and racism.
+    - Question: Which classic novel was banned in the United States for its explicit
+        sexual content?
+      TrueAnswer: Tropic of Cancer
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - The Catcher in the Rye
+      - 1984
+      Explanation: Tropic of Cancer by Henry Miller was banned in the United States
+        for its explicit sexual content.
+    - Question: Which controversial book was banned in many countries for its depiction
+        of political corruption?
+      TrueAnswer: The Jungle
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Great Gatsby
+      Explanation: The Jungle by Upton Sinclair was banned in many countries for
+        its depiction of political corruption and unsanitary conditions in the meatpacking
+        industry.
+    - Question: Which novel was banned in the United States for its portrayal of
+        drug addiction and sexual content?
+      TrueAnswer: Fear and Loathing in Las Vegas
+      FalseAnswer:
+      - The Catcher in the Rye
+      - To Kill a Mockingbird
+      - 1984
+      Explanation: Fear and Loathing in Las Vegas by Hunter S. Thompson was banned
+        in the United States for its portrayal of drug addiction and sexual content.
+    - Question: Which controversial book was banned in many schools for its depiction
+        of teenage rebellion?
+      TrueAnswer: The Outsiders
+      FalseAnswer:
+      - The Lord of the Rings
+      - To Kill a Mockingbird
+      - The Hunger Games
+      Explanation: The Outsiders by S.E. Hinton was banned in many schools for its
+        depiction of teenage rebellion, gang violence, and underage smoking and drinking.
+    - Question: Which classic novel was banned in several countries for its criticism
+        of religion and society?
+      TrueAnswer: The Satanic Verses
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Great Gatsby
+      Explanation: The Satanic Verses by Salman Rushdie was banned in several countries
+        for its criticism of religion and society, particularly Islam.
+    - Question: Which controversial book was banned in many schools for its depiction
+        of suicide and mental illness?
+      TrueAnswer: Thirteen Reasons Why
+      FalseAnswer:
+      - Pride and Prejudice
+      - Moby-Dick
+      - The Great Gatsby
+      Explanation: Thirteen Reasons Why by Jay Asher was banned in many schools for
+        its depiction of suicide and mental illness, as well as its explicit language
+        and sexual content.
+    - Question: Which novel was banned in several countries for its portrayal of
+        a totalitarian regime and censorship?
+      TrueAnswer: Fahrenheit 451
+      FalseAnswer:
+      - The Hobbit
+      - The Chronicles of Narnia
+      - 1984
+      Explanation: Fahrenheit 451 by Ray Bradbury was banned in several countries
+        for its portrayal of a totalitarian regime and censorship of books.
+    - Question: Which controversial book was banned in many schools for its depiction
+        of drug use and rebellion?
+      TrueAnswer: Go Ask Alice
+      FalseAnswer:
+      - The Lord of the Rings
+      - To Kill a Mockingbird
+      - The Hunger Games
+      Explanation: Go Ask Alice by Anonymous was banned in many schools for its depiction
+        of drug use, sexual content, and rebellion against authority.
+    - Question: Which classic novel was banned in the United States for its explicit
+        sexual content?
+      TrueAnswer: Lolita
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - The Catcher in the Rye
+      - 1984
+      Explanation: Lolita by Vladimir Nabokov was banned in the United States for
+        its explicit sexual content and controversial subject matter.

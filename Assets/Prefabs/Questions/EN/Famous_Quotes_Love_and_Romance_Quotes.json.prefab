@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7499573500569007293
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4207947446387811544}
+  - component: {fileID: 1270779623203116288}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Love_and_Romance_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4207947446387811544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7499573500569007293}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1270779623203116288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7499573500569007293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The best thing to hold onto in life is each other'?
+      TrueAnswer: Audrey Hepburn
+      FalseAnswer:
+      - Marilyn Monroe
+      - Elizabeth Taylor
+      - Grace Kelly
+      Explanation: Audrey Hepburn, the renowned actress, and humanitarian delivered
+        this timeless quote, emphasizing the value of love and relationships.
+    - Question: Which famous playwright wrote, 'The course of true love never did
+        run smooth'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - Tennessee Williams
+      - George Bernard Shaw
+      Explanation: This line is from Shakespeare's comedic play 'A Midsummer Night's
+        Dream,' exploring the complexities of love.
+    - Question: Who said, 'Love yourself first and everything else falls into line'?
+      TrueAnswer: Lucille Ball
+      FalseAnswer:
+      - Audrey Hepburn
+      - Marilyn Monroe
+      - Elizabeth Taylor
+      Explanation: Lucille Ball, a pioneering actress and comedian, spoke these empowering
+        words about self-love and its impact on life.
+    - Question: Which romantic poet penned the line, 'I have waited for this opportunity
+        for more than 40 years to arrive'?
+      TrueAnswer: John Keats
+      FalseAnswer:
+      - Percy Bysshe Shelley
+      - William Wordsworth
+      - Lord Byron
+      Explanation: This quote stems from John Keats' letter to Fanny Brawne, expressing
+        his enduring affection and longing.
+    - Question: Who stated, 'The best and most beautiful things in the world cannot
+        be seen or even touched - they must be felt with the heart'?
+      TrueAnswer: Helen Keller
+      FalseAnswer:
+      - Mother Teresa
+      - Princess Diana
+      - Eleanor Roosevelt
+      Explanation: Helen Keller, a symbol of determination, communicated this profound
+        sentiment, underscoring the intangible nature of genuine beauty and love.
+    - Question: Which famous poet advocated, 'If you have a heart that has never
+        been touched with love, then you have never known what it is to live'?
+      TrueAnswer: Langston Hughes
+      FalseAnswer:
+      - Maya Angelou
+      - Emily Dickinson
+      - Robert Frost
+      Explanation: Langston Hughes, a celebrated figure of the Harlem Renaissance,
+        highlighted the transformative power of love on one's existence.
+    - Question: Who claimed, 'The greatest happiness of life is the conviction that
+        we are loved - loved for ourselves, or rather, loved in spite of ourselves'?
+      TrueAnswer: Victor Hugo
+      FalseAnswer:
+      - Leo Tolstoy
+      - Fyodor Dostoevsky
+      - Charles Dickens
+      Explanation: "Victor Hugo, eminent author of 'Les Mis\xE9rables,' articulated
+        this poignant perception, focusing on the profound impact of unconditional
+        love on one's well-being."
+    - Question: Which iconic actress remarked, 'In real love you want the other person's
+        good. In romantic love, you want the other person'?
+      TrueAnswer: Margaret Anderson
+      FalseAnswer:
+      - Greta Garbo
+      - Marlene Dietrich
+      - Mae West
+      Explanation: Margaret Anderson, an influential figure in 20th-century literature,
+        depicted the distinction between altruistic love and possessive romantic
+        infatuation in this statement.
+    - Question: Who wrote, 'Love is like the wind, you can't see it but you can feel
+        it'?
+      TrueAnswer: Nicholas Sparks
+      FalseAnswer:
+      - John Green
+      - Jodi Picoult
+      - Jojo Moyes
+      Explanation: Nicholas Sparks, the renowned author of romantic novels, communicated
+        this evocative analogy, representing love's intangible yet powerful nature.
+    - Question: Which philosopher asserted, 'The goal of life is living in agreement
+        with nature'?
+      TrueAnswer: Zeno of Citium
+      FalseAnswer:
+      - Aristotle
+      - Socrates
+      - Plato
+      Explanation: Zeno of Citium, the founder of Stoicism, advocated for aligning
+        with nature's will to attain inner peace and tranquility.
+    - Question: Who stated, 'A simple 'I love you' means more than money'?
+      TrueAnswer: Frank Sinatra
+      FalseAnswer:
+      - Elvis Presley
+      - Bing Crosby
+      - Nat King Cole
+      Explanation: Frank Sinatra, the legendary singer and actor, emphasized the
+        profound emotional significance of expressing love over material wealth.
+    - Question: Which renowned novelist professed, 'You don't love someone for their
+        looks, or their clothes, or for their fancy car, but because they sing a
+        song only you can hear'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Jane Austen
+      - F. Scott Fitzgerald
+      - "Charlotte Bront\xEB"
+      Explanation: Oscar Wilde, the flamboyant Irish writer, artistically depicted
+        the depth of intimate connection and understanding in romantic relationships
+        with this metaphorical statement.
+    - Question: Who proclaimed, 'The only thing we never get enough of is love; and
+        the only thing we never give enough of is love'?
+      TrueAnswer: Henry Miller
+      FalseAnswer:
+      - Ernest Hemingway
+      - F. Scott Fitzgerald
+      - Jack Kerouac
+      Explanation: Henry Miller, a provocative and influential writer, conveyed the
+        perpetual yearning for and scarcity of love in human experience in this introspective
+        observation.
+    - Question: Which iconic actress and singer emphasized, 'Love is a promise, love
+        is a souvenir, once given never forgotten, never let it disappear'?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - Elvis Presley
+      - Frank Sinatra
+      - Nat King Cole
+      Explanation: John Lennon, the visionary musician and activist, reflected on
+        love's enduring nature and its lasting impact on individuals in this profound
+        statement.
+    - Question: Who articulated the thought, 'Romance is the glamour which turns
+        the dust of everyday life into a golden haze'?
+      TrueAnswer: Elinor Glyn
+      FalseAnswer:
+      - Edith Wharton
+      - Agatha Christie
+      - Virginia Woolf
+      Explanation: Elinor Glyn, a prominent British romance novelist, metaphorically
+        celebrated romance as an embellishing force that elevates ordinary existence
+        into something extraordinary.
+    - Question: Which writer expressed, 'Love is an endless act of forgiveness. Forgiveness
+        is the economy of the heart. Love and forgiveness are indivisible'?
+      TrueAnswer: Fulton J. Sheen
+      FalseAnswer:
+      - C. S. Lewis
+      - Leo Buscaglia
+      - Martin Luther King Jr.
+      Explanation: Fulton J. Sheen, an influential Catholic bishop, poignantly interconnected
+        love and forgiveness, illustrating the reciprocally transformative nature
+        of both sentiments.
+    - Question: Who famously said, 'I have become my own version of an optimist.
+        If I can't make it through one door, I'll go through another door - or I'll
+        make a door. Something terrific will come no matter how dark the present'?
+      TrueAnswer: Rabindranath Tagore
+      FalseAnswer:
+      - Khalil Gibran
+      - Pablo Neruda
+      - Rumi
+      Explanation: Rabindranath Tagore, the Nobel Prize-winning poet, artistically
+        conveyed his resilient and hopeful outlook on life, encapsulating the essence
+        of optimism and perseverance in love.
+    - Question: Which Nobel Prize-winning author wrote, 'One word frees us of all
+        the weight and pain in life. That word is love'?
+      TrueAnswer: Sophocles
+      FalseAnswer:
+      - Homer
+      - Plato
+      - Euripides
+      Explanation: Sophocles, the ancient Greek tragedian, distilled the liberating
+        and transcendent power of love in this timeless aphorism, accentuating its
+        transformative effect on human existence.
+    - Question: Who philosophically suggested, 'We come to love not by finding a
+        perfect person, but by learning to see an imperfect person perfectly'?
+      TrueAnswer: Samuel Richardson
+      FalseAnswer:
+      - Francois de La Rochefoucauld
+      - Jean-Jacques Rousseau
+      - Voltaire
+      Explanation: Samuel Richardson, the pioneering novelist, encapsulated the profound
+        nature of love, rooted in acceptance and appreciation of imperfections, through
+        this insightful statement.
+    - Question: Which celebrated feminist author asserted, 'Love makes your soul
+        crawl out from its hiding place'?
+      TrueAnswer: Zora Neale Hurston
+      FalseAnswer:
+      - Virginia Woolf
+      - Sylvia Plath
+      - Toni Morrison
+      Explanation: Zora Neale Hurston, a significant figure of the Harlem Renaissance,
+        used vivid imagery to portray love's transformative and liberating influence
+        on the human spirit in this statement.

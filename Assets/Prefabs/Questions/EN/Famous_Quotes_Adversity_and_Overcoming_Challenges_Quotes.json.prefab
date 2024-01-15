@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1993236013270034646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7440324992215161130}
+  - component: {fileID: 4478650257327733988}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Adversity_and_Overcoming_Challenges_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7440324992215161130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1993236013270034646}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4478650257327733988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1993236013270034646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, the co-founder of Apple Inc., emphasized the importance
+        of passion in achieving excellence in one's work.
+    - Question: According to Nelson Mandela, 'The greatest glory in living lies not
+        in never falling, but in _____ every time.'
+      TrueAnswer: rising
+      FalseAnswer:
+      - striving
+      - succeeding
+      - overcoming
+      Explanation: Nelson Mandela's quote inspires resilience by highlighting that
+        true greatness comes from overcoming challenges and rising after each fall.
+    - Question: Who said, 'It does not matter how slowly you go as long as you do
+        not stop'?
+      TrueAnswer: Confucius
+      FalseAnswer:
+      - Buddha
+      - Socrates
+      - Plato
+      Explanation: This quote by Confucius emphasizes the significance of perseverance
+        and continuity in overcoming obstacles and achieving success.
+    - Question: What did Winston Churchill famously say in the context of adversity?
+      TrueAnswer: If you're going through hell, keep going
+      FalseAnswer:
+      - 'Success is not final, failure is not fatal: It is the courage to continue
+        that counts'
+      - Courage is resistance to fear, mastery of fear, not absence of fear
+      - A problem is a chance for you to do your best
+      Explanation: Winston Churchill's quote cleverly encourages individuals to press
+        on and endure regardless of difficult circumstances, embodying the spirit
+        of resilience.
+    - Question: Which renowned author said, 'The only way to do great work is to
+        love what you do'?
+      TrueAnswer: J.K. Rowling
+      FalseAnswer:
+      - Stephen King
+      - George R.R. Martin
+      - J.R.R. Tolkien
+      Explanation: J.K. Rowling, the creator of the Harry Potter series, advocated
+        the importance of passion and dedication in achieving success and fulfillment.
+    - Question: According to Maya Angelou, 'You may encounter many defeats, but you
+        must not _____ yourself to be defeated.'
+      TrueAnswer: allow
+      FalseAnswer:
+      - accept
+      - believe
+      - surrender
+      Explanation: Maya Angelou's quote emphasizes the resilience to continually
+        confront challenges without succumbing to them, promoting an empowered mindset.
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Stephen Hawking
+      - Isaac Newton
+      - Nikola Tesla
+      Explanation: Albert Einstein's famous quote underlines the significance of
+        passion and dedication in achieving remarkable accomplishments in one's pursuits.
+    - Question: According to Helen Keller, 'Character cannot be developed in ease
+        and _____.'
+      TrueAnswer: quiet
+      FalseAnswer:
+      - comfort
+      - certainty
+      - contentment
+      Explanation: Helen Keller's quote conveys that true character is forged through
+        confronting challenges and adversities, not in moments of tranquility.
+    - Question: '''In the middle of difficulty lies _____.'' - Albert Einstein'
+      TrueAnswer: opportunity
+      FalseAnswer:
+      - resilience
+      - perseverance
+      - success
+      Explanation: Albert Einstein's quote encapsulates the notion that challenges
+        present opportunities for growth and advancement, urging a positive perspective
+        towards adversity.
+    - Question: Who said, 'It always seems impossible until _____'?
+      TrueAnswer: it's done
+      FalseAnswer:
+      - you try
+      - it's achieved
+      - you believe
+      Explanation: Nelson Mandela's quote inspires determination by highlighting
+        that what may appear insurmountable can be conquered through action and persistence.
+    - Question: According to Walt Disney, 'All our dreams can come true, if we have
+        the _____ to pursue them.'
+      TrueAnswer: courage
+      FalseAnswer:
+      - faith
+      - vision
+      - commitment
+      Explanation: Walt Disney's quote emphasizes the essential role of courage in
+        actualizing aspirations and surmounting the obstacles encountered along the
+        way to success.
+    - Question: Who said, 'The greatest glory in living lies not in never falling,
+        but in _____ every time.'?
+      TrueAnswer: rising
+      FalseAnswer:
+      - adapting
+      - thriving
+      - succeeding
+      Explanation: Nelson Mandela's quote imparts the idea that resilience and growth
+        stem from overcoming challenges and persistently rising after setbacks.
+    - Question: What did Maya Angelou assert about adversity? 'You may encounter
+        many defeats, but you must not allow yourself to be _____.'
+      TrueAnswer: defeated
+      FalseAnswer:
+      - discouraged
+      - deterred
+      - overwhelmed
+      Explanation: Maya Angelou's quote highlights the importance of refusing to
+        succumb to setbacks, advocating an unwavering determination to surmount adversities.
+    - Question: According to Confucius, 'Our greatest _____ is not in never falling,
+        but in rising every time we fall.'
+      TrueAnswer: glory
+      FalseAnswer:
+      - strength
+      - power
+      - success
+      Explanation: Confucius' quote emphasizes that genuine accomplishment resides
+        in the resilience to rise after adversity, marking one's journey with true
+        greatness.
+    - Question: '''The only way to do great work is to love what you do.'' Who spoke
+        these inspirational words?'
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Elon Musk
+      - Mark Zuckerberg
+      - Bill Gates
+      Explanation: Steve Jobs highlighted the importance of passion in achieving
+        remarkable work, inspiring dedication and commitment to one's endeavors.
+    - Question: Who said, 'No matter how difficult life gets, you should not give
+        up'?
+      TrueAnswer: "Beyonc\xE9"
+      FalseAnswer:
+      - Rihanna
+      - Adele
+      - Lady Gaga
+      Explanation: "Beyonc\xE9 emphasized resilience and perseverance, promoting
+        the determination to overcome challenges and adversities encountered in life."
+    - Question: According to Napoleon Hill, 'Strength and growth come only through
+        continuous _____ and struggle.'
+      TrueAnswer: effort
+      FalseAnswer:
+      - resilience
+      - optimism
+      - perseverance
+      Explanation: Napoleon Hill's quote underscores the necessity of sustained effort
+        and overcoming obstacles as the means to achieve strength and progress.
+    - Question: Who said, 'You never know how strong you are until being strong is
+        the only choice you have'?
+      TrueAnswer: Bob Marley
+      FalseAnswer:
+      - John Lennon
+      - Michael Jackson
+      - Elvis Presley
+      Explanation: Bob Marley's quote emphasizes the revelation of strength in challenging
+        times, inspiring individuals to recognize their resilience amid adversity.
+    - Question: According to Franklin D. Roosevelt, 'A smooth sea never made a skilled
+        _____.'
+      TrueAnswer: sailor
+      FalseAnswer:
+      - navigator
+      - captain
+      - swimmer
+      Explanation: FDR's quote emphasizes that facing difficult and turbulent times
+        is essential for personal growth and the acquisition of skills and resilience.
+    - Question: Who said, 'Difficulties strengthen the mind, as labor does the body'?
+      TrueAnswer: Seneca
+      FalseAnswer:
+      - Aristotle
+      - Plato
+      - Socrates
+      Explanation: Seneca's quote draws a parallel between the mental fortitude gained
+        from overcoming difficulties and the physical strength obtained through labor,
+        promoting resilience and perseverance.

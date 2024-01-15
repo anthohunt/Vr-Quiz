@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1126805478046439588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2590749472301946084}
+  - component: {fileID: 4044049385450856418}
+  m_Layer: 0
+  m_Name: Music_The Power of Lyrics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2590749472301946084
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126805478046439588}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4044049385450856418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126805478046439588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the song 'Bohemian Rhapsody'?
+      TrueAnswer: Freddie Mercury
+      FalseAnswer:
+      - Elton John
+      - David Bowie
+      - Paul McCartney
+      Explanation: Freddie Mercury, the lead vocalist of Queen, wrote and composed
+        the iconic song 'Bohemian Rhapsody'.
+    - Question: Which song contains the lyrics 'I will always love you'?
+      TrueAnswer: I Will Always Love You
+      FalseAnswer:
+      - My Heart Will Go On
+      - Someone Like You
+      - Hello
+      Explanation: The song 'I Will Always Love You' famously sung by Whitney Houston,
+        features the memorable lyrics 'I will always love you'.
+    - Question: Who sang the lyrics 'Imagine all the people'?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - Bob Dylan
+      - Michael Jackson
+      - Elvis Presley
+      Explanation: John Lennon, the former member of The Beatles, sang the lyrics
+        'Imagine all the people' in his iconic song 'Imagine'.
+    - Question: Which song includes the lyrics 'I'm a survivor, I'm not gonna give
+        up'?
+      TrueAnswer: Survivor
+      FalseAnswer:
+      - Fight Song
+      - Stronger
+      - Roar
+      Explanation: The song 'Survivor' by Destiny's Child features the empowering
+        lyrics 'I'm a survivor, I'm not gonna give up'.
+    - Question: Who wrote the lyrics 'Yesterday, all my troubles seemed so far away'?
+      TrueAnswer: Paul McCartney
+      FalseAnswer:
+      - John Lennon
+      - Bob Marley
+      - Stevie Wonder
+      Explanation: Paul McCartney, one of the members of The Beatles, wrote the lyrics
+        'Yesterday, all my troubles seemed so far away' in the song 'Yesterday'.
+    - Question: Which song contains the lyrics 'I wanna dance with somebody'?
+      TrueAnswer: I Wanna Dance with Somebody
+      FalseAnswer:
+      - Dancing Queen
+      - Uptown Funk
+      - Billie Jean
+      Explanation: The song 'I Wanna Dance with Somebody' performed by Whitney Houston
+        includes the lyrics 'I wanna dance with somebody'.
+    - Question: Who sang the lyrics 'Like a Rolling Stone'?
+      TrueAnswer: Bob Dylan
+      FalseAnswer:
+      - Bruce Springsteen
+      - Mick Jagger
+      - Johnny Cash
+      Explanation: Bob Dylan, the influential singer-songwriter, sang the lyrics
+        'Like a Rolling Stone' in his iconic song of the same name.
+    - Question: Which song includes the lyrics 'I will survive'?
+      TrueAnswer: I Will Survive
+      FalseAnswer:
+      - Don't Stop Believin'
+      - We Will Rock You
+      - Sweet Child o' Mine
+      Explanation: The song 'I Will Survive' performed by Gloria Gaynor features
+        the empowering lyrics 'I will survive'.
+    - Question: Who wrote the lyrics 'Every breath you take, every move you make'?
+      TrueAnswer: Sting
+      FalseAnswer:
+      - Bono
+      - Prince
+      - David Bowie
+      Explanation: Sting, the lead vocalist of The Police, wrote the lyrics 'Every
+        breath you take, every move you make' in the song 'Every Breath You Take'.
+    - Question: Which song contains the lyrics 'Hello, it's me'?
+      TrueAnswer: Hello
+      FalseAnswer:
+      - Hey Jude
+      - Someone Like You
+      - Yesterday
+      Explanation: The song 'Hello' by Adele includes the lyrics 'Hello, it's me',
+        which became instantly recognizable.
+    - Question: Who sang the lyrics 'I can't get no satisfaction'?
+      TrueAnswer: The Rolling Stones
+      FalseAnswer:
+      - The Beatles
+      - Led Zeppelin
+      - Queen
+      Explanation: The Rolling Stones, the legendary rock band, sang the lyrics 'I
+        can't get no satisfaction' in their hit song 'Satisfaction'.
+    - Question: Which song includes the lyrics 'I want to hold your hand'?
+      TrueAnswer: I Want to Hold Your Hand
+      FalseAnswer:
+      - Let It Be
+      - Hey Jude
+      - Yesterday
+      Explanation: The song 'I Want to Hold Your Hand' by The Beatles includes the
+        lyrics 'I want to hold your hand'.
+    - Question: Who wrote the lyrics 'I can't help falling in love with you'?
+      TrueAnswer: Elvis Presley
+      FalseAnswer:
+      - Frank Sinatra
+      - Johnny Cash
+      - Michael Jackson
+      Explanation: Elvis Presley, the King of Rock and Roll, wrote the lyrics 'I
+        can't help falling in love with you' in his song of the same name.
+    - Question: Which song contains the lyrics 'Don't stop believin''?
+      TrueAnswer: Don't Stop Believin'
+      FalseAnswer:
+      - Bohemian Rhapsody
+      - Hotel California
+      - Sweet Child o' Mine
+      Explanation: The song 'Don't Stop Believin'' by Journey includes the lyrics
+        'Don't stop believin'' in its memorable chorus.
+    - Question: Who sang the lyrics 'I will always love you'?
+      TrueAnswer: Whitney Houston
+      FalseAnswer:
+      - Mariah Carey
+      - Celine Dion
+      - Adele
+      Explanation: Whitney Houston, the iconic singer, sang the lyrics 'I will always
+        love you' in her rendition of the song.
+    - Question: Which song includes the lyrics 'We don't need no education'?
+      TrueAnswer: Another Brick in the Wall
+      FalseAnswer:
+      - Smells Like Teen Spirit
+      - Imagine
+      - Bohemian Rhapsody
+      Explanation: The song 'Another Brick in the Wall' by Pink Floyd includes the
+        rebellious lyrics 'We don't need no education'.
+    - Question: Who wrote the lyrics 'Like a virgin, touched for the very first time'?
+      TrueAnswer: Billy Steinberg and Tom Kelly
+      FalseAnswer:
+      - Madonna
+      - Prince
+      - Michael Jackson
+      Explanation: Billy Steinberg and Tom Kelly wrote the lyrics 'Like a virgin,
+        touched for the very first time' for Madonna's hit song 'Like a Virgin'.
+    - Question: Which song contains the lyrics 'I'm a barbie girl, in a barbie world'?
+      TrueAnswer: Barbie Girl
+      FalseAnswer:
+      - Material Girl
+      - Wannabe
+      - Toxic
+      Explanation: The song 'Barbie Girl' by Aqua includes the lyrics 'I'm a barbie
+        girl, in a barbie world' in its catchy chorus.
+    - Question: Who sang the lyrics 'I just wanna dance the night away'?
+      TrueAnswer: The Mavericks
+      FalseAnswer:
+      - ABBA
+      - Bee Gees
+      - The Beatles
+      Explanation: The Mavericks, the American country band, sang the lyrics 'I just
+        wanna dance the night away' in their hit song.
+    - Question: Which song includes the lyrics 'I'm on the highway to hell'?
+      TrueAnswer: Highway to Hell
+      FalseAnswer:
+      - Stairway to Heaven
+      - Back in Black
+      - Sweet Child o' Mine
+      Explanation: The song 'Highway to Hell' by AC/DC includes the lyrics 'I'm on
+        the highway to hell' in its rebellious anthem.

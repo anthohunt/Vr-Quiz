@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4224216974367979342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8378870874487803100}
+  - component: {fileID: 945610208972977939}
+  m_Layer: 0
+  m_Name: History_Ancient Civilizations.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8378870874487803100
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4224216974367979342}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &945610208972977939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4224216974367979342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which ancient civilization built the Great Pyramids of Giza?
+      TrueAnswer: Egyptians
+      FalseAnswer:
+      - Greeks
+      - Romans
+      - Mayans
+      Explanation: The Egyptians built the Great Pyramids of Giza as tombs for their
+        pharaohs.
+    - Question: Which ancient civilization developed the first system of writing
+        called cuneiform?
+      TrueAnswer: Sumerians
+      FalseAnswer:
+      - Persians
+      - Aztecs
+      - Incas
+      Explanation: The Sumerians developed cuneiform, a system of writing using wedge-shaped
+        marks on clay tablets.
+    - Question: Which ancient civilization is known for the creation of the Hanging
+        Gardens of Babylon?
+      TrueAnswer: Babylonians
+      FalseAnswer:
+      - Persians
+      - Greeks
+      - Romans
+      Explanation: The Babylonians are credited with the creation of the Hanging
+        Gardens, one of the Seven Wonders of the Ancient World.
+    - Question: Which ancient civilization built the city of Machu Picchu?
+      TrueAnswer: Incas
+      FalseAnswer:
+      - Mayans
+      - Aztecs
+      - Egyptians
+      Explanation: The Incas built the city of Machu Picchu as a sacred site and
+        estate for their emperor.
+    - Question: Which ancient civilization is known for the construction of the Colosseum?
+      TrueAnswer: Romans
+      FalseAnswer:
+      - Greeks
+      - Persians
+      - Mayans
+      Explanation: The Romans built the Colosseum as an amphitheater for gladiatorial
+        contests and public spectacles.
+    - Question: Which ancient civilization developed the concept of zero in mathematics?
+      TrueAnswer: Indians
+      FalseAnswer:
+      - Chinese
+      - Greeks
+      - Mayans
+      Explanation: The Indians introduced the concept of zero, which revolutionized
+        mathematics and numerical systems.
+    - Question: Which ancient civilization is known for the creation of the Terracotta
+        Army?
+      TrueAnswer: Chinese
+      FalseAnswer:
+      - Egyptians
+      - Greeks
+      - Romans
+      Explanation: The Chinese created the Terracotta Army to accompany their emperor
+        in the afterlife.
+    - Question: Which ancient civilization is known for the construction of Stonehenge?
+      TrueAnswer: Celts
+      FalseAnswer:
+      - Egyptians
+      - Greeks
+      - Romans
+      Explanation: The Celts are believed to have built Stonehenge as a religious
+        and ceremonial site.
+    - Question: Which ancient civilization is known for the creation of the Parthenon?
+      TrueAnswer: Greeks
+      FalseAnswer:
+      - Persians
+      - Romans
+      - Mayans
+      Explanation: The Greeks built the Parthenon as a temple dedicated to the goddess
+        Athena.
+    - Question: Which ancient civilization is known for the construction of the Great
+        Wall?
+      TrueAnswer: Chinese
+      FalseAnswer:
+      - Romans
+      - Greeks
+      - Persians
+      Explanation: The Chinese built the Great Wall as a defensive structure against
+        invasions from the north.
+    - Question: Which ancient civilization is known for the creation of the Rosetta
+        Stone?
+      TrueAnswer: Egyptians
+      FalseAnswer:
+      - Greeks
+      - Romans
+      - Mayans
+      Explanation: The Egyptians created the Rosetta Stone, which helped decipher
+        hieroglyphics.
+    - Question: Which ancient civilization is known for the construction of the Acropolis?
+      TrueAnswer: Greeks
+      FalseAnswer:
+      - Persians
+      - Romans
+      - Mayans
+      Explanation: The Greeks built the Acropolis as a fortified hilltop and religious
+        center in Athens.
+    - Question: Which ancient civilization is known for the creation of the Nazca
+        Lines?
+      TrueAnswer: Nazca
+      FalseAnswer:
+      - Mayans
+      - Aztecs
+      - Incas
+      Explanation: The Nazca civilization created the Nazca Lines, large geoglyphs
+        in the Peruvian desert.
+    - Question: Which ancient civilization is known for the construction of the Angkor
+        Wat temple complex?
+      TrueAnswer: Khmer
+      FalseAnswer:
+      - Mayans
+      - Aztecs
+      - Incas
+      Explanation: The Khmer civilization built the Angkor Wat temple complex in
+        present-day Cambodia.
+    - Question: Which ancient civilization is known for the creation of the Oracle
+        at Delphi?
+      TrueAnswer: Greeks
+      FalseAnswer:
+      - Persians
+      - Romans
+      - Mayans
+      Explanation: The Greeks established the Oracle at Delphi as a place of prophecy
+        and consultation with the gods.
+    - Question: Which ancient civilization is known for the construction of the Moai
+        statues on Easter Island?
+      TrueAnswer: Rapa Nui
+      FalseAnswer:
+      - Mayans
+      - Aztecs
+      - Incas
+      Explanation: The Rapa Nui people built the Moai statues on Easter Island as
+        representations of their ancestors.
+    - Question: Which ancient civilization is known for the creation of the Code
+        of Hammurabi?
+      TrueAnswer: Babylonians
+      FalseAnswer:
+      - Persians
+      - Greeks
+      - Romans
+      Explanation: The Babylonians developed the Code of Hammurabi, one of the earliest
+        known legal codes.
+    - Question: Which ancient civilization is known for the construction of the Pyramids
+        of Teotihuacan?
+      TrueAnswer: Aztecs
+      FalseAnswer:
+      - Mayans
+      - Incas
+      - Egyptians
+      Explanation: The Aztecs built the Pyramids of Teotihuacan as religious and
+        ceremonial structures.
+    - Question: Which ancient civilization is known for the creation of the Indus
+        Valley Civilization?
+      TrueAnswer: Indians
+      FalseAnswer:
+      - Chinese
+      - Greeks
+      - Mayans
+      Explanation: The Indus Valley Civilization flourished in the Indian subcontinent
+        around 2500 BCE.
+    - Question: Which ancient civilization is known for the construction of the Palace
+        of Knossos?
+      TrueAnswer: Minoans
+      FalseAnswer:
+      - Persians
+      - Greeks
+      - Romans
+      Explanation: The Minoans built the Palace of Knossos on the island of Crete.

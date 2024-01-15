@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &263598084749085244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2608941313563836120}
+  - component: {fileID: 779248664987466052}
+  m_Layer: 0
+  m_Name: History_Civil_Rights_Movements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2608941313563836120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263598084749085244}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &779248664987466052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 263598084749085244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who was a prominent leader in the American Civil Rights Movement?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Malcolm X
+      - Rosa Parks
+      - Cesar Chavez
+      Explanation: Martin Luther King Jr. was a key figure in the Civil Rights Movement,
+        focusing on nonviolent protests and civil disobedience.
+    - Question: What was the landmark Supreme Court case that desegregated schools
+        in the US?
+      TrueAnswer: Brown v. Board of Education
+      FalseAnswer:
+      - Plessy v. Ferguson
+      - Marbury v. Madison
+      - Roe v. Wade
+      Explanation: Brown v. Board of Education ruled that state laws establishing
+        separate public schools for black and white students were unconstitutional.
+    - Question: In what year did the Civil Rights Act become law in the United States?
+      TrueAnswer: 1964
+      FalseAnswer:
+      - 1955
+      - 1971
+      - 1982
+      Explanation: The Civil Rights Act of 1964 outlawed discrimination based on
+        race, color, religion, sex, or national origin, and ended unequal treatment
+        in voter registration.
+    - Question: Who was the first African-American Supreme Court Justice?
+      TrueAnswer: Thurgood Marshall
+      FalseAnswer:
+      - Clarence Thomas
+      - Sonia Sotomayor
+      - Elena Kagan
+      Explanation: Thurgood Marshall was appointed as an Associate Justice of the
+        Supreme Court in 1967, becoming the first African American to serve on the
+        Court.
+    - Question: What organization did Rosa Parks famously work with in the Civil
+        Rights Movement?
+      TrueAnswer: NAACP
+      FalseAnswer:
+      - SNCC
+      - SCLC
+      - CORE
+      Explanation: Rosa Parks was a secretary for the NAACP and played a pivotal
+        role in the Montgomery bus boycott after refusing to give up her seat to
+        a white man.
+    - Question: Who was the co-founder of the Southern Christian Leadership Conference
+        (SCLC)?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Malcolm X
+      - Rosa Parks
+      - Fred Shuttlesworth
+      Explanation: Martin Luther King Jr. co-founded the SCLC to support and coordinate
+        nonviolent action in the Civil Rights Movement.
+    - Question: What event marked the beginning of the Civil Rights Movement in the
+        United States?
+      TrueAnswer: Montgomery Bus Boycott
+      FalseAnswer:
+      - Little Rock Nine
+      - March on Washington
+      - Selma to Montgomery Marches
+      Explanation: The Montgomery Bus Boycott was a political and social protest
+        campaign against the policy of racial segregation on the public transit system
+        of Montgomery, Alabama.
+    - Question: Who was the leader of the Black Panther Party?
+      TrueAnswer: Huey Newton
+      FalseAnswer:
+      - Bobby Seale
+      - Angela Davis
+      - Eldridge Cleaver
+      Explanation: Huey Newton, along with Bobby Seale, co-founded the Black Panther
+        Party for Self-Defense in 1966 to challenge police brutality and systemic
+        oppression.
+    - Question: What is the name of the speech delivered by Martin Luther King Jr.
+        during the March on Washington?
+      TrueAnswer: I Have a Dream
+      FalseAnswer:
+      - Letter from Birmingham Jail
+      - I've Been to the Mountaintop
+      - Why We Can't Wait
+      Explanation: The 'I Have a Dream' speech called for an end to racism and is
+        often regarded as one of the most stirring speeches in American history.
+    - Question: Who was known as the 'Mother of the Civil Rights Movement'?
+      TrueAnswer: Rosa Parks
+      FalseAnswer:
+      - Fannie Lou Hamer
+      - Jo Ann Robinson
+      - Daisy Bates
+      Explanation: Rosa Parks' refusal to give up her seat on a segregated bus led
+        to the Montgomery bus boycott, becoming a symbol of the Civil Rights Movement.
+    - Question: Which city's Woolworth's store was the site of a famous sit-in protest?
+      TrueAnswer: Greensboro
+      FalseAnswer:
+      - Birmingham
+      - Montgomery
+      - Atlanta
+      Explanation: The Greensboro sit-ins were a series of nonviolent protests against
+        racial segregation in downtown stores, which sparked a wave of similar demonstrations.
+    - Question: What event led to the passage of the Voting Rights Act of 1965?
+      TrueAnswer: Bloody Sunday
+      FalseAnswer:
+      - Freedom Rides
+      - Birmingham campaign
+      - March on Washington
+      Explanation: The brutal attack on peaceful civil rights marchers in Selma,
+        Alabama, known as Bloody Sunday, galvanized public opinion and led to the
+        passage of the Voting Rights Act.
+    - Question: Who was the first African-American student to desegregate the University
+        of Mississippi?
+      TrueAnswer: James Meredith
+      FalseAnswer:
+      - Medgar Evers
+      - Emmett Till
+      - Rosa Parks
+      Explanation: James Meredith's enrollment at the University of Mississippi sparked
+        protests and violence, ultimately contributing to the desegregation of the
+        institution.
+    - Question: What influential book did Malcolm X write during the Civil Rights
+        Movement?
+      TrueAnswer: The Autobiography of Malcolm X
+      FalseAnswer:
+      - Black Like Me
+      - Invisible Man
+      - Native Son
+      Explanation: The Autobiography of Malcolm X, co-authored by Alex Haley, provided
+        a powerful and candid account of his journey from street criminal to influential
+        activist.
+    - Question: Who was the founder of the Student Nonviolent Coordinating Committee
+        (SNCC)?
+      TrueAnswer: Ella Baker
+      FalseAnswer:
+      - John Lewis
+      - Stokely Carmichael
+      - Diane Nash
+      Explanation: Ella Baker played a critical role in the formation of SNCC, advocating
+        for grassroots organizing and empowering young activists in the Civil Rights
+        Movement.
+    - Question: What was the main goal of the March on Washington for Jobs and Freedom
+        in 1963?
+      TrueAnswer: Advocate for civil and economic rights for African Americans
+      FalseAnswer:
+      - Protest against the Vietnam War
+      - Demand voting rights for women
+      - Secure LGBTQ rights
+      Explanation: The March on Washington aimed to advance the economic and civil
+        rights agenda for African Americans, culminating in Martin Luther King Jr.'s
+        'I Have a Dream' speech.
+    - Question: What organization did Malcolm X establish after leaving the Nation
+        of Islam?
+      TrueAnswer: Organization of Afro-American Unity
+      FalseAnswer:
+      - Black Panther Party
+      - Congress of Racial Equality
+      - Southern Christian Leadership Conference
+      Explanation: The Organization of Afro-American Unity sought to unite African
+        Americans and promote self-reliance and political self-determination within
+        the global Pan-African movement.
+    - Question: Who was the strategist behind the 1963 Birmingham campaign's nonviolent
+        direct action protest?
+      TrueAnswer: James Bevel
+      FalseAnswer:
+      - Bayard Rustin
+      - Diane Nash
+      - Fannie Lou Hamer
+      Explanation: James Bevel, a key advisor to Martin Luther King Jr., helped orchestrate
+        the Birmingham campaign's nonviolent direct action to challenge segregation
+        in the city.
+    - Question: What was the term used to describe the violent response to desegregation
+        in the South?
+      TrueAnswer: Massive Resistance
+      FalseAnswer:
+      - White Flight
+      - Segregationist Backlash
+      - Jim Crow Uprising
+      Explanation: Massive Resistance was a strategy employed by white segregationists
+        to defy racial integration laws and resist the dismantling of Jim Crow practices.
+    - Question: What pivotal event in Little Rock, Arkansas, marked the first time
+        the US National Guard was sent to enforce desegregation?
+      TrueAnswer: Little Rock Nine
+      FalseAnswer:
+      - Selma to Montgomery Marches
+      - Montgomery Bus Boycott
+      - Freedom Rides
+      Explanation: The Little Rock Nine were the first African American students
+        to attend Little Rock Central High School after the Supreme Court's Brown
+        v. Board of Education decision.

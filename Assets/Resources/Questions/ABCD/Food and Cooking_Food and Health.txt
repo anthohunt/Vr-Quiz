@@ -1,0 +1,128 @@
+{
+    "Food and Cooking": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the main ingredient in guacamole?",
+                    "TrueAnswer": "Avocado",
+                    "FalseAnswer": ["Tomato", "Onion", "Lime"],
+                    "Explanation": "Guacamole is a Mexican dip made primarily with mashed avocados."
+                },
+                {
+                    "Question": "Which fruit is known for its high vitamin C content?",
+                    "TrueAnswer": "Orange",
+                    "FalseAnswer": ["Banana", "Apple", "Grapes"],
+                    "Explanation": "Oranges are citrus fruits that are rich in vitamin C, which helps boost the immune system."
+                },
+                {
+                    "Question": "What is the main ingredient in hummus?",
+                    "TrueAnswer": "Chickpeas",
+                    "FalseAnswer": ["Lentils", "Black beans", "Quinoa"],
+                    "Explanation": "Hummus is a Middle Eastern dip made from mashed chickpeas, tahini, olive oil, and garlic."
+                },
+                {
+                    "Question": "Which type of oil is commonly used for frying?",
+                    "TrueAnswer": "Vegetable",
+                    "FalseAnswer": ["Olive", "Coconut", "Canola"],
+                    "Explanation": "Vegetable oil has a high smoke point, making it suitable for frying at high temperatures."
+                },
+                {
+                    "Question": "What is the main ingredient in sushi?",
+                    "TrueAnswer": "Rice",
+                    "FalseAnswer": ["Fish", "Seaweed", "Soy sauce"],
+                    "Explanation": "Sushi is a Japanese dish made with vinegared rice, often combined with fish or vegetables."
+                },
+                {
+                    "Question": "Which spice is commonly used in Indian cuisine?",
+                    "TrueAnswer": "Turmeric",
+                    "FalseAnswer": ["Cinnamon", "Paprika", "Oregano"],
+                    "Explanation": "Turmeric is a yellow spice commonly used in Indian cooking, known for its health benefits."
+                },
+                {
+                    "Question": "What is the main ingredient in a Caesar salad dressing?",
+                    "TrueAnswer": "Anchovies",
+                    "FalseAnswer": ["Parmesan cheese", "Garlic", "Lemon juice"],
+                    "Explanation": "Anchovies are a key ingredient in traditional Caesar salad dressing, providing a salty and savory flavor."
+                },
+                {
+                    "Question": "Which type of pasta is shaped like a bowtie?",
+                    "TrueAnswer": "Farfalle",
+                    "FalseAnswer": ["Spaghetti", "Penne", "Linguine"],
+                    "Explanation": "Farfalle, also known as bowtie pasta, is a type of pasta that resembles a butterfly or bowtie shape."
+                },
+                {
+                    "Question": "What is the main ingredient in a margherita pizza?",
+                    "TrueAnswer": "Tomato",
+                    "FalseAnswer": ["Mozzarella cheese", "Basil", "Olive oil"],
+                    "Explanation": "A margherita pizza is topped with tomato sauce, mozzarella cheese, and fresh basil leaves."
+                },
+                {
+                    "Question": "Which type of bread is commonly used for sandwiches?",
+                    "TrueAnswer": "Sliced bread",
+                    "FalseAnswer": ["Baguette", "Ciabatta", "Pita"],
+                    "Explanation": "Sliced bread is a common choice for sandwiches due to its convenient shape and texture."
+                },
+                {
+                    "Question": "What is the main ingredient in a Greek salad?",
+                    "TrueAnswer": "Feta cheese",
+                    "FalseAnswer": ["Cucumber", "Olives", "Red onion"],
+                    "Explanation": "A Greek salad typically includes feta cheese, tomatoes, cucumbers, olives, and red onions."
+                },
+                {
+                    "Question": "Which type of meat is commonly used in tacos?",
+                    "TrueAnswer": "Beef",
+                    "FalseAnswer": ["Chicken", "Pork", "Fish"],
+                    "Explanation": "Beef is a popular choice for taco fillings, often seasoned with spices like cumin and chili powder."
+                },
+                {
+                    "Question": "What is the main ingredient in a chocolate chip cookie?",
+                    "TrueAnswer": "Chocolate chips",
+                    "FalseAnswer": ["Butter", "Sugar", "Flour"],
+                    "Explanation": "Chocolate chip cookies are made with a dough that includes chocolate chips as the main ingredient."
+                },
+                {
+                    "Question": "Which type of cheese is commonly used in lasagna?",
+                    "TrueAnswer": "Mozzarella",
+                    "FalseAnswer": ["Cheddar", "Parmesan", "Gouda"],
+                    "Explanation": "Mozzarella cheese is often used in lasagna for its melty and creamy texture when baked."
+                },
+                {
+                    "Question": "What is the main ingredient in a smoothie?",
+                    "TrueAnswer": "Fruit",
+                    "FalseAnswer": ["Yogurt", "Milk", "Ice"],
+                    "Explanation": "Smoothies are typically made with a base of blended fruits, often combined with yogurt or milk."
+                },
+                {
+                    "Question": "Which type of grain is commonly used in risotto?",
+                    "TrueAnswer": "Arborio rice",
+                    "FalseAnswer": ["Quinoa", "Couscous", "Barley"],
+                    "Explanation": "Arborio rice, a short-grain rice, is commonly used in risotto for its creamy texture when cooked."
+                },
+                {
+                    "Question": "What is the main ingredient in a Caesar salad?",
+                    "TrueAnswer": "Romaine lettuce",
+                    "FalseAnswer": ["Croutons", "Parmesan cheese", "Caesar dressing"],
+                    "Explanation": "A Caesar salad is made with crisp romaine lettuce, tossed with Caesar dressing and topped with croutons."
+                },
+                {
+                    "Question": "Which type of fish is commonly used in fish and chips?",
+                    "TrueAnswer": "Cod",
+                    "FalseAnswer": ["Salmon", "Tuna", "Haddock"],
+                    "Explanation": "Cod is a popular choice for fish and chips due to its mild flavor and flaky texture when fried."
+                },
+                {
+                    "Question": "What is the main ingredient in a margarita cocktail?",
+                    "TrueAnswer": "Tequila",
+                    "FalseAnswer": ["Lime juice", "Triple sec", "Salt"],
+                    "Explanation": "A margarita cocktail is made with tequila as the main alcoholic ingredient, combined with lime juice and triple sec."
+                },
+                {
+                    "Question": "Which type of nut is commonly used in pesto sauce?",
+                    "TrueAnswer": "Pine nuts",
+                    "FalseAnswer": ["Walnuts", "Almonds", "Cashews"],
+                    "Explanation": "Pesto sauce often includes pine nuts, along with basil, garlic, Parmesan cheese, and olive oil."
+                }
+            ]
+        }
+    ]
+}

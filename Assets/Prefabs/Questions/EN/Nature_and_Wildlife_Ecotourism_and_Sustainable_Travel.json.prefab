@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1974358641046819996
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6253869554096176760}
+  - component: {fileID: 3630519414386402696}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Ecotourism_and_Sustainable_Travel.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6253869554096176760
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974358641046819996}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3630519414386402696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974358641046819996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main goal of ecotourism?
+      TrueAnswer: Conservation
+      FalseAnswer:
+      - Entertainment
+      - Profit
+      - Development
+      Explanation: The primary goal of ecotourism is to promote conservation of natural
+        areas and wildlife while supporting local communities.
+    - Question: Which activity is an example of sustainable travel?
+      TrueAnswer: Taking public transportation
+      FalseAnswer:
+      - Renting a private car
+      - Using plastic water bottles
+      - Staying in luxury resorts
+      Explanation: Choosing public transportation reduces carbon emissions and supports
+        sustainable infrastructure in local communities.
+    - Question: What is the term for tourism that respects natural and cultural heritage?
+      TrueAnswer: Responsible tourism
+      FalseAnswer:
+      - Mass tourism
+      - Commercial tourism
+      - Industrial tourism
+      Explanation: Responsible tourism aims to minimize negative impacts, promote
+        conservation, and provide benefits to local communities and indigenous cultures.
+    - Question: Which type of accommodation is often associated with eco-friendly
+        travel?
+      TrueAnswer: Eco-lodges
+      FalseAnswer:
+      - All-inclusive resorts
+      - Luxury hotels
+      - Cruise ships
+      Explanation: Eco-lodges are built and operated with a focus on sustainability,
+        environmental responsibility, and minimal impact on the surrounding ecosystems.
+    - Question: What does the term 'carbon offset' refer to in sustainable travel?
+      TrueAnswer: Compensating for carbon emissions
+      FalseAnswer:
+      - Reducing travel distance
+      - Increasing energy consumption
+      - Supporting deforestation
+      Explanation: Carbon offsetting involves compensating for one's carbon footprint
+        by investing in projects that reduce or sequester an equivalent amount of
+        emissions elsewhere.
+    - Question: What is an essential consideration for sustainable wildlife viewing?
+      TrueAnswer: Respecting wildlife space
+      FalseAnswer:
+      - Feeding wildlife
+      - Approaching at high speed
+      - Using flash photography
+      Explanation: Respecting wildlife space involves observing animals from a safe
+        distance to minimize disturbance and ensure their natural behavior is not
+        affected.
+    - Question: How does ecotourism contribute to local economies?
+      TrueAnswer: Creating jobs
+      FalseAnswer:
+      - Increasing pollution
+      - Displacing local communities
+      - Exploiting natural resources
+      Explanation: Ecotourism provides employment opportunities, income, and incentives
+        for the conservation of natural resources, benefiting local communities.
+    - Question: What is a potential impact of irresponsible wildlife encounters?
+      TrueAnswer: Habitat disruption
+      FalseAnswer:
+      - Increasing biodiversity
+      - Promoting natural behavior
+      - Conserving ecosystems
+      Explanation: Irresponsible wildlife encounters can disrupt habitats, stress
+        animals, alter natural behaviors, and lead to ecological imbalances.
+    - Question: Which activity aligns with the principles of sustainable travel in
+        wilderness areas?
+      TrueAnswer: Leave no trace camping
+      FalseAnswer:
+      - Building campfires anywhere
+      - Leaving trash behind
+      - Introducing non-native species
+      Explanation: Leave no trace camping involves minimizing impact by leaving the
+        environment as undisturbed as possible, including packing out all waste and
+        litter.
+    - Question: "What is the concept of \u2018ethical wildlife tourism\u2019 primarily
+        focused on?"
+      TrueAnswer: Animal welfare
+      FalseAnswer:
+      - Maximum human interaction
+      - Profit generation
+      - Exotic pet trade
+      Explanation: Ethical wildlife tourism prioritizes the welfare of animals and
+        aims to observe wildlife in a manner that respects and benefits the species
+        and their natural environment.
+    - Question: Which transportation mode diminishes the environmental impact of
+        travel?
+      TrueAnswer: Bicycling
+      FalseAnswer:
+      - Cruise ships
+      - Private jets
+      - Helicopter tours
+      Explanation: Bicycling reduces carbon emissions, promotes physical activity,
+        and allows for a closer connection to the natural surroundings in a sustainable
+        manner.
+    - Question: What does 'carrying capacity' refer to in ecotourism management?
+      TrueAnswer: Maximum visitor number
+      FalseAnswer:
+      - Species diversity
+      - Ecosystem resilience
+      - Tourist spending
+      Explanation: Carrying capacity determines the maximum number of visitors that
+        can visit an area without causing damage to the environment and without compromising
+        the visitor experience.
+    - Question: What is the purpose of wildlife sanctuaries in ecotourism?
+      TrueAnswer: Protecting endangered species
+      FalseAnswer:
+      - Exotic pet trade
+      - Captive breeding for zoos
+      - Trophy hunting
+      Explanation: Wildlife sanctuaries aim to provide protected habitats and conservation
+        measures for endangered species, often allowing responsible and educational
+        tourist visitation.
+    - Question: Which type of souvenir purchase supports sustainable travel practices?
+      TrueAnswer: Locally made crafts
+      FalseAnswer:
+      - Ivory trinkets
+      - Endangered species products
+      - Plastic novelty items
+      Explanation: Buying locally made crafts supports local artisans and communities
+        while avoiding products that contribute to habitat destruction and illegal
+        wildlife trade.
+    - Question: What is the impact of human waste in ecotourism destinations?
+      TrueAnswer: Pollution of water sources
+      FalseAnswer:
+      - Fertilization of vegetation
+      - Enhancement of soil nutrients
+      - Improvement of wildlife habitat
+      Explanation: Improper disposal of human waste can result in water contamination,
+        posing risks to wildlife, ecosystems, and local communities dependent on
+        clean water sources.
+    - Question: What is a key aspect of responsible ecotourism guides?
+      TrueAnswer: Environmental education
+      FalseAnswer:
+      - Photo opportunities
+      - Sensational wildlife encounters
+      - Time efficiency
+      Explanation: Responsible guides prioritize environmental education, sharing
+        information on local ecosystems, biodiversity, conservation, and sustainable
+        practices to promote awareness and respect.
+    - Question: Which accommodation feature supports wildlife conservation efforts?
+      TrueAnswer: Introduction of native plants
+      FalseAnswer:
+      - Expansive golf courses
+      - Artificial decorative lighting
+      - Recreational hunting areas
+      Explanation: Introducing native plants in accommodations provides essential
+        habitat and food sources for local wildlife, contributing to biodiversity
+        conservation efforts.
+    - Question: How does ethical ecotourism contribute to wildlife conservation?
+      TrueAnswer: Supporting conservation initiatives
+      FalseAnswer:
+      - Importing exotic species
+      - Disturbing natural habitats
+      - Engaging in unregulated tourism
+      Explanation: Ethical ecotourism directly supports conservation initiatives
+        through visitor fees, community involvement, and awareness building to protect
+        wildlife and their habitats.
+    - Question: What is an example of a responsible ecotourism activity?
+      TrueAnswer: Participating in beach clean-ups
+      FalseAnswer:
+      - Feeding wild animals
+      - Off-road vehicle excursions
+      - Building tourist attractions
+      Explanation: Participating in beach clean-ups minimizes marine debris and plastic
+        pollution, contributing to the conservation of coastal ecosystems and protection
+        of marine wildlife.
+    - Question: Which behavior aligns with sustainable travel photography ethics?
+      TrueAnswer: Respecting no-flash zones
+      FalseAnswer:
+      - Approaching nesting wildlife
+      - Collecting natural specimens
+      - Intrusive drone use
+      Explanation: Respecting no-flash zones minimizes disturbance to nocturnal animals
+        and nesting birds, promoting their natural behaviors and reducing stress.

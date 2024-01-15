@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4383062172768767554
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4879689426093742932}
+  - component: {fileID: 5360295952206018644}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoons' Impact on Pop Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4879689426093742932
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4383062172768767554}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5360295952206018644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4383062172768767554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which cartoon introduced the concept of 'Toon Physics'?
+      TrueAnswer: Looney Tunes
+      FalseAnswer:
+      - The Simpsons
+      - South Park
+      - Family Guy
+      Explanation: Looney Tunes cartoons popularized the concept of 'Toon Physics'
+        with exaggerated movements and slapstick humor.
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Bart Simpson
+      - Tom and Jerry
+      - Dora the Explorer
+      Explanation: SpongeBob SquarePants, the beloved character, lives in a pineapple
+        under the sea in the town of Bikini Bottom.
+    - Question: Which cartoon series features a group of crime-fighting turtles?
+      TrueAnswer: Teenage Mutant Ninja Turtles
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Flintstones
+      - The Jetsons
+      Explanation: The Teenage Mutant Ninja Turtles are a group of crime-fighting
+        turtles trained in martial arts.
+    - Question: Which cartoon character is known for his catchphrase 'D'oh!'?
+      TrueAnswer: Homer Simpson
+      FalseAnswer:
+      - Scooby-Doo
+      - Bugs Bunny
+      - Mickey Mouse
+      Explanation: Homer Simpson, the father in 'The Simpsons', is known for his
+        catchphrase 'D'oh!' when he makes a mistake.
+    - Question: Which cartoon series features a yellow family living in Springfield?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Family Guy
+      - South Park
+      - Bob's Burgers
+      Explanation: The Simpsons is a long-running animated series that follows the
+        lives of the Simpson family in the town of Springfield.
+    - Question: Which cartoon character is known for his love of lasagna and sleeping?
+      TrueAnswer: Garfield
+      FalseAnswer:
+      - Snoopy
+      - Sylvester
+      - Stitch
+      Explanation: Garfield, the lazy and lasagna-loving cat, is a popular cartoon
+        character created by Jim Davis.
+    - Question: Which cartoon series features a group of kids with superpowers?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - Rugrats
+      - The Flintstones
+      - The Jetsons
+      Explanation: The Powerpuff Girls are a trio of kindergarten-aged girls with
+        superpowers who protect their city from villains.
+    - Question: Which cartoon character is known for his catchphrase 'Oh, boy!'?
+      TrueAnswer: Mickey Mouse
+      FalseAnswer:
+      - Bugs Bunny
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Mickey Mouse, the iconic Disney character, is known for his catchphrase
+        'Oh, boy!' when he's excited or surprised.
+    - Question: Which cartoon series features a dysfunctional family living in Quahog?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - The Simpsons
+      - South Park
+      - Bob's Burgers
+      Explanation: Family Guy is an animated sitcom that follows the Griffin family
+        and their misadventures in the fictional town of Quahog.
+    - Question: Which cartoon character is known for his catchphrase 'Scooby-Dooby-Doo!'?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Garfield
+      - Tom and Jerry
+      - Dora the Explorer
+      Explanation: Scooby-Doo, the lovable Great Dane, is known for his catchphrase
+        'Scooby-Dooby-Doo!' when solving mysteries.
+    - Question: Which cartoon series features a group of elementary school kids in
+        South Park?
+      TrueAnswer: South Park
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Flintstones
+      - The Jetsons
+      Explanation: South Park is an adult animated sitcom that follows the lives
+        of four elementary school kids in the fictional town of South Park.
+    - Question: Which cartoon character is known for his catchphrase 'What's the
+        sitch?'?
+      TrueAnswer: Kim Possible
+      FalseAnswer:
+      - Dora the Explorer
+      - SpongeBob SquarePants
+      - Bart Simpson
+      Explanation: Kim Possible, the teenage spy, is known for her catchphrase 'What's
+        the sitch?' when asking about the situation.
+    - Question: Which cartoon series features a prehistoric family living in Bedrock?
+      TrueAnswer: The Flintstones
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Jetsons
+      - The Simpsons
+      Explanation: The Flintstones is an animated sitcom that portrays the daily
+        life of a Stone Age family in the town of Bedrock.
+    - Question: Which cartoon character is known for his catchphrase 'Oh my God,
+        they killed Kenny!'?
+      TrueAnswer: Stan Marsh
+      FalseAnswer:
+      - Bugs Bunny
+      - Scooby-Doo
+      - Homer Simpson
+      Explanation: Stan Marsh, one of the main characters in South Park, often exclaims
+        'Oh my God, they killed Kenny!' when his friend Kenny dies.
+    - Question: Which cartoon series features a futuristic family living in Orbit
+        City?
+      TrueAnswer: The Jetsons
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Flintstones
+      - The Simpsons
+      Explanation: The Jetsons is an animated sitcom set in a futuristic world where
+        the Jetson family lives in Orbit City with flying cars and advanced technology.
+    - Question: Which cartoon character is known for his catchphrase 'What's the
+        story, morning glory?'?
+      TrueAnswer: Fred Flintstone
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Fred Flintstone, the main character in The Flintstones, often
+        greets others with the catchphrase 'What's the story, morning glory?'
+    - Question: Which cartoon series features a group of babies and their adventures?
+      TrueAnswer: Rugrats
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Flintstones
+      - The Jetsons
+      Explanation: Rugrats is an animated series that follows the adventures of a
+        group of babies and their interactions with the world around them.
+    - Question: Which cartoon character is known for his catchphrase 'Oh bother!'?
+      TrueAnswer: Winnie the Pooh
+      FalseAnswer:
+      - Garfield
+      - Scooby-Doo
+      - Mickey Mouse
+      Explanation: Winnie the Pooh, the lovable bear, often exclaims 'Oh bother!'
+        when he's in a sticky situation or feeling frustrated.
+    - Question: Which cartoon series features a family running a burger restaurant?
+      TrueAnswer: Bob's Burgers
+      FalseAnswer:
+      - Family Guy
+      - South Park
+      - The Simpsons
+      Explanation: Bob's Burgers is an animated sitcom that revolves around the Belcher
+        family and their adventures running a burger restaurant.
+    - Question: Which cartoon character is known for his catchphrase 'Swiper, no
+        swiping!'?
+      TrueAnswer: Dora the Explorer
+      FalseAnswer:
+      - Bugs Bunny
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Dora the Explorer, the adventurous young girl, often warns the
+        mischievous fox Swiper with the catchphrase 'Swiper, no swiping!'

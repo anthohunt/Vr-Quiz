@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "question": "Quelle est l'abréviation pour Système d'Information Géographique?",
+            "vraieRéponse": "SIG",
+            "fausseRéponse": [
+              "GPS",
+              "RIS",
+              "EOS"
+            ],
+            "explication": "Un SIG est un système conçu pour capturer, stocker, manipuler, analyser, gérer et présenter des données spatiales ou géographiques."
+          },
+          {
+            "question": "Les équations de qui forment la base pour analyser les interactions du rayonnement électromagnétique avec la surface de la Terre?",
+            "vraieRéponse": "Maxwell",
+            "fausseRéponse": [
+              "Einstein",
+              "Newton",
+              "Tesla"
+            ],
+            "explication": "Les équations de James Clerk Maxwell décrivent comment les champs électriques et magnétiques sont générés et modifiés par des charges et des courants."
+          },
+          {
+            "question": "Quel est le processus par lequel l'atmosphère diffuse et réfléchit la lumière du soleil dans toutes les directions?",
+            "vraieRéponse": "Diffusion de Rayleigh",
+            "fausseRéponse": [
+              "Diffusion de Mie",
+              "Absorption",
+              "Réfraction"
+            ],
+            "explication": "La diffusion de Rayleigh se produit lorsque la taille des particules dans l'atmosphère est beaucoup plus petite que la longueur d'onde du rayonnement. Cela donne au ciel sa couleur bleue."
+          },
+          {
+            "question": "Quel est le système radar basé sur satellite couramment utilisé pour l'observation de la Terre?",
+            "vraieRéponse": "SAR",
+            "fausseRéponse": [
+              "LIDAR",
+              "SONAR",
+              "RADAR"
+            ],
+            "explication": "Le radar à ouverture synthétique (SAR) utilise le mouvement de l'antenne radar sur une région cible pour fournir une résolution spatiale plus fine."
+          },
+          {
+            "question": "Quelle technologie de télédétection utilise l'éclairage actif pour collecter des données spatialement référencées?",
+            "vraieRéponse": "LIDAR",
+            "fausseRéponse": [
+              "Infrarouge passif",
+              "Spectromètre",
+              "Imagerie hyperspectrale"
+            ],
+            "explication": "LIDAR signifie Light Detection and Ranging, et mesure la distance jusqu'à une cible en l'illuminant avec un laser et en analysant la lumière réfléchie."
+          },
+          {
+            "question": "Quel type de spectre est utilisé pour distinguer différents types de végétation en observation de la Terre?",
+            "vraieRéponse": "Proche infrarouge",
+            "fausseRéponse": [
+              "Ultraviolet",
+              "Visible",
+              "Infrarouge"
+            ],
+            "explication": "La lumière du proche infrarouge est fortement réfléchie par la végétation saine, ce qui la rend précieuse pour cartographier et surveiller la couverture végétale."
+          },
+          {
+            "question": "Quel est le rayon moyen de la Terre en kilomètres?",
+            "vraieRéponse": "6371",
+            "fausseRéponse": [
+              "5430",
+              "6959",
+              "8229"
+            ],
+            "explication": "Le rayon moyen de la Terre est d'environ 6 371 kilomètres, ce qui en fait la cinquième plus grande planète du système solaire."
+          },
+          {
+            "question": "Quel capteur à bord des satellites Landsat capture le rayonnement visible et infrarouge?",
+            "vraieRéponse": "OLI",
+            "fausseRéponse": [
+              "TIRS",
+              "ETM+",
+              "MSS"
+            ],
+            "explication": "L'Imagerie terrestre opérationnelle (OLI) des satellites Landsat capture des images dans les bandes du visible, du proche infrarouge et de l'infrarouge à ondes courtes pour la surveillance de la surface terrestre."
+          },
+          {
+            "question": "Quel est le terme pour le motif de traces de balayage parallèles sur la surface de la Terre par un capteur satellitaire?",
+            "vraieRéponse": "Faisceau",
+            "fausseRéponse": [
+              "Pixel",
+              "Empreinte",
+              "Trajectoire"
+            ],
+            "explication": "La largeur de balayage est la distance horizontale totale couverte par un instrument à chaque passage du satellite, influençant la couverture spatiale et la résolution des données collectées."
+          },
+          {
+            "question": "Quelle n'est PAS une utilisation courante de la télédétection thermique pour l'observation de la Terre?",
+            "vraieRéponse": "Identification des espèces",
+            "fausseRéponse": [
+              "Analyse des îlots de chaleur urbains",
+              "Surveillance des feux de forêt",
+              "Surveillance des volcans"
+            ],
+            "explication": "Bien que la télédétection thermique puisse détecter les variations de température, elle n'est généralement pas utilisée pour l'identification des espèces, mais plutôt pour la surveillance de l'environnement et des catastrophes naturelles."
+          },
+          {
+            "question": "Quel type d'orbite permet à un capteur d'observer à plusieurs reprises la même zone?",
+            "vraieRéponse": "Héliosynchrone",
+            "fausseRéponse": [
+              "Polaire",
+              "Géostationnaire",
+              "Molniya"
+            ],
+            "explication": "Les orbites héliosynchrones se synchronisent avec la position du Soleil, amenant le satellite à passer sur la même partie de la Terre à la même heure solaire locale lors de chaque orbite."
+          },
+          {
+            "question": "Quelle plateforme d'observation de la Terre est conçue pour surveiller à long terme le climat et l'environnement mondial?",
+            "vraieRéponse": "Sentinelle",
+            "fausseRéponse": [
+              "GOES",
+              "TIROS",
+              "Aqua"
+            ],
+            "explication": "La série Sentinel, exploitée par l'Agence spatiale européenne, contribue au programme d'observation de la Terre Copernicus et fournit des données sur le changement climatique, l'utilisation des terres et la gestion des catastrophes."
+          },
+          {
+            "question": "Quel est l'objectif principal des satellites d'observation de la Terre équipés de capteurs multispectraux?",
+            "vraieRéponse": "Cartographie de la couverture des sols",
+            "fausseRéponse": [
+              "Observation astronomique",
+              "Reconnaissance militaire",
+              "Télécommunication"
+            ],
+            "explication": "Les capteurs multispectraux permettent la classification et la cartographie des types de couverture terrestre en fonction de leurs signatures spectrales uniques, ce qui soutient des applications en environnement et en gestion des terres."
+          },
+          {
+            "question": "Quelle technique est couramment utilisée pour corriger les distorsions atmosphériques dans les images satellites?",
+            "vraieRéponse": "Correction atmosphérique",
+            "fausseRéponse": [
+              "Correction géométrique",
+              "Correction radiométrique",
+              "Correction topographique"
+            ],
+            "explication": "La correction atmosphérique tient compte de l'influence de l'atmosphère sur les données de télédétection, améliorant la précision des mesures et permettant des comparaisons inter-temporelles cohérentes."
+          },
+          {
+            "question": "Quel est le terme désignant le processus de détermination de la relation géométrique entre les coordonnées de l'image et les coordonnées au sol?",
+            "vraieRéponse": "Géoréférencement",
+            "fausseRéponse": [
+              "Orthorectification",
+              "Mosaïquage",
+              "Rééchantillonnage"
+            ],
+            "explication": "Le géoréférencement consiste à aligner les images sur des coordonnées géographiques spécifiques, essentiel pour intégrer les données de télédétection avec les systèmes d'information géographique et les cartes."
+          },
+          {
+            "question": "Quelle mesure effectue généralement un radiomètre en télédétection?",
+            "vraieRéponse": "Radiance",
+            "fausseRéponse": [
+              "Réflectance",
+              "Élévation",
+              "Température"
+            ],
+            "explication": "La radiance est l'intensité du rayonnement électromagnétique se déplaçant dans une direction donnée par unité de surface perpendiculaire à la direction."
+          },
+          {
+            "question": "Quelle technique de télédétection utilise les longueurs d'onde spécifiques des micro-ondes émises par la surface de la Terre pour recueillir des informations?",
+            "vraieRéponse": "Micro-ondes passives",
+            "fausseRéponse": [
+              "Micro-ondes actives",
+              "Induction électromagnétique",
+              "Détection radio"
+            ],
+            "explication": "La télédétection par micro-ondes passives mesure le rayonnement micro-onde émis naturellement, offrant des informations sur l'humidité du sol, la glace de mer et la dynamique de la végétation."
+          },
+          {
+            "question": "Quel est le terme désignant la position en orbite où la force gravitationnelle de la Terre et la trajectoire orbitale s'équilibrent?",
+            "vraieRéponse": "Géostationnaire",
+            "fausseRéponse": [
+              "Leo",
+              "Molniya",
+              "Polaire"
+            ],
+            "explication": "Les satellites géostationnaires orbitent au même rythme que la rotation de la Terre, ce qui leur permet de rester fixes par rapport à un emplacement spécifique sur la surface de la planète."
+          },
+          {
+            "question": "Comment s'appelle le processus d'inférence et de cartographie des températures de surface de la Terre à l'aide de données télédétectées?",
+            "vraieRéponse": "Télédétection thermique",
+            "fausseRéponse": [
+              "Imagerie hyperspectrale",
+              "Traitement SAR",
+              "Balayage LIDAR"
+            ],
+            "explication": "La télédétection thermique mesure la chaleur émise et réfléchie par la surface de la Terre, soutenant des applications dans la surveillance du climat, l'analyse des îlots de chaleur urbains et l'exploration géothermique."
+          }
+        ]
+      }
+    }
+  ]
+}

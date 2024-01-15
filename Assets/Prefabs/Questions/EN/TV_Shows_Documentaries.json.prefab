@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6786693310023996508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 899914146164416299}
+  - component: {fileID: 4980476556638681857}
+  m_Layer: 0
+  m_Name: TV_Shows_Documentaries.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &899914146164416299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786693310023996508}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4980476556638681857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6786693310023996508}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In what year was the first known documentary released?
+      TrueAnswer: 1895
+      FalseAnswer:
+      - 1920
+      - 1955
+      - 1973
+      Explanation: "The first known documentary film, 'Employees Leaving the Lumi\xE8re
+        Factory,' was directed and produced by Auguste and Louis Lumi\xE8re in 1895."
+    - Question: Which documentary is credited with popularizing the genre in contemporary
+        times?
+      TrueAnswer: Nanook of the North
+      FalseAnswer:
+      - Grey Gardens
+      - Hoop Dreams
+      - Super Size Me
+      Explanation: Nanook of the North, directed by Robert J. Flaherty in 1922, is
+        considered one of the first feature-length documentaries and played a significant
+        role in popularizing the genre.
+    - Question: What documentary led to a nationwide ban on whale hunting?
+      TrueAnswer: The Cove
+      FalseAnswer:
+      - Blackfish
+      - An Inconvenient Truth
+      - March of the Penguins
+      Explanation: The Cove, directed by Louie Psihoyos, exposed the mass slaughter
+        of dolphins in Taiji, Wakayama, Japan, and led to a widespread public outcry
+        and campaigns against whale hunting.
+    - Question: Who directed the Oscar-winning documentary 'Amy' about singer Amy
+        Winehouse?
+      TrueAnswer: Asif Kapadia
+      FalseAnswer:
+      - Ava DuVernay
+      - Laura Poitras
+      - Errol Morris
+      Explanation: '''Amy'' was directed by Asif Kapadia, known for his powerful
+        storytelling and extensive use of archival footage to depict the life of
+        the iconic singer.'
+    - Question: Which documentary primarily focuses on the damaging effects of fast
+        food consumption?
+      TrueAnswer: Super Size Me
+      FalseAnswer:
+      - Fahrenheit 9/11
+      - Bowling for Columbine
+      - An Inconvenient Truth
+      Explanation: Super Size Me, directed by Morgan Spurlock, specifically explores
+        the detrimental health impacts of consuming fast food through an immersive
+        30-day experiment.
+    - Question: Which documentary showcases the importance of bee populations in
+        our ecosystem?
+      TrueAnswer: Vanishing of the Bees
+      FalseAnswer:
+      - Food, Inc.
+      - Blackfish
+      - Sicko
+      Explanation: '''Vanishing of the Bees'' sheds light on the critical role of
+        bees in pollination and the agricultural industry, addressing the alarming
+        decline in bee populations.'
+    - Question: In what year was the groundbreaking documentary series 'Planet Earth'
+        first broadcast?
+      TrueAnswer: 2006
+      FalseAnswer:
+      - 1998
+      - 2012
+      - 2018
+      Explanation: '''Planet Earth'' was first broadcast in 2006, captivating audiences
+        with remarkable footage of diverse ecosystems and wildlife from around the
+        globe.'
+    - Question: Which documentary delves into the financial crisis of 2007-2008 and
+        its aftermath?
+      TrueAnswer: Inside Job
+      FalseAnswer:
+      - 'Enron: The Smartest Guys in the Room'
+      - The Corporation
+      - The Fog of War
+      Explanation: '''Inside Job'' provides a comprehensive analysis of the factors
+        leading to the global financial crisis and investigates its lasting impact
+        on the economy.'
+    - Question: Which documentary explores the controversial topic of climate change
+        and global warming?
+      TrueAnswer: An Inconvenient Truth
+      FalseAnswer:
+      - Winged Migration
+      - The Act of Killing
+      - Grizzly Man
+      Explanation: '''An Inconvenient Truth'' features Al Gore as he presents a compelling
+        case for urgent action to address the threats of climate change and global
+        warming.'
+    - Question: Which renowned filmmaker directed the documentary 'Fahrenheit 9/11'?
+      TrueAnswer: Michael Moore
+      FalseAnswer:
+      - Werner Herzog
+      - Ken Burns
+      - Woody Allen
+      Explanation: Michael Moore, known for his provocative style, directed 'Fahrenheit
+        9/11' to critically examine the aftermath of the 9/11 attacks and the political
+        landscape.
+    - Question: Which documentary recounts the deadly Mount Everest expedition of
+        1996?
+      TrueAnswer: 'Into Thin Air: Death on Everest'
+      FalseAnswer:
+      - Free Solo
+      - Touching the Void
+      - The Summit
+      Explanation: '''Into Thin Air: Death on Everest'' provides a compelling and
+        detailed account of the disastrous events that unfolded during the 1996 Everest
+        climb.'
+    - Question: Which documentary sheds light on the life and work of renowned chef
+        and travel host Anthony Bourdain?
+      TrueAnswer: 'Roadrunner: A Film About Anthony Bourdain'
+      FalseAnswer:
+      - Jiro Dreams of Sushi
+      - Cooked
+      - Salt Fat Acid Heat
+      Explanation: '''Roadrunner: A Film About Anthony Bourdain'' offers an intimate
+        portrayal of Bourdain''s experiences, impact on culinary culture, and personal
+        struggles.'
+    - Question: Which documentary series delves into the inner workings and challenges
+        of a well-known American institution?
+      TrueAnswer: Making a Murderer
+      FalseAnswer:
+      - The Keepers
+      - The Staircase
+      - 'The Jinx: The Life and Deaths of Robert Durst'
+      Explanation: '''Making a Murderer'' examines the criminal justice system through
+        the case of Steven Avery, provoking widespread discussions on the flaws in
+        the legal process.'
+    - Question: Which documentary investigates the corrupt practices within the pharmaceutical
+        industry?
+      TrueAnswer: The Corporation
+      FalseAnswer:
+      - Sicko
+      - Food, Inc.
+      - Drug$
+      Explanation: '''The Corporation'' scrutinizes the unethical behavior and influence
+        of pharmaceutical companies on healthcare policies and societal well-being.'
+    - Question: Which documentary provides an in-depth look at the life and music
+        of acclaimed singer-songwriter Taylor Swift?
+      TrueAnswer: Miss Americana
+      FalseAnswer:
+      - Searching for Sugar Man
+      - Whitney
+      - Amy
+      Explanation: '''Miss Americana'' offers a candid portrayal of Taylor Swift''s
+        personal and professional evolution, addressing her challenges and advocacy
+        efforts.'
+    - Question: Which documentary showcases the cinematic journey and artistry of
+        renowned filmmaker Stanley Kubrick?
+      TrueAnswer: 'Stanley Kubrick: A Life in Pictures'
+      FalseAnswer:
+      - Jodorowsky's Dune
+      - Spielberg
+      - Man on Wire
+      Explanation: '''Stanley Kubrick: A Life in Pictures'' provides an immersive
+        exploration of Kubrick''s groundbreaking films and his visionary approach
+        to filmmaking.'
+    - Question: Which documentary investigates the disturbing realities of the dairy
+        industry and its impact on animal welfare?
+      TrueAnswer: Dominion
+      FalseAnswer:
+      - 'Cowspiracy: The Sustainability Secret'
+      - Earthlings
+      - Forks Over Knives
+      Explanation: "'Dominion' presents a comprehensive expos\xE9 of the dairy industry,
+        highlighting the ethical and environmental implications of dairy production."
+    - Question: Which documentary focuses on exploring the enigmatic personality
+        and musical legacy of iconic rapper Tupac Shakur?
+      TrueAnswer: 'Tupac: Resurrection'
+      FalseAnswer:
+      - Biggie & Tupac
+      - Notorious
+      - The Art of Rap
+      Explanation: '''Tupac: Resurrection'' offers an intimate and insightful portrayal
+        of Tupac Shakur, featuring his own reflections and interviews.'
+    - Question: Which documentary investigates the complexities of the fashion industry
+        and its societal impact?
+      TrueAnswer: The True Cost
+      FalseAnswer:
+      - McQueen
+      - Bill Cunningham New York
+      - The September Issue
+      Explanation: '''The True Cost'' delves into the environmental and ethical ramifications
+        of fast fashion, revealing the hidden costs of the ever-expanding industry.'
+    - Question: Which documentary elaborates on the intriguing history and cultural
+        significance of the Rubik's Cube?
+      TrueAnswer: The Speed Cubers
+      FalseAnswer:
+      - 'The King of Kong: A Fistful of Quarters'
+      - The Social Dilemma
+      - The Magic Pill
+      Explanation: '''The Speed Cubers'' explores the competitive world of speedcubing
+        and the impact of friendship and sportsmanship within the community.'

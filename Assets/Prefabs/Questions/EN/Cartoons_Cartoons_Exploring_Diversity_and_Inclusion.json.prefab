@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &99578071192001664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3757069289886786397}
+  - component: {fileID: 826545178472813254}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoons_Exploring_Diversity_and_Inclusion.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3757069289886786397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99578071192001664}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &826545178472813254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 99578071192001664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What cartoon features a diverse group of kids traveling to different
+        dimensions?
+      TrueAnswer: Cyberchase
+      FalseAnswer:
+      - Arthur
+      - The Magic School Bus
+      - Scooby-Doo
+      Explanation: Cyberchase is an educational cartoon that promotes diversity and
+        problem-solving skills among its young audience.
+    - Question: Which cartoon showcases a Hawaiian family with a diverse cultural
+        background?
+      TrueAnswer: 'Lilo & Stitch: The Series'
+      FalseAnswer:
+      - Moana
+      - The Proud Family
+      - 'Mulan: The Animated Series'
+      Explanation: 'Lilo & Stitch: The Series continues the story of Lilo and her
+        alien friend, Stitch, portraying their multicultural family and adventures
+        in Hawaii.'
+    - Question: 'In ''Avatar: The Last Airbender'', which nation is known for its
+        diverse population and cultural influences?'
+      TrueAnswer: The Earth Kingdom
+      FalseAnswer:
+      - The Fire Nation
+      - The Air Nomads
+      - The Water Tribes
+      Explanation: 'The Earth Kingdom in ''Avatar: The Last Airbender'' is a diverse
+        and culturally rich nation inspired by various real-world civilizations.'
+    - Question: Which cartoon features a diverse group of humanoid aliens from different
+        planets working together?
+      TrueAnswer: 'Voltron: Legendary Defender'
+      FalseAnswer:
+      - Steven Universe
+      - 'Star Wars: The Clone Wars'
+      - Space Ghost
+      Explanation: 'Voltron: Legendary Defender emphasizes unity and diversity as
+        its characters from different backgrounds combine their strengths to save
+        the universe.'
+    - Question: In 'The Owl House', which creature represents the diverse and magical
+        inhabitants of the Boiling Isles?
+      TrueAnswer: Demons
+      FalseAnswer:
+      - Witches
+      - Elves
+      - Sirens
+      Explanation: Demons in 'The Owl House' are portrayed as diverse, unique beings,
+        each with their own distinct appearance and abilities, breaking stereotypes.

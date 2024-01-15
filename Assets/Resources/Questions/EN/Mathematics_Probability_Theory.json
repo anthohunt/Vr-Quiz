@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the likelihood of rolling a 6 on a fair six-sided die?",
+            "TrueAnswer": "1/6",
+            "FalseAnswer": [
+              "1/3",
+              "1/2",
+              "2/3"
+            ],
+            "Explanation": "The probability of rolling a 6 on a six-sided die is 1 out of 6, as there are 6 equally likely outcomes."
+          },
+          {
+            "Question": "In a standard deck of 52 cards, what is the probability of drawing a heart?",
+            "TrueAnswer": "1/4",
+            "FalseAnswer": [
+              "1/2",
+              "1/13",
+              "1/3"
+            ],
+            "Explanation": "With 52 cards in a deck, 13 of them are hearts, so the probability of drawing a heart is 13/52, which simplifies to 1/4."
+          },
+          {
+            "Question": "What is the probability of flipping two coins and getting heads on both?",
+            "TrueAnswer": "1/4",
+            "FalseAnswer": [
+              "1/2",
+              "1/3",
+              "3/4"
+            ],
+            "Explanation": "When flipping two fair coins, there are 4 possible outcomes, and only 1 of them results in heads on both coins, making the probability 1/4."
+          },
+          {
+            "Question": "If rolling two dice, what is the probability of getting a sum of 7?",
+            "TrueAnswer": "1/6",
+            "FalseAnswer": [
+              "1/12",
+              "1/8",
+              "1/9"
+            ],
+            "Explanation": "The sum of 7 can be achieved in 6 out of the 36 possible combinations of two dice, making the probability 6/36, which simplifies to 1/6."
+          },
+          {
+            "Question": "What's the likelihood of picking a red marble from a jar with 4 red marbles and 6 blue marbles?",
+            "TrueAnswer": "2/5",
+            "FalseAnswer": [
+              "1/2",
+              "1/3",
+              "3/5"
+            ],
+            "Explanation": "The total number of marbles is 10, so the probability of picking a red marble is 4/10, which simplifies to 2/5."
+          },
+          {
+            "Question": "In a group of 20 people, what is the probability that at least 2 of them share the same birthday?",
+            "TrueAnswer": "41%",
+            "FalseAnswer": [
+              "25%",
+              "33%",
+              "50%"
+            ],
+            "Explanation": "The probability of at least 2 people sharing a birthday in a group of 20 is approximately 41%, according to the birthday paradox."
+          },
+          {
+            "Question": "What is the probability of drawing a diamond or a spade from a standard deck of cards?",
+            "TrueAnswer": "1/2",
+            "FalseAnswer": [
+              "1/4",
+              "1/3",
+              "3/4"
+            ],
+            "Explanation": "There are 26 red cards (13 diamonds and 13 hearts) and 26 black cards (13 clubs and 13 spades) in a deck, making the probability 1/2."
+          },
+          {
+            "Question": "In a class of 30 students, what is the probability that no two students have the same birthday?",
+            "TrueAnswer": "0.9%",
+            "FalseAnswer": [
+              "10%",
+              "5%",
+              "1%"
+            ],
+            "Explanation": "The probability of 30 people having distinct birthdays is extremely low, approximately 0.9%, due to the high likelihood of birthday matches."
+          },
+          {
+            "Question": "What is the probability of flipping a fair coin and getting heads?",
+            "TrueAnswer": "1/2",
+            "FalseAnswer": [
+              "1/3",
+              "3/4",
+              "1/10"
+            ],
+            "Explanation": "Since there are only 2 possible outcomes when flipping a fair coin, the probability of getting heads is 1/2."
+          },
+          {
+            "Question": "If rolling a fair six-sided die, what's the probability of getting an odd number?",
+            "TrueAnswer": "1/2",
+            "FalseAnswer": [
+              "1/3",
+              "1/4",
+              "2/3"
+            ],
+            "Explanation": "Out of the six equally likely outcomes, three are odd numbers, making the probability of rolling an odd number 1/2."
+          },
+          {
+            "Question": "What's the likelihood of choosing a number from 1 to 10 and getting a prime number?",
+            "TrueAnswer": "4/10",
+            "FalseAnswer": [
+              "3/10",
+              "2/10",
+              "5/10"
+            ],
+            "Explanation": "Out of the numbers 1 to 10, there are 4 prime numbers (2, 3, 5, 7), giving a probability of 4/10."
+          },
+          {
+            "Question": "If drawing a card from a standard deck, what is the probability of getting a face card?",
+            "TrueAnswer": "3/13",
+            "FalseAnswer": [
+              "1/4",
+              "1/2",
+              "2/13"
+            ],
+            "Explanation": "There are 12 face cards in a standard deck, so the probability of drawing a face card is 12/52, which simplifies to 3/13."
+          },
+          {
+            "Question": "What is the probability of rolling at least one 6 in two rolls of a fair six-sided die?",
+            "TrueAnswer": "11/36",
+            "FalseAnswer": [
+              "1/6",
+              "1/3",
+              "1/2"
+            ],
+            "Explanation": "When rolling two dice, there are 36 equally likely outcomes, and 11 of them contain at least one 6."
+          },
+          {
+            "Question": "In a provincial lottery, what is the probability of winning the jackpot?",
+            "TrueAnswer": "Very low",
+            "FalseAnswer": [
+              "50%",
+              "10%",
+              "25%"
+            ],
+            "Explanation": "The probability of winning a lottery jackpot is incredibly low, often in the range of 1 in millions or even billions."
+          },
+          {
+            "Question": "What is the probability of picking a winning combination in a 6/49 lottery?",
+            "TrueAnswer": "Very low",
+            "FalseAnswer": [
+              "50%",
+              "25%",
+              "10%"
+            ],
+            "Explanation": "The odds of correctly picking all 6 numbers in a 6/49 lottery are exceedingly low, making it a highly improbable event."
+          },
+          {
+            "Question": "What's the likelihood of getting a flush in a 5-card poker hand?",
+            "TrueAnswer": "0.2%",
+            "FalseAnswer": [
+              "1%",
+              "5%",
+              "10%"
+            ],
+            "Explanation": "The probability of being dealt a flush in a 5-card poker hand is around 0.2%, making it a rare occurrence in the game."
+          },
+          {
+            "Question": "In a group of 50 people, what is the probability that none of them share the same birthday?",
+            "TrueAnswer": "Very low",
+            "FalseAnswer": [
+              "50%",
+              "25%",
+              "10%"
+            ],
+            "Explanation": "The probability of 50 people having distinct birthdays is extremely low, due to the high likelihood of birthday matches across a larger group."
+          },
+          {
+            "Question": "What is the probability of rolling a 7 with two fair six-sided dice?",
+            "TrueAnswer": "1/6",
+            "FalseAnswer": [
+              "1/12",
+              "1/8",
+              "1/9"
+            ],
+            "Explanation": "There are 6 ways to roll a total of 7 out of the 36 equally likely outcomes, making the probability 6/36, which simplifies to 1/6."
+          },
+          {
+            "Question": "On a fair roulette wheel, what is the probability of landing on red?",
+            "TrueAnswer": "18/37",
+            "FalseAnswer": [
+              "1/2",
+              "1/3",
+              "1/4"
+            ],
+            "Explanation": "In European roulette, the probability of landing on red is 18/37, as there are 18 red pockets out of a total of 37 pockets."
+          },
+          {
+            "Question": "What is the probability of drawing an ace from a standard deck of 52 cards?",
+            "TrueAnswer": "1/13",
+            "FalseAnswer": [
+              "1/4",
+              "1/2",
+              "1/3"
+            ],
+            "Explanation": "There are 4 aces in a standard deck of 52 cards, so the probability of drawing an ace is 4/52, which simplifies to 1/13."
+          }
+        ]
+      }
+    }
+  ]
+}

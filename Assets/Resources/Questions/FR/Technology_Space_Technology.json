@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est le nom du rover martien de la NASA qui s'est posé en février 2021?",
+            "TrueAnswer": "Persévérance",
+            "FalseAnswer": [
+              "Opportunity",
+              "Curiosity",
+              "Spirit"
+            ],
+            "Explication": "Persévérance est le rover le plus avancé jamais envoyé sur Mars, conçu pour rechercher des signes de vie microbienne passée et collecter des échantillons de roches et de sol en vue d'un éventuel retour sur Terre."
+          },
+          {
+            "Question": "Quel système de propulsion utilise le vaisseau spatial Starship de SpaceX pour les voyages interplanétaires?",
+            "TrueAnswer": "Raptor",
+            "FalseAnswer": [
+              "Faucon",
+              "Merlin",
+              "Dragon"
+            ],
+            "Explication": "Les moteurs Raptor sont des moteurs à combustion étagée à flux complet alimentés par du méthane liquide et de l'oxygène liquide, conçus pour une grande efficacité et une réutilisabilité pour des voyages de longue durée vers Mars et au-delà."
+          },
+          {
+            "Question": "Quelle entreprise a conçu la caméra grand champ 3 du télescope spatial Hubble?",
+            "TrueAnswer": "Ball Aerospace",
+            "FalseAnswer": [
+              "Lockheed Martin",
+              "Boeing",
+              "Northrop Grumman"
+            ],
+            "Explication": "Ball Aerospace & Technologies Corp. a conçu et construit la Wide Field Camera 3, un instrument puissant qui capture de superbes images et contribue à diverses études scientifiques de l'univers."
+          },
+          {
+            "Question": "Quel est le diamètre du miroir primaire du télescope spatial James Webb?",
+            "TrueAnswer": "6,5 mètres",
+            "FalseAnswer": [
+              "8 mètres",
+              "5 mètres",
+              "10 mètres"
+            ],
+            "Explication": "Le miroir primaire du télescope spatial James Webb fait 6,5 mètres de diamètre, ce qui en fait le télescope spatial le plus grand et le plus puissant jamais construit, destiné à révolutionner notre compréhension de l'univers."
+          },
+          {
+            "Question": "Qui a été la première astronaute à commander la Station spatiale internationale?",
+            "TrueAnswer": "Peggy Whitson",
+            "FalseAnswer": [
+              "Sally Ride",
+              "Mae Jemison",
+              "Valentina Tereshkova"
+            ],
+            "Explication": "Peggy Whitson, biochimiste et astronaute de la NASA, a marqué l'histoire en devenant la première femme à commander la Station spatiale internationale, démontrant un leadership exceptionnel et une excellence scientifique dans l'espace."
+          },
+          {
+            "Question": "Quelle planète la mission Juno a-t-elle étudiée et autour de laquelle elle est entrée en orbite en 2016?",
+            "TrueAnswer": "Jupiter",
+            "FalseAnswer": [
+              "Saturne",
+              "Mars",
+              "Neptune"
+            ],
+            "Explication": "La sonde Juno est entrée en orbite autour de Jupiter en 2016 et a mené des études approfondies sur l'atmosphère de la planète, sa magnétosphère et sa structure interne, fournissant des informations précieuses sur sa formation et son évolution."
+          },
+          {
+            "Question": "Quel est le nom de l'hélicoptère martien qui accompagnait le rover Persévérance?",
+            "TrueAnswer": "Ingéniosité",
+            "FalseAnswer": [
+              "Spirit",
+              "Opportunity",
+              "Curiosity"
+            ],
+            "Explication": "Ingenuity est un petit hélicoptère autonome qui a été déployé depuis le rover Persévérance, marquant le premier vol motorisé sur une autre planète et démontrant le potentiel de l'exploration aérienne dans les futures missions sur Mars."
+          },
+          {
+            "Question": "Quel physicien éminent a proposé le concept de voiles solaires pour la propulsion spatiale?",
+            "TrueAnswer": "Carl Sagan",
+            "FalseAnswer": [
+              "Stephen Hawking",
+              "Albert Einstein",
+              "Isaac Newton"
+            ],
+            "Explication": "Carl Sagan, célèbre pour avoir popularisé la science, a proposé l'idée de voiles solaires, une méthode de propulsion spatiale qui utilise la pression de radiation du soleil pour générer une poussée dans les voyages interplanétaires."
+          },
+          {
+            "Question": "Quelle est la vitesse maximale approximative du vaisseau spatial New Horizons lors de son survol de Pluton?",
+            "TrueAnswer": "31 000 mi/h",
+            "FalseAnswer": [
+              "15 000 mi/h",
+              "40 000 mi/h",
+              "25 000 mi/h"
+            ],
+            "Explication": "New Horizons a atteint une vitesse d'environ 31 000 miles par heure lors de son survol historique de Pluton, lui permettant de capturer des images détaillées et des données scientifiques sur la lointaine planète naine."
+          },
+          {
+            "Question": "Quelle agence spatiale a réussi à poser la sonde Philae sur la comète 67P/Churyumov-Gerasimenko?",
+            "TrueAnswer": "ESA",
+            "FalseAnswer": [
+              "NASA",
+              "Roscosmos",
+              "CNSA"
+            ],
+            "Explication": "L'Agence spatiale européenne (ESA) a accompli l'exploit historique de poser la sonde Philae sur la comète 67P, fournissant des informations précieuses sur la composition et le comportement des comètes en tant que restes du système solaire primitif."
+          },
+          {
+            "Question": "Quelle technologie le télescope spatial Kepler utilisait-il principalement pour détecter les exoplanètes?",
+            "TrueAnswer": "Photométrie de transit",
+            "FalseAnswer": [
+              "Vitesse radiale",
+              "Imagerie directe",
+              "Microlentille"
+            ],
+            "Explication": "Kepler utilisait principalement la méthode de photométrie de transit, observant l'atténuation légère des étoiles lorsque des planètes passent devant elles, permettant la découverte de milliers d'exoplanètes à travers la Voie lactée."
+          },
+          {
+            "Question": "Quel est l'objectif de la technologie de protection active sur le vaisseau spatial Orion de la NASA?",
+            "TrueAnswer": "Protéger les astronautes des radiations cosmiques",
+            "FalseAnswer": [
+              "Améliorer la manœuvrabilité du vaisseau spatial",
+              "Permettre un support de vie à long terme",
+              "Éliminer les impacts de micrométéorites"
+            ],
+            "Explication": "Le système de protection active du vaisseau spatial Orion de la NASA est conçu pour minimiser l'exposition des astronautes aux radiations cosmiques nocives lors de missions habitées dans l'espace lointain, protégeant leur santé et leur bien-être dans l'environnement spatial."
+          },
+          {
+            "Question": "Quelle agence spatiale a développé les systèmes de manipulation robotique Canadarm utilisés sur la navette spatiale et la Station spatiale internationale?",
+            "TrueAnswer": "ASC",
+            "FalseAnswer": [
+              "NASA",
+              "ESA",
+              "Roscosmos"
+            ],
+            "Explication": "L'Agence spatiale canadienne (ASC) a conçu et développé les systèmes Canadarm, des bras robotiques avancés utilisés pour diverses tâches, notamment le déploiement de satellites, l'assemblage de structures spatiales et la maintenance sur la navette spatiale et la Station spatiale internationale."
+          },
+          {
+            "Question": "Quel est l'objectif principal du système de lancement spatial (SLS) développé par la NASA?",
+            "TrueAnswer": "Missions d'exploration spatiale habitées",
+            "FalseAnswer": [
+              "Déploiement de satellites",
+              "Recherche en sciences spatiales",
+              "Élimination des débris spatiaux"
+            ],
+            "Explication": "Le Space Launch System (SLS) est un lanceur puissant conçu spécifiquement pour les missions habitées au-delà de l'orbite terrestre basse, servant de pilier aux ambitieuses initiatives d'exploration spatiale habitée de la NASA, notamment les missions vers la Lune et Mars."
+          },
+          {
+            "Question": "Quelle innovation apporte le moteur-fusée à plasma VASIMR à la technologie de propulsion spatiale?",
+            "TrueAnswer": "Propulsion électrique",
+            "FalseAnswer": [
+              "Propulsion chimique",
+              "Propulsion ionique",
+              "Propulsion nucléaire"
+            ],
+            "Explication": "Le moteur VASIMR utilise le chauffage par radiofréquence du plasma, permettant une propulsion électrique plus efficace et contrôlable, offrant le potentiel de voyages interplanétaires plus rapides et plus économiques dans l'exploration spatiale."
+          },
+          {
+            "Question": "Quelle entreprise privée a lancé le premier vaisseau spatial développé commercialement vers la Station spatiale internationale avec équipage?",
+            "TrueAnswer": "SpaceX",
+            "FalseAnswer": [
+              "Blue Origin",
+              "Boeing",
+              "Virgin Galactic"
+            ],
+            "Explication": "Le vaisseau spatial Crew Dragon de SpaceX est devenu le premier vaisseau spatial avec équipage développé et exploité commercialement à transporter des astronautes vers la Station spatiale internationale, marquant une étape importante dans l'avancement de l'exploration spatiale commerciale."
+          },
+          {
+            "Question": "Quel phénomène astrophysique l'observatoire de rayons X Chandra étudie-t-il principalement dans l'univers?",
+            "TrueAnswer": "Émissions de rayons X à haute énergie",
+            "FalseAnswer": [
+              "Spectre lumineux visible",
+              "Rayonnement infrarouge",
+              "Sursauts gamma"
+            ],
+            "Explication": "L'observatoire de rayons X Chandra se concentre sur la capture et l'analyse des émissions de rayons X à haute énergie provenant de sources cosmiques, notamment les trous noirs, les vestiges de supernovas et les amas de galaxies, fournissant des informations précieuses sur des processus astrophysiques extrêmes."
+          },
+          {
+            "Question": "Quelle est la fonction du véhicule de remontée martien dans la mission de retour d'échantillons de Mars?",
+            "TrueAnswer": "Lancer les échantillons de Mars en orbite",
+            "FalseAnswer": [
+              "Déploiement de rovers robotiques",
+              "Création d'environnements habitables",
+              "Extraction d'eau du sol martien"
+            ],
+            "Explication": "Le véhicule de remontée martien jouera un rôle crucial dans la mission de retour d'échantillons de Mars en lançant les échantillons collectés depuis la surface martienne en orbite, où ils pourront être récupérés et ramenés sur Terre pour une analyse détaillée par les scientifiques."
+          },
+          {
+            "Question": "Quelle entreprise a conçu et fabriqué le module lunaire utilisé lors des missions d'alunissage Apollo?",
+            "TrueAnswer": "Grumman Aerospace",
+            "FalseAnswer": [
+              "Lockheed Martin",
+              "Boeing",
+              "Northrop Grumman"
+            ],
+            "Explication": "La société Grumman Aerospace Corporation, désormais partie de Northrop Grumman, a conçu et construit le module lunaire, le vaisseau spatial qui a transporté les astronautes de l'orbite lunaire à la surface lunaire lors des missions Apollo, aboutissant aux premiers pas de l'homme sur la Lune."
+          },
+          {
+            "Question": "Quel type de technologie de propulsion alimente les propulseurs principaux de la sonde Cassini lors de sa mission à Saturne?",
+            "TrueAnswer": "Chimique",
+            "FalseAnswer": [
+              "Ionique",
+              "Plasma",
+              "Électrique"
+            ],
+            "Explication": "La sonde Cassini utilise une propulsion chimique, plus précisément des propulseurs à bipropulseur liquide, pour les ajustements de trajectoire et les manœuvres orbitales lors de sa mission d'exploration du système saturnien et de ses fascinantes lunes."
+          }
+        ]
+      }
+    }
+  ]
+}

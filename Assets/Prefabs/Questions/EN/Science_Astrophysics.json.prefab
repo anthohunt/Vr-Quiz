@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8885569020760340854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1142843963541289462}
+  - component: {fileID: 2618804044965001362}
+  m_Layer: 0
+  m_Name: Science_Astrophysics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1142843963541289462
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8885569020760340854}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2618804044965001362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8885569020760340854}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What element powers the sun?
+      TrueAnswer: Hydrogen
+      FalseAnswer:
+      - Helium
+      - Oxygen
+      - Carbon
+      Explanation: The sun primarily fuses hydrogen atoms into helium, releasing
+        immense energy through nuclear fusion reactions.
+    - Question: What is the name of the closest galaxy to the Milky Way?
+      TrueAnswer: Andromeda
+      FalseAnswer:
+      - Orion
+      - Triangulum
+      - Pegasus
+      Explanation: The Andromeda Galaxy is about 2.537 million light-years from Earth
+        and is projected to collide with the Milky Way in about 4 billion years.
+    - Question: What important concept did Albert Einstein introduce in his Theory
+        of General Relativity?
+      TrueAnswer: Curved spacetime
+      FalseAnswer:
+      - Quantum entanglement
+      - Black hole radiation
+      - Dark energy
+      Explanation: Einstein's theory proposed that massive objects cause spacetime
+        to curve, affecting the path of other objects, explaining gravity as curvature
+        in spacetime.
+    - Question: What event marks the birth of a black hole?
+      TrueAnswer: Supernova explosion
+      FalseAnswer:
+      - Solar eclipse
+      - Comet impact
+      - Meteor shower
+      Explanation: Black holes form from the remnants of a massive star undergoing
+        a supernova explosion, leading to gravitational collapse.
+    - Question: What is the name for the point around a black hole beyond which escape
+        is impossible?
+      TrueAnswer: Event horizon
+      FalseAnswer:
+      - Singularity
+      - Photon sphere
+      - Ergosphere
+      Explanation: The event horizon is a boundary surrounding a black hole where
+        the escape velocity exceeds the speed of light, making it impossible for
+        any object to leave.
+    - Question: What phenomenon takes place when a massive star collapses into a
+        small volume and becomes extremely dense?
+      TrueAnswer: Neutron star formation
+      FalseAnswer:
+      - White dwarf explosion
+      - Planet formation
+      - Black hole evaporation
+      Explanation: Neutron stars are incredibly dense remnants of massive stars,
+        composed mostly of neutrons, formed after a supernova explosion and gravitational
+        collapse.
+    - Question: How do scientists detect exoplanets orbiting distant stars?
+      TrueAnswer: Transit method
+      FalseAnswer:
+      - Microlensing
+      - Radial velocity method
+      - Direct imaging
+      Explanation: The transit method involves observing the slight dimming of a
+        star's light as a planet passes in front of it, indicating the presence of
+        an exoplanet.
+    - Question: What property of light is used to study the composition of stars
+        and galaxies?
+      TrueAnswer: Spectroscopy
+      FalseAnswer:
+      - Photometry
+      - Polarimetry
+      - Interferometry
+      Explanation: Spectroscopy analyzes the light emitted or absorbed by celestial
+        objects, providing information about their chemical composition, temperature,
+        and motion.
+    - Question: Which telescope produced the famous 'Pale Blue Dot' photograph of
+        Earth?
+      TrueAnswer: Voyager 1
+      FalseAnswer:
+      - Hubble Space Telescope
+      - Kepler Space Telescope
+      - Spitzer Space Telescope
+      Explanation: Voyager 1 captured the 'Pale Blue Dot' image from a record distance
+        of about 3.7 billion miles as it was leaving the solar system.
+    - Question: What is the study of the large-scale structure and history of the
+        universe called?
+      TrueAnswer: Cosmology
+      FalseAnswer:
+      - Astrobiology
+      - Astrophysics
+      - Exoplanetology
+      Explanation: Cosmology seeks to understand the origin, evolution, and eventual
+        fate of the universe, including the distribution of galaxies and the cosmic
+        microwave background radiation.
+    - Question: When did the universe experience a rapid expansion known as cosmic
+        inflation?
+      TrueAnswer: Shortly after the Big Bang
+      FalseAnswer:
+      - During the formation of the Milky Way
+      - At the time of the first stars
+      - At the onset of galaxy formation
+      Explanation: Cosmic inflation is believed to have occurred within the first
+        fraction of a second after the Big Bang, leading to the rapid expansion of
+        the universe.
+    - Question: What is the fate of the cosmos according to the 'Big Freeze' scenario
+        in cosmology?
+      TrueAnswer: Heat death
+      FalseAnswer:
+      - Big Rip
+      - Big Crunch
+      - Big Bounce
+      Explanation: The 'Big Freeze' predicts that the universe will continue expanding
+        until it reaches a state of maximum entropy, resulting in the heat death
+        of the cosmos.
+    - Question: What theoretical construct is proposed to explain the accelerating
+        expansion of the universe?
+      TrueAnswer: Dark energy
+      FalseAnswer:
+      - Cosmic strings
+      - Quantum foam
+      - Magnetic monopoles
+      Explanation: Dark energy is a mysterious force that counteracts gravity, causing
+        the universe's expansion to accelerate, as indicated by observational data
+        and cosmic background radiation.
+    - Question: What is the name of the space mission that has provided valuable
+        data on the cosmic microwave background radiation?
+      TrueAnswer: Planck
+      FalseAnswer:
+      - WMAP
+      - COBE
+      - Spitzer
+      Explanation: The Planck satellite mission mapped the cosmic microwave background
+        radiation with high precision, offering insights into the early universe's
+        properties and evolution.
+    - Question: What is the term for the study of gravitational interactions between
+        celestial bodies?
+      TrueAnswer: Celestial mechanics
+      FalseAnswer:
+      - Astrochemistry
+      - Stellar evolution
+      - Nuclear astrophysics
+      Explanation: Celestial mechanics focuses on understanding the motion and gravitational
+        effects of celestial bodies, including orbits, tides, and perturbations,
+        using principles of physics and mathematics.
+    - Question: What is the source of the high-energy particles that create the spectacular
+        auroras on Earth?
+      TrueAnswer: Solar wind
+      FalseAnswer:
+      - Galactic cosmic rays
+      - Neutrino flux
+      - Polar mesospheric clouds
+      Explanation: The solar wind, consisting of charged particles emitted by the
+        sun, interacts with Earth's magnetosphere, producing the energetic particles
+        that cause auroras in the polar regions.
+    - Question: What type of celestial object produces intense bursts of gamma-ray
+        radiation?
+      TrueAnswer: Gamma-ray bursts (GRBs)
+      FalseAnswer:
+      - Supernovae
+      - Quasars
+      - Pulsars
+      Explanation: Gamma-ray bursts are among the most powerful explosions in the
+        universe, likely associated with the formation of black holes or neutron
+        stars through cataclysmic events.
+    - Question: What physical phenomenon causes the shifting of light towards longer
+        wavelengths in an expanding universe?
+      TrueAnswer: Redshift
+      FalseAnswer:
+      - Blueshift
+      - Whiteshift
+      - Yellowshift
+      Explanation: Redshift occurs as light from distant celestial objects stretches
+        due to the expansion of space, shifting its spectral lines towards longer
+        wavelengths, providing evidence of cosmic expansion.
+    - Question: What is the gravitational focal point where light rays converge to
+        a single point?
+      TrueAnswer: Focus
+      FalseAnswer:
+      - Node
+      - Singularity
+      - Equilibrium
+      Explanation: In astrophysics, the focus refers to the point where gravitational
+        lensing causes light rays to converge, creating distorted or magnified images
+        of distant objects.
+    - Question: What type of radiation provides valuable insights into the early
+        universe and the formation of galaxies?
+      TrueAnswer: Cosmic microwave background (CMB) radiation
+      FalseAnswer:
+      - Ultraviolet radiation
+      - X-ray radiation
+      - Infrared radiation
+      Explanation: The CMB radiation is the oldest light in the universe, originating
+        from just 380,000 years after the Big Bang, offering crucial information
+        about cosmic history and structure.

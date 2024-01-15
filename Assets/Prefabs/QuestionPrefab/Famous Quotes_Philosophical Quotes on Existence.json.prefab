@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &999750316818411651
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4211152014427315726}
+  - component: {fileID: 8659339940237938661}
+  m_Layer: 0
+  m_Name: Famous Quotes_Philosophical Quotes on Existence.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4211152014427315726
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999750316818411651}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8659339940237938661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 999750316818411651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Socrates
+      - Plato
+      - Aristotle
+      Explanation: "Ren\xE9 Descartes, a French philosopher, coined the famous phrase
+        'I think, therefore I am' as a foundational element of his philosophy."
+    - Question: Which philosopher said 'Existence precedes essence'?
+      TrueAnswer: Jean-Paul Sartre
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Immanuel Kant
+      - John Locke
+      Explanation: Jean-Paul Sartre, a prominent existentialist philosopher, introduced
+        the concept of 'Existence precedes essence' in his work.
+    - Question: Who said 'God is dead'?
+      TrueAnswer: Friedrich Nietzsche
+      FalseAnswer:
+      - Sigmund Freud
+      - Albert Camus
+      - Karl Marx
+      Explanation: Friedrich Nietzsche, a German philosopher, famously declared 'God
+        is dead' to emphasize the decline of religious beliefs in modern society.
+    - Question: Which philosopher said 'I think, therefore I am not'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, challenged Descartes'
+        famous phrase by stating 'I think, therefore I am not'.
+    - Question: Who said 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Epictetus
+      Explanation: Socrates, an ancient Greek philosopher, believed that self-reflection
+        and examination were essential for a meaningful life.
+    - Question: Which philosopher said 'I am, therefore I think'?
+      TrueAnswer: Albert Camus
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Jean-Paul Sartre
+      - "S\xF8ren Kierkegaard"
+      Explanation: Albert Camus, an existentialist philosopher, expressed the idea
+        that existence precedes thought in his philosophical works.
+    - Question: Who said 'Cogito, ergo sum'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Immanuel Kant
+      - John Locke
+      - David Hume
+      Explanation: "Ren\xE9 Descartes, a renowned philosopher, famously stated 'Cogito,
+        ergo sum' which translates to 'I think, therefore I am'."
+    - Question: Which philosopher said 'Man is condemned to be free'?
+      TrueAnswer: Jean-Paul Sartre
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Immanuel Kant
+      - John Locke
+      Explanation: Jean-Paul Sartre, an existentialist philosopher, argued that humans
+        are inherently free but also burdened by the responsibility of their choices.
+    - Question: Who said 'I am what I am'?
+      TrueAnswer: Jean-Paul Sartre
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Immanuel Kant
+      - John Locke
+      Explanation: Jean-Paul Sartre, a key figure in existentialism, emphasized the
+        importance of personal freedom and self-definition.
+    - Question: Which philosopher said 'To be is to do'?
+      TrueAnswer: Jean-Paul Sartre
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Immanuel Kant
+      - John Locke
+      Explanation: Jean-Paul Sartre, an influential existentialist philosopher, expressed
+        the idea that existence is defined through actions and choices.
+    - Question: Who said 'I am not what I am'?
+      TrueAnswer: Jean-Paul Sartre
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Immanuel Kant
+      - John Locke
+      Explanation: Jean-Paul Sartre, a prominent existentialist philosopher, challenged
+        the notion of fixed identity by stating 'I am not what I am'.
+    - Question: Which philosopher said 'I am, therefore I am not'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, questioned the concept
+        of existence and identity with the phrase 'I am, therefore I am not'.
+    - Question: Who said 'I am the wisest man alive, for I know one thing, and that
+        is that I know nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Epictetus
+      Explanation: Socrates, an ancient Greek philosopher, acknowledged his own ignorance
+        and believed that true wisdom comes from recognizing one's lack of knowledge.
+    - Question: Which philosopher said 'I am not, therefore I think'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, challenged the traditional
+        notion of existence by stating 'I am not, therefore I think'.
+    - Question: Who said 'I think, therefore I am, but I am not, therefore I think
+        not'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, explored the complexities
+        of existence and thought with this contradictory statement.
+    - Question: Which philosopher said 'I am, therefore I am not, but I am not, therefore
+        I am'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, delved into the paradoxical
+        nature of existence and non-existence.
+    - Question: Who said 'I am not, therefore I am not'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, questioned the concept
+        of existence with the phrase 'I am not, therefore I am not'.
+    - Question: Which philosopher said 'I am, therefore I am'?
+      TrueAnswer: Jean-Paul Sartre
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Immanuel Kant
+      - John Locke
+      Explanation: Jean-Paul Sartre, an influential existentialist philosopher, emphasized
+        the importance of personal existence and self-awareness.
+    - Question: Who said 'I am not, therefore I am'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, challenged the traditional
+        notion of existence with the phrase 'I am not, therefore I am'.
+    - Question: Which philosopher said 'I am, therefore I think, but I think not,
+        therefore I am not'?
+      TrueAnswer: Jean Baudrillard
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - Simone de Beauvoir
+      Explanation: Jean Baudrillard, a postmodern philosopher, explored the intricate
+        relationship between existence and thought in this statement.

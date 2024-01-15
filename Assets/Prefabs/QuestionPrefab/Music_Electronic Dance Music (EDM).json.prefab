@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1575416473098662613
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1738399381913748840}
+  - component: {fileID: 8727386090205789188}
+  m_Layer: 0
+  m_Name: Music_Electronic Dance Music (EDM).json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1738399381913748840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575416473098662613}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8727386090205789188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575416473098662613}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the 'Father of EDM'?
+      TrueAnswer: Giorgio Moroder
+      FalseAnswer:
+      - David Guetta
+      - Calvin Harris
+      - Avicii
+      Explanation: Giorgio Moroder is credited with pioneering electronic dance music
+        in the 1970s.
+    - Question: Which country is known for originating EDM?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Sweden
+      - Netherlands
+      - Australia
+      Explanation: While EDM has gained popularity worldwide, it originated in the
+        United States.
+    - Question: What does the acronym 'EDM' stand for?
+      TrueAnswer: Electronic Dance Music
+      FalseAnswer:
+      - Every Day Matters
+      - Extra Delicious Music
+      - Energetic Dance Moves
+      Explanation: EDM stands for Electronic Dance Music, a genre characterized by
+        electronic beats and danceable rhythms.
+    - Question: Which DJ is known for wearing a helmet during performances?
+      TrueAnswer: Marshmello
+      FalseAnswer:
+      - Martin Garrix
+      - Skrillex
+      - Zedd
+      Explanation: Marshmello is famous for his signature helmet, which he wears
+        to maintain anonymity.
+    - Question: What is the main instrument used in EDM production?
+      TrueAnswer: Computer
+      FalseAnswer:
+      - Guitar
+      - Piano
+      - Drums
+      Explanation: EDM producers primarily use computers and software to create their
+        music.
+    - Question: Which EDM subgenre is known for its heavy basslines and aggressive
+        sound?
+      TrueAnswer: Dubstep
+      FalseAnswer:
+      - Trance
+      - House
+      - Techno
+      Explanation: Dubstep is characterized by its intense bass drops and aggressive
+        sound design.
+    - Question: Which EDM festival is held annually in Belgium?
+      TrueAnswer: Tomorrowland
+      FalseAnswer:
+      - Ultra Music Festival
+      - Electric Daisy Carnival
+      - Coachella
+      Explanation: Tomorrowland is one of the world's largest and most popular EDM
+        festivals, attracting thousands of attendees.
+    - Question: Which DJ duo is known for their hit song 'Closer'?
+      TrueAnswer: The Chainsmokers
+      FalseAnswer:
+      - Daft Punk
+      - Disclosure
+      - "Axwell \u039B Ingrosso"
+      Explanation: The Chainsmokers gained widespread recognition with their chart-topping
+        single 'Closer'.
+    - Question: Which EDM artist collaborated with pop singer Dua Lipa on the song
+        'One Kiss'?
+      TrueAnswer: Calvin Harris
+      FalseAnswer:
+      - Kygo
+      - Zedd
+      - Martin Garrix
+      Explanation: Calvin Harris teamed up with Dua Lipa for the infectious EDM-pop
+        track 'One Kiss'.
+    - Question: Which DJ is known for his iconic track 'Levels'?
+      TrueAnswer: Avicii
+      FalseAnswer:
+      - Hardwell
+      - Tiesto
+      - Armin van Buuren
+      Explanation: Avicii achieved worldwide success with his breakout hit 'Levels'
+        in 2011.
+    - Question: Which EDM subgenre is characterized by its uplifting melodies and
+        euphoric atmosphere?
+      TrueAnswer: Trance
+      FalseAnswer:
+      - Drum and Bass
+      - Hardstyle
+      - Trap
+      Explanation: Trance music is known for its ethereal melodies and uplifting,
+        euphoric vibes.
+    - Question: Which DJ is known for his residency at the Hakkasan nightclub in
+        Las Vegas?
+      TrueAnswer: Tiesto
+      FalseAnswer:
+      - Steve Aoki
+      - Diplo
+      - Afrojack
+      Explanation: Tiesto has a long-standing residency at Hakkasan, one of the most
+        renowned nightclubs in Las Vegas.
+    - Question: Which EDM artist is known for his unique 'future bass' sound?
+      TrueAnswer: Flume
+      FalseAnswer:
+      - Skrillex
+      - Deadmau5
+      - Kaskade
+      Explanation: Flume is recognized for his innovative 'future bass' style, blending
+        elements of EDM and hip-hop.
+    - Question: Which DJ duo is known for their energetic performances and big room
+        sound?
+      TrueAnswer: W&W
+      FalseAnswer:
+      - Dimitri Vegas & Like Mike
+      - Knife Party
+      - Galantis
+      Explanation: W&W are renowned for their high-energy performances and their
+        signature big room sound.
+    - Question: Which EDM artist is known for his melodic and emotional tracks?
+      TrueAnswer: Illenium
+      FalseAnswer:
+      - Steve Angello
+      - Oliver Heldens
+      - Don Diablo
+      Explanation: Illenium is celebrated for his emotionally charged tracks, blending
+        EDM with elements of future bass and dubstep.
+    - Question: Which DJ is known for his 'French touch' sound and disco-influenced
+        tracks?
+      TrueAnswer: Daft Punk
+      FalseAnswer:
+      - Axwell
+      - Kaskade
+      - Eric Prydz
+      Explanation: Daft Punk is synonymous with their 'French touch' sound and their
+        disco-inspired electronic tracks.
+    - Question: Which EDM subgenre is characterized by its repetitive four-on-the-floor
+        beat?
+      TrueAnswer: House
+      FalseAnswer:
+      - Techno
+      - Drum and Bass
+      - Hardstyle
+      Explanation: House music is defined by its repetitive four-on-the-floor beat,
+        often accompanied by soulful vocals.
+    - Question: Which DJ is known for his energetic and interactive live performances?
+      TrueAnswer: Steve Aoki
+      FalseAnswer:
+      - Martin Solveig
+      - Alesso
+      - Robin Schulz
+      Explanation: Steve Aoki is famous for his high-energy live shows, often involving
+        cake-throwing and crowd-surfing.
+    - Question: Which EDM artist is known for his unique 'future house' sound?
+      TrueAnswer: Tchami
+      FalseAnswer:
+      - Don Diablo
+      - Oliver Heldens
+      - Nicky Romero
+      Explanation: Tchami is recognized for pioneering the 'future house' genre,
+        characterized by deep basslines and infectious grooves.
+    - Question: Which DJ duo is known for their energetic performances and 'big bounce'
+        sound?
+      TrueAnswer: Dimitri Vegas & Like Mike
+      FalseAnswer:
+      - Galantis
+      - The Chainsmokers
+      - Disclosure
+      Explanation: Dimitri Vegas & Like Mike are renowned for their high-octane performances
+        and their signature 'big bounce' sound.

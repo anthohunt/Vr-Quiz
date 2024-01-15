@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le logiciel le plus largement utilisé pour le design graphique ?",
+            "TrueAnswer": "Adobe Photoshop",
+            "FalseAnswer": [
+              "GIMP",
+              "Sketch",
+              "CorelDRAW"
+            ],
+            "Explanation": "Adobe Photoshop est la norme de l'industrie pour l'édition d'images matricielles et est utilisé pour créer et éditer des images."
+          },
+          {
+            "Question": "Quel mode couleur est largement utilisé pour le design web ?",
+            "TrueAnswer": "RVB",
+            "FalseAnswer": [
+              "CMJN",
+              "Pantone",
+              "Niveaux de gris"
+            ],
+            "Explanation": "Le mode couleur RVB (rouge, vert, bleu) est utilisé pour le design web car il est la norme pour les écrans numériques."
+          },
+          {
+            "Question": "Quel format de fichier est le mieux adapté pour un logo avec un fond transparent ?",
+            "TrueAnswer": "PNG",
+            "FalseAnswer": [
+              "JPEG",
+              "GIF",
+              "BMP"
+            ],
+            "Explanation": "Le format PNG prend en charge les fonds transparents, ce qui le rend idéal pour les logos et autres graphiques nécessitant de la transparence."
+          },
+          {
+            "Question": "Quel principe de design met l'accent sur la création d'un intérêt visuel par le contraste ?",
+            "TrueAnswer": "L'Emphase",
+            "FalseAnswer": [
+              "L'équilibre",
+              "L'unité",
+              "Le mouvement"
+            ],
+            "Explanation": "L'Emphase en design fait référence à la création de points focaux et à l'attention portée à certains éléments grâce au contraste de taille, de couleur ou de position."
+          },
+          {
+            "Question": "Que signifie l'acronyme UI en design graphique ?",
+            "TrueAnswer": "Interface utilisateur",
+            "FalseAnswer": [
+              "Illumination uniforme",
+              "Illustration unique",
+              "Intégration unifiée"
+            ],
+            "Explanation": "UI en design graphique signifie Interface Utilisateur et se concentre sur les éléments visuels et interactifs d'un produit."
+          },
+          {
+            "Question": "Quelle classification de typographie inclut des polices de caractères avec des designs décoratifs, ornés ?",
+            "TrueAnswer": "Display",
+            "FalseAnswer": [
+              "À empattement",
+              "Sans empattement",
+              "Script"
+            ],
+            "Explanation": "Les polices de caractères Display sont conçues à des fins décoratives et conviennent mieux pour les titres, affiches et autres applications à grande échelle."
+          },
+          {
+            "Question": "Que représente l'acronyme CMJN en design graphique ?",
+            "TrueAnswer": "Cyan, Magenta, Jaune, Noir",
+            "FalseAnswer": [
+              "Couleur, Mélange, Rendement, Mélange",
+              "Marketing créatif, Rendement, Audacieux, Clé",
+              "Courbé, Modéré, Rendement, Lumineux"
+            ],
+            "Explanation": "CMJN est le modèle colorimétrique standard utilisé en impression couleur, chaque lettre représentant l'une des quatre couleurs d'encre utilisées dans le processus d'impression."
+          },
+          {
+            "Question": "Quel type de design graphique se concentre sur la création d'identités visuelles pour les marques ?",
+            "TrueAnswer": "Conception de logos",
+            "FalseAnswer": [
+              "Web design",
+              "Conception d'emballage",
+              "Illustration"
+            ],
+            "Explanation": "La conception de logos est le processus de création d'une identité visuelle unique qui représente une marque et aide à établir sa présence sur le marché."
+          },
+          {
+            "Question": "Que signifie le terme 'débordement' en design graphique ?",
+            "TrueAnswer": "Zone supplémentaire en dehors du design pour tenir compte de la découpe",
+            "FalseAnswer": [
+              "Le processus de mélange des couleurs",
+              "Une erreur d'impression",
+              "Un élément de design trop utilisé"
+            ],
+            "Explanation": "Le débordement fait référence à la zone supplémentaire ajoutée à un design d'impression qui s'étend au-delà des dimensions réelles pour garantir que la pièce imprimée finale n'a pas de bords blancs."
+          },
+          {
+            "Question": "Quel logiciel est couramment utilisé pour le design graphique vectoriel ?",
+            "TrueAnswer": "Adobe Illustrator",
+            "FalseAnswer": [
+              "Inkscape",
+              "CorelDRAW",
+              "Sketch"
+            ],
+            "Explanation": "Adobe Illustrator est un éditeur de graphiques vectoriels utilisé pour créer des logos, des icônes, des illustrations et d'autres graphiques évolutifs."
+          },
+          {
+            "Question": "Quel est le but du maquettage dans le design web ?",
+            "TrueAnswer": "Dessiner la structure de base et la mise en page d'une page web",
+            "FalseAnswer": [
+              "Ajouter des couleurs et des images à une page web",
+              "Développer le code d'une page web",
+              "Créer des animations pour une page web"
+            ],
+            "Explanation": "Le maquettage est le processus de création d'un guide visuel qui dessine la mise en page et la structure de base d'un site web avant d'ajouter le design visuel et le contenu."
+          },
+          {
+            "Question": "Quel élément de design courant est utilisé pour créer de la texture en design graphique ?",
+            "TrueAnswer": "Dégradés",
+            "FalseAnswer": [
+              "Ombres portées",
+              "Bruit",
+              "Motifs"
+            ],
+            "Explanation": "Les dégradés sont utilisés pour créer des transitions en douceur entre les couleurs, ajoutant de la profondeur et de la texture aux designs graphiques et aux illustrations."
+          },
+          {
+            "Question": "Que signifie le terme 'crénage' en typographie?",
+            "TrueAnswer": "Ajuster l'espacement entre les caractères individuels",
+            "FalseAnswer": [
+              "Créer de nouvelles polices",
+              "Appliquer des effets spéciaux au texte",
+              "Choisir des styles de police"
+            ],
+            "Explanation": "Le crénage fait référence au processus d'ajustement de l'espacement entre les caractères individuels d'une police pour obtenir une typographie plus esthétique et équilibrée."
+          },
+          {
+            "Question": "Quel outil de design est utilisé pour aligner les éléments de manière égale dans une mise en page ?",
+            "TrueAnswer": "Grille",
+            "FalseAnswer": [
+              "Règle",
+              "Stylet",
+              "Compas"
+            ],
+            "Explanation": "Les grilles fournissent un cadre pour aligner et organiser les éléments dans une mise en page, assurant une cohérence visuelle et une structure."
+          },
+          {
+            "Question": "Quel espace couleur est utilisé pour l'impression professionnelle ?",
+            "TrueAnswer": "CMJN",
+            "FalseAnswer": [
+              "RVB",
+              "Pantone",
+              "Niveaux de gris"
+            ],
+            "Explanation": "Le CMJN est l'espace couleur préféré pour l'impression professionnelle car il représente les quatre couleurs d'encre utilisées dans le processus d'impression."
+          },
+          {
+            "Question": "Quel élément de design fait référence à l'espacement entre les lignes de texte ?",
+            "TrueAnswer": "Interlignage",
+            "FalseAnswer": [
+              "Approche",
+              "Crénage",
+              "Ligne de base"
+            ],
+            "Explanation": "L'interlignage, prononcé 'ledding', fait référence à l'espace vertical entre les lignes de texte et joue un rôle crucial dans la lisibilité et l'esthétique."
+          },
+          {
+            "Question": "Quel logiciel est couramment utilisé pour créer des illustrations numériques et des concepts artistiques ?",
+            "TrueAnswer": "Adobe Photoshop",
+            "FalseAnswer": [
+              "Corel Painter",
+              "Procreate",
+              "Krita"
+            ],
+            "Explanation": "Adobe Photoshop est largement utilisé par les artistes pour les illustrations numériques et les concepts artistiques en raison de ses outils et capacités polyvalents."
+          },
+          {
+            "Question": "Que signifie l'acronyme SVG dans le contexte du design graphique ?",
+            "TrueAnswer": "Graphics Vectoriels Scalables",
+            "FalseAnswer": [
+              "Graphiques Visuels Simples",
+              "Graphiques Vectoriels Élégants",
+              "Génération Vectorielle Systématique"
+            ],
+            "Explanation": "SVG est un format d'image vectorielle basé sur XML utilisé pour les graphiques vectoriels sur le web, offrant une scalabilité et une adaptabilité à différentes tailles d'écran sans perte de qualité."
+          },
+          {
+            "Question": "Quel principe de design fait référence à la relation entre les éléments dans un design ?",
+            "TrueAnswer": "Proximité",
+            "FalseAnswer": [
+              "Alignement",
+              "Contraste",
+              "Répétition"
+            ],
+            "Explanation": "La proximité en design fait référence au regroupement d'éléments apparentés, créant des relations visuelles et organisant le contenu pour une meilleure clarté et compréhension."
+          },
+          {
+            "Question": "Que signifie l'acronyme DPI en design graphique ?",
+            "TrueAnswer": "Points Par Pouce",
+            "FalseAnswer": [
+              "Intégration d'impression numérique",
+              "Interface Pixel de Design",
+              "Insertion d'impression dynamique"
+            ],
+            "Explanation": "Le DPI mesure la résolution d'une image ou d'une impression, indiquant le nombre de points individuels pouvant être placés dans un carré d'un pouce."
+          }
+        ]
+      }
+    }
+  ]
+}

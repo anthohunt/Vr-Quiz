@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5207632992251997514
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4923247781354839842}
+  - component: {fileID: 3247875922674110372}
+  m_Layer: 0
+  m_Name: Famous Quotes_Wisdom of the Ages.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4923247781354839842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5207632992251997514}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3247875922674110372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5207632992251997514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'The only true wisdom is in knowing you know nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates, the ancient Greek philosopher, believed that true wisdom
+        comes from recognizing one's own ignorance.
+    - Question: Which philosopher said 'Know thyself'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates emphasized the importance of self-knowledge as a path
+        to wisdom and personal growth.
+    - Question: Who said 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates believed that a life without self-reflection and critical
+        thinking lacks true value and purpose.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: "Ren\xE9 Descartes, a French philosopher, expressed the idea that
+        self-awareness proves one's existence."
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., believed that passion for
+        one's work is essential for achieving greatness.

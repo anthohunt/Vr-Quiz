@@ -1,0 +1,134 @@
+{
+    "Technology": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the most popular programming language?",
+                    "TrueAnswer": "Python",
+                    "FalseAnswer": ["Java", "C++", "Ruby"],
+                    "Explanation": "Python is widely used for web development, data analysis, artificial intelligence, and more."
+                },
+                {
+                    "Question": "Who is the founder of Apple Inc.?",
+                    "TrueAnswer": "Steve Jobs",
+                    "FalseAnswer": ["Bill Gates", "Mark Zuckerberg", "Elon Musk"],
+                    "Explanation": "Steve Jobs co-founded Apple Inc. and played a significant role in its success."
+                },
+                {
+                    "Question": "What is the largest social media platform?",
+                    "TrueAnswer": "Facebook",
+                    "FalseAnswer": ["Instagram", "Twitter", "LinkedIn"],
+                    "Explanation": "With billions of users, Facebook is the largest social media platform in the world."
+                },
+                {
+                    "Question": "What is the primary function of a router?",
+                    "TrueAnswer": "Network traffic routing",
+                    "FalseAnswer": ["Wireless charging", "Data storage", "Screen mirroring"],
+                    "Explanation": "Routers direct network traffic between devices, ensuring data packets reach their intended destinations."
+                },
+                {
+                    "Question": "What is the purpose of a startup accelerator?",
+                    "TrueAnswer": "Support and mentorship",
+                    "FalseAnswer": ["Funding startups", "Acquiring patents", "Developing new technologies"],
+                    "Explanation": "Startup accelerators provide support, mentorship, and resources to help early-stage companies grow and succeed."
+                },
+                {
+                    "Question": "What is the main goal of a hackathon?",
+                    "TrueAnswer": "Rapid innovation",
+                    "FalseAnswer": ["Networking", "Product marketing", "Fundraising"],
+                    "Explanation": "Hackathons encourage participants to collaborate and rapidly develop innovative solutions to specific challenges."
+                },
+                {
+                    "Question": "What is the purpose of a minimum viable product (MVP)?",
+                    "TrueAnswer": "Test market demand",
+                    "FalseAnswer": ["Generate revenue", "Secure funding", "Establish brand identity"],
+                    "Explanation": "An MVP allows startups to test their product or service in the market and gather feedback before investing further resources."
+                },
+                {
+                    "Question": "What is the primary role of a venture capitalist?",
+                    "TrueAnswer": "Invest in startups",
+                    "FalseAnswer": ["Develop software", "Provide legal advice", "Manage marketing campaigns"],
+                    "Explanation": "Venture capitalists invest capital in early-stage companies in exchange for equity, aiming for high returns on their investments."
+                },
+                {
+                    "Question": "What is the purpose of an incubator program?",
+                    "TrueAnswer": "Nurture early-stage startups",
+                    "FalseAnswer": ["Develop hardware prototypes", "Host industry conferences", "Offer cloud computing services"],
+                    "Explanation": "Incubator programs provide resources, mentorship, and support to help early-stage startups grow and succeed."
+                },
+                {
+                    "Question": "What is the primary focus of a startup pitch deck?",
+                    "TrueAnswer": "Attract investors",
+                    "FalseAnswer": ["Recruit employees", "Secure partnerships", "Generate media coverage"],
+                    "Explanation": "A startup pitch deck is a presentation that aims to attract investors by showcasing the company's value proposition, market potential, and growth strategy."
+                },
+                {
+                    "Question": "What is the purpose of a patent?",
+                    "TrueAnswer": "Protect intellectual property",
+                    "FalseAnswer": ["Secure funding", "Attract customers", "Expand market reach"],
+                    "Explanation": "A patent grants exclusive rights to an inventor, protecting their invention from being used, made, or sold by others without permission."
+                },
+                {
+                    "Question": "What is the primary goal of user experience (UX) design?",
+                    "TrueAnswer": "Enhance user satisfaction",
+                    "FalseAnswer": ["Increase website traffic", "Reduce development costs", "Improve search engine rankings"],
+                    "Explanation": "UX design focuses on creating intuitive, user-friendly interfaces and interactions to enhance user satisfaction and overall experience."
+                },
+                {
+                    "Question": "What is the purpose of an agile development methodology?",
+                    "TrueAnswer": "Iterative and flexible approach",
+                    "FalseAnswer": ["Strict project deadlines", "Maximize resource utilization", "Minimize software bugs"],
+                    "Explanation": "Agile development emphasizes collaboration, adaptability, and iterative development to deliver high-quality software efficiently."
+                },
+                {
+                    "Question": "What is the primary purpose of a product roadmap?",
+                    "TrueAnswer": "Visualize product strategy",
+                    "FalseAnswer": ["Manage customer support", "Track financial performance", "Optimize supply chain"],
+                    "Explanation": "A product roadmap provides a visual representation of a product's strategic direction, key milestones, and planned features."
+                },
+                {
+                    "Question": "What is the primary focus of growth hacking?",
+                    "TrueAnswer": "Rapid user acquisition",
+                    "FalseAnswer": ["Brand reputation management", "Cost reduction strategies", "Long-term customer retention"],
+                    "Explanation": "Growth hacking focuses on rapid experimentation and unconventional marketing tactics to achieve rapid user acquisition and business growth."
+                },
+                {
+                    "Question": "What is the purpose of A/B testing?",
+                    "TrueAnswer": "Compare two versions",
+                    "FalseAnswer": ["Optimize server performance", "Automate repetitive tasks", "Detect cybersecurity threats"],
+                    "Explanation": "A/B testing compares two versions of a webpage, email, or other content to determine which performs better in terms of user engagement or conversion rates."
+                },
+                {
+                    "Question": "What is the primary goal of a startup pivot?",
+                    "TrueAnswer": "Adapt to market changes",
+                    "FalseAnswer": ["Increase profit margins", "Expand into new markets", "Attract top talent"],
+                    "Explanation": "A startup pivot involves changing the company's business model, product, or target market to adapt to market conditions and improve chances of success."
+                },
+                {
+                    "Question": "What is the purpose of a seed round of funding?",
+                    "TrueAnswer": "Fund early-stage startups",
+                    "FalseAnswer": ["Acquire established companies", "Launch marketing campaigns", "Develop new technologies"],
+                    "Explanation": "Seed funding provides capital to early-stage startups to support product development, market research, and initial operations."
+                },
+                {
+                    "Question": "What is the primary focus of a startup advisory board?",
+                    "TrueAnswer": "Provide guidance and expertise",
+                    "FalseAnswer": ["Manage financial investments", "Develop marketing strategies", "Handle legal disputes"],
+                    "Explanation": "A startup advisory board consists of experienced individuals who provide guidance, expertise, and strategic advice to help the company succeed."
+                },
+                {
+                    "Question": "What is the purpose of a hackathon?",
+                    "TrueAnswer": "Rapid innovation",
+                    "FalseAnswer": ["Networking", "Product marketing", "Fundraising"],
+                    "Explanation": "Hackathons encourage participants to collaborate and rapidly develop innovative solutions to specific challenges."
+                },
+                {
+                    "Question": "What is the main goal of a hackathon?",
+                    "TrueAnswer": "Rapid innovation",
+                    "FalseAnswer": ["Networking", "Product marketing", "Fundraising"],
+                    "Explanation": "Hackathons encourage participants to collaborate and rapidly develop innovative solutions to specific challenges."
+                }
+            ]
+        }
+    ]
+}

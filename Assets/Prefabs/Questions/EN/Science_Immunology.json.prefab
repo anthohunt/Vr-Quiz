@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2991893286733018812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5900994462274308421}
+  - component: {fileID: 6545560465140723808}
+  m_Layer: 0
+  m_Name: Science_Immunology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5900994462274308421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2991893286733018812}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6545560465140723808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2991893286733018812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cells in the immune system are responsible for producing antibodies?
+      TrueAnswer: B cells
+      FalseAnswer:
+      - T cells
+      - Natural killer cells
+      - Macrophages
+      Explanation: B cells, a type of white blood cell, are responsible for producing
+        antibodies to neutralize and eliminate pathogens.
+    - Question: What is the protein on the surface of a virus or bacteria that triggers
+        an immune response called?
+      TrueAnswer: Antigen
+      FalseAnswer:
+      - Antibody
+      - Pathogen
+      - Enzyme
+      Explanation: Antigens are specific proteins on the surface of pathogens that
+        the immune system recognizes as foreign, triggering an immune response.
+    - Question: Which type of immunity is acquired through vaccination or exposure
+        to a pathogen?
+      TrueAnswer: Active immunity
+      FalseAnswer:
+      - Passive immunity
+      - Innate immunity
+      - Adaptive immunity
+      Explanation: Active immunity is achieved when the body produces its own immune
+        response, either through vaccination or natural exposure to a pathogen.
+    - Question: What is the process by which white blood cells engulf and digest
+        foreign particles called?
+      TrueAnswer: Phagocytosis
+      FalseAnswer:
+      - Endocytosis
+      - Exocytosis
+      - Pinocytosis
+      Explanation: Phagocytosis is the mechanism by which immune cells engulf and
+        digest foreign particles, such as bacteria or dead cells.
+    - Question: Which class of antibodies is the most common in the bloodstream?
+      TrueAnswer: IgG
+      FalseAnswer:
+      - IgA
+      - IgM
+      - IgE
+      Explanation: IgG antibodies are the most common type found in the bloodstream
+        and play a key role in providing long-term immunity.
+    - Question: What is the major histocompatibility complex (MHC) responsible for
+        in the immune system?
+      TrueAnswer: Presenting antigens to T cells
+      FalseAnswer:
+      - Producing antibodies
+      - Destroying pathogens
+      - Activating B cells
+      Explanation: MHC molecules present antigens to T cells, allowing the immune
+        system to recognize and mount a response against specific pathogens.
+    - Question: Which specialized immune cells release histamine during an allergic
+        response?
+      TrueAnswer: Mast cells
+      FalseAnswer:
+      - Neutrophils
+      - Eosinophils
+      - Basophils
+      Explanation: Mast cells release histamine, triggering the symptoms of an allergic
+        response, such as itching, swelling, and mucus production.
+    - Question: Which type of T cells coordinate the immune response and activate
+        other immune cells?
+      TrueAnswer: Helper T cells
+      FalseAnswer:
+      - Killer T cells
+      - Memory T cells
+      - Regulatory T cells
+      Explanation: Helper T cells play a central role in coordinating and regulating
+        the immune response by activating other immune cells when an antigen is present.
+    - Question: What is the main function of natural killer (NK) cells in the immune
+        system?
+      TrueAnswer: Destroying virus-infected cells and tumor cells
+      FalseAnswer:
+      - Producing antibodies
+      - Phagocytosis of bacteria
+      - Releasing histamine
+      Explanation: NK cells are specialized in recognizing and eliminating virus-infected
+        cells and tumor cells without prior sensitization.
+    - Question: Which immunoglobulin is the first to be produced during an initial
+        immune response?
+      TrueAnswer: IgM
+      FalseAnswer:
+      - IgG
+      - IgA
+      - IgE
+      Explanation: IgM antibodies are the first to be produced during the initial
+        immune response to an infecting pathogen.

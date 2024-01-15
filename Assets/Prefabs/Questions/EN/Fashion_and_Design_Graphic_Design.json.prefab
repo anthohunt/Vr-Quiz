@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6124215517489049037
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3404439256773695579}
+  - component: {fileID: 6272759133024759515}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Graphic_Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3404439256773695579
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6124215517489049037}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6272759133024759515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6124215517489049037}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most widely used software for graphic design?
+      TrueAnswer: Adobe Photoshop
+      FalseAnswer:
+      - GIMP
+      - Sketch
+      - CorelDRAW
+      Explanation: Adobe Photoshop is the industry standard for raster graphics editing
+        and is used for creating and editing images.
+    - Question: Which color mode is widely used for web design?
+      TrueAnswer: RGB
+      FalseAnswer:
+      - CMYK
+      - Pantone
+      - Grayscale
+      Explanation: RGB (Red, Green, Blue) color mode is used for web design as it
+        is the standard for digital screens.
+    - Question: What file format is best for a logo with a transparent background?
+      TrueAnswer: PNG
+      FalseAnswer:
+      - JPEG
+      - GIF
+      - BMP
+      Explanation: PNG format supports transparent backgrounds, making it ideal for
+        logos and other graphics with transparency needs.
+    - Question: Which design principle focuses on creating visual interest through
+        contrast?
+      TrueAnswer: Emphasis
+      FalseAnswer:
+      - Balance
+      - Unity
+      - Movement
+      Explanation: Emphasis in design refers to creating focal points and drawing
+        attention to certain elements through contrast in size, color, or position.
+    - Question: What does the acronym UI stand for in graphic design?
+      TrueAnswer: User Interface
+      FalseAnswer:
+      - Uniform Illumination
+      - Unique Illustration
+      - Unified Integration
+      Explanation: UI in graphic design stands for User Interface, which focuses
+        on the visual and interactive elements of a product.
+    - Question: Which typography classification includes typefaces with decorative,
+        ornate designs?
+      TrueAnswer: Display
+      FalseAnswer:
+      - Serif
+      - Sans-serif
+      - Script
+      Explanation: Display typefaces are designed for decorative purposes and are
+        best suited for headlines, posters, and other large-scale applications.
+    - Question: What does the acronym CMYK refer to in graphic design?
+      TrueAnswer: Cyan, Magenta, Yellow, Black
+      FalseAnswer:
+      - Color, Mix, Yield, Blend
+      - Creative Marketing, Yield, Bold, Key
+      - Curved, Moderate, Yield, Bright
+      Explanation: CMYK is the standard color model used in color printing, with
+        each letter representing one of the four ink colors used in the printing
+        process.
+    - Question: Which type of graphic design focuses on creating visual identities
+        for brands?
+      TrueAnswer: Logo design
+      FalseAnswer:
+      - Web design
+      - Packaging design
+      - Illustration
+      Explanation: Logo design is the process of creating a unique visual identity
+        that represents a brand and helps establish its presence in the market.
+    - Question: What does the term 'bleed' refer to in graphic design?
+      TrueAnswer: Extra area outside the design to account for cutting
+      FalseAnswer:
+      - The process of blending colors
+      - A printing error
+      - An overused design element
+      Explanation: Bleed refers to the extra area added to a print design that extends
+        beyond the actual dimensions to ensure the final printed piece has no white
+        edges.
+    - Question: Which software is commonly used for vector graphic design?
+      TrueAnswer: Adobe Illustrator
+      FalseAnswer:
+      - Inkscape
+      - CorelDRAW
+      - Sketch
+      Explanation: Adobe Illustrator is a vector graphics editor used to create logos,
+        icons, illustrations, and other scalable graphics.
+    - Question: What is the purpose of wireframing in web design?
+      TrueAnswer: Outline the basic structure and layout of a webpage
+      FalseAnswer:
+      - Adding colors and images to a webpage
+      - Developing code for a webpage
+      - Creating animations for a webpage
+      Explanation: Wireframing is the process of creating a visual guide that outlines
+        the basic layout and structure of a website before visual design and content
+        are added.
+    - Question: Which of the following is a common design element used for creating
+        texture in graphic design?
+      TrueAnswer: Gradients
+      FalseAnswer:
+      - Drop shadows
+      - Noise
+      - Patterns
+      Explanation: Gradients are used to create smooth transitions between colors,
+        adding depth and texture to graphic designs and illustrations.
+    - Question: What does the term 'kerning' refer to in typography?
+      TrueAnswer: Adjusting the spacing between individual characters
+      FalseAnswer:
+      - Creating new fonts
+      - Applying special effects to text
+      - Choosing typeface styles
+      Explanation: Kerning refers to the process of adjusting the spacing between
+        individual characters in a font to achieve more visually pleasing and balanced
+        typography.
+    - Question: What design tool is used to align elements evenly in a design layout?
+      TrueAnswer: Grid
+      FalseAnswer:
+      - Ruler
+      - Stylus
+      - Compass
+      Explanation: Grids provide a framework for aligning and organizing elements
+        in a design layout, ensuring visual consistency and structure.
+    - Question: Which color space is used for professional printing?
+      TrueAnswer: CMYK
+      FalseAnswer:
+      - RGB
+      - Pantone
+      - Grayscale
+      Explanation: CMYK is the preferred color space for professional printing as
+        it represents the four ink colors used in the printing process.
+    - Question: What design element refers to the spacing between lines of text?
+      TrueAnswer: Leading
+      FalseAnswer:
+      - Tracking
+      - Kerning
+      - Baseline
+      Explanation: Leading, pronounced as 'ledding', refers to the vertical space
+        between lines of text and plays a crucial role in readability and aesthetics.
+    - Question: Which software is commonly used for creating digital illustrations
+        and concept art?
+      TrueAnswer: Adobe Photoshop
+      FalseAnswer:
+      - Corel Painter
+      - Procreate
+      - Krita
+      Explanation: Adobe Photoshop is widely used by artists for digital illustrations
+        and concept art due to its versatile tools and capabilities.
+    - Question: What does the acronym SVG stand for in the context of graphic design?
+      TrueAnswer: Scalable Vector Graphics
+      FalseAnswer:
+      - Simple Visual Graphics
+      - Stylish Vector Graphics
+      - Systematic Vector Generation
+      Explanation: SVG is an XML-based vector image format used for vector graphics
+        on the web, providing scalability and adaptability to different screen sizes
+        without losing quality.
+    - Question: Which design principle refers to the relationship between elements
+        in a design?
+      TrueAnswer: Proximity
+      FalseAnswer:
+      - Alignment
+      - Contrast
+      - Repetition
+      Explanation: Proximity in design refers to the grouping of related elements,
+        creating visual relationships and organizing content for better clarity and
+        comprehension.
+    - Question: What does the acronym DPI stand for in graphic design?
+      TrueAnswer: Dots Per Inch
+      FalseAnswer:
+      - Digital Printing Integration
+      - Design Pixel Interface
+      - Dynamic Print Insertion
+      Explanation: DPI measures the resolution of an image or print, indicating the
+        number of individual dots that can be placed within a one-inch square.

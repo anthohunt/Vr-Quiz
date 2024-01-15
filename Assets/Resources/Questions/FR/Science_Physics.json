@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la formule de la loi de conservation de l'énergie?",
+            "TrueAnswer": "E = mc^2",
+            "FalseAnswer": [
+              "F = ma",
+              "E = 1/2 mv^2",
+              "P = mv"
+            ],
+            "Explanation": "La formule E = mc^2, proposée par Albert Einstein en 1905, établit que l'énergie et la masse sont équivalentes et interchangeables."
+          },
+          {
+            "Question": "Quelle est l'unité SI de la force?",
+            "TrueAnswer": "Newton",
+            "FalseAnswer": [
+              "Joule",
+              "Watt",
+              "Coulomb"
+            ],
+            "Explanation": "Le newton (N) est l'unité dérivée du Système international d'unités (SI) pour la force, nommée d'après Sir Isaac Newton."
+          },
+          {
+            "Question": "Qui a proposé les trois lois du mouvement?",
+            "TrueAnswer": "Isaac Newton",
+            "FalseAnswer": [
+              "Albert Einstein",
+              "Stephen Hawking",
+              "Galileo Galilei"
+            ],
+            "Explanation": "Isaac Newton a formulé les lois du mouvement dans son œuvre 'Principes mathématiques de philosophie naturelle', également connue sous le nom de 'Principia', publiée en 1687."
+          },
+          {
+            "Question": "Quelle force maintient les planètes en orbite autour du soleil?",
+            "TrueAnswer": "Gravité",
+            "FalseAnswer": [
+              "Magnétisme",
+              "Frottement",
+              "Tension"
+            ],
+            "Explanation": "La force gravitationnelle entre une planète et le soleil maintient la planète en orbite, comme décrit par les lois de Kepler sur le mouvement planétaire."
+          },
+          {
+            "Question": "Quelle est la vitesse de la lumière dans le vide?",
+            "TrueAnswer": "299 792 458 m/s",
+            "FalseAnswer": [
+              "100 000 000 m/s",
+              "500 000 000 m/s",
+              "1 000 000 000 m/s"
+            ],
+            "Explanation": "La vitesse de la lumière dans le vide est d'environ 299 792 458 mètres par seconde, une constante fondamentale en physique."
+          },
+          {
+            "Question": "Quel scientifique a proposé la théorie de la relativité générale?",
+            "TrueAnswer": "Albert Einstein",
+            "FalseAnswer": [
+              "Isaac Newton",
+              "Max Planck",
+              "Niels Bohr"
+            ],
+            "Explanation": "En 1915, Albert Einstein a publié la théorie de la relativité générale, révolutionnant la compréhension de la gravité et de l'espace-temps."
+          },
+          {
+            "Question": "Quelle est la longueur d'onde de la lumière visible?",
+            "TrueAnswer": "400-700 nm",
+            "FalseAnswer": [
+              "100-300 nm",
+              "800-1000 nm",
+              "300-600 nm"
+            ],
+            "Explanation": "La lumière visible se compose d'ondes électromagnétiques avec des longueurs d'onde allant d'environ 400 à 700 nanomètres, perçues comme différentes couleurs par l'œil humain."
+          },
+          {
+            "Question": "Quelle est la nature double de la lumière?",
+            "TrueAnswer": "Dualité onde-particule",
+            "FalseAnswer": [
+              "Intrication quantique",
+              "Résonance électromagnétique",
+              "Interférence d'ondes"
+            ],
+            "Explanation": "La dualité onde-particule de la lumière signifie qu'elle présente à la fois un comportement ondulatoire et particulaire, comme l'a élucidé la mécanique quantique."
+          },
+          {
+            "Question": "Quelle est l'unité de résistance électrique?",
+            "TrueAnswer": "Ohm",
+            "FalseAnswer": [
+              "Volt",
+              "Ampère",
+              "Joule"
+            ],
+            "Explanation": "L'ohm (Ω) est l'unité SI de la résistance électrique, nommée d'après le physicien allemand Georg Simon Ohm."
+          },
+          {
+            "Question": "Quel effet décrit l'augmentation de la fréquence observée d'une onde se rapprochant d'un observateur?",
+            "TrueAnswer": "Effet Doppler",
+            "FalseAnswer": [
+              "Effet Faraday",
+              "Effet Compton",
+              "Effet Zeeman"
+            ],
+            "Explanation": "L'effet Doppler explique le changement de fréquence et de longueur d'onde d'une onde, telle que le son ou la lumière, lorsque la source et l'observateur se déplacent l'un par rapport à l'autre."
+          },
+          {
+            "Question": "Quelle est l'unité de mesure pour le travail et l'énergie selon le Système international?",
+            "TrueAnswer": "Joule",
+            "FalseAnswer": [
+              "Watt",
+              "Newton",
+              "Coulomb"
+            ],
+            "Explanation": "Le joule (J) est l'unité SI pour le travail et l'énergie, représentant la quantité de travail effectuée par une force d'un newton sur une distance d'un mètre."
+          },
+          {
+            "Question": "Quelle force fondamentale est responsable de la désintégration radioactive?",
+            "TrueAnswer": "Force nucléaire faible",
+            "FalseAnswer": [
+              "Force nucléaire forte",
+              "Force électromagnétique",
+              "Force gravitationnelle"
+            ],
+            "Explanation": "La force nucléaire faible est l'une des quatre forces fondamentales de la nature et est responsable de phénomènes tels que la désintégration bêta dans les éléments radioactifs."
+          },
+          {
+            "Question": "Quel principe affirme que le flux électrique total à travers une surface fermée est égal à la charge incluse?",
+            "TrueAnswer": "Loi de Gauss",
+            "FalseAnswer": [
+              "Loi de Coulomb",
+              "Loi d'Ampère",
+              "Loi de Faraday"
+            ],
+            "Explanation": "La loi de Gauss pour l'électricité est l'une des quatre équations de Maxwell, décrivant la relation entre la distribution de charge électrique et le champ électrique."
+          },
+          {
+            "Question": "Quelle force est responsable de la fusion nucléaire dans le cœur du Soleil?",
+            "TrueAnswer": "Force nucléaire forte",
+            "FalseAnswer": [
+              "Force nucléaire faible",
+              "Force gravitationnelle",
+              "Force électromagnétique"
+            ],
+            "Explanation": "La force nucléaire forte, l'une des forces fondamentales, maintient ensemble les protons et les neutrons dans les noyaux atomiques et facilite la fusion nucléaire dans des étoiles comme le Soleil."
+          },
+          {
+            "Question": "Quelle propriété d'un objet reste constante si aucune force extérieure n'agit sur lui?",
+            "TrueAnswer": "Vélocité",
+            "FalseAnswer": [
+              "Accélération",
+              "Momentum",
+              "Énergie cinétique"
+            ],
+            "Explanation": "Selon la première loi de Newton, un objet au repos ou en mouvement conservera une vélocité constante à moins d'être soumis à une force déséquilibrée."
+          },
+          {
+            "Question": "Quelle grandeur est conservée dans un système isolé selon le principe de conservation de la quantité de mouvement?",
+            "TrueAnswer": "Quantité de mouvement",
+            "FalseAnswer": [
+              "Énergie",
+              "Force",
+              "Moment cinétique"
+            ],
+            "Explanation": "Le principe de conservation de la quantité de mouvement stipule que la quantité totale de mouvement d'un système isolé reste constante en l'absence de forces extérieures."
+          },
+          {
+            "Question": "Quelle est l'unité de mesure de l'angle sous-tendu par un objet tel qu'il est vu par un observateur?",
+            "TrueAnswer": "Radian",
+            "FalseAnswer": [
+              "Degré",
+              "Seconde d'arc",
+              "Révolution"
+            ],
+            "Explanation": "Le radian (rad) est l'unité de mesure standard pour les angles, définie comme l'angle sous-tendu au centre d'un cercle par un arc de longueur égale au rayon du cercle."
+          },
+          {
+            "Question": "Quatrième force fondamentale de la nature, en dehors de la gravité, de l'électromagnétisme et de la force nucléaire forte?",
+            "TrueAnswer": "Force nucléaire faible",
+            "FalseAnswer": [
+              "Force de l'énergie sombre",
+              "Force magnéto-gravitique",
+              "Force scalaire"
+            ],
+            "Explanation": "La force nucléaire faible, également connue sous le nom d'interaction faible, est l'une des quatre forces fondamentales et joue un rôle crucial dans de nombreux processus subatomiques."
+          },
+          {
+            "Question": "Quelle est l'équation de la force de gravité entre deux objets?",
+            "TrueAnswer": "F = G(m1m2/r^2)",
+            "FalseAnswer": [
+              "F = ma",
+              "F = μN",
+              "F = kq1q2/r^2"
+            ],
+            "Explanation": "L'équation F = G(m1m2/r^2) décrit la force de gravité entre deux objets, où G est la constante gravitationnelle, m1 et m2 sont les masses, et r est la distance entre eux."
+          },
+          {
+            "Question": "Phénomène selon lequel la lumière se courbe en passant à travers différents milieux?",
+            "TrueAnswer": "Réfraction",
+            "FalseAnswer": [
+              "Réflexion",
+              "Diffraction",
+              "Dispersion"
+            ],
+            "Explanation": "La réfraction est la courbure de la lumière lorsqu'elle passe d'un milieu à un autre, tel que de l'air à l'eau, provoquant des changements de direction et de vitesse."
+          }
+        ]
+      }
+    }
+  ]
+}

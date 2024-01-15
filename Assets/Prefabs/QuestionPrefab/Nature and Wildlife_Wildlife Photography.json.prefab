@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6721471914916396244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5470123344709776649}
+  - component: {fileID: 5793383364912353341}
+  m_Layer: 0
+  m_Name: Nature and Wildlife_Wildlife Photography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5470123344709776649
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6721471914916396244}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5793383364912353341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6721471914916396244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest land animal in the world?
+      TrueAnswer: Elephant
+      FalseAnswer:
+      - Giraffe
+      - Hippopotamus
+      - Rhino
+      Explanation: The elephant is the largest land animal, known for its size and
+        distinctive trunk.
+    - Question: Which bird is known for its ability to mimic human speech?
+      TrueAnswer: Parrot
+      FalseAnswer:
+      - Ostrich
+      - Penguin
+      - Eagle
+      Explanation: Parrots are known for their ability to mimic human speech, making
+        them popular pets.
+    - Question: What is the largest species of shark?
+      TrueAnswer: Whale Shark
+      FalseAnswer:
+      - Great White Shark
+      - Tiger Shark
+      - Hammerhead Shark
+      Explanation: The whale shark is the largest species of shark, known for its
+        massive size and filter-feeding habits.
+    - Question: Which animal is known for its black and white stripes?
+      TrueAnswer: Zebra
+      FalseAnswer:
+      - Giraffe
+      - Tiger
+      - Leopard
+      Explanation: Zebras are known for their distinctive black and white stripes,
+        which help them blend into their surroundings.
+    - Question: What is the largest species of penguin?
+      TrueAnswer: Emperor Penguin
+      FalseAnswer:
+      - King Penguin
+      - Adelie Penguin
+      - Gentoo Penguin
+      Explanation: The emperor penguin is the largest species of penguin, known for
+        its size and distinctive yellow markings.
+    - Question: Which animal is known for its ability to camouflage and change colors?
+      TrueAnswer: Chameleon
+      FalseAnswer:
+      - Lizard
+      - Snake
+      - Frog
+      Explanation: Chameleons are known for their ability to change colors and blend
+        into their surroundings, making them excellent hunters.
+    - Question: What is the largest species of bear?
+      TrueAnswer: Polar Bear
+      FalseAnswer:
+      - Grizzly Bear
+      - Black Bear
+      - Kodiak Bear
+      Explanation: The polar bear is the largest species of bear, known for its white
+        fur and ability to survive in cold climates.
+    - Question: Which animal is known for its long neck?
+      TrueAnswer: Giraffe
+      FalseAnswer:
+      - Elephant
+      - Kangaroo
+      - Horse
+      Explanation: Giraffes are known for their long necks, which help them reach
+        leaves on tall trees.
+    - Question: What is the largest species of big cat?
+      TrueAnswer: Tiger
+      FalseAnswer:
+      - Lion
+      - Leopard
+      - Cheetah
+      Explanation: The tiger is the largest species of big cat, known for its strength
+        and distinctive orange and black stripes.
+    - Question: Which animal is known for its ability to fly?
+      TrueAnswer: Bird
+      FalseAnswer:
+      - Bat
+      - Butterfly
+      - Dragonfly
+      Explanation: Birds are known for their ability to fly, with various species
+        having different flight capabilities.
+    - Question: What is the largest species of deer?
+      TrueAnswer: Elk
+      FalseAnswer:
+      - Moose
+      - White-tailed Deer
+      - Red Deer
+      Explanation: The elk is the largest species of deer, known for its large antlers
+        and size.
+    - Question: Which animal is known for its ability to climb trees?
+      TrueAnswer: Squirrel
+      FalseAnswer:
+      - Rabbit
+      - Mouse
+      - Hamster
+      Explanation: Squirrels are known for their ability to climb trees and store
+        food for the winter.
+    - Question: What is the largest species of eagle?
+      TrueAnswer: Harpy Eagle
+      FalseAnswer:
+      - Bald Eagle
+      - Golden Eagle
+      - Peregrine Falcon
+      Explanation: The harpy eagle is the largest species of eagle, known for its
+        size and powerful talons.
+    - Question: Which animal is known for its ability to swim and catch fish?
+      TrueAnswer: Otter
+      FalseAnswer:
+      - Seal
+      - Dolphin
+      - Penguin
+      Explanation: Otters are known for their ability to swim and catch fish, using
+        their webbed feet and dexterous paws.
+    - Question: What is the largest species of snake?
+      TrueAnswer: Anaconda
+      FalseAnswer:
+      - Python
+      - Cobra
+      - Rattlesnake
+      Explanation: The anaconda is the largest species of snake, known for its size
+        and ability to constrict its prey.
+    - Question: Which animal is known for its ability to jump long distances?
+      TrueAnswer: Kangaroo
+      FalseAnswer:
+      - Rabbit
+      - Frog
+      - Grasshopper
+      Explanation: Kangaroos are known for their ability to jump long distances,
+        using their powerful hind legs.
+    - Question: What is the largest species of crocodile?
+      TrueAnswer: Saltwater Crocodile
+      FalseAnswer:
+      - Nile Crocodile
+      - American Crocodile
+      - Gharial
+      Explanation: The saltwater crocodile is the largest species of crocodile, known
+        for its size and aggressive nature.
+    - Question: Which animal is known for its ability to dig complex underground
+        burrows?
+      TrueAnswer: Meerkat
+      FalseAnswer:
+      - Mole
+      - Badger
+      - Groundhog
+      Explanation: Meerkats are known for their ability to dig complex underground
+        burrows, providing shelter and protection.
+    - Question: What is the largest species of kangaroo?
+      TrueAnswer: Red Kangaroo
+      FalseAnswer:
+      - Grey Kangaroo
+      - Wallaby
+      - Tree Kangaroo
+      Explanation: The red kangaroo is the largest species of kangaroo, known for
+        its size and powerful legs.
+    - Question: Which animal is known for its ability to glide through the air?
+      TrueAnswer: Flying Squirrel
+      FalseAnswer:
+      - Bat
+      - Sugar Glider
+      - Flying Lemur
+      Explanation: Flying squirrels are known for their ability to glide through
+        the air, using flaps of skin between their limbs.

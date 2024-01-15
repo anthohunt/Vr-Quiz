@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le principal gaz à effet de serre responsable du réchauffement climatique global?",
+            "TrueAnswer": "Dioxyde de carbone",
+            "FalseAnswer": [
+              "Méthane",
+              "Protoxyde d'azote",
+              "Oxygène"
+            ],
+            "Explanation": "Le dioxyde de carbone est le principal gaz à effet de serre responsable du réchauffement climatique global, représentant environ 76% de l'effet de serre."
+          },
+          {
+            "Question": "Lequel des climats suivants est caractérisé par des hivers froids et longs et des étés courts et frais?",
+            "TrueAnswer": "Polaire",
+            "FalseAnswer": [
+              "Tempéré",
+              "Tropical",
+              "Aride"
+            ],
+            "Explanation": "La zone climatique polaire est caractérisée par des hivers froids et longs et des étés courts et frais en raison de sa haute latitude et des masses d'air polaires."
+          },
+          {
+            "Question": "Quel phénomène météorologique se produit le long de l'équateur en raison du réchauffement de l'air et des courants de convection ascendante?",
+            "TrueAnswer": "El Niño",
+            "FalseAnswer": [
+              "Typhon",
+              "Vortex polaire",
+              "Mousson"
+            ],
+            "Explanation": "El Niño est un schéma climatique caractérisé par le réchauffement des températures de surface de la mer dans l'océan Pacifique central et oriental, entraînant des perturbations météorologiques mondiales."
+          },
+          {
+            "Question": "Quelle couche atmosphérique protège la Terre contre les radiations solaires nocives?",
+            "TrueAnswer": "Couche d'ozone",
+            "FalseAnswer": [
+              "Stratosphère",
+              "Mésosphère",
+              "Troposphère"
+            ],
+            "Explanation": "La couche d'ozone, située dans la stratosphère, absorbe la majorité des radiations ultraviolettes du Soleil et protège la Terre de leurs effets nocifs."
+          },
+          {
+            "Question": "Quelle classification climatique est associée à des forêts denses à feuilles persistantes et à des précipitations abondantes tout au long de l'année?",
+            "TrueAnswer": "Af (Forêt tropicale)",
+            "FalseAnswer": [
+              "BS (Aride)",
+              "ET (Toundra polaire)",
+              "Dfb (Continental à été chaud)"
+            ],
+            "Explanation": "La classification Af, également connue sous le nom de forêt tropicale, est caractérisée par des forêts denses à feuillage persistant et des précipitations abondantes tout au long de l'année, souvent situées près de l'équateur."
+          },
+          {
+            "Question": "Quel est le nom du schéma climatique à grande échelle dans lequel l'océan Pacifique connaît des températures de surface de la mer anormalement élevées?",
+            "TrueAnswer": "La Niña",
+            "FalseAnswer": [
+              "Mousson",
+              "Cyclone",
+              "Haboob"
+            ],
+            "Explanation": "La Niña est le pendant de El Niño, caractérisé par des températures de surface de la mer inférieures à la normale dans l'océan Pacifique central et oriental, impactant les schémas climatiques mondiaux."
+          },
+          {
+            "Question": "Dans quelle couche de l'atmosphère se produisent la plupart des phénomènes météorologiques?",
+            "TrueAnswer": "Troposphère",
+            "FalseAnswer": [
+              "Thermosphère",
+              "Exosphère",
+              "Mésosphère"
+            ],
+            "Explanation": "La troposphère est la couche la plus basse de l'atmosphère où se produisent la plupart des phénomènes météorologiques, tels que les nuages, la pluie et les tempêtes, en raison de son interaction avec la surface de la Terre."
+          },
+          {
+            "Question": "Quel schéma de vents mondiaux est responsable d'amener de l'air chaud et humide sur la côte ouest des continents?",
+            "TrueAnswer": "Vents d'ouest",
+            "FalseAnswer": [
+              "Alizés",
+              "Alizés polaires",
+              "Calmes équatoriaux"
+            ],
+            "Explanation": "Les vents d'ouest sont des vents dominants venant de l'ouest qui apportent de l'air chaud et humide sur la côte ouest des continents, influençant les schémas climatiques et de précipitations."
+          },
+          {
+            "Question": "Quel type de précipitations se produit lorsque de l'air chaud et humide est forcé de s'élever au-dessus d'une chaîne de montagnes, provoquant des précipitations du côté au vent?",
+            "TrueAnswer": "Orographique",
+            "FalseAnswer": [
+              "Convectif",
+              "Cyclonique",
+              "Frontal"
+            ],
+            "Explanation": "Les précipitations orographiques sont provoquées par l'air humide qui monte au-dessus d'une chaîne de montagnes, se refroidit et se condense pour former des nuages et des précipitations du côté au vent, créant une zone d'ombre pluviométrique du côté sous le vent."
+          },
+          {
+            "Question": "Lequel des éléments suivants n'est PAS un facteur influençant le climat?",
+            "TrueAnswer": "Niveaux d'oxygène",
+            "FalseAnswer": [
+              "Latitude",
+              "Altitude",
+              "Courants océaniques"
+            ],
+            "Explanation": "Les niveaux d'oxygène ne sont pas un facteur influençant le climat, contrairement à la latitude, l'altitude et les courants océaniques, qui jouent des rôles importants dans la formation des climats régionaux."
+          },
+          {
+            "Question": "Comment appelle-t-on le modèle de vents à grande échelle et persistants qui se produit dans la basse troposphère en réponse à la rotation de la Terre et aux propriétés thermiques?",
+            "TrueAnswer": "Jet stream",
+            "FalseAnswer": [
+              "Chinook",
+              "Mistral",
+              "Bora"
+            ],
+            "Explanation": "Le jet stream est un courant d'air étroit et rapide dans la basse troposphère, influencé par la rotation de la Terre et les contrastes de température, impactant les schémas météorologiques et les routes aériennes."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un mécanisme par lequel la couverture nuageuse et les particules atmosphériques peuvent influencer le climat?",
+            "TrueAnswer": "Effet d'albédo",
+            "FalseAnswer": [
+              "Effet Coriolis",
+              "Effet Chinook",
+              "Effet de mousson"
+            ],
+            "Explanation": "L'effet d'albédo se réfère à l'impact de la couverture nuageuse et des particules atmosphériques sur la réflexion du rayonnement solaire, influençant les températures et les schémas climatiques à la surface de la Terre."
+          },
+          {
+            "Question": "Comment appelle-t-on le processus d'absorption du rayonnement solaire par la surface de la Terre et sa ré-émission sous forme d'énergie thermique?",
+            "TrueAnswer": "Forçage radiatif",
+            "FalseAnswer": [
+              "Condensation",
+              "Sublimation",
+              "Evapotranspiration"
+            ],
+            "Explanation": "Le forçage radiatif est le processus d'absorption du rayonnement solaire par la surface de la Terre et sa ré-émission sous forme d'énergie thermique, contribuant aux changements dans l'équilibre énergétique et le système climatique."
+          },
+          {
+            "Question": "Quel phénomène climatologique renvoie à l'inversion des vents et des courants marins dans les océans Pacifique et Indien?",
+            "TrueAnswer": "Mousson",
+            "FalseAnswer": [
+              "Haboob",
+              "Foehn",
+              "Nord-est"
+            ],
+            "Explanation": "La mousson est une inversion saisonnière des vents et des courants marins, apportant des pluies intenses en Asie du Sud et du Sud-Est, contribuant à des saisons humides et sèches distinctes."
+          },
+          {
+            "Question": "Comment appelle-t-on une zone de basse pression atmosphérique caractérisée par des vents violents et des tempêtes tropicales?",
+            "TrueAnswer": "Cyclone",
+            "FalseAnswer": [
+              "Anticyclone",
+              "Tornade",
+              "Blizzard"
+            ],
+            "Explanation": "Un cyclone est une zone de basse pression atmosphérique caractérisée par des vents violents et des tempêtes tropicales, appelées ouragans dans l'Atlantique et typhons dans le Pacifique."
+          },
+          {
+            "Question": "Quel type de climat est associé à une végétation clairsemée, des variations extrêmes de température et des précipitations faibles?",
+            "TrueAnswer": "BS (Aride)",
+            "FalseAnswer": [
+              "ET (Toundra polaire)",
+              "Af (Forêt tropicale)",
+              "Dfa (Continental à été chaud)"
+            ],
+            "Explanation": "La classification BS, également connue sous le nom d'aride, est caractérisée par une végétation clairsemée, des variations extrêmes de température et des précipitations faibles, créant des environnements désertiques et semi-arides."
+          },
+          {
+            "Question": "Comment appelle-t-on un schéma de vents localisé et persistant causé par le chauffage différencié des surfaces terrestres et marines?",
+            "TrueAnswer": "Brise marine",
+            "FalseAnswer": [
+              "Alizés",
+              "Haboob",
+              "Foehn"
+            ],
+            "Explanation": "Une brise marine est un schéma de vents localisé et persistant causé par le contraste de température entre les surfaces terrestres et marines, entraînant des vents côtiers plus frais pendant la journée."
+          },
+          {
+            "Question": "Quelle zone climatique est caractérisée par des étés chauds et secs et des hivers doux et humides?",
+            "TrueAnswer": "Méditerranéen",
+            "FalseAnswer": [
+              "Polaire",
+              "Tropical",
+              "Aride"
+            ],
+            "Explanation": "La zone climatique méditerranéenne est caractérisée par des étés chauds et secs et des hivers doux et humides, typique des régions bordant la mer Méditerranée et d'autres zones côtières."
+          },
+          {
+            "Question": "Dans quelle couche de l'atmosphère se produit le phénomène des aurores?",
+            "TrueAnswer": "Thermosphère",
+            "FalseAnswer": [
+              "Mésosphère",
+              "Stratosphère",
+              "Troposphère"
+            ],
+            "Explanation": "Le phénomène des aurores se produit dans la thermosphère, où les particules chargées interagissent avec le champ magnétique terrestre, produisant des spectacles lumineux spectaculaires dans les régions polaires."
+          },
+          {
+            "Question": "Quel type de climat est caractérisé par un pergélisol continu et des étés courts et frais?",
+            "TrueAnswer": "ET (Toundra polaire)",
+            "FalseAnswer": [
+              "Af (Forêt tropicale)",
+              "Cfa (Subtropical humide)",
+              "BS (Aride)"
+            ],
+            "Explanation": "La classification ET, également connue sous le nom de toundra polaire, est caractérisée par un pergélisol continu et des étés courts et frais, créant des environnements subarctiques aux hautes latitudes."
+          }
+        ]
+      }
+    }
+  ]
+}

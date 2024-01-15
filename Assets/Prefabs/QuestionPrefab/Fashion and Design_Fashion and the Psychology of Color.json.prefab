@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &67750548420164472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6945273681183393523}
+  - component: {fileID: 1093701548951310693}
+  m_Layer: 0
+  m_Name: Fashion and Design_Fashion and the Psychology of Color.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6945273681183393523
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67750548420164472}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1093701548951310693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67750548420164472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most iconic fashion brand in the world?
+      TrueAnswer: Gucci
+      FalseAnswer:
+      - H&M
+      - Zara
+      - Forever 21
+      Explanation: Gucci is a luxury fashion brand known for its high-end clothing,
+        accessories, and iconic logo.
+    - Question: Which designer is famous for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Donatella Versace
+      - Ralph Lauren
+      - Tom Ford
+      Explanation: Coco Chanel revolutionized fashion with her timeless designs,
+        including the iconic little black dress.
+    - Question: What is the primary purpose of fashion design?
+      TrueAnswer: Creating clothing
+      FalseAnswer:
+      - Interior decoration
+      - Graphic design
+      - Industrial engineering
+      Explanation: Fashion design involves creating clothing and accessories that
+        are aesthetically pleasing and functional.
+    - Question: Which fashion capital is known for its avant-garde designs?
+      TrueAnswer: Paris
+      FalseAnswer:
+      - New York
+      - Milan
+      - London
+      Explanation: Paris is renowned for its avant-garde fashion scene, pushing boundaries
+        and setting trends.
+    - Question: What is the purpose of a fashion sketch?
+      TrueAnswer: Visualizing design ideas
+      FalseAnswer:
+      - Calculating fabric measurements
+      - Creating sewing patterns
+      - Marketing products
+      Explanation: Fashion sketches are used to visualize design ideas and communicate
+        them to clients or manufacturers.
+    - Question: Which fashion designer is known for his red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Karl Lagerfeld
+      - Alexander McQueen
+      - Marc Jacobs
+      Explanation: Christian Louboutin is famous for his luxury footwear with signature
+        red soles.
+    - Question: What is the purpose of a mood board in fashion design?
+      TrueAnswer: Inspiration and visualization
+      FalseAnswer:
+      - Fabric sourcing
+      - Pattern making
+      - Quality control
+      Explanation: A mood board helps designers gather inspiration and visualize
+        the overall aesthetic of a collection.
+    - Question: Which fashion designer is known for his iconic wrap dress?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Tommy Hilfiger
+      - Calvin Klein
+      - Michael Kors
+      Explanation: Diane von Furstenberg popularized the wrap dress, a versatile
+        and flattering garment.
+    - Question: What is the purpose of a fashion runway show?
+      TrueAnswer: Presenting new collections
+      FalseAnswer:
+      - Selling clothing directly
+      - Training models
+      - Networking with industry professionals
+      Explanation: Runway shows are used to present new fashion collections to buyers,
+        press, and industry insiders.
+    - Question: Which fashion designer is known for his iconic trench coat?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Gucci
+      - Prada
+      - Louis Vuitton
+      Explanation: Burberry is famous for its timeless trench coat, a staple in many
+        wardrobes.
+    - Question: What is the purpose of a fashion editorial?
+      TrueAnswer: Showcasing fashion in a creative way
+      FalseAnswer:
+      - Providing fashion advice
+      - Promoting specific brands
+      - Reporting fashion news
+      Explanation: Fashion editorials are used to showcase fashion in a creative
+        and artistic way, often in magazines.
+    - Question: Which fashion designer is known for his red carpet gowns?
+      TrueAnswer: Elie Saab
+      FalseAnswer:
+      - Donatella Versace
+      - Stella McCartney
+      - Ralph Lauren
+      Explanation: Elie Saab is renowned for his stunning red carpet gowns worn by
+        celebrities at prestigious events.
+    - Question: What is the purpose of a fashion lookbook?
+      TrueAnswer: Displaying a collection
+      FalseAnswer:
+      - Providing fashion tips
+      - Selling individual items
+      - Sharing behind-the-scenes footage
+      Explanation: A fashion lookbook showcases a collection, featuring styled outfits
+        and details of each garment.
+    - Question: Which fashion designer is known for his iconic double-C logo?
+      TrueAnswer: Chanel
+      FalseAnswer:
+      - Gucci
+      - Louis Vuitton
+      - Prada
+      Explanation: Chanel is recognized for its iconic double-C logo, representing
+        elegance and luxury.
+    - Question: What is the purpose of a fashion showroom?
+      TrueAnswer: Displaying and selling collections
+      FalseAnswer:
+      - Conducting fashion research
+      - Training fashion models
+      - Hosting fashion events
+      Explanation: Fashion showrooms are used to display and sell collections to
+        buyers and retailers.
+    - Question: Which fashion designer is known for his punk-inspired designs?
+      TrueAnswer: Vivienne Westwood
+      FalseAnswer:
+      - Giorgio Armani
+      - Ralph Lauren
+      - Tom Ford
+      Explanation: Vivienne Westwood is famous for her punk-inspired designs, challenging
+        traditional fashion norms.
+    - Question: What is the purpose of a fashion trade show?
+      TrueAnswer: Showcasing brands to buyers
+      FalseAnswer:
+      - Selling clothing directly to consumers
+      - Training fashion designers
+      - Hosting fashion competitions
+      Explanation: Fashion trade shows allow brands to showcase their collections
+        to potential buyers and retailers.
+    - Question: Which fashion designer is known for his iconic red sole shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Karl Lagerfeld
+      - Alexander McQueen
+      - Marc Jacobs
+      Explanation: Christian Louboutin is famous for his luxury footwear with signature
+        red soles.
+    - Question: What is the purpose of a fashion trend forecast?
+      TrueAnswer: Predicting future fashion trends
+      FalseAnswer:
+      - Analyzing past fashion trends
+      - Creating fashion marketing campaigns
+      - Designing fashion accessories
+      Explanation: Fashion trend forecasts help designers and brands predict future
+        trends and plan their collections accordingly.
+    - Question: Which fashion designer is known for his iconic monogram print?
+      TrueAnswer: Louis Vuitton
+      FalseAnswer:
+      - Gucci
+      - Prada
+      - Chanel
+      Explanation: Louis Vuitton is recognized for its iconic monogram print, a symbol
+        of luxury and status.
+    - Question: What is the purpose of a fashion stylist?
+      TrueAnswer: Creating cohesive looks
+      FalseAnswer:
+      - Sewing garments
+      - Managing fashion events
+      - Conducting fashion market research
+      Explanation: Fashion stylists are responsible for creating cohesive and visually
+        appealing looks for photoshoots, events, or individuals.

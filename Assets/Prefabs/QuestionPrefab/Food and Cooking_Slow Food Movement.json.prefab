@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8659490184586091794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3259644425382808670}
+  - component: {fileID: 4086119147873157502}
+  m_Layer: 0
+  m_Name: Food and Cooking_Slow Food Movement.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3259644425382808670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8659490184586091794}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4086119147873157502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8659490184586091794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main principle of the Slow Food Movement?
+      TrueAnswer: Promoting local, sustainable, and traditional food
+      FalseAnswer:
+      - Encouraging fast food consumption
+      - Supporting genetically modified organisms
+      - Advocating for processed food
+      Explanation: The Slow Food Movement aims to promote local, sustainable, and
+        traditional food, emphasizing quality and taste.
+    - Question: Which country is the birthplace of the Slow Food Movement?
+      TrueAnswer: Italy
+      FalseAnswer:
+      - France
+      - Spain
+      - United States
+      Explanation: The Slow Food Movement originated in Italy in 1986 as a response
+        to fast food culture.
+    - Question: What is the symbol of the Slow Food Movement?
+      TrueAnswer: Snail
+      FalseAnswer:
+      - Cheetah
+      - Turtle
+      - Rabbit
+      Explanation: The snail is the symbol of the Slow Food Movement, representing
+        the slow and deliberate approach to food.
+    - Question: What is the purpose of the Slow Food Movement's Ark of Taste?
+      TrueAnswer: Preserving endangered food varieties
+      FalseAnswer:
+      - Promoting fast food chains
+      - Encouraging monoculture farming
+      - Supporting genetically modified organisms
+      Explanation: The Ark of Taste is a catalog of endangered food varieties that
+        the Slow Food Movement aims to preserve.
+    - Question: What is the Slow Food Movement's stance on genetically modified organisms
+        (GMOs)?
+      TrueAnswer: Opposes GMOs
+      FalseAnswer:
+      - Supports GMOs
+      - Has no opinion on GMOs
+      - Encourages GMO research
+      Explanation: The Slow Food Movement opposes genetically modified organisms
+        (GMOs) due to concerns about their impact on biodiversity and health.
+    - Question: What is the Slow Food Movement's view on fast food culture?
+      TrueAnswer: Critiques fast food culture
+      FalseAnswer:
+      - Promotes fast food culture
+      - Has no opinion on fast food culture
+      - Encourages fast food consumption
+      Explanation: The Slow Food Movement critiques fast food culture for its negative
+        impact on health, environment, and local food traditions.
+    - Question: What is the Slow Food Movement's approach to food production?
+      TrueAnswer: Emphasizes sustainable and ethical practices
+      FalseAnswer:
+      - Prioritizes mass production and efficiency
+      - Supports factory farming
+      - Encourages pesticide use
+      Explanation: The Slow Food Movement emphasizes sustainable and ethical practices
+        in food production, such as organic farming and fair trade.
+    - Question: What is the Slow Food Movement's stance on food waste?
+      TrueAnswer: Advocates for reducing food waste
+      FalseAnswer:
+      - Encourages food waste
+      - Has no opinion on food waste
+      - Supports excessive food consumption
+      Explanation: The Slow Food Movement advocates for reducing food waste through
+        initiatives like composting, preserving, and mindful consumption.
+    - Question: What is the Slow Food Movement's perspective on the role of farmers?
+      TrueAnswer: Values the role of farmers
+      FalseAnswer:
+      - Underestimates the role of farmers
+      - Has no opinion on the role of farmers
+      - Disregards the role of farmers
+      Explanation: The Slow Food Movement values the role of farmers as stewards
+        of the land and advocates for fair compensation and recognition of their
+        work.
+    - Question: What is the Slow Food Movement's goal regarding food education?
+      TrueAnswer: Promotes food education for all
+      FalseAnswer:
+      - Discourages food education
+      - Has no opinion on food education
+      - Supports limited food education
+      Explanation: The Slow Food Movement promotes food education for all, aiming
+        to raise awareness about the importance of good, clean, and fair food.
+    - Question: What is the Slow Food Movement's perspective on the globalization
+        of food?
+      TrueAnswer: Values local food traditions and diversity
+      FalseAnswer:
+      - Promotes homogenization of food
+      - Has no opinion on the globalization of food
+      - Supports uniformity in food production
+      Explanation: The Slow Food Movement values local food traditions and diversity,
+        opposing the homogenization and standardization of food caused by globalization.
+    - Question: What is the Slow Food Movement's stance on the use of pesticides?
+      TrueAnswer: Advocates for reduced pesticide use
+      FalseAnswer:
+      - Encourages pesticide use
+      - Has no opinion on pesticide use
+      - Supports unrestricted pesticide use
+      Explanation: The Slow Food Movement advocates for reduced pesticide use to
+        protect human health, biodiversity, and the environment.
+    - Question: What is the Slow Food Movement's perspective on the role of food
+        in culture?
+      TrueAnswer: Recognizes the cultural significance of food
+      FalseAnswer:
+      - Underestimates the cultural significance of food
+      - Has no opinion on the cultural significance of food
+      - Disregards the cultural significance of food
+      Explanation: The Slow Food Movement recognizes the cultural significance of
+        food, celebrating culinary traditions and the social aspects of sharing meals.
+    - Question: What is the Slow Food Movement's approach to food labeling?
+      TrueAnswer: Advocates for transparent and informative labeling
+      FalseAnswer:
+      - Supports misleading food labeling
+      - Has no opinion on food labeling
+      - Encourages vague food labeling
+      Explanation: The Slow Food Movement advocates for transparent and informative
+        food labeling to empower consumers to make informed choices.
+    - Question: What is the Slow Food Movement's stance on factory farming?
+      TrueAnswer: Opposes factory farming
+      FalseAnswer:
+      - Supports factory farming
+      - Has no opinion on factory farming
+      - Encourages expansion of factory farming
+      Explanation: The Slow Food Movement opposes factory farming due to concerns
+        about animal welfare, environmental degradation, and the quality of food
+        produced.
+    - Question: What is the Slow Food Movement's perspective on the role of chefs?
+      TrueAnswer: Values the role of chefs as ambassadors of good, clean, and fair
+        food
+      FalseAnswer:
+      - Underestimates the role of chefs
+      - Has no opinion on the role of chefs
+      - Disregards the role of chefs
+      Explanation: The Slow Food Movement values the role of chefs as ambassadors
+        of good, clean, and fair food, promoting sustainable and ethical culinary
+        practices.
+    - Question: What is the Slow Food Movement's stance on food sovereignty?
+      TrueAnswer: Supports food sovereignty
+      FalseAnswer:
+      - Opposes food sovereignty
+      - Has no opinion on food sovereignty
+      - Discourages food sovereignty
+      Explanation: The Slow Food Movement supports food sovereignty, advocating for
+        communities to have control over their food systems and access to culturally
+        appropriate food.
+    - Question: What is the Slow Food Movement's perspective on the role of consumers?
+      TrueAnswer: Encourages consumers to make conscious food choices
+      FalseAnswer:
+      - Discourages consumers from making conscious food choices
+      - Has no opinion on the role of consumers
+      - Disregards the role of consumers
+      Explanation: The Slow Food Movement encourages consumers to make conscious
+        food choices, considering the impact on health, environment, and local food
+        systems.
+    - Question: What is the Slow Food Movement's approach to food distribution?
+      TrueAnswer: Promotes local and direct food distribution
+      FalseAnswer:
+      - Supports centralized and long-distance food distribution
+      - Has no opinion on food distribution
+      - Encourages food distribution monopolies
+      Explanation: The Slow Food Movement promotes local and direct food distribution
+        to reduce carbon footprint, support local economies, and preserve food quality.
+    - Question: What is the Slow Food Movement's stance on the use of antibiotics
+        in animal farming?
+      TrueAnswer: Opposes the routine use of antibiotics
+      FalseAnswer:
+      - Supports the routine use of antibiotics
+      - Has no opinion on the use of antibiotics
+      - Encourages excessive use of antibiotics
+      Explanation: The Slow Food Movement opposes the routine use of antibiotics
+        in animal farming to prevent the development of antibiotic resistance and
+        protect human health.
+    - Question: What is the Slow Food Movement's perspective on the role of youth
+        in the food system?
+      TrueAnswer: Values the involvement of youth in shaping a sustainable food future
+      FalseAnswer:
+      - Underestimates the role of youth
+      - Has no opinion on the role of youth
+      - Disregards the role of youth
+      Explanation: The Slow Food Movement values the involvement of youth in shaping
+        a sustainable food future, recognizing their potential as agents of change.

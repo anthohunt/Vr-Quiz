@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8504329689551061631
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3218245437758926688}
+  - component: {fileID: 7560066262119652205}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Planetary Formation Theories.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3218245437758926688
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8504329689551061631}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7560066262119652205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8504329689551061631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most abundant element in the universe?
+      TrueAnswer: Hydrogen
+      FalseAnswer:
+      - Oxygen
+      - Carbon
+      - Helium
+      Explanation: Hydrogen is the most abundant element in the universe, making
+        up about 75% of its elemental mass.
+    - Question: Which planet is known as the 'Red Planet'?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Mercury
+      - Jupiter
+      Explanation: Mars is known as the 'Red Planet' due to its reddish appearance
+        caused by iron oxide on its surface.
+    - Question: What is the largest moon in our solar system?
+      TrueAnswer: Ganymede
+      FalseAnswer:
+      - Titan
+      - Europa
+      - Callisto
+      Explanation: Ganymede, a moon of Jupiter, is the largest moon in our solar
+        system and even larger than the planet Mercury.
+    - Question: What is the name of the theory that suggests the universe began with
+        a Big Bang?
+      TrueAnswer: Big Bang Theory
+      FalseAnswer:
+      - Steady State Theory
+      - String Theory
+      - Panspermia Theory
+      Explanation: The Big Bang Theory proposes that the universe originated from
+        a singularity and has been expanding ever since.
+    - Question: Which planet has the most extensive ring system?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Jupiter
+      - Uranus
+      - Neptune
+      Explanation: Saturn has the most extensive and prominent ring system among
+        all the planets in our solar system.
+    - Question: What is the name of the theory that suggests planets form from rotating
+        disks of gas and dust?
+      TrueAnswer: Accretion Theory
+      FalseAnswer:
+      - Nebular Theory
+      - Panspermia Theory
+      - Steady State Theory
+      Explanation: The Accretion Theory proposes that planets form through the accumulation
+        of gas and dust in a rotating disk.
+    - Question: Which planet is known for its Great Red Spot?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is known for its Great Red Spot, a persistent high-pressure
+        storm system larger than Earth.
+    - Question: What is the name of the theory that suggests our solar system formed
+        from a giant molecular cloud?
+      TrueAnswer: Nebular Theory
+      FalseAnswer:
+      - Accretion Theory
+      - Steady State Theory
+      - Panspermia Theory
+      Explanation: The Nebular Theory proposes that our solar system formed from
+        a giant molecular cloud composed of gas and dust.
+    - Question: Which planet is known for its beautiful rings?
+      TrueAnswer: Uranus
+      FalseAnswer:
+      - Neptune
+      - Saturn
+      - Jupiter
+      Explanation: Uranus is known for its beautiful rings, although they are not
+        as prominent or well-known as Saturn's rings.
+    - Question: What is the name of the theory that suggests life on Earth originated
+        from microorganisms transported through space?
+      TrueAnswer: Panspermia Theory
+      FalseAnswer:
+      - Accretion Theory
+      - Nebular Theory
+      - Steady State Theory
+      Explanation: The Panspermia Theory proposes that life on Earth may have originated
+        from microorganisms transported through space.
+    - Question: Which planet is known for its prominent system of icy rings?
+      TrueAnswer: Neptune
+      FalseAnswer:
+      - Uranus
+      - Saturn
+      - Jupiter
+      Explanation: Neptune is known for its prominent system of icy rings, although
+        they are not as extensive as Saturn's rings.
+    - Question: What is the name of the theory that suggests the universe is in a
+        constant state of expansion?
+      TrueAnswer: Steady State Theory
+      FalseAnswer:
+      - Big Bang Theory
+      - Nebular Theory
+      - Accretion Theory
+      Explanation: The Steady State Theory proposes that the universe is in a constant
+        state of expansion without a beginning or end.
+    - Question: Which planet is known for its beautiful blue color?
+      TrueAnswer: Uranus
+      FalseAnswer:
+      - Neptune
+      - Saturn
+      - Jupiter
+      Explanation: Uranus is known for its beautiful blue color, caused by the presence
+        of methane in its atmosphere.
+    - Question: What is the name of the theory that suggests the universe is made
+        up of tiny vibrating strings?
+      TrueAnswer: String Theory
+      FalseAnswer:
+      - Big Bang Theory
+      - Nebular Theory
+      - Steady State Theory
+      Explanation: String Theory proposes that the fundamental building blocks of
+        the universe are tiny vibrating strings.
+    - Question: Which planet is known for its prominent system of rings?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Jupiter
+      - Uranus
+      - Neptune
+      Explanation: Saturn is known for its prominent and extensive system of rings,
+        composed mainly of ice particles.
+    - Question: What is the name of the theory that suggests the universe is teeming
+        with life?
+      TrueAnswer: Fermi Paradox
+      FalseAnswer:
+      - Drake Equation
+      - Anthropic Principle
+      - Rare Earth Hypothesis
+      Explanation: The Fermi Paradox questions why we haven't detected any signs
+        of extraterrestrial life despite the vastness of the universe.
+    - Question: Which planet is known for its beautiful blue color?
+      TrueAnswer: Neptune
+      FalseAnswer:
+      - Uranus
+      - Saturn
+      - Jupiter
+      Explanation: Neptune is known for its beautiful blue color, caused by the presence
+        of methane in its atmosphere.
+    - Question: What is the name of the theory that suggests our universe is finely
+        tuned for life?
+      TrueAnswer: Anthropic Principle
+      FalseAnswer:
+      - Drake Equation
+      - Fermi Paradox
+      - Rare Earth Hypothesis
+      Explanation: The Anthropic Principle suggests that the fundamental constants
+        and conditions of our universe are finely tuned for life.
+    - Question: Which planet is known for its prominent system of rings?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Uranus
+      - Neptune
+      Explanation: Jupiter has a faint system of rings, although they are not as
+        prominent or well-known as Saturn's rings.
+    - Question: What is the name of the theory that suggests Earth is a rare planet
+        capable of supporting complex life?
+      TrueAnswer: Rare Earth Hypothesis
+      FalseAnswer:
+      - Drake Equation
+      - Fermi Paradox
+      - Anthropic Principle
+      Explanation: The Rare Earth Hypothesis proposes that Earth is a rare planet
+        in the universe capable of supporting complex life.

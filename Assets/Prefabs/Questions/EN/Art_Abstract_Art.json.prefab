@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1234575824117386433
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8253825610298400524}
+  - component: {fileID: 8230664893531739102}
+  m_Layer: 0
+  m_Name: Art_Abstract_Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8253825610298400524
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1234575824117386433}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8230664893531739102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1234575824117386433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the pioneer of Abstract Art?
+      TrueAnswer: Wassily Kandinsky
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - "Salvador Dal\xED"
+      Explanation: Wassily Kandinsky is widely regarded as the pioneer of abstract
+        art, as he created the first purely abstract work in 1910.
+    - Question: Which artist is known for his 'drip painting' technique in Abstract
+        Expressionism?
+      TrueAnswer: Jackson Pollock
+      FalseAnswer:
+      - Andy Warhol
+      - Mark Rothko
+      - Piet Mondrian
+      Explanation: Jackson Pollock's groundbreaking 'drip painting' technique characterized
+        the Abstract Expressionist movement of the 1940s and 1950s.
+    - Question: What is the main characteristic of Color Field painting in Abstract
+        Art?
+      TrueAnswer: Large areas of flat color
+      FalseAnswer:
+      - Fine detailed brushwork
+      - Black and white monochrome
+      - Geometric shapes
+      Explanation: Color Field painting emphasizes large expanses of flat, solid
+        color, creating a sense of vast space and subtle emotional resonance.
+    - Question: Which artist is known for his geometric abstraction in Abstract Art?
+      TrueAnswer: Kazimir Malevich
+      FalseAnswer:
+      - Willem de Kooning
+      - Jean-Michel Basquiat
+      - Keith Haring
+      Explanation: Kazimir Malevich is renowned for his geometric abstraction, particularly
+        his iconic 'Black Square' painting, a seminal work in the development of
+        abstract art.
+    - Question: What is the primary goal of Abstract Art?
+      TrueAnswer: To evoke emotional or intellectual responses
+      FalseAnswer:
+      - To depict realistic imagery
+      - To convey historical narratives
+      - To illustrate precise scientific concepts
+      Explanation: The main objective of abstract art is to stir emotions or ideas
+        in the viewer without relying on representational forms or recognizable subjects.
+    - Question: Which art movement heavily influenced the development of Abstract
+        Art in the early 20th century?
+      TrueAnswer: Cubism
+      FalseAnswer:
+      - Impressionism
+      - Surrealism
+      - Fauvism
+      Explanation: Cubism, pioneered by Picasso and Braque, provided a fertile ground
+        for the emergence of abstract art by deconstructing and reassembling forms.
+    - Question: Who is known for introducing non-representational art to the American
+        art scene?
+      TrueAnswer: Wassily Kandinsky
+      FalseAnswer:
+      - Lee Krasner
+      - Piet Mondrian
+      - Frank Stella
+      Explanation: Kandinsky's influential lectures and writings played a key role
+        in introducing and promoting non-representational art in the United States.
+    - Question: What is the primary objective of Abstract Expressionism?
+      TrueAnswer: Expressing emotions and individual creativity
+      FalseAnswer:
+      - Realistic depictions of nature
+      - Conveying political messages
+      - Promoting societal harmony
+      Explanation: Abstract Expressionism emphasizes spontaneous self-expression
+        and emotional intensity, often through gestural brushwork and dynamic compositions.
+    - Question: Which artist is known for his 'Neoplasticism' style in Abstract Art?
+      TrueAnswer: Piet Mondrian
+      FalseAnswer:
+      - Paul Klee
+      - "Ren\xE9 Magritte"
+      - Max Ernst
+      Explanation: Piet Mondrian developed 'Neoplasticism,' characterized by grid-based
+        abstract compositions using primary colors and non-representational forms.
+    - Question: What does 'readymade' refer to in the context of Abstract Art?
+      TrueAnswer: Everyday objects presented as art
+      FalseAnswer:
+      - Artworks created spontaneously
+      - Abstract art with literary references
+      - Artworks based on mathematical principles
+      Explanation: The concept of 'readymade' refers to ordinary, manufactured objects
+        designated as art by the artist, challenging traditional notions of artistic
+        creation and originality.
+    - Question: What is the primary focus of Abstract Sculpture?
+      TrueAnswer: Spatial relationships and form
+      FalseAnswer:
+      - Realistic portraiture
+      - Emotional expressionism
+      - Temporal experiences
+      Explanation: Abstract sculpture places emphasis on exploring spatial relationships,
+        form, texture, and the interaction of various elements in three-dimensional
+        space.
+    - Question: Which artist is associated with the 'Stochastic' painting technique
+        in Abstract Art?
+      TrueAnswer: Gerhard Richter
+      FalseAnswer:
+      - Yayoi Kusama
+      - Cy Twombly
+      - Anselm Kiefer
+      Explanation: Gerhard Richter is known for his 'Stochastic' art, created through
+        calculated chance processes, blurring the boundaries between abstraction
+        and reality.
+    - Question: What is the key principle of Abstract Expressionist sculpture?
+      TrueAnswer: Emphasizing gesture and materiality
+      FalseAnswer:
+      - Realistic representation of human figures
+      - Utilizing digital fabrication techniques
+      - Promoting minimalist designs
+      Explanation: Abstract Expressionist sculpture strives to convey raw emotion
+        and physicality through gestural manipulation of materials, emphasizing the
+        act of creation itself.
+    - Question: In Abstract Art, what does the term 'gestural abstraction' refer
+        to?
+      TrueAnswer: Expressive and spontaneous brushwork
+      FalseAnswer:
+      - Precise geometric compositions
+      - Subtle gradations of color
+      - Narrative storytelling through imagery
+      Explanation: Gestural abstraction emphasizes the physical act of painting,
+        conveying energy, emotion, and immediacy through dynamic, free-flowing brushstrokes.
+    - Question: Which artist pioneered the use of hard-edge painting in Abstract
+        Art?
+      TrueAnswer: Frank Stella
+      FalseAnswer:
+      - "Joan Mir\xF3"
+      - Lee Krasner
+      - Alberto Giacometti
+      Explanation: Frank Stella popularized hard-edge painting, featuring sharp,
+        distinct edges, and geometric forms to create rigorous, non-hierarchical
+        compositions.
+    - Question: What distinguishes Abstract Art from representational art?
+      TrueAnswer: Lack of recognizable subjects
+      FalseAnswer:
+      - Detailed realism
+      - Familiar landscapes
+      - Historical narratives
+      Explanation: Abstract art challenges traditional modes of representation by
+        eschewing realistic depictions and recognizable subjects, focusing on form,
+        color, and emotion.
+    - Question: Which artistic movement was a precursor to the development of Abstract
+        Art in Russia?
+      TrueAnswer: Suprematism
+      FalseAnswer:
+      - Bauhaus
+      - Art Nouveau
+      - Constructivism
+      Explanation: Suprematism, pioneered by Malevich, emphasized pure geometric
+        forms and non-objective abstraction, laying the groundwork for abstract art
+        in Russia.
+    - Question: Who is known for introducing automatism as a method in Abstract Expressionist
+        painting?
+      TrueAnswer: "Andr\xE9 Masson"
+      FalseAnswer:
+      - Marcel Duchamp
+      - Frida Kahlo
+      - Hans Arp
+      Explanation: "Andr\xE9 Masson employed automatism, a spontaneous, unpremeditated
+        approach to painting, which became integral to the development of Abstract
+        Expressionist techniques."
+    - Question: What is the primary function of the 'Color Field' technique in Abstract
+        Art?
+      TrueAnswer: Evoke emotional responses through color
+      FalseAnswer:
+      - Depict specific natural landscapes
+      - Create optical illusions
+      - Convey historical narratives
+      Explanation: Color Field painting aims to evoke powerful emotional responses
+        through the deliberate arrangement of colors, inviting contemplation and
+        introspection.
+    - Question: In Abstract Art, what does 'Assemblage' refer to?
+      TrueAnswer: Combining found objects into art
+      FalseAnswer:
+      - Using only primary colors in painting
+      - Creating illusions of three-dimensional space
+      - Depicting celestial bodies in abstract form
+      Explanation: Assemblage involves integrating diverse everyday objects into
+        a unified artwork, challenging traditional notions of art-making and the
+        nature of artistic materials.

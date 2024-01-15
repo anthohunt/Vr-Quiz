@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6844431244085262310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2754860366291165177}
+  - component: {fileID: 9131375566971570116}
+  m_Layer: 0
+  m_Name: Cartoons_Iconic Cartoon Characters.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2754860366291165177
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6844431244085262310}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9131375566971570116
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6844431244085262310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the iconic character in the cartoon 'Tom and Jerry'?
+      TrueAnswer: Tom
+      FalseAnswer:
+      - Jerry
+      - Spike
+      - Butch
+      Explanation: Tom is the mischievous cat and one of the main characters in the
+        'Tom and Jerry' cartoon series.
+    - Question: What is the name of the iconic character in 'Scooby-Doo'?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Shaggy
+      - Velma
+      - Fred
+      Explanation: Scooby-Doo is the lovable Great Dane and the main character in
+        the 'Scooby-Doo' cartoon series.
+    - Question: Which character is the iconic friend of Winnie the Pooh?
+      TrueAnswer: Piglet
+      FalseAnswer:
+      - Tigger
+      - Eeyore
+      - Rabbit
+      Explanation: Piglet is the timid and kind-hearted pig who is a close friend
+        of Winnie the Pooh.
+    - Question: Who is the iconic character in the cartoon 'The Flintstones'?
+      TrueAnswer: Fred Flintstone
+      FalseAnswer:
+      - Barney Rubble
+      - Wilma Flintstone
+      - Pebbles Flintstone
+      Explanation: Fred Flintstone is the bumbling but lovable caveman and the main
+        character in 'The Flintstones' cartoon series.
+    - Question: What is the name of the iconic character in 'The Simpsons'?
+      TrueAnswer: Homer Simpson
+      FalseAnswer:
+      - Bart Simpson
+      - Marge Simpson
+      - Lisa Simpson
+      Explanation: Homer Simpson is the dim-witted but well-meaning father and the
+        main character in 'The Simpsons' cartoon series.
+    - Question: Which character is the iconic friend of Mickey Mouse?
+      TrueAnswer: Donald Duck
+      FalseAnswer:
+      - Goofy
+      - Pluto
+      - Minnie Mouse
+      Explanation: Donald Duck is the hot-tempered but loyal friend of Mickey Mouse
+        in various Disney cartoons.
+    - Question: Who is the iconic character in the cartoon 'Looney Tunes'?
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Bugs Bunny is the clever and mischievous rabbit and the main character
+        in 'Looney Tunes' cartoons.
+    - Question: What is the name of the iconic character in 'The Powerpuff Girls'?
+      TrueAnswer: Blossom
+      FalseAnswer:
+      - Bubbles
+      - Buttercup
+      - Mojo Jojo
+      Explanation: Blossom is the intelligent and confident leader of the Powerpuff
+        Girls in the animated series.
+    - Question: Which character is the iconic friend of SpongeBob SquarePants?
+      TrueAnswer: Patrick Star
+      FalseAnswer:
+      - Squidward Tentacles
+      - Sandy Cheeks
+      - Mr. Krabs
+      Explanation: Patrick Star is the dim-witted but well-meaning best friend of
+        SpongeBob SquarePants in the cartoon series.
+    - Question: Who is the iconic character in the cartoon 'The Jetsons'?
+      TrueAnswer: George Jetson
+      FalseAnswer:
+      - Jane Jetson
+      - Judy Jetson
+      - Elroy Jetson
+      Explanation: George Jetson is the bumbling but well-meaning father and the
+        main character in 'The Jetsons' cartoon series.
+    - Question: What is the name of the iconic character in 'Teenage Mutant Ninja
+        Turtles'?
+      TrueAnswer: Leonardo
+      FalseAnswer:
+      - Michelangelo
+      - Donatello
+      - Raphael
+      Explanation: Leonardo is the disciplined and courageous leader of the Teenage
+        Mutant Ninja Turtles in the animated series.
+    - Question: Which character is the iconic friend of Dora the Explorer?
+      TrueAnswer: Boots
+      FalseAnswer:
+      - Swiper
+      - Diego
+      - Backpack
+      Explanation: Boots is the adventurous and loyal monkey friend of Dora the Explorer
+        in the animated series.
+    - Question: Who is the iconic character in the cartoon 'Popeye the Sailor'?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Olive Oyl
+      - Bluto
+      - Wimpy
+      Explanation: Popeye is the spinach-loving sailor and the main character in
+        the 'Popeye the Sailor' cartoon series.
+    - Question: What is the name of the iconic character in 'Rugrats'?
+      TrueAnswer: Tommy Pickles
+      FalseAnswer:
+      - Chuckie Finster
+      - Angelica Pickles
+      - Phil DeVille
+      Explanation: Tommy Pickles is the adventurous and brave baby and the main character
+        in the 'Rugrats' animated series.
+    - Question: Which character is the iconic friend of Bugs Bunny?
+      TrueAnswer: Daffy Duck
+      FalseAnswer:
+      - Elmer Fudd
+      - Yosemite Sam
+      - Tasmanian Devil
+      Explanation: Daffy Duck is the zany and unpredictable friend of Bugs Bunny
+        in various 'Looney Tunes' cartoons.
+    - Question: Who is the iconic character in the cartoon 'The Pink Panther'?
+      TrueAnswer: The Pink Panther
+      FalseAnswer:
+      - Inspector Clouseau
+      - Cato Fong
+      - The Little Man
+      Explanation: The Pink Panther is the suave and mischievous pink-colored panther
+        and the main character in the cartoon series.
+    - Question: What is the name of the iconic character in 'The Fairly OddParents'?
+      TrueAnswer: Timmy Turner
+      FalseAnswer:
+      - Cosmo
+      - Wanda
+      - Vicky
+      Explanation: Timmy Turner is the imaginative and adventurous boy and the main
+        character in 'The Fairly OddParents' animated series.
+    - Question: Which character is the iconic friend of Scooby-Doo?
+      TrueAnswer: Shaggy
+      FalseAnswer:
+      - Velma
+      - Fred
+      - Daphne
+      Explanation: Shaggy is the laid-back and always hungry friend of Scooby-Doo
+        in the 'Scooby-Doo' cartoon series.
+    - Question: Who is the iconic character in the cartoon 'The Flintstones'?
+      TrueAnswer: Wilma Flintstone
+      FalseAnswer:
+      - Barney Rubble
+      - Fred Flintstone
+      - Pebbles Flintstone
+      Explanation: Wilma Flintstone is the strong-willed and resourceful wife of
+        Fred Flintstone in 'The Flintstones' cartoon series.
+    - Question: What is the name of the iconic character in 'The Smurfs'?
+      TrueAnswer: Papa Smurf
+      FalseAnswer:
+      - Smurfette
+      - Brainy Smurf
+      - Gargamel
+      Explanation: Papa Smurf is the wise and caring leader of the Smurfs in the
+        animated series.
+    - Question: Which character is the iconic friend of Mickey Mouse?
+      TrueAnswer: Goofy
+      FalseAnswer:
+      - Donald Duck
+      - Pluto
+      - Minnie Mouse
+      Explanation: Goofy is the clumsy but good-hearted friend of Mickey Mouse in
+        various Disney cartoons.

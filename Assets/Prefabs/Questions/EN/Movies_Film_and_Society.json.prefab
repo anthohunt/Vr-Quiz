@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5971845005707414263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4073851220218341120}
+  - component: {fileID: 1178945956567901143}
+  m_Layer: 0
+  m_Name: Movies_Film_and_Society.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4073851220218341120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5971845005707414263}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1178945956567901143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5971845005707414263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year was the first movie with synchronized sound released?
+      TrueAnswer: 1927
+      FalseAnswer:
+      - 1915
+      - 1933
+      - 1940
+      Explanation: The first movie with synchronized sound was 'The Jazz Singer'
+        released in 1927, marking the start of the 'talkies' era.
+    - Question: Which film is often considered the first 'blockbuster' movie?
+      TrueAnswer: '''Jaws'''
+      FalseAnswer:
+      - '''Star Wars'''
+      - '''Gone with the Wind'''
+      - '''E.T. the Extra-Terrestrial'''
+      Explanation: Directed by Steven Spielberg, 'Jaws' is often dubbed as the first
+        summer blockbuster, setting a trend for high-earning seasonal releases.
+    - Question: Who was the first woman to win an Academy Award for Best Director?
+      TrueAnswer: Kathryn Bigelow
+      FalseAnswer:
+      - Greta Gerwig
+      - Sofia Coppola
+      - Ava DuVernay
+      Explanation: Kathryn Bigelow made history in 2010 as the first woman to win
+        the Best Director Oscar for her work on 'The Hurt Locker.'
+    - Question: Which film sparked the 'Blaxploitation' film genre in the 1970s?
+      TrueAnswer: '''Sweet Sweetback''s Baadasssss Song'''
+      FalseAnswer:
+      - '''Shaft'''
+      - '''Coffy'''
+      - '''Super Fly'''
+      Explanation: Melvin Van Peebles' independently produced film, 'Sweet Sweetback's
+        Baadasssss Song,' is considered the catalyst for the Blaxploitation genre.
+    - Question: What was the name of the first feature-length computer-animated film?
+      TrueAnswer: '''Toy Story'''
+      FalseAnswer:
+      - '''Shrek'''
+      - '''Finding Nemo'''
+      - '''The Incredibles'''
+      Explanation: Released in 1995, 'Toy Story' was the first-ever feature film
+        created entirely with computer-generated imagery (CGI).
+    - Question: Which film marked the first cinematic appearance of the Marvel Cinematic
+        Universe's Iron Man?
+      TrueAnswer: '''Iron Man'''
+      FalseAnswer:
+      - '''Avengers: Age of Ultron'''
+      - '''Captain America: The First Avenger'''
+      - '''Thor'''
+      Explanation: '''Iron Man,'' released in 2008, introduced Robert Downey Jr.''s
+        portrayal of Tony Stark and kickstarted the Marvel Cinematic Universe.'
+    - Question: Who directed the iconic dystopian film 'Metropolis'?
+      TrueAnswer: Fritz Lang
+      FalseAnswer:
+      - Alfred Hitchcock
+      - Stanley Kubrick
+      - Ingmar Bergman
+      Explanation: Fritz Lang, a pioneer of German Expressionist cinema, directed
+        the groundbreaking sci-fi film 'Metropolis' in 1927.
+    - Question: Which film was the first to use the 'bullet time' visual effect?
+      TrueAnswer: '''The Matrix'''
+      FalseAnswer:
+      - '''Inception'''
+      - '''The Fifth Element'''
+      - '''Blade Runner'''
+      Explanation: The Wachowskis' 'The Matrix' popularized the innovative 'bullet
+        time' effect, revolutionizing action sequences in cinema.
+    - Question: Who was the first African-American woman to win an Academy Award
+        for Best Actress?
+      TrueAnswer: Halle Berry
+      FalseAnswer:
+      - Viola Davis
+      - Octavia Spencer
+      - Whoopi Goldberg
+      Explanation: Halle Berry made history in 2002 as the first African-American
+        woman to win the Best Actress Oscar for her role in 'Monster's Ball.'
+    - Question: Which film is often acclaimed as the first feature-length documentary?
+      TrueAnswer: '''Nanook of the North'''
+      FalseAnswer:
+      - '''Hoop Dreams'''
+      - '''Grey Gardens'''
+      - '''Man with a Movie Camera'''
+      Explanation: Released in 1922, 'Nanook of the North' by Robert J. Flaherty
+        is often considered the first feature-length documentary.
+    - Question: Which movie is responsible for the popularization of the 'found footage'
+        horror subgenre?
+      TrueAnswer: '''The Blair Witch Project'''
+      FalseAnswer:
+      - '''Paranormal Activity'''
+      - '''Cloverfield'''
+      - '''REC'''
+      Explanation: '''The Blair Witch Project,'' released in 1999, was a pioneering
+        film in the found footage horror subgenre, sparking a trend.'
+    - Question: What film is often regarded as the first commercially successful
+        3D movie?
+      TrueAnswer: '''House of Wax'''
+      FalseAnswer:
+      - '''Avatar'''
+      - "'Harry Potter and the Deathly Hallows \u2013 Part 2'"
+      - '''Beowulf'''
+      Explanation: Released in 1953, 'House of Wax' is often regarded as the first
+        commercially successful 3D movie, sparking a 3D film craze.
+    - Question: Which film featured the first use of computer-generated imagery (CGI)
+        to create a realistic character?
+      TrueAnswer: '''Young Sherlock Holmes'''
+      FalseAnswer:
+      - '''Jurassic Park'''
+      - '''The Abyss'''
+      - '''Tron'''
+      Explanation: In 1985, 'Young Sherlock Holmes' used CGI to create the first
+        realistic character, a stained-glass knight coming to life.
+    - Question: What was the first film to win an Academy Award for Best Picture?
+      TrueAnswer: '''Wings'''
+      FalseAnswer:
+      - '''Gone with the Wind'''
+      - '''Casablanca'''
+      - '''The Godfather'''
+      Explanation: The silent war film 'Wings' won the very first Academy Award for
+        Best Picture at the inaugural Oscars in 1929.
+    - Question: Who was the first actor to portray James Bond in a feature film?
+      TrueAnswer: Sean Connery
+      FalseAnswer:
+      - Roger Moore
+      - Daniel Craig
+      - Pierce Brosnan
+      Explanation: Sean Connery debuted as James Bond in 'Dr. No' in 1962, laying
+        the foundation for the iconic spy film franchise.
+    - Question: Which film is often credited with popularizing the 'mockumentary'
+        film genre?
+      TrueAnswer: '''This is Spinal Tap'''
+      FalseAnswer:
+      - '''Best in Show'''
+      - '''Borat'''
+      - '''What We Do in the Shadows'''
+      Explanation: Directed by Rob Reiner, 'This is Spinal Tap' is often credited
+        with popularizing the mockumentary genre in film.
+    - Question: What film is often regarded as the first feature-length animated
+        film?
+      TrueAnswer: '''Snow White and the Seven Dwarfs'''
+      FalseAnswer:
+      - '''Pinocchio'''
+      - '''Fantasia'''
+      - '''Cinderella'''
+      Explanation: Released in 1937, 'Snow White and the Seven Dwarfs' is often regarded
+        as the first feature-length animated film by Walt Disney.
+    - Question: Who directed the influential silent film 'The Birth of a Nation'
+        in 1915?
+      TrueAnswer: D.W. Griffith
+      FalseAnswer:
+      - Charlie Chaplin
+      - Buster Keaton
+      - "Georges M\xE9li\xE8s"
+      Explanation: D.W. Griffith directed the controversial yet influential silent
+        film 'The Birth of a Nation' in 1915, known for its technical innovation.
+    - Question: Which film is often cited as the first to use the 'dolly zoom' camera
+        technique?
+      TrueAnswer: '''Vertigo'''
+      FalseAnswer:
+      - '''The Shining'''
+      - '''Goodfellas'''
+      - '''Citizen Kane'''
+      Explanation: Alfred Hitchcock's 'Vertigo' popularized the 'dolly zoom' technique,
+        also known as the 'Vertigo effect,' in cinematography.
+    - Question: Which film is often considered the first feature-length science fiction
+        movie?
+      TrueAnswer: '''A Trip to the Moon'''
+      FalseAnswer:
+      - '''Metropolis'''
+      - '''The War of the Worlds'''
+      - '''Forbidden Planet'''
+      Explanation: "Directed by Georges M\xE9li\xE8s in 1902, 'A Trip to the Moon'
+        is often considered as the first feature-length science fiction film."

@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le logiciel de visioconférence le plus populaire pour le travail à distance?",
+            "TrueAnswer": "Zoom",
+            "FalseAnswer": [
+              "Skype",
+              "Microsoft Teams",
+              "Google Meet"
+            ],
+            "Explanation": "Zoom a gagné une immense popularité en 2020 pour son interface conviviale, sa vidéo de haute qualité et sa grande capacité de participants."
+          },
+          {
+            "Question": "Quelle est une plateforme en ligne courante pour l'édition collaborative de documents?",
+            "TrueAnswer": "Google Docs",
+            "FalseAnswer": [
+              "Microsoft Word",
+              "Dropbox Paper",
+              "Evernote"
+            ],
+            "Explanation": "Google Docs permet l'édition en temps réel et les commentaires, ce qui en fait une solution idéale pour la collaboration à distance sur des documents et des rapports."
+          },
+          {
+            "Question": "Quel outil est le mieux adapté pour la communication asynchrone dans les équipes à distance?",
+            "TrueAnswer": "Slack",
+            "FalseAnswer": [
+              "Microsoft Teams",
+              "Trello",
+              "Zoom"
+            ],
+            "Explanation": "Slack est conçu pour la communication et la collaboration d'équipe, offrant des canaux, des messages directs et des intégrations pour des interactions à distance fluides."
+          },
+          {
+            "Question": "Quel est un avantage clé de l'utilisation de Trello pour la gestion de projet à distance?",
+            "TrueAnswer": "Organisation visuelle",
+            "FalseAnswer": [
+              "Analytique avancée",
+              "Notifications en temps réel",
+              "Visioconférence intégrée"
+            ],
+            "Explanation": "Les tableaux visuels et le système de cartes de Trello offrent une manière claire et intuitive pour gérer les tâches et les projets à distance."
+          },
+          {
+            "Question": "Quelle plateforme est connue pour héberger des conversations informelles virtuelles dans les équipes à distance?",
+            "TrueAnswer": "Remo",
+            "FalseAnswer": [
+              "Zoom",
+              "Slack",
+              "Microsoft Teams"
+            ],
+            "Explanation": "Remo simule l'espace de bureau, permettant aux employés à distance de se déplacer entre des 'tables' virtuelles pour des conversations informelles et du réseautage."
+          },
+          {
+            "Question": "Quelle est la plateforme recommandée pour mener des révisions de code à distance et collaborer?",
+            "TrueAnswer": "GitHub",
+            "FalseAnswer": [
+              "Bitbucket",
+              "GitLab",
+              "SourceForge"
+            ],
+            "Explanation": "GitHub offre un processus de révision de code transparent via les demandes de tirage, garantissant une collaboration efficace entre les équipes de développement à distance."
+          },
+          {
+            "Question": "Quelle plateforme est couramment utilisée pour la collaboration et les retours d'informations à distance dans le domaine du design?",
+            "TrueAnswer": "Figma",
+            "FalseAnswer": [
+              "Sketch",
+              "Adobe Creative Cloud",
+              "Canva"
+            ],
+            "Explanation": "'Figma' permet une collaboration en temps réel sur les conceptions, favorisant le travail d'équipe à distance et l'échange efficace de retours d'informations entre les concepteurs."
+          },
+          {
+            "Question": "Quelle caractéristique de Miro en fait un outil idéal pour le brainstorming à distance et la collaboration visuelle?",
+            "TrueAnswer": "Toile infinie",
+            "FalseAnswer": [
+              "Chat vidéo intégré",
+              "Tableaux virtuels 3D",
+              "Commandes vocales"
+            ],
+            "Explanation": "La toile infinie de Miro permet aux équipes à distance de générer des idées et de cartographier des concepts sans limite d'espace, favorisant la collaboration créative."
+          },
+          {
+            "Question": "Quel outil est souvent utilisé pour la gestion de tâches de groupe à distance et les flux de travail agiles?",
+            "TrueAnswer": "Jira",
+            "FalseAnswer": [
+              "Asana",
+              "Monday.com",
+              "Basecamp"
+            ],
+            "Explanation": "Jira offre une personnalisation étendue et des fonctionnalités de gestion de projet agile, ce qui en fait une solution adaptée pour le suivi collaboratif des tâches des équipes à distance."
+          },
+          {
+            "Question": "Quel est un avantage de l'utilisation de la messagerie vidéo asynchrone pour la communication d'équipe à distance?",
+            "TrueAnswer": "Flexibilité",
+            "FalseAnswer": [
+              "Réponse en temps réel",
+              "Engagement plus élevé",
+              "Rétroaction instantanée"
+            ],
+            "Explanation": "Les messages vidéo asynchrones permettent aux employés à distance de communiquer de manière flexible à travers les fuseaux horaires et les horaires, favorisant l'équilibre entre vie professionnelle et vie privée."
+          }
+        ]
+      }
+    }
+  ]
+}

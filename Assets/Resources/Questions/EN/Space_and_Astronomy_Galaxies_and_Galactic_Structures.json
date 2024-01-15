@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the largest known galaxy by diameter?",
+            "TrueAnswer": "IC 1101",
+            "FalseAnswer": [
+              "Milky Way",
+              "Andromeda",
+              "Triangulum"
+            ],
+            "Explanation": "IC 1101 is a supergiant elliptical galaxy and is one of the largest known galaxies, with a diameter of 6 million light-years."
+          },
+          {
+            "Question": "How many dwarf galaxies are orbiting the Milky Way?",
+            "TrueAnswer": "More than 50",
+            "FalseAnswer": [
+              "Less than 20",
+              "Around 30",
+              "Approximately 40"
+            ],
+            "Explanation": "Though the exact count is uncertain, it is estimated that the Milky Way has over 50 dwarf galaxies in orbit."
+          },
+          {
+            "Question": "What is the primary source of energy in an active galactic nucleus (AGN)?",
+            "TrueAnswer": "Accretion disk around a supermassive black hole",
+            "FalseAnswer": [
+              "Solar fusion",
+              "Stellar collisions",
+              "Dark matter annihilation"
+            ],
+            "Explanation": "The intense radiation emitted from an AGN is powered by the accretion of material onto a supermassive black hole at the galaxy's center."
+          },
+          {
+            "Question": "Which galactic structure consists of a dense core of stars and stellar remnants?",
+            "TrueAnswer": "Globular cluster",
+            "FalseAnswer": [
+              "Nebula",
+              "Open cluster",
+              "Galactic halo"
+            ],
+            "Explanation": "Globular clusters contain hundreds of thousands to millions of stars tightly bound by gravity, creating a spherical structure around the galaxy's center."
+          },
+          {
+            "Question": "What is the term for two or more galaxies bound together by gravity?",
+            "TrueAnswer": "Galaxy cluster",
+            "FalseAnswer": [
+              "Galactic merger",
+              "Satellite galaxy",
+              "Globular cluster"
+            ],
+            "Explanation": "Galaxy clusters are the largest known gravitationally bound structures in the universe, containing hundreds to thousands of galaxies."
+          },
+          {
+            "Question": "What are the largest known cosmic structures, containing thousands of galaxies?",
+            "TrueAnswer": "Galaxy superclusters",
+            "FalseAnswer": [
+              "Quasars",
+              "Galactic filaments",
+              "Protogalaxies"
+            ],
+            "Explanation": "Galaxy superclusters are among the largest structures in the universe, spanning hundreds of millions of light-years and often forming interconnected webs."
+          },
+          {
+            "Question": "Which type of galaxy has a distinct central bulge and spiral arms?",
+            "TrueAnswer": "Spiral galaxy",
+            "FalseAnswer": [
+              "Elliptical galaxy",
+              "Irregular galaxy",
+              "Lenticular galaxy"
+            ],
+            "Explanation": "Spiral galaxies have a prominent central bulge, surrounded by sweeping spiral arms containing young stars and dust lanes."
+          },
+          {
+            "Question": "What is the defining feature of an irregular galaxy?",
+            "TrueAnswer": "Lack of a regular structure",
+            "FalseAnswer": [
+              "Lack of stars",
+              "Absence of dark matter",
+              "Uniform star distribution"
+            ],
+            "Explanation": "Irregular galaxies lack the distinct shapes and structures of spiral or elliptical galaxies, often exhibiting chaotic and asymmetric appearances."
+          },
+          {
+            "Question": "What type of galaxies contain little to no gas and dust, with an aging stellar population?",
+            "TrueAnswer": "Elliptical galaxies",
+            "FalseAnswer": [
+              "Dwarf galaxies",
+              "Starburst galaxies",
+              "Active galaxies"
+            ],
+            "Explanation": "Elliptical galaxies are characterized by their smooth and featureless appearance, primarily composed of old stars and lacking the gas and dust present in spiral galaxies."
+          },
+          {
+            "Question": "What determines the classification of a galaxy as a barred spiral?",
+            "TrueAnswer": "Presence of a central bar-like structure",
+            "FalseAnswer": [
+              "Lack of spiral arms",
+              "Absence of globular clusters",
+              "High metallicity"
+            ],
+            "Explanation": "Barred spiral galaxies feature a prominent elongated central bar extending from the core, influencing the structure and motion of stars within the galaxy."
+          },
+          {
+            "Question": "What gravitational phenomenon enhances the gravitational lensing effect in galaxy clusters?",
+            "TrueAnswer": "Dark matter",
+            "FalseAnswer": [
+              "Neutrinos",
+              "Photons",
+              "Cosmic rays"
+            ],
+            "Explanation": "The presence of dark matter in galaxy clusters amplifies the gravitational lensing effect, distorting and magnifying the light from background objects."
+          },
+          {
+            "Question": "What is the name for a group of galaxies associated through mutual gravitational attraction?",
+            "TrueAnswer": "Galactic group",
+            "FalseAnswer": [
+              "Star cluster",
+              "Cosmic web",
+              "Galactic filament"
+            ],
+            "Explanation": "Galactic groups typically consist of a few to tens of galaxies that are bound together by their shared gravitational influence within a larger cosmic structure."
+          },
+          {
+            "Question": "Which feature plays a significant role in shaping the morphology of galaxies?",
+            "TrueAnswer": "Tidal interactions with other galaxies",
+            "FalseAnswer": [
+              "Cosmic expansion",
+              "Asteroid impacts",
+              "Quasar emissions"
+            ],
+            "Explanation": "Tidal interactions between galaxies can induce gravitational forces that disrupt or rearrange their structures, impacting their overall appearance and evolution."
+          },
+          {
+            "Question": "What is the closest spiral galaxy to the Milky Way?",
+            "TrueAnswer": "Andromeda",
+            "FalseAnswer": [
+              "Pinwheel",
+              "Whirlpool",
+              "Triangulum"
+            ],
+            "Explanation": "Andromeda, also known as M31, is the nearest spiral galaxy to the Milky Way, located approximately 2.537 million light-years away."
+          },
+          {
+            "Question": "Which type of galaxies are often found in the outskirts of galaxy clusters?",
+            "TrueAnswer": "Dwarf galaxies",
+            "FalseAnswer": [
+              "Spiral galaxies",
+              "Elliptical galaxies",
+              "Irregular galaxies"
+            ],
+            "Explanation": "Dwarf galaxies, due to their smaller size and mass, are commonly found in the outskirts of galaxy clusters, influenced by the cluster's gravitational interactions."
+          },
+          {
+            "Question": "What is the estimated number of galaxies in the observable universe?",
+            "TrueAnswer": "Hundreds of billions",
+            "FalseAnswer": [
+              "Tens of thousands",
+              "Millions",
+              "Trillions"
+            ],
+            "Explanation": "Current estimates suggest that there are hundreds of billions of galaxies in the observable universe, each containing varying numbers of stars and celestial objects."
+          },
+          {
+            "Question": "What causes a galaxy to exhibit a blue shift in its spectrum?",
+            "TrueAnswer": "Approaching Earth",
+            "FalseAnswer": [
+              "Moving away from Earth",
+              "Remaining stationary",
+              "Absorbing cosmic radiation"
+            ],
+            "Explanation": "A blue shift occurs when a galaxy's light is shifted to shorter wavelengths, indicating that the galaxy is moving closer to Earth."
+          },
+          {
+            "Question": "What is the predominant color of the gas and dust clouds in the Milky Way's galactic disk?",
+            "TrueAnswer": "Reddish brown",
+            "FalseAnswer": [
+              "Green",
+              "Blue",
+              "Black"
+            ],
+            "Explanation": "The gas and dust clouds in the Milky Way's galactic disk appear reddish brown due to the scattering and absorption of light by interstellar particles and organic compounds."
+          },
+          {
+            "Question": "What is the staggering distance spanned by the largest galactic filaments in the universe?",
+            "TrueAnswer": "Hundreds of millions of light-years",
+            "FalseAnswer": [
+              "Thousands of light-years",
+              "Billions of light-years",
+              "Tens of light-years"
+            ],
+            "Explanation": "Galactic filaments, the largest known structures, can stretch hundreds of millions of light-years across the cosmic web, connecting galaxy clusters in the universe."
+          },
+          {
+            "Question": "Which type of galactic structures are characterized by a flat and disk-like shape?",
+            "TrueAnswer": "Lenticular galaxies",
+            "FalseAnswer": [
+              "Elliptical galaxies",
+              "Irregular galaxies",
+              "Spiral galaxies"
+            ],
+            "Explanation": "Lenticular galaxies have a disk-like structure similar to spiral galaxies but lack the prominent spiral arms, often resembling a cross between elliptical and spiral galaxies."
+          }
+        ]
+      }
+    }
+  ]
+}

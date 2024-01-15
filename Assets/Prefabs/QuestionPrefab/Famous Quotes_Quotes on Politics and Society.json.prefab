@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4306383575875025451
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8889158264474330646}
+  - component: {fileID: 7174907502432686112}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes on Politics and Society.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8889158264474330646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4306383575875025451}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7174907502432686112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4306383575875025451}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'The only thing necessary for the triumph of evil is for
+        good men to do nothing'?
+      TrueAnswer: Edmund Burke
+      FalseAnswer:
+      - Winston Churchill
+      - Abraham Lincoln
+      - Martin Luther King Jr.
+      Explanation: This quote is often attributed to Edmund Burke, an Irish statesman
+        and philosopher.
+    - Question: Which US president said 'The only thing we have to fear is fear itself'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - George Washington
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        spoke these words during his inaugural address in 1933.
+    - Question: Who said 'Injustice anywhere is a threat to justice everywhere'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Nelson Mandela
+      - Mahatma Gandhi
+      - Malcolm X
+      Explanation: Martin Luther King Jr., a prominent leader in the civil rights
+        movement, expressed this sentiment in his 'Letter from Birmingham Jail' in
+        1963.
+    - Question: Which philosopher said 'Man is born free, but everywhere he is in
+        chains'?
+      TrueAnswer: Jean-Jacques Rousseau
+      FalseAnswer:
+      - John Locke
+      - Thomas Hobbes
+      - Immanuel Kant
+      Explanation: Jean-Jacques Rousseau, a French philosopher, wrote this in his
+        book 'The Social Contract' in 1762.
+    - Question: Who said 'Power tends to corrupt, and absolute power corrupts absolutely'?
+      TrueAnswer: Lord Acton
+      FalseAnswer:
+      - "Niccol\xF2 Machiavelli"
+      - Karl Marx
+      - John Stuart Mill
+      Explanation: Lord Acton, a British historian, made this observation in a letter
+        to Bishop Mandell Creighton in 1887.
+    - Question: Which US president said 'Ask not what your country can do for you,
+        ask what you can do for your country'?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Ronald Reagan
+      - Donald Trump
+      - George W. Bush
+      Explanation: John F. Kennedy spoke these words during his inaugural address
+        in 1961, urging citizens to contribute to the betterment of their nation.
+    - Question: Who said 'The only way to deal with this life is to find a way to
+        laugh at it'?
+      TrueAnswer: Charlie Chaplin
+      FalseAnswer:
+      - Mark Twain
+      - Oscar Wilde
+      - George Carlin
+      Explanation: Charlie Chaplin, a comedic actor and filmmaker, emphasized the
+        importance of humor in navigating the challenges of life.
+    - Question: Which philosopher said 'I think, therefore I am'?
+      TrueAnswer: "Ren\xE9 Descartes"
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Friedrich Nietzsche
+      Explanation: "Ren\xE9 Descartes, a French philosopher, introduced this famous
+        philosophical statement in his work 'Discourse on the Method' in 1637."
+    - Question: Who said 'The only thing worse than being talked about is not being
+        talked about'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - William Shakespeare
+      - George Bernard Shaw
+      - Mark Twain
+      Explanation: Oscar Wilde, an Irish poet and playwright, expressed this sentiment
+        in his novel 'The Picture of Dorian Gray' in 1890.
+    - Question: Which US president said 'Change is the law of life. And those who
+        look only to the past or present are certain to miss the future'?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Barack Obama
+      - Bill Clinton
+      - George H. W. Bush
+      Explanation: John F. Kennedy emphasized the importance of embracing change
+        and looking towards the future in his speeches.
+    - Question: Who said 'The greatest glory in living lies not in never falling,
+        but in rising every time we fall'?
+      TrueAnswer: Nelson Mandela
+      FalseAnswer:
+      - Winston Churchill
+      - Mahatma Gandhi
+      - Martin Luther King Jr.
+      Explanation: Nelson Mandela, a South African anti-apartheid revolutionary and
+        politician, shared this inspirational message.
+    - Question: Which philosopher said 'I disapprove of what you say, but I will
+        defend to the death your right to say it'?
+      TrueAnswer: Voltaire
+      FalseAnswer:
+      - John Locke
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Voltaire, a French Enlightenment writer and philosopher, championed
+        the freedom of speech and expression.
+    - Question: Who said 'The only true wisdom is in knowing you know nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates, an ancient Greek philosopher, emphasized the importance
+        of humility and intellectual curiosity.
+    - Question: Which US president said 'A house divided against itself cannot stand'?
+      TrueAnswer: Abraham Lincoln
+      FalseAnswer:
+      - Thomas Jefferson
+      - George Washington
+      - Andrew Jackson
+      Explanation: Abraham Lincoln delivered this famous quote during his speech
+        at the Illinois State Capitol in 1858.
+    - Question: Who said 'The only thing necessary for the triumph of evil is for
+        good men to do nothing'?
+      TrueAnswer: Edmund Burke
+      FalseAnswer:
+      - Winston Churchill
+      - Abraham Lincoln
+      - Martin Luther King Jr.
+      Explanation: This quote is often attributed to Edmund Burke, an Irish statesman
+        and philosopher.
+    - Question: Which US president said 'The only thing we have to fear is fear itself'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - George Washington
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        spoke these words during his inaugural address in 1933.
+    - Question: Who said 'Injustice anywhere is a threat to justice everywhere'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Nelson Mandela
+      - Mahatma Gandhi
+      - Malcolm X
+      Explanation: Martin Luther King Jr., a prominent leader in the civil rights
+        movement, expressed this sentiment in his 'Letter from Birmingham Jail' in
+        1963.
+    - Question: Which philosopher said 'Man is born free, but everywhere he is in
+        chains'?
+      TrueAnswer: Jean-Jacques Rousseau
+      FalseAnswer:
+      - John Locke
+      - Thomas Hobbes
+      - Immanuel Kant
+      Explanation: Jean-Jacques Rousseau, a French philosopher, wrote this in his
+        book 'The Social Contract' in 1762.
+    - Question: Who said 'Power tends to corrupt, and absolute power corrupts absolutely'?
+      TrueAnswer: Lord Acton
+      FalseAnswer:
+      - "Niccol\xF2 Machiavelli"
+      - Karl Marx
+      - John Stuart Mill
+      Explanation: Lord Acton, a British historian, made this observation in a letter
+        to Bishop Mandell Creighton in 1887.
+    - Question: Which US president said 'Ask not what your country can do for you,
+        ask what you can do for your country'?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Ronald Reagan
+      - Donald Trump
+      - George W. Bush
+      Explanation: John F. Kennedy spoke these words during his inaugural address
+        in 1961, urging citizens to contribute to the betterment of their nation.

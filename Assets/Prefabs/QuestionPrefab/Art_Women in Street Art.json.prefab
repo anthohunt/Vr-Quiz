@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1804788096500680444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1156450849758572752}
+  - component: {fileID: 8244561715791354021}
+  m_Layer: 0
+  m_Name: Art_Women in Street Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1156450849758572752
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1804788096500680444}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8244561715791354021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1804788096500680444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the famous female street artist known for her stencils and
+        political messages?
+      TrueAnswer: Banksy
+      FalseAnswer:
+      - Lady Pink
+      - Swoon
+      - Miss Van
+      Explanation: Banksy is a renowned street artist who uses stencils to create
+        thought-provoking and politically charged artworks.
+    - Question: Which artist is known for her large-scale murals featuring women's
+        faces and vibrant colors?
+      TrueAnswer: Fafi
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Fafi is a street artist recognized for her distinctive style of
+        colorful and playful murals depicting female characters.
+    - Question: Who is the street artist known for her intricate and delicate paper
+        cutouts of women?
+      TrueAnswer: Vhils
+      FalseAnswer:
+      - Swoon
+      - Miss Van
+      - Lady Pink
+      Explanation: Vhils is an artist who creates stunning portraits of women by
+        carving into walls and other surfaces.
+    - Question: Which artist is known for her large-scale yarn installations in public
+        spaces?
+      TrueAnswer: Olek
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Olek is a street artist who uses crochet to create colorful and
+        eye-catching installations in urban environments.
+    - Question: Who is the street artist known for her iconic image of a girl with
+        a balloon?
+      TrueAnswer: Bambi
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Bambi is a street artist recognized for her stencil artworks,
+        including the famous image of a girl with a balloon.
+    - Question: Which artist is known for her large-scale portraits of women with
+        exaggerated features?
+      TrueAnswer: Miss Van
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Miss Van is a street artist who specializes in creating bold and
+        expressive portraits of women.
+    - Question: Who is the street artist known for her intricate and colorful geometric
+        patterns?
+      TrueAnswer: Maya Hayuk
+      FalseAnswer:
+      - Faith47
+      - MadC
+      - Swoon
+      Explanation: Maya Hayuk is an artist recognized for her vibrant and mesmerizing
+        geometric patterns in street art.
+    - Question: Which artist is known for her large-scale murals featuring animals
+        and nature?
+      TrueAnswer: Faith47
+      FalseAnswer:
+      - Maya Hayuk
+      - MadC
+      - Swoon
+      Explanation: Faith47 is a street artist who often incorporates elements of
+        animals and nature into her captivating murals.
+    - Question: Who is the street artist known for her colorful and energetic graffiti
+        artworks?
+      TrueAnswer: MadC
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - Swoon
+      Explanation: MadC is an artist recognized for her dynamic and vibrant graffiti
+        artworks that bring life to urban spaces.
+    - Question: Which artist is known for her wheatpaste posters featuring strong
+        and empowering women?
+      TrueAnswer: Lady Pink
+      FalseAnswer:
+      - Swoon
+      - Miss Van
+      - Banksy
+      Explanation: Lady Pink is a street artist who uses wheatpaste posters to showcase
+        powerful and inspiring women.
+    - Question: Who is the street artist known for her large-scale murals featuring
+        dreamlike and surreal scenes?
+      TrueAnswer: Swoon
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Swoon is an artist recognized for her captivating and ethereal
+        murals that transport viewers into dreamlike worlds.
+    - Question: Which artist is known for her colorful and whimsical characters in
+        street art?
+      TrueAnswer: Miss Van
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Miss Van is a street artist who creates enchanting and playful
+        characters in her vibrant artworks.
+    - Question: Who is the street artist known for her large-scale murals featuring
+        wildlife and natural elements?
+      TrueAnswer: Faith47
+      FalseAnswer:
+      - Maya Hayuk
+      - MadC
+      - Swoon
+      Explanation: Faith47 is an artist who often incorporates elements of wildlife
+        and nature into her mesmerizing murals.
+    - Question: Which artist is known for her intricate and delicate paper cutouts
+        of women?
+      TrueAnswer: Swoon
+      FalseAnswer:
+      - Miss Van
+      - Lady Pink
+      - Banksy
+      Explanation: Swoon is an artist who creates stunning portraits of women by
+        cutting intricate designs on paper.
+    - Question: Who is the street artist known for her large-scale murals featuring
+        abstract and colorful compositions?
+      TrueAnswer: Maya Hayuk
+      FalseAnswer:
+      - Faith47
+      - MadC
+      - Swoon
+      Explanation: Maya Hayuk is an artist recognized for her vibrant and abstract
+        murals that captivate viewers with their colors.
+    - Question: Which artist is known for her large-scale murals featuring social
+        and political messages?
+      TrueAnswer: Banksy
+      FalseAnswer:
+      - Lady Pink
+      - Swoon
+      - Miss Van
+      Explanation: Banksy is a renowned street artist who uses murals to convey powerful
+        social and political statements.
+    - Question: Who is the street artist known for her colorful and whimsical yarn
+        installations?
+      TrueAnswer: Olek
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Olek is a street artist who uses crochet to create playful and
+        vibrant yarn installations in public spaces.
+    - Question: Which artist is known for her large-scale murals featuring women
+        and nature?
+      TrueAnswer: Faith47
+      FalseAnswer:
+      - Maya Hayuk
+      - MadC
+      - Swoon
+      Explanation: Faith47 is a street artist who often combines the themes of women
+        and nature in her captivating murals.
+    - Question: Who is the street artist known for her stencil artworks featuring
+        famous figures?
+      TrueAnswer: Bambi
+      FalseAnswer:
+      - Maya Hayuk
+      - Faith47
+      - MadC
+      Explanation: Bambi is a street artist recognized for her stencil artworks that
+        depict famous figures and celebrities.
+    - Question: Which artist is known for her large-scale murals featuring abstract
+        and geometric patterns?
+      TrueAnswer: Maya Hayuk
+      FalseAnswer:
+      - Faith47
+      - MadC
+      - Swoon
+      Explanation: Maya Hayuk is an artist recognized for her mesmerizing murals
+        that incorporate abstract and geometric patterns.

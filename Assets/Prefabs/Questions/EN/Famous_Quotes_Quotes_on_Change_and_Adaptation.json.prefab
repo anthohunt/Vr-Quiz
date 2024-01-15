@@ -1,0 +1,251 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6418341222296541557
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5956218601540245050}
+  - component: {fileID: 8107683209947662712}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Quotes_on_Change_and_Adaptation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5956218601540245050
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6418341222296541557}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8107683209947662712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6418341222296541557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, "The only way to make sense out of change is to plunge
+        into it, move with it, and join the dance."?
+      TrueAnswer: Alan Watts
+      FalseAnswer:
+      - Eckhart Tolle
+      - Buddha
+      - Wayne Dyer
+      Explanation: Alan Watts, a British philosopher, interpreted Eastern philosophy
+        for Western audience and popularized Zen Buddhism and Taoism.
+    - Question: Which writer is known for the quote, "The only way to make sense
+        out of change is to plunge into it, move with it, and join the dance."?
+      TrueAnswer: Alan Watts
+      FalseAnswer:
+      - Seneca
+      - George Bernard Shaw
+      - Maya Angelou
+      Explanation: Alan Watts, a prominent writer and speaker, focused on topics
+        including personal identity, higher consciousness, the nature of reality
+        and the pursuit of happiness.
+    - Question: Who said, "The only way to make sense out of change is to plunge
+        into it, move with it, and join the dance."?
+      TrueAnswer: Alan Watts
+      FalseAnswer:
+      - Lao Tzu
+      - Marcus Aurelius
+      - Ralph Waldo Emerson
+      Explanation: Alan Watts, a significant figure in the philosophical movement
+        of the 20th-century and renowned interpreter of Zen Buddhism in particular,
+        was the author of the quote.
+    - Question: Which 20th-century leader advocated, "The only way to make sense
+        out of change is to plunge into it, move with it, and join the dance."?
+      TrueAnswer: Alan Watts
+      FalseAnswer:
+      - Winston Churchill
+      - Mahatma Gandhi
+      - Martin Luther King Jr.
+      Explanation: Alan Watts, though not a political leader, had a significant influence
+        on the counterculture of the 1960s and 1970s through his publications and
+        lectures.
+    - Question: Who said, "Change is the law of life. And those who look only to
+        the past or present are certain to miss the future."?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Abraham Lincoln
+      - Eleanor Roosevelt
+      - Thomas Jefferson
+      Explanation: John F. Kennedy, the 35th President of the United States, delivered
+        this quote in a speech in Dublin, Ireland, in June 1963, emphasizing the
+        inevitability and importance of change.
+    - Question: Which U.S. President emphasized, "Change is the law of life. And
+        those who look only to the past or present are certain to miss the future."?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Franklin D. Roosevelt
+      - Barack Obama
+      - Ronald Reagan
+      Explanation: John F. Kennedy's presidency, known as the 'New Frontier', was
+        marked by efforts to stimulate economic growth, halt the spread of communism,
+        and advance civil rights.
+    - Question: Who said, "Change is the law of life. And those who look only to
+        the past or present are certain to miss the future."?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Theodore Roosevelt
+      - Lyndon B. Johnson
+      - Dwight D. Eisenhower
+      Explanation: John F. Kennedy's vision, leadership, and tragic assassination
+        left a lasting impact on the United States and the world, particularly in
+        the realm of civil rights and space exploration.
+    - Question: Which 20th-century leader stated, "Change is the law of life. And
+        those who look only to the past or present are certain to miss the future."?
+      TrueAnswer: John F. Kennedy
+      FalseAnswer:
+      - Winston Churchill
+      - Margaret Thatcher
+      - Nelson Mandela
+      Explanation: John F. Kennedy's quote about change reflects his forward-looking
+        and progressive approach, resonating with his efforts to inspire the nation
+        and address pressing global challenges.
+    - Question: Who said, "Change will not come if we wait for some other person
+        or some other time. We are the ones we've been waiting for. We are the change
+        that we seek."?
+      TrueAnswer: Barack Obama
+      FalseAnswer:
+      - Nelson Mandela
+      - Malala Yousafzai
+      - Dolores Huerta
+      Explanation: Barack Obama, the 44th President of the United States, delivered
+        this message in his victory speech after winning the Democratic nomination
+        on June 3, 2008, highlighting the individual and collective responsibility
+        for change.
+    - Question: Which U.S. President emphasized, "Change will not come if we wait
+        for some other person or some other time. We are the ones we've been waiting
+        for. We are the change that we seek."?
+      TrueAnswer: Barack Obama
+      FalseAnswer:
+      - Bill Clinton
+      - George W. Bush
+      - Jimmy Carter
+      Explanation: Barack Obama's historic election in 2008 as the first African
+        American President marked a significant shift in American politics and signaled
+        a desire for change and progress.
+    - Question: Who said, "Change will not come if we wait for some other person
+        or some other time. We are the ones we've been waiting for. We are the change
+        that we seek."?
+      TrueAnswer: Barack Obama
+      FalseAnswer:
+      - Hillary Clinton
+      - Joe Biden
+      - Michelle Obama
+      Explanation: Barack Obama's powerful message of self-empowerment and collective
+        action resonated with his campaign's theme of hope and change, inspiring
+        a broad and diverse coalition of supporters.
+    - Question: Which 21st-century leader declared, "Change will not come if we wait
+        for some other person or some other time. We are the ones we've been waiting
+        for. We are the change that we seek."?
+      TrueAnswer: Barack Obama
+      FalseAnswer:
+      - Angela Merkel
+      - Theresa May
+      - Emmanuel Macron
+      Explanation: Barack Obama's presidency was marked by significant legislative
+        achievements, charisma, and a global appeal, inspiring optimism and renewal
+        both domestically and internationally.
+    - Question: Who said, "The measure of intelligence is the ability to change."?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Marie Curie
+      - Stephen Hawking
+      Explanation: Albert Einstein, a renowned physicist, developed the theory of
+        relativity, won the Nobel Prize in Physics, and made profound contributions
+        to our understanding of the universe.
+    - Question: Which scientist stated, "The measure of intelligence is the ability
+        to change."?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Galileo Galilei
+      - Charles Darwin
+      - Nikola Tesla
+      Explanation: Albert Einstein's influential work reshaped modern physics and
+        cosmology, cementing his status as one of the most brilliant minds in scientific
+        history.
+    - Question: Who said, "The measure of intelligence is the ability to change."?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Stephen Hawking
+      - Marie Curie
+      - Isaac Newton
+      Explanation: Albert Einstein's quote encapsulates his belief in adaptability
+        and creativity as essential traits for progression and success in both scientific
+        and personal realms.
+    - Question: Which 20th-century figure emphasized, "The measure of intelligence
+        is the ability to change."?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Winston Churchill
+      - Pablo Picasso
+      - Mahatma Gandhi
+      Explanation: Albert Einstein's legacy extends beyond his scientific achievements,
+        influencing worldviews on learning, creativity, and embracing change for
+        progress and innovation.
+    - Question: Who said, "It is not the strongest of the species that survive, nor
+        the most intelligent, but the one most responsive to change."?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - Gregor Mendel
+      - Louis Pasteur
+      - Marie Curie
+      Explanation: Charles Darwin's theory of evolution by natural selection revolutionized
+        biology and challenged prevailing beliefs about the diversity of life, adaptation,
+        and survival.
+    - Question: Which naturalist highlighted, "It is not the strongest of the species
+        that survive, nor the most intelligent, but the one most responsive to change."?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - Alfred Russel Wallace
+      - Alexander von Humboldt
+      - Carl Linnaeus
+      Explanation: Charles Darwin's groundbreaking work, 'On the Origin of Species',
+        introduced the concept of natural selection, reshaping scientific understanding
+        of biodiversity and species' adaptability.
+    - Question: Who said, "It is not the strongest of the species that survive, nor
+        the most intelligent, but the one most responsive to change."?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - Edward O. Wilson
+      - Richard Dawkins
+      - Stephen Jay Gould
+      Explanation: Charles Darwin, recognized as one of the most influential figures
+        in scientific history, provided critical insights into the mechanisms underlying
+        biological diversity and environmental interactions.
+    - Question: Which 19th-century naturalist stressed, "It is not the strongest
+        of the species that survive, nor the most intelligent, but the one most responsive
+        to change."?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - John Muir
+      - Louis Agassiz
+      - Thomas Huxley
+      Explanation: Charles Darwin's enduring impact on biology and the understanding
+        of evolutionary processes underscores the significance of adaptation and
+        change in shaping the natural world.

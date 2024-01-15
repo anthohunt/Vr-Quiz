@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7299643688503328252
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8272081677366846860}
+  - component: {fileID: 5001635356908647383}
+  m_Layer: 0
+  m_Name: Music_Music and Emotions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8272081677366846860
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7299643688503328252}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5001635356908647383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7299643688503328252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which genre of music is often associated with sadness and heartbreak?
+      TrueAnswer: Blues
+      FalseAnswer:
+      - Rock
+      - Pop
+      - Country
+      Explanation: Blues music is known for its melancholic lyrics and soulful melodies,
+        often expressing feelings of sadness and heartbreak.
+    - Question: Which musical instrument is commonly associated with feelings of
+        romance and love?
+      TrueAnswer: Violin
+      FalseAnswer:
+      - Drums
+      - Trumpet
+      - Piano
+      Explanation: The violin is often used to create romantic and emotional melodies,
+        evoking feelings of love and passion.
+    - Question: Which musical genre is known for its energetic and uplifting vibes?
+      TrueAnswer: Dance
+      FalseAnswer:
+      - Classical
+      - Jazz
+      - Reggae
+      Explanation: Dance music is characterized by its fast tempo and infectious
+        beats, creating an energetic and uplifting atmosphere.
+    - Question: Which musical element is often used to convey a sense of suspense
+        and tension?
+      TrueAnswer: Minor key
+      FalseAnswer:
+      - Major key
+      - Harmony
+      - Rhythm
+      Explanation: The use of a minor key in music can create a haunting and suspenseful
+        mood, adding tension to the composition.
+    - Question: Which musical genre is commonly associated with feelings of anger
+        and rebellion?
+      TrueAnswer: Punk
+      FalseAnswer:
+      - Folk
+      - R&B
+      - Gospel
+      Explanation: Punk music is characterized by its aggressive and rebellious nature,
+        often expressing feelings of anger and defiance.
+    - Question: Which musical element is often used to create a sense of nostalgia
+        and longing?
+      TrueAnswer: Melody
+      FalseAnswer:
+      - Bassline
+      - Chords
+      - Lyrics
+      Explanation: The melody of a song can evoke feelings of nostalgia and longing,
+        transporting listeners back to a specific time or memory.
+    - Question: Which musical genre is known for its calming and soothing effects?
+      TrueAnswer: Ambient
+      FalseAnswer:
+      - Metal
+      - Hip-hop
+      - Salsa
+      Explanation: Ambient music is characterized by its atmospheric and ethereal
+        soundscapes, creating a calming and soothing atmosphere.
+    - Question: Which musical element is often used to convey a sense of triumph
+        and victory?
+      TrueAnswer: Fanfare
+      FalseAnswer:
+      - Tempo
+      - Dynamics
+      - Texture
+      Explanation: A fanfare, typically played by brass instruments, is often used
+        to create a sense of triumph and victory in music.
+    - Question: Which musical genre is commonly associated with feelings of joy and
+        celebration?
+      TrueAnswer: Salsa
+      FalseAnswer:
+      - Blues
+      - Grunge
+      - Reggae
+      Explanation: Salsa music is known for its lively rhythms and infectious beats,
+        often evoking feelings of joy and celebration.
+    - Question: Which musical element is often used to create a sense of tension
+        and anticipation?
+      TrueAnswer: Crescendo
+      FalseAnswer:
+      - Harmony
+      - Rhythm
+      - Timbre
+      Explanation: A crescendo, where the volume gradually increases, is often used
+        to build tension and anticipation in music.
+    - Question: Which musical genre is known for its introspective and emotional
+        lyrics?
+      TrueAnswer: Folk
+      FalseAnswer:
+      - Pop
+      - Hip-hop
+      - Metal
+      Explanation: Folk music often features introspective and emotional lyrics,
+        telling stories and expressing personal experiences.
+    - Question: Which musical element is often used to create a sense of relaxation
+        and tranquility?
+      TrueAnswer: Harmonies
+      FalseAnswer:
+      - Melody
+      - Rhythm
+      - Tempo
+      Explanation: Harmonies, created by multiple notes played together, can create
+        a sense of relaxation and tranquility in music.
+    - Question: Which musical genre is commonly associated with feelings of nostalgia
+        and melancholy?
+      TrueAnswer: Jazz
+      FalseAnswer:
+      - Rock
+      - Country
+      - Reggae
+      Explanation: Jazz music often evokes feelings of nostalgia and melancholy,
+        with its improvisational and soulful nature.
+    - Question: Which musical element is often used to convey a sense of mystery
+        and intrigue?
+      TrueAnswer: Dissonance
+      FalseAnswer:
+      - Consonance
+      - Timbre
+      - Texture
+      Explanation: Dissonance, created by clashing or unresolved musical notes, can
+        create a sense of mystery and intrigue.
+    - Question: Which musical genre is known for its introspective and thought-provoking
+        lyrics?
+      TrueAnswer: Hip-hop
+      FalseAnswer:
+      - Classical
+      - Pop
+      - Metal
+      Explanation: Hip-hop music often features introspective and thought-provoking
+        lyrics, addressing social issues and personal experiences.
+    - Question: Which musical element is often used to create a sense of urgency
+        and excitement?
+      TrueAnswer: Fast tempo
+      FalseAnswer:
+      - Slow tempo
+      - Dynamics
+      - Texture
+      Explanation: A fast tempo in music can create a sense of urgency and excitement,
+        driving the energy of the composition.
+    - Question: Which musical genre is commonly associated with feelings of serenity
+        and peace?
+      TrueAnswer: New Age
+      FalseAnswer:
+      - Rock
+      - R&B
+      - Reggae
+      Explanation: New Age music is known for its tranquil and soothing melodies,
+        often evoking feelings of serenity and peace.
+    - Question: Which musical element is often used to convey a sense of sadness
+        and longing?
+      TrueAnswer: Slow tempo
+      FalseAnswer:
+      - Fast tempo
+      - Harmony
+      - Rhythm
+      Explanation: A slow tempo in music can create a sense of sadness and longing,
+        allowing for emotional depth and reflection.
+    - Question: Which musical genre is known for its high energy and aggressive sound?
+      TrueAnswer: Metal
+      FalseAnswer:
+      - Jazz
+      - Country
+      - Soul
+      Explanation: Metal music is characterized by its heavy and aggressive sound,
+        often evoking feelings of intensity and power.
+    - Question: Which musical element is often used to create a sense of mystery
+        and suspense?
+      TrueAnswer: Reverb
+      FalseAnswer:
+      - Melody
+      - Rhythm
+      - Harmony
+      Explanation: Reverb, a sound effect that creates a sense of space and echo,
+        can add mystery and suspense to music.
+    - Question: Which musical genre is commonly associated with feelings of happiness
+        and positivity?
+      TrueAnswer: Pop
+      FalseAnswer:
+      - Blues
+      - Grunge
+      - Hip-hop
+      Explanation: Pop music is known for its catchy melodies and upbeat rhythms,
+        often evoking feelings of happiness and positivity.

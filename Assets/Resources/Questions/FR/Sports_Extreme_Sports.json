@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la vitesse la plus élevée jamais enregistrée par un skateboarder en descente ?",
+            "TrueAnswer": "91 mph",
+            "FalseAnswer": [
+              "78 mph",
+              "102 mph",
+              "85 mph"
+            ],
+            "Explanation": "Le record de vitesse le plus élevé atteint par un skateboarder en descente sur un skateboard ordinaire est de 91 mph, établi par Erik Lundberg en 2016."
+          },
+          {
+            "Question": "En quelle année le premier wingsuit moderne a-t-il été inventé ?",
+            "TrueAnswer": "1997",
+            "FalseAnswer": [
+              "2004",
+              "1988",
+              "1975"
+            ],
+            "Explanation": "Le premier wingsuit moderne, qui permettait un vol contrôlé, a été inventé en 1997 par le parachutiste français Patrick de Gayardon."
+          },
+          {
+            "Question": "Quel est le mur d'escalade le plus haut du monde ?",
+            "TrueAnswer": "Excalibur, Pays-Bas",
+            "FalseAnswer": [
+              "El Capitan, États-Unis",
+              "Mont Thor, Canada",
+              "Yosemite, États-Unis"
+            ],
+            "Explanation": "Excalibur aux Pays-Bas est le mur d'escalade autonome le plus haut, mesurant 121 pieds de hauteur et surplombant de 36 pieds à son point le plus raide."
+          },
+          {
+            "Question": "Quelle figure de BMX implique de faire tourner le guidon à 360 degrés tandis que le vélo est en l'air ?",
+            "TrueAnswer": "Bunny hop barspin",
+            "FalseAnswer": [
+              "Tailwhip",
+              "Backflip",
+              "Superman"
+            ],
+            "Explanation": "La figure de BMX appelée bunny hop barspin consiste à faire tourner le guidon à 360 degrés tandis que le vélo est en l'air, nécessitant à la fois de la technique et du timing."
+          },
+          {
+            "Question": "Qui a surfé de manière célèbre sur une vague de 78 pieds à Nazaré, Portugal en 2018 ?",
+            "TrueAnswer": "Rodrigo Koxa",
+            "FalseAnswer": [
+              "Laird Hamilton",
+              "Kelly Slater",
+              "Garrett McNamara"
+            ],
+            "Explanation": "Le surfeur brésilien Rodrigo Koxa a surfé de manière célèbre sur une vague record de 78 pieds à Nazaré, Portugal, en novembre 2017, établissant un nouveau record du monde."
+          },
+          {
+            "Question": "Quelle est la hauteur de chute minimale pour qu'un saut soit considéré comme du BASE jumping ?",
+            "TrueAnswer": "500 pieds",
+            "FalseAnswer": [
+              "200 pieds",
+              "1000 pieds",
+              "300 pieds"
+            ],
+            "Explanation": "Le BASE jumping est considéré lorsqu'on saute d'objets fixes ou de falaises avec une hauteur de chute minimale de 500 pieds, procurant une montée d'adrénaline intense mais de courte durée."
+          },
+          {
+            "Question": "Quel lieu est connu pour la compétition de surf sur les plus grandes vagues ?",
+            "TrueAnswer": "Mavericks, Californie",
+            "FalseAnswer": [
+              "Teahupoo, Tahiti",
+              "Jaws, Hawaï",
+              "Pipeline, Hawaï"
+            ],
+            "Explanation": "Mavericks, en Californie, est célèbre pour sa compétition de surf sur les grosses vagues, attirant des surfeurs renommés pour défier des vagues colossales dépassant souvent 25 pieds."
+          },
+          {
+            "Question": "Quelle est la vitesse moyenne d'un vététiste professionnel en descente ?",
+            "TrueAnswer": "40 mph",
+            "FalseAnswer": [
+              "30 mph",
+              "50 mph",
+              "35 mph"
+            ],
+            "Explanation": "Les vététistes professionnels en descente atteignent des vitesses moyennes d'environ 40 mph sur un terrain escarpé et accidenté, démontrant un contrôle et une habileté remarquables."
+          },
+          {
+            "Question": "Quelle discipline de parachutisme consiste à former et manœuvrer des formations en chute libre ?",
+            "TrueAnswer": "Formation skydiving",
+            "FalseAnswer": [
+              "Wingsuit flying",
+              "Freeflying",
+              "Swooping"
+            ],
+            "Explanation": "Le parachutisme de formation, aussi connu sous le nom de travail relatif, exige des parachutistes de créer et maintenir diverses formations en tombant à grande vitesse à travers le ciel."
+          },
+          {
+            "Question": "Quel est le terme désignant l'exécution de flips acrobatiques et de virages sur une planche de snowboard ?",
+            "TrueAnswer": "Snowboard freestyle",
+            "FalseAnswer": [
+              "Snowboard alpin",
+              "Snowboard backcountry",
+              "Snowboard big air"
+            ],
+            "Explanation": "Le snowboard freestyle consiste à réaliser des figures acrobatiques, des spins, des vrilles et des flips sur divers éléments de terrain tels que les halfpipes, les sauts et les barres."
+          },
+          {
+            "Question": "Quelle épreuve olympique de snowboard comprend un parcours avec plusieurs sauts, barres et autres obstacles ?",
+            "TrueAnswer": "Slopestyle",
+            "FalseAnswer": [
+              "Halfpipe",
+              "Big air",
+              "Boardercross"
+            ],
+            "Explanation": "Le slopestyle est une épreuve olympique de snowboard où les athlètes naviguent un parcours avec divers obstacles, démontrant leur habileté technique et leur créativité."
+          },
+          {
+            "Question": "Quel est le terme désignant le fait de surfer sur des vagues avec un kayak, en réalisant des manœuvres et des tricks ?",
+            "TrueAnswer": "Kayak surf",
+            "FalseAnswer": [
+              "Kayak en eau vive",
+              "Kayak slalom",
+              "Creek boating"
+            ],
+            "Explanation": "Le kayak surf consiste à surfer sur les vagues océaniques et à réaliser des tricks et manœuvres à l'aide d'un kayak, nécessitant un équilibre habile, un timing précis et une compréhension de la dynamique des vagues."
+          },
+          {
+            "Question": "Lequel de ces éléments n'est pas une discipline officiellement reconnue dans les compétitions d'escalade sportive ?",
+            "TrueAnswer": "Escalade en fissure",
+            "FalseAnswer": [
+              "Escalade en tête",
+              "Escalade rapide",
+              "Bloc"
+            ],
+            "Explanation": "Bien que l'escalade en fissure soit une discipline populaire en extérieur, elle n'est pas traditionnellement présentée comme une discipline distincte dans les compétitions officielles d'escalade sportive."
+          },
+          {
+            "Question": "Quel est le terme désignant le fait de descendre des vagues océaniques en utilisant un cerf-volant pour se propulser ?",
+            "TrueAnswer": "Kitesurf",
+            "FalseAnswer": [
+              "Planche à voile",
+              "Paddle",
+              "Wakeboard"
+            ],
+            "Explanation": "Le kitesurf, également connu sous le nom de kiteboard ou planche volante, combine des aspects du surf, du wakeboard et de la planche à voile, permettant aux riders d'utiliser la puissance du vent pour se propulser."
+          },
+          {
+            "Question": "Quelle est la durée d'un saut standard en wingsuit du départ au déploiement du parachute ?",
+            "TrueAnswer": "60 secondes",
+            "FalseAnswer": [
+              "30 secondes",
+              "90 secondes",
+              "120 secondes"
+            ],
+            "Explanation": "Un saut standard en wingsuit dure environ 60 secondes du départ au déploiement du parachute, pendant lequel le pratiquant expérimente un vol en chute libre palpitant."
+          },
+          {
+            "Question": "Quelle discipline de VTT met l'accent sur les descentes techniques avec un terrain difficile ?",
+            "TrueAnswer": "VTT descente",
+            "FalseAnswer": [
+              "VTT cross-country",
+              "VTT endurance",
+              "Dirt jump"
+            ],
+            "Explanation": "Le VTT descente se concentre sur des descentes rapides à travers un terrain difficile et accidenté, impliquant souvent des sauts, des drops et des obstacles."
+          },
+          {
+            "Question": "Quelle est l'altitude minimale requise pour faire du BASE jumping en wingsuit aux États-Unis ?",
+            "TrueAnswer": "2000 pieds",
+            "FalseAnswer": [
+              "1000 pieds",
+              "1500 pieds",
+              "2500 pieds"
+            ],
+            "Explanation": "Aux États-Unis, le BASE jumping en wingsuit nécessite une altitude minimale de 2000 pieds pour des raisons de sécurité et pour permettre suffisamment de temps pour déployer le parachute après le saut."
+          },
+          {
+            "Question": "Quel événement de skateboard consiste à réaliser des tricks sur des mains courantes, des escaliers et des rebords ?",
+            "TrueAnswer": "Skateboard street",
+            "FalseAnswer": [
+              "Skateboard vertical",
+              "Skateboard bowl",
+              "Skateboard freestyle"
+            ],
+            "Explanation": "Le skateboard street consiste à réaliser des tricks sur des obstacles couramment rencontrés dans les environnements urbains, démontrant la créativité, la technicité et l'adaptabilité."
+          },
+          {
+            "Question": "Quelle est la vitesse la plus élevée jamais enregistrée par un pratiquant de wingsuit ?",
+            "TrueAnswer": "234 mph",
+            "FalseAnswer": [
+              "210 mph",
+              "250 mph",
+              "225 mph"
+            ],
+            "Explanation": "La vitesse la plus élevée jamais enregistrée par un pratiquant de wingsuit en vol horizontal est de 234 mph, réalisée par le cascadeur britannique Fraser Corsan en 2012."
+          },
+          {
+            "Question": "Lequel de ces activités consiste à descendre des pentes enneigées ou glacées abruptes avec des piolets et des crampons ?",
+            "TrueAnswer": "Escalade de glace",
+            "FalseAnswer": [
+              "Randonnée sur glacier",
+              "Ski de fond",
+              "Ski-alpinisme"
+            ],
+            "Explanation": "L'escalade de glace implique de monter ou de descendre des formations de glace abruptes, utilisant généralement un équipement spécialisé tel que des piolets, des crampons et des vis à glace pour la protection."
+          }
+        ]
+      }
+    }
+  ]
+}

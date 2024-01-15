@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la plus grande planète de notre système solaire?",
+            "TrueAnswer": "Jupiter",
+            "FalseAnswer": [
+              "Saturne",
+              "Neptune",
+              "Mars"
+            ],
+            "Explanation": "Jupiter est la plus grande planète de notre système solaire, avec un diamètre de 86 881 miles, ce qui la rend plus de 11 fois plus large que la Terre."
+          },
+          {
+            "Question": "Quelle est l'étoile la plus brillante dans le ciel nocturne?",
+            "TrueAnswer": "Sirius",
+            "FalseAnswer": [
+              "Vénus",
+              "Polaris",
+              "Bételgeuse"
+            ],
+            "Explanation": "Sirius, également connue sous le nom d'Étoile du Chien, est l'étoile la plus brillante dans le ciel nocturne et est deux fois plus brillante que Canopus, l'étoile suivante la plus brillante."
+          },
+          {
+            "Question": "Combien de lunes possède Mars?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "1",
+              "3",
+              "0"
+            ],
+            "Explanation": "Mars a deux petites lunes, Phobos et Deimos, qui sont supposées être des astéroïdes capturés de la ceinture d'astéroïdes."
+          },
+          {
+            "Question": "Qu'est-ce qui cause la couleur verte des aurores?",
+            "TrueAnswer": "L'oxygène",
+            "FalseAnswer": [
+              "Azote",
+              "Hélium",
+              "Hydrogène"
+            ],
+            "Explanation": "La couleur verte des aurores est causée par des atomes d'oxygène chargés, situés à environ 60 miles au-dessus de la surface de la Terre, émettant des photons."
+          },
+          {
+            "Question": "Quelle planète possède la température de surface la plus élevée de notre système solaire?",
+            "TrueAnswer": "Vénus",
+            "FalseAnswer": [
+              "Mercure",
+              "Terre",
+              "Jupiter"
+            ],
+            "Explanation": "Vénus possède la température de surface la plus élevée, atteignant environ 900°F, en raison de son atmosphère dense et de l'effet de serre incontrôlé."
+          },
+          {
+            "Question": "Quelle est la plus grande planète connue de l'univers?",
+            "TrueAnswer": "TrES-4b",
+            "FalseAnswer": [
+              "Jupiter",
+              "HD 100546 b",
+              "Kepler-10c"
+            ],
+            "Explanation": "TrES-4b est actuellement la plus grande exoplanète connue, avec un rayon environ 1,7 fois plus grand que celui de Jupiter."
+          },
+          {
+            "Question": "Combien de temps faut-il à la lumière du Soleil pour atteindre la Terre?",
+            "TrueAnswer": "8 minutes",
+            "FalseAnswer": [
+              "1 heure",
+              "30 secondes",
+              "1 jour"
+            ],
+            "Explanation": "Il faut environ 8 minutes à la lumière pour voyager du Soleil à la Terre, parcourant une distance d'environ 93 millions de miles."
+          },
+          {
+            "Question": "Quel télescope spatial de la NASA a été lancé en 1990?",
+            "TrueAnswer": "Télescope spatial Hubble",
+            "FalseAnswer": [
+              "Télescope spatial Spitzer",
+              "Télescope spatial Kepler",
+              "Observatoire à rayons X Chandra"
+            ],
+            "Explanation": "Le télescope spatial Hubble, lancé en 1990, orbite autour de la Terre et a fourni certaines des images les plus détaillées de galaxies lointaines et de nébuleuses."
+          },
+          {
+            "Question": "Combien d'années terrestres faut-il à Neptune pour orbiter une fois autour du Soleil?",
+            "TrueAnswer": "165",
+            "FalseAnswer": [
+              "104",
+              "246",
+              "57"
+            ],
+            "Explanation": "Neptune prend environ 165 années terrestres pour terminer une orbite autour du Soleil en raison de sa grande distance par rapport au Soleil."
+          },
+          {
+            "Question": "Quel est le nom du processus par lequel une étoile produit de l'énergie?",
+            "TrueAnswer": "Fusion nucléaire",
+            "FalseAnswer": [
+              "Fission nucléaire",
+              "Effondrement gravitationnel",
+              "Refroidissement par radiation"
+            ],
+            "Explanation": "La fusion nucléaire est le processus par lequel deux noyaux atomiques se combinent pour former un noyau plus lourd, libérant de l'énergie sous forme de lumière et de chaleur."
+          },
+          {
+            "Question": "Quel est l'âge approximatif de l'univers?",
+            "TrueAnswer": "13,8 milliards d'années",
+            "FalseAnswer": [
+              "5,4 milliards d'années",
+              "20 millions d'années",
+              "100 billions d'années"
+            ],
+            "Explanation": "L'univers est estimé à environ 13,8 milliards d'années, sur la base de mesures du rayonnement cosmique micro-ondes."
+          },
+          {
+            "Question": "Quel est l'élément le plus abondant dans l'univers?",
+            "TrueAnswer": "Hydrogène",
+            "FalseAnswer": [
+              "Carbone",
+              "Oxygène",
+              "Hélium"
+            ],
+            "Explanation": "L'hydrogène est l'élément le plus abondant dans l'univers, représentant environ 75% de sa masse élémentaire."
+          },
+          {
+            "Question": "Quelle constellation est connue sous le nom de 'Le Chasseur'?",
+            "TrueAnswer": "Orion",
+            "FalseAnswer": [
+              "La Grande Ourse",
+              "Cassiopée",
+              "Le Lion"
+            ],
+            "Explanation": "Orion est une constellation importante, nommée d'après un chasseur de la mythologie grecque, et contient les étoiles brillantes Bételgeuse et Rigel."
+          },
+          {
+            "Question": "Quel est le nom de la galaxie la plus proche de la Voie lactée?",
+            "TrueAnswer": "Andromède",
+            "FalseAnswer": [
+              "Triangulum",
+              "Naine du Grand Chien",
+              "Galaxie du Tourbillon"
+            ],
+            "Explanation": "Andromède, également connue sous le nom de M31, est la galaxie spirale la plus proche de la Voie lactée, située à environ 2,537 millions d'années-lumière."
+          },
+          {
+            "Question": "Quel est le terme désignant la mort explosive d'une étoile massive?",
+            "TrueAnswer": "Supernova",
+            "FalseAnswer": [
+              "Étoile à neutrons",
+              "Quasar",
+              "Trou noir"
+            ],
+            "Explanation": "Une supernova est l'explosion cataclysmique d'une étoile massive, entraînant la libération d'une immense quantité d'énergie et la formation de nouveaux éléments."
+          },
+          {
+            "Question": "Combien de temps met la Lune pour orbiter une fois autour de la Terre?",
+            "TrueAnswer": "27 jours",
+            "FalseAnswer": [
+              "12 heures",
+              "365 jours",
+              "7 jours"
+            ],
+            "Explanation": "La Lune met environ 27 jours pour terminer une orbite autour de la Terre, connue sous le nom de période sidérale."
+          },
+          {
+            "Question": "Quel est le terme scientifique pour une étoile filante?",
+            "TrueAnswer": "Météore",
+            "FalseAnswer": [
+              "Comète",
+              "Astéroïde",
+              "Météorite"
+            ],
+            "Explanation": "Un météore est le passage visible d'un météoroïde à travers l'atmosphère terrestre, créant une traînée de lumière en brûlant en raison de la friction."
+          },
+          {
+            "Question": "Quelle est l'étoile la plus proche de la Terre, en dehors du Soleil?",
+            "TrueAnswer": "Proxima du Centaure",
+            "FalseAnswer": [
+              "Alpha du Centaure A",
+              "Étoile de Barnard",
+              "Wolf 359"
+            ],
+            "Explanation": "Proxima du Centaure est une étoile naine rouge située à environ 4,24 années-lumière, ce qui en fait l'étoile connue la plus proche du Système solaire."
+          },
+          {
+            "Question": "Quel est le nom du point situé au-dessus d'un observateur diamétralement opposé au zénith?",
+            "TrueAnswer": "Nadir",
+            "FalseAnswer": [
+              "Apex",
+              "Horizon",
+              "Méridien"
+            ],
+            "Explanation": "Le nadir est le point sur la sphère céleste directement en dessous d'un observateur et diamétralement opposé au zénith, ou le point directement au-dessus."
+          },
+          {
+            "Question": "Quelle est la plus haute montagne du système solaire?",
+            "TrueAnswer": "Olympus Mons",
+            "FalseAnswer": [
+              "Mauna Kea",
+              "Mont Everest",
+              "Mont Sharp"
+            ],
+            "Explanation": "Olympus Mons est un volcan bouclier sur Mars et est le plus haut volcan et montagne connus du système solaire, atteignant une hauteur d'environ 13,6 miles."
+          }
+        ]
+      }
+    }
+  ]
+}

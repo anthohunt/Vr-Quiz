@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5797313452120378232
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 188105251758155790}
+  - component: {fileID: 2802657325202355987}
+  m_Layer: 0
+  m_Name: Pop_Culture_Dance_and_Choreography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &188105251758155790
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5797313452120378232}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2802657325202355987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5797313452120378232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who choreographed Michael Jackson's iconic music video 'Thriller'?
+      TrueAnswer: Michael Peters
+      FalseAnswer:
+      - Paul Abdul
+      - Travis Payne
+      - Wade Robson
+      Explanation: Michael Peters, a renowned choreographer, worked alongside Michael
+        Jackson to create the iconic 'Thriller' dance, which became a cultural phenomenon.
+    - Question: In the movie 'Step Up', which dance style is predominantly showcased?
+      TrueAnswer: Hip-hop
+      FalseAnswer:
+      - Ballet
+      - Tap
+      - Salsa
+      Explanation: The 'Step Up' movie series predominantly showcases hip-hop dance
+        style, featuring intricate and energetic street dance performances.
+    - Question: Who is known as the 'King of Pop'?
+      TrueAnswer: Michael Jackson
+      FalseAnswer:
+      - Justin Timberlake
+      - Usher
+      - Chris Brown
+      Explanation: Michael Jackson earned the title 'King of Pop' due to his remarkable
+        influence on the music industry and his groundbreaking dance moves.
+    - Question: Which dance style is often featured in Bollywood films?
+      TrueAnswer: Bhangra
+      FalseAnswer:
+      - Flamenco
+      - Samba
+      - Tango
+      Explanation: Bhangra, a high-energy dance form, is a common feature in Bollywood
+        films, known for its vibrant movements and rhythmic beats.
+    - Question: Who choreographed the iconic dance routines in the movie 'Dirty Dancing'?
+      TrueAnswer: Kenny Ortega
+      FalseAnswer:
+      - Debbie Allen
+      - Bob Fosse
+      - Mikhail Baryshnikov
+      Explanation: Kenny Ortega, as the choreographer for 'Dirty Dancing', infused
+        the film with timeless dance sequences, contributing to its lasting popularity.
+    - Question: What's the style of dance primarily associated with the 'So You Think
+        You Can Dance' TV show?
+      TrueAnswer: Contemporary
+      FalseAnswer:
+      - Ballroom
+      - Jazz
+      - Tap
+      Explanation: Contemporary dance, known for its fluidity and emotional expression,
+        is the dominant genre showcased on 'So You Think You Can Dance'.
+    - Question: "Who directed the music video for Beyonc\xE9's 'Single Ladies' known
+        for its iconic dance routine?"
+      TrueAnswer: Jake Nava
+      FalseAnswer:
+      - Hype Williams
+      - Dave Meyers
+      - Joseph Kahn
+      Explanation: Jake Nava directed the iconic 'Single Ladies' video, influencing
+        popular dance culture with its distinct and memorable choreography.
+    - Question: Which famous pop artist is known for incorporating complex dance
+        routines into their live performances?
+      TrueAnswer: Britney Spears
+      FalseAnswer:
+      - Madonna
+      - Lady Gaga
+      - Rihanna
+      Explanation: Britney Spears gained fame for her live performances featuring
+        intricate dance routines, contributing to her enduring pop music legacy.
+    - Question: What dance style is commonly associated with the 'Sytycd' abbreviation
+        in dance culture?
+      TrueAnswer: Hip-hop
+      FalseAnswer:
+      - Breakdance
+      - K-pop
+      - Locking
+      Explanation: The abbreviation 'Sytycd' stands for 'So You Think You Can Dance',
+        a show that often features hip-hop routines, popularizing the dance style.
+    - Question: Which iconic dancer popularized the Moonwalk dance move?
+      TrueAnswer: Michael Jackson
+      FalseAnswer:
+      - Fred Astaire
+      - Gene Kelly
+      - Sylvie Guillem
+      Explanation: Michael Jackson showcased the remarkable Moonwalk during a performance
+        of 'Billie Jean', etching it into pop culture history.

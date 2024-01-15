@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6051920600652649115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5087920625912393402}
+  - component: {fileID: 487308380511199210}
+  m_Layer: 0
+  m_Name: Famous Quotes_Humorous Anecdotes and Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5087920625912393402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6051920600652649115}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &487308380511199210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6051920600652649115}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'I can resist everything except temptation'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Winston Churchill
+      - Albert Einstein
+      Explanation: Oscar Wilde, the famous Irish writer and poet, is known for his
+        wit and humorous quotes.
+    - Question: Which comedian said, 'I'm not a vegetarian because I love animals,
+        I'm a vegetarian because I hate plants'?
+      TrueAnswer: A. Whitney Brown
+      FalseAnswer:
+      - Jerry Seinfeld
+      - Ellen DeGeneres
+      - Chris Rock
+      Explanation: A. Whitney Brown, an American comedian, is known for his clever
+        and satirical humor.
+    - Question: Who said, 'I refuse to join any club that would have me as a member'?
+      TrueAnswer: Groucho Marx
+      FalseAnswer:
+      - Charlie Chaplin
+      - Buster Keaton
+      - Harpo Marx
+      Explanation: Groucho Marx, a legendary comedian and actor, is known for his
+        quick wit and one-liners.
+    - Question: Which comedian said, 'I'm sorry, if you were right, I'd agree with
+        you'?
+      TrueAnswer: Robin Williams
+      FalseAnswer:
+      - George Carlin
+      - Eddie Murphy
+      - Dave Chappelle
+      Explanation: Robin Williams, a beloved comedian and actor, was known for his
+        improvisational skills and unique humor.
+    - Question: Who said, 'I can't understand why people are frightened of new ideas.
+        I'm frightened of the old ones'?
+      TrueAnswer: John Cage
+      FalseAnswer:
+      - Pablo Picasso
+      - Salvador Dali
+      - Vincent van Gogh
+      Explanation: John Cage, an American composer and philosopher, was known for
+        his avant-garde approach to music and art.
+    - Question: Which comedian said, 'I'm not afraid of death; I just don't want
+        to be there when it happens'?
+      TrueAnswer: Woody Allen
+      FalseAnswer:
+      - Steve Martin
+      - Bill Murray
+      - Jim Carrey
+      Explanation: Woody Allen, a renowned filmmaker and comedian, often incorporated
+        his neurotic humor into his movies.
+    - Question: Who said, 'I am so clever that sometimes I don't understand a single
+        word of what I am saying'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Winston Churchill
+      - Albert Einstein
+      Explanation: Oscar Wilde, known for his wit and satire, often used paradoxical
+        statements to highlight societal absurdities.
+    - Question: Which comedian said, 'I'm not a complete idiot, some parts are missing'?
+      TrueAnswer: Unknown
+      FalseAnswer:
+      - Jerry Seinfeld
+      - Ellen DeGeneres
+      - Chris Rock
+      Explanation: This quote is often attributed to an unknown source, adding to
+        its humorous and self-deprecating nature.
+    - Question: Who said, 'I never forget a face, but in your case, I'll be glad
+        to make an exception'?
+      TrueAnswer: Groucho Marx
+      FalseAnswer:
+      - Charlie Chaplin
+      - Buster Keaton
+      - Harpo Marx
+      Explanation: Groucho Marx, known for his quick wit and sarcasm, often used
+        his humor to poke fun at others.
+    - Question: Which comedian said, 'I'm sorry, if you were right, I'd agree with
+        you'?
+      TrueAnswer: Robin Williams
+      FalseAnswer:
+      - George Carlin
+      - Eddie Murphy
+      - Dave Chappelle
+      Explanation: Robin Williams, known for his rapid-fire delivery and improvisational
+        skills, had a unique ability to make people laugh.
+    - Question: Who said, 'I have not failed. I've just found 10,000 ways that won't
+        work'?
+      TrueAnswer: Thomas Edison
+      FalseAnswer:
+      - Albert Einstein
+      - Nikola Tesla
+      - Isaac Newton
+      Explanation: Thomas Edison, the inventor of the practical electric light bulb,
+        was known for his perseverance and determination.
+    - Question: Which comedian said, 'I'm not a vegetarian because I love animals,
+        I'm a vegetarian because I hate plants'?
+      TrueAnswer: A. Whitney Brown
+      FalseAnswer:
+      - Jerry Seinfeld
+      - Ellen DeGeneres
+      - Chris Rock
+      Explanation: A. Whitney Brown, known for his dry and sarcastic humor, often
+        made thought-provoking statements.
+    - Question: Who said, 'I find television very educational. Every time someone
+        turns it on, I go in the other room and read a book'?
+      TrueAnswer: Groucho Marx
+      FalseAnswer:
+      - Charlie Chaplin
+      - Buster Keaton
+      - Harpo Marx
+      Explanation: Groucho Marx, known for his clever wordplay and satire, often
+        made humorous observations about everyday life.
+    - Question: Which comedian said, 'I'm sorry, if you were right, I'd agree with
+        you'?
+      TrueAnswer: Robin Williams
+      FalseAnswer:
+      - George Carlin
+      - Eddie Murphy
+      - Dave Chappelle
+      Explanation: Robin Williams, known for his energetic and unpredictable performances,
+        had a unique ability to make people laugh.
+    - Question: Who said, 'I can resist everything except temptation'?
+      TrueAnswer: Oscar Wilde
+      FalseAnswer:
+      - Mark Twain
+      - Winston Churchill
+      - Albert Einstein
+      Explanation: Oscar Wilde, known for his wit and humor, often used irony and
+        satire to comment on society.
+    - Question: Which comedian said, 'I'm not a complete idiot, some parts are missing'?
+      TrueAnswer: Unknown
+      FalseAnswer:
+      - Jerry Seinfeld
+      - Ellen DeGeneres
+      - Chris Rock
+      Explanation: This quote is often attributed to an unknown source, adding to
+        its humorous and self-deprecating nature.
+    - Question: Who said, 'I refuse to join any club that would have me as a member'?
+      TrueAnswer: Groucho Marx
+      FalseAnswer:
+      - Charlie Chaplin
+      - Buster Keaton
+      - Harpo Marx
+      Explanation: Groucho Marx, known for his quick wit and sarcasm, often made
+        humorous remarks about social conventions.
+    - Question: Which comedian said, 'I'm sorry, if you were right, I'd agree with
+        you'?
+      TrueAnswer: Robin Williams
+      FalseAnswer:
+      - George Carlin
+      - Eddie Murphy
+      - Dave Chappelle
+      Explanation: Robin Williams, known for his rapid-fire delivery and improvisational
+        skills, had a unique ability to make people laugh.
+    - Question: Who said, 'I can't understand why people are frightened of new ideas.
+        I'm frightened of the old ones'?
+      TrueAnswer: John Cage
+      FalseAnswer:
+      - Pablo Picasso
+      - Salvador Dali
+      - Vincent van Gogh
+      Explanation: John Cage, an influential composer and artist, often challenged
+        traditional notions of music and art.
+    - Question: Which comedian said, 'I'm not afraid of death; I just don't want
+        to be there when it happens'?
+      TrueAnswer: Woody Allen
+      FalseAnswer:
+      - Steve Martin
+      - Bill Murray
+      - Jim Carrey
+      Explanation: Woody Allen, known for his neurotic and self-deprecating humor,
+        often explored existential themes in his work.

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que étudient les géologues?",
+            "TrueAnswer": "Les processus terrestres",
+            "FalseAnswer": [
+              "Phénomènes spatiaux",
+              "Comportement animal",
+              "Tendances économiques"
+            ],
+            "Explanation": "Les géologues étudient les processus qui forment et transforment la Terre, tels que les tremblements de terre, les volcans et l'érosion, aidant à comprendre les ressources naturelles et les risques."
+          },
+          {
+            "Question": "Quel est le minéral naturel le plus dur?",
+            "TrueAnswer": "Diamant",
+            "FalseAnswer": [
+              "Graphite",
+              "Quartz",
+              "Feldspath"
+            ],
+            "Explanation": "Le diamant est composé d'atomes de carbone disposés dans une structure tétraédrique solide, ce qui en fait le matériau naturel le plus dur connu."
+          },
+          {
+            "Question": "Comment s'appelle la théorie selon laquelle la lithosphère de la Terre est divisée en plaques tectoniques?",
+            "TrueAnswer": "Tectonique des plaques",
+            "FalseAnswer": [
+              "Éruptions volcaniques",
+              "Couches sédimentaires",
+              "Convection mantellique"
+            ],
+            "Explanation": "La théorie de la tectonique des plaques affirme que la lithosphère de la Terre est divisée en plusieurs grandes et petites plaques qui flottent et se déplacent sur l'asthénosphère semi-fluide."
+          },
+          {
+            "Question": "Quel type de roche se forme à partir de magma refroidi ou de lave?",
+            "TrueAnswer": "Igneous",
+            "FalseAnswer": [
+              "Sédimentaire",
+              "Métamorphique",
+              "Basaltique"
+            ],
+            "Explanation": "Les roches ignées se forment à partir de la cristallisation et de la solidification du magma refroidi ou de la lave, comme le granite et le basalte."
+          },
+          {
+            "Question": "Quel minéral donne au granite sa couleur claire caractéristique?",
+            "TrueAnswer": "Feldspath",
+            "FalseAnswer": [
+              "Quartz",
+              "Mica",
+              "Hématite"
+            ],
+            "Explanation": "Le feldspath est le minéral le plus abondant dans le granite, lui donnant une couleur claire et un aspect tacheté distinctif."
+          },
+          {
+            "Question": "Quel terme désigne le processus de décomposition des roches par l'érosion et l'érosion?",
+            "TrueAnswer": "Altération",
+            "FalseAnswer": [
+              "Erosion",
+              "Dépôt",
+              "Affaissement"
+            ],
+            "Explanation": "L'altération est la décomposition de la roche en particules plus petites par des processus physiques, chimiques et biologiques, distincte de l'érosion, qui implique le déplacement des particules."
+          },
+          {
+            "Question": "Quel type de faille résulte de la compression de la croûte terrestre?",
+            "TrueAnswer": "Faille inversée",
+            "FalseAnswer": [
+              "Faille normale",
+              "Faille décrochante",
+              "Faille transformante"
+            ],
+            "Explanation": "Une faille inversée se produit lorsque des forces de compression poussent un bloc de roche vers le haut et par-dessus l'autre bloc, créant une surface de faille abrupte."
+          },
+          {
+            "Question": "Quel processus forme des stalactites et des stalagmites dans les grottes?",
+            "TrueAnswer": "Dépôt de minéraux",
+            "FalseAnswer": [
+              "Érosion physique",
+              "Pression et chaleur",
+              "Activités biologiques"
+            ],
+            "Explanation": "Les stalactites et les stalagmites se forment avec le temps lorsque l'eau riche en minéraux goutte et dépose des minéraux, principalement du carbonate de calcium, sur les surfaces des grottes par un processus de dépôt."
+          },
+          {
+            "Question": "Quelle échelle mesure la magnitude des tremblements de terre?",
+            "TrueAnswer": "Échelle de Richter",
+            "FalseAnswer": [
+              "Échelle de Beaufort",
+              "Échelle de Fujita",
+              "Échelle de Saffir-Simpson"
+            ],
+            "Explanation": "L'échelle de Richter mesure l'énergie libérée par un tremblement de terre, chaque unité supplémentaire sur l'échelle représentant une augmentation de l'amplitude mesurée par un facteur de dix, correspondant à 31,6 fois plus d'énergie libérée."
+          },
+          {
+            "Question": "Quelle couche de l'atmosphère et de la lithosphère de la Terre est composée de roche partiellement fondue?",
+            "TrueAnswer": "Manteau",
+            "FalseAnswer": [
+              "Croûte",
+              "Asthénosphère",
+              "Noyau interne"
+            ],
+            "Explanation": "Le manteau est situé entre la croûte terrestre et le noyau externe, caractérisé par des températures et des pressions élevées où la roche solide se comporte comme un matériau plastique en raison de sa fusion partielle."
+          },
+          {
+            "Question": "Le champ magnétique terrestre est généré par le déplacement de fer fondu dans quelle couche?",
+            "TrueAnswer": "Noyau externe",
+            "FalseAnswer": [
+              "Noyau interne",
+              "Manteau",
+              "Croûte"
+            ],
+            "Explanation": "Le déplacement du fer fondu dans le noyau externe, associé à la rotation de la Terre, génère des courants électriques qui créent le champ magnétique de la planète, protégeant l'atmosphère des vents solaires."
+          },
+          {
+            "Question": "Quel est le taux moyen de déplacement des plaques tectoniques par an?",
+            "TrueAnswer": "2-5 centimètres",
+            "FalseAnswer": [
+              "10-15 centimètres",
+              "1-2 mètres",
+              "20-25 millimètres"
+            ],
+            "Explanation": "En moyenne, les plaques tectoniques se déplacent à un taux d'environ 2 à 5 centimètres par an, ce qui équivaut à la vitesse à laquelle poussent les ongles humains."
+          },
+          {
+            "Question": "Quel type de roche se forme de la compression et du chauffage de roches existantes?",
+            "TrueAnswer": "Métamorphique",
+            "FalseAnswer": [
+              "Igneous",
+              "Sédimentaire",
+              "Granitique"
+            ],
+            "Explanation": "Les roches métamorphiques se forment par l'altération de roches existantes, causée par une température intense, une pression et des processus chimiques, sans fusion en magma."
+          },
+          {
+            "Question": "Quel type de formation terrestre est créé par la fusion d'un glacier?",
+            "TrueAnswer": "Vallée en forme de U",
+            "FalseAnswer": [
+              "Vallée en forme de V",
+              "Canyon",
+              "Plateau"
+            ],
+            "Explanation": "Le mouvement lent des glaciers creuse des vallées en forme de U à mesure que la glace fond et recule, laissant derrière elle une vallée large et aux pentes raides avec un fond plat."
+          },
+          {
+            "Question": "Comment s'appelle l'étude des strates et de l'histoire des roches?",
+            "TrueAnswer": "Stratigraphie",
+            "FalseAnswer": [
+              "Minéralogie",
+              "Volcanologie",
+              "Séismologie"
+            ],
+            "Explanation": "La stratigraphie implique l'analyse de la succession des couches rocheuses et de leur composition pour comprendre l'histoire de la Terre, notamment les environnements passés, les climats et l'évolution de la vie."
+          },
+          {
+            "Question": "Quel est le nom du processus par lequel les grains minéraux s'alignent sur le champ magnétique terrestre?",
+            "TrueAnswer": "Paléomagnétisme",
+            "FalseAnswer": [
+              "Géomorphologie",
+              "Cryogénie",
+              "Réflexion sismique"
+            ],
+            "Explanation": "Le paléomagnétisme fait référence à l'étude de l'enregistrement du champ magnétique terrestre préservé dans les roches, fournissant des informations sur la position et les mouvements passés des plaques tectoniques."
+          },
+          {
+            "Question": "Quel type de volcan est caractérisé par des éruptions explosives et des pentes raides?",
+            "TrueAnswer": "Stratovolcan",
+            "FalseAnswer": [
+              "Volcan bouclier",
+              "Cône de cendres",
+              "Caldeira"
+            ],
+            "Explanation": "Les stratovolcans, également appelés volcans composés, sont formés de couches de lave durcie, de ponce et de cendres, entraînant des éruptions explosives et des profils pentus."
+          },
+          {
+            "Question": "Quel est le processus de transformation physique ou chimique d'une roche préexistante en un nouveau type de roche?",
+            "TrueAnswer": "Métamorphisme des roches",
+            "FalseAnswer": [
+              "Érosion des roches",
+              "Dépôt des roches",
+              "Altération des roches"
+            ],
+            "Explanation": "Le métamorphisme des roches se produit lorsque des roches existantes sont soumises à une pression élevée, à une température élevée ou à des altérations chimiques, entraînant la formation de nouveaux types de roches, comme le marbre à partir du calcaire."
+          },
+          {
+            "Question": "Quelle structure géologique se forme lorsqu'une plaque tectonique est enfoncée sous une autre plaque?",
+            "TrueAnswer": "Fosse",
+            "FalseAnswer": [
+              "Dorsale",
+              "Faille",
+              "Pli"
+            ],
+            "Explanation": "Une fosse est une dépression longue, étroite et profonde sur le fond de l'océan qui se forme lorsqu'une plaque tectonique est forcée sous une autre dans un processus appelé subduction."
+          }
+        ]
+      }
+    }
+  ]
+}

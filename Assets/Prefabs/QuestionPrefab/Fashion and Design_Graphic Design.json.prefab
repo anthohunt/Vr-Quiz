@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2112897949123823385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6096929435197633037}
+  - component: {fileID: 4387615099333148069}
+  m_Layer: 0
+  m_Name: Fashion and Design_Graphic Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6096929435197633037
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112897949123823385}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4387615099333148069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2112897949123823385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary color used in the logo of Chanel?
+      TrueAnswer: Black
+      FalseAnswer:
+      - Red
+      - Blue
+      - Yellow
+      Explanation: The primary color used in the logo of Chanel is black, representing
+        elegance and sophistication.
+    - Question: Which fashion designer is known for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Christian Dior
+      - Giorgio Armani
+      - Ralph Lauren
+      Explanation: Coco Chanel is known for popularizing the little black dress,
+        a timeless and versatile fashion staple.
+    - Question: What is the main purpose of a mood board in fashion design?
+      TrueAnswer: Inspiration
+      FalseAnswer:
+      - Pattern making
+      - Fabric selection
+      - Garment construction
+      Explanation: A mood board is used in fashion design to gather visual inspiration
+        and set the tone for a collection.
+    - Question: Which fashion capital is known for its avant-garde and experimental
+        designs?
+      TrueAnswer: Paris
+      FalseAnswer:
+      - Milan
+      - New York
+      - London
+      Explanation: Paris is renowned for its avant-garde and experimental fashion
+        designs, pushing boundaries and setting trends.
+    - Question: What is the purpose of a fashion sketch?
+      TrueAnswer: Visualize design ideas
+      FalseAnswer:
+      - Calculate fabric yardage
+      - Create a sewing pattern
+      - Determine garment fit
+      Explanation: Fashion sketches are used to visually represent design ideas and
+        communicate them to others in the industry.
+    - Question: Which fashion designer is known for the red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for his signature red-soled shoes,
+        a symbol of luxury and high fashion.
+    - Question: What is the purpose of a fashion runway show?
+      TrueAnswer: Present new collections
+      FalseAnswer:
+      - Sell clothing directly
+      - Promote accessories
+      - Host fashion competitions
+      Explanation: Fashion runway shows are organized to present new collections
+        to buyers, press, and industry professionals.
+    - Question: Which fashion designer is known for the wrap dress?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Donatella Versace
+      - Stella McCartney
+      - Vera Wang
+      Explanation: Diane von Furstenberg is credited with popularizing the iconic
+        wrap dress, a symbol of femininity and versatility.
+    - Question: What is the purpose of a fashion lookbook?
+      TrueAnswer: Showcase a collection
+      FalseAnswer:
+      - Provide fashion tips
+      - Display individual garments
+      - Sell clothing online
+      Explanation: A fashion lookbook is created to showcase a collection, featuring
+        styled outfits and highlighting key pieces.
+    - Question: Which fashion capital is known for its minimalistic and clean designs?
+      TrueAnswer: Milan
+      FalseAnswer:
+      - Tokyo
+      - Berlin
+      - Sydney
+      Explanation: Milan is recognized for its minimalistic and clean fashion designs,
+        emphasizing quality and craftsmanship.
+    - Question: What is the purpose of a fashion trend forecast?
+      TrueAnswer: Predict future styles
+      FalseAnswer:
+      - Analyze past fashion trends
+      - Evaluate current fashion market
+      - Create fashion marketing campaigns
+      Explanation: Fashion trend forecasts are used to predict future styles and
+        guide designers in creating new collections.
+    - Question: Which fashion designer is known for the iconic trench coat?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Prada
+      - Gucci
+      - Louis Vuitton
+      Explanation: Burberry is famous for its iconic trench coat, a timeless and
+        classic outerwear piece.
+    - Question: What is the purpose of a fashion editorial?
+      TrueAnswer: Showcase fashion in a creative way
+      FalseAnswer:
+      - Provide fashion industry news
+      - Review fashion shows
+      - Interview fashion designers
+      Explanation: Fashion editorials are created to showcase fashion in a creative
+        and artistic way, often in magazines or online platforms.
+    - Question: Which fashion capital is known for its edgy and unconventional designs?
+      TrueAnswer: London
+      FalseAnswer:
+      - Los Angeles
+      - Sydney
+      - Dubai
+      Explanation: London is renowned for its edgy and unconventional fashion designs,
+        pushing boundaries and embracing individuality.
+    - Question: What is the purpose of a fashion pattern?
+      TrueAnswer: Guide garment construction
+      FalseAnswer:
+      - Determine fabric type
+      - Calculate fabric yardage
+      - Create fashion illustrations
+      Explanation: Fashion patterns are used as guides for garment construction,
+        ensuring accurate sizing and proper fit.
+    - Question: Which fashion designer is known for the iconic Birkin bag?
+      TrueAnswer: "Herm\xE8s"
+      FalseAnswer:
+      - Chanel
+      - Gucci
+      - Louis Vuitton
+      Explanation: "Herm\xE8s is famous for its iconic Birkin bag, a symbol of luxury
+        and craftsmanship."
+    - Question: What is the purpose of a fashion trade show?
+      TrueAnswer: Connect brands with buyers
+      FalseAnswer:
+      - Sell clothing directly to consumers
+      - Host fashion competitions
+      - Promote fashion accessories
+      Explanation: Fashion trade shows provide a platform for brands to connect with
+        buyers and showcase their collections.
+    - Question: Which fashion designer is known for the iconic red carpet gowns?
+      TrueAnswer: Versace
+      FalseAnswer:
+      - Calvin Klein
+      - Tom Ford
+      - Alexander McQueen
+      Explanation: Versace is renowned for its iconic red carpet gowns, worn by celebrities
+        at prestigious events.
+    - Question: What is the purpose of a fashion portfolio?
+      TrueAnswer: Showcase a designer's work
+      FalseAnswer:
+      - Calculate fabric yardage
+      - Create fashion illustrations
+      - Determine garment fit
+      Explanation: A fashion portfolio is used to showcase a designer's work, including
+        sketches, mood boards, and completed designs.
+    - Question: Which fashion capital is known for its streetwear and urban fashion?
+      TrueAnswer: Tokyo
+      FalseAnswer:
+      - Paris
+      - New York
+      - Milan
+      Explanation: Tokyo is recognized for its vibrant streetwear and urban fashion
+        scene, influenced by youth culture and subcultures.
+    - Question: What is the purpose of a fashion stylist?
+      TrueAnswer: Create cohesive looks
+      FalseAnswer:
+      - Design fashion collections
+      - Sew garments
+      - Manage fashion events
+      Explanation: Fashion stylists are responsible for creating cohesive looks by
+        selecting and coordinating clothing and accessories.

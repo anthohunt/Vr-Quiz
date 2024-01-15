@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4520150046854510468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1657706303561541685}
+  - component: {fileID: 5548451146832004760}
+  m_Layer: 0
+  m_Name: Cartoons_Animated Film Festivals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1657706303561541685
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4520150046854510468}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5548451146832004760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4520150046854510468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Mickey Mouse
+      - Bugs Bunny
+      - Tom
+      Explanation: SpongeBob SquarePants is a popular cartoon character who lives
+        in a pineapple under the sea in the town of Bikini Bottom.
+    - Question: Which animated film won the Academy Award for Best Animated Feature
+        in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: Toy Story 4, the fourth installment in the Toy Story franchise,
+        won the Academy Award for Best Animated Feature in 2020.
+    - Question: Who is the main character in the cartoon 'The Simpsons'?
+      TrueAnswer: Homer Simpson
+      FalseAnswer:
+      - Bart Simpson
+      - Marge Simpson
+      - Lisa Simpson
+      Explanation: Homer Simpson is the main character and the bumbling father in
+        the long-running animated sitcom 'The Simpsons'.
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which animated film features a young lion named Simba?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Finding Nemo
+      - Shrek
+      - Moana
+      Explanation: The Lion King is an animated film that tells the story of a young
+        lion named Simba and his journey to become king.
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Mickey Mouse
+      - Bugs Bunny
+      - Tom
+      Explanation: SpongeBob SquarePants is a popular cartoon character who lives
+        in a pineapple under the sea in the town of Bikini Bottom.
+    - Question: Which animated film won the Academy Award for Best Animated Feature
+        in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: Toy Story 4, the fourth installment in the Toy Story franchise,
+        won the Academy Award for Best Animated Feature in 2020.
+    - Question: Who is the main character in the cartoon 'The Simpsons'?
+      TrueAnswer: Homer Simpson
+      FalseAnswer:
+      - Bart Simpson
+      - Marge Simpson
+      - Lisa Simpson
+      Explanation: Homer Simpson is the main character and the bumbling father in
+        the long-running animated sitcom 'The Simpsons'.
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which animated film features a young lion named Simba?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Finding Nemo
+      - Shrek
+      - Moana
+      Explanation: The Lion King is an animated film that tells the story of a young
+        lion named Simba and his journey to become king.
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Mickey Mouse
+      - Bugs Bunny
+      - Tom
+      Explanation: SpongeBob SquarePants is a popular cartoon character who lives
+        in a pineapple under the sea in the town of Bikini Bottom.
+    - Question: Which animated film won the Academy Award for Best Animated Feature
+        in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: Toy Story 4, the fourth installment in the Toy Story franchise,
+        won the Academy Award for Best Animated Feature in 2020.
+    - Question: Who is the main character in the cartoon 'The Simpsons'?
+      TrueAnswer: Homer Simpson
+      FalseAnswer:
+      - Bart Simpson
+      - Marge Simpson
+      - Lisa Simpson
+      Explanation: Homer Simpson is the main character and the bumbling father in
+        the long-running animated sitcom 'The Simpsons'.
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which animated film features a young lion named Simba?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Finding Nemo
+      - Shrek
+      - Moana
+      Explanation: The Lion King is an animated film that tells the story of a young
+        lion named Simba and his journey to become king.
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Mickey Mouse
+      - Bugs Bunny
+      - Tom
+      Explanation: SpongeBob SquarePants is a popular cartoon character who lives
+        in a pineapple under the sea in the town of Bikini Bottom.
+    - Question: Which animated film won the Academy Award for Best Animated Feature
+        in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: Toy Story 4, the fourth installment in the Toy Story franchise,
+        won the Academy Award for Best Animated Feature in 2020.
+    - Question: Who is the main character in the cartoon 'The Simpsons'?
+      TrueAnswer: Homer Simpson
+      FalseAnswer:
+      - Bart Simpson
+      - Marge Simpson
+      - Lisa Simpson
+      Explanation: Homer Simpson is the main character and the bumbling father in
+        the long-running animated sitcom 'The Simpsons'.
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which animated film features a young lion named Simba?
+      TrueAnswer: The Lion King
+      FalseAnswer:
+      - Finding Nemo
+      - Shrek
+      - Moana
+      Explanation: The Lion King is an animated film that tells the story of a young
+        lion named Simba and his journey to become king.

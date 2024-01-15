@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2614956859020436442
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4903708111298668469}
+  - component: {fileID: 3286515748648736371}
+  m_Layer: 0
+  m_Name: Art_Art and Technology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4903708111298668469
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2614956859020436442}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3286515748648736371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2614956859020436442}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the father of computer art?
+      TrueAnswer: Harold Cohen
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Harold Cohen is known as the father of computer art for his pioneering
+        work in creating computer-generated art.
+    - Question: What is the name of the famous painting created by an AI?
+      TrueAnswer: Portrait of Edmond de Belamy
+      FalseAnswer:
+      - The Starry Night
+      - Mona Lisa
+      - The Last Supper
+      Explanation: The Portrait of Edmond de Belamy is a famous painting created
+        entirely by an artificial intelligence algorithm.
+    - Question: Which artist is known for using technology in his/her artwork?
+      TrueAnswer: Nam June Paik
+      FalseAnswer:
+      - Claude Monet
+      - Georgia O'Keeffe
+      - "Salvador Dal\xED"
+      Explanation: Nam June Paik is a renowned artist who incorporated technology,
+        such as televisions and video, into his artwork.
+    - Question: What is the term for art that uses digital technology as a medium?
+      TrueAnswer: Digital art
+      FalseAnswer:
+      - Sculpture
+      - Oil painting
+      - Photography
+      Explanation: Digital art refers to artworks created using digital technology,
+        such as computers, software, and digital tools.
+    - Question: Which of the following is an example of interactive art?
+      TrueAnswer: Virtual reality installation
+      FalseAnswer:
+      - Still life painting
+      - Sculpture made of clay
+      - Black and white photography
+      Explanation: A virtual reality installation is an example of interactive art
+        that allows viewers to engage and interact with the artwork.
+    - Question: Who invented the first digital camera?
+      TrueAnswer: Steven Sasson
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Steven Sasson is credited with inventing the first digital camera
+        while working at Eastman Kodak in 1975.
+    - Question: What is the term for art that combines traditional and digital techniques?
+      TrueAnswer: Mixed media
+      FalseAnswer:
+      - Abstract art
+      - Impressionism
+      - Cubism
+      Explanation: Mixed media refers to artworks that incorporate a combination
+        of traditional art materials and digital techniques.
+    - Question: Which of the following is a famous digital artist?
+      TrueAnswer: Beeple
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Vincent van Gogh
+      - Pablo Picasso
+      Explanation: Beeple, also known as Mike Winkelmann, is a well-known digital
+        artist known for his surreal and futuristic artworks.
+    - Question: What is the term for art that uses virtual reality technology?
+      TrueAnswer: Virtual art
+      FalseAnswer:
+      - Abstract art
+      - Sculpture
+      - Photography
+      Explanation: Virtual art refers to artworks that are created and experienced
+        using virtual reality technology.
+    - Question: Which of the following is an example of generative art?
+      TrueAnswer: Artwork created by an algorithm
+      FalseAnswer:
+      - Oil painting of a landscape
+      - Sculpture made of marble
+      - Photograph of a city skyline
+      Explanation: Generative art refers to artworks that are created using algorithms
+        or computer code, resulting in unique and ever-changing compositions.
+    - Question: Who is known for creating the first computer-generated artwork?
+      TrueAnswer: A. Michael Noll
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: A. Michael Noll is credited with creating the first computer-generated
+        artwork in 1962, titled 'Patterns by 7090.'
+    - Question: What is the term for art that explores the relationship between humans
+        and technology?
+      TrueAnswer: Cyberart
+      FalseAnswer:
+      - Realism
+      - Impressionism
+      - Cubism
+      Explanation: Cyberart refers to artworks that examine the interaction and impact
+        of technology on human society and culture.
+    - Question: Which of the following is an example of bioart?
+      TrueAnswer: Artwork using living organisms
+      FalseAnswer:
+      - Watercolor painting of flowers
+      - Bronze sculpture of a horse
+      - Photograph of a cityscape
+      Explanation: Bioart involves the use of living organisms, such as bacteria
+        or genetically modified organisms, in the creation of artworks.
+    - Question: Who is considered the pioneer of video art?
+      TrueAnswer: Nam June Paik
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: Nam June Paik is widely regarded as the pioneer of video art,
+        using television as a medium for artistic expression.
+    - Question: What is the term for art that uses holographic technology?
+      TrueAnswer: Holographic art
+      FalseAnswer:
+      - Abstract art
+      - Sculpture
+      - Photography
+      Explanation: Holographic art refers to artworks that utilize holographic technology
+        to create three-dimensional visual representations.
+    - Question: Which of the following is an example of kinetic art?
+      TrueAnswer: Sculpture with moving parts
+      FalseAnswer:
+      - Oil painting of a portrait
+      - Photograph of a landscape
+      - Abstract digital artwork
+      Explanation: Kinetic art involves artworks that incorporate movement, often
+        through the use of mechanical or electronic components.
+    - Question: Who is known for creating the first computer-generated film?
+      TrueAnswer: John Whitney
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: John Whitney is recognized for creating the first computer-generated
+        film, 'Catalog,' in 1961.
+    - Question: What is the term for art that uses augmented reality technology?
+      TrueAnswer: Augmented art
+      FalseAnswer:
+      - Realism
+      - Impressionism
+      - Cubism
+      Explanation: Augmented art refers to artworks that are enhanced or augmented
+        with digital elements through the use of augmented reality technology.
+    - Question: Which of the following is an example of 3D printing in art?
+      TrueAnswer: Sculpture created using a 3D printer
+      FalseAnswer:
+      - Watercolor painting of a landscape
+      - Photograph of a city skyline
+      - Abstract digital artwork
+      Explanation: 3D printing in art involves the creation of sculptures or objects
+        using a 3D printer, layer by layer.
+    - Question: Who is known for creating the first computer-generated music?
+      TrueAnswer: Max Mathews
+      FalseAnswer:
+      - Ludwig van Beethoven
+      - Wolfgang Amadeus Mozart
+      - Johann Sebastian Bach
+      Explanation: Max Mathews is credited with creating the first computer-generated
+        music in 1957 using a computer program called MUSIC.
+    - Question: What is the term for art that explores the intersection of art and
+        science?
+      TrueAnswer: Sciart
+      FalseAnswer:
+      - Realism
+      - Impressionism
+      - Cubism
+      Explanation: Sciart refers to artworks that combine artistic and scientific
+        principles, often blurring the boundaries between the two disciplines.

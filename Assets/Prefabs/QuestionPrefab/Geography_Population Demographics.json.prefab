@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7555518502717974742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 138105314396818737}
+  - component: {fileID: 185113792847889247}
+  m_Layer: 0
+  m_Name: Geography_Population Demographics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &138105314396818737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7555518502717974742}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &185113792847889247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7555518502717974742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country has the highest population in the world?
+      TrueAnswer: China
+      FalseAnswer:
+      - India
+      - United States
+      - Brazil
+      Explanation: China has the highest population in the world, with over 1.4 billion
+        people.
+    - Question: What is the most populous city in the United States?
+      TrueAnswer: New York City
+      FalseAnswer:
+      - Los Angeles
+      - Chicago
+      - Houston
+      Explanation: New York City is the most populous city in the United States,
+        with over 8 million residents.
+    - Question: Which continent has the highest population growth rate?
+      TrueAnswer: Africa
+      FalseAnswer:
+      - Asia
+      - Europe
+      - North America
+      Explanation: Africa has the highest population growth rate, with many countries
+        experiencing rapid population increases.
+    - Question: What is the most populous country in Europe?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - Germany
+      - United Kingdom
+      - France
+      Explanation: Russia is the most populous country in Europe, with over 144 million
+        people.
+    - Question: Which country has the highest population density?
+      TrueAnswer: Monaco
+      FalseAnswer:
+      - China
+      - India
+      - Bangladesh
+      Explanation: Monaco has the highest population density, with over 19,000 people
+        per square kilometer.
+    - Question: What is the most populous state in Australia?
+      TrueAnswer: New South Wales
+      FalseAnswer:
+      - Queensland
+      - Victoria
+      - Western Australia
+      Explanation: New South Wales is the most populous state in Australia, with
+        over 8 million residents.
+    - Question: Which country has the highest percentage of elderly population?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - Italy
+      - Germany
+      - United States
+      Explanation: Japan has the highest percentage of elderly population, with over
+        28% of its population aged 65 or older.
+    - Question: What is the most populous city in Canada?
+      TrueAnswer: Toronto
+      FalseAnswer:
+      - Vancouver
+      - Montreal
+      - Calgary
+      Explanation: Toronto is the most populous city in Canada, with over 2.9 million
+        residents.
+    - Question: Which country has the highest fertility rate?
+      TrueAnswer: Niger
+      FalseAnswer:
+      - India
+      - China
+      - United States
+      Explanation: Niger has the highest fertility rate, with an average of 7.2 children
+        per woman.
+    - Question: What is the most populous country in South America?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - Argentina
+      - Colombia
+      - Peru
+      Explanation: Brazil is the most populous country in South America, with over
+        211 million people.
+    - Question: Which country has the highest life expectancy?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - Switzerland
+      - Australia
+      - Canada
+      Explanation: Japan has the highest life expectancy, with an average of 84.6
+        years.
+    - Question: What is the most populous city in China?
+      TrueAnswer: Shanghai
+      FalseAnswer:
+      - Beijing
+      - Guangzhou
+      - Shenzhen
+      Explanation: Shanghai is the most populous city in China, with over 24 million
+        residents.
+    - Question: Which country has the highest net migration rate?
+      TrueAnswer: Qatar
+      FalseAnswer:
+      - United States
+      - Germany
+      - Canada
+      Explanation: Qatar has the highest net migration rate, with a significant influx
+        of foreign workers.
+    - Question: What is the most populous city in Africa?
+      TrueAnswer: Lagos
+      FalseAnswer:
+      - Cairo
+      - Kinshasa
+      - Johannesburg
+      Explanation: Lagos is the most populous city in Africa, with over 14 million
+        residents.
+    - Question: Which country has the highest urban population?
+      TrueAnswer: China
+      FalseAnswer:
+      - India
+      - United States
+      - Brazil
+      Explanation: China has the highest urban population, with over 800 million
+        people living in urban areas.
+    - Question: What is the most populous city in India?
+      TrueAnswer: Mumbai
+      FalseAnswer:
+      - Delhi
+      - Kolkata
+      - Bangalore
+      Explanation: Mumbai is the most populous city in India, with over 20 million
+        residents.
+    - Question: Which country has the highest population growth rate?
+      TrueAnswer: South Sudan
+      FalseAnswer:
+      - Niger
+      - India
+      - China
+      Explanation: South Sudan has the highest population growth rate, with a significant
+        increase due to high birth rates and limited healthcare.
+    - Question: What is the most populous city in South Korea?
+      TrueAnswer: Seoul
+      FalseAnswer:
+      - Busan
+      - Incheon
+      - Daegu
+      Explanation: Seoul is the most populous city in South Korea, with over 9.7
+        million residents.
+    - Question: Which country has the highest percentage of urban population?
+      TrueAnswer: Uruguay
+      FalseAnswer:
+      - United States
+      - Australia
+      - United Kingdom
+      Explanation: Uruguay has the highest percentage of urban population, with over
+        95% of its population living in urban areas.
+    - Question: What is the most populous city in Brazil?
+      TrueAnswer: Sao Paulo
+      FalseAnswer:
+      - Rio de Janeiro
+      - Salvador
+      - Brasilia
+      Explanation: Sao Paulo is the most populous city in Brazil, with over 12 million
+        residents.

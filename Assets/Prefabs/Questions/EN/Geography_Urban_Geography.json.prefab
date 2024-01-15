@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6352238201964335055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 782408147866683141}
+  - component: {fileID: 5711132639655150768}
+  m_Layer: 0
+  m_Name: Geography_Urban_Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &782408147866683141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6352238201964335055}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5711132639655150768
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6352238201964335055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for the process of suburbanization in urban geography?
+      TrueAnswer: Urban Sprawl
+      FalseAnswer:
+      - Urbanization
+      - Gentrification
+      - Segregation
+      Explanation: Urban sprawl refers to the unrestricted growth in many urban areas,
+        causing the spread of a city into surrounding green spaces.
+    - Question: Which city is associated with the concept of 'megacity'?
+      TrueAnswer: Tokyo
+      FalseAnswer:
+      - London
+      - Toronto
+      - Sydney
+      Explanation: Tokyo is considered a megacity due to its population exceeding
+        10 million, leading to urban challenges like congestion and infrastructure
+        development.
+    - Question: What is the 'Central Business District' of a city commonly known
+        as?
+      TrueAnswer: CBD
+      FalseAnswer:
+      - Downtown
+      - Core Zone
+      - Metropolitan Hub
+      Explanation: The CBD is the commercial and often historical heart of a city,
+        housing key financial, governmental, and corporate institutions.
+    - Question: Which of the following is an example of a 'brownfield site' in urban
+        geography?
+      TrueAnswer: Abandoned Factory
+      FalseAnswer:
+      - Playground
+      - Community Garden
+      - Residential Area
+      Explanation: Brownfield sites are locations previously used for industrial
+        purposes that require environmental remediation before redevelopment can
+        occur.
+    - Question: "In which country is the city of Bras\xEDlia known for its modernist
+        urban planning?"
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - Spain
+      - Germany
+      - India
+      Explanation: "Bras\xEDlia, the capital of Brazil, is notable for its intentional
+        and innovative urban design, reflecting modernist and futuristic principles."
+    - Question: What is the term for the intentional separation of people based on
+        race or ethnicity within a city?
+      TrueAnswer: Segregation
+      FalseAnswer:
+      - Integration
+      - Diversity
+      - Assimilation
+      Explanation: Segregation in urban geography refers to the division of a city
+        into distinct neighborhoods based on race, ethnicity, or socioeconomic status,
+        often resulting in unequal access to resources.
+    - Question: Which concept involves the revitalization of run-down or abandoned
+        areas within a city?
+      TrueAnswer: Urban Renewal
+      FalseAnswer:
+      - Rural Exodus
+      - Decentralization
+      - Suburban Retrofitting
+      Explanation: Urban renewal focuses on improving urban areas to address social,
+        economic, and environmental problems, often through redevelopment and infrastructure
+        upgrades.
+    - Question: What is the term for the process of upper and middle-class populations
+        moving into deteriorating urban areas?
+      TrueAnswer: Gentrification
+      FalseAnswer:
+      - Urban Decline
+      - Suburban Flight
+      - Housing Segregation
+      Explanation: Gentrification typically involves the renovation of properties
+        and an increase in property values, leading to displacement and cultural
+        shifts within a neighborhood.
+    - Question: Which city features the world-renowned example of 'Levittown', a
+        planned suburban community?
+      TrueAnswer: New York
+      FalseAnswer:
+      - Los Angeles
+      - Chicago
+      - Houston
+      Explanation: Levittown, an iconic example of a planned suburban community,
+        was constructed on Long Island, New York, in 1947, contributing to post-war
+        suburbanization in the United States.
+    - Question: What term describes the physical expansion of a city into rural areas?
+      TrueAnswer: Urban Sprawl
+      FalseAnswer:
+      - Urban Consolidation
+      - Rural Encroachment
+      - Metropolitan Expansion
+      Explanation: Urban sprawl refers to the outward spread of a city, often resulting
+        in the loss of agricultural land and natural habitats, as well as increased
+        traffic congestion.
+    - Question: Which of the following is an example of a 'favela'?
+      TrueAnswer: Rio de Janeiro
+      FalseAnswer:
+      - Sydney
+      - London
+      - Tokyo
+      Explanation: Favelas, informal settlements characterized by poverty and inadequate
+        infrastructure, are prominent in Rio de Janeiro, presenting challenges for
+        urban governance and social equality.
+    - Question: What term describes the strategic division of a city into distinct
+        functional zones?
+      TrueAnswer: Zoning
+      FalseAnswer:
+      - Redlining
+      - Districting
+      - Partitioning
+      Explanation: Zoning is a planning and land use management tool that divides
+        a city into designated areas for specific purposes, such as residential,
+        commercial, or industrial use.
+    - Question: Which type of housing is characterized by high-density, low-cost
+        residential units in urban areas?
+      TrueAnswer: Tenement
+      FalseAnswer:
+      - Mansion
+      - Condominium
+      - Townhouse
+      Explanation: Tenements historically provided affordable housing for urban working-class
+        populations but often lacked adequate sanitation and living conditions, leading
+        to social reform movements.
+    - Question: In which city did the 'Broadacre City' concept seek to decentralize
+        urban living?
+      TrueAnswer: Chicago
+      FalseAnswer:
+      - New York
+      - Los Angeles
+      - Philadelphia
+      Explanation: The visionary 'Broadacre City' concept, proposed by Frank Lloyd
+        Wright, aimed to decentralize urban living by distributing low-density developments
+        across spacious landscapes.
+    - Question: Which term describes the process of older urban neighborhoods being
+        renewed by young professionals and artists?
+      TrueAnswer: Bohemianization
+      FalseAnswer:
+      - Hipster Revival
+      - Artistic Gentrification
+      - Cultural Renaissance
+      Explanation: Bohemianization refers to the cultural and social transformation
+        of urban neighborhoods, often attracting artists and creatives, leading to
+        shifts in community dynamics and property values.
+    - Question: What is the term for the demolition and redevelopment of an urban
+        area?
+      TrueAnswer: Urban Revitalization
+      FalseAnswer:
+      - Urban Expansion
+      - Metropolitan Overhaul
+      - Cityscape Remodeling
+      Explanation: Urban revitalization involves the renewal of urban areas through
+        physical, economic, and social interventions, aiming to address blight, disinvestment,
+        and population decline.
+    - Question: Which country popularized the concept of 'gated communities' in urban
+        residential developments?
+      TrueAnswer: United States
+      FalseAnswer:
+      - United Kingdom
+      - Canada
+      - Australia
+      Explanation: Gated communities, prevalent in the United States, are private
+        residential spaces enclosed by walls and security measures, emphasizing exclusivity
+        and safety but raising concerns about social segregation.
+    - Question: What term describes the shift of a city's economic focus from manufacturing
+        to services and technology?
+      TrueAnswer: Post-Industrialization
+      FalseAnswer:
+      - Economic Diversification
+      - Industrial Modernization
+      - Technological Transition
+      Explanation: Post-industrialization signifies the transition of urban economies
+        from industrial production to service-based industries, often driven by technological
+        advancements and globalization.
+    - Question: Which of the following factors contributes to the existence of an
+        'Edge City'?
+      TrueAnswer: Highway Intersections
+      FalseAnswer:
+      - Cultural Institutions
+      - Urban Parks
+      - Historical Landmarks
+      Explanation: Edge cities, characterized by extensive office and retail developments,
+        often emerge at major highway intersections, reflecting decentralization
+        of economic activity and urban growth.

@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8867002380266315614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 255609622957673420}
+  - component: {fileID: 2149494392498278089}
+  m_Layer: 0
+  m_Name: Internet_Online_Streaming_Services.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &255609622957673420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8867002380266315614}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2149494392498278089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8867002380266315614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which streaming service launched the first original series 'House
+        of Cards' in 2013?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      Explanation: Netflix's 'House of Cards' marked the beginning of original content
+        production, reshaping the TV industry with the rise of on-demand streaming.
+    - Question: What is the name of Netflix's algorithm that recommends personalized
+        content?
+      TrueAnswer: Cinematch
+      FalseAnswer:
+      - StreamSense
+      - Flixadvice
+      - WatchWizard
+      Explanation: Cinematch utilizes user data and machine learning to suggest movies
+        and shows based on a viewer's preferences and behavior.
+    - Question: Which streaming service is known for popularizing binge-watching
+        with full-season releases of original series?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - HBO Max
+      - Hulu
+      - Apple TV+
+      Explanation: Amazon pioneered the release of original series like 'Transparent'
+        all at once, allowing viewers to watch multiple episodes in one sitting.
+    - Question: What is the most-subscribed streaming service with over 167 million
+        worldwide members?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Disney+
+      - HBO Max
+      - Hulu
+      Explanation: Netflix leads the industry with a massive subscriber base, securing
+        its position as the powerhouse of online streaming services.
+    - Question: Which streaming platform introduced the concept of 'throttling' to
+        manage network traffic during peak hours?
+      TrueAnswer: YouTube
+      FalseAnswer:
+      - Twitch
+      - Vimeo
+      - Dailymotion
+      Explanation: YouTube's 'throttling' temporarily reduces video quality to alleviate
+        network congestion, ensuring smoother playback for users during busy periods.
+    - Question: What term is used for the practice of buying a DVD or Blu-ray that
+        includes a digital copy for online streaming?
+      TrueAnswer: Digital HD
+      FalseAnswer:
+      - CyberMovie
+      - Virtual Stream
+      - Online Lux
+      Explanation: Purchasing a DVD or Blu-ray with a 'Digital HD' copy allows consumers
+        to access the content through online streaming services in high definition.
+    - Question: Which streaming service focuses on live TV and sports broadcasting,
+        offering channels like ESPN and CNN?
+      TrueAnswer: Sling TV
+      FalseAnswer:
+      - Peacock
+      - Tubi
+      - Crunchyroll
+      Explanation: Sling TV established itself as a pioneer in live TV streaming,
+        providing a cord-cutting solution with access to major TV networks and sports
+        channels.
+    - Question: What is the maximum resolution supported by the basic subscription
+        plan of Disney+?
+      TrueAnswer: 1080p
+      FalseAnswer:
+      - 4K
+      - 720p
+      - 1440p
+      Explanation: The basic plan limits streaming to 1080p, while higher-tier plans
+        offer 4K streaming, catering to users with varying display capabilities and
+        preferences.
+    - Question: Which online streaming platform became popular for its user-generated
+        content, spanning diverse topics and genres?
+      TrueAnswer: Twitch
+      FalseAnswer:
+      - Vudu
+      - Criterion Channel
+      - Crave
+      Explanation: Twitch serves as a hub for live streaming and on-demand content,
+        fostering a community-driven platform known for gaming, music, and creative
+        arts.
+    - Question: What is the primary competitor to Netflix, offering a vast library
+        of movies and TV shows from various studios?
+      TrueAnswer: Hulu
+      FalseAnswer:
+      - Showtime
+      - Paramount+
+      - Starz
+      Explanation: Hulu's extensive content library and emphasis on next-day TV episodes
+        position it as a strong contender in the competitive streaming market.
+    - Question: Which streaming service implemented the 'Skip Intro' feature, allowing
+        viewers to bypass opening credits and sequences?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Apple TV+
+      - HBO Max
+      - HBO Now
+      Explanation: Amazon's 'Skip Intro' feature enhances user experience by providing
+        a seamless viewing option, catering to the evolving preferences of modern
+        audiences.
+    - Question: What is the name of the gaming-focused streaming platform popular
+        for broadcasting esports tournaments and gaming events?
+      TrueAnswer: YouTube Gaming
+      FalseAnswer:
+      - Discord
+      - Mixer
+      - Caffeine
+      Explanation: YouTube Gaming has emerged as a leading destination for gamers,
+        offering live streams, gaming content, and exclusive esports coverage to
+        a global audience.
+    - Question: What is the primary language of content for the international streaming
+        service known as Viu?
+      TrueAnswer: Korean
+      FalseAnswer:
+      - Japanese
+      - Mandarin
+      - Spanish
+      Explanation: Viu specializes in Korean entertainment, featuring a wide array
+        of K-dramas, variety shows, and popular Korean films for a global audience.
+    - Question: Which streaming platform gained prominence for its focus on independent
+        and art-house films, documentaries, and international cinema?
+      TrueAnswer: Criterion Channel
+      FalseAnswer:
+      - Shudder
+      - HBO Max
+      - IFC Films Unlimited
+      Explanation: Criterion Channel celebrates cinematic diversity with its curated
+        collection of classic, contemporary, and groundbreaking films, catering to
+        cinephiles worldwide.
+    - Question: What is the term for the practice of granting temporary offline access
+        to content for viewing without an internet connection?
+      TrueAnswer: Download-to-go
+      FalseAnswer:
+      - StreamLift
+      - OfflineBoost
+      - NetDash
+      Explanation: The 'Download-to-go' feature enables users to download select
+        content for offline viewing, enhancing convenience and accessibility for
+        on-the-go entertainment.
+    - Question: Which streaming service introduced the concept of 'chill' categories,
+        including 'Romantic Comedies' and 'Date Night' collections?
+      TrueAnswer: HBO Max
+      FalseAnswer:
+      - Tubi
+      - Crave
+      - AMC+
+      Explanation: HBO Max's curated 'chill' categories offer thematic collections,
+        providing viewers with tailored selections for specific moods and occasions.
+    - Question: What is the term for the technology used by streaming services to
+        adapt video quality based on available bandwidth?
+      TrueAnswer: Adaptive streaming
+      FalseAnswer:
+      - Dynamic playback
+      - Intelligent buffering
+      - Bandwidth optimization
+      Explanation: Adaptive streaming dynamically adjusts video quality to match
+        network conditions, allowing seamless playback without interruptions during
+        fluctuating connectivity.
+    - Question: Which streaming platform is known for its exclusive lineup of Studio
+        Ghibli films, including 'Spirited Away' and 'My Neighbor Totoro'?
+      TrueAnswer: HBO Max
+      FalseAnswer:
+      - Crunchyroll
+      - Funimation
+      - VRV
+      Explanation: HBO Max secured the exclusive streaming rights to Studio Ghibli's
+        renowned films, expanding its captivating library with beloved animated masterpieces.
+    - Question: What is the term for the simultaneous broadcasting of live content
+        to a global audience via online streaming?
+      TrueAnswer: Live streaming
+      FalseAnswer:
+      - Global cast
+      - Web live
+      - Stream sync
+      Explanation: Live streaming enables real-time transmission of events, performances,
+        and programs to audiences worldwide, fostering interactive and engaging experiences.
+    - Question: Which streaming service offers the 'Just for Kids' feature with a
+        child-friendly interface and curated content for younger audiences?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Disney+
+      - Peacock
+      - Tubi
+      Explanation: Amazon Prime Video's 'Just for Kids' showcases age-appropriate
+        content, prioritizing safety and engaging entertainment for young viewers.

@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &59565023079577929
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5673688815131543144}
+  - component: {fileID: 2610676511786328523}
+  m_Layer: 0
+  m_Name: Technology_Tech in Healthcare.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5673688815131543144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 59565023079577929}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2610676511786328523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 59565023079577929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is telemedicine?
+      TrueAnswer: Remote medical consultation
+      FalseAnswer:
+      - Robot-assisted surgery
+      - Virtual reality therapy
+      - Nanotechnology in medicine
+      Explanation: Telemedicine refers to the remote diagnosis and treatment of patients
+        through telecommunications technology.
+    - Question: What is electronic health record (EHR)?
+      TrueAnswer: Digital patient information
+      FalseAnswer:
+      - Artificial intelligence in healthcare
+      - 3D printing of organs
+      - Gene editing in humans
+      Explanation: EHR is a digital version of a patient's medical history, including
+        diagnoses, medications, and treatment plans.
+    - Question: What is wearable technology in healthcare?
+      TrueAnswer: Devices worn on the body
+      FalseAnswer:
+      - Robotic exoskeletons
+      - Gene therapy
+      - Biohacking
+      Explanation: Wearable technology in healthcare refers to devices worn on the
+        body to monitor health and collect data.
+    - Question: What is precision medicine?
+      TrueAnswer: Tailored treatment based on genetics
+      FalseAnswer:
+      - Virtual reality in surgery
+      - Blockchain in healthcare
+      - Nanobots in the bloodstream
+      Explanation: Precision medicine involves customizing medical treatments based
+        on an individual's genetic makeup and other factors.
+    - Question: What is artificial intelligence (AI) in healthcare?
+      TrueAnswer: Machine learning algorithms
+      FalseAnswer:
+      - Robotics in surgery
+      - Virtual reality therapy
+      - 3D printing of medical devices
+      Explanation: AI in healthcare involves the use of machine learning algorithms
+        to analyze medical data and assist in diagnosis and treatment.
+    - Question: What is telemonitoring?
+      TrueAnswer: Remote patient monitoring
+      FalseAnswer:
+      - Cybersecurity in healthcare
+      - Gene editing in humans
+      - Nanotechnology in medicine
+      Explanation: Telemonitoring allows healthcare providers to remotely monitor
+        patients' vital signs and health conditions.
+    - Question: What is blockchain in healthcare?
+      TrueAnswer: Secure and transparent record-keeping
+      FalseAnswer:
+      - Robot-assisted surgery
+      - Virtual reality therapy
+      - Nanobots in the bloodstream
+      Explanation: Blockchain technology ensures secure and transparent record-keeping
+        of healthcare data, such as medical records and transactions.
+    - Question: What is 3D printing in healthcare?
+      TrueAnswer: Creating medical devices and tissues
+      FalseAnswer:
+      - Artificial intelligence in healthcare
+      - Gene therapy
+      - Biohacking
+      Explanation: 3D printing in healthcare involves creating customized medical
+        devices, prosthetics, and even human tissues.
+    - Question: What is gene therapy?
+      TrueAnswer: Modifying genes to treat diseases
+      FalseAnswer:
+      - Robotics in surgery
+      - Virtual reality therapy
+      - Blockchain in healthcare
+      Explanation: Gene therapy involves modifying a person's genes to treat or prevent
+        diseases at the genetic level.
+    - Question: What is nanotechnology in medicine?
+      TrueAnswer: Manipulating matter at the nanoscale
+      FalseAnswer:
+      - Cybersecurity in healthcare
+      - Gene editing in humans
+      - Telemedicine
+      Explanation: Nanotechnology in medicine involves manipulating matter at the
+        nanoscale for applications such as drug delivery and diagnostics.
+    - Question: What is robotic surgery?
+      TrueAnswer: Surgical procedures performed by robots
+      FalseAnswer:
+      - Virtual reality therapy
+      - Blockchain in healthcare
+      - Nanobots in the bloodstream
+      Explanation: Robotic surgery refers to surgical procedures performed by robotic
+        systems, controlled by surgeons.
+    - Question: What is virtual reality therapy?
+      TrueAnswer: Using VR for psychological treatment
+      FalseAnswer:
+      - Artificial intelligence in healthcare
+      - 3D printing of organs
+      - Gene editing in humans
+      Explanation: Virtual reality therapy involves using virtual reality technology
+        for psychological treatment and therapy.
+    - Question: What is biohacking in healthcare?
+      TrueAnswer: DIY biology experimentation
+      FalseAnswer:
+      - Robot-assisted surgery
+      - Gene therapy
+      - Wearable technology
+      Explanation: Biohacking in healthcare refers to individuals experimenting with
+        biology, often using DIY methods, to enhance their own health.
+    - Question: What is cybersecurity in healthcare?
+      TrueAnswer: Protecting patient data
+      FalseAnswer:
+      - Telemonitoring
+      - Gene editing in humans
+      - Nanotechnology in medicine
+      Explanation: Cybersecurity in healthcare involves protecting patient data and
+        healthcare systems from unauthorized access and cyber threats.
+    - Question: What are nanobots in the bloodstream?
+      TrueAnswer: Microscopic robots for medical purposes
+      FalseAnswer:
+      - Robotics in surgery
+      - Virtual reality therapy
+      - Blockchain in healthcare
+      Explanation: Nanobots in the bloodstream are microscopic robots designed for
+        medical purposes, such as targeted drug delivery.
+    - Question: What is gene editing in humans?
+      TrueAnswer: Modifying human DNA
+      FalseAnswer:
+      - Artificial intelligence in healthcare
+      - 3D printing of medical devices
+      - Telemedicine
+      Explanation: Gene editing in humans involves modifying the DNA of human cells,
+        potentially for therapeutic purposes.
+    - Question: What is robotics in surgery?
+      TrueAnswer: Assistance or automation in surgical procedures
+      FalseAnswer:
+      - Virtual reality therapy
+      - Blockchain in healthcare
+      - Nanobots in the bloodstream
+      Explanation: Robotics in surgery involves the use of robotic systems to assist
+        or automate surgical procedures, enhancing precision and control.
+    - Question: What is virtual reality in surgery?
+      TrueAnswer: Using VR for surgical planning
+      FalseAnswer:
+      - Artificial intelligence in healthcare
+      - 3D printing of organs
+      - Gene editing in humans
+      Explanation: Virtual reality in surgery involves using virtual reality technology
+        for surgical planning and simulation, improving surgical outcomes.
+    - Question: What is blockchain technology?
+      TrueAnswer: Decentralized and secure digital ledger
+      FalseAnswer:
+      - Robot-assisted surgery
+      - Virtual reality therapy
+      - Nanobots in the bloodstream
+      Explanation: Blockchain technology is a decentralized and secure digital ledger
+        that records transactions across multiple computers.
+    - Question: What is AI-powered diagnostics?
+      TrueAnswer: Using AI for medical diagnosis
+      FalseAnswer:
+      - Telemonitoring
+      - Gene editing in humans
+      - Nanotechnology in medicine
+      Explanation: AI-powered diagnostics involves using artificial intelligence
+        algorithms to assist in medical diagnosis and interpretation of medical images.
+    - Question: What is personalized medicine?
+      TrueAnswer: Tailoring treatment to individual patients
+      FalseAnswer:
+      - Robotics in surgery
+      - Virtual reality therapy
+      - Blockchain in healthcare
+      Explanation: Personalized medicine involves tailoring medical treatment and
+        interventions to individual patients based on their unique characteristics
+        and needs.

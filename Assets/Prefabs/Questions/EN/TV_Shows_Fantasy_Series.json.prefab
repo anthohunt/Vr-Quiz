@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &511889168984427635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 372964416793323902}
+  - component: {fileID: 7735230742734215724}
+  m_Layer: 0
+  m_Name: TV_Shows_Fantasy_Series.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &372964416793323902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511889168984427635}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7735230742734215724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 511889168984427635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In 'Game of Thrones', what is the name of Jon Snow's direwolf?
+      TrueAnswer: Ghost
+      FalseAnswer:
+      - Shadow
+      - Fang
+      - Blaze
+      Explanation: Ghost is an albino direwolf and is the symbol of House Stark,
+        reflecting Jon Snow's connection to his Stark heritage.
+    - Question: Which character from 'The Witcher' series is known as the White Wolf?
+      TrueAnswer: Geralt of Rivia
+      FalseAnswer:
+      - Yennefer
+      - Ciri
+      - Triss
+      Explanation: Geralt of Rivia is called the White Wolf due to his white hair
+        and reputation as a formidable monster hunter.
+    - Question: What is the name of the magical world in 'The Magicians' series?
+      TrueAnswer: Fillory
+      FalseAnswer:
+      - Eldoria
+      - Avalon
+      - Narnia
+      Explanation: Fillory is a fantasy world that the main characters often travel
+        to through magical means in the book and TV series.
+    - Question: Which mythical creature does not appear in 'Merlin'?
+      TrueAnswer: Phoenix
+      FalseAnswer:
+      - Dragon
+      - Unicorn
+      - Griffin
+      Explanation: While dragons, unicorns, and griffins are featured, the mythical
+        Phoenix does not make an appearance in the show.
+    - Question: In 'Once Upon a Time', what is the Evil Queen's real name?
+      TrueAnswer: Regina Mills
+      FalseAnswer:
+      - Maleficent
+      - Cruella De Vil
+      - Ursula
+      Explanation: The Evil Queen's real name is Regina Mills, the mayor of Storybrooke,
+        and one of the main characters in the series.
+    - Question: 'Which creature does the Netflix series ''The Dark Crystal: Age of
+        Resistance'' focus on?'
+      TrueAnswer: Gelfling
+      FalseAnswer:
+      - Skeksis
+      - Podling
+      - Uru
+      Explanation: The series tells the story of the Gelfling resistance against
+        the oppressive ruling Skeksis and the struggle to restore balance to the
+        world of Thra.
+    - Question: What is the name of the demon-slaying weapon in 'Buffy the Vampire
+        Slayer'?
+      TrueAnswer: Scythe
+      FalseAnswer:
+      - Dagger
+      - Crossbow
+      - Stake
+      Explanation: The Scythe is a significant weapon introduced in the final season,
+        designed to be a powerful tool against the forces of darkness.
+    - Question: Which magical creature is the focus of 'His Dark Materials'?
+      TrueAnswer: Daemons
+      FalseAnswer:
+      - Elementals
+      - Spirits
+      - Chimeras
+      Explanation: In 'His Dark Materials', every human has a daemon, an animal-shaped
+        manifestation of their inner self, closely bonded to their human counterpart.
+    - Question: What is the name of the portal to the fairy realm in 'Carnival Row'?
+      TrueAnswer: The Burgue
+      FalseAnswer:
+      - The Spindle
+      - The Puck Town
+      - The Pixie Forest
+      Explanation: The Burgue is a city where humans and mythological creatures live
+        together, with a portal to the fairy realm at the heart of the story.
+    - Question: In 'Shadow and Bone', what type of powers does Alina Starkov have?
+      TrueAnswer: Sun Summoner
+      FalseAnswer:
+      - Wind Whisperer
+      - Frost Forger
+      - Night Weaver
+      Explanation: Alina Starkov possesses the rare ability to summon and manipulate
+        sunlight, making her the focus of political and magical intrigue in the story.

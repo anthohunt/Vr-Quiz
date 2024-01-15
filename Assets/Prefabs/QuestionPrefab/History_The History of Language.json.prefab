@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3928133691436122496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7028093371993212632}
+  - component: {fileID: 6845960796701241395}
+  m_Layer: 0
+  m_Name: History_The History of Language.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7028093371993212632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3928133691436122496}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6845960796701241395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3928133691436122496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the oldest known written language?
+      TrueAnswer: Sumerian
+      FalseAnswer:
+      - Greek
+      - Latin
+      - Chinese
+      Explanation: Sumerian is the oldest known written language, dating back to
+        around 3200 BCE in Mesopotamia.
+    - Question: Which language is considered the mother of all Romance languages?
+      TrueAnswer: Latin
+      FalseAnswer:
+      - French
+      - Italian
+      - Spanish
+      Explanation: Latin is considered the mother of all Romance languages, as it
+        evolved into French, Italian, Spanish, and others.
+    - Question: What is the most widely spoken language in the world?
+      TrueAnswer: Mandarin
+      FalseAnswer:
+      - English
+      - Spanish
+      - Hindi
+      Explanation: Mandarin is the most widely spoken language in the world, with
+        over 1 billion native speakers.
+    - Question: Which language is the official language of Brazil?
+      TrueAnswer: Portuguese
+      FalseAnswer:
+      - Spanish
+      - English
+      - French
+      Explanation: Portuguese is the official language of Brazil, spoken by the majority
+        of its population.
+    - Question: What is the oldest Indo-European language?
+      TrueAnswer: Hittite
+      FalseAnswer:
+      - Greek
+      - Latin
+      - Sanskrit
+      Explanation: Hittite is the oldest known Indo-European language, dating back
+        to the 17th century BCE.
+    - Question: Which language is written in the Cyrillic script?
+      TrueAnswer: Russian
+      FalseAnswer:
+      - Arabic
+      - Chinese
+      - Japanese
+      Explanation: Russian is written in the Cyrillic script, which is also used
+        by several other Slavic languages.
+    - Question: What is the official language of the United Nations?
+      TrueAnswer: English
+      FalseAnswer:
+      - French
+      - Spanish
+      - Chinese
+      Explanation: English is the official language of the United Nations, along
+        with French, Spanish, Russian, Arabic, and Chinese.
+    - Question: Which language is known for its complex writing system with thousands
+        of characters?
+      TrueAnswer: Chinese
+      FalseAnswer:
+      - Japanese
+      - Korean
+      - Arabic
+      Explanation: Chinese is known for its complex writing system, with thousands
+        of characters that represent words or concepts.
+    - Question: What is the official language of Iran?
+      TrueAnswer: Persian
+      FalseAnswer:
+      - Arabic
+      - Turkish
+      - Kurdish
+      Explanation: Persian, also known as Farsi, is the official language of Iran
+        and widely spoken in the region.
+    - Question: Which language is the most closely related to English?
+      TrueAnswer: German
+      FalseAnswer:
+      - French
+      - Spanish
+      - Italian
+      Explanation: German is the most closely related language to English, as both
+        belong to the West Germanic language family.
+    - Question: What is the official language of Japan?
+      TrueAnswer: Japanese
+      FalseAnswer:
+      - Chinese
+      - Korean
+      - Thai
+      Explanation: Japanese is the official language of Japan, spoken by the majority
+        of its population.
+    - Question: Which language is considered the language of love?
+      TrueAnswer: French
+      FalseAnswer:
+      - Italian
+      - Spanish
+      - Portuguese
+      Explanation: French is often considered the language of love, known for its
+        romantic associations and expressions.
+    - Question: What is the official language of India?
+      TrueAnswer: Hindi
+      FalseAnswer:
+      - English
+      - Bengali
+      - Tamil
+      Explanation: Hindi is one of the official languages of India, spoken by a large
+        portion of its population.
+    - Question: Which language is the most widely used in international communication?
+      TrueAnswer: English
+      FalseAnswer:
+      - French
+      - Spanish
+      - Mandarin
+      Explanation: English is the most widely used language in international communication,
+        especially in business and diplomacy.
+    - Question: What is the official language of Mexico?
+      TrueAnswer: Spanish
+      FalseAnswer:
+      - English
+      - Portuguese
+      - Italian
+      Explanation: Spanish is the official language of Mexico, spoken by the majority
+        of its population.
+    - Question: Which language is known for its guttural sounds and throaty pronunciation?
+      TrueAnswer: German
+      FalseAnswer:
+      - French
+      - Italian
+      - Spanish
+      Explanation: German is known for its guttural sounds and throaty pronunciation,
+        giving it a distinct character.
+    - Question: What is the official language of Canada?
+      TrueAnswer: English
+      FalseAnswer:
+      - French
+      - Spanish
+      - German
+      Explanation: English is one of the official languages of Canada, along with
+        French.
+    - Question: Which language is the most widely spoken in Africa?
+      TrueAnswer: Swahili
+      FalseAnswer:
+      - English
+      - French
+      - Arabic
+      Explanation: Swahili is the most widely spoken language in Africa, with over
+        100 million speakers.
+    - Question: What is the official language of Australia?
+      TrueAnswer: English
+      FalseAnswer:
+      - Aboriginal languages
+      - Spanish
+      - Chinese
+      Explanation: English is the official language of Australia, spoken by the majority
+        of its population.
+    - Question: Which language is known for its use of tones to distinguish word
+        meanings?
+      TrueAnswer: Mandarin
+      FalseAnswer:
+      - English
+      - Spanish
+      - French
+      Explanation: Mandarin is known for its use of tones, where different tones
+        can change the meaning of a word.

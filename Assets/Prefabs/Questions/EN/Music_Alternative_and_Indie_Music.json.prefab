@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4952733253028448119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 68244309188670745}
+  - component: {fileID: 8549796672606697050}
+  m_Layer: 0
+  m_Name: Music_Alternative_and_Indie_Music.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &68244309188670745
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4952733253028448119}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8549796672606697050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4952733253028448119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year was the band Radiohead formed?
+      TrueAnswer: 1985
+      FalseAnswer:
+      - 1992
+      - 1978
+      - 2000
+      Explanation: Radiohead formed in 1985 in Abingdon, Oxfordshire, England, and
+        gained worldwide fame with their 1997 album 'OK Computer'.
+    - Question: Which album features the song 'Mr. Brightside' by The Killers?
+      TrueAnswer: Hot Fuss
+      FalseAnswer:
+      - Sam's Town
+      - Battle Born
+      - Wonderful Wonderful
+      Explanation: The song 'Mr. Brightside' was released on the album 'Hot Fuss'
+        in 2003, becoming a major hit for The Killers.
+    - Question: Who is the lead vocalist of the band Arctic Monkeys?
+      TrueAnswer: Alex Turner
+      FalseAnswer:
+      - Matt Helders
+      - Jamie Cook
+      - Nick O'Malley
+      Explanation: Alex Turner is not only the lead vocalist but also the primary
+        songwriter of the Arctic Monkeys, known for his distinct vocal style.
+    - Question: What is the real name of Indie artist St. Vincent?
+      TrueAnswer: Annie Clark
+      FalseAnswer:
+      - Carrie Brownstein
+      - Ezra Koenig
+      - Sufjan Stevens
+      Explanation: Annie Clark adopted the stage name 'St. Vincent', known for her
+        innovative guitar playing and diverse musical style.
+    - Question: Which city is known as the birthplace of the Grunge music movement?
+      TrueAnswer: Seattle
+      FalseAnswer:
+      - Portland
+      - Los Angeles
+      - New York
+      Explanation: Seattle, Washington, is credited as the birthplace of Grunge,
+        with bands like Nirvana, Soundgarden, and Pearl Jam emerging from there.
+    - Question: What is the record label founded by the band Arcade Fire?
+      TrueAnswer: Merge Records
+      FalseAnswer:
+      - Sub Pop
+      - Matador Records
+      - XL Recordings
+      Explanation: Arcade Fire founded the independent record label 'Merge Records'
+        in 2013, gaining more creative control over their music and supporting other
+        artists.
+    - Question: Which band released the album 'In Rainbows' as a 'pay-what-you-want'
+        download?
+      TrueAnswer: Radiohead
+      FalseAnswer:
+      - The White Stripes
+      - The Strokes
+      - Tame Impala
+      Explanation: Radiohead released 'In Rainbows' in 2007 as a digital download,
+        allowing fans to pay any amount or download it for free.
+    - Question: What is the debut studio album of the band Arctic Monkeys?
+      TrueAnswer: Whatever People Say I Am, That's What I'm Not
+      FalseAnswer:
+      - Favourite Worst Nightmare
+      - AM
+      - Tranquility Base Hotel & Casino
+      Explanation: Released in 2006, the debut album 'Whatever People Say I Am, That's
+        What I'm Not' gained massive critical and commercial success.
+    - Question: Which band is known for the hit song 'Float On'?
+      TrueAnswer: Modest Mouse
+      FalseAnswer:
+      - The Shins
+      - Death Cab for Cutie
+      - Broken Social Scene
+      Explanation: '''Float On'' is a popular song by Modest Mouse, known for its
+        upbeat and optimistic lyrics.'
+    - Question: What is the birthplace of the band The Strokes?
+      TrueAnswer: New York City
+      FalseAnswer:
+      - London
+      - Los Angeles
+      - Sydney
+      Explanation: The Strokes formed in New York City in 1998, being at the forefront
+        of the early 2000s garage rock revival.
+    - Question: Which band released the album 'Is This It'?
+      TrueAnswer: The Strokes
+      FalseAnswer:
+      - Interpol
+      - Yeah Yeah Yeahs
+      - Vampire Weekend
+      Explanation: The Strokes released 'Is This It' in 2001, receiving critical
+        acclaim for its impact on the garage rock revival movement.
+    - Question: Who is the lead singer of the band The White Stripes?
+      TrueAnswer: Jack White
+      FalseAnswer:
+      - Meg White
+      - Patrick Carney
+      - Dan Auerbach
+      Explanation: Jack White, along with drummer Meg White, formed The White Stripes,
+        known for their raw and blues-influenced garage rock sound.
+    - Question: What is the birthplace of singer-songwriter Sufjan Stevens?
+      TrueAnswer: Detroit
+      FalseAnswer:
+      - Chicago
+      - Portland
+      - Louisville
+      Explanation: Sufjan Stevens was born in Detroit, Michigan, and his music often
+        includes themes related to his personal and regional experiences.
+    - Question: Who released the album 'Funeral' in 2004?
+      TrueAnswer: Arcade Fire
+      FalseAnswer:
+      - Broken Social Scene
+      - The National
+      - LCD Soundsystem
+      Explanation: '''Funeral'' by Arcade Fire received widespread critical acclaim,
+        establishing the band as a leading indie rock act.'
+    - Question: What is the birthplace of the band The National?
+      TrueAnswer: Cincinnati
+      FalseAnswer:
+      - Brooklyn
+      - Los Angeles
+      - London
+      Explanation: The National originated in Cincinnati, Ohio, and their music often
+        features introspective lyrics and a melancholic sound.
+    - Question: Which band released the album 'Veckatimest' in 2009?
+      TrueAnswer: Grizzly Bear
+      FalseAnswer:
+      - Fleet Foxes
+      - Animal Collective
+      - Yeasayer
+      Explanation: Grizzly Bear's 'Veckatimest' showcased their harmonic complexity
+        and experimental sound, receiving critical acclaim in indie music circles.
+    - Question: What is the real name of Vampire Weekend's lead vocalist?
+      TrueAnswer: Ezra Koenig
+      FalseAnswer:
+      - Chris Baio
+      - Rostam Batmanglij
+      - Brian Robert Jones
+      Explanation: Ezra Koenig is the lead vocalist of Vampire Weekend, known for
+        his unique vocal delivery and the band's eclectic mix of musical influences.
+    - Question: Which band released the album 'Turn On The Bright Lights' in 2002?
+      TrueAnswer: Interpol
+      FalseAnswer:
+      - Franz Ferdinand
+      - Bloc Party
+      - The Libertines
+      Explanation: Interpol's debut album 'Turn On The Bright Lights' is often cited
+        as one of the definitive albums of the post-punk revival movement.
+    - Question: What is the birthplace of musician Annie Clark, also known as St.
+        Vincent?
+      TrueAnswer: Tulsa
+      FalseAnswer:
+      - Portland
+      - Austin
+      - Los Angeles
+      Explanation: Annie Clark, known as St. Vincent, was born in Tulsa, Oklahoma,
+        and later moved to Dallas, Texas, to pursue her musical career.
+    - Question: Who is the lead vocalist and guitarist of the band Death Cab for
+        Cutie?
+      TrueAnswer: Ben Gibbard
+      FalseAnswer:
+      - Conor Oberst
+      - Sam Beam
+      - Matthew Caws
+      Explanation: Ben Gibbard's introspective songwriting and emotive vocals have
+        been central to the sound of Death Cab for Cutie.

@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4097032640669143269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3079636626408403606}
+  - component: {fileID: 1643490482025195302}
+  m_Layer: 0
+  m_Name: Sports_Sports Nutrition.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3079636626408403606
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4097032640669143269}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1643490482025195302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4097032640669143269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the main source of energy for athletes during exercise?
+      TrueAnswer: Carbohydrates
+      FalseAnswer:
+      - Protein
+      - Fat
+      - Vitamins
+      Explanation: Carbohydrates are the primary source of energy for athletes as
+        they provide quick fuel for muscles.
+    - Question: Which nutrient is essential for muscle repair and growth?
+      TrueAnswer: Protein
+      FalseAnswer:
+      - Fiber
+      - Calcium
+      - Iron
+      Explanation: Protein is crucial for repairing and building muscles, making
+        it essential for athletes.
+    - Question: What is the recommended fluid intake during exercise?
+      TrueAnswer: Water
+      FalseAnswer:
+      - Soda
+      - Coffee
+      - Alcohol
+      Explanation: Water is the best choice for hydration during exercise as it helps
+        maintain body temperature and replace lost fluids.
+    - Question: Which nutrient helps prevent muscle cramps?
+      TrueAnswer: Electrolytes
+      FalseAnswer:
+      - Antioxidants
+      - Fiber
+      - Omega-3
+      Explanation: Electrolytes like sodium and potassium help maintain fluid balance
+        and prevent muscle cramps during exercise.
+    - Question: What is the recommended timing for consuming a pre-workout meal?
+      TrueAnswer: 1-2 hours before
+      FalseAnswer:
+      - Immediately before
+      - 4-5 hours before
+      - During exercise
+      Explanation: Consuming a pre-workout meal 1-2 hours before exercise allows
+        time for digestion and absorption of nutrients.
+    - Question: Which nutrient is important for endurance athletes to replenish glycogen
+        stores?
+      TrueAnswer: Carbohydrates
+      FalseAnswer:
+      - Protein
+      - Fat
+      - Vitamins
+      Explanation: Endurance athletes rely on carbohydrates to replenish glycogen
+        stores and sustain energy levels during prolonged exercise.
+    - Question: What is the recommended ratio of carbohydrates to protein in a post-workout
+        meal?
+      TrueAnswer: 3:1
+      FalseAnswer:
+      - 1:1
+      - 2:1
+      - 4:1
+      Explanation: A post-workout meal with a 3:1 ratio of carbohydrates to protein
+        helps replenish glycogen stores and promote muscle recovery.
+    - Question: Which nutrient is important for bone health in athletes?
+      TrueAnswer: Calcium
+      FalseAnswer:
+      - Iron
+      - Vitamin C
+      - Zinc
+      Explanation: Calcium is crucial for bone health in athletes, as intense exercise
+        can increase the risk of stress fractures.
+    - Question: What is the recommended timing for consuming a post-workout meal?
+      TrueAnswer: Within 30 minutes
+      FalseAnswer:
+      - 1 hour
+      - 2 hours
+      - 4 hours
+      Explanation: Consuming a post-workout meal within 30 minutes helps optimize
+        muscle recovery and glycogen replenishment.
+    - Question: Which nutrient helps reduce inflammation in the body?
+      TrueAnswer: Omega-3 fatty acids
+      FalseAnswer:
+      - Saturated fats
+      - Trans fats
+      - Cholesterol
+      Explanation: Omega-3 fatty acids have anti-inflammatory properties, making
+        them beneficial for athletes in reducing exercise-induced inflammation.
+    - Question: What is the recommended daily protein intake for athletes?
+      TrueAnswer: 1.2-2.0 grams per kilogram of body weight
+      FalseAnswer:
+      - 0.5-1.0 grams per kilogram of body weight
+      - 2.5-3.0 grams per kilogram of body weight
+      - No specific recommendation
+      Explanation: Athletes should aim for a daily protein intake of 1.2-2.0 grams
+        per kilogram of body weight to support muscle repair and growth.
+    - Question: Which nutrient is important for immune function in athletes?
+      TrueAnswer: Vitamin C
+      FalseAnswer:
+      - Vitamin D
+      - Vitamin B12
+      - Vitamin A
+      Explanation: Vitamin C plays a crucial role in immune function, which is important
+        for athletes to maintain overall health and performance.
+    - Question: What is the recommended timing for consuming a snack before exercise?
+      TrueAnswer: 30-60 minutes before
+      FalseAnswer:
+      - 2-3 hours before
+      - Immediately before
+      - During exercise
+      Explanation: Consuming a snack 30-60 minutes before exercise provides a quick
+        source of energy without causing digestive discomfort.
+    - Question: Which nutrient is important for oxygen transport in the body?
+      TrueAnswer: Iron
+      FalseAnswer:
+      - Magnesium
+      - Potassium
+      - Sodium
+      Explanation: Iron is essential for oxygen transport in the body, which is crucial
+        for athletes to maintain endurance and performance.
+    - Question: What is the recommended timing for consuming a recovery drink after
+        exercise?
+      TrueAnswer: Immediately after
+      FalseAnswer:
+      - 1 hour after
+      - 2 hours after
+      - 4 hours after
+      Explanation: Consuming a recovery drink immediately after exercise helps kickstart
+        the muscle recovery process and replenish glycogen stores.
+    - Question: Which nutrient is important for energy production in the body?
+      TrueAnswer: B vitamins
+      FalseAnswer:
+      - Vitamin E
+      - Vitamin K
+      - Vitamin A
+      Explanation: B vitamins play a crucial role in energy production, making them
+        essential for athletes to maintain optimal performance.
+    - Question: What is the recommended timing for consuming a snack during prolonged
+        exercise?
+      TrueAnswer: Every 45-60 minutes
+      FalseAnswer:
+      - Every 15-30 minutes
+      - Every 2-3 hours
+      - Only at the end of exercise
+      Explanation: Consuming a snack every 45-60 minutes during prolonged exercise
+        helps maintain energy levels and prevent fatigue.
+    - Question: Which nutrient is important for muscle contractions and nerve function?
+      TrueAnswer: Magnesium
+      FalseAnswer:
+      - Calcium
+      - Potassium
+      - Sodium
+      Explanation: Magnesium is crucial for muscle contractions and nerve function,
+        making it essential for athletes to maintain performance.
+    - Question: What is the recommended timing for consuming a carbohydrate-rich
+        meal before endurance events?
+      TrueAnswer: 2-4 hours before
+      FalseAnswer:
+      - Immediately before
+      - 6-8 hours before
+      - During the event
+      Explanation: Consuming a carbohydrate-rich meal 2-4 hours before endurance
+        events provides sustained energy without causing digestive issues.
+    - Question: Which nutrient is important for joint health in athletes?
+      TrueAnswer: Glucosamine
+      FalseAnswer:
+      - Creatine
+      - Beta-alanine
+      - Caffeine
+      Explanation: Glucosamine is beneficial for joint health in athletes, as intense
+        exercise can put stress on the joints.

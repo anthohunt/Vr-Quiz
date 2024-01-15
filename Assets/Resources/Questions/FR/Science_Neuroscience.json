@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle partie du neurone conduit les impulsions électriques?",
+            "TrueAnswer": "Axone",
+            "FalseAnswer": [
+              "Dendrite",
+              "Corps cellulaire",
+              "Synapse"
+            ],
+            "Explanation": "L'axone est une projection longue et fine du neurone qui conduit les impulsions électriques loin du corps cellulaire."
+          },
+          {
+            "Question": "Quel neurotransmetteur est associé au plaisir et à la récompense?",
+            "TrueAnswer": "Dopamine",
+            "FalseAnswer": [
+              "Sérotonine",
+              "Acétylcholine",
+              "GABA"
+            ],
+            "Explanation": "La dopamine joue un rôle clé dans le système de récompense du cerveau, influençant la motivation, le plaisir et l'apprentissage par renforcement."
+          },
+          {
+            "Question": "Quelle est la plus grande partie du cerveau humain en volume?",
+            "TrueAnswer": "Cerveau",
+            "FalseAnswer": [
+              "Cervelet",
+              "Tronc cérébral",
+              "Thalamus"
+            ],
+            "Explanation": "Le cerveau est la plus grande partie du cerveau et est responsable de fonctions supérieures telles que la pensée, l'action et le traitement sensoriel."
+          },
+          {
+            "Question": "Quelle région du cerveau est responsable de la régulation de la température corporelle et de l'appétit?",
+            "TrueAnswer": "Hypothalamus",
+            "FalseAnswer": [
+              "Amygdale",
+              "Moelle",
+              "Cervelet"
+            ],
+            "Explanation": "L'hypothalamus sert de centre de contrôle pour les fonctions corporelles essentielles, y compris la régulation de la température et le maintien de l'homéostasie."
+          },
+          {
+            "Question": "Quel type d'onde cérébrale est généralement associé au sommeil profond?",
+            "TrueAnswer": "Delta",
+            "FalseAnswer": [
+              "Alpha",
+              "Bêta",
+              "Thêta"
+            ],
+            "Explanation": "Les ondes delta sont les plus lentes et observées généralement pendant un sommeil profond, sans rêves, ainsi que dans certains états méditatifs."
+          },
+          {
+            "Question": "Quel lobe du cerveau est principalement responsable du traitement visuel?",
+            "TrueAnswer": "Occipital",
+            "FalseAnswer": [
+              "Temporale",
+              "Pariétal",
+              "Frontal"
+            ],
+            "Explanation": "Le lobe occipital est dédié au traitement de l'information visuelle et joue un rôle crucial dans la perception et l'interprétation visuelle."
+          },
+          {
+            "Question": "Quel type de mémoire est associé à la rétention d'informations pour une courte période de temps?",
+            "TrueAnswer": "Mémoire à court terme",
+            "FalseAnswer": [
+              "Mémoire à long terme",
+              "Procédurale",
+              "Sémantique"
+            ],
+            "Explanation": "La mémoire à court terme retient une quantité limitée d'informations pendant une courte durée et est essentielle pour les tâches cognitives immédiates."
+          },
+          {
+            "Question": "Quelle structure cérébrale est impliquée dans la formation de nouveaux souvenirs?",
+            "TrueAnswer": "Hippocampe",
+            "FalseAnswer": [
+              "Amygdale",
+              "Cervelet",
+              "Ganglions de la base"
+            ],
+            "Explanation": "L'hippocampe joue un rôle critique dans la formation et la consolidation des nouveaux souvenirs déclaratifs et épisodiques."
+          },
+          {
+            "Question": "À quoi contribuent principalement les gaines de myéline dans le système nerveux?",
+            "TrueAnswer": "Conduction des signaux",
+            "FalseAnswer": [
+              "Transmission synaptique",
+              "Libération de neurotransmetteurs",
+              "Formation de la mémoire"
+            ],
+            "Explanation": "Les gaines de myéline isolent les axones et facilitent la conduction rapide des signaux, améliorant la vitesse et l'efficacité de la communication neuronale."
+          },
+          {
+            "Question": "Quel type de technique d'imagerie cérébrale utilise des champs magnétiques pour générer des images détaillées?",
+            "TrueAnswer": "IRM",
+            "FalseAnswer": [
+              "Tomodensitométrie (TDM)",
+              "Tomographie par émission de positons (TEP)",
+              "Électroencéphalographie (EEG)"
+            ],
+            "Explanation": "L'imagerie par résonance magnétique (IRM) produit des images haute résolution en détectant la réponse des atomes d'hydrogène à de forts champs magnétiques."
+          },
+          {
+            "Question": "Quel trajet est responsable de la transmission des signaux de la rétine au cerveau?",
+            "TrueAnswer": "Nerf optique",
+            "FalseAnswer": [
+              "Tractus optique",
+              "Chiasma optique",
+              "Cortex visuel"
+            ],
+            "Explanation": "Le nerf optique transporte l'information visuelle de la rétine au cerveau, facilitant la perception et le traitement visuels."
+          },
+          {
+            "Question": "Quelle maladie est caractérisée par la dégénérescence des neurones producteurs de dopamine?",
+            "TrueAnswer": "Maladie de Parkinson",
+            "FalseAnswer": [
+              "Maladie d'Alzheimer",
+              "Chorée de Huntington",
+              "Sclérose en plaques"
+            ],
+            "Explanation": "La maladie de Parkinson est associée à la perte de neurones producteurs de dopamine dans la substance noire, entraînant des troubles moteurs et d'autres symptômes."
+          },
+          {
+            "Question": "Quel type de cellules assurent le support et l'isolation des neurones dans le système nerveux central?",
+            "TrueAnswer": "Glie",
+            "FalseAnswer": [
+              "Neuroglie",
+              "Astrocytes",
+              "Microglie"
+            ],
+            "Explanation": "Les glies, également appelées neuroglies, jouent un rôle crucial dans le maintien de la structure neuronale, fournissant un soutien et modulant la signalisation neuronale."
+          },
+          {
+            "Question": "Quel réseau complexe de neurones entrelacés régit les fonctions corporelles sans effort conscient?",
+            "TrueAnswer": "Système nerveux autonome",
+            "FalseAnswer": [
+              "Système nerveux entérique",
+              "Système nerveux périphérique",
+              "Système nerveux somatique"
+            ],
+            "Explanation": "Le système nerveux autonome contrôle les fonctions corporelles involontaires telles que le rythme cardiaque, la digestion et le rythme respiratoire, maintenant l'homéostasie."
+          },
+          {
+            "Question": "Quelle est la connexion fonctionnelle entre les neurones où les signaux sont transmis?",
+            "TrueAnswer": "Synapse",
+            "FalseAnswer": [
+              "Ganglion",
+              "Noyau",
+              "Corps calleux"
+            ],
+            "Explanation": "Les synapses sont des jonctions spécialisées où les neurones communiquent, transmettant des signaux par des moyens chimiques ou électriques pour influencer l'activité neuronale et le comportement."
+          },
+          {
+            "Question": "Quel neurotransmetteur est associé à la régulation de l'humeur et des émotions?",
+            "TrueAnswer": "Sérotonine",
+            "FalseAnswer": [
+              "Glutamate",
+              "GABA",
+              "Noradrénaline"
+            ],
+            "Explanation": "La sérotonine est impliquée dans la régulation de l'humeur, le traitement émotionnel et de nombreuses autres fonctions physiologiques, des déséquilibres étant liés aux troubles de l'humeur."
+          },
+          {
+            "Question": "Quel type d'ondes cérébrales est couramment observé lors de l'éveil détendu?",
+            "TrueAnswer": "Alpha",
+            "FalseAnswer": [
+              "Delta",
+              "Bêta",
+              "Thêta"
+            ],
+            "Explanation": "Les ondes alpha sont prédominantes pendant l'éveil détendu, la méditation et les niveaux légers à moyens d'activité cérébrale et de relaxation."
+          },
+          {
+            "Question": "Quelle région du cerveau est associée à la compréhension et à l'expression du langage?",
+            "TrueAnswer": "Aire de Broca",
+            "FalseAnswer": [
+              "Aire de Wernicke",
+              "Gyrus angulaire",
+              "Cortex préfrontal"
+            ],
+            "Explanation": "L'aire de Broca, située dans le lobe frontal, joue un rôle crucial dans la production de la parole et le traitement du langage."
+          },
+          {
+            "Question": "Quel est le processus par lequel le système nerveux élimine ou élague activement les synapses?",
+            "TrueAnswer": "Élagage synaptique",
+            "FalseAnswer": [
+              "Neurogenèse",
+              "Myélinisation",
+              "Axonogenèse"
+            ],
+            "Explanation": "L'élagage synaptique est l'élimination sélective des synapses inutiles, optimisant la connectivité neuronale et affinant les circuits neuronaux pendant le développement."
+          },
+          {
+            "Question": "Quelle technique consiste à stimuler des zones spécifiques du cerveau avec des bobines électromagnétiques pour moduler l'activité neuronale?",
+            "TrueAnswer": "Stimulation magnétique transcrânienne (TMS)",
+            "FalseAnswer": [
+              "Électrochoc (ECT)",
+              "Stimulation cérébrale profonde (SCP)",
+              "Stimulation du nerf vague (VNS)"
+            ],
+            "Explanation": "La TMS délivre de manière non invasive des impulsions magnétiques à des régions cérébrales ciblées, offrant des applications thérapeutiques potentielles dans la recherche en neurosciences et les troubles psychiatriques."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2068762815436112583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3226074812199507411}
+  - component: {fileID: 5674194466966808487}
+  m_Layer: 0
+  m_Name: Sports_Gymnastics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3226074812199507411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068762815436112583}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5674194466966808487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068762815436112583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What apparatus involves using a horizontal bar and a set of parallel
+        bars?
+      TrueAnswer: Parallel Bars
+      FalseAnswer:
+      - Uneven Bars
+      - Balance Beam
+      - Vault
+      Explanation: The parallel bars are used by male gymnasts for swinging, balancing,
+        and performing various strength and coordination skills.
+    - Question: What is the maximum score that can be achieved in artistic gymnastics?
+      TrueAnswer: 10
+      FalseAnswer:
+      - 5
+      - 15
+      - 12
+      Explanation: A perfect 10 in gymnastics signifies flawlessness in execution
+        and technique, which is a rare achievement.
+    - Question: Which event features a long spring runway leading to a vaulting platform?
+      TrueAnswer: Vault
+      FalseAnswer:
+      - Balance Beam
+      - Floor Exercise
+      - Uneven Bars
+      Explanation: The vault requires explosive power and technique to execute various
+        flips, twists, and landings on the platform.
+    - Question: What is the duration of a standard gymnastics floor exercise routine?
+      TrueAnswer: 90 seconds
+      FalseAnswer:
+      - 60 seconds
+      - 120 seconds
+      - 2 minutes
+      Explanation: A floor exercise routine lasts for 90 seconds, during which gymnasts
+        perform a combination of acrobatics, dance, and tumbling.
+    - Question: Who is considered the most decorated female Olympic gymnast in history?
+      TrueAnswer: Simone Biles
+      FalseAnswer:
+      - Nadia Comaneci
+      - Gabby Douglas
+      - Aly Raisman
+      Explanation: Simone Biles holds the record for the most Olympic and world championship
+        medals won by any American gymnast.
+    - Question: Which type of gymnastics routine traditionally includes the pommel
+        horse and rings?
+      TrueAnswer: Men's Artistic
+      FalseAnswer:
+      - Rhythmic
+      - Trampoline
+      - Aerobic
+      Explanation: Men's artistic gymnastics emphasizes strength, power, and control,
+        performed on specific apparatus like the pommel horse and rings.
+    - Question: Who was the first female gymnast awarded a perfect score of 10 in
+        the Olympics?
+      TrueAnswer: Nadia Comaneci
+      FalseAnswer:
+      - Mary Lou Retton
+      - Oksana Chusovitina
+      - Simone Biles
+      Explanation: Nadia Comaneci, a Romanian gymnast, achieved the perfect score
+        at the 1976 Montreal Olympics, making history in gymnastics.
+    - Question: In gymnastics, what is a Yurchenko named after?
+      TrueAnswer: Alyona Yurchenko
+      FalseAnswer:
+      - Vladimir Yurchenko
+      - Sergei Yurchenko
+      - Olga Yurchenko
+      Explanation: Alyona Yurchenko invented the Yurchenko vault technique, revolutionizing
+        women's gymnastics with its unique round-off entry and back handspring.
+    - Question: Which of the following is a fundamental skill in artistic gymnastics?
+      TrueAnswer: Handstand
+      FalseAnswer:
+      - Somersault
+      - Cartwheel
+      - Backflip
+      Explanation: The handstand is a critical element in gymnastics, requiring balance,
+        strength, and body control in both stationary and dynamic routines.
+    - Question: What is the width of a standard balance beam used in women's artistic
+        gymnastics?
+      TrueAnswer: 10 centimeters
+      FalseAnswer:
+      - 15 centimeters
+      - 5 centimeters
+      - 20 centimeters
+      Explanation: The balance beam poses a challenge with its narrow 10cm width,
+        demanding focus and precision in executing acrobatic skills and leaps.
+    - Question: Which Olympic gymnast is known for her signature Amanar vault?
+      TrueAnswer: McKayla Maroney
+      FalseAnswer:
+      - Svetlana Khorkina
+      - Kerri Strug
+      - Shawn Johnson
+      Explanation: McKayla Maroney popularized the Amanar, a vault comprising a round-off
+        onto the springboard, back handspring onto the vault, and 2.5 twisting layout
+        somersault.
+    - Question: What is the term for a gymnastics maneuver that combines a front
+        flip with a 180-degree twist?
+      TrueAnswer: Kasamatsu
+      FalseAnswer:
+      - Yurchenko
+      - Tsukahara
+      - Maroney
+      Explanation: The Kasamatsu vault, named after Mitsuo Kasamatsu, involves a
+        round-off onto the springboard, back handspring onto the vault, and a 180-degree
+        twist layout somersault.
+    - Question: In rhythmic gymnastics, what are the small hand-held apparatuses
+        called?
+      TrueAnswer: Apparatuses
+      FalseAnswer:
+      - Clubs
+      - Ribbons
+      - Balls
+      Explanation: While clubs, ribbons, and balls are used in rhythmic gymnastics,
+        the generic term 'apparatuses' collectively refers to these equipment pieces.
+    - Question: Which country is renowned for its dominance in rhythmic gymnastics?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - United States
+      - China
+      - Spain
+      Explanation: Russia has been a powerhouse in rhythmic gymnastics, consistently
+        producing top athletes who excel in the sport's intricate routines and performances.
+    - Question: What is the title given to a female gymnast who performs on the trampoline?
+      TrueAnswer: Trampolinist
+      FalseAnswer:
+      - Trampoline Artist
+      - Trampoline Dancer
+      - Trampoline Tumbler
+      Explanation: The term 'trampolinist' refers to a female gymnast specializing
+        in trampoline gymnastics, displaying aerial skills, flips, and twists on
+        the apparatus.
+    - Question: Who is the legendary gymnast known for her record-setting performance
+        in both artistic and rhythmic gymnastics?
+      TrueAnswer: Larisa Latynina
+      FalseAnswer:
+      - Olga Korbut
+      - Svetlana Khorkina
+      - Nadia Comaneci
+      Explanation: Larisa Latynina holds the record for the most Olympic medals won
+        by a gymnast, showcasing versatility and excellence across multiple gymnastics
+        disciplines.
+    - Question: What is the term for a gymnastics discipline focused on coordinated
+        routines using aerobic exercise?
+      TrueAnswer: Aerobic Gymnastics
+      FalseAnswer:
+      - Artistic Gymnastics
+      - Rhythmic Gymnastics
+      - Trampoline Gymnastics
+      Explanation: Aerobic gymnastics emphasizes dynamic and continuous movement,
+        integrating elements of dance, strength, flexibility, and performance skills
+        in synchronized routines.
+    - Question: Which gymnastics discipline involves athletes performing advanced
+        tumbling and acrobatics on a trampoline?
+      TrueAnswer: Trampoline Gymnastics
+      FalseAnswer:
+      - Artistic Gymnastics
+      - Rhythmic Gymnastics
+      - Aerobic Gymnastics
+      Explanation: Trampoline gymnastics showcases athletes' aerial prowess, combining
+        high-flying somersaults, twists, and dynamic routines with precise landings
+        on the trampoline bed.
+    - Question: Who holds the record for the most world championship titles in artistic
+        gymnastics?
+      TrueAnswer: Simone Biles
+      FalseAnswer:
+      - Nadia Comaneci
+      - Svetlana Khorkina
+      - Larisa Latynina
+      Explanation: Simone Biles has earned the most world championship titles in
+        artistic gymnastics, solidifying her status as a dominant and accomplished
+        gymnast in the sport's history.
+    - Question: Which acrobatic element is sometimes referred to as a 'front somersault'
+        in artistic gymnastics?
+      TrueAnswer: Front Tuck
+      FalseAnswer:
+      - Front Pike
+      - Front Layout
+      - Front Handspring
+      Explanation: The front tuck maneuver involves a forward somersault with the
+        body fully tucked in, requiring precise technique and air awareness during
+        execution.

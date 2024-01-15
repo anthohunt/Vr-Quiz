@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4238862311927611682
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2083239749343276958}
+  - component: {fileID: 1788188030246542371}
+  m_Layer: 0
+  m_Name: Geography_Geopolitics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2083239749343276958
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4238862311927611682}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1788188030246542371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4238862311927611682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the term for a state's national power and influence in global
+        affairs?
+      TrueAnswer: Geopolitics
+      FalseAnswer:
+      - Geoengineering
+      - Geography
+      - Geodesy
+      Explanation: Geopolitics is the study of the effects of geography on international
+        politics and international relations. It considers state power, territory,
+        and strategic location.
+    - Question: Which nation dominated global geopolitics during the Cold War?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Soviet Union
+      - China
+      - Britain
+      Explanation: The United States emerged as the dominant superpower after WWII,
+        engaging in strategic competition with the Soviet Union.
+    - Question: Who coined the term 'geopolitics'?
+      TrueAnswer: "Rudolf Kjell\xE9n"
+      FalseAnswer:
+      - Carl Ritter
+      - Halford Mackinder
+      - Alfred Thayer Mahan
+      Explanation: "Rudolf Kjell\xE9n, a Swedish political scientist, introduced
+        the concept of geopolitics as a field of study in 1899."
+    - Question: What is a geopolitical hotspot characterized by ongoing conflict
+        and instability?
+      TrueAnswer: Flashpoint
+      FalseAnswer:
+      - Eurasia
+      - Latitude
+      - Archipelago
+      Explanation: A geopolitical flashpoint is a region or issue that has the potential
+        to ignite conflict due to competing geopolitical interests and historical
+        tensions.
+    - Question: Which concept suggests that land-based powers are more likely to
+        dominate global geopolitics?
+      TrueAnswer: Heartland Theory
+      FalseAnswer:
+      - Rimland Theory
+      - Sea Power Theory
+      - Mackinder Doctrine
+      Explanation: The Heartland Theory, proposed by Halford Mackinder, posits that
+        control of the Eurasian landmass provides the key to global domination.
+    - Question: What is the term for the control of an area's political, economic,
+        and military activities?
+      TrueAnswer: Hegemony
+      FalseAnswer:
+      - Sovereignty
+      - Alliance
+      - Autonomy
+      Explanation: Hegemony refers to the influence or dominance of one state or
+        group over others, establishing and maintaining control through various means.
+    - Question: Which regional organization focuses on economic cooperation and geopolitical
+        stability in Southeast Asia?
+      TrueAnswer: ASEAN
+      FalseAnswer:
+      - OAS
+      - ECOWAS
+      - EU
+      Explanation: The Association of Southeast Asian Nations (ASEAN) promotes cooperation,
+        economic integration, and geopolitical stability among its member states.
+    - Question: What term describes the division of the world into spheres of influence
+        by major powers?
+      TrueAnswer: Pax Britannica
+      FalseAnswer:
+      - Pax Romana
+      - Pax Americana
+      - Berlin Conference
+      Explanation: Pax Britannica refers to the period of relative peace under British
+        hegemony during the 19th century, shaping global geopolitics.
+    - Question: What geopolitical concept involves the strategic control of waterways
+        and maritime trade routes?
+      TrueAnswer: Sea Power
+      FalseAnswer:
+      - Blue Water Doctrine
+      - Amphibious Warfare
+      - Naval Hegemony
+      Explanation: Sea Power emphasizes the significance of naval strength and control
+        of seas for geopolitical influence and global trade dominance.
+    - Question: What term refers to the practice of acquiring, occupying, and exploiting
+        foreign territories for geopolitical advantage?
+      TrueAnswer: Imperialism
+      FalseAnswer:
+      - Colonialism
+      - Mercantilism
+      - Sovereignty
+      Explanation: Imperialism involves exerting control over other territories to
+        secure resources, markets, and geopolitical influence, often through military
+        and economic means.
+    - Question: Which body oversees and regulates global oil production, impacting
+        geopolitical dynamics?
+      TrueAnswer: OPEC
+      FalseAnswer:
+      - IEA
+      - UNSC
+      - IMF
+      Explanation: The Organization of the Petroleum Exporting Countries (OPEC) coordinates
+        policies and production levels among its member countries, influencing global
+        energy geopolitics.
+    - Question: What geopolitical alliance emerged as a counterbalance to NATO during
+        the Cold War?
+      TrueAnswer: Warsaw Pact
+      FalseAnswer:
+      - SEATO
+      - CENTO
+      - COMECON
+      Explanation: The Warsaw Pact was a military alliance between the Soviet Union
+        and its satellite states, serving as a geopolitical rival to NATO.
+    - Question: Which geopolitical theory emphasizes the significance of controlling
+        coastal areas for global influence?
+      TrueAnswer: Rimland Theory
+      FalseAnswer:
+      - Mackinder Doctrine
+      - Heartland Theory
+      - Sea Power Doctrine
+      Explanation: The Rimland Theory, proposed by Nicholas Spykman, asserts that
+        controlling coastal regions is crucial for geopolitical dominance due to
+        access to maritime trade routes.
+    - Question: Which international body focuses on geopolitical conflict resolution
+        and peacekeeping operations?
+      TrueAnswer: UN Security Council
+      FalseAnswer:
+      - UN General Assembly
+      - ICC
+      - NATO
+      Explanation: The UN Security Council is responsible for maintaining international
+        peace and security, addressing geopolitical conflicts and authorizing peacekeeping
+        missions.
+    - Question: Which geopolitical concept denotes the strategic control and use
+        of information and communication?
+      TrueAnswer: Cyberpower
+      FalseAnswer:
+      - Soft Power
+      - Digital Diplomacy
+      - Information Warfare
+      Explanation: Cyberpower involves leveraging technology for geopolitical influence,
+        encompassing cyber capabilities, information warfare, and digital diplomacy
+        in global affairs.
+    - Question: What is the term for a geopolitical region with various nations under
+        a central authority or sphere of influence?
+      TrueAnswer: Buffer Zone
+      FalseAnswer:
+      - Exclave
+      - Enclave
+      - Conurbation
+      Explanation: A buffer zone acts as a geopolitical barrier, separating conflicting
+        or rival powers and serving as a neutral area to reduce tensions and prevent
+        direct confrontation.
+    - Question: Which geopolitical theory focuses on the influence of maritime trade
+        and naval power in global affairs?
+      TrueAnswer: Mahanian Doctrine
+      FalseAnswer:
+      - Thucydides Trap
+      - Spykman Thesis
+      - Containment Doctrine
+      Explanation: The Mahanian Doctrine, inspired by Alfred Thayer Mahan, underscores
+        the pivotal role of seapower and commerce in shaping global geopolitics and
+        national strength.
+    - Question: What term describes the geopolitical strategy involving the use of
+        military force to achieve political objectives?
+      TrueAnswer: Coercive Diplomacy
+      FalseAnswer:
+      - "D\xE9tente"
+      - Containment
+      - Neutrality
+      Explanation: Coercive diplomacy involves the threat or limited use of force
+        to influence and coerce adversaries to comply with political demands, serving
+        as a tool in geopolitical negotiations.
+    - Question: Which country experienced geopolitical competition and influence
+        in the Great Game with Russia?
+      TrueAnswer: Great Britain
+      FalseAnswer:
+      - France
+      - Germany
+      - Ottoman Empire
+      Explanation: Great Britain engaged in geopolitical rivalry with Russia in Central
+        Asia, known as the Great Game, to protect its imperial interests and maintain
+        influence in the region.

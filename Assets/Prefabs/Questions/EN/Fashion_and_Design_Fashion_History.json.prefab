@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2503316320724235277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2474391659670146250}
+  - component: {fileID: 801867776769165259}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Fashion_History.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2474391659670146250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2503316320724235277}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &801867776769165259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2503316320724235277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the first fashion designer?
+      TrueAnswer: Charles Frederick Worth
+      FalseAnswer:
+      - Coco Chanel
+      - Christian Dior
+      - Yves Saint Laurent
+      Explanation: Charles Frederick Worth, an Englishman working in Paris, is often
+        considered the first haute couture fashion designer. He revolutionized the
+        fashion industry in the 19th century.
+    - Question: What is the origin of the bikini?
+      TrueAnswer: French Riviera
+      FalseAnswer:
+      - Hawaii
+      - Cannes
+      - Fiji
+      Explanation: "The modern bikini was introduced by French engineer Louis R\xE9ard
+        in 1946 and named after the Bikini Atoll due to its explosive impact on fashion."
+    - Question: Who popularized the 'little black dress'?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Audrey Hepburn
+      - Gianni Versace
+      - Christian Dior
+      Explanation: Coco Chanel introduced the 'little black dress' in the 1920s,
+        which revolutionized women's fashion by making black a chic and versatile
+        color.
+    - Question: When did the 'New Look' silhouette by Christian Dior debut?
+      TrueAnswer: 1947
+      FalseAnswer:
+      - 1920
+      - 1960
+      - 1955
+      Explanation: Christian Dior's 'New Look' emerged in 1947, featuring a full-skirted,
+        hourglass shape that contrasted with wartime fabric restrictions, redefining
+        post-war fashion.
+    - Question: What was the purpose of the 19th century crinoline?
+      TrueAnswer: Providing Volume
+      FalseAnswer:
+      - Slimming Silhouette
+      - Enhancing Bust
+      - Accentuating Waist
+      Explanation: Crinolines were used to provide volume to the skirts, creating
+        the fashionable wide silhouette of the mid-19th century fashion.
+    - Question: Which ancient civilization first used buttons as a form of decoration?
+      TrueAnswer: Ancient Egyptians
+      FalseAnswer:
+      - Ancient Greeks
+      - Romans
+      - Mesopotamians
+      Explanation: Ancient Egyptians were among the first to use decorative buttons,
+        often intricately designed, as part of their attire, which influenced later
+        fashion practices.
+    - Question: What inspired the fashion trend of panniers in the 18th century?
+      TrueAnswer: Versailles Gardens
+      FalseAnswer:
+      - Venetian Canals
+      - Russian Palaces
+      - Roman Ruins
+      Explanation: Panniers, ornamental hoops worn on the sides of the hips, originated
+        from the boxy shapes seen in the Versailles Gardens, symbolizing wealth and
+        status.
+    - Question: When did the 'flapper' style gain popularity?
+      TrueAnswer: 1920s
+      FalseAnswer:
+      - 1930s
+      - 1940s
+      - 1910s
+      Explanation: The 'flapper' style became popular in the 1920s, reflecting the
+        liberated spirit of the era with its short, loose, and rebellious fashion
+        choices.
+    - Question: Which icon popularized the miniskirt in the 1960s?
+      TrueAnswer: Mary Quant
+      FalseAnswer:
+      - Twiggy
+      - Audrey Hepburn
+      - Jackie Kennedy
+      Explanation: Mary Quant, a British fashion designer, propelled the miniskirt
+        into the mainstream fashion world during the 1960s, symbolizing youth culture
+        and modernity.
+    - Question: What era saw the introduction of the hobble skirt?
+      TrueAnswer: Edwardian Era
+      FalseAnswer:
+      - Victorian Era
+      - Roaring Twenties
+      - Art Deco Period
+      Explanation: The hobble skirt, designed to restrict the wearer's stride, gained
+        popularity in the early 20th century, particularly during the Edwardian era.
+    - Question: Where did the concept of the fashion show originate?
+      TrueAnswer: Paris
+      FalseAnswer:
+      - Milan
+      - London
+      - New York
+      Explanation: The modern fashion show, as we know it, originated in Paris in
+        the mid-19th century, where designers presented their collections to elite
+        clientele and the press.
+    - Question: Which fabric was popular in the Regency era for women's gowns?
+      TrueAnswer: Muslin
+      FalseAnswer:
+      - Silk
+      - Velvet
+      - Lace
+      Explanation: Muslin, a lightweight cotton fabric, gained popularity during
+        the Regency era for its soft draping qualities, influencing the simple, natural
+        silhouettes of the period.
+    - Question: Who introduced the concept of 'unisex' fashion in the 1960s?
+      TrueAnswer: Pierre Cardin
+      FalseAnswer:
+      - Yves Saint Laurent
+      - Gianni Versace
+      - Karl Lagerfeld
+      Explanation: Pierre Cardin challenged traditional gender norms by popularizing
+        unisex fashion, emphasizing minimalist, futuristic designs in the 1960s.
+    - Question: What characterized the fashion of the Rococo period in the 18th century?
+      TrueAnswer: Elaborate Embellishments
+      FalseAnswer:
+      - Minimalist Silhouette
+      - Neutral Colors
+      - Structured Tailoring
+      Explanation: Rococo fashion emphasized elaborate embellishments, pastel colors,
+        and frothy, decorative details, inspired by frivolity and opulence.
+    - Question: Which designer is known for the 'wrap dress'?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Calvin Klein
+      - Donna Karan
+      - Ralph Lauren
+      Explanation: Diane von Furstenberg popularized the versatile, flattering 'wrap
+        dress' in the 1970s, empowering women with a stylish and functional garment.
+    - Question: During which era did corsets become a fashion staple?
+      TrueAnswer: Victorian Era
+      FalseAnswer:
+      - Georgian Era
+      - Medieval Period
+      - Renaissance
+      Explanation: The Victorian era saw the widespread use of tightly-laced corsets,
+        symbolizing the restrictive beauty standards and social norms of the time.
+    - Question: Where did the concept of fashion magazines emerge in the 18th century?
+      TrueAnswer: France
+      FalseAnswer:
+      - England
+      - Italy
+      - Germany
+      Explanation: Fashion magazines originated in France during the 18th century,
+        providing a platform for the dissemination of latest trends, styles, and
+        sartorial advice.
+    - Question: Which designer is associated with the 'Space Age' fashion in the
+        1960s?
+      TrueAnswer: "Andr\xE9 Courr\xE8ges"
+      FalseAnswer:
+      - Pierre Cardin
+      - Yves Saint Laurent
+      - Christian Dior
+      Explanation: "Andr\xE9 Courr\xE8ges is recognized for pioneering 'Space Age'
+        fashion, featuring futuristic designs, geometric shapes, and innovative synthetic
+        materials in the 1960s."
+    - Question: What fashion concept is synonymous with the 1920s?
+      TrueAnswer: Art Deco
+      FalseAnswer:
+      - Gothic
+      - Baroque
+      - Renaissance
+      Explanation: The 1920s saw the rise of Art Deco, an influential style in fashion
+        characterized by geometric patterns, exotic motifs, and modernist aesthetics.

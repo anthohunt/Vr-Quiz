@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &325407248418224787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2722738927334681691}
+  - component: {fileID: 6298314045931530653}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Comets_and_Kuiper_Belt_Objects.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2722738927334681691
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 325407248418224787}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6298314045931530653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 325407248418224787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary component that makes up most comets?
+      TrueAnswer: Ice
+      FalseAnswer:
+      - Rock
+      - Metal
+      - Gas
+      Explanation: Comets are composed mainly of ice with small amounts of dust and
+        rocky material.
+    - Question: Which region of the solar system hosts the Kuiper Belt?
+      TrueAnswer: Beyond Neptune
+      FalseAnswer:
+      - Between Mars and Jupiter
+      - Near Venus
+      - Near Uranus
+      Explanation: The Kuiper Belt is a region of the solar system beyond Neptune,
+        containing many small icy bodies.
+    - Question: What is the Kuiper Belt's association with Pluto?
+      TrueAnswer: Shared region
+      FalseAnswer:
+      - Has no relation
+      - Orbits Jupiter
+      - Inside asteroid belt
+      Explanation: Pluto is the largest known object in the Kuiper Belt and shares
+        its region with other small icy bodies.
+    - Question: What causes the tails of comets to form as they approach the sun?
+      TrueAnswer: Solar heating
+      FalseAnswer:
+      - Cosmic radiation
+      - Volcanic eruptions
+      - Magnetic interference
+      Explanation: As comets approach the sun, solar heating causes the ice within
+        them to vaporize and form tails.
+    - Question: What defines a comet's 'coma'?
+      TrueAnswer: Halo of gas and dust
+      FalseAnswer:
+      - Solid core
+      - Reflective surface
+      - Magnetic field
+      Explanation: A comet's coma is the nebulous, glowing region surrounding its
+        nucleus, composed of gas and dust.
+    - Question: What force primarily influences Kuiper Belt object orbits?
+      TrueAnswer: Gravity
+      FalseAnswer:
+      - Solar wind
+      - Magnetic fields
+      - Cosmic rays
+      Explanation: Gravity from the sun and other massive bodies primarily influences
+        the orbits of Kuiper Belt objects.
+    - Question: Which comet became an iconic subject in the movie 'Deep Impact'?
+      TrueAnswer: Comet Wolf
+      FalseAnswer:
+      - Comet Hale-Bopp
+      - Halley's Comet
+      - Comet Shoemaker-Levy 9
+      Explanation: Comet Wolf, also known as 73P/Schwassmann-Wachmann, was the focus
+        of the movie 'Deep Impact'.
+    - Question: What is the source of a comet's tail's brightness?
+      TrueAnswer: Sunlight reflection
+      FalseAnswer:
+      - Bioluminescence
+      - Nuclear fusion
+      - Cosmic radiation
+      Explanation: A comet's tail appears bright due to the reflection of sunlight
+        off the gas and dust particles within it.
+    - Question: What distinguishes a Kuiper Belt object from a traditional asteroid?
+      TrueAnswer: Composition rich in ices
+      FalseAnswer:
+      - Presence of rings
+      - Internal magnetism
+      - Uniform density
+      Explanation: Kuiper Belt objects are distinct due to their composition, which
+        includes a significant amount of ices.
+    - Question: How often does Halley's Comet make a return to the inner solar system?
+      TrueAnswer: Approximately 76 years
+      FalseAnswer:
+      - Every 150 years
+      - Once a decade
+      - Every 1000 years
+      Explanation: Halley's Comet has a periodic return to the inner solar system
+        approximately every 76 years.
+    - Question: What primarily shapes the orbits of comets in the Kuiper Belt?
+      TrueAnswer: Gravitational interactions
+      FalseAnswer:
+      - Solar flares
+      - Electromagnetic forces
+      - Tidal forces
+      Explanation: The gravitational pull and interactions with other objects predominantly
+        shape Kuiper Belt object orbits.
+    - Question: How does a comet's brightness change as it approaches the sun?
+      TrueAnswer: Increases
+      FalseAnswer:
+      - Remains constant
+      - Decreases
+      - Becomes invisible
+      Explanation: As a comet approaches the sun, the increased solar radiation causes
+        it to brighten.
+    - Question: Which scientist formulated the Oort cloud theory for comet origins?
+      TrueAnswer: Jan Oort
+      FalseAnswer:
+      - Edmond Halley
+      - Isaac Newton
+      - Johannes Kepler
+      Explanation: Jan Oort proposed the existence of the Oort cloud, a theoretical
+        source of long-period comets.
+    - Question: What is the common shape of a comet's orbital path?
+      TrueAnswer: Elongated ellipse
+      FalseAnswer:
+      - Perfect circle
+      - Figure eight
+      - Triangle
+      Explanation: Comet orbits are typically elongated ellipses, bringing them close
+        to the sun and then far into the outer solar system.
+    - Question: What characterized the first Kuiper Belt object discovery, 1992 QB1?
+      TrueAnswer: Icy, distant nature
+      FalseAnswer:
+      - Rocky surface
+      - Earth-crossing orbit
+      - Rapid orbital speed
+      Explanation: 1992 QB1 was the first observed Kuiper Belt object, located in
+        the outer region of the solar system and composed of ice.
+    - Question: What is the primary role of the nucleus in a comet's structure?
+      TrueAnswer: Contains ices and dust
+      FalseAnswer:
+      - Generates magnetic field
+      - Emits radiation
+      - Reflects sunlight
+      Explanation: The nucleus of a comet is the central solid core containing ice,
+        dust, and other volatile materials.
+    - Question: What factor influences the appearance and behavior of a comet's tail?
+      TrueAnswer: Solar wind
+      FalseAnswer:
+      - Tectonic activity
+      - Atmospheric pressure
+      - Cosmic rays
+      Explanation: The solar wind plays a significant role in shaping and affecting
+        the behavior of a comet's tail.
+    - Question: What NASA mission visited and studied the Comet Tempel 1?
+      TrueAnswer: Deep Impact
+      FalseAnswer:
+      - Voyager 2
+      - Mars Rover
+      - New Horizons
+      Explanation: The Deep Impact mission was aimed at studying the interior composition
+        of Comet Tempel 1 by accessing its nucleus.
+    - Question: What phenomenon marks the end of a comet's visibility in the sky?
+      TrueAnswer: Disintegration
+      FalseAnswer:
+      - Eclipse
+      - Supernova explosion
+      - Stealth mode
+      Explanation: As a comet's nucleus disintegrates or loses its volatile materials,
+        it fades from visibility in the sky.
+    - Question: What significance does the discovery of Kuiper Belt objects hold
+        for understanding the solar system's history?
+      TrueAnswer: Preserved early materials
+      FalseAnswer:
+      - Evidence of alien life
+      - Predicts future collisions
+      - Indicates cosmic expansion
+      Explanation: Kuiper Belt objects are believed to contain primitive materials,
+        providing insights into the solar system's formation and early history.

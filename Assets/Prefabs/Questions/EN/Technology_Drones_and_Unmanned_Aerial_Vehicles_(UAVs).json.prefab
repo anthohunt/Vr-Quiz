@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5174406704300117146
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2210128022353412174}
+  - component: {fileID: 4470178678282619157}
+  m_Layer: 0
+  m_Name: Technology_Drones_and_Unmanned_Aerial_Vehicles_(UAVs).json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2210128022353412174
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5174406704300117146}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4470178678282619157
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5174406704300117146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In what era were the first UAVs developed?
+      TrueAnswer: World War I
+      FalseAnswer:
+      - World War II
+      - Cold War
+      - Modern Era
+      Explanation: The first UAVs were developed during World War I, primarily for
+        military reconnaissance purposes.
+    - Question: Which country conducted the first UAV strike in history?
+      TrueAnswer: Israel
+      FalseAnswer:
+      - United States
+      - Russia
+      - China
+      Explanation: In 1982, Israel conducted the first UAV strike, bombing a target
+        in Lebanon using a modified IAI Scout UAV.
+    - Question: What is the maximum altitude for most recreational drones?
+      TrueAnswer: 400 feet
+      FalseAnswer:
+      - 1,000 feet
+      - 200 feet
+      - 5,000 feet
+      Explanation: In the US, the FAA limits recreational drone flight altitude to
+        400 feet to avoid airspace conflicts with manned aircraft.
+    - Question: Which of the following is not a common use for drones?
+      TrueAnswer: Mining
+      FalseAnswer:
+      - Agriculture
+      - Filmmaking
+      - Search and Rescue
+      Explanation: While drones are used in various industries, mining typically
+        involves heavy machinery and remote sensing instruments rather than drones.
+    - Question: What is the typical maximum drone range for consumer models?
+      TrueAnswer: 3 miles
+      FalseAnswer:
+      - 10 miles
+      - 1 mile
+      - 20 miles
+      Explanation: Consumer drones generally have a maximum range of around 3 miles
+        before losing signal or entering restricted airspace.
+    - Question: Which organization commonly regulates drone operations in the US?
+      TrueAnswer: Federal Aviation Administration (FAA)
+      FalseAnswer:
+      - National Aeronautics and Space Administration (NASA)
+      - Environmental Protection Agency (EPA)
+      - Department of Defense (DOD)
+      Explanation: The FAA is responsible for regulating civil aviation and overseeing
+        drone operations to ensure safety and compliance with airspace rules.
+    - Question: What is the primary power source for most UAVs?
+      TrueAnswer: Lithium-ion batteries
+      FalseAnswer:
+      - Gasoline engines
+      - Solar panels
+      - Hydrogen fuel cells
+      Explanation: Lithium-ion batteries are commonly used in UAVs due to their energy
+        density, lightweight, and rechargeable nature for sustained flight.
+    - Question: Which type of UAV is designed for long-endurance missions?
+      TrueAnswer: Fixed-wing
+      FalseAnswer:
+      - Multirotor
+      - Single-rotor
+      - Hybrid
+      Explanation: Fixed-wing UAVs have greater aerodynamic efficiency, allowing
+        them to fly longer distances and endure extended missions compared to multirotor
+        drones.
+    - Question: What is the purpose of 'return-to-home' feature in drones?
+      TrueAnswer: Automatic landing
+      FalseAnswer:
+      - Emergency shutdown
+      - Hovering
+      - GPS recalibration
+      Explanation: The 'return-to-home' feature guides the drone to autonomously
+        land at its takeoff location, ensuring a safe return in case of signal loss
+        or low battery.
+    - Question: Which UAV component assists in stabilizing flight and navigation?
+      TrueAnswer: Gyroscope
+      FalseAnswer:
+      - Camera
+      - Propeller
+      - Transmitter
+      Explanation: Gyroscopes provide orientation stability by detecting and correcting
+        deviations from the drone's intended flight path, aiding in smoother navigation.
+    - Question: What is the typical takeoff and landing mechanism for fixed-wing
+        UAVs?
+      TrueAnswer: Runway
+      FalseAnswer:
+      - Vertical Takeoff and Landing (VTOL)
+      - Catapult launch
+      - Parachute landing
+      Explanation: Fixed-wing UAVs require a runway for takeoff and landing due to
+        their aerodynamic design and need for forward speed to generate lift.
+    - Question: What is the primary obstacle detection system on most consumer drones?
+      TrueAnswer: Ultrasonic sensors
+      FalseAnswer:
+      - Lidar
+      - Infrared cameras
+      - Radar
+      Explanation: Ultrasonic sensors measure distance by emitting and receiving
+        sound waves, providing close-range obstacle detection for consumer drones
+        to avoid collisions.
+    - Question: What factor primarily influences a drone's flight endurance?
+      TrueAnswer: Battery capacity
+      FalseAnswer:
+      - Maximum speed
+      - Size of motors
+      - Number of propellers
+      Explanation: The battery capacity directly affects a drone's flight endurance,
+        as it determines the amount of energy available for sustaining flight and
+        powering onboard systems.
+    - Question: What is the primary function of a drone's gimbal?
+      TrueAnswer: Stabilizing camera
+      FalseAnswer:
+      - Adjusting altitude
+      - Monitoring battery
+      - Controlling GPS
+      Explanation: Gimbals stabilize the camera to compensate for drone movement,
+        allowing for smooth and steady footage capture during aerial operations.
+    - Question: Which communication protocol is commonly used for drone control?
+      TrueAnswer: Radio Control (RC)
+      FalseAnswer:
+      - Bluetooth
+      - Wi-Fi
+      - Cellular network
+      Explanation: Radio Control (RC) is the most common protocol for manually piloting
+        drones, providing real-time command input for flight control and maneuvers.
+    - Question: What is the typical role of altimeters in drone navigation?
+      TrueAnswer: Measuring altitude
+      FalseAnswer:
+      - GPS positioning
+      - Weather monitoring
+      - Obstacle detection
+      Explanation: Altimeters precisely measure the drone's altitude above sea level,
+        providing essential altitude data for navigation, autopilot systems, and
+        flight safety.
+    - Question: What payload is often carried by agricultural drones?
+      TrueAnswer: Crop-spraying equipment
+      FalseAnswer:
+      - Thermal imaging cameras
+      - LiDAR sensors
+      - Communication relay devices
+      Explanation: Agricultural drones commonly carry crop-spraying equipment to
+        efficiently apply pesticides, fertilizers, or herbicides to farmland with
+        precision and automation.
+    - Question: What is the primary goal of beyond visual line of sight (BVLOS) drone
+        operations?
+      TrueAnswer: Extended range
+      FalseAnswer:
+      - Nighttime navigation
+      - Low-altitude flying
+      - Obstacle avoidance
+      Explanation: BVLOS operations aim to enable drones to fly beyond the pilot's
+        visual range, expanding their operational range for applications such as
+        long-distance delivery or remote sensing.
+    - Question: Which aviation authority issues commercial drone pilot licenses in
+        the US?
+      TrueAnswer: Federal Aviation Administration (FAA)
+      FalseAnswer:
+      - Transportation Security Administration (TSA)
+      - National Transportation Safety Board (NTSB)
+      - Civil Air Patrol (CAP)
+      Explanation: The FAA issues commercial drone pilot licenses, known as Part
+        107 certification, to individuals who pass the required knowledge test and
+        meet operational criteria.

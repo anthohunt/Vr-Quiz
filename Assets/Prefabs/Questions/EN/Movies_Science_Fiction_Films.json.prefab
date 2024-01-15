@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7865810519918954249
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7833035693332459453}
+  - component: {fileID: 1462701805152003717}
+  m_Layer: 0
+  m_Name: Movies_Science_Fiction_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7833035693332459453
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7865810519918954249}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1462701805152003717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7865810519918954249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the spaceship in 'Alien'?
+      TrueAnswer: Nostromo
+      FalseAnswer:
+      - Serenity
+      - Enterprise
+      - Millennium Falcon
+      Explanation: The spaceship Nostromo, a commercial towing vessel, is the primary
+        setting for the film 'Alien' directed by Ridley Scott.
+    - Question: Who directed the 1977 film 'Close Encounters of the Third Kind'?
+      TrueAnswer: Steven Spielberg
+      FalseAnswer:
+      - James Cameron
+      - Stanley Kubrick
+      - George Lucas
+      Explanation: Steven Spielberg directed 'Close Encounters of the Third Kind,'
+        a science fiction film about UFOs and first contact with extraterrestrial
+        life.
+    - Question: Which actor played the titular character in the film 'RoboCop'?
+      TrueAnswer: Peter Weller
+      FalseAnswer:
+      - Arnold Schwarzenegger
+      - Harrison Ford
+      - Sylvester Stallone
+      Explanation: Peter Weller portrayed the character Alex Murphy, who becomes
+        the cyborg law enforcer RoboCop in the 1987 science fiction action film.
+    - Question: In the 'Terminator' film series, what is the catchphrase associated
+        with the protagonist?
+      TrueAnswer: I'll be back
+      FalseAnswer:
+      - Hasta la vista, baby
+      - Come with me if you want to live
+      - You're terminated
+      Explanation: The catchphrase 'I'll be back' is frequently associated with the
+        character of the Terminator, portrayed by Arnold Schwarzenegger in the film
+        series.
+    - Question: 'What is the name of the main artificial intelligence character in
+        the film ''2001: A Space Odyssey''?'
+      TrueAnswer: HAL 9000
+      FalseAnswer:
+      - R2-D2
+      - C-3PO
+      - Bender
+      Explanation: HAL 9000 is the iconic malevolent artificial intelligence character
+        that controls the spaceship Discovery One in the 1968 film directed by Stanley
+        Kubrick.
+    - Question: Which actor portrayed Neo in 'The Matrix' trilogy?
+      TrueAnswer: Keanu Reeves
+      FalseAnswer:
+      - Tom Cruise
+      - Will Smith
+      - Brad Pitt
+      Explanation: Keanu Reeves played the role of Neo, the main protagonist in 'The
+        Matrix' trilogy, known for its groundbreaking visual effects and philosophical
+        themes.
+    - Question: Which film features a planet called Pandora and the indigenous species
+        called Na'vi?
+      TrueAnswer: Avatar
+      FalseAnswer:
+      - Interstellar
+      - District 9
+      - Prometheus
+      Explanation: The film 'Avatar' directed by James Cameron is set on the lush,
+        alien world of Pandora, inhabited by the Na'vi, and explores themes of environmentalism
+        and corporate greed.
+    - Question: In 'Blade Runner', what are the replicants named after in the film?
+      TrueAnswer: Norse mythology
+      FalseAnswer:
+      - Greek mythology
+      - Roman mythology
+      - Egyptian mythology
+      Explanation: The replicants in 'Blade Runner' are named after figures from
+        Norse mythology, reflecting director Ridley Scott's intention to emphasize
+        their human-like yet mythical nature.
+    - Question: 'What is the name of the villainous artificial intelligence in ''The
+        Avengers: Age of Ultron''?'
+      TrueAnswer: Ultron
+      FalseAnswer:
+      - Thanos
+      - Loki
+      - Red Skull
+      Explanation: '''The Avengers: Age of Ultron'' features the sentient robot,
+        Ultron, as the main antagonist, created by Tony Stark with the intent to
+        protect the world but ultimately becomes a threat.'
+    - Question: What is the subtitle of the second 'Star Wars' film released in 1980?
+      TrueAnswer: The Empire Strikes Back
+      FalseAnswer:
+      - Return of the Jedi
+      - A New Hope
+      - The Phantom Menace
+      Explanation: The second 'Star Wars' film, released in 1980, is subtitled 'The
+        Empire Strikes Back,' and it is often regarded as one of the strongest entries
+        in the original trilogy.
+    - Question: Who was the original author of the short story that inspired the
+        film 'The Thing'?
+      TrueAnswer: John W. Campbell Jr.
+      FalseAnswer:
+      - Isaac Asimov
+      - Ray Bradbury
+      - Arthur C. Clarke
+      Explanation: The film 'The Thing' was based on the novella 'Who Goes There?'
+        by John W. Campbell Jr., first published in the 'Astounding Science Fiction'
+        magazine.
+    - Question: In 'Inception', what is the term used to describe the layers of dream
+        worlds?
+      TrueAnswer: Dream levels
+      FalseAnswer:
+      - Reality tiers
+      - Conscious planes
+      - Dimensional stages
+      Explanation: In the film 'Inception,' the concept of dream levels is central
+        to the plot, as the characters navigate through multiple layers of subconsciousness
+        and reality.
+    - Question: Which science fiction film is based on the works of Philip K. Dick?
+      TrueAnswer: Blade Runner
+      FalseAnswer:
+      - E.T. the Extra-Terrestrial
+      - The Fifth Element
+      - The Matrix
+      Explanation: The film 'Blade Runner' is based on Philip K. Dick's novel 'Do
+        Androids Dream of Electric Sheep?,' known for its influence on the cyberpunk
+        genre.
+    - Question: Which film features a time-traveling DeLorean car and the character
+        Marty McFly?
+      TrueAnswer: Back to the Future
+      FalseAnswer:
+      - Looper
+      - Bill & Ted's Excellent Adventure
+      - The Terminator
+      Explanation: '''Back to the Future'' showcases the iconic time-traveling DeLorean
+        and the adventures of Marty McFly, becoming a cult classic in the science
+        fiction genre.'
+    - Question: Who portrayed the character of Ripley in the 'Alien' film series?
+      TrueAnswer: Sigourney Weaver
+      FalseAnswer:
+      - Linda Hamilton
+      - Carrie Fisher
+      - Meryl Streep
+      Explanation: Sigourney Weaver portrayed the resilient and iconic character
+        of Ellen Ripley in the 'Alien' film series, becoming one of the most influential
+        heroines in sci-fi cinema.
+    - Question: What is the name of the virtual reality world in the film 'Ready
+        Player One'?
+      TrueAnswer: OASIS
+      FalseAnswer:
+      - Neuromancer
+      - The Grid
+      - The Metaverse
+      Explanation: The film 'Ready Player One' is set in the OASIS, a vast virtual
+        universe where most of the story's events and challenges take place, blending
+        elements of pop culture and gaming.
+    - Question: Who directed the 1984 science fiction film adaptation of the novel
+        'Dune'?
+      TrueAnswer: David Lynch
+      FalseAnswer:
+      - Ridley Scott
+      - George Miller
+      - Stanley Kubrick
+      Explanation: David Lynch directed the 1984 film adaptation of 'Dune,' based
+        on Frank Herbert's novel, which faced challenges in condensing the complex
+        story into a feature film format.
+    - Question: Which film features a futuristic dystopian world with a virtual reality
+        simulation called the OASIS?
+      TrueAnswer: Ready Player One
+      FalseAnswer:
+      - The Matrix
+      - Blade Runner
+      - E.T. the Extra-Terrestrial
+      Explanation: The film 'Ready Player One' presents a dystopian future where
+        the OASIS offers an escape into a virtual reality, igniting a high-stakes
+        treasure hunt within the digital realm.
+    - Question: In 'The Martian,' which planet is Mark Watney stranded on?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Mercury
+      - Venus
+      - Jupiter
+      Explanation: In 'The Martian,' astronaut Mark Watney relies on his resourcefulness
+        to survive on the hostile planet of Mars after being left behind by his crew
+        during a mission.
+    - Question: Which science fiction film features a team of explorers encountering
+        a black hole and transcendence?
+      TrueAnswer: Interstellar
+      FalseAnswer:
+      - Sunshine
+      - Event Horizon
+      - Life
+      Explanation: '''Interstellar'' directed by Christopher Nolan explores themes
+        of space exploration, time dilation, and the possibility of transcending
+        physical limitations through a black hole.'

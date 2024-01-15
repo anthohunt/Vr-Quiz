@@ -1,0 +1,128 @@
+{
+    "Mathematical Symbols and Notation": [
+        {
+            "Questions": [
+                {
+                    "Question": "What does the symbol '+' represent in mathematics?",
+                    "TrueAnswer": "Addition",
+                    "FalseAnswer": ["Subtraction", "Multiplication", "Division"],
+                    "Explanation": "The symbol '+' is used to represent addition in mathematics, where two or more numbers are combined."
+                },
+                {
+                    "Question": "What does the symbol '-' represent in mathematics?",
+                    "TrueAnswer": "Subtraction",
+                    "FalseAnswer": ["Addition", "Multiplication", "Division"],
+                    "Explanation": "The symbol '-' is used to represent subtraction in mathematics, where one number is subtracted from another."
+                },
+                {
+                    "Question": "What does the symbol '×' represent in mathematics?",
+                    "TrueAnswer": "Multiplication",
+                    "FalseAnswer": ["Addition", "Subtraction", "Division"],
+                    "Explanation": "The symbol '×' is used to represent multiplication in mathematics, where two or more numbers are multiplied."
+                },
+                {
+                    "Question": "What does the symbol '÷' represent in mathematics?",
+                    "TrueAnswer": "Division",
+                    "FalseAnswer": ["Addition", "Subtraction", "Multiplication"],
+                    "Explanation": "The symbol '÷' is used to represent division in mathematics, where one number is divided by another."
+                },
+                {
+                    "Question": "What does the symbol '=' represent in mathematics?",
+                    "TrueAnswer": "Equality",
+                    "FalseAnswer": ["Inequality", "Approximation", "Greater than"],
+                    "Explanation": "The symbol '=' is used to represent equality in mathematics, indicating that two expressions or values are the same."
+                },
+                {
+                    "Question": "What does the symbol '≠' represent in mathematics?",
+                    "TrueAnswer": "Inequality",
+                    "FalseAnswer": ["Equality", "Approximation", "Greater than"],
+                    "Explanation": "The symbol '≠' is used to represent inequality in mathematics, indicating that two expressions or values are not the same."
+                },
+                {
+                    "Question": "What does the symbol '<' represent in mathematics?",
+                    "TrueAnswer": "Less than",
+                    "FalseAnswer": ["Greater than", "Less than or equal to", "Greater than or equal to"],
+                    "Explanation": "The symbol '<' is used to represent the relationship 'less than' in mathematics, indicating that one value is smaller than another."
+                },
+                {
+                    "Question": "What does the symbol '>' represent in mathematics?",
+                    "TrueAnswer": "Greater than",
+                    "FalseAnswer": ["Less than", "Less than or equal to", "Greater than or equal to"],
+                    "Explanation": "The symbol '>' is used to represent the relationship 'greater than' in mathematics, indicating that one value is larger than another."
+                },
+                {
+                    "Question": "What does the symbol '≤' represent in mathematics?",
+                    "TrueAnswer": "Less than or equal to",
+                    "FalseAnswer": ["Greater than", "Less than", "Greater than or equal to"],
+                    "Explanation": "The symbol '≤' is used to represent the relationship 'less than or equal to' in mathematics, indicating that one value is smaller or equal to another."
+                },
+                {
+                    "Question": "What does the symbol '≥' represent in mathematics?",
+                    "TrueAnswer": "Greater than or equal to",
+                    "FalseAnswer": ["Less than", "Less than or equal to", "Greater than"],
+                    "Explanation": "The symbol '≥' is used to represent the relationship 'greater than or equal to' in mathematics, indicating that one value is larger or equal to another."
+                },
+                {
+                    "Question": "What does the symbol '∑' represent in mathematics?",
+                    "TrueAnswer": "Summation",
+                    "FalseAnswer": ["Product", "Difference", "Quotient"],
+                    "Explanation": "The symbol '∑' is used to represent summation in mathematics, indicating the sum of a series of numbers or terms."
+                },
+                {
+                    "Question": "What does the symbol '√' represent in mathematics?",
+                    "TrueAnswer": "Square root",
+                    "FalseAnswer": ["Cube root", "Exponentiation", "Factorial"],
+                    "Explanation": "The symbol '√' is used to represent the square root in mathematics, indicating the value that, when multiplied by itself, gives a specified number."
+                },
+                {
+                    "Question": "What does the symbol 'π' represent in mathematics?",
+                    "TrueAnswer": "Pi",
+                    "FalseAnswer": ["Euler's number", "Golden ratio", "Infinity"],
+                    "Explanation": "The symbol 'π' represents the mathematical constant Pi, which is the ratio of a circle's circumference to its diameter."
+                },
+                {
+                    "Question": "What does the symbol '∞' represent in mathematics?",
+                    "TrueAnswer": "Infinity",
+                    "FalseAnswer": ["Zero", "One", "Negative one"],
+                    "Explanation": "The symbol '∞' is used to represent infinity in mathematics, indicating a quantity or value that is unbounded or limitless."
+                },
+                {
+                    "Question": "What does the symbol '∠' represent in mathematics?",
+                    "TrueAnswer": "Angle",
+                    "FalseAnswer": ["Length", "Area", "Volume"],
+                    "Explanation": "The symbol '∠' is used to represent an angle in mathematics, indicating the measure of the rotation between two intersecting lines."
+                },
+                {
+                    "Question": "What does the symbol '∴' represent in mathematics?",
+                    "TrueAnswer": "Therefore",
+                    "FalseAnswer": ["Because", "If and only if", "Implies"],
+                    "Explanation": "The symbol '∴' is used to represent 'therefore' in mathematics, indicating a logical conclusion or inference."
+                },
+                {
+                    "Question": "What does the symbol '∈' represent in mathematics?",
+                    "TrueAnswer": "Belongs to",
+                    "FalseAnswer": ["Subset", "Union", "Intersection"],
+                    "Explanation": "The symbol '∈' is used to represent 'belongs to' in set theory, indicating that an element is a member of a set."
+                },
+                {
+                    "Question": "What does the symbol '∩' represent in mathematics?",
+                    "TrueAnswer": "Intersection",
+                    "FalseAnswer": ["Union", "Subset", "Belongs to"],
+                    "Explanation": "The symbol '∩' is used to represent the intersection of sets in mathematics, indicating the common elements between two or more sets."
+                },
+                {
+                    "Question": "What does the symbol '∪' represent in mathematics?",
+                    "TrueAnswer": "Union",
+                    "FalseAnswer": ["Intersection", "Subset", "Belongs to"],
+                    "Explanation": "The symbol '∪' is used to represent the union of sets in mathematics, indicating the combination of all elements from two or more sets."
+                },
+                {
+                    "Question": "What does the symbol '∅' represent in mathematics?",
+                    "TrueAnswer": "Empty set",
+                    "FalseAnswer": ["Universal set", "Subset", "Intersection"],
+                    "Explanation": "The symbol '∅' is used to represent the empty set in mathematics, indicating a set with no elements."
+                }
+            ]
+        }
+    ]
+}

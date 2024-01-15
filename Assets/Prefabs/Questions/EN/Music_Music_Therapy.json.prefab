@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3306635961421921624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7766182444254556584}
+  - component: {fileID: 812817826072852108}
+  m_Layer: 0
+  m_Name: Music_Music_Therapy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7766182444254556584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3306635961421921624}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &812817826072852108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3306635961421921624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: How does music therapy benefit mental health?
+      TrueAnswer: Relieves stress
+      FalseAnswer:
+      - Induces anxiety
+      - Worsens depression
+      - Causes agitation
+      Explanation: Music therapy has been shown to reduce stress and anxiety levels,
+        improve mood, and enhance overall mental well-being.
+    - Question: What instruments are commonly used in music therapy sessions?
+      TrueAnswer: Piano
+      FalseAnswer:
+      - Violin
+      - Flute
+      - Trumpet
+      Explanation: The piano is a versatile instrument with a wide range of expressive
+        capabilities, making it suitable for varied therapeutic purposes.
+    - Question: Is music therapy only suitable for adults?
+      TrueAnswer: False
+      FalseAnswer:
+      - True
+      - Depends on gender
+      - Depends on occupation
+      Explanation: Music therapy can be beneficial for people of all ages, from infants
+        to senior citizens, and can address diverse developmental and clinical needs.
+    - Question: What psychological conditions can music therapy help alleviate?
+      TrueAnswer: Anxiety disorders
+      FalseAnswer:
+      - Broken bones
+      - Asthma
+      - Vision impairment
+      Explanation: Music therapy interventions can effectively reduce symptoms of
+        various anxiety disorders and promote relaxation and emotional regulation.
+    - Question: What role does the music therapist play in a session?
+      TrueAnswer: Facilitates expression
+      FalseAnswer:
+      - Forces silence
+      - Dictates emotions
+      - Corporal punishment
+      Explanation: A music therapist fosters a safe and supportive environment, encourages
+        emotional release, and guides clients to communicate through music.
+    - Question: Can music therapy help improve communication skills?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - No impact
+      - Induces mutism
+      - Increases isolation
+      Explanation: Music therapy interventions can aid in the development and enhancement
+        of verbal and nonverbal communication abilities.
+    - Question: What physiological benefits can be derived from music therapy?
+      TrueAnswer: Reduced heart rate
+      FalseAnswer:
+      - Increased blood pressure
+      - Impaired respiratory function
+      - Unchanged stress hormone levels
+      Explanation: Music interventions have been linked to decreased heart rate,
+        lowered blood pressure, and improved respiratory and circulatory functions.
+    - Question: Name a major focus of music therapy for individuals with autism spectrum
+        disorder.
+      TrueAnswer: Sensory processing
+      FalseAnswer:
+      - Mathematical reasoning
+      - Choreography
+      - Linguistic mastery
+      Explanation: Sensory processing is a key area of focus in music therapy to
+        address sensory sensitivities and enhance sensory integration in individuals
+        with autism.
+    - Question: What aspect of music contributes to its therapeutic effects?
+      TrueAnswer: Rhythmic elements
+      FalseAnswer:
+      - Visual elements
+      - Tactile elements
+      - Aromatic elements
+      Explanation: Rhythm in music plays a vital role in facilitating motor coordination,
+        promoting relaxation, and structuring therapeutic activities and exercises.
+    - Question: Is music therapy primarily a passive listening experience?
+      TrueAnswer: False
+      FalseAnswer:
+      - True
+      - Depends on the weather
+      - Depends on the volume
+      Explanation: Music therapy involves active engagement, such as singing, playing
+        instruments, movement to music, and creating and analyzing music.
+    - Question: Can music therapy support pain management?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - Exacerbates pain
+      - Leads to addiction
+      - Induces hallucinations
+      Explanation: Music therapy can help reduce perceived pain levels, promote relaxation,
+        and distract from discomfort through music-induced analgesia.
+    - Question: What is the focus of Nordoff-Robbins music therapy approach?
+      TrueAnswer: Improvisation
+      FalseAnswer:
+      - Choir singing
+      - Music theory exams
+      - Digital music production
+      Explanation: Nordoff-Robbins approach prioritizes improvisational music-making
+        as a means to foster creativity, expression, and emotional connection in
+        therapy.
+    - Question: Can music therapy benefit individuals with traumatic brain injuries?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - Causes memory loss
+      - Worsens coordination
+      - Leads to seizures
+      Explanation: Music therapy interventions can address cognitive, motor, and
+        emotional impairments and aid in the rehabilitation and recovery process
+        for individuals with traumatic brain injuries.
+    - Question: Does music therapy have cultural and cross-cultural applications?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - Limits cultural exchange
+      - Isolationist approach
+      - Promotes ethnocentrism
+      Explanation: Music therapy embraces diverse musical traditions, adapts to cultural
+        preferences, and can effectively bridge communication and understanding across
+        different cultural contexts.
+    - Question: How is music therapy integrated into palliative care?
+      TrueAnswer: Enhances quality of life
+      FalseAnswer:
+      - Increases terminal agitation
+      - Promotes fear of death
+      - Dilutes emotional support
+      Explanation: Music therapy can provide comfort, emotional support, and existential
+        exploration, contributing to improved quality of life and well-being for
+        individuals receiving palliative care.
+    - Question: Can music therapy be tailored for specific developmental disabilities?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - Excludes individuals with disabilities
+      - Impedes cognitive development
+      - Stigmatizes disability
+      Explanation: Music therapy interventions can be customized to address the unique
+        needs, strengths, and challenges of individuals with developmental disabilities,
+        fostering holistic development.
+    - Question: What is the primary goal of music therapy for individuals with dementia?
+      TrueAnswer: Recollection
+      FalseAnswer:
+      - Erosion of memory
+      - Disorientation
+      - Social withdrawal
+      Explanation: Music therapy aims to evoke memories, stimulate cognitive function,
+        and enhance emotional engagement, leading to improved social interaction
+        and well-being for individuals with dementia.
+    - Question: Can music therapy assist in improving motor skills in patients with
+        neurological conditions?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - Freezes motor function
+      - Induces muscular dystrophy
+      - Amplifies spasticity
+      Explanation: Music interventions can target gait, balance, coordination, and
+        fine motor skills and support neuroplastic changes in patients with neurological
+        conditions.
+    - Question: How can music therapy address emotional expression in trauma survivors?
+      TrueAnswer: Facilitates catharsis
+      FalseAnswer:
+      - Triggers repressed emotions
+      - Promotes emotional detachment
+      - Induces emotional numbness
+      Explanation: Music therapy provides a nonverbal outlet for expressing and processing
+        emotions, fostering release and emotional integration in trauma survivors.
+    - Question: What is the influence of tempo in music therapy interventions?
+      TrueAnswer: Affects arousal levels
+      FalseAnswer:
+      - Affects sleeping patterns
+      - Affects appetite
+      - Affects hair growth
+      Explanation: Tempo selection in music can modulate arousal, energy levels,
+        and emotional states, providing a tool for regulating physiological and psychological
+        responses in therapy.

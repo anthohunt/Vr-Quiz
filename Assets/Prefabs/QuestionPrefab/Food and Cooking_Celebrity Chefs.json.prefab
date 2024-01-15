@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7642791006522074376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6041048131856710551}
+  - component: {fileID: 976109023416849760}
+  m_Layer: 0
+  m_Name: Food and Cooking_Celebrity Chefs.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6041048131856710551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7642791006522074376}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &976109023416849760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7642791006522074376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the host of the TV show 'Hell's Kitchen'?
+      TrueAnswer: Gordon Ramsay
+      FalseAnswer:
+      - Jamie Oliver
+      - Bobby Flay
+      - Anthony Bourdain
+      Explanation: Gordon Ramsay is the renowned British chef known for his fiery
+        personality and culinary expertise.
+    - Question: Which celebrity chef is known for her Italian cuisine?
+      TrueAnswer: Giada De Laurentiis
+      FalseAnswer:
+      - Ina Garten
+      - Nigella Lawson
+      - Rachael Ray
+      Explanation: Giada De Laurentiis is an Italian-American chef and television
+        personality, specializing in Italian cuisine.
+    - Question: Who is the chef behind the famous restaurant 'The French Laundry'?
+      TrueAnswer: Thomas Keller
+      FalseAnswer:
+      - Wolfgang Puck
+      - Emeril Lagasse
+      - Mario Batali
+      Explanation: Thomas Keller is an American chef and restaurateur, known for
+        his Michelin-starred restaurant 'The French Laundry'.
+    - Question: Which celebrity chef is known for his Mexican cuisine?
+      TrueAnswer: Rick Bayless
+      FalseAnswer:
+      - Gordon Ramsay
+      - Bobby Flay
+      - Anthony Bourdain
+      Explanation: Rick Bayless is an American chef and television personality, specializing
+        in Mexican cuisine.
+    - Question: Who is the host of the TV show 'MasterChef'?
+      TrueAnswer: Gordon Ramsay
+      FalseAnswer:
+      - Jamie Oliver
+      - Bobby Flay
+      - Anthony Bourdain
+      Explanation: Gordon Ramsay is the renowned British chef known for his role
+        as the host of 'MasterChef'.
+    - Question: Which celebrity chef is known for his barbecue expertise?
+      TrueAnswer: Bobby Flay
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Rachael Ray
+      Explanation: Bobby Flay is an American chef and television personality, known
+        for his expertise in barbecue cooking.
+    - Question: Who is the chef behind the famous restaurant 'Per Se'?
+      TrueAnswer: Thomas Keller
+      FalseAnswer:
+      - Wolfgang Puck
+      - Emeril Lagasse
+      - Mario Batali
+      Explanation: Thomas Keller is an American chef and restaurateur, known for
+        his Michelin-starred restaurant 'Per Se'.
+    - Question: Which celebrity chef is known for her comfort food recipes?
+      TrueAnswer: Ina Garten
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Nigella Lawson
+      - Rachael Ray
+      Explanation: Ina Garten, also known as the Barefoot Contessa, is a celebrity
+        chef known for her comforting and delicious recipes.
+    - Question: Who is the host of the TV show 'Parts Unknown'?
+      TrueAnswer: Anthony Bourdain
+      FalseAnswer:
+      - Jamie Oliver
+      - Bobby Flay
+      - Gordon Ramsay
+      Explanation: Anthony Bourdain was a renowned American chef, author, and television
+        personality, known for his show 'Parts Unknown'.
+    - Question: Which celebrity chef is known for his Italian-American cuisine?
+      TrueAnswer: Mario Batali
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Rachael Ray
+      Explanation: Mario Batali is an American chef and restaurateur, known for his
+        Italian-American cuisine.
+    - Question: Who is the host of the TV show 'Jamie's 30 Minute Meals'?
+      TrueAnswer: Jamie Oliver
+      FalseAnswer:
+      - Gordon Ramsay
+      - Bobby Flay
+      - Anthony Bourdain
+      Explanation: Jamie Oliver is a British chef and television personality, known
+        for his show 'Jamie's 30 Minute Meals'.
+    - Question: Which celebrity chef is known for her baking expertise?
+      TrueAnswer: Nigella Lawson
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Rachael Ray
+      Explanation: Nigella Lawson is an English food writer and television personality,
+        known for her baking skills.
+    - Question: Who is the chef behind the famous restaurant 'Spago'?
+      TrueAnswer: Wolfgang Puck
+      FalseAnswer:
+      - Thomas Keller
+      - Emeril Lagasse
+      - Mario Batali
+      Explanation: Wolfgang Puck is an Austrian-American chef and restaurateur, known
+        for his restaurant 'Spago'.
+    - Question: Which celebrity chef is known for her quick and easy recipes?
+      TrueAnswer: Rachael Ray
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Nigella Lawson
+      Explanation: Rachael Ray is an American television personality and chef, known
+        for her quick and easy recipes.
+    - Question: Who is the host of the TV show 'Kitchen Nightmares'?
+      TrueAnswer: Gordon Ramsay
+      FalseAnswer:
+      - Jamie Oliver
+      - Bobby Flay
+      - Anthony Bourdain
+      Explanation: Gordon Ramsay is the renowned British chef known for his role
+        as the host of 'Kitchen Nightmares'.
+    - Question: Which celebrity chef is known for his Cajun and Creole cuisine?
+      TrueAnswer: Emeril Lagasse
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Rachael Ray
+      Explanation: Emeril Lagasse is an American chef, restaurateur, and television
+        personality, known for his Cajun and Creole cuisine.
+    - Question: Who is the chef behind the famous restaurant 'Momofuku'?
+      TrueAnswer: David Chang
+      FalseAnswer:
+      - Thomas Keller
+      - Wolfgang Puck
+      - Mario Batali
+      Explanation: David Chang is a Korean-American chef and restaurateur, known
+        for his restaurant group 'Momofuku'.
+    - Question: Which celebrity chef is known for his fusion cuisine?
+      TrueAnswer: Roy Choi
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Rachael Ray
+      Explanation: Roy Choi is a Korean-American chef and entrepreneur, known for
+        his fusion cuisine.
+    - Question: Who is the host of the TV show 'No Reservations'?
+      TrueAnswer: Anthony Bourdain
+      FalseAnswer:
+      - Jamie Oliver
+      - Bobby Flay
+      - Gordon Ramsay
+      Explanation: Anthony Bourdain was a renowned American chef, author, and television
+        personality, known for his show 'No Reservations'.
+    - Question: Which celebrity chef is known for his farm-to-table philosophy?
+      TrueAnswer: Dan Barber
+      FalseAnswer:
+      - Giada De Laurentiis
+      - Ina Garten
+      - Rachael Ray
+      Explanation: Dan Barber is an American chef and author, known for his farm-to-table
+        philosophy and sustainable cooking.

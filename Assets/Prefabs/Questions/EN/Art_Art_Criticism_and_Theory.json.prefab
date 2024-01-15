@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4633913096444636917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5577066367853374589}
+  - component: {fileID: 1688826457280890345}
+  m_Layer: 0
+  m_Name: Art_Art_Criticism_and_Theory.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5577066367853374589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4633913096444636917}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1688826457280890345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4633913096444636917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What influential art movement was founded by Marcel Duchamp?
+      TrueAnswer: Dadaism
+      FalseAnswer:
+      - Surrealism
+      - Cubism
+      - Fauvism
+      Explanation: Dadaism, founded in 1916, rejected traditional art values and
+        sought to provoke social and artistic revolution.
+    - Question: What concept did Walter Benjamin discuss in his influential essay
+        'The Work of Art in the Age of Mechanical Reproduction'?
+      TrueAnswer: Aura
+      FalseAnswer:
+      - Simulacra
+      - Sublime
+      - Iconoclasm
+      Explanation: Benjamin's essay explores the loss of an artwork's 'aura' in the
+        age of mass reproduction and consumption.
+    - Question: Who coined the term 'readymade' to describe everyday objects transformed
+        into art?
+      TrueAnswer: Marcel Duchamp
+      FalseAnswer:
+      - Salvador Dali
+      - Pablo Picasso
+      - Jackson Pollock
+      Explanation: Duchamp introduced the notion of 'readymade' objects as art in
+        the early 20th century, challenging traditional artistic conventions.
+    - Question: Which art critic co-curated the influential 1966 'Primary Structures'
+        exhibition at the Jewish Museum, New York?
+      TrueAnswer: Clement Greenberg
+      FalseAnswer:
+      - Harold Rosenberg
+      - Rosie Rockel
+      - Linda Nochlin
+      Explanation: Greenberg, known for his championing of Abstract Expressionism,
+        played an important role in shaping modern art discourse through this exhibition.
+    - Question: What term describes the technique of creating a composition from
+        disparate visual elements?
+      TrueAnswer: Collage
+      FalseAnswer:
+      - Monochrome
+      - Impasto
+      - Stippling
+      Explanation: Collage, popularized by Cubist artists such as Picasso and Braque,
+        revolutionized traditional artistic methods in the early 20th century.
+    - Question: Which writer is known for the concept of 'the gaze' in relation to
+        visual arts?
+      TrueAnswer: Jacques Lacan
+      FalseAnswer:
+      - Roland Barthes
+      - Walter Benjamin
+      - Michel Foucault
+      Explanation: Lacan's psychoanalytic theory of 'the gaze' explores the power
+        dynamics and subject-object relationships in the act of looking in art.
+    - Question: What theory explores the ways in which power dynamics and identity
+        are represented through visual arts?
+      TrueAnswer: Postcolonialism
+      FalseAnswer:
+      - Feminism
+      - Marxism
+      - Structuralism
+      Explanation: Postcolonial theory examines how colonial histories and power
+        imbalances manifest in art, challenging Eurocentric narratives.
+    - Question: Who is considered the father of art history and authored the influential
+        work 'Lives of the Artists'?
+      TrueAnswer: Giorgio Vasari
+      FalseAnswer:
+      - Leon Battista Alberti
+      - Johann Joachim Winckelmann
+      - Gustav Friedrich Waagen
+      Explanation: Vasari's biographies of Renaissance artists established the foundations
+        of art historical scholarship and the concept of artistic genius.
+    - Question: What style of art critique emphasizes the importance of formal elements
+        and aesthetic qualities?
+      TrueAnswer: Formalism
+      FalseAnswer:
+      - Semiotics
+      - Deconstruction
+      - Critical Theory
+      Explanation: Formalism focuses on the intrinsic qualities of art and how they
+        contribute to its meaning and interpretation apart from external considerations.
+    - Question: Who formulated the concept of 'institutional critique' focusing on
+        critiquing power relations within art institutions?
+      TrueAnswer: Hans Haacke
+      FalseAnswer:
+      - Marcel Broodthaers
+      - Daniel Buren
+      - Lawrence Weiner
+      Explanation: Haacke's works examined the entwinement of art and politics, critiquing
+        systemic power dynamics embedded within art institutions.
+    - Question: What term describes viewing art based on one's own subjective experiences
+        and emotions?
+      TrueAnswer: Aestheticism
+      FalseAnswer:
+      - Realism
+      - Pluralism
+      - Minimalism
+      Explanation: Aestheticism advocates for focusing on the sensory and emotional
+        elements of art, often valuing beauty and pleasure in aesthetic experience.
+    - Question: What is the Soviet art criticism approach known for depicting art
+        as a tool for propaganda and social change?
+      TrueAnswer: Socialist Realism
+      FalseAnswer:
+      - Constructivism
+      - Suprematism
+      - Futurism
+      Explanation: Socialist Realism promoted the idealized depiction of communist
+        values and everyday life, aligning art with Soviet ideological agendas.
+    - Question: Who is known for the influential concept of the 'end of art' in the
+        postmodern context?
+      TrueAnswer: Arthur Danto
+      FalseAnswer:
+      - Theodor Adorno
+      - Maurice Merleau-Ponty
+      - Martin Heidegger
+      Explanation: Danto's thesis argued that art had lost its traditional purpose
+        and distinctiveness, blurring the boundaries between art and non-art objects.
+    - Question: What concept refers to the belief that all art is inherently political
+        and shaped by power dynamics?
+      TrueAnswer: Art as Political
+      FalseAnswer:
+      - Art for Art's Sake
+      - Art as Expression
+      - Art for Social Change
+      Explanation: The concept asserts that art cannot be detached from political
+        influence and that its production and reception are entwined with power dynamics.
+    - Question: Which art theorist proposed the concept of 'decolonial aesthetics'
+        to challenge Eurocentric art histories?
+      TrueAnswer: Walter Mignolo
+      FalseAnswer:
+      - Gayatri Chakravorty Spivak
+      - Edward Said
+      - Hommi Bhabha
+      Explanation: Mignolo's decolonial approach aims to diversify and decolonize
+        knowledge production in art, fostering global aesthetic perspectives and
+        narratives.
+    - Question: What is the process of interpreting and assigning meaning to artworks
+        known as in art criticism?
+      TrueAnswer: Interpretation
+      FalseAnswer:
+      - Documentation
+      - Assimilation
+      - Reproduction
+      Explanation: Interpretation involves analyzing artistic content and context
+        to unveil underlying meanings, enabling viewers to engage with artworks on
+        multiple levels.
+    - Question: Who is known for the influential concept of the 'four levels of art
+        interpretation'?
+      TrueAnswer: E.H. Gombrich
+      FalseAnswer:
+      - John Dewey
+      - Suzi Gablik
+      - Clifford Geertz
+      Explanation: Gombrich's levels encompass external form, content, subject matter,
+        and expression, providing a comprehensive framework for approaching artworks.
+    - Question: What theory emphasizes the role of social context in determining
+        the meaning of art?
+      TrueAnswer: Sociological Theory
+      FalseAnswer:
+      - Psychoanalytic Theory
+      - Gestalt Theory
+      - Aesthetic Theory
+      Explanation: Sociological theory examines how social, cultural, and historical
+        contexts shape the production and reception of art and its significance.
+    - Question: Which concept focuses on examining how an artwork's meaning changes
+        over time and in different contexts?
+      TrueAnswer: Reception Theory
+      FalseAnswer:
+      - Gaze Theory
+      - Semiotic Theory
+      - Phenomenology
+      Explanation: Reception theory explores the dynamic and evolving interpretations
+        of artworks, influenced by the diverse perspectives of viewers across time
+        and space.
+    - Question: Who is credited with the influential concept of 'the death of the
+        author', emphasizing the role of the reader in creating meaning?
+      TrueAnswer: Roland Barthes
+      FalseAnswer:
+      - Michel Foucault
+      - Jacques Derrida
+      - "Jean-Fran\xE7ois Lyotard"
+      Explanation: Barthes's argument dismantles the authority of the author and
+        emphasizes the reader's active role in interpreting and reinterpreting texts
+        and artworks.

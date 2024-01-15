@@ -1,0 +1,128 @@
+{
+    "Extreme Sports": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the most popular extreme sport in the world?",
+                    "TrueAnswer": "Snowboarding",
+                    "FalseAnswer": ["Skateboarding", "Surfing", "Bungee jumping"],
+                    "Explanation": "Snowboarding is a winter sport that involves descending a snow-covered slope on a snowboard."
+                },
+                {
+                    "Question": "Which extreme sport involves jumping off a high platform with a parachute?",
+                    "TrueAnswer": "Base jumping",
+                    "FalseAnswer": ["Skydiving", "Bungee jumping", "Wingsuit flying"],
+                    "Explanation": "Base jumping is an extreme sport where participants jump from fixed objects and use a parachute to slow their descent."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a board on water and being pulled by a kite?",
+                    "TrueAnswer": "Kiteboarding",
+                    "FalseAnswer": ["Wakeboarding", "Surfing", "Windsurfing"],
+                    "Explanation": "Kiteboarding, also known as kitesurfing, combines elements of wakeboarding, surfing, and windsurfing."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a bicycle on a narrow beam or rail?",
+                    "TrueAnswer": "Bike trials",
+                    "FalseAnswer": ["BMX racing", "Mountain biking", "Downhill biking"],
+                    "Explanation": "Bike trials is a discipline of cycling where riders navigate through obstacle courses on a specialized bike."
+                },
+                {
+                    "Question": "Which extreme sport involves climbing up vertical rock formations without the use of ropes?",
+                    "TrueAnswer": "Free soloing",
+                    "FalseAnswer": ["Rock climbing", "Bouldering", "Sport climbing"],
+                    "Explanation": "Free soloing is a form of rock climbing where climbers ascend without the use of ropes or protective equipment."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a small board down a steep slope covered in snow?",
+                    "TrueAnswer": "Snowboarding",
+                    "FalseAnswer": ["Skiing", "Snowmobiling", "Ice climbing"],
+                    "Explanation": "Snowboarding is a winter sport that involves descending a snow-covered slope on a snowboard."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a skateboard on a halfpipe and performing tricks?",
+                    "TrueAnswer": "Skateboarding",
+                    "FalseAnswer": ["Longboarding", "Rollerblading", "Scootering"],
+                    "Explanation": "Skateboarding is a sport where participants ride a skateboard and perform various tricks and maneuvers."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a surfboard and catching waves?",
+                    "TrueAnswer": "Surfing",
+                    "FalseAnswer": ["Paddleboarding", "Windsurfing", "Bodyboarding"],
+                    "Explanation": "Surfing is a water sport where participants ride a surfboard and catch waves to ride towards the shore."
+                },
+                {
+                    "Question": "Which extreme sport involves jumping off a high structure while attached to an elastic cord?",
+                    "TrueAnswer": "Bungee jumping",
+                    "FalseAnswer": ["Paragliding", "Hang gliding", "Ziplining"],
+                    "Explanation": "Bungee jumping is an activity where participants jump from a tall structure while connected to an elastic cord."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a small sled down an icy track at high speeds?",
+                    "TrueAnswer": "Skeleton",
+                    "FalseAnswer": ["Luge", "Bobsleigh", "Ice climbing"],
+                    "Explanation": "Skeleton is a winter sport where participants ride a small sled down an icy track, headfirst and facing down."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a bicycle down a steep slope with obstacles?",
+                    "TrueAnswer": "Downhill mountain biking",
+                    "FalseAnswer": ["Road cycling", "Cyclocross", "BMX racing"],
+                    "Explanation": "Downhill mountain biking is a discipline of mountain biking where riders descend steep slopes with obstacles."
+                },
+                {
+                    "Question": "Which extreme sport involves jumping off a cliff and gliding through the air using a wingsuit?",
+                    "TrueAnswer": "Wingsuit flying",
+                    "FalseAnswer": ["Paragliding", "Hang gliding", "Skydiving"],
+                    "Explanation": "Wingsuit flying is a sport where participants wear a special suit that allows them to glide through the air after jumping from a high point."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a small sled down a track of ice while lying face-first?",
+                    "TrueAnswer": "Luge",
+                    "FalseAnswer": ["Skeleton", "Bobsleigh", "Snowmobiling"],
+                    "Explanation": "Luge is a winter sport where participants ride a small sled down an icy track while lying face-first and feet-first."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a small sled down a track of ice with a team?",
+                    "TrueAnswer": "Bobsleigh",
+                    "FalseAnswer": ["Skeleton", "Luge", "Snowboarding"],
+                    "Explanation": "Bobsleigh is a winter sport where teams of two or four participants ride a sled down an icy track."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a board on water and using a kite for propulsion?",
+                    "TrueAnswer": "Windsurfing",
+                    "FalseAnswer": ["Kiteboarding", "Surfing", "Wakeboarding"],
+                    "Explanation": "Windsurfing is a water sport where participants ride a board and use a sail attached to the board for propulsion."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a small sled down a track of ice while lying on their back?",
+                    "TrueAnswer": "Skeleton",
+                    "FalseAnswer": ["Luge", "Bobsleigh", "Snowboarding"],
+                    "Explanation": "Skeleton is a winter sport where participants ride a small sled down an icy track while lying on their back and facing down."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a bicycle on a dirt track with jumps and obstacles?",
+                    "TrueAnswer": "BMX racing",
+                    "FalseAnswer": ["Mountain biking", "Cyclocross", "Road cycling"],
+                    "Explanation": "BMX racing is a form of off-road bicycle racing on a dirt track with jumps and obstacles."
+                },
+                {
+                    "Question": "Which extreme sport involves climbing up artificial walls using holds and ropes?",
+                    "TrueAnswer": "Sport climbing",
+                    "FalseAnswer": ["Rock climbing", "Bouldering", "Free soloing"],
+                    "Explanation": "Sport climbing is a form of rock climbing where participants ascend artificial walls using holds and ropes for protection."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a small sled down a track of ice while lying on their stomach?",
+                    "TrueAnswer": "Luge",
+                    "FalseAnswer": ["Skeleton", "Bobsleigh", "Snowboarding"],
+                    "Explanation": "Luge is a winter sport where participants ride a small sled down an icy track while lying on their stomach and facing up."
+                },
+                {
+                    "Question": "Which extreme sport involves riding a board on water and being pulled by a boat?",
+                    "TrueAnswer": "Wakeboarding",
+                    "FalseAnswer": ["Kiteboarding", "Surfing", "Windsurfing"],
+                    "Explanation": "Wakeboarding is a water sport where participants ride a board and are pulled by a boat."
+                }
+            ]
+        }
+    ]
+}

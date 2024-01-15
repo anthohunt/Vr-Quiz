@@ -1,0 +1,218 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the main goal of robotics?",
+          "TrueAnswer": "Automation",
+          "FalseAnswer": [
+            "Entertainment",
+            "Education",
+            "Transportation"
+          ],
+          "Explanation": "The main goal of robotics is to achieve automation, reducing human intervention in tasks."
+        },
+        {
+          "Question": "What is the study of robots called?",
+          "TrueAnswer": "Robotics",
+          "FalseAnswer": [
+            "Automationics",
+            "Mechanics",
+            "Cybernetics"
+          ],
+          "Explanation": "The study of robots is called robotics, involving their design, construction, and operation."
+        },
+        {
+          "Question": "What is the term for a robot that resembles a human?",
+          "TrueAnswer": "Humanoid",
+          "FalseAnswer": [
+            "Android",
+            "Cyborg",
+            "Automaton"
+          ],
+          "Explanation": "A robot that resembles a human is called a humanoid, imitating human form and behavior."
+        },
+        {
+          "Question": "What is the field that focuses on making machines intelligent?",
+          "TrueAnswer": "Artificial Intelligence",
+          "FalseAnswer": [
+            "Machine Learning",
+            "Computer Vision",
+            "Natural Language Processing"
+          ],
+          "Explanation": "The field that focuses on making machines intelligent is artificial intelligence, enabling robots to learn and adapt."
+        },
+        {
+          "Question": "What is the process of a robot learning from its own experiences?",
+          "TrueAnswer": "Reinforcement Learning",
+          "FalseAnswer": [
+            "Supervised Learning",
+            "Unsupervised Learning",
+            "Deep Learning"
+          ],
+          "Explanation": "The process of a robot learning from its own experiences is called reinforcement learning, using rewards and punishments."
+        },
+        {
+          "Question": "What is the term for a robot that operates underwater?",
+          "TrueAnswer": "Submersible",
+          "FalseAnswer": [
+            "Aerial",
+            "Terrestrial",
+            "Spacecraft"
+          ],
+          "Explanation": "A robot that operates underwater is called a submersible, designed for exploration or maintenance tasks."
+        },
+        {
+          "Question": "What is the study of how robots interact with their environment?",
+          "TrueAnswer": "Robotics Perception",
+          "FalseAnswer": [
+            "Robotics Navigation",
+            "Robotics Manipulation",
+            "Robotics Planning"
+          ],
+          "Explanation": "The study of how robots interact with their environment is called robotics perception, involving sensing and understanding."
+        },
+        {
+          "Question": "What is the term for a robot that is controlled remotely by a human?",
+          "TrueAnswer": "Teleoperated",
+          "FalseAnswer": [
+            "Autonomous",
+            "Semi-Autonomous",
+            "Preprogrammed"
+          ],
+          "Explanation": "A robot that is controlled remotely by a human is called teleoperated, allowing remote operation and control."
+        },
+        {
+          "Question": "What is the field that focuses on the design of robot systems?",
+          "TrueAnswer": "Robotics Engineering",
+          "FalseAnswer": [
+            "Robotics Programming",
+            "Robotics Maintenance",
+            "Robotics Research"
+          ],
+          "Explanation": "The field that focuses on the design of robot systems is robotics engineering, involving mechanical and electrical aspects."
+        },
+        {
+          "Question": "What is the term for a robot that can perform tasks without human intervention?",
+          "TrueAnswer": "Autonomous",
+          "FalseAnswer": [
+            "Collaborative",
+            "Assistive",
+            "Interactive"
+          ],
+          "Explanation": "A robot that can perform tasks without human intervention is called autonomous, relying on its own decision-making capabilities."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to assist humans?",
+          "TrueAnswer": "Collaborative",
+          "FalseAnswer": [
+            "Industrial",
+            "Medical",
+            "Military"
+          ],
+          "Explanation": "A robot that is designed to assist humans is called collaborative, working alongside humans in a shared workspace."
+        },
+        {
+          "Question": "What is the term for a robot that is programmed to perform a specific task?",
+          "TrueAnswer": "Specialized",
+          "FalseAnswer": [
+            "General-purpose",
+            "Versatile",
+            "Adaptive"
+          ],
+          "Explanation": "A robot that is programmed to perform a specific task is called specialized, focusing on a particular function or operation."
+        },
+        {
+          "Question": "What is the term for a robot that can adapt to different situations?",
+          "TrueAnswer": "Flexible",
+          "FalseAnswer": [
+            "Rigid",
+            "Stiff",
+            "Inflexible"
+          ],
+          "Explanation": "A robot that can adapt to different situations is called flexible, capable of adjusting its behavior or shape."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to mimic animal behavior?",
+          "TrueAnswer": "Biomimetic",
+          "FalseAnswer": [
+            "Mechatronic",
+            "Cybernetic",
+            "Robotic"
+          ],
+          "Explanation": "A robot that is designed to mimic animal behavior is called biomimetic, imitating biological systems and structures."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to perform surgery?",
+          "TrueAnswer": "Surgical",
+          "FalseAnswer": [
+            "Medical",
+            "Diagnostic",
+            "Therapeutic"
+          ],
+          "Explanation": "A robot that is designed to perform surgery is called surgical, assisting surgeons in precise and minimally invasive procedures."
+        },
+        {
+          "Question": "What is the term for a robot that is designed for military applications?",
+          "TrueAnswer": "Military",
+          "FalseAnswer": [
+            "Security",
+            "Surveillance",
+            "Exploration"
+          ],
+          "Explanation": "A robot that is designed for military applications is called military, used for tasks such as reconnaissance or bomb disposal."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to explore outer space?",
+          "TrueAnswer": "Spacecraft",
+          "FalseAnswer": [
+            "Satellite",
+            "Rover",
+            "Astronaut"
+          ],
+          "Explanation": "A robot that is designed to explore outer space is called a spacecraft, used for missions beyond Earth's atmosphere."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to assist in household chores?",
+          "TrueAnswer": "Domestic",
+          "FalseAnswer": [
+            "Industrial",
+            "Commercial",
+            "Agricultural"
+          ],
+          "Explanation": "A robot that is designed to assist in household chores is called domestic, helping with tasks like cleaning or cooking."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to perform repetitive tasks in a factory?",
+          "TrueAnswer": "Industrial",
+          "FalseAnswer": [
+            "Service",
+            "Entertainment",
+            "Research"
+          ],
+          "Explanation": "A robot that is designed to perform repetitive tasks in a factory is called industrial, increasing efficiency and productivity."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to assist in medical procedures?",
+          "TrueAnswer": "Medical",
+          "FalseAnswer": [
+            "Therapeutic",
+            "Diagnostic",
+            "Rehabilitation"
+          ],
+          "Explanation": "A robot that is designed to assist in medical procedures is called medical, aiding in surgeries or patient care."
+        },
+        {
+          "Question": "What is the term for a robot that is designed to perform tasks in hazardous environments?",
+          "TrueAnswer": "Robotic",
+          "FalseAnswer": [
+            "Safety",
+            "Protective",
+            "Secure"
+          ],
+          "Explanation": "A robot that is designed to perform tasks in hazardous environments is called robotic, ensuring human safety."
+        }
+      ]
+    }
+  ]
+}

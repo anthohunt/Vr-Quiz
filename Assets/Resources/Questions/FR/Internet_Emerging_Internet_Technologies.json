@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la fonction principale de la technologie de la blockchain ?",
+            "TrueAnswer": "Registre décentralisé",
+            "FalseAnswer": [
+              "Base de données centralisée",
+              "Messagerie peer-to-peer",
+              "Stockage en cloud"
+            ],
+            "Explanation": "La fonction principale de la technologie de la blockchain est de permettre l'enregistrement décentralisé, sécurisé et transparent des transactions ou des données, sans avoir besoin d'une autorité centrale ou d'un intermédiaire."
+          },
+          {
+            "Question": "Quel langage de programmation est couramment utilisé pour développer des smart contracts sur Ethereum ?",
+            "TrueAnswer": "Solidity",
+            "FalseAnswer": [
+              "Python",
+              "Java",
+              "C++"
+            ],
+            "Explanation": "Solidity est un langage de programmation spécialement conçu pour écrire des smart contracts sur la blockchain Ethereum. Il a une syntaxe similaire à JavaScript et C++."
+          },
+          {
+            "Question": "Quel est le but d'IPFS dans le contexte du stockage de fichiers décentralisé ?",
+            "TrueAnswer": "Système de fichiers distribué",
+            "FalseAnswer": [
+              "Stockage en cloud basé sur serveur",
+              "Partage de fichiers peer-to-peer",
+              "Sauvegarde de données centralisée"
+            ],
+            "Explanation": "IPFS (InterPlanetary File System) est un protocole et un réseau conçu pour créer une méthode distribuée de stockage et d'accès aux fichiers, le rendant résistant à la censure et aux points de défaillance uniques."
+          },
+          {
+            "Question": "Quel algorithme de consensus est utilisé par le réseau Ethereum en 2021 ?",
+            "TrueAnswer": "Preuve d'enjeu (PoS)",
+            "FalseAnswer": [
+              "Preuve de travail (PoW)",
+              "Preuve d'enjeu déléguée (DPoS)",
+              "Tolérance aux fautes byzantines (BFT)"
+            ],
+            "Explanation": "Ethereum est en train de passer de la preuve de travail à la preuve d'enjeu, un algorithme de consensus plus économe en énergie qui offre des récompenses aux validateurs pour la création et la vérification de nouveaux blocs."
+          },
+          {
+            "Question": "Quel est le principal avantage d'utiliser un VPN décentralisé (dVPN) par rapport à un VPN traditionnel ?",
+            "TrueAnswer": "Confidentialité et sécurité améliorées",
+            "FalseAnswer": [
+              "Vitesse plus rapide",
+              "Coût inférieur",
+              "Accès au contenu géo-bloqué"
+            ],
+            "Explanation": "Les VPN décentralisés exploitent la technologie de la blockchain pour fournir une confidentialité et une sécurité améliorées en éliminant le besoin de serveurs centraux, réduisant ainsi le risque de violations de données et d'accès non autorisé aux informations des utilisateurs."
+          },
+          {
+            "Question": "Quelle technologie émergente vise à permettre l'exécution automatisée et sans confiance d'accords et de contrats ?",
+            "TrueAnswer": "Smart contracts",
+            "FalseAnswer": [
+              "Calcul quantique",
+              "Authentification biométrique",
+              "Réalité augmentée"
+            ],
+            "Explanation": "Les smart contracts sont des contrats auto-exécutants avec les termes de l'accord directement écrits en code. Ils visent à automatiser les processus et à assurer une exécution sans confiance sans nécessiter d'intermédiaires."
+          },
+          {
+            "Question": "Quel est l'objectif principal des plateformes de finance décentralisée (DeFi) ?",
+            "TrueAnswer": "Fournir des services financiers sans intermédiaires",
+            "FalseAnswer": [
+              "Offrir des services bancaires traditionnels",
+              "Faciliter l'investissement centralisé",
+              "Réglementer les marchés financiers mondiaux"
+            ],
+            "Explanation": "Les plateformes DeFi visent à permettre l'accès à des services financiers, tels que l'emprunt, le prêt et le trading, sans compter sur des intermédiaires traditionnels comme les banques ou les institutions financières, en utilisant la technologie de la blockchain pour la transparence et la sécurité."
+          },
+          {
+            "Question": "Quelle technologie internet émergente facilite la création et le commerce d'actifs numériques uniques ?",
+            "TrueAnswer": "Tokens non fongibles (NFT)",
+            "FalseAnswer": [
+              "Monnaie numérique centralisée",
+              "Machine virtuelle Ethereum (EVM)",
+              "Organisation autonome décentralisée (DAO)"
+            ],
+            "Explanation": "Les NFT sont des actifs numériques représentant la propriété ou la preuve d'authenticité d'articles uniques, utilisant la technologie de la blockchain pour permettre la création, la propriété et le commerce de contenu numérique unique, tel que l'art, les objets de collection et l'immobilier virtuel."
+          },
+          {
+            "Question": "Dans le contexte du stockage décentralisé, quel rôle joue Filecoin ?",
+            "TrueAnswer": "Place de marché de stockage décentralisé",
+            "FalseAnswer": [
+              "Protocole de consensus de la blockchain",
+              "Plateforme d'échange de cryptomonnaie",
+              "Gestion d'identité décentralisée"
+            ],
+            "Explanation": "Filecoin est un réseau de stockage décentralisé qui transforme le stockage en cloud en un marché algorithmique. Les utilisateurs peuvent louer efficacement leur espace de stockage inutilisé et gagner des jetons Filecoin en guise d'incitation pour stocker et récupérer des données."
+          },
+          {
+            "Question": "Quelle technologie vise à fournir un système de nom de domaine décentralisé et résistant à la censure ?",
+            "TrueAnswer": "Handshake",
+            "FalseAnswer": [
+              "Internet Corporation for Assigned Names and Numbers (ICANN)",
+              "Extensions de sécurité du système de noms de domaine (DNSSEC)",
+              "Registraire de domaine centralisé"
+            ],
+            "Explanation": "Handshake est un protocole de nommage décentralisé et sans permission compatible avec le système de nom de domaine existant. Il vise à créer un système de nommage alternatif et résistant à la censure en utilisant la technologie de la blockchain."
+          }
+        ]
+      }
+    }
+  ]
+}

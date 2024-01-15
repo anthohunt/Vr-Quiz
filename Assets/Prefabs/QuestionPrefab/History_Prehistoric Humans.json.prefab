@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6464225099541234186
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7583123092589524208}
+  - component: {fileID: 8705345290924082666}
+  m_Layer: 0
+  m_Name: History_Prehistoric Humans.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7583123092589524208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6464225099541234186}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8705345290924082666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6464225099541234186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the earliest known human species?
+      TrueAnswer: Homo habilis
+      FalseAnswer:
+      - Homo erectus
+      - Homo neanderthalensis
+      - Homo sapiens
+      Explanation: Homo habilis, meaning 'handy man,' is the earliest known human
+        species that lived around 2.4 to 1.4 million years ago.
+    - Question: Which continent is believed to be the birthplace of Homo sapiens?
+      TrueAnswer: Africa
+      FalseAnswer:
+      - Europe
+      - Asia
+      - Australia
+      Explanation: Africa is considered the birthplace of Homo sapiens, with evidence
+        of their presence dating back around 300,000 years.
+    - Question: What is the term for the Old Stone Age period of human history?
+      TrueAnswer: Paleolithic
+      FalseAnswer:
+      - Neolithic
+      - Mesolithic
+      - Iron Age
+      Explanation: The Paleolithic period, also known as the Old Stone Age, lasted
+        from around 2.6 million to 10,000 years ago.
+    - Question: Which early human species is known for creating the first controlled
+        fire?
+      TrueAnswer: Homo erectus
+      FalseAnswer:
+      - Homo habilis
+      - Homo neanderthalensis
+      - Homo floresiensis
+      Explanation: Homo erectus, an early human species, is believed to have been
+        the first to control and use fire around 1.5 million years ago.
+    - Question: What is the term for the Middle Stone Age period of human history?
+      TrueAnswer: Mesolithic
+      FalseAnswer:
+      - Paleolithic
+      - Neolithic
+      - Bronze Age
+      Explanation: The Mesolithic period, also known as the Middle Stone Age, occurred
+        between the Paleolithic and Neolithic periods.
+    - Question: Which early human species is known for creating cave paintings?
+      TrueAnswer: Homo neanderthalensis
+      FalseAnswer:
+      - Homo habilis
+      - Homo erectus
+      - Homo floresiensis
+      Explanation: Homo neanderthalensis, or Neanderthals, created cave paintings,
+        as evidenced by discoveries in various caves.
+    - Question: What is the term for the New Stone Age period of human history?
+      TrueAnswer: Neolithic
+      FalseAnswer:
+      - Paleolithic
+      - Mesolithic
+      - Iron Age
+      Explanation: The Neolithic period, also known as the New Stone Age, began around
+        10,000 years ago with the advent of agriculture.
+    - Question: Which early human species is known for their advanced tool-making
+        skills?
+      TrueAnswer: Homo habilis
+      FalseAnswer:
+      - Homo erectus
+      - Homo neanderthalensis
+      - Homo sapiens
+      Explanation: Homo habilis, meaning 'handy man,' is known for their advanced
+        tool-making skills, using stone tools for various purposes.
+    - Question: What is the term for the period when humans began to use metal tools?
+      TrueAnswer: Bronze Age
+      FalseAnswer:
+      - Iron Age
+      - Stone Age
+      - Copper Age
+      Explanation: The Bronze Age is the period when humans began to use bronze,
+        an alloy of copper and tin, for tools and weapons.
+    - Question: Which early human species is believed to have interbred with Homo
+        sapiens?
+      TrueAnswer: Homo neanderthalensis
+      FalseAnswer:
+      - Homo habilis
+      - Homo erectus
+      - Homo floresiensis
+      Explanation: Homo neanderthalensis, or Neanderthals, interbred with Homo sapiens,
+        as evidenced by genetic studies.
+    - Question: What is the term for the period when humans began to use iron tools?
+      TrueAnswer: Iron Age
+      FalseAnswer:
+      - Bronze Age
+      - Stone Age
+      - Copper Age
+      Explanation: The Iron Age is the period when humans began to use iron for tools
+        and weapons, replacing bronze.
+    - Question: Which early human species is known for their small stature and lived
+        on an Indonesian island?
+      TrueAnswer: Homo floresiensis
+      FalseAnswer:
+      - Homo habilis
+      - Homo erectus
+      - Homo neanderthalensis
+      Explanation: Homo floresiensis, also known as 'Hobbits,' were a small-statured
+        early human species that lived on the island of Flores.
+    - Question: What is the term for the period when humans began to domesticate
+        plants and animals?
+      TrueAnswer: Neolithic
+      FalseAnswer:
+      - Paleolithic
+      - Mesolithic
+      - Iron Age
+      Explanation: The Neolithic period, or New Stone Age, is characterized by the
+        development of agriculture and domestication of plants and animals.
+    - Question: Which early human species is believed to have used complex language
+        and symbolism?
+      TrueAnswer: Homo sapiens
+      FalseAnswer:
+      - Homo habilis
+      - Homo erectus
+      - Homo neanderthalensis
+      Explanation: Homo sapiens, or modern humans, are known for their use of complex
+        language, symbolism, and cultural development.
+    - Question: What is the term for the period when humans began to use copper tools?
+      TrueAnswer: Copper Age
+      FalseAnswer:
+      - Bronze Age
+      - Iron Age
+      - Stone Age
+      Explanation: The Copper Age is the period when humans began to use copper for
+        tools and weapons, preceding the Bronze Age.
+    - Question: Which early human species is believed to have used the first stone
+        tools?
+      TrueAnswer: Homo habilis
+      FalseAnswer:
+      - Homo erectus
+      - Homo neanderthalensis
+      - Homo sapiens
+      Explanation: Homo habilis is believed to have used the first stone tools, marking
+        a significant advancement in human evolution.
+    - Question: What is the term for the period when humans began to use bronze tools?
+      TrueAnswer: Bronze Age
+      FalseAnswer:
+      - Iron Age
+      - Stone Age
+      - Copper Age
+      Explanation: The Bronze Age is the period when humans began to use bronze,
+        an alloy of copper and tin, for tools and weapons.
+    - Question: Which early human species is believed to have had the largest brain
+        size?
+      TrueAnswer: Homo neanderthalensis
+      FalseAnswer:
+      - Homo habilis
+      - Homo erectus
+      - Homo sapiens
+      Explanation: Homo neanderthalensis, or Neanderthals, had larger brain sizes
+        compared to other early human species.
+    - Question: What is the term for the period when humans began to use stone tools?
+      TrueAnswer: Stone Age
+      FalseAnswer:
+      - Bronze Age
+      - Iron Age
+      - Copper Age
+      Explanation: The Stone Age is the period when humans primarily used stone tools
+        for various purposes.
+    - Question: Which early human species is believed to have been the first to migrate
+        out of Africa?
+      TrueAnswer: Homo erectus
+      FalseAnswer:
+      - Homo habilis
+      - Homo neanderthalensis
+      - Homo sapiens
+      Explanation: Homo erectus is believed to have been the first early human species
+        to migrate out of Africa and spread to other continents.

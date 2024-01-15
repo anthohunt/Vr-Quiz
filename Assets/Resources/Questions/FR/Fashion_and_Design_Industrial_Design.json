@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifie CAD en design industriel?",
+            "TrueAnswer": "Conception assistée par ordinateur",
+            "FalseAnswer": [
+              "Développement d'application centralisé",
+              "Conception artistique créative",
+              "Dessin d'architecture conceptuelle"
+            ],
+            "Explanation": "CAD est l'utilisation de systèmes informatiques pour aider à la création, la modification, l'analyse ou l'optimisation d'une conception."
+          },
+          {
+            "Question": "Qui est connu comme le père du design industriel?",
+            "TrueAnswer": "Raymond Loewy",
+            "FalseAnswer": [
+              "Charles Eames",
+              "Dieter Rams",
+              "Philippe Starck"
+            ],
+            "Explanation": "Raymond Loewy, un designer industriel américain d'origine française, est connu pour ses conceptions emblématiques et le concept d'obsolescence planifiée."
+          },
+          {
+            "Question": "Quel matériau est couramment utilisé pour le prototypage rapide en design industriel?",
+            "TrueAnswer": "Plastique ABS",
+            "FalseAnswer": [
+              "Aluminium",
+              "Polycarbonate",
+              "Acrylique"
+            ],
+            "Explanation": "Le plastique ABS est souvent utilisé en impression 3D pour le prototypage rapide en raison de son faible coût et de sa capacité à être facilement moulé dans différentes formes."
+          },
+          {
+            "Question": "Quel est le but de l'ergonomie en design industriel?",
+            "TrueAnswer": "Améliorer le confort et l'efficacité de l'utilisateur",
+            "FalseAnswer": [
+              "Créer des produits esthétiquement attrayants",
+              "Réduire les coûts de production",
+              "Augmenter la durée de vie du produit"
+            ],
+            "Explanation": "L'ergonomie se concentre sur la conception de produits et d'environnements pour améliorer les performances humaines, la sécurité et le confort, visant à optimiser l'interaction entre les personnes et les produits."
+          },
+          {
+            "Question": "Quel principe de conception met l'accent sur la simplicité et la fonctionnalité?",
+            "TrueAnswer": "Minimalisme",
+            "FalseAnswer": [
+              "Baroque",
+              "Eclectisme",
+              "Avant-Garde"
+            ],
+            "Explanation": "Le minimalisme en design préconise la simplicité et la fonctionnalité, en mettant l'accent sur des lignes épurées, des espaces ouverts et une utilisation efficace des matériaux."
+          },
+          {
+            "Question": "Quel est l'objectif principal du design durable en design industriel?",
+            "TrueAnswer": "Réduire l'impact environnemental",
+            "FalseAnswer": [
+              "Maximiser le profit",
+              "Augmenter la vitesse de production",
+              "Introduire de nouvelles technologies"
+            ],
+            "Explanation": "Le design durable vise à minimiser l'impact environnemental en intégrant des considérations environnementales dans la conception de produits, mettant l'accent sur l'efficacité des ressources et la réduction des déchets."
+          },
+          {
+            "Question": "Quel est la fonction d'un brief de design dans le processus de conception?",
+            "TrueAnswer": "Définit les exigences et contraintes du projet",
+            "FalseAnswer": [
+              "Fournit un calendrier pour l'achèvement du projet",
+              "Décrit les stratégies marketing",
+              "Détermine les coûts de production"
+            ],
+            "Explanation": "Un brief de design décrit les objectifs, la portée et les contraintes d'un projet de conception, guidant les concepteurs dans la compréhension du problème et la création de solutions efficaces."
+          },
+          {
+            "Question": "Quel designer industriel est connu pour l'emblématique 'S Chair'?",
+            "TrueAnswer": "Verner Panton",
+            "FalseAnswer": [
+              "Eero Saarinen",
+              "Arne Jacobsen",
+              "Marcel Breuer"
+            ],
+            "Explanation": "Verner Panton, un designer danois, est célèbre pour son utilisation innovante des matériaux et des couleurs dans la création de la révolutionnaire 'S Chair' dans les années 1960."
+          },
+          {
+            "Question": "Quel concept se réfère à l'équilibre visuel dans un design?",
+            "TrueAnswer": "Symétrie",
+            "FalseAnswer": [
+              "Asymétrie",
+              "Harmonie",
+              "Contraste"
+            ],
+            "Explanation": "L'équilibre symétrique en design implique des éléments se reflétant de part et d'autre d'un axe central, créant un sens d'équilibre et d'ordre dans la composition visuelle."
+          },
+          {
+            "Question": "Quel est le focus principal du design automobile en design industriel?",
+            "TrueAnswer": "Sécurité et esthétique",
+            "FalseAnswer": [
+              "Efficacité énergétique",
+              "Performance du moteur",
+              "Approvisionnement en matériaux"
+            ],
+            "Explanation": "Le design automobile met l'accent sur la création de véhicules qui privilégient la sécurité des passagers et des piétons tout en mettant l'accent sur l'attrait esthétique pour attirer les consommateurs."
+          },
+          {
+            "Question": "Quel mouvement de design a mis l'accent sur les formes organiques et fonctionnelles?",
+            "TrueAnswer": "Art Nouveau",
+            "FalseAnswer": [
+              "Bauhaus",
+              "De Stijl",
+              "Futurisme"
+            ],
+            "Explanation": "L'Art Nouveau, apparu à la fin du XIXe siècle, mettait l'accent sur les formes et structures organiques, inspirées par les formes naturelles et caractérisées par des détails décoratifs complexes."
+          },
+          {
+            "Question": "Quel est le but d'un mood board dans le processus de conception?",
+            "TrueAnswer": "Inspiration visuelle et référence",
+            "FalseAnswer": [
+              "Spécifications techniques",
+              "Analyse du marché",
+              "Directives de fabrication"
+            ],
+            "Explanation": "Un mood board est un collage visuel d'images, de matériaux et de textures utilisé pour évoquer l'ambiance, le style et la direction visuelle souhaités pour un projet de design."
+          },
+          {
+            "Question": "Quel principe est essentiel pour créer des interfaces utilisateur intuitives en design?",
+            "TrueAnswer": "Design centré sur l'utilisateur",
+            "FalseAnswer": [
+              "Design axé sur les tendances",
+              "Design exclusif",
+              "Design expérimental"
+            ],
+            "Explanation": "Le design centré sur l'utilisateur privilégie la conception de produits et d'interfaces en fonction des besoins, comportements et préférences des utilisateurs, donnant ainsi des expériences intuitives et conviviales."
+          },
+          {
+            "Question": "Quel est le focus principal du design d'emballage en design industriel?",
+            "TrueAnswer": "Identité de marque et protection du produit",
+            "FalseAnswer": [
+              "Attrait esthétique",
+              "Durabilité",
+              "Efficacité des coûts"
+            ],
+            "Explanation": "Le design d'emballage vise à créer un emballage visuellement attractif qui communique l'identité de la marque tout en assurant le stockage et le transport sécurisé du produit."
+          },
+          {
+            "Question": "Quelles sont les considérations principales dans la conception pour l'accessibilité universelle?",
+            "TrueAnswer": "Inclusivité et facilité d'utilisation",
+            "FalseAnswer": [
+              "Attrait esthétique",
+              "Différenciation sur le marché",
+              "Options de personnalisation"
+            ],
+            "Explanation": "La conception pour l'accessibilité universelle vise à créer des produits et des environnements inclusifs et facilement utilisables par des personnes aux capacités et aux besoins divers."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un élément clé de la conception de l'expérience utilisateur (UX)?",
+            "TrueAnswer": "Utilisabilité",
+            "FalseAnswer": [
+              "Théorie des couleurs",
+              "Typographie",
+              "Hiérarchie visuelle"
+            ],
+            "Explanation": "L'utilisabilité est un élément essentiel de la conception de l'expérience utilisateur, mettant l'accent sur la création d'interfaces et de produits intuifs, efficaces et conviviaux."
+          },
+          {
+            "Question": "Quelle pratique de durabilité implique d'étendre la durée de vie d'un produit grâce à sa réparation et à sa remise à neuf?",
+            "TrueAnswer": "Économie circulaire",
+            "FalseAnswer": [
+              "Économie linéaire",
+              "Économie d'élimination",
+              "Économie du jetable"
+            ],
+            "Explanation": "Le modèle d'économie circulaire vise à réduire les déchets et la consommation de ressources en promouvant la réparation, la remise à neuf et le recyclage pour maximiser la valeur et la durée de vie des produits."
+          },
+          {
+            "Question": "Quel élément de conception se réfère à la perception visuelle de la distance ou de la profondeur?",
+            "TrueAnswer": "Perspective",
+            "FalseAnswer": [
+              "Proportion",
+              "Échelle",
+              "Symétrie"
+            ],
+            "Explanation": "La perspective en design implique la création de l'illusion de profondeur et de relations spatiales à travers des techniques telles que le raccourcissement et les points de fuite."
+          },
+          {
+            "Question": "Quel est l'objectif principal du design centré sur l'humain en design industriel?",
+            "TrueAnswer": "Améliorer les expériences et la satisfaction des utilisateurs",
+            "FalseAnswer": [
+              "Maximiser l'efficacité de production",
+              "Stimuler des réponses émotionnelles",
+              "Réaliser des économies de coûts"
+            ],
+            "Explanation": "Le design centré sur l'humain se concentre sur la compréhension des besoins et perspectives des utilisateurs pour créer des produits et des solutions qui améliorent les expériences et la satisfaction des utilisateurs."
+          },
+          {
+            "Question": "Quel mouvement de design a adopté les matériaux industriels et l'esthétique fonctionnelle?",
+            "TrueAnswer": "Modernisme",
+            "FalseAnswer": [
+              "Rococo",
+              "Victorien",
+              "Renaissance"
+            ],
+            "Explanation": "Le modernisme, apparu au début du XXe siècle, mettait l'accent sur les matériaux industriels, la simplicité et l'esthétique fonctionnelle, rejetant les styles ornés et historiques."
+          }
+        ]
+      }
+    }
+  ]
+}

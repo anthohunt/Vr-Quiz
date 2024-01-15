@@ -1,0 +1,220 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la source d'énergie renouvelable la plus largement utilisée dans le monde?",
+            "TrueAnswer": "L'hydroélectricité",
+            "FalseAnswer": [
+              "Solaire",
+              "Éolien",
+              "Géothermique"
+            ],
+            "Explanation": "L'hydroélectricité représente la plus grande part de la production mondiale d'électricité renouvelable, fournissant une énergie durable et constante à partir de sources d'eau en mouvement."
+          },
+          {
+            "Question": "Quelle source d'énergie renouvelable convertit directement la lumière du soleil en électricité?",
+            "TrueAnswer": "Photovoltaïque solaire",
+            "FalseAnswer": [
+              "Solaire thermique",
+              "Éolien",
+              "Biomasse"
+            ],
+            "Explanation": "La technologie photovoltaïque solaire convertit la lumière du soleil en électricité en utilisant des matériaux semi-conducteurs, contribuant significativement à la croissance de la capacité énergétique solaire."
+          },
+          {
+            "Question": "Quel est le principal composant des systèmes de conversion de l'énergie éolienne?",
+            "TrueAnswer": "Turbine",
+            "FalseAnswer": [
+              "Panneau",
+              "Générateur",
+              "Batterie"
+            ],
+            "Explanation": "Les éoliennes contiennent des pales qui captent l'énergie cinétique du vent et la convertissent en énergie de rotation pour produire de l'électricité."
+          },
+          {
+            "Question": "Quel type de bioénergie provient des déchets végétaux et animaux?",
+            "TrueAnswer": "Biogaz",
+            "FalseAnswer": [
+              "Bioéthanol",
+              "Biodiesel",
+              "Hydroélectricité"
+            ],
+            "Explanation": "Le biogaz est produit à partir de déchets organiques par digestion anaérobie, offrant une source d'énergie renouvelable et durable pour le chauffage et l'électricité."
+          },
+          {
+            "Question": "Quel est le processus de conversion de la chaleur de la Terre en électricité?",
+            "TrueAnswer": "Énergie géothermique",
+            "FalseAnswer": [
+              "Hydroélectricité",
+              "Énergie marémotrice",
+              "Énergie éolienne"
+            ],
+            "Explanation": "L'énergie géothermique exploite la chaleur naturelle de la Terre pour produire de l'électricité, offrant une source d'énergie renouvelable constante et fiable."
+          },
+          {
+            "Question": "Quel combustible fossile est couramment remplacé par la biomasse dans la production d'énergie?",
+            "TrueAnswer": "Charbon",
+            "FalseAnswer": [
+              "Gaz naturel",
+              "Pétrole",
+              "Énergie nucléaire"
+            ],
+            "Explanation": "L'énergie de la biomasse peut compenser l'utilisation du charbon en convertissant des matières organiques telles que le bois et les résidus de culture en carburant renouvelable et en réduisant les émissions de carbone."
+          },
+          {
+            "Question": "Quel est le nom du phénomène où les cellules solaires génèrent de l'électricité directement à partir de la lumière du soleil?",
+            "TrueAnswer": "Effet photovoltaïque",
+            "FalseAnswer": [
+              "Effet de conduction",
+              "Effet de rayonnement",
+              "Effet de solarisation"
+            ],
+            "Explanation": "L'effet photovoltaïque permet aux cellules solaires de convertir les photons de la lumière du soleil en courant électrique et en tension, permettant la production d'énergie solaire."
+          },
+          {
+            "Question": "Quelle technologie de l'énergie océanique utilise la montée et la chute des marées pour produire de l'électricité?",
+            "TrueAnswer": "Énergie marémotrice",
+            "FalseAnswer": [
+              "Énergie des vagues",
+              "Conversion d'énergie thermique océanique",
+              "Hydroélectricité"
+            ],
+            "Explanation": "Les systèmes d'énergie marémotrice capturent l'énergie cinétique du mouvement des marées pour produire une électricité propre et prévisible, en utilisant les forces gravitationnelles de la Terre et de la lune."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'un collecteur solaire thermique?",
+            "TrueAnswer": "Chauffer de l'eau ou de l'air",
+            "FalseAnswer": [
+              "Générer de l'électricité",
+              "Refroidir les bâtiments",
+              "Stocker de l'énergie"
+            ],
+            "Explanation": "Les collecteurs solaires thermiques absorbent la lumière du soleil pour chauffer un fluide, généralement de l'eau ou de l'air, pour diverses applications telles que le chauffage de l'eau à usage domestique ou de l'air pour le chauffage et la climatisation des espaces."
+          },
+          {
+            "Question": "Quelle source d'énergie renouvelable est connue pour son impact minimal sur l'environnement?",
+            "TrueAnswer": "Hydroélectricité",
+            "FalseAnswer": [
+              "Biomasse",
+              "Géothermique",
+              "Énergie marémotrice"
+            ],
+            "Explanation": "Les systèmes hydroélectriques produisent une électricité propre et renouvelable avec des émissions minimales de gaz à effet de serre et un impact environnemental limité, soutenant le développement d'énergie durable."
+          },
+          {
+            "Question": "Quel est le processus où les particules nucléaires se désintègrent et produisent de la chaleur pour la production d'énergie?",
+            "TrueAnswer": "Fission nucléaire",
+            "FalseAnswer": [
+              "Fusion nucléaire",
+              "Désintégration radioactive",
+              "Désintégration atomique"
+            ],
+            "Explanation": "La fission nucléaire implique la division des noyaux atomiques, libérant de grandes quantités d'énergie pour produire de l'électricité, mais produisant également des déchets radioactifs nécessitant une gestion soigneuse."
+          },
+          {
+            "Question": "Quel type de technologie de l'énergie océanique utilise l'énergie des vagues pour produire de l'électricité?",
+            "TrueAnswer": "Énergie des vagues",
+            "FalseAnswer": [
+              "Énergie marémotrice",
+              "Conversion d'énergie thermique océanique",
+              "Énergie magnétique"
+            ],
+            "Explanation": "Les dispositifs d'énergie des vagues capturent l'énergie cinétique des vagues océaniques pour produire de l'électricité renouvelable, offrant un potentiel de génération d'énergie durable près des régions côtières."
+          },
+          {
+            "Question": "Quel est le gaz à effet de serre le plus abondant produit par la combustion des combustibles fossiles?",
+            "TrueAnswer": "Dioxyde de carbone",
+            "FalseAnswer": [
+              "Méthane",
+              "Protoxyde d'azote",
+              "Dioxyde de soufre"
+            ],
+            "Explanation": "Le dioxyde de carbone est le principal gaz à effet de serre émis par les activités humaines, contribuant au changement climatique et au réchauffement de l'atmosphère terrestre."
+          },
+          {
+            "Question": "Quelle source d'énergie renouvelable nécessite une quantité significative de terre pour des installations à grande échelle?",
+            "TrueAnswer": "Énergie éolienne",
+            "FalseAnswer": [
+              "Énergie solaire",
+              "Énergie géothermique",
+              "Énergie marémotrice"
+            ],
+            "Explanation": "Les parcs éoliens nécessitent des vastes zones pour de multiples éoliennes, impactant l'utilisation des terres et la planification spatiale pour le déploiement durable de l'énergie renouvelable."
+          },
+          {
+            "Question": "Quelle est la technologie de stockage d'énergie qui utilise l'énergie potentielle gravitationnelle?",
+            "TrueAnswer": "Stockage hydroélectrique par pompage",
+            "FalseAnswer": [
+              "Stockage par batterie",
+              "Stockage par volant d'inertie",
+              "Stockage par supercondensateur"
+            ],
+            "Explanation": "Les installations de stockage hydroélectrique par pompage stockent l'énergie en pompant de l'eau vers un réservoir élevé et en la relâchant pour produire de l'électricité lors des périodes de forte demande, offrant une stabilité du réseau et un équilibrage de l'énergie."
+          },
+          {
+            "Question": "Quel est le processus de conversion de la matière organique en biocarburants par des réactions chimiques?",
+            "TrueAnswer": "Bioconversion",
+            "FalseAnswer": [
+              "Biodynamisation",
+              "Bioraffinage",
+              "Biomanufacture"
+            ],
+            "Explanation": "La bioconversion implique la transformation de la biomasse en biocarburants tels que le bioéthanol ou le biodiesel, contribuant à la production de carburants de transport durables et renouvelables."
+          },
+          {
+            "Question": "Quelle source d'énergie renouvelable est associée à une production d'énergie intermittente la plus faible?",
+            "TrueAnswer": "Énergie géothermique",
+            "FalseAnswer": [
+              "Énergie solaire",
+              "Énergie éolienne",
+              "Énergie marémotrice"
+            ],
+            "Explanation": "L'énergie géothermique fournit un approvisionnement fiable et continu en électricité en utilisant la chaleur du noyau terrestre, offrant une génération d'énergie constante et stable."
+          },
+          {
+            "Question": "Quel est le composant principal d'un panneau solaire photovoltaïque pour convertir la lumière du soleil en électricité?",
+            "TrueAnswer": "Matériau semi-conducteur",
+            "FalseAnswer": [
+              "Panneau en verre",
+              "Cadre en aluminium",
+              "Fil conducteur"
+            ],
+            "Explanation": "Les matériaux semi-conducteurs, tels que le silicium, constituent la base des cellules solaires photovoltaïques, permettant la conversion de la lumière du soleil en énergie électrique pour la production d'énergie solaire."
+          },
+          {
+            "Question": "Quelle source d'énergie renouvelable peut directement remplacer les combustibles fossiles traditionnels pour les transports?",
+            "TrueAnswer": "Biomasse",
+            "FalseAnswer": [
+              "Hydroélectricité",
+              "Énergie géothermique",
+              "Énergie des vagues"
+            ],
+            "Explanation": "La biomasse peut être transformée en biocarburants tels que l'éthanol et le biodiesel, servant d'alternatives renouvelables aux combustibles fossiles conventionnels pour les transports et réduisant les émissions de carbone."
+          },
+          {
+            "Question": "Quel est l'élément principal utilisé dans la production des éoliennes pour la production d'énergie?",
+            "TrueAnswer": "Acier",
+            "FalseAnswer": [
+              "Aluminium",
+              "Fibre de carbone",
+              "Titane"
+            ],
+            "Explanation": "L'acier est un matériau crucial dans la fabrication de composants d'éoliennes tels que les structures de tours et les pales de rotor, offrant résistance et durabilité pour la production d'énergie renouvelable."
+          },
+          {
+            "Question": "Quel est le processus de conversion de la matière organique en biogaz par la décomposition?",
+            "TrueAnswer": "Digestion anaérobie",
+            "FalseAnswer": [
+              "Fermentation",
+              "Gazéification",
+              "Pyrolyse"
+            ],
+            "Explanation": "La digestion anaérobie décompose la matière organique en l'absence d'oxygène, générant du biogaz comme source d'énergie renouvelable à partir de déchets agricoles et organiques."
+          }
+        ]
+      }
+    }
+  ]
+}

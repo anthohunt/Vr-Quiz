@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1591214365210073292
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 118032132822248378}
+  - component: {fileID: 5463386749304239811}
+  m_Layer: 0
+  m_Name: Movies_Diversity_and_Representation_in_Film.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &118032132822248378
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591214365210073292}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5463386749304239811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591214365210073292}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What term describes the practice of casting non-Latinx actors for
+        Latinx roles?
+      TrueAnswer: Whitewashing
+      FalseAnswer:
+      - Typecasting
+      - Blackfishing
+      - Yellowface
+      Explanation: Whitewashing is the casting of white actors to portray characters
+        of non-white ethnicities, often denying opportunities to authentic representation.
+    - Question: Who was the first Asian actress to win an Academy Award for Best
+        Actress?
+      TrueAnswer: Youn Yuh-jung
+      FalseAnswer:
+      - Rinko Kikuchi
+      - Michelle Yeoh
+      - Bai Ling
+      Explanation: Youn Yuh-jung made history at the 93rd Academy Awards, becoming
+        the first Korean actress to win an Oscar in any acting category.
+    - Question: In which film did a transgender actress receive an Oscar nomination
+        for Best Supporting Actress?
+      TrueAnswer: The Danish Girl
+      FalseAnswer:
+      - Boys Don't Cry
+      - Transamerica
+      - Dallas Buyers Club
+      Explanation: The Danish Girl featured actress Alicia Vikander, who portrayed
+        the supportive wife of a transgender woman, winning the Best Supporting Actress
+        Oscar.
+    - Question: Which film star became the first Black woman to win an Academy Award
+        for Best Actress?
+      TrueAnswer: Halle Berry
+      FalseAnswer:
+      - Viola Davis
+      - Taraji P. Henson
+      - Octavia Spencer
+      Explanation: Halle Berry's powerful performance in 'Monster's Ball' earned
+        her the groundbreaking Oscar win in 2002.
+    - Question: Who directed the first mainstream Hollywood film to feature an all-Asian
+        cast in 25 years?
+      TrueAnswer: Jon M. Chu
+      FalseAnswer:
+      - Ang Lee
+      - Justin Lin
+      - James Wan
+      Explanation: Jon M. Chu directed 'Crazy Rich Asians,' a groundbreaking moment
+        for representation in Hollywood, released in 2018.
+    - Question: Which film introduced the first openly gay character in the Marvel
+        Cinematic Universe?
+      TrueAnswer: 'Thor: Ragnarok'
+      FalseAnswer:
+      - Captain Marvel
+      - Black Panther
+      - Doctor Strange
+      Explanation: 'Thor: Ragnarok featured Valkyrie, portrayed by Tessa Thompson,
+        as the first openly LGBTQ+ character in the MCU.'
+    - Question: In what year did the #OscarsSoWhite movement gain prominence on social
+        media?
+      TrueAnswer: 2016
+      FalseAnswer:
+      - 2014
+      - 2017
+      - 2018
+      Explanation: The #OscarsSoWhite hashtag trended in 2016, igniting a larger
+        conversation about diversity and representation in the film industry.
+    - Question: Who was the first Muslim actor to win an Academy Award for Best Actor?
+      TrueAnswer: Mahershala Ali
+      FalseAnswer:
+      - Rami Malek
+      - Omar Sharif
+      - F. Murray Abraham
+      Explanation: Mahershala Ali made history with his Oscar win for 'Moonlight,'
+        becoming the first Muslim actor to win the Best Supporting Actor award.
+    - Question: Which film marked the first time an Indigenous woman was nominated
+        for Best Director at the Academy Awards?
+      TrueAnswer: Nomadland
+      FalseAnswer:
+      - Birds of Passage
+      - Songs My Brothers Taught Me
+      - Rhymes for Young Ghouls
+      Explanation: "Nomadland, directed by Chlo\xE9 Zhao, allowed her to make history
+        as the first woman of color and second woman ever to win the Best Director
+        Oscar."
+    - Question: In what film did a non-binary actor receive an Academy Award nomination?
+      TrueAnswer: Albert Nobbs
+      FalseAnswer:
+      - Bohemian Rhapsody
+      - The Crying Game
+      - Transamerica
+      Explanation: Glenn Close portrayed a woman living as a man in 'Albert Nobbs,'
+        representing a historic moment for non-binary visibility in film.
+    - Question: Which movie featured the first disabled actress to win an Academy
+        Award for Best Actress?
+      TrueAnswer: Children of a Lesser God
+      FalseAnswer:
+      - The Theory of Everything
+      - My Left Foot
+      - The Miracle Worker
+      Explanation: Marlee Matlin's portrayal of a deaf woman in 'Children of a Lesser
+        God' made her the first deaf performer to win an Oscar.
+    - Question: Who was the first woman of color to win an Academy Award for Best
+        Director?
+      TrueAnswer: Kathryn Bigelow
+      FalseAnswer:
+      - Ava DuVernay
+      - "Lina Wertm\xFCller"
+      - Greta Gerwig
+      Explanation: Kathryn Bigelow's win for directing 'The Hurt Locker' made her
+        the first and only woman to win the Best Director Oscar to date.
+    - Question: In which film did a non-binary character appear in the lead role?
+      TrueAnswer: 3 Generations
+      FalseAnswer:
+      - The Danish Girl
+      - Boys Don't Cry
+      - Albert Nobbs
+      Explanation: Elle Fanning portrayed a transgender teen in '3 Generations,'
+        bringing visibility to non-binary characters in mainstream films.
+    - Question: Which actor became the first openly gay person to win an Academy
+        Award for Best Actor?
+      TrueAnswer: Sir Ian McKellen
+      FalseAnswer:
+      - Elton John
+      - Neil Patrick Harris
+      - Rupert Everett
+      Explanation: Sir Ian McKellen's iconic performance in 'Gods and Monsters' earned
+        him the honor of being the first openly gay man to win the Best Actor Oscar.
+    - Question: Which film featured the first Latina to win an Academy Award for
+        Best Actress?
+      TrueAnswer: How to Get Away with Murder
+      FalseAnswer:
+      - Selena
+      - Frida
+      - The Wedding Planner
+      Explanation: In 'How to Get Away with Murder,' Viola Davis portrayed the powerful
+        role of Annalise Keating, making history with her outstanding performance.
+    - Question: Who was the first Asian woman to win an Academy Award for Best Director?
+      TrueAnswer: "Chlo\xE9 Zhao"
+      FalseAnswer:
+      - Ang Lee
+      - Mira Nair
+      - Yimou Zhang
+      Explanation: "Chlo\xE9 Zhao broke barriers with her win for directing 'Nomadland,'
+        becoming the first Asian woman and only the second woman ever to win the
+        Best Director Oscar."
+    - Question: In which film did a Black actress win an Oscar for portraying a transgender
+        woman?
+      TrueAnswer: Dallas Buyers Club
+      FalseAnswer:
+      - Transamerica
+      - Boys Don't Cry
+      - The Danish Girl
+      Explanation: Dallas Buyers Club earned actress Jared Leto an Oscar for his
+        portrayal of a transgender woman, Rayon, in a supporting role.
+    - Question: Which film prominently featured HIV/AIDS activism and the LGBTQ+
+        community in the 1990s?
+      TrueAnswer: Philadelphia
+      FalseAnswer:
+      - Brokeback Mountain
+      - Milk
+      - Dallas Buyers Club
+      Explanation: Philadelphia, starring Tom Hanks and Denzel Washington, shed light
+        on the impact of the AIDS crisis and discrimination faced by the LGBTQ+ community.
+    - Question: Who became the first openly transgender person to be nominated for
+        an Academy Award?
+      TrueAnswer: Yance Ford
+      FalseAnswer:
+      - Laverne Cox
+      - Candis Cayne
+      - Hari Nef
+      Explanation: Yance Ford's documentary 'Strong Island' led to a historic moment,
+        earning the first Oscar nomination for an openly transgender director.
+    - Question: Which movie was the first to portray an authentic and positive representation
+        of autism?
+      TrueAnswer: Rain Man
+      FalseAnswer:
+      - Quiz Show
+      - Forrest Gump
+      - I Am Sam
+      Explanation: '''Rain Man'' starring Dustin Hoffman and Tom Cruise, authentically
+        depicted an individual with autism, raising awareness and understanding.'

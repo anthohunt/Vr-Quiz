@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &359603750153770674
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3606257690260654467}
+  - component: {fileID: 6672521098994984561}
+  m_Layer: 0
+  m_Name: Internet_The Impact of Social Media on Mental Health.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3606257690260654467
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 359603750153770674}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6672521098994984561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 359603750153770674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular social media platform worldwide?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - Snapchat
+      Explanation: Facebook is the most widely used social media platform with over
+        2.8 billion monthly active users.
+    - Question: Does excessive use of social media lead to increased feelings of
+        loneliness?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Not sure
+      - Depends on the person
+      Explanation: Research suggests that excessive use of social media can contribute
+        to feelings of loneliness and social isolation.
+    - Question: Can social media negatively impact self-esteem?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Not always
+      - Depends on the person
+      Explanation: Comparing oneself to others on social media can lead to lower
+        self-esteem and feelings of inadequacy.
+    - Question: Is cyberbullying a common issue on social media platforms?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Rarely
+      - Only among teenagers
+      Explanation: Cyberbullying is a prevalent issue on social media platforms,
+        affecting people of all ages.
+    - Question: Does social media usage contribute to sleep disturbances?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used before bedtime
+      - Depends on the person
+      Explanation: The blue light emitted by screens and the addictive nature of
+        social media can disrupt sleep patterns.
+    - Question: Can social media addiction have negative effects on mental health?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Not always
+      - Depends on the person
+      Explanation: Excessive use of social media can lead to anxiety, depression,
+        and other mental health issues.
+    - Question: Is it possible to form meaningful connections and friendships through
+        social media?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only with people you already know
+      - Depends on the person
+      Explanation: Social media can provide opportunities to connect with like-minded
+        individuals and form meaningful relationships.
+    - Question: Does social media usage contribute to a fear of missing out (FOMO)?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only among teenagers
+      - Depends on the person
+      Explanation: Constant exposure to others' highlight reels on social media can
+        lead to FOMO and feelings of inadequacy.
+    - Question: Can social media usage lead to decreased attention span?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used excessively
+      - Depends on the person
+      Explanation: The constant stream of information on social media can contribute
+        to decreased attention span and difficulty focusing.
+    - Question: Does social media usage contribute to body image dissatisfaction?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only among teenagers
+      - Depends on the person
+      Explanation: Comparing oneself to edited and filtered images on social media
+        can lead to body image dissatisfaction.
+    - Question: Is social media usage associated with higher levels of stress?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for work purposes
+      - Depends on the person
+      Explanation: The pressure to maintain an online presence and the constant exposure
+        to others' opinions can increase stress levels.
+    - Question: Can social media usage contribute to feelings of envy and jealousy?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only among teenagers
+      - Depends on the person
+      Explanation: Seeing others' achievements and experiences on social media can
+        trigger feelings of envy and jealousy.
+    - Question: Does social media usage contribute to a decrease in real-life social
+        interactions?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used excessively
+      - Depends on the person
+      Explanation: Spending excessive time on social media can lead to a decrease
+        in face-to-face social interactions.
+    - Question: Can social media usage lead to a distorted perception of reality?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for educational purposes
+      - Depends on the person
+      Explanation: The curated nature of social media can create a distorted perception
+        of reality and unrealistic expectations.
+    - Question: Is social media usage associated with higher levels of anxiety?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for positive purposes
+      - Depends on the person
+      Explanation: The constant exposure to others' opinions and the fear of judgment
+        can contribute to anxiety.
+    - Question: Does social media usage contribute to a decrease in overall life
+        satisfaction?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for professional purposes
+      - Depends on the person
+      Explanation: Comparing oneself to others and the addictive nature of social
+        media can decrease overall life satisfaction.
+    - Question: Can social media usage lead to a decrease in productivity?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used during work hours
+      - Depends on the person
+      Explanation: The constant distractions and time spent on social media can decrease
+        productivity levels.
+    - Question: Does social media usage contribute to a decrease in empathy and compassion?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for positive purposes
+      - Depends on the person
+      Explanation: The lack of face-to-face interactions on social media can lead
+        to a decrease in empathy and compassion.
+    - Question: Can social media usage lead to a decrease in self-control and impulse
+        control?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for educational purposes
+      - Depends on the person
+      Explanation: The addictive nature of social media can contribute to a decrease
+        in self-control and impulse control.
+    - Question: Does social media usage contribute to a decrease in privacy?
+      TrueAnswer: True
+      FalseAnswer:
+      - False
+      - Only if used for personal purposes
+      - Depends on the person
+      Explanation: Sharing personal information and the potential for data breaches
+        can decrease privacy levels on social media.

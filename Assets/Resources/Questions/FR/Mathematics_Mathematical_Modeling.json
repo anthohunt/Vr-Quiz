@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "À quoi sert la modélisation mathématique?",
+            "TrueAnswer": "Prédire",
+            "FalseAnswer": [
+              "Compter",
+              "Mesurer",
+              "Expliquer"
+            ],
+            "Explanation": "La modélisation mathématique est utilisée pour faire des prédictions et simuler des scénarios du monde réel basés sur des équations mathématiques et des analyses de données."
+          },
+          {
+            "Question": "Quel concept mathématique étudie le changement de valeurs dans le temps?",
+            "TrueAnswer": "Calcul différentiel",
+            "FalseAnswer": [
+              "Géométrie",
+              "Algèbre",
+              "Statistiques"
+            ],
+            "Explanation": "Le calcul différentiel est la branche des mathématiques qui traite de l'étude des taux de changement et de l'accumulation de quantités au fil du temps."
+          },
+          {
+            "Question": "Quel type de modèle utilise des équations différentielles pour représenter des systèmes ?",
+            "TrueAnswer": "Dynamique",
+            "FalseAnswer": [
+              "Linéaire",
+              "Statique",
+              "Stochastique"
+            ],
+            "Explanation": "Les modèles dynamiques intègrent des changements dans le temps et utilisent des équations différentielles pour décrire le comportement de systèmes dynamiques."
+          },
+          {
+            "Question": "Quelle discipline utilise la modélisation mathématique pour la prévision météorologique?",
+            "TrueAnswer": "Météorologie",
+            "FalseAnswer": [
+              "Biologie",
+              "Psychologie",
+              "Géologie"
+            ],
+            "Explanation": "La météorologie applique des modèles mathématiques pour analyser les conditions atmosphériques et prédire les tendances météorologiques."
+          },
+          {
+            "Question": "Quel type de modèle représente des systèmes complexes avec des composants interactifs?",
+            "TrueAnswer": "Réseau",
+            "FalseAnswer": [
+              "Linéaire",
+              "Géométrique",
+              "Probabiliste"
+            ],
+            "Explanation": "Les modèles de réseau sont utilisés pour représenter des entités ou des nœuds connectés par des arêtes, comme les réseaux sociaux ou les systèmes de transport."
+          },
+          {
+            "Question": "Quel type de modélisation implique de capturer l'incertitude et l'aléatoire dans les systèmes?",
+            "TrueAnswer": "Stochastique",
+            "FalseAnswer": [
+              "Déterministe",
+              "Statique",
+              "Linéaire"
+            ],
+            "Explanation": "La modélisation stochastique englobe l'étude des interactions aléatoires et de l'incertitude dans les systèmes, souvent en utilisant la théorie des probabilités."
+          },
+          {
+            "Question": "Quel genre de modèle explore comment les décideurs maximisent certains objectifs?",
+            "TrueAnswer": "Optimisation",
+            "FalseAnswer": [
+              "Simulation",
+              "Régression",
+              "Exponentielle"
+            ],
+            "Explanation": "Les modèles d'optimisation visent à trouver la meilleure solution parmi les options réalisables, souvent utilisés dans l'allocation des ressources et la planification de la production."
+          },
+          {
+            "Question": "Quel type de courbe est souvent utilisé pour modéliser la croissance ou la décroissance exponentielle?",
+            "TrueAnswer": "Exponentielle",
+            "FalseAnswer": [
+              "Linéaire",
+              "Quadratique",
+              "Logarithmique"
+            ],
+            "Explanation": "Les courbes exponentielles représentent une croissance ou une décroissance rapide, fréquemment observée dans la croissance démographique, la décroissance radioactive ou les intérêts composés."
+          },
+          {
+            "Question": "Quel type de modélisation implique de trouver des relations fonctionnelles entre les variables?",
+            "TrueAnswer": "Régression",
+            "FalseAnswer": [
+              "Interpolation",
+              "Intégration",
+              "Limite"
+            ],
+            "Explanation": "La modélisation de régression vise à adapter une courbe ou une surface à des points de données, identifiant la relation entre les variables et effectuant des prédictions."
+          },
+          {
+            "Question": "Quelle technique utilise la modélisation statistique pour estimer des paramètres inconnus?",
+            "TrueAnswer": "Maximum de vraisemblance",
+            "FalseAnswer": [
+              "Monte Carlo",
+              "Chaîne de Markov",
+              "Analyse factorielle"
+            ],
+            "Explanation": "L'estimation du maximum de vraisemblance est une méthode statistique pour déterminer les paramètres qui maximisent la probabilité d'observer les données de l'échantillon donné."
+          },
+          {
+            "Question": "Quel type de modèle utilise des distributions de probabilité pour représenter l'incertitude?",
+            "TrueAnswer": "Probabiliste",
+            "FalseAnswer": [
+              "Déterministe",
+              "Stochastique",
+              "Chaotique"
+            ],
+            "Explanation": "Les modèles probabilistes intègrent l'incertitude inhérente dans les systèmes, souvent décrite en utilisant des distributions de probabilité pour modéliser des événements incertains."
+          },
+          {
+            "Question": "Quel concept étudie les propriétés des formes et leurs configurations spatiales?",
+            "TrueAnswer": "Géométrie",
+            "FalseAnswer": [
+              "Algèbre",
+              "Trigonométrie",
+              "Calcul"
+            ],
+            "Explanation": "La géométrie est une branche des mathématiques qui examine les propriétés, les mesures et les relations des points, des lignes, des surfaces et des solides dans l'espace."
+          },
+          {
+            "Question": "Quelle méthode mathématique résout les problèmes par la manipulation symbolique des expressions?",
+            "TrueAnswer": "Algèbre",
+            "FalseAnswer": [
+              "Géométrie",
+              "Calcul",
+              "Statistiques"
+            ],
+            "Explanation": "L'algèbre englobe l'étude des symboles mathématiques, des variables et des équations, ainsi que des techniques de résolution de problèmes mathématiques."
+          },
+          {
+            "Question": "Quel type de modèle suppose des paramètres constants et l'absence d'influences externes?",
+            "TrueAnswer": "Déterministe",
+            "FalseAnswer": [
+              "Chaos",
+              "Dynamique",
+              "Stochastique"
+            ],
+            "Explanation": "Les modèles déterministes prédisent des résultats sans hasard ni incertitude, en supposant des paramètres d'entrée constants et aucune fluctuation externe."
+          },
+          {
+            "Question": "Quelle discipline utilise la modélisation mathématique pour étudier la dynamique des populations?",
+            "TrueAnswer": "Démographie",
+            "FalseAnswer": [
+              "Écologie",
+              "Économie",
+              "Sociologie"
+            ],
+            "Explanation": "La démographie applique des modèles mathématiques pour analyser les taux de natalité, les taux de mortalité et les tendances démographiques, essentiels pour la politique publique et la planification sociale."
+          },
+          {
+            "Question": "Quelle méthode utilise des modèles mathématiques pour visualiser et analyser de grands ensembles de données?",
+            "TrueAnswer": "Exploration de données",
+            "FalseAnswer": [
+              "Analyse numérique",
+              "Théorie des jeux",
+              "Théorie des nombres"
+            ],
+            "Explanation": "L'exploration de données utilise des algorithmes mathématiques et des techniques de modélisation pour extraire des motifs et des informations à partir de vastes ensembles de données, aidant à la prise de décision et aux prédictions."
+          },
+          {
+            "Question": "Quel type de modèle utilise des matrices pour représenter des systèmes d'équations linéaires?",
+            "TrueAnswer": "Matrice",
+            "FalseAnswer": [
+              "Vecteur",
+              "Scalaire",
+              "Tenseur"
+            ],
+            "Explanation": "Les modèles matriciels sont fondamentaux pour représenter et résoudre des systèmes d'équations linéaires, avec des applications dans des domaines divers, y compris l'ingénierie et la physique."
+          },
+          {
+            "Question": "Quelle branche des mathématiques étudie les incertitudes dans les événements aléatoires et les résultats?",
+            "TrueAnswer": "Probabilité",
+            "FalseAnswer": [
+              "Théorie des nombres",
+              "Équations différentielles",
+              "Algèbre abstraite"
+            ],
+            "Explanation": "La théorie des probabilités analyse la probabilité d'événements incertains et de résultats aléatoires, offrant la base de la modélisation stochastique et de l'évaluation des risques."
+          },
+          {
+            "Question": "Quel type de modélisation vise à faire correspondre des données observées en utilisant des techniques d'interpolation?",
+            "TrueAnswer": "Ajustement de courbe",
+            "FalseAnswer": [
+              "Géométrie fractale",
+              "Modélisation topologique",
+              "Théorie de la percolation"
+            ],
+            "Explanation": "L'ajustement de courbe consiste à trouver une courbe qui correspond le mieux aux données observées, souvent obtenu grâce à des méthodes d'interpolation pour approximer des valeurs inconnues."
+          },
+          {
+            "Question": "Quel concept mathématique étudie les relations entre les angles et les côtés des triangles?",
+            "TrueAnswer": "Trigonométrie",
+            "FalseAnswer": [
+              "Théorie des nombres",
+              "Combinatoire",
+              "Topologie"
+            ],
+            "Explanation": "La trigonométrie se concentre sur les rapports et les relations entre les angles et les côtés des triangles, fondamentale dans des domaines tels que la physique, l'ingénierie et la navigation."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2555670528973386079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3788352061743044678}
+  - component: {fileID: 8340126524796546435}
+  m_Layer: 0
+  m_Name: Sports_Tennis.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3788352061743044678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555670528973386079}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8340126524796546435
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555670528973386079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the youngest player to win a Grand Slam in tennis?
+      TrueAnswer: Martina Hingis
+      FalseAnswer:
+      - Serena Williams
+      - Maria Sharapova
+      - Venus Williams
+      Explanation: Martina Hingis won the Australian Open in 1997 at the age of 16,
+        becoming the youngest Grand Slam singles winner.
+    - Question: Which player holds the record for the longest winning streak in tennis?
+      TrueAnswer: Martina Navratilova
+      FalseAnswer:
+      - Serena Williams
+      - Roger Federer
+      - Rafael Nadal
+      Explanation: Martina Navratilova held a 74-match winning streak in 1984, dominating
+        the women's tennis circuit remarkably.
+    - Question: In which year did Wimbledon implement a tie-break system for the
+        final set?
+      TrueAnswer: 2019
+      FalseAnswer:
+      - 2005
+      - 1981
+      - 1998
+      Explanation: Wimbledon decided to introduce a final set tie-break rule at 12-12
+        in 2019 to avoid lengthy matches and ensure a thrilling conclusion.
+    - Question: Who is the first male player to win a Career Golden Slam in tennis?
+      TrueAnswer: Andre Agassi
+      FalseAnswer:
+      - Roger Federer
+      - Pete Sampras
+      - Rafael Nadal
+      Explanation: Andre Agassi completed the Career Golden Slam by winning all four
+        Grand Slam tournaments and the Olympic gold medal in men's singles.
+    - Question: Which tennis player has won the most Grand Slam singles titles?
+      TrueAnswer: Margaret Court
+      FalseAnswer:
+      - Serena Williams
+      - Steffi Graf
+      - Martina Navratilova
+      Explanation: Margaret Court holds the record for the most Grand Slam singles
+        titles with 24, achieved between 1960 and 1973.
+    - Question: How many times has Rafael Nadal won the French Open?
+      TrueAnswer: 13
+      FalseAnswer:
+      - 9
+      - 11
+      - 15
+      Explanation: Rafael Nadal has an outstanding record, winning the French Open
+        13 times, establishing himself as the 'King of Clay' in tennis history.
+    - Question: Who is the only player to have achieved a Calendar-year Grand Slam
+        twice in tennis?
+      TrueAnswer: Rod Laver
+      FalseAnswer:
+      - Serena Williams
+      - Roger Federer
+      - Steffi Graf
+      Explanation: Rod Laver is the only player in history to have won the Calendar-year
+        Grand Slam twice, in 1962 and 1969.
+    - Question: How many times has the Davis Cup been won by the United States?
+      TrueAnswer: 32
+      FalseAnswer:
+      - 20
+      - 26
+      - 38
+      Explanation: The United States holds a dominant record of 32 Davis Cup victories,
+        showcasing their historic tennis prowess.
+    - Question: What type of court surface is used at the Miami Open?
+      TrueAnswer: Hard
+      FalseAnswer:
+      - Grass
+      - Clay
+      - Carpet
+      Explanation: The Miami Open is played on a hard court surface, providing a
+        fast and challenging playing environment for the players.
+    - Question: Who holds the record for most consecutive weeks as ATP World No.
+        1?
+      TrueAnswer: Roger Federer
+      FalseAnswer:
+      - Novak Djokovic
+      - Rafael Nadal
+      - Pete Sampras
+      Explanation: Roger Federer holds the record for the most consecutive weeks
+        as ATP World No. 1, with 237 weeks at the top of the rankings.
+    - Question: Which player has won the most Olympic gold medals in tennis?
+      TrueAnswer: Serena Williams
+      FalseAnswer:
+      - Venus Williams
+      - Roger Federer
+      - Rafael Nadal
+      Explanation: Serena Williams holds the record for the most Olympic gold medals
+        in tennis, with four gold medals across singles and doubles events.
+    - Question: Who was the first African American to win a Grand Slam tournament?
+      TrueAnswer: Althea Gibson
+      FalseAnswer:
+      - Arthur Ashe
+      - Venus Williams
+      - Serena Williams
+      Explanation: Althea Gibson became the first African American to win a Grand
+        Slam tournament when she won the French Championships in 1956.
+    - Question: In which year did the Australian Open move to the Melbourne Park
+        venue?
+      TrueAnswer: 1988
+      FalseAnswer:
+      - 1995
+      - 1972
+      - 2001
+      Explanation: The Australian Open moved to the Melbourne Park venue in 1988,
+        providing modern facilities and a larger capacity for tennis fans.
+    - Question: Who was the youngest player to win a title at the US Open?
+      TrueAnswer: Tracy Austin
+      FalseAnswer:
+      - Serena Williams
+      - Martina Hingis
+      - Steffi Graf
+      Explanation: Tracy Austin became the youngest player to win the US Open singles
+        title, achieving this feat at the age of 16 in 1979.
+    - Question: Which player holds the record for the most singles titles at Wimbledon?
+      TrueAnswer: Martina Navratilova
+      FalseAnswer:
+      - Serena Williams
+      - Roger Federer
+      - Pete Sampras
+      Explanation: Martina Navratilova won a record 9 singles titles at Wimbledon,
+        showcasing her dominance on the grass court.
+    - Question: What is the longest match in tennis history in terms of time?
+      TrueAnswer: Isner vs. Mahut
+      FalseAnswer:
+      - Federer vs. Nadal
+      - Djokovic vs. Murray
+      - Williams vs. Sharapova
+      Explanation: The match between John Isner and Nicolas Mahut at Wimbledon 2010
+        is the longest tennis match in history, lasting 11 hours and 5 minutes.
+    - Question: How many times has the French Open been won by Bjorn Borg?
+      TrueAnswer: 6
+      FalseAnswer:
+      - 3
+      - 9
+      - 12
+      Explanation: Bjorn Borg won the French Open 6 times, showcasing his exceptional
+        dominance on the clay courts in Paris.
+    - Question: Who was the first British woman to win a Grand Slam singles title
+        since 1977?
+      TrueAnswer: Virginia Wade
+      FalseAnswer:
+      - Jo Konta
+      - Heather Watson
+      - Laura Robson
+      Explanation: Virginia Wade won the Wimbledon singles title in 1977, breaking
+        the 20-year British drought in Grand Slam singles victories.
+    - Question: Which tennis player is known for his 'tweener' shots?
+      TrueAnswer: Roger Federer
+      FalseAnswer:
+      - Rafael Nadal
+      - Novak Djokovic
+      - Andy Murray
+      Explanation: Roger Federer is renowned for his 'tweener' shots, displaying
+        exceptional skills and creativity on the tennis court.
+    - Question: Who is the youngest player to win a Grand Slam in the Open Era?
+      TrueAnswer: Tracy Austin
+      FalseAnswer:
+      - Martina Hingis
+      - Monica Seles
+      - Serena Williams
+      Explanation: Tracy Austin holds the record as the youngest Grand Slam winner
+        in the Open Era, securing the US Open title at the age of 16 in 1979.

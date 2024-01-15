@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Que signifie MMORPG?",
+            "TrueAnswer": "Jeu de rôle en ligne massivement multijoueur",
+            "FalseAnswer": [
+              "Jeu de course massivement multijoueur en ligne",
+              "Beaucoup de jeu de classement multijoueur hors ligne",
+              "Jeu de royaume multijoueur en ligne maximum"
+            ],
+            "Explanation": "Les MMORPG sont des jeux de rôle en ligne qui permettent à des milliers de joueurs d'interagir dans un monde virtuel simultanément."
+          },
+          {
+            "Question": "Dans les MMO, quel est le terme pour un joueur qui perturbe intentionnellement le gameplay?",
+            "TrueAnswer": "Griefer",
+            "FalseAnswer": [
+              "Raider",
+              "Tank",
+              "Guérisseur"
+            ],
+            "Explanation": "Un griefer est un joueur dans un jeu en ligne qui irrite délibérément et harcèle d'autres joueurs dans l'environnement du jeu."
+          },
+          {
+            "Question": "Lequel de ces MMO a été lancé en premier?",
+            "TrueAnswer": "EverQuest",
+            "FalseAnswer": [
+              "World of Warcraft",
+              "Final Fantasy XIV",
+              "Guild Wars 2"
+            ],
+            "Explanation": "EverQuest, sorti en 1999, est souvent crédité d'avoir popularisé le genre MMORPG à l'échelle mondiale."
+          },
+          {
+            "Question": "Quelle est la monnaie virtuelle utilisée dans World of Warcraft?",
+            "TrueAnswer": "Or",
+            "FalseAnswer": [
+              "Crédits",
+              "Gemmes",
+              "Éthers"
+            ],
+            "Explanation": "L'or est la principale monnaie en jeu dans World of Warcraft, utilisée pour acheter des objets, de l'équipement et des services dans le monde du jeu."
+          },
+          {
+            "Question": "Dans la terminologie des MMO, que signifie 'DPS'?",
+            "TrueAnswer": "Dommages Par Seconde",
+            "FalseAnswer": [
+              "Bouclier de puissance défensive",
+              "Tueur de joueur de donjon",
+              "Tireur de pixels numériques"
+            ],
+            "Explanation": "DPS est une mesure du potentiel de production de dégâts d'un personnage ou d'une créature dans un jeu, généralement dans le contexte du combat."
+          },
+          {
+            "Question": "Que signifie 'LFG' dans les MMO?",
+            "TrueAnswer": "Recherche de groupe",
+            "FalseAnswer": [
+              "Battons-nous contre des géants",
+              "Amour pour le jeu",
+              "Jeu gratuit en direct"
+            ],
+            "Explanation": "LFG est un terme utilisé par les joueurs pour indiquer qu'ils recherchent activement d'autres joueurs pour rejoindre leur groupe pour diverses activités en jeu."
+          },
+          {
+            "Question": "Quel jeu est connu pour son univers infini et généré de manière procédurale?",
+            "TrueAnswer": "No Man's Sky",
+            "FalseAnswer": [
+              "EVE Online",
+              "The Elder Scrolls Online",
+              "Star Wars: The Old Republic"
+            ],
+            "Explanation": "No Man's Sky est renommé pour son univers généré de manière procédurale, offrant aux joueurs des possibilités d'exploration virtuellement infinies."
+          },
+          {
+            "Question": "Quel est le nom de la monnaie en jeu dans Final Fantasy XIV?",
+            "TrueAnswer": "Gil",
+            "FalseAnswer": [
+              "Zeny",
+              "Gilder",
+              "Galion"
+            ],
+            "Explanation": "Dans Final Fantasy XIV, le Gil est la monnaie standard utilisée pour acheter des objets, de l'équipement et des services auprès des PNJ et d'autres joueurs."
+          },
+          {
+            "Question": "Quel terme désigne un joueur qui contrôle simultanément plusieurs personnages dans un MMO?",
+            "TrueAnswer": "Multiboxer",
+            "FalseAnswer": [
+              "Soliste",
+              "Principal Tank",
+              "Guérisseur"
+            ],
+            "Explanation": "Le multiboxing est une pratique où un seul joueur contrôle plusieurs comptes ou personnages en même temps pour avoir un avantage en jeu."
+          },
+          {
+            "Question": "Quel MMO populaire propose un vaste monde ouvert et persistant appelé Azeroth?",
+            "TrueAnswer": "World of Warcraft",
+            "FalseAnswer": [
+              "The Elder Scrolls Online",
+              "Final Fantasy XIV",
+              "Guild Wars 2"
+            ],
+            "Explanation": "Azeroth est le monde principal dans lequel se déroulent les événements de World of Warcraft, offrant des paysages et des régions divers pour que les joueurs puissent explorer."
+          },
+          {
+            "Question": "Quel est le niveau maximal pour les personnages dans la plupart des MMO?",
+            "TrueAnswer": "Niveau 100",
+            "FalseAnswer": [
+              "Niveau 50",
+              "Niveau 75",
+              "Niveau 120"
+            ],
+            "Explanation": "Alors que les niveaux spécifiques peuvent varier, de nombreux MMO ont traditionnellement fixé le niveau maximal des personnages à 100."
+          },
+          {
+            "Question": "Quel jeu propose le concept de 'raid' de grands donjons difficiles avec un groupe de joueurs?",
+            "TrueAnswer": "Final Fantasy XIV",
+            "FalseAnswer": [
+              "The Elder Scrolls Online",
+              "Guild Wars 2",
+              "Star Wars: The Old Republic"
+            ],
+            "Explanation": "Final Fantasy XIV intègre un contenu de raid étendu qui nécessite une coopération pour vaincre des ennemis puissants et obtenir des récompenses précieuses."
+          },
+          {
+            "Question": "Dans les MMO, quel est le terme pour un mode de jeu joueur contre environnement?",
+            "TrueAnswer": "PvE",
+            "FalseAnswer": [
+              "JcJ",
+              "LFG",
+              "MMO"
+            ],
+            "Explanation": "PvE désigne le contenu joueur contre environnement, où les joueurs combattent des ennemis contrôlés par ordinateur plutôt que de s'engager dans des combats contre d'autres joueurs."
+          },
+          {
+            "Question": "Quel MMO met en avant l'exploration spatiale et les batailles de vaisseaux spatiaux?",
+            "TrueAnswer": "EVE Online",
+            "FalseAnswer": [
+              "World of Warcraft",
+              "The Elder Scrolls Online",
+              "Guild Wars 2"
+            ],
+            "Explanation": "EVE Online se distingue par son exploration spatiale approfondie, son économie complexe pilotée par les joueurs ainsi que par ses batailles de vaisseaux spatiaux à grande échelle."
+          },
+          {
+            "Question": "Quel genre est associé au MMO 'Guild Wars 2'?",
+            "TrueAnswer": "MMORPG",
+            "FalseAnswer": [
+              "Battle Royale",
+              "Survie",
+              "MOBA"
+            ],
+            "Explanation": "Guild Wars 2 est un MMORPG populaire mettant l'accent sur des événements dynamiques, des combats joueur contre joueur stimulants et un monde persistant riche."
+          },
+          {
+            "Question": "Lequel de ces rôles est courant dans les compositions de groupe MMO?",
+            "TrueAnswer": "Guérisseur",
+            "FalseAnswer": [
+              "Tireur d'élite",
+              "Berserker",
+              "Nécromancien"
+            ],
+            "Explanation": "Les guérisseurs jouent un rôle crucial dans les groupes MMO en fournissant un soutien et des soins aux autres membres du groupe lors des combats difficiles."
+          },
+          {
+            "Question": "Quel terme désigne l'achat d'objets en jeu avec de l'argent réel dans de nombreux MMO?",
+            "TrueAnswer": "Microtransactions",
+            "FalseAnswer": [
+              "Loot Boxes",
+              "Trocs",
+              "Duplication d'objets"
+            ],
+            "Explanation": "Les microtransactions permettent aux joueurs d'acheter des objets en jeu, des cosmétiques ou des avantages en utilisant de l'argent réel, souvent un aspect controversé des jeux MMO."
+          },
+          {
+            "Question": "Lequel de ces MMO est situé dans un monde post-apocalyptique désolé?",
+            "TrueAnswer": "Fallout 76",
+            "FalseAnswer": [
+              "World of Warcraft",
+              "Final Fantasy XIV",
+              "Star Wars: The Old Republic"
+            ],
+            "Explanation": "Fallout 76 se déroule dans un environnement de monde ouvert à la suite d'une guerre nucléaire, mettant en avant des éléments de survie et d'exploration."
+          },
+          {
+            "Question": "Quel est le terme pour la zone spécifique où les guildes ou groupes de joueurs peuvent construire et personnaliser des structures dans les MMO?",
+            "TrueAnswer": "Halle de guilde",
+            "FalseAnswer": [
+              "Base de faction",
+              "Camp de tribu",
+              "Quartier général du clan"
+            ],
+            "Explanation": "Les Halles de guilde sont des zones désignées dans les MMO où les guildes de joueurs peuvent construire des bâtiments, organiser des événements et socialiser dans le monde du jeu."
+          },
+          {
+            "Question": "Quel aspect des MMO permet aux joueurs de communiquer en utilisant des émotes visuelles ou des gestes?",
+            "TrueAnswer": "Système d'émotes",
+            "FalseAnswer": [
+              "Console de discussion",
+              "Chat vocal",
+              "Centre de notifications"
+            ],
+            "Explanation": "Les systèmes d'émotes dans les MMO permettent aux joueurs d'exprimer des émotions, des réactions et des communications à travers une grande variété de gestes et d'actions de personnage."
+          }
+        ]
+      }
+    }
+  ]
+}

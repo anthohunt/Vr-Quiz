@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4898392271296000929
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 465268124476769546}
+  - component: {fileID: 8287556108127118692}
+  m_Layer: 0
+  m_Name: Video Games_Video Game Genres.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &465268124476769546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4898392271296000929}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8287556108127118692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4898392271296000929}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which genre of video games focuses on solving puzzles and riddles?
+      TrueAnswer: Puzzle
+      FalseAnswer:
+      - Action
+      - RPG
+      - Sports
+      Explanation: Puzzle games challenge players to solve problems and think critically
+        to progress through the game.
+    - Question: Which genre of video games involves controlling a character in a
+        virtual world?
+      TrueAnswer: Simulation
+      FalseAnswer:
+      - Fighting
+      - Adventure
+      - Strategy
+      Explanation: Simulation games allow players to experience different scenarios
+        and control characters or environments.
+    - Question: Which genre of video games focuses on fast-paced combat and action
+        sequences?
+      TrueAnswer: Action
+      FalseAnswer:
+      - Platformer
+      - Racing
+      - Puzzle
+      Explanation: Action games provide thrilling gameplay with intense combat and
+        exciting action sequences.
+    - Question: Which genre of video games involves managing resources and making
+        strategic decisions?
+      TrueAnswer: Strategy
+      FalseAnswer:
+      - Shooter
+      - Role-playing
+      - Sports
+      Explanation: Strategy games require players to plan and strategize, making
+        decisions that impact the game's outcome.
+    - Question: Which genre of video games focuses on exploration and discovery in
+        vast open worlds?
+      TrueAnswer: Adventure
+      FalseAnswer:
+      - Fighting
+      - Racing
+      - Simulation
+      Explanation: Adventure games allow players to explore and discover new environments,
+        often with a narrative-driven experience.
+    - Question: Which genre of video games involves competing against other players
+        or AI opponents?
+      TrueAnswer: Multiplayer
+      FalseAnswer:
+      - Platformer
+      - Puzzle
+      - Role-playing
+      Explanation: Multiplayer games allow players to compete against each other
+        or AI opponents, either locally or online.
+    - Question: Which genre of video games focuses on character development and storytelling?
+      TrueAnswer: Role-playing
+      FalseAnswer:
+      - Shooter
+      - Sports
+      - Strategy
+      Explanation: Role-playing games immerse players in a fictional world, allowing
+        them to develop their character and follow a narrative.
+    - Question: Which genre of video games involves driving vehicles in races against
+        other players or AI opponents?
+      TrueAnswer: Racing
+      FalseAnswer:
+      - Adventure
+      - Simulation
+      - Fighting
+      Explanation: Racing games provide players with the thrill of high-speed races,
+        competing against others or AI opponents.
+    - Question: Which genre of video games focuses on physical combat between characters?
+      TrueAnswer: Fighting
+      FalseAnswer:
+      - Puzzle
+      - Sports
+      - Simulation
+      Explanation: Fighting games feature intense one-on-one combat between characters,
+        often with special moves and combos.
+    - Question: Which genre of video games involves shooting enemies and targets
+        with various weapons?
+      TrueAnswer: Shooter
+      FalseAnswer:
+      - Adventure
+      - Strategy
+      - Role-playing
+      Explanation: Shooter games challenge players to aim and shoot at enemies and
+        targets using a variety of weapons.
+    - Question: Which genre of video games focuses on physical sports activities?
+      TrueAnswer: Sports
+      FalseAnswer:
+      - Action
+      - Puzzle
+      - Simulation
+      Explanation: Sports games simulate real-life sports activities, allowing players
+        to compete in various sports disciplines.
+    - Question: Which genre of video games involves rhythm-based gameplay and music?
+      TrueAnswer: Music
+      FalseAnswer:
+      - Adventure
+      - Strategy
+      - Role-playing
+      Explanation: Music games require players to follow rhythm-based gameplay, often
+        involving music and dance.
+    - Question: Which genre of video games focuses on building and managing virtual
+        cities or civilizations?
+      TrueAnswer: Simulation
+      FalseAnswer:
+      - Action
+      - RPG
+      - Sports
+      Explanation: Simulation games allow players to build and manage virtual cities
+        or civilizations, making strategic decisions.
+    - Question: Which genre of video games involves solving crimes and mysteries?
+      TrueAnswer: Detective
+      FalseAnswer:
+      - Fighting
+      - Racing
+      - Simulation
+      Explanation: Detective games challenge players to solve crimes and mysteries
+        through investigation and deduction.
+    - Question: Which genre of video games focuses on rhythm-based combat and timing?
+      TrueAnswer: Beat 'em up
+      FalseAnswer:
+      - Platformer
+      - Puzzle
+      - Role-playing
+      Explanation: Beat 'em up games require players to time their attacks and combos
+        to defeat enemies.
+    - Question: Which genre of video games involves building and managing virtual
+        farms or agricultural activities?
+      TrueAnswer: Farming
+      FalseAnswer:
+      - Adventure
+      - Strategy
+      - Shooter
+      Explanation: Farming games allow players to cultivate crops, raise livestock,
+        and manage agricultural activities.
+    - Question: Which genre of video games focuses on stealth and avoiding detection?
+      TrueAnswer: Stealth
+      FalseAnswer:
+      - Action
+      - Sports
+      - Simulation
+      Explanation: Stealth games require players to avoid detection, using tactics
+        such as hiding, sneaking, and silent takedowns.
+    - Question: Which genre of video games involves building and managing virtual
+        amusement parks or attractions?
+      TrueAnswer: Tycoon
+      FalseAnswer:
+      - Fighting
+      - Racing
+      - Simulation
+      Explanation: Tycoon games allow players to build and manage virtual amusement
+        parks or attractions, aiming for success and profitability.
+    - Question: Which genre of video games focuses on rhythm-based gameplay and dancing?
+      TrueAnswer: Dance
+      FalseAnswer:
+      - Adventure
+      - Strategy
+      - Role-playing
+      Explanation: Dance games require players to follow rhythm-based gameplay, often
+        involving dance moves and routines.
+    - Question: Which genre of video games involves solving mysteries and puzzles
+        in a point-and-click interface?
+      TrueAnswer: Adventure
+      FalseAnswer:
+      - Fighting
+      - Racing
+      - Simulation
+      Explanation: Adventure games often feature a point-and-click interface, where
+        players solve puzzles and unravel mysteries.
+    - Question: Which genre of video games focuses on managing and controlling virtual
+        sports teams?
+      TrueAnswer: Sports Management
+      FalseAnswer:
+      - Action
+      - Puzzle
+      - Simulation
+      Explanation: Sports management games allow players to take control of virtual
+        sports teams, making decisions and managing resources.

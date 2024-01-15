@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8652900269477224192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6317506087595534286}
+  - component: {fileID: 8867322462233208050}
+  m_Layer: 0
+  m_Name: Cartoons_Stop-Motion Animation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6317506087595534286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8652900269477224192}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8867322462233208050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8652900269477224192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which famous stop-motion animation series features a character named
+        Wallace?
+      TrueAnswer: Wallace and Gromit
+      FalseAnswer:
+      - The Simpsons
+      - South Park
+      - Family Guy
+      Explanation: Wallace and Gromit is a popular stop-motion animation series created
+        by Nick Park.
+    - Question: What is the name of the stop-motion animation film about a skeleton
+        named Jack Skellington?
+      TrueAnswer: The Nightmare Before Christmas
+      FalseAnswer:
+      - Toy Story
+      - Frozen
+      - Finding Nemo
+      Explanation: The Nightmare Before Christmas is a classic stop-motion animation
+        film directed by Tim Burton.
+    - Question: Which stop-motion animation series follows the adventures of a group
+        of penguins?
+      TrueAnswer: Pingu
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Adventure Time
+      - Rick and Morty
+      Explanation: Pingu is a Swiss-British stop-motion animation series featuring
+        a mischievous penguin named Pingu.
+    - Question: What is the name of the stop-motion animation film about a young
+        boy named Norman who can communicate with ghosts?
+      TrueAnswer: ParaNorman
+      FalseAnswer:
+      - Shrek
+      - Moana
+      - Coco
+      Explanation: ParaNorman is a stop-motion animation film directed by Chris Butler,
+        known for its spooky and humorous storyline.
+    - Question: Which stop-motion animation series features a character named Shaun
+        who is a mischievous sheep?
+      TrueAnswer: Shaun the Sheep
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Bob's Burgers
+      Explanation: Shaun the Sheep is a British stop-motion animation series created
+        by Nick Park, known for its silent comedy.
+    - Question: What is the name of the stop-motion animation film about a group
+        of animals who escape from a New York City zoo?
+      TrueAnswer: Madagascar
+      FalseAnswer:
+      - The Lion King
+      - Zootopia
+      - Ice Age
+      Explanation: Madagascar is a popular stop-motion animation film franchise that
+        follows the adventures of Alex the lion and his friends.
+    - Question: Which stop-motion animation series features a character named Bob
+        who is a builder?
+      TrueAnswer: Bob the Builder
+      FalseAnswer:
+      - Dora the Explorer
+      - Peppa Pig
+      - Thomas & Friends
+      Explanation: Bob the Builder is a British stop-motion animation series aimed
+        at preschool children, teaching problem-solving and teamwork.
+    - Question: What is the name of the stop-motion animation film about a group
+        of toys that come to life when humans are not around?
+      TrueAnswer: Toy Story
+      FalseAnswer:
+      - The Incredibles
+      - Cars
+      - Ratatouille
+      Explanation: Toy Story is a beloved stop-motion animation film franchise created
+        by Pixar, showcasing the secret lives of toys.
+    - Question: Which stop-motion animation series features a character named Gumby
+        who can shape-shift?
+      TrueAnswer: Gumby
+      FalseAnswer:
+      - Scooby-Doo
+      - The Flintstones
+      - The Jetsons
+      Explanation: Gumby is a classic stop-motion animation series created by Art
+        Clokey, known for its imaginative and surreal adventures.
+    - Question: What is the name of the stop-motion animation film about a young
+        girl named Coraline who discovers a parallel world?
+      TrueAnswer: Coraline
+      FalseAnswer:
+      - Beauty and the Beast
+      - The Little Mermaid
+      - Sleeping Beauty
+      Explanation: Coraline is a dark and visually stunning stop-motion animation
+        film directed by Henry Selick.
+    - Question: Which stop-motion animation series features a character named Mr.
+        Bumpy who lives under a boy's bed?
+      TrueAnswer: Bump in the Night
+      FalseAnswer:
+      - The Fairly OddParents
+      - Sesame Street
+      - Arthur
+      Explanation: Bump in the Night is a stop-motion animation series known for
+        its quirky and humorous portrayal of monsters.
+    - Question: What is the name of the stop-motion animation film about a group
+        of chickens trying to escape from a farm?
+      TrueAnswer: Chicken Run
+      FalseAnswer:
+      - Finding Nemo
+      - The Little Mermaid
+      - Moana
+      Explanation: Chicken Run is a stop-motion animation film created by Aardman
+        Animations, known for its claymation style.
+    - Question: Which stop-motion animation series features a character named Morph
+        who can transform into various shapes?
+      TrueAnswer: The Amazing Adventures of Morph
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Adventure Time
+      - Rick and Morty
+      Explanation: The Amazing Adventures of Morph is a British stop-motion animation
+        series created by Aardman Animations.
+    - Question: What is the name of the stop-motion animation film about a group
+        of pirates searching for treasure?
+      TrueAnswer: The Pirates! Band of Misfits
+      FalseAnswer:
+      - Frozen
+      - Moana
+      - Coco
+      Explanation: The Pirates! Band of Misfits is a stop-motion animation film created
+        by Aardman Animations, known for its comedic pirate adventure.
+    - Question: Which stop-motion animation series features a character named Mr.
+        Bill who often gets into dangerous situations?
+      TrueAnswer: Mr. Bill
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Bob's Burgers
+      Explanation: Mr. Bill is a classic stop-motion animation series known for its
+        slapstick humor and the catchphrase 'Oh noooo!'
+    - Question: What is the name of the stop-motion animation film about a group
+        of prehistoric creatures trying to save their valley?
+      TrueAnswer: The Land Before Time
+      FalseAnswer:
+      - The Lion King
+      - Zootopia
+      - Ice Age
+      Explanation: The Land Before Time is a beloved stop-motion animation film franchise
+        that follows the adventures of young dinosaurs.
+    - Question: Which stop-motion animation series features a character named Blinky
+        Bill who is a mischievous koala?
+      TrueAnswer: Blinky Bill
+      FalseAnswer:
+      - Dora the Explorer
+      - Peppa Pig
+      - Thomas & Friends
+      Explanation: Blinky Bill is an Australian stop-motion animation series known
+        for its adventurous and environmental themes.
+    - Question: What is the name of the stop-motion animation film about a group
+        of animals living in a city park?
+      TrueAnswer: Over the Hedge
+      FalseAnswer:
+      - The Incredibles
+      - Cars
+      - Ratatouille
+      Explanation: Over the Hedge is a comedic stop-motion animation film that explores
+        the clash between suburban life and wildlife.
+    - Question: Which stop-motion animation series features a character named Noddy
+        who solves mysteries in Toyland?
+      TrueAnswer: Noddy's Toyland Adventures
+      FalseAnswer:
+      - Scooby-Doo
+      - The Flintstones
+      - The Jetsons
+      Explanation: Noddy's Toyland Adventures is a British stop-motion animation
+        series based on the children's book character Noddy.
+    - Question: What is the name of the stop-motion animation film about a group
+        of dogs on a quest to find their missing owner?
+      TrueAnswer: Isle of Dogs
+      FalseAnswer:
+      - Beauty and the Beast
+      - The Little Mermaid
+      - Sleeping Beauty
+      Explanation: Isle of Dogs is a visually stunning stop-motion animation film
+        directed by Wes Anderson, set in a dystopian future.

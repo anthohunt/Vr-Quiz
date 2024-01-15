@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom scientifique d'un tournesol commun ?",
+            "TrueAnswer": "Helianthus annuus",
+            "FalseAnswer": [
+              "Rosa canina",
+              "Tulipa gesneriana",
+              "Lavandula angustifolia"
+            ],
+            "Explanation": "Le nom scientifique d'un tournesol commun est Helianthus annuus, et il fait partie de la famille des Asteraceae."
+          },
+          {
+            "Question": "Lequel de ces éléments est une plante carnivore ?",
+            "TrueAnswer": "Dionée attrape-mouche",
+            "FalseAnswer": [
+              "Tournesol",
+              "Orchidée",
+              "Cactus"
+            ],
+            "Explanation": "La Dionée attrape-mouche est une plante carnivore qui capture et digère les insectes pour obtenir des nutriments, principalement trouvée dans le sud-est des États-Unis."
+          },
+          {
+            "Question": "Quelle est l'hormone végétale responsable de la phototropisme ?",
+            "TrueAnswer": "Auxine",
+            "FalseAnswer": [
+              "Gibbérelline",
+              "Cytokinine",
+              "Éthylène"
+            ],
+            "Explanation": "L'auxine est l'hormone végétale responsable de la phototropisme, régulant la croissance des plantes en réponse à la lumière, leur permettant de se courber vers les sources lumineuses."
+          },
+          {
+            "Question": "Quelle partie d'une plante est principalement responsable de la photosynthèse ?",
+            "TrueAnswer": "Feuilles",
+            "FalseAnswer": [
+              "Racines",
+              "Tige",
+              "Fleurs"
+            ],
+            "Explanation": "Les feuilles sont le site principal de la photosynthèse chez les plantes, contenant de la chlorophylle et des structures spécialisées appelées stomates pour les échanges gazeux."
+          },
+          {
+            "Question": "Quel type de plante est connu pour ses propriétés succulentes ?",
+            "TrueAnswer": "Cactus",
+            "FalseAnswer": [
+              "Fougère",
+              "Mousse",
+              "Pin"
+            ],
+            "Explanation": "Les cactus sont connus pour leurs propriétés succulentes, adaptés pour stocker de l'eau dans des environnements arides grâce à des tiges modifiées et des feuilles réduites."
+          },
+          {
+            "Question": "Quelle plante est couramment utilisée dans les tisanes pour favoriser la relaxation ?",
+            "TrueAnswer": "Camomille",
+            "FalseAnswer": [
+              "Menthe poivrée",
+              "Lavande",
+              "Échinacée"
+            ],
+            "Explanation": "La camomille est couramment utilisée dans les tisanes pour favoriser la relaxation et réduire le stress, avec des avantages potentiels pour la santé tels qu'une amélioration du sommeil et de la digestion."
+          },
+          {
+            "Question": "Quelle est la fonction principale des racines des plantes ?",
+            "TrueAnswer": "Absorption de l'eau et des nutriments",
+            "FalseAnswer": [
+              "Photosynthèse",
+              "Reproduction",
+              "Soutien"
+            ],
+            "Explanation": "La fonction principale des racines des plantes est l'absorption de l'eau et des nutriments du sol, fournissant des ressources essentielles pour la croissance et le développement."
+          },
+          {
+            "Question": "Lequel des éléments suivants n'est pas un type de tissu végétal ?",
+            "TrueAnswer": "Nerveux",
+            "FalseAnswer": [
+              "Épidermique",
+              "Vasculaire",
+              "Fondamental"
+            ],
+            "Explanation": "Le tissu nerveux est exclusif aux animaux et n'est pas présent chez les plantes, tandis que les tissus épidermique, vasculaire et fondamental sont essentiels à la structure et à la fonction des plantes."
+          },
+          {
+            "Question": "Comment les plantes se reproduisent-elles de manière asexuée ?",
+            "TrueAnswer": "Propagation végétative",
+            "FalseAnswer": [
+              "Spores",
+              "Graines",
+              "Pollen"
+            ],
+            "Explanation": "Les plantes se reproduisent de manière asexuée par propagation végétative, où de nouvelles plantes poussent à partir des racines, des tiges ou des feuilles de la plante mère, sans avoir besoin de graines ou de spores."
+          },
+          {
+            "Question": "Quel élément suivant n'est pas un type de tissu vasculaire des plantes ?",
+            "TrueAnswer": "Collenchyme",
+            "FalseAnswer": [
+              "Xylème",
+              "Phloème",
+              "Cambre"
+            ],
+            "Explanation": "Le collenchyme est un type de tissu fondamental apportant un soutien structurel aux plantes, différent des tissus vasculaires responsables du transport des fluides."
+          },
+          {
+            "Question": "Quel est le processus de transfert du pollen entre les fleurs appelé ?",
+            "TrueAnswer": "Pollinisation",
+            "FalseAnswer": [
+              "Germination",
+              "Fécondation",
+              "Sénescence"
+            ],
+            "Explanation": "La pollinisation est le processus de transfert du pollen entre les fleurs, essentiel pour la fécondation réussie et la production de graines chez les plantes à fleurs."
+          },
+          {
+            "Question": "Où se produit le processus de germination chez une plante ?",
+            "TrueAnswer": "Graine",
+            "FalseAnswer": [
+              "Racine",
+              "Feuille",
+              "Tige"
+            ],
+            "Explanation": "La germination se produit à l'intérieur de la graine, amorçant la croissance d'une nouvelle plante en absorbant de l'eau et en activant des processus métaboliques pour former des racines et des pousses."
+          },
+          {
+            "Question": "Quel est la principale gaz à effet de serre produit par les plantes ?",
+            "TrueAnswer": "Dioxyde de carbone",
+            "FalseAnswer": [
+              "Oxygène",
+              "Méthane",
+              "Azote"
+            ],
+            "Explanation": "Les plantes libèrent de l'oxygène grâce à la photosynthèse et absorbent du dioxyde de carbone, jouant un rôle crucial dans le cycle mondial du carbone et la régulation des gaz atmosphériques."
+          },
+          {
+            "Question": "Quelle est l'étude de la classification des plantes appelée ?",
+            "TrueAnswer": "Taxonomie",
+            "FalseAnswer": [
+              "Botanique",
+              "Écologie",
+              "Génétique"
+            ],
+            "Explanation": "La taxonomie est l'étude scientifique de la classification des plantes, comprenant l'identification, la nomination et l'organisation des espèces végétales en fonction de leurs relations évolutives et de leurs caractéristiques."
+          },
+          {
+            "Question": "Lequel des éléments suivants est une plante parasite sans chlorophylle ?",
+            "TrueAnswer": "Cuscute",
+            "FalseAnswer": [
+              "Pissenlit",
+              "Rose",
+              "Tournesol"
+            ],
+            "Explanation": "La cuscute est une plante parasite qui ne possède pas de chlorophylle, dépendant d'autres plantes pour ses nutriments et son eau grâce à des structures spécialisées appelées haustoria."
+          },
+          {
+            "Question": "Quel est l'organe reproducteur femelle d'une fleur appelé ?",
+            "TrueAnswer": "Pistil",
+            "FalseAnswer": [
+              "Étamines",
+              "Sépale",
+              "Pétales"
+            ],
+            "Explanation": "Le pistil est l'organe reproducteur femelle d'une fleur, comprenant le stigmate, le style et l'ovaire, responsable de la réception du pollen et de la production de graines."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un mécanisme de défense des plantes contre les herbivores?",
+            "TrueAnswer": "Épines",
+            "FalseAnswer": [
+              "Nectar",
+              "Parfum",
+              "Pétales colorés"
+            ],
+            "Explanation": "Les plantes développent des épines comme mécanisme de défense physique contre les herbivores, décourageant le broutage et protégeant contre d'éventuels dommages aux feuilles et aux tiges."
+          },
+          {
+            "Question": "Quel pigment végétal est responsable de la photosynthèse?",
+            "TrueAnswer": "Chlorophylle",
+            "FalseAnswer": [
+              "Anthocyanine",
+              "Caroténoïde",
+              "Xanthophylle"
+            ],
+            "Explanation": "La chlorophylle est le pigment principal responsable de la photosynthèse, captant l'énergie lumineuse et la convertissant en énergie chimique essentielle à la croissance et au développement des plantes."
+          },
+          {
+            "Question": "Quelle est la structure spécialisée dans les plantes pour les échanges gazeux?",
+            "TrueAnswer": "Stomates",
+            "FalseAnswer": [
+              "Bourgeon",
+              "Nœud",
+              "Épine"
+            ],
+            "Explanation": "Les stomates sont des structures spécialisées dans les feuilles des plantes responsables des échanges gazeux, régulant l'absorption du dioxyde de carbone et la libération de l'oxygène lors de la photosynthèse."
+          },
+          {
+            "Question": "Quel type de plante entre en dormance pendant l'hiver?",
+            "TrueAnswer": "Caduc",
+            "FalseAnswer": [
+              "Persistant",
+              "Tropical",
+              "Vivace"
+            ],
+            "Explanation": "Les plantes caduques entrent en dormance et perdent leurs feuilles pendant l'hiver, conservant de l'énergie et s'adaptant aux changements saisonniers de température et de luminosité."
+          }
+        ]
+      }
+    }
+  ]
+}

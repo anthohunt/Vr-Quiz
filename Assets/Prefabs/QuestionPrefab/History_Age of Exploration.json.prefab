@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1648387108859034979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1865265118607069902}
+  - component: {fileID: 3570734168336556985}
+  m_Layer: 0
+  m_Name: History_Age of Exploration.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1865265118607069902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1648387108859034979}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3570734168336556985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1648387108859034979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is credited with discovering America?
+      TrueAnswer: Christopher Columbus
+      FalseAnswer:
+      - Vasco da Gama
+      - Ferdinand Magellan
+      - Amerigo Vespucci
+      Explanation: Christopher Columbus is credited with discovering America in 1492,
+        opening the door to European exploration and colonization.
+    - Question: Which country sponsored Christopher Columbus' voyage?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Portugal
+      - England
+      - France
+      Explanation: Spain sponsored Christopher Columbus' voyage, hoping to find a
+        new trade route to Asia.
+    - Question: Who was the first explorer to circumnavigate the globe?
+      TrueAnswer: Ferdinand Magellan
+      FalseAnswer:
+      - Vasco da Gama
+      - James Cook
+      - "Hern\xE1n Cort\xE9s"
+      Explanation: Ferdinand Magellan was the first explorer to circumnavigate the
+        globe, completing the journey in 1522.
+    - Question: Which country did Vasco da Gama sail for?
+      TrueAnswer: Portugal
+      FalseAnswer:
+      - Spain
+      - England
+      - Netherlands
+      Explanation: Vasco da Gama sailed for Portugal, establishing a sea route from
+        Europe to India in 1498.
+    - Question: Who conquered the Aztec Empire?
+      TrueAnswer: "Hern\xE1n Cort\xE9s"
+      FalseAnswer:
+      - Francisco Pizarro
+      - Christopher Columbus
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: "Hern\xE1n Cort\xE9s conquered the Aztec Empire in 1521, leading
+        to Spanish colonization of Mexico."
+    - Question: Which explorer discovered the sea route to India?
+      TrueAnswer: Vasco da Gama
+      FalseAnswer:
+      - Christopher Columbus
+      - Ferdinand Magellan
+      - James Cook
+      Explanation: Vasco da Gama discovered the sea route to India in 1498, opening
+        up lucrative trade opportunities.
+    - Question: Who was the first European to reach India by sea?
+      TrueAnswer: Vasco da Gama
+      FalseAnswer:
+      - Christopher Columbus
+      - Ferdinand Magellan
+      - James Cook
+      Explanation: Vasco da Gama was the first European to reach India by sea in
+        1498, establishing a direct trade route.
+    - Question: Which explorer is known for discovering the Pacific Ocean?
+      TrueAnswer: "Vasco N\xFA\xF1ez de Balboa"
+      FalseAnswer:
+      - Ferdinand Magellan
+      - James Cook
+      - "Hern\xE1n Cort\xE9s"
+      Explanation: "Vasco N\xFA\xF1ez de Balboa is known for discovering the Pacific
+        Ocean in 1513 while crossing the Isthmus of Panama."
+    - Question: Who is credited with discovering the New World?
+      TrueAnswer: Christopher Columbus
+      FalseAnswer:
+      - Vasco da Gama
+      - Ferdinand Magellan
+      - Amerigo Vespucci
+      Explanation: Christopher Columbus is credited with discovering the New World
+        in 1492, changing the course of history.
+    - Question: Which explorer is known for exploring the coast of Australia?
+      TrueAnswer: James Cook
+      FalseAnswer:
+      - Vasco da Gama
+      - Ferdinand Magellan
+      - "Hern\xE1n Cort\xE9s"
+      Explanation: James Cook is known for exploring and mapping the coast of Australia
+        during his voyages in the 18th century.
+    - Question: Who is known for discovering the Strait of Magellan?
+      TrueAnswer: Ferdinand Magellan
+      FalseAnswer:
+      - Vasco da Gama
+      - James Cook
+      - "Hern\xE1n Cort\xE9s"
+      Explanation: Ferdinand Magellan is known for discovering the Strait of Magellan,
+        a crucial passage connecting the Atlantic and Pacific Oceans.
+    - Question: Which explorer is associated with the search for the Fountain of
+        Youth?
+      TrueAnswer: "Juan Ponce de Le\xF3n"
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: "Juan Ponce de Le\xF3n is associated with the search for the Fountain
+        of Youth in Florida during the early 16th century."
+    - Question: Who is known for exploring the Mississippi River?
+      TrueAnswer: Hernando de Soto
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: Hernando de Soto is known for exploring the Mississippi River
+        and parts of southeastern North America in the 16th century.
+    - Question: Which explorer is associated with the search for El Dorado?
+      TrueAnswer: Sir Walter Raleigh
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: Sir Walter Raleigh is associated with the search for the mythical
+        city of El Dorado in South America.
+    - Question: Who is known for discovering the St. Lawrence River?
+      TrueAnswer: Jacques Cartier
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: Jacques Cartier is known for discovering the St. Lawrence River
+        and exploring parts of present-day Canada.
+    - Question: Which explorer is associated with the search for the Northwest Passage?
+      TrueAnswer: Henry Hudson
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: Henry Hudson is associated with the search for the Northwest Passage,
+        a navigable route through North America to Asia.
+    - Question: Who is known for exploring the coast of California?
+      TrueAnswer: "Juan Rodr\xEDguez Cabrillo"
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: "Juan Rodr\xEDguez Cabrillo is known for exploring the coast of
+        California in the 16th century."
+    - Question: Which explorer is associated with the search for the Seven Cities
+        of Gold?
+      TrueAnswer: "Francisco V\xE1zquez de Coronado"
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: "Francisco V\xE1zquez de Coronado is associated with the search
+        for the Seven Cities of Gold in present-day southwestern United States."
+    - Question: Who is known for exploring the Great Lakes region?
+      TrueAnswer: Samuel de Champlain
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: Samuel de Champlain is known for exploring and establishing settlements
+        in the Great Lakes region of North America.
+    - Question: Which explorer is associated with the search for the Northeast Passage?
+      TrueAnswer: Willem Barentsz
+      FalseAnswer:
+      - Francisco Pizarro
+      - "Hern\xE1n Cort\xE9s"
+      - "Vasco N\xFA\xF1ez de Balboa"
+      Explanation: Willem Barentsz is associated with the search for the Northeast
+        Passage, a sea route over the Arctic connecting Europe and Asia.

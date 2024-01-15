@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3302649938548158883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5725723390226975782}
+  - component: {fileID: 6032934014110107576}
+  m_Layer: 0
+  m_Name: Sports_Sports_Psychology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5725723390226975782
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3302649938548158883}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6032934014110107576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3302649938548158883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most common psychological barrier for athletes?
+      TrueAnswer: Fear of failure
+      FalseAnswer:
+      - Lack of motivation
+      - Overconfidence
+      - Perfectionism
+      Explanation: Fear of failure can lead to performance anxiety and hinder an
+        athlete's ability to take necessary risks.
+    - Question: Which neurotransmitter is associated with reward and motivation in
+        sports psychology?
+      TrueAnswer: Dopamine
+      FalseAnswer:
+      - Serotonin
+      - Endorphins
+      - Acetylcholine
+      Explanation: Dopamine plays a crucial role in reinforcing behaviors related
+        to motivation, drive, and reward-seeking in athletes.
+    - Question: What is the 'choking under pressure' phenomenon in sports psychology?
+      TrueAnswer: Performance decrement
+      FalseAnswer:
+      - Peak performance
+      - Mental resilience
+      - Flow state
+      Explanation: Choking under pressure refers to a significant decline in performance
+        when under high-stakes or stressful situations.
+    - Question: Which type of motivation is more likely to lead to sustained performance
+        in athletes?
+      TrueAnswer: Intrinsic
+      FalseAnswer:
+      - Extrinsic
+      - Amotivation
+      - Introjected
+      Explanation: Intrinsic motivation, driven by personal enjoyment and satisfaction,
+        is linked to better long-term athletic commitment and performance.
+    - Question: What is the primary focus of imagery in sports psychology?
+      TrueAnswer: Mental rehearsal
+      FalseAnswer:
+      - Physical strength
+      - Tactical strategies
+      - Relaxation techniques
+      Explanation: Imagery is used to mentally rehearse successful performance and
+        develop confidence and psychological readiness for competition.
+    - Question: What does 'self-efficacy' refer to in sports psychology?
+      TrueAnswer: Belief in one's capabilities
+      FalseAnswer:
+      - Mental toughness
+      - Goal-setting
+      - Concentration skills
+      Explanation: Self-efficacy reflects an athlete's belief in their capability
+        to execute tasks and overcome challenges in sport.
+    - Question: What psychological skill is used to manage anxiety in sports?
+      TrueAnswer: Arousal regulation
+      FalseAnswer:
+      - Attentional focus
+      - Self-talk
+      - Energy management
+      Explanation: Arousal regulation involves controlling the level of excitement
+        or energy to optimize performance and cope with anxiety.
+    - Question: Which psychological theory emphasizes the role of self-determination
+        in motivation?
+      TrueAnswer: Self-determination theory
+      FalseAnswer:
+      - Cognitive dissonance theory
+      - Hierarchy of needs
+      - Expectancy theory
+      Explanation: Self-determination theory focuses on the innate psychological
+        needs for autonomy, competence, and relatedness in motivation.
+    - Question: What is a common cognitive distortion in sports psychology that can
+        impair performance?
+      TrueAnswer: Catastrophizing
+      FalseAnswer:
+      - Mindfulness
+      - Positive reframing
+      - Rationalization
+      Explanation: Catastrophizing involves magnifying the importance of negative
+        events and anticipating the worst outcomes, leading to anxiety and underperformance.
+    - Question: What is the most effective coping strategy for handling burnout in
+        athletes?
+      TrueAnswer: Rest and recovery
+      FalseAnswer:
+      - Increased training intensity
+      - Social isolation
+      - Emotional suppression
+      Explanation: Rest and recovery, along with proper support systems, are essential
+        for overcoming burnout and restoring mental and physical well-being in athletes.
+    - Question: What is the term for the phenomenon in which individuals lose motivation
+        due to frequent rewards?
+      TrueAnswer: Overjustification effect
+      FalseAnswer:
+      - Intrinsic motivation
+      - Goal-setting theory
+      - Positive reinforcement
+      Explanation: The overjustification effect occurs when external rewards undermine
+        intrinsic motivation, leading to decreased interest and performance in activities.
+    - Question: What is the primary focus of mental skills training in sports psychology?
+      TrueAnswer: Enhancing performance
+      FalseAnswer:
+      - Stress avoidance
+      - Social bonding
+      - Injury prevention
+      Explanation: Mental skills training aims to improve athletes' psychological
+        abilities and cognitive processes to optimize their performance in competitive
+        settings.
+    - Question: What is the term for a state of optimal experience and immersion
+        in an activity in sports psychology?
+      TrueAnswer: Flow state
+      FalseAnswer:
+      - Burnout
+      - Boredom
+      - Disengagement
+      Explanation: The flow state is characterized by intense focus, complete absorption,
+        and a sense of effortless control, leading to peak performance and enjoyment.
+    - Question: What is the primary objective of goal setting in sports psychology?
+      TrueAnswer: Enhancing motivation
+      FalseAnswer:
+      - Reducing anxiety
+      - Improving technique
+      - Building team cohesion
+      Explanation: Goal setting provides athletes with direction, focus, and a sense
+        of achievement, which can enhance their motivation and persistence.
+    - Question: What is the term for the process of evaluating and modifying thoughts
+        in sports psychology?
+      TrueAnswer: Cognitive restructuring
+      FalseAnswer:
+      - Mental imagery
+      - Relaxation training
+      - Biofeedback
+      Explanation: Cognitive restructuring helps athletes identify and change maladaptive
+        thoughts and beliefs to enhance performance and emotional well-being.
+    - Question: What is the term for the process of transferring skills from practice
+        to competition in sports psychology?
+      TrueAnswer: Skill transfer
+      FalseAnswer:
+      - Performance enhancement
+      - Mental preparation
+      - Psychological conditioning
+      Explanation: Skill transfer involves effectively applying learned skills and
+        techniques from training to competitive and high-pressure situations in sports.
+    - Question: What is the primary focus of self-talk in sports psychology?
+      TrueAnswer: Enhancing confidence
+      FalseAnswer:
+      - Regulating emotions
+      - Improving focus
+      - Building trust
+      Explanation: Positive self-talk can cultivate self-confidence, enhance motivation,
+        and maintain focus, contributing to improved athletic performance.
+    - Question: What is the term for the process of focusing attention on relevant
+        environmental cues in sports psychology?
+      TrueAnswer: Selective attention
+      FalseAnswer:
+      - Divided attention
+      - Sustained attention
+      - Visual scanning
+      Explanation: Selective attention involves concentrating on specific cues while
+        filtering out distractions, enhancing an athlete's performance and decision-making
+        in sports.
+    - Question: What is the purpose of using biofeedback in sports psychology?
+      TrueAnswer: Regulating physiological responses
+      FalseAnswer:
+      - Improving reaction time
+      - Enhancing coordination
+      - Increasing muscular strength
+      Explanation: Biofeedback helps athletes monitor and control physiological functions,
+        such as heart rate and muscle tension, to enhance performance and reduce
+        anxiety.

@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4654912978294889850
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7364583619320114971}
+  - component: {fileID: 6358092281254349262}
+  m_Layer: 0
+  m_Name: Science_Evolutionary Biology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7364583619320114971
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4654912978294889850}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6358092281254349262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4654912978294889850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the process by which species change over time?
+      TrueAnswer: Evolution
+      FalseAnswer:
+      - Mutation
+      - Adaptation
+      - Natural Selection
+      Explanation: Evolution is the process by which species change over time through
+        genetic variation and natural selection.
+    - Question: Who proposed the theory of evolution by natural selection?
+      TrueAnswer: Charles Darwin
+      FalseAnswer:
+      - Gregor Mendel
+      - Alfred Russel Wallace
+      - Jean-Baptiste Lamarck
+      Explanation: Charles Darwin is the scientist who proposed the theory of evolution
+        by natural selection in his book 'On the Origin of Species'.
+    - Question: What is the study of the similarities and differences in the genetic
+        makeup of organisms?
+      TrueAnswer: Comparative genomics
+      FalseAnswer:
+      - Molecular biology
+      - Population genetics
+      - Phylogenetics
+      Explanation: Comparative genomics is the study of the similarities and differences
+        in the genetic makeup of organisms to understand evolutionary relationships.
+    - Question: What is the term for the process by which new species arise?
+      TrueAnswer: Speciation
+      FalseAnswer:
+      - Mutation
+      - Hybridization
+      - Genetic drift
+      Explanation: Speciation is the process by which new species arise through reproductive
+        isolation and genetic divergence.
+    - Question: What is the name for the study of the fossil record and the history
+        of life on Earth?
+      TrueAnswer: Paleontology
+      FalseAnswer:
+      - Embryology
+      - Ecology
+      - Ethology
+      Explanation: Paleontology is the study of the fossil record and the history
+        of life on Earth, including the evolution of organisms.
+    - Question: What is the term for the process by which organisms become better
+        suited to their environment?
+      TrueAnswer: Adaptation
+      FalseAnswer:
+      - Mutation
+      - Natural selection
+      - Genetic drift
+      Explanation: Adaptation is the process by which organisms become better suited
+        to their environment through genetic changes that enhance survival and reproduction.
+    - Question: What is the name for the study of the distribution of species and
+        ecosystems?
+      TrueAnswer: Biogeography
+      FalseAnswer:
+      - Ecology
+      - Ethology
+      - Conservation biology
+      Explanation: Biogeography is the study of the distribution of species and ecosystems
+        across geographic space and through geological time.
+    - Question: What is the term for the process by which individuals with advantageous
+        traits survive and reproduce more successfully?
+      TrueAnswer: Natural selection
+      FalseAnswer:
+      - Mutation
+      - Genetic drift
+      - Gene flow
+      Explanation: Natural selection is the process by which individuals with advantageous
+        traits survive and reproduce more successfully, leading to the evolution
+        of populations.
+    - Question: What is the name for the study of the genetic variation within and
+        between populations?
+      TrueAnswer: Population genetics
+      FalseAnswer:
+      - Molecular biology
+      - Comparative genomics
+      - Phylogenetics
+      Explanation: Population genetics is the study of the genetic variation within
+        and between populations, providing insights into evolutionary processes.
+    - Question: What is the term for the transfer of genetic material from one population
+        to another?
+      TrueAnswer: Gene flow
+      FalseAnswer:
+      - Mutation
+      - Genetic drift
+      - Recombination
+      Explanation: Gene flow is the transfer of genetic material from one population
+        to another, leading to genetic mixing and potential evolutionary changes.
+    - Question: What is the name for the study of the evolutionary history and relationships
+        among organisms?
+      TrueAnswer: Phylogenetics
+      FalseAnswer:
+      - Embryology
+      - Ecology
+      - Ethology
+      Explanation: Phylogenetics is the study of the evolutionary history and relationships
+        among organisms, often represented by phylogenetic trees.
+    - Question: What is the term for a trait that is shared by two or more species
+        due to common ancestry?
+      TrueAnswer: Homologous
+      FalseAnswer:
+      - Analogous
+      - Vestigial
+      - Convergent
+      Explanation: Homologous traits are shared by two or more species due to common
+        ancestry, indicating evolutionary relationships.
+    - Question: What is the name for the study of the development of organisms from
+        fertilization to adulthood?
+      TrueAnswer: Embryology
+      FalseAnswer:
+      - Paleontology
+      - Ecology
+      - Ethology
+      Explanation: Embryology is the study of the development of organisms from fertilization
+        to adulthood, providing insights into evolutionary processes.
+    - Question: What is the term for a structure that has lost its original function
+        in the course of evolution?
+      TrueAnswer: Vestigial
+      FalseAnswer:
+      - Homologous
+      - Analogous
+      - Convergent
+      Explanation: Vestigial structures are remnants of once-functional traits that
+        have lost their original function in the course of evolution.
+    - Question: What is the name for the study of animal behavior in natural environments?
+      TrueAnswer: Ethology
+      FalseAnswer:
+      - Paleontology
+      - Ecology
+      - Embryology
+      Explanation: Ethology is the study of animal behavior in natural environments,
+        providing insights into evolutionary adaptations and social interactions.
+    - Question: What is the term for a trait that has evolved independently in different
+        species?
+      TrueAnswer: Analogous
+      FalseAnswer:
+      - Homologous
+      - Vestigial
+      - Convergent
+      Explanation: Analogous traits have evolved independently in different species,
+        often due to similar environmental pressures, but without a common ancestry.
+    - Question: What is the name for the study of the interactions between organisms
+        and their environment?
+      TrueAnswer: Ecology
+      FalseAnswer:
+      - Paleontology
+      - Embryology
+      - Ethology
+      Explanation: Ecology is the study of the interactions between organisms and
+        their environment, including the effects of these interactions on evolution.
+    - Question: What is the term for the random change in allele frequencies in a
+        population?
+      TrueAnswer: Genetic drift
+      FalseAnswer:
+      - Mutation
+      - Natural selection
+      - Gene flow
+      Explanation: Genetic drift is the random change in allele frequencies in a
+        population, often due to chance events, and can lead to evolutionary changes.
+    - Question: What is the name for the study of the molecular basis of biological
+        activity?
+      TrueAnswer: Molecular biology
+      FalseAnswer:
+      - Comparative genomics
+      - Population genetics
+      - Phylogenetics
+      Explanation: Molecular biology is the study of the molecular basis of biological
+        activity, including the mechanisms of evolution at the genetic level.
+    - Question: What is the term for the process by which new species arise through
+        hybridization?
+      TrueAnswer: Hybrid speciation
+      FalseAnswer:
+      - Mutation
+      - Genetic drift
+      - Recombination
+      Explanation: Hybrid speciation is the process by which new species arise through
+        the hybridization of two different species.
+    - Question: What is the name for the study of the conservation and preservation
+        of biodiversity?
+      TrueAnswer: Conservation biology
+      FalseAnswer:
+      - Biogeography
+      - Ecology
+      - Ethology
+      Explanation: Conservation biology is the study of the conservation and preservation
+        of biodiversity, including the impacts of human activities on evolution.

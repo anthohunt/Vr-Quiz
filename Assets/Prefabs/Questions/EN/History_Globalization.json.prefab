@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4512528141135635026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8024994194835624180}
+  - component: {fileID: 8079556877941302024}
+  m_Layer: 0
+  m_Name: History_Globalization.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8024994194835624180
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4512528141135635026}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8079556877941302024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4512528141135635026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year did the European Union officially adopt the euro as its
+        common currency?
+      TrueAnswer: 1999
+      FalseAnswer:
+      - 2002
+      - 1995
+      - 2005
+      Explanation: The euro was introduced to world financial markets as an accounting
+        currency on 1 January 1999 before coins and banknotes were introduced in
+        2002.
+    - Question: Which of the following is considered a founding document of globalization?
+      TrueAnswer: The Silk Road
+      FalseAnswer:
+      - The Treaty of Westphalia
+      - The Magna Carta
+      - The Berlin Conference
+      Explanation: The Silk Road, established during the Han dynasty of China, facilitated
+        trade and cultural exchange between East and West for centuries.
+    - Question: Who was the creator of the concept of the 'world system' in the study
+        of globalization?
+      TrueAnswer: Immanuel Wallerstein
+      FalseAnswer:
+      - Adam Smith
+      - Karl Marx
+      - Friedrich Engels
+      Explanation: Wallerstein's world-systems theory emphasizes the interdependence
+        of countries in the global economy, contributing to the understanding of
+        globalization as a historical process.
+    - Question: What was the name of the financial crisis that had a significant
+        impact on global markets in 2008?
+      TrueAnswer: The Great Recession
+      FalseAnswer:
+      - The Black Monday
+      - The Dot-Com Bubble
+      - The Asian Financial Crisis
+      Explanation: The Great Recession was a severe global economic crisis that stemmed
+        from the subprime mortgage market collapse and had widespread repercussions
+        on various financial systems.
+    - Question: Which international trade agreement established the World Trade Organization
+        (WTO) in 1995?
+      TrueAnswer: The Uruguay Round
+      FalseAnswer:
+      - The Bretton Woods Agreement
+      - The Marshall Plan
+      - The Plaza Accord
+      Explanation: The Uruguay Round negotiations led to the creation of the WTO,
+        shaping global trade regulations and significantly impacting the process
+        of globalization.
+    - Question: In what year did the Berlin Wall come down, symbolizing the end of
+        the Cold War division in Europe?
+      TrueAnswer: 1989
+      FalseAnswer:
+      - 1991
+      - 1985
+      - 1993
+      Explanation: The fall of the Berlin Wall on November 9, 1989, marked a pivotal
+        moment in history, signifying the reunification of East and West Germany
+        and the end of the Cold War era.
+    - Question: Which region was the primary focus of the Columbian Exchange during
+        the Age of Discovery?
+      TrueAnswer: The Americas
+      FalseAnswer:
+      - Europe
+      - Africa
+      - Asia
+      Explanation: The Columbian Exchange facilitated the transfer of plants, animals,
+        and diseases between the New World and the Old World following Christopher
+        Columbus' voyages in 1492.
+    - Question: What is the term for the process of integrating national economies
+        into the international economy through trade, investment, and technology?
+      TrueAnswer: Globalization
+      FalseAnswer:
+      - Industrialization
+      - Colonization
+      - Isolationism
+      Explanation: Globalization represents the interconnectedness and interdependence
+        of nations, promoting the global flow of goods, services, capital, and knowledge.
+    - Question: Which multinational organization aims to promote economic cooperation
+        and development among its member countries?
+      TrueAnswer: The Organization for Economic Co-operation and Development (OECD)
+      FalseAnswer:
+      - International Monetary Fund (IMF)
+      - World Bank
+      - United Nations (UN)
+      Explanation: The OECD works to enhance global economic growth and sustainable
+        development through policy analysis and collaborative initiatives among its
+        member states.
+    - Question: Which country is credited with playing a central role in the resurgence
+        of global trade during the Age of Exploration?
+      TrueAnswer: Portugal
+      FalseAnswer:
+      - Spain
+      - England
+      - France
+      Explanation: Portugal, through explorers like Vasco da Gama and Ferdinand Magellan,
+        established trade routes and maritime supremacy, contributing to the expansion
+        of global commerce.
+    - Question: What is the term for the economic system based on private ownership
+        and free market principles that has influenced globalization?
+      TrueAnswer: Capitalism
+      FalseAnswer:
+      - Socialism
+      - Communism
+      - Feudalism
+      Explanation: Capitalism has played a pivotal role in shaping global economic
+        relations, facilitating trade, investment, and the accumulation of wealth
+        across national boundaries.
+    - Question: Which technological advancement significantly accelerated global
+        communication and connectivity in the late 20th century?
+      TrueAnswer: The Internet
+      FalseAnswer:
+      - Television
+      - Radio
+      - Telegraph
+      Explanation: The rapid expansion of the internet and digital technologies revolutionized
+        global communication, fostering interconnectedness and facilitating the exchange
+        of information and ideas worldwide.
+    - Question: What is the term for the process of adapting global products and
+        services to suit local preferences and cultural nuances?
+      TrueAnswer: Glocalization
+      FalseAnswer:
+      - Standardization
+      - Westernization
+      - Colonization
+      Explanation: Glocalization reflects the strategy of blending global and local
+        elements to resonate with diverse consumer markets, emphasizing cultural
+        sensitivity and customization.
+    - Question: Which economic concept refers to the reduction of barriers to trade,
+        investment, and migration between nations?
+      TrueAnswer: Economic Liberalization
+      FalseAnswer:
+      - Protectionism
+      - Mercantilism
+      - Isolationism
+      Explanation: Economic liberalization advocates for free market policies and
+        open borders, fostering cross-border economic integration and influencing
+        the trajectory of globalization.
+    - Question: Which international organization serves as a forum for the coordination
+        of global monetary and financial policies?
+      TrueAnswer: The International Monetary Fund (IMF)
+      FalseAnswer:
+      - World Bank
+      - World Trade Organization (WTO)
+      - United Nations (UN)
+      Explanation: The IMF aims to promote global monetary cooperation, secure financial
+        stability, facilitate international trade, and support sustainable economic
+        growth across member countries.
+    - Question: What term describes the movement of people across borders in pursuit
+        of employment, education, or resettlement?
+      TrueAnswer: Migration
+      FalseAnswer:
+      - Isolationism
+      - Emancipation
+      - Segregation
+      Explanation: Migration has shaped demographic trends and cultural landscapes,
+        influencing labor markets, social dynamics, and the transnational diffusion
+        of ideas and practices.
+    - Question: Which historical event is often considered a catalyst for the onset
+        of modern globalization?
+      TrueAnswer: The Age of Exploration
+      FalseAnswer:
+      - The Industrial Revolution
+      - The Protestant Reformation
+      - The Renaissance
+      Explanation: The Age of Exploration, characterized by maritime discoveries
+        and transcontinental exchanges, laid the foundation for interconnected global
+        networks and cultural diffusion.
+    - Question: What is the term for the policy of extending a country's power and
+        influence through diplomacy or military force?
+      TrueAnswer: Imperialism
+      FalseAnswer:
+      - Nationalism
+      - Isolationism
+      - Colonialism
+      Explanation: Imperialism encompassed the expansion and dominance of empires,
+        influencing global trade, territorial acquisitions, and the spread of cultural
+        and economic influence.
+    - Question: Which international treaty established the principles and regulations
+        governing global maritime trade and navigation?
+      TrueAnswer: The Treaty of Tordesillas
+      FalseAnswer:
+      - The Treaty of Versailles
+      - The Treaty of Utrecht
+      - The Treaty of Nanking
+      Explanation: The Treaty of Tordesillas, signed in 1494, divided the newly discovered
+        lands outside Europe between Portugal and Spain, influencing subsequent global
+        trade and colonization.
+    - Question: What economic theory advocates for unrestricted international trade
+        and the absence of governmental interference in the economy?
+      TrueAnswer: Laissez-faire capitalism
+      FalseAnswer:
+      - Keynesian economics
+      - Marxism
+      - Mercantilism
+      Explanation: Laissez-faire capitalism promotes minimal government intervention
+        in economic affairs, emphasizing free trade, competitive markets, and individual
+        economic liberty.

@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3781091104866485741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2193472408801867704}
+  - component: {fileID: 4240067276843437987}
+  m_Layer: 0
+  m_Name: Fashion and Design_Fashion Trends Through the Decades.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2193472408801867704
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781091104866485741}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4240067276843437987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3781091104866485741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which fashion trend was popular in the 1920s?
+      TrueAnswer: Flapper dresses
+      FalseAnswer:
+      - Bell-bottom pants
+      - Shoulder pads
+      - Mini skirts
+      Explanation: Flapper dresses were a popular fashion trend in the 1920s, characterized
+        by their loose and straight silhouette.
+    - Question: What was a popular accessory in the 1950s?
+      TrueAnswer: Pearl necklace
+      FalseAnswer:
+      - Choker necklace
+      - Beaded bracelet
+      - Feathered headband
+      Explanation: Pearl necklaces were a popular accessory in the 1950s, often worn
+        with elegant dresses and suits.
+    - Question: Which fashion trend emerged in the 1960s?
+      TrueAnswer: Mini skirts
+      FalseAnswer:
+      - Wide-brimmed hats
+      - Platform shoes
+      - Tie-dye shirts
+      Explanation: Mini skirts became a popular fashion trend in the 1960s, reflecting
+        the changing attitudes towards women's liberation.
+    - Question: What was a popular hairstyle in the 1970s?
+      TrueAnswer: Afro
+      FalseAnswer:
+      - Pixie cut
+      - Beehive
+      - Mullet
+      Explanation: The afro hairstyle gained popularity in the 1970s, representing
+        African-American pride and cultural identity.
+    - Question: Which fashion trend was popular in the 1980s?
+      TrueAnswer: Shoulder pads
+      FalseAnswer:
+      - Flared jeans
+      - Crop tops
+      - Leg warmers
+      Explanation: Shoulder pads were a popular fashion trend in the 1980s, adding
+        a bold and powerful silhouette to outfits.
+    - Question: What was a popular fabric in the 1990s?
+      TrueAnswer: Denim
+      FalseAnswer:
+      - Velvet
+      - Silk
+      - Lace
+      Explanation: Denim became a popular fabric in the 1990s, with denim jackets,
+        jeans, and skirts being staple pieces.
+    - Question: Which fashion trend emerged in the 2000s?
+      TrueAnswer: Low-rise jeans
+      FalseAnswer:
+      - Maxi dresses
+      - Cargo pants
+      - Turtleneck sweaters
+      Explanation: Low-rise jeans became a popular fashion trend in the 2000s, often
+        paired with crop tops and belly button piercings.
+    - Question: What was a popular shoe style in the 1920s?
+      TrueAnswer: T-strap heels
+      FalseAnswer:
+      - Sneakers
+      - Ankle boots
+      - Wedge sandals
+      Explanation: T-strap heels were a popular shoe style in the 1920s, adding elegance
+        and sophistication to women's outfits.
+    - Question: Which fashion trend was popular in the 1950s?
+      TrueAnswer: Poodle skirts
+      FalseAnswer:
+      - Leather jackets
+      - Pleated trousers
+      - Bolero jackets
+      Explanation: Poodle skirts were a popular fashion trend in the 1950s, often
+        worn with petticoats and saddle shoes.
+    - Question: What was a popular accessory in the 1960s?
+      TrueAnswer: Go-go boots
+      FalseAnswer:
+      - Wide-brimmed hats
+      - Statement necklaces
+      - Leather gloves
+      Explanation: Go-go boots were a popular accessory in the 1960s, often worn
+        with mini skirts and shift dresses.
+    - Question: Which fashion trend emerged in the 1970s?
+      TrueAnswer: Bell-bottom pants
+      FalseAnswer:
+      - Pleated skirts
+      - Turtleneck sweaters
+      - Wide-brimmed hats
+      Explanation: Bell-bottom pants became a popular fashion trend in the 1970s,
+        influenced by the hippie and disco cultures.
+    - Question: What was a popular hairstyle in the 1980s?
+      TrueAnswer: Mullet
+      FalseAnswer:
+      - Pixie cut
+      - Beehive
+      - Afro
+      Explanation: The mullet hairstyle gained popularity in the 1980s, characterized
+        by short hair on the front and sides and long hair at the back.
+    - Question: Which fashion trend was popular in the 1990s?
+      TrueAnswer: Flannel shirts
+      FalseAnswer:
+      - Sequined dresses
+      - Cargo pants
+      - Choker necklaces
+      Explanation: Flannel shirts became a popular fashion trend in the 1990s, associated
+        with the grunge and alternative music scene.
+    - Question: What was a popular fabric in the 2000s?
+      TrueAnswer: Velour
+      FalseAnswer:
+      - Cotton
+      - Leather
+      - Satin
+      Explanation: Velour became a popular fabric in the 2000s, often used in tracksuits
+        and loungewear.
+    - Question: Which fashion trend emerged in the 2010s?
+      TrueAnswer: Athleisure
+      FalseAnswer:
+      - Corsets
+      - Wide-leg pants
+      - Peplum tops
+      Explanation: Athleisure became a popular fashion trend in the 2010s, blurring
+        the lines between athletic wear and everyday clothing.
+    - Question: What was a popular shoe style in the 1920s?
+      TrueAnswer: Mary Janes
+      FalseAnswer:
+      - Sneakers
+      - Ankle boots
+      - Wedge sandals
+      Explanation: Mary Janes were a popular shoe style in the 1920s, characterized
+        by a strap across the instep and a low heel.
+    - Question: Which fashion trend was popular in the 1950s?
+      TrueAnswer: Full skirts
+      FalseAnswer:
+      - Leather jackets
+      - Pleated trousers
+      - Bolero jackets
+      Explanation: Full skirts were a popular fashion trend in the 1950s, often worn
+        with petticoats and cinched waistlines.
+    - Question: What was a popular accessory in the 1960s?
+      TrueAnswer: Headbands
+      FalseAnswer:
+      - Wide-brimmed hats
+      - Statement necklaces
+      - Leather gloves
+      Explanation: Headbands were a popular accessory in the 1960s, often worn with
+        long, flowing hair and bohemian-inspired outfits.
+    - Question: Which fashion trend emerged in the 1970s?
+      TrueAnswer: Platform shoes
+      FalseAnswer:
+      - Pleated skirts
+      - Turtleneck sweaters
+      - Wide-brimmed hats
+      Explanation: Platform shoes became a popular fashion trend in the 1970s, adding
+        height and a disco-inspired flair to outfits.
+    - Question: What was a popular hairstyle in the 1980s?
+      TrueAnswer: Perm
+      FalseAnswer:
+      - Pixie cut
+      - Beehive
+      - Afro
+      Explanation: The perm hairstyle gained popularity in the 1980s, characterized
+        by curly or wavy hair achieved through chemical treatments.
+    - Question: Which fashion trend was popular in the 1990s?
+      TrueAnswer: Overalls
+      FalseAnswer:
+      - Sequined dresses
+      - Cargo pants
+      - Choker necklaces
+      Explanation: Overalls became a popular fashion trend in the 1990s, often worn
+        with crop tops and sneakers for a casual look.
+    - Question: What was a popular fabric in the 2000s?
+      TrueAnswer: Juicy Couture
+      FalseAnswer:
+      - Cotton
+      - Leather
+      - Satin
+      Explanation: Juicy Couture velour tracksuits became a popular fabric in the
+        2000s, often associated with celebrity culture and luxury loungewear.

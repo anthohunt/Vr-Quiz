@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4271376411252052510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 959646833477735144}
+  - component: {fileID: 7484730748297190834}
+  m_Layer: 0
+  m_Name: History_Technological_Advancements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &959646833477735144
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4271376411252052510}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7484730748297190834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4271376411252052510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: When was the first telephone patented?
+      TrueAnswer: 1876
+      FalseAnswer:
+      - 1843
+      - 1901
+      - 1910
+      Explanation: The first telephone was patented by Alexander Graham Bell on March
+        7, 1876, revolutionizing communication.
+    - Question: Who invented the World Wide Web?
+      TrueAnswer: Tim Berners-Lee
+      FalseAnswer:
+      - Mark Zuckerberg
+      - Steve Jobs
+      - Bill Gates
+      Explanation: Tim Berners-Lee, a British computer scientist, invented the World
+        Wide Web in 1989, changing the information age.
+    - Question: What year was the first computer mouse invented?
+      TrueAnswer: 1964
+      FalseAnswer:
+      - 1950
+      - 1976
+      - 1985
+      Explanation: The first computer mouse, invented by Doug Engelbart, was publicly
+        unveiled in 1968, becoming an essential peripheral.
+    - Question: In what year was the printing press invented?
+      TrueAnswer: 1440
+      FalseAnswer:
+      - 1300
+      - 1556
+      - 1605
+      Explanation: In 1440, Johannes Gutenberg introduced the mechanical movable-type
+        printing press, revolutionizing the spread of information.
+    - Question: Who invented the first practical telephone?
+      TrueAnswer: Alexander Graham Bell
+      FalseAnswer:
+      - Thomas Edison
+      - Nikola Tesla
+      - Benjamin Franklin
+      Explanation: Alexander Graham Bell is credited with inventing the first practical
+        telephone in 1876, impacting global communication.
+    - Question: What year did the first electronic programmable computer debut?
+      TrueAnswer: 1943
+      FalseAnswer:
+      - 1930
+      - 1955
+      - 1967
+      Explanation: The first electronic programmable computer, the Colossus, was
+        developed in 1943, marking a significant technological milestone.
+    - Question: Which year was the first commercial cell phone released?
+      TrueAnswer: 1983
+      FalseAnswer:
+      - 1975
+      - 1990
+      - 2000
+      Explanation: The DynaTAC 8000X was the first commercially available cell phone,
+        released by Motorola in 1983, revolutionizing mobile communication.
+    - Question: Who invented the first computer?
+      TrueAnswer: Charles Babbage
+      FalseAnswer:
+      - Alan Turing
+      - Ada Lovelace
+      - Steve Jobs
+      Explanation: Considered the 'father of the computer,' Charles Babbage designed
+        the first general-purpose mechanical computer in the 1830s.
+    - Question: What year was the first digital camera invented?
+      TrueAnswer: 1975
+      FalseAnswer:
+      - 1985
+      - 1995
+      - 2005
+      Explanation: In 1975, Steve Sasson invented the first digital camera, revolutionizing
+        the way images are captured and stored.
+    - Question: Which year was the first commercially available personal computer
+        released?
+      TrueAnswer: 1975
+      FalseAnswer:
+      - 1985
+      - 1995
+      - 2005
+      Explanation: The Altair 8800, released in 1975, was the first commercially
+        successful personal computer, spurring the microcomputer revolution.
+    - Question: Who is considered the inventor of the radio?
+      TrueAnswer: Guglielmo Marconi
+      FalseAnswer:
+      - Thomas Edison
+      - Nikola Tesla
+      - Alexander Graham Bell
+      Explanation: Guglielmo Marconi achieved the first successful transatlantic
+        wireless telegraphy transmission and is credited with inventing the radio.
+    - Question: What year was the first modern electric car developed?
+      TrueAnswer: 1996
+      FalseAnswer:
+      - 1970
+      - 1985
+      - 2005
+      Explanation: General Motors released the EV1, the first modern electric car,
+        in 1996, pioneering the modern electric vehicle market.
+    - Question: Who is known for developing the first successful airplane?
+      TrueAnswer: Wright Brothers
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Amelia Earhart
+      - Howard Hughes
+      Explanation: Orville and Wilbur Wright are credited with achieving the first
+        successful powered flight in 1903, propelling aviation development.
+    - Question: What year did the first commercial jet airliner enter service?
+      TrueAnswer: 1952
+      FalseAnswer:
+      - 1965
+      - 1977
+      - 1989
+      Explanation: The de Havilland Comet, the first commercial jet airliner, entered
+        service in 1952, revolutionizing air travel.
+    - Question: Who invented the first practical steam engine for industrial use?
+      TrueAnswer: James Watt
+      FalseAnswer:
+      - Thomas Edison
+      - Nikola Tesla
+      - Benjamin Franklin
+      Explanation: James Watt's improvements to the steam engine in the late 18th
+        century drove the Industrial Revolution and transformed industry.
+    - Question: What year was the first modern smartphone introduced?
+      TrueAnswer: 2007
+      FalseAnswer:
+      - 1995
+      - 2000
+      - 2010
+      Explanation: Apple's iPhone, released in 2007, set a new standard for smartphones,
+        combining powerful technology with user-friendly design.
+    - Question: Who developed the first successful motion-picture camera?
+      TrueAnswer: Thomas Edison
+      FalseAnswer:
+      - "Lumi\xE8re Brothers"
+      - George Eastman
+      - Alfred Hitchcock
+      Explanation: Thomas Edison's team invented the Kinetograph in 1891, pioneering
+        motion-picture technology and early filmmaking.
+    - Question: In what year was the first digital computer introduced?
+      TrueAnswer: 1943
+      FalseAnswer:
+      - 1955
+      - 1967
+      - 1975
+      Explanation: The Electronic Numerical Integrator and Computer (ENIAC) was unveiled
+        in 1943, marking the birth of the digital computer age.
+    - Question: Who is credited with inventing the first successful lightbulb?
+      TrueAnswer: Thomas Edison
+      FalseAnswer:
+      - Nikola Tesla
+      - Benjamin Franklin
+      - James Watt
+      Explanation: Thomas Edison's incandescent light bulb, patented in 1879, revolutionized
+        illumination and modernized daily life.
+    - Question: What year was the World's first web browser introduced?
+      TrueAnswer: 1990
+      FalseAnswer:
+      - 1980
+      - 2000
+      - 2010
+      Explanation: Sir Tim Berners-Lee invented the first web browser and editor,
+        WorldWideWeb, in 1990, shaping the early internet experience.

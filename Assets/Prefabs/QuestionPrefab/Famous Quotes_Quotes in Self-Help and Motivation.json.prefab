@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6256534916698116411
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4221781519410601728}
+  - component: {fileID: 5527539441740321842}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes in Self-Help and Motivation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4221781519410601728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6256534916698116411}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5527539441740321842
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6256534916698116411}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, the co-founder of Apple Inc., emphasized the importance
+        of passion in achieving success.
+    - Question: Which famous author said, 'The only person you are destined to become
+        is the person you decide to be'?
+      TrueAnswer: Ralph Waldo Emerson
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Ralph Waldo Emerson, a renowned American essayist, highlighted
+        the power of personal choice and determination.
+    - Question: Who said, 'Believe you can and you're halfway there'?
+      TrueAnswer: Theodore Roosevelt
+      FalseAnswer:
+      - Abraham Lincoln
+      - George Washington
+      - Thomas Jefferson
+      Explanation: Theodore Roosevelt, the 26th President of the United States, emphasized
+        the importance of self-belief and confidence.
+    - Question: Which famous motivational speaker said, 'Your time is limited, don't
+        waste it living someone else's life'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Tony Robbins
+      - Les Brown
+      - Zig Ziglar
+      Explanation: Steve Jobs, the co-founder of Apple Inc., encouraged individuals
+        to live authentically and pursue their own dreams.
+    - Question: 'Who said, ''Success is not final, failure is not fatal: It is the
+        courage to continue that counts''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      - Mahatma Gandhi
+      Explanation: Winston Churchill, the former Prime Minister of the United Kingdom,
+        emphasized the importance of resilience and perseverance.
+    - Question: Which famous author said, 'The only limit to our realization of tomorrow
+        will be our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - Ronald Reagan
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        highlighted the role of self-belief in achieving future success.
+    - Question: Who said, 'The best revenge is massive success'?
+      TrueAnswer: Frank Sinatra
+      FalseAnswer:
+      - Elvis Presley
+      - Michael Jackson
+      - John Lennon
+      Explanation: Frank Sinatra, a legendary singer and actor, suggested that achieving
+        great success is the most powerful form of revenge.
+    - Question: Which famous entrepreneur said, 'The biggest risk is not taking any
+        risk'?
+      TrueAnswer: Mark Zuckerberg
+      FalseAnswer:
+      - Jeff Bezos
+      - Elon Musk
+      - Richard Branson
+      Explanation: Mark Zuckerberg, the co-founder of Facebook, emphasized the importance
+        of taking calculated risks in entrepreneurship.
+    - Question: Who said, 'The future belongs to those who believe in the beauty
+        of their dreams'?
+      TrueAnswer: Eleanor Roosevelt
+      FalseAnswer:
+      - Michelle Obama
+      - Hillary Clinton
+      - Jacqueline Kennedy
+      Explanation: Eleanor Roosevelt, a former First Lady of the United States, highlighted
+        the significance of having faith in one's dreams.
+    - Question: Which famous author said, 'You miss 100% of the shots you don't take'?
+      TrueAnswer: Wayne Gretzky
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Wayne Gretzky, a legendary ice hockey player, emphasized the importance
+        of taking opportunities and risks.
+    - Question: Who said, 'The only limit to our realization of tomorrow will be
+        our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - Ronald Reagan
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        highlighted the role of self-belief in achieving future success.
+    - Question: Which famous motivational speaker said, 'Your time is limited, don't
+        waste it living someone else's life'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Tony Robbins
+      - Les Brown
+      - Zig Ziglar
+      Explanation: Steve Jobs, the co-founder of Apple Inc., encouraged individuals
+        to live authentically and pursue their own dreams.
+    - Question: Who said, 'Believe you can and you're halfway there'?
+      TrueAnswer: Theodore Roosevelt
+      FalseAnswer:
+      - Abraham Lincoln
+      - George Washington
+      - Thomas Jefferson
+      Explanation: Theodore Roosevelt, the 26th President of the United States, emphasized
+        the importance of self-belief and confidence.
+    - Question: Which famous author said, 'The only person you are destined to become
+        is the person you decide to be'?
+      TrueAnswer: Ralph Waldo Emerson
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Ralph Waldo Emerson, a renowned American essayist, highlighted
+        the power of personal choice and determination.
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, the co-founder of Apple Inc., emphasized the importance
+        of passion in achieving success.
+    - Question: Which famous entrepreneur said, 'The biggest risk is not taking any
+        risk'?
+      TrueAnswer: Mark Zuckerberg
+      FalseAnswer:
+      - Jeff Bezos
+      - Elon Musk
+      - Richard Branson
+      Explanation: Mark Zuckerberg, the co-founder of Facebook, emphasized the importance
+        of taking calculated risks in entrepreneurship.
+    - Question: 'Who said, ''Success is not final, failure is not fatal: It is the
+        courage to continue that counts''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      - Mahatma Gandhi
+      Explanation: Winston Churchill, the former Prime Minister of the United Kingdom,
+        emphasized the importance of resilience and perseverance.
+    - Question: Which famous author said, 'The only limit to our realization of tomorrow
+        will be our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - John F. Kennedy
+      - Barack Obama
+      - Ronald Reagan
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        highlighted the role of self-belief in achieving future success.
+    - Question: Who said, 'The best revenge is massive success'?
+      TrueAnswer: Frank Sinatra
+      FalseAnswer:
+      - Elvis Presley
+      - Michael Jackson
+      - John Lennon
+      Explanation: Frank Sinatra, a legendary singer and actor, suggested that achieving
+        great success is the most powerful form of revenge.
+    - Question: Which famous author said, 'You miss 100% of the shots you don't take'?
+      TrueAnswer: Wayne Gretzky
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Wayne Gretzky, a legendary ice hockey player, emphasized the importance
+        of taking opportunities and risks.

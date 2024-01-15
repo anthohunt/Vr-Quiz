@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1501189212964010901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3193218524274708318}
+  - component: {fileID: 7719616253930867319}
+  m_Layer: 0
+  m_Name: History_Oral_Histories_and_Traditions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3193218524274708318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501189212964010901}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7719616253930867319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501189212964010901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the oldest recorded oral tradition?
+      TrueAnswer: Epic of Gilgamesh
+      FalseAnswer:
+      - Mahabharata
+      - The Iliad
+      - The Odyssey
+      Explanation: The Epic of Gilgamesh is the oldest known epic. It's a Sumerian
+        poem dating back to around 2100 BCE, and it tells the story of Gilgamesh,
+        the king of Uruk.
+    - Question: In what culture is the Dreamtime an important oral tradition?
+      TrueAnswer: Aboriginal Australian
+      FalseAnswer:
+      - Native American
+      - Maori
+      - Inuit
+      Explanation: The Dreamtime is central to Aboriginal Australian culture, representing
+        the time of creation when ancestral spirits formed the world. It's passed
+        down through storytelling and art.
+    - Question: What is the purpose of genealogical oral traditions?
+      TrueAnswer: Passing down family history
+      FalseAnswer:
+      - Entertainment
+      - Religious rituals
+      - Teaching survival skills
+      Explanation: Genealogical oral traditions serve to transmit ancestral knowledge,
+        lineage, and historical events within a family or community across generations.
+    - Question: Which culture is known for the oral tradition of the Icelandic sagas?
+      TrueAnswer: Norse
+      FalseAnswer:
+      - Greek
+      - Celtic
+      - Slavic
+      Explanation: The medieval Icelandic sagas are a collection of narratives about
+        early Icelandic history. They provide insight into Norse mythology, religion,
+        and culture.
+    - Question: What is a griot, a figure in oral traditions?
+      TrueAnswer: Storyteller/musician
+      FalseAnswer:
+      - Warrior
+      - Religious leader
+      - Hunter
+      Explanation: In West African tradition, a griot is a historian, storyteller,
+        praise singer, poet, or musician who preserves and shares the oral history
+        of a community.
+    - Question: Which Native American tribe has a rich oral tradition including the
+        legend of the Iroquois?
+      TrueAnswer: Haudenosaunee (Iroquois)
+      FalseAnswer:
+      - Hopi
+      - Navajo
+      - Cherokee
+      Explanation: The Haudenosaunee, or Iroquois, have a strong oral tradition that
+        includes the legend of the formation of the Iroquois Confederacy, passed
+        down through storytelling.
+    - Question: What is a didgeridoo traditionally used for in Aboriginal Australian
+        oral traditions?
+      TrueAnswer: Musical storytelling
+      FalseAnswer:
+      - Fishing
+      - Hunting
+      - Communication
+      Explanation: The didgeridoo, a traditional Aboriginal Australian instrument,
+        is used in storytelling and ceremonial contexts, often to accompany oral
+        narratives and convey cultural history.
+    - Question: What is the role of oral traditions in preserving endangered languages?
+      TrueAnswer: Language revitalization
+      FalseAnswer:
+      - Entertainment
+      - Cultural assimilation
+      - Oral history preservation
+      Explanation: Oral traditions play a crucial role in the preservation and revitalization
+        of endangered languages, as they are often the primary means of transmitting
+        linguistic knowledge and vocabularies.
+    - Question: What is a folkloric oral tradition in the Caribbean known as?
+      TrueAnswer: Anansi stories
+      FalseAnswer:
+      - Shamans' chants
+      - Voodoo spells
+      - Pirate legends
+      Explanation: Anansi stories, originating from West Africa and brought to the
+        Caribbean through the transatlantic slave trade, are folktales featuring
+        Anansi the spider as a cunning and trickster figure.
+    - Question: What type of song style is central to Maori oral traditions?
+      TrueAnswer: Waiata
+      FalseAnswer:
+      - Haka
+      - Poi
+      - Karanga
+      Explanation: Waiata are traditional Maori songs that convey historical events,
+        legends, emotions, and cultural knowledge, playing a vital role in the preservation
+        and transmission of Maori oral traditions.
+    - Question: Which Southeast Asian country has an oral tradition of shadow puppetry
+        known as Wayang Kulit?
+      TrueAnswer: Indonesia
+      FalseAnswer:
+      - Myanmar
+      - Thailand
+      - Cambodia
+      Explanation: Wayang Kulit, a Javanese and Balinese shadow puppetry tradition,
+        is a cultural expression and storytelling form in Indonesia, deeply rooted
+        in Hindu mythology and local folklore.
+    - Question: What is a Baobab tree used for in the oral traditions of African
+        cultures?
+      TrueAnswer: Gathering place for storytelling
+      FalseAnswer:
+      - Medicine
+      - Food source
+      - Habitat for animals
+      Explanation: In many African cultures, the baobab tree is revered as a symbol
+        of life and knowledge and serves as a communal gathering place for storytelling,
+        sharing wisdom, and preserving oral traditions.
+    - Question: What role does the griot play in the oral traditions of West African
+        societies?
+      TrueAnswer: Preserving historical memory
+      FalseAnswer:
+      - Conducting religious rituals
+      - Leading military expeditions
+      - Crafting traditional pottery
+      Explanation: Griots act as custodians of oral history, passing down ancestral
+        knowledge and societal customs through storytelling, music, and poetry in
+        West African societies.
+    - Question: What is a significant aspect of the oral traditions of the Inuit
+        people?
+      TrueAnswer: Throat singing
+      FalseAnswer:
+      - Fishing methods
+      - Eskimo kisses
+      - Hunting rituals
+      Explanation: Throat singing is a unique vocal tradition among the Inuit people,
+        involving two singers who produce a captivating blend of sounds and melodies,
+        reflecting the Arctic landscape and cultural heritage.
+    - Question: What role does the elder serve in the transmission of oral traditions
+        in indigenous communities?
+      TrueAnswer: Cultural knowledge keeper
+      FalseAnswer:
+      - Hunting leader
+      - Warrior trainer
+      - Medicine practitioner
+      Explanation: Elders hold and transmit cultural knowledge, legends, and oral
+        histories, acting as guardians of communal wisdom and ensuring the preservation
+        of traditional narratives within indigenous communities.
+    - Question: Which Asian civilization has an ancient oral tradition centered around
+        epics such as the Mahabharata and the Ramayana?
+      TrueAnswer: Indian
+      FalseAnswer:
+      - Chinese
+      - Japanese
+      - Persian
+      Explanation: The Indian civilization has a rich oral tradition of epic narratives,
+        including the Mahabharata and the Ramayana, which carry profound moral, spiritual,
+        and historical significance.
+    - Question: What purpose do the Haka perform in Maori oral traditions?
+      TrueAnswer: War dance
+      FalseAnswer:
+      - Harvest celebration
+      - Wedding ritual
+      - Healing ceremony
+      Explanation: The Haka, a powerful and expressive ceremonial war dance, holds
+        deep cultural and ritual significance in Maori oral traditions, symbolizing
+        unity, strength, and ancestral valor.
+    - Question: In which continent do the San people of southern Africa maintain
+        a rich oral tradition?
+      TrueAnswer: Africa
+      FalseAnswer:
+      - Australia
+      - South America
+      - Asia
+      Explanation: The San people, sometimes referred to as Bushmen, have a vibrant
+        oral tradition in southern Africa, including storytelling, myths, and songs,
+        passed down through generations.
+    - Question: What is the significance of the oral tradition of reciting the Quran
+        in Islamic culture?
+      TrueAnswer: Preserving divine revelation
+      FalseAnswer:
+      - Entertainment at weddings
+      - Recounting war stories
+      - Conveying historical legends
+      Explanation: The oral tradition of reciting the Quran holds immense spiritual
+        and religious significance in Islamic culture, as it ensures the accurate
+        preservation and transmission of divine revelation.

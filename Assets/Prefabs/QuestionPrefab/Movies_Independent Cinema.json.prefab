@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5462962554545258772
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5997838733455755898}
+  - component: {fileID: 2168294502808637547}
+  m_Layer: 0
+  m_Name: Movies_Independent Cinema.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5997838733455755898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462962554545258772}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2168294502808637547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5462962554545258772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who directed the independent film 'Moonlight'?
+      TrueAnswer: Barry Jenkins
+      FalseAnswer:
+      - Ava DuVernay
+      - Spike Lee
+      - Jordan Peele
+      Explanation: '''Moonlight'' was directed by Barry Jenkins and won the Academy
+        Award for Best Picture in 2017.'
+    - Question: Which independent film won the Palme d'Or at the 2019 Cannes Film
+        Festival?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - The Lighthouse
+      - Pain and Glory
+      - Once Upon a Time in Hollywood
+      Explanation: '''Parasite'' directed by Bong Joon-ho won the prestigious Palme
+        d''Or at the 2019 Cannes Film Festival.'
+    - Question: What is the main theme of the independent film 'Eternal Sunshine
+        of the Spotless Mind'?
+      TrueAnswer: Memory
+      FalseAnswer:
+      - Love
+      - Time Travel
+      - Existentialism
+      Explanation: '''Eternal Sunshine of the Spotless Mind'' explores the theme
+        of memory and its impact on relationships.'
+    - Question: Which independent film was directed by Quentin Tarantino?
+      TrueAnswer: Pulp Fiction
+      FalseAnswer:
+      - The Shape of Water
+      - Birdman
+      - The Grand Budapest Hotel
+      Explanation: Quentin Tarantino directed the independent film 'Pulp Fiction'
+        known for its nonlinear narrative and pop culture references.
+    - Question: What is the setting of the independent film 'Lost in Translation'?
+      TrueAnswer: Tokyo
+      FalseAnswer:
+      - Paris
+      - New York City
+      - London
+      Explanation: '''Lost in Translation'' is set in Tokyo, where two strangers
+        form a unique connection.'
+    - Question: Which independent film was directed by Sofia Coppola?
+      TrueAnswer: Lost in Translation
+      FalseAnswer:
+      - Boyhood
+      - Her
+      - The Social Network
+      Explanation: Sofia Coppola directed 'Lost in Translation,' a critically acclaimed
+        film about loneliness and connection.
+    - Question: What is the genre of the independent film 'Her'?
+      TrueAnswer: Romance
+      FalseAnswer:
+      - Horror
+      - Science Fiction
+      - Action
+      Explanation: '''Her'' is a romantic independent film that explores the relationship
+        between a man and an artificial intelligence.'
+    - Question: Which independent film won the Best Foreign Language Film at the
+        2020 Academy Awards?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Roma
+      - Amour
+      - A Separation
+      Explanation: '''Parasite'' directed by Bong Joon-ho won the Best Foreign Language
+        Film at the 2020 Academy Awards.'
+    - Question: Who directed the independent film 'The Florida Project'?
+      TrueAnswer: Sean Baker
+      FalseAnswer:
+      - Greta Gerwig
+      - Lynne Ramsay
+      - "Chlo\xE9 Zhao"
+      Explanation: '''The Florida Project'' was directed by Sean Baker and tells
+        the story of a young girl living in a motel near Disney World.'
+    - Question: What is the main theme of the independent film 'Whiplash'?
+      TrueAnswer: Ambition
+      FalseAnswer:
+      - Music
+      - Love
+      - Friendship
+      Explanation: '''Whiplash'' explores the theme of ambition through the intense
+        relationship between a jazz drummer and his demanding teacher.'
+    - Question: Which independent film was directed by Richard Linklater?
+      TrueAnswer: Boyhood
+      FalseAnswer:
+      - Moonlight
+      - La La Land
+      - Birdman
+      Explanation: Richard Linklater directed 'Boyhood,' a coming-of-age film shot
+        over 12 years with the same cast.
+    - Question: What is the genre of the independent film 'Little Miss Sunshine'?
+      TrueAnswer: Comedy
+      FalseAnswer:
+      - Drama
+      - Thriller
+      - Documentary
+      Explanation: '''Little Miss Sunshine'' is a comedy film that follows a dysfunctional
+        family on a road trip.'
+    - Question: Which independent film won the Best Picture at the 2016 Academy Awards?
+      TrueAnswer: Spotlight
+      FalseAnswer:
+      - La La Land
+      - Birdman
+      - The Shape of Water
+      Explanation: '''Spotlight'' won the Best Picture at the 2016 Academy Awards
+        for its gripping portrayal of investigative journalism.'
+    - Question: Who directed the independent film 'Lady Bird'?
+      TrueAnswer: Greta Gerwig
+      FalseAnswer:
+      - Kathryn Bigelow
+      - Ava DuVernay
+      - Patty Jenkins
+      Explanation: '''Lady Bird'' was directed by Greta Gerwig and explores the life
+        of a high school senior in Sacramento.'
+    - Question: What is the setting of the independent film 'Manchester by the Sea'?
+      TrueAnswer: Massachusetts
+      FalseAnswer:
+      - California
+      - New York
+      - Texas
+      Explanation: '''Manchester by the Sea'' is set in Massachusetts and follows
+        a man dealing with a tragic loss.'
+    - Question: Which independent film was directed by Darren Aronofsky?
+      TrueAnswer: Black Swan
+      FalseAnswer:
+      - Inception
+      - The Revenant
+      - The Social Network
+      Explanation: Darren Aronofsky directed 'Black Swan,' a psychological thriller
+        about a ballerina's descent into madness.
+    - Question: What is the genre of the independent film 'The Grand Budapest Hotel'?
+      TrueAnswer: Comedy
+      FalseAnswer:
+      - Drama
+      - Thriller
+      - Romance
+      Explanation: '''The Grand Budapest Hotel'' is a comedy film that follows the
+        misadventures of a hotel concierge.'
+    - Question: Which independent film won the Best Director at the 2015 Academy
+        Awards?
+      TrueAnswer: Birdman
+      FalseAnswer:
+      - The Shape of Water
+      - La La Land
+      - Moonlight
+      Explanation: "'Birdman' directed by Alejandro Gonz\xE1lez I\xF1\xE1rritu won
+        the Best Director at the 2015 Academy Awards."
+    - Question: Who directed the independent film 'Hereditary'?
+      TrueAnswer: Ari Aster
+      FalseAnswer:
+      - Jordan Peele
+      - Robert Eggers
+      - Jennifer Kent
+      Explanation: '''Hereditary'' was directed by Ari Aster and is a critically
+        acclaimed horror film.'
+    - Question: What is the main theme of the independent film 'The Farewell'?
+      TrueAnswer: Family
+      FalseAnswer:
+      - Identity
+      - Grief
+      - Culture
+      Explanation: '''The Farewell'' explores the theme of family and cultural differences
+        through a Chinese-American perspective.'
+    - Question: Which independent film won the Best Original Screenplay at the 2020
+        Academy Awards?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Once Upon a Time in Hollywood
+      - Knives Out
+      - Marriage Story
+      Explanation: '''Parasite'' written by Bong Joon-ho and Han Jin-won won the
+        Best Original Screenplay at the 2020 Academy Awards.'

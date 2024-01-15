@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est le plat national de la Thaïlande?",
+            "VraieRéponse": "Pad Thai",
+            "FausseRéponse": [
+              "Sushi",
+              "Pho",
+              "Kimchi"
+            ],
+            "Explication": "Le Pad Thai est un plat de nouilles sautées souvent servi comme street food en Thaïlande et à travers le monde."
+          },
+          {
+            "Question": "De quel pays le plat paella origine-t-il?",
+            "VraieRéponse": "Espagne",
+            "FausseRéponse": [
+              "Italie",
+              "Grèce",
+              "Mexique"
+            ],
+            "Explication": "La paella est un plat de riz valencien qui a vu le jour au 19e siècle près du lagon de l'Albufera, en Espagne."
+          },
+          {
+            "Question": "Quel ingrédient constitue la base principale du houmous?",
+            "VraieRéponse": "Pois chiches",
+            "FausseRéponse": [
+              "Lentilles",
+              "Haricots noirs",
+              "Quinoa"
+            ],
+            "Explication": "Le houmous est un dip levantin préparé à base de pois chiches cuits et écrasés mélangés à du tahini, de l'huile d'olive, du jus de citron, du sel et de l'ail."
+          },
+          {
+            "Question": "Quel type de cuisine est connu pour son utilisation d'aliments fermentés tels que le kimchi et le gochujang?",
+            "VraieRéponse": "Coréen",
+            "FausseRéponse": [
+              "Thaïlandais",
+              "Indien",
+              "Mexicain"
+            ],
+            "Explication": "La cuisine coréenne se caractérise par l'utilisation d'ingrédients fermentés et d'épices, donnant lieu à des plats uniques et savoureux."
+          },
+          {
+            "Question": "Quelle est la viande traditionnelle utilisée dans un plat français classique de coq au vin?",
+            "VraieRéponse": "Poulet",
+            "FausseRéponse": [
+              "Bœuf",
+              "Porc",
+              "Agneau"
+            ],
+            "Explication": "Le coq au vin, ou 'poulet au vin', est un plat français traditionnel à base de poulet, de champignons, de lardons et de vin rouge."
+          },
+          {
+            "Question": "Quel pays est célèbre pour son utilisation d'épices aromatiques dans des plats comme le biryani et le tikka masala?",
+            "VraieRéponse": "Inde",
+            "FausseRéponse": [
+              "Maroc",
+              "Thaïlande",
+              "Grèce"
+            ],
+            "Explication": "La cuisine indienne est renommée pour son utilisation riche et variée d'épices et d'herbes, créant ainsi des plats complexes et savoureux."
+          },
+          {
+            "Question": "Dans quel pays trouverait-on un plat traditionnel appelé ceviche?",
+            "VraieRéponse": "Pérou",
+            "FausseRéponse": [
+              "Mexique",
+              "Argentine",
+              "Brésil"
+            ],
+            "Explication": "Le ceviche est un plat péruvien populaire à base de poisson cru mariné dans du jus d'agrumes, comme du citron ou de la lime, et relevé avec du piment."
+          },
+          {
+            "Question": "Quel type de saucisse est communément associé à la cuisine allemande?",
+            "VraieRéponse": "Bratwurst",
+            "FausseRéponse": [
+              "Chorizo",
+              "Andouille",
+              "Kielbasa"
+            ],
+            "Explication": "La Bratwurst est un type de saucisse allemande préparée à base de porc, de bœuf ou de veau. Elle est souvent grillée et servie avec de la choucroute ou de la moutarde."
+          },
+          {
+            "Question": "Quel pays est célèbre pour son utilisation de pâte filo dans des plats comme le baklava et la spanakopita?",
+            "VraieRéponse": "Grèce",
+            "FausseRéponse": [
+              "Turquie",
+              "Liban",
+              "Russie"
+            ],
+            "Explication": "La cuisine grecque intègre la pâte filo dans divers plats sucrés et salés, mettant ainsi en valeur l'héritage culinaire du pays."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal traditionnel d'un tajine marocain?",
+            "VraieRéponse": "Agneau",
+            "FausseRéponse": [
+              "Poulet",
+              "Bœuf",
+              "Porc"
+            ],
+            "Explication": "Le tajine est un ragoût marocain traditionnel à base de viande aromatisée, de légumes et d'épices, souvent mijoté dans un plat en terre cuite en forme de cône."
+          },
+          {
+            "Question": "Quel pays propose le plat populaire bibimbap, un bol de riz mélangé avec des légumes et de la viande?",
+            "VraieRéponse": "Corée du Sud",
+            "FausseRéponse": [
+              "Japon",
+              "Vietnam",
+              "Chine"
+            ],
+            "Explication": "Le bibimbap est un plat emblématique de la Corée, mettant en valeur les saveurs colorées et variées de différents légumes, viandes et gochujang."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal d'un classique hachis parmentier anglais?",
+            "VraieRéponse": "Bœuf haché",
+            "FausseRéponse": [
+              "Agneau",
+              "Poulet",
+              "Porc"
+            ],
+            "Explication": "Le hachis parmentier se compose traditionnellement de viande hachée, généralement d'agneau ou de mouton, cuisinée dans une sauce avec des oignons et recouverte de purée de pommes de terre."
+          },
+          {
+            "Question": "Quel pays est connu pour son utilisation de yucca dans des plats traditionnels tels que les empanadas et les arepas?",
+            "VraieRéponse": "Colombie",
+            "FausseRéponse": [
+              "Venezuela",
+              "Mexique",
+              "Guatemala"
+            ],
+            "Explication": "La cuisine colombienne intègre le yucca, une racine féculente, dans divers plats, mettant en valeur la diversité culinaire régionale du pays."
+          },
+          {
+            "Question": "Quel type de fruits de mer est couramment utilisé dans les sushis japonais traditionnels?",
+            "VraieRéponse": "Poisson cru",
+            "FausseRéponse": [
+              "Crevette",
+              "Crabe",
+              "Pieuvre"
+            ],
+            "Explication": "Le poisson cru, appelé sashimi, est un ingrédient de base des sushis japonais traditionnels, mettant en valeur l'importance du pays pour les fruits de mer frais et de qualité."
+          },
+          {
+            "Question": "Dans quel pays le plat goulash est-il considéré comme une spécialité culinaire nationale?",
+            "VraieRéponse": "Hongrie",
+            "FausseRéponse": [
+              "Allemagne",
+              "Autriche",
+              "Pologne"
+            ],
+            "Explication": "Le goulash, un ragoût riche et savoureux, est un plat hongrois apprécié qui reflète les influences historiques et culturelles sur sa cuisine."
+          },
+          {
+            "Question": "Quel pays est célèbre pour sa méthode de cuisson tandoori, communément utilisée pour les viandes marinées et les pains?",
+            "VraieRéponse": "Inde",
+            "FausseRéponse": [
+              "Jamaïque",
+              "Turquie",
+              "Maroc"
+            ],
+            "Explication": "La cuisine tandoori, populaire dans la cuisine indienne, implique de mariner les viandes et les pains dans un mélange de yaourt et d'épices avant de les cuire dans un tandoor, un four en argile."
+          },
+          {
+            "Question": "Quel est le garnissage traditionnel des tamales mexicains souvent réalisé avec?",
+            "VraieRéponse": "Masa",
+            "FausseRéponse": [
+              "Riz",
+              "Blé",
+              "Quinoa"
+            ],
+            "Explication": "Les tamales, un pilier de la cuisine mexicaine, présentent un garnissage de masa (pâte de maïs) combiné à diverses viandes, fromages et autres ingrédients savoureux."
+          },
+          {
+            "Question": "Quelle cuisine régionale est connue pour son utilisation de lait de coco et d'herbes aromatiques dans des plats comme le curry vert?",
+            "VraieRéponse": "Thaïlandais",
+            "FausseRéponse": [
+              "Caribéenne",
+              "Sri Lankaise",
+              "Indonésienne"
+            ],
+            "Explication": "La cuisine thaïlandaise se distingue par son mélange unique de saveurs, utilisant souvent du lait de coco, de la citronnelle et de la basilic thaï pour créer des plats riches et parfumés."
+          },
+          {
+            "Question": "Quel pays est célèbre pour des plats comme la paella et la gazpacho, reconnus pour leurs ingrédients colorés et savoureux?",
+            "VraieRéponse": "Espagne",
+            "FausseRéponse": [
+              "Italie",
+              "Grèce",
+              "France"
+            ],
+            "Explication": "La cuisine espagnole est célébrée pour ses saveurs vibrantes et diverses, souvent mises en valeur dans des plats tels que la paella et la gazpacho, reflétant l'héritage culinaire du pays."
+          },
+          {
+            "Question": "Quel type de saucisse est généralement utilisé dans des plats traditionnels de ragoûts portugais comme le cozido?",
+            "VraieRéponse": "Chouriço",
+            "FausseRéponse": [
+              "Andouille",
+              "Merguez",
+              "Boudin"
+            ],
+            "Explication": "Le chouriço, une saucisse fumée au porc assaisonnée de paprika et d'ail, est un ingrédient clé dans des ragoûts portugais savoureux comme le cozido, mettant en avant la richesse culinaire du pays."
+          }
+        ]
+      }
+    }
+  ]
+}

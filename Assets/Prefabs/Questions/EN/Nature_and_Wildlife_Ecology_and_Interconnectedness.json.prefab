@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7716638903053695995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1341499882962803622}
+  - component: {fileID: 7308297388805030132}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Ecology_and_Interconnectedness.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1341499882962803622
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7716638903053695995}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7308297388805030132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7716638903053695995}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: How do bees communicate the location of a food source to other bees?
+      TrueAnswer: Waggle dance
+      FalseAnswer:
+      - Quiver
+      - Flutter
+      - Shake
+      Explanation: Bees perform the waggle dance to communicate the direction and
+        distance of a food source to other bees in the hive.
+    - Question: What is the primary method of CO2 exchange in aquatic plants?
+      TrueAnswer: Diffusion
+      FalseAnswer:
+      - Osmosis
+      - Active transport
+      - Facilitated diffusion
+      Explanation: Aquatic plants exchange CO2 through diffusion, where gases move
+        from areas of high concentration to areas of low concentration.
+    - Question: Which species is known for its unique relationship with acacia trees?
+      TrueAnswer: Ants
+      FalseAnswer:
+      - Bees
+      - Butterflies
+      - Spider
+      Explanation: Certain ant species have a mutually beneficial symbiotic relationship
+        with acacia trees, where the ants defend the tree and receive shelter and
+        food in return.
+    - Question: What does the term 'keystone species' refer to in ecology?
+      TrueAnswer: A species that has a disproportionately large effect on its environment
+      FalseAnswer:
+      - A species at risk of extinction
+      - A species with limited habitat range
+      - A species with low population density
+      Explanation: A keystone species plays a critical role in maintaining the structure
+        and function of an ecosystem, often by regulating the population of other
+        species.
+    - Question: Which of the following is NOT an example of a trophic level?
+      TrueAnswer: Decomposers
+      FalseAnswer:
+      - Primary producers
+      - Primary consumers
+      - Secondary consumers
+      Explanation: Decomposers, like fungi and bacteria, are not classified as trophic
+        levels but play a crucial role in breaking down organic matter and recycling
+        nutrients in ecosystems.

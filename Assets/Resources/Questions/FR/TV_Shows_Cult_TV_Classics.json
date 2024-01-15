@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle émission de télévision se déroule dans la ville fictive de Sunnydale?",
+            "TrueAnswer": "Buffy contre les vampires",
+            "FalseAnswer": [
+              "Supernatural",
+              "X-Files",
+              "Twin Peaks"
+            ],
+            "Explanation": "Buffy contre les vampires se déroule dans la ville fictive de Sunnydale en Californie, où le personnage principal combat les vampires et autres entités surnaturelles."
+          },
+          {
+            "Question": "Quel est le nom du vaisseau du Capitaine Picard dans Star Trek : La Nouvelle Génération?",
+            "TrueAnswer": "USS Enterprise",
+            "FalseAnswer": [
+              "USS Voyager",
+              "USS Discovery",
+              "USS Defiant"
+            ],
+            "Explanation": "Le Capitaine Picard est le commandant de l'USS Enterprise (NCC-1701-D) dans Star Trek : La Nouvelle Génération, le vaisseau étant une partie essentielle de la narration de la série."
+          },
+          {
+            "Question": "Dans X-Files, de quel département fait partie Fox Mulder?",
+            "TrueAnswer": "FBI",
+            "FalseAnswer": [
+              "CIA",
+              "NSA",
+              "DEA"
+            ],
+            "Explanation": "Fox Mulder est un agent spécial du FBI dans X-Files, dirigeant l'unité des affaires non résolues appelée les X-Files, qui traite de phénomènes paranormaux."
+          },
+          {
+            "Question": "Qui est le créateur de la série télévisée culte Twin Peaks?",
+            "TrueAnswer": "David Lynch",
+            "FalseAnswer": [
+              "Quentin Tarantino",
+              "Stanley Kubrick",
+              "Martin Scorsese"
+            ],
+            "Explanation": "David Lynch est le co-créateur et directeur de Twin Peaks, une série révolutionnaire connue pour son surréalisme et son mystère dans un cadre de petite ville."
+          },
+          {
+            "Question": "Quelle émission de télévision met en scène un groupe de survivants luttant contre des zombies dans un monde post-apocalyptique?",
+            "TrueAnswer": "The Walking Dead",
+            "FalseAnswer": [
+              "Lost",
+              "Breaking Bad",
+              "Stranger Things"
+            ],
+            "Explanation": "The Walking Dead suit un groupe de survivants naviguant dans un monde envahi par les zombies, explorant la nature humaine et la moralité dans un contexte apocalyptique."
+          }
+        ]
+      }
+    }
+  ]
+}

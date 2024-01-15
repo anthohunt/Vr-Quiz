@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4074310722137435742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8058177911489294331}
+  - component: {fileID: 2428382318637375852}
+  m_Layer: 0
+  m_Name: Video Games_Gaming and eSports Scholarships.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8058177911489294331
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4074310722137435742}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2428382318637375852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4074310722137435742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular video game of all time?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - Fortnite
+      - Call of Duty
+      - Super Mario Bros.
+      Explanation: Minecraft is the best-selling video game of all time, with over
+        200 million copies sold.
+    - Question: Which game is known for its battle royale mode?
+      TrueAnswer: PlayerUnknown's Battlegrounds
+      FalseAnswer:
+      - Overwatch
+      - League of Legends
+      - Madden NFL
+      Explanation: PlayerUnknown's Battlegrounds popularized the battle royale genre,
+        where players fight to be the last one standing.
+    - Question: What is the main character's name in 'The Witcher' series?
+      TrueAnswer: Geralt
+      FalseAnswer:
+      - Ezio
+      - Kratos
+      - Link
+      Explanation: Geralt of Rivia is the protagonist in 'The Witcher' series, a
+        monster hunter with supernatural abilities.
+    - Question: Which game features a plumber named Mario?
+      TrueAnswer: Super Mario Bros.
+      FalseAnswer:
+      - Sonic the Hedgehog
+      - Crash Bandicoot
+      - Tetris
+      Explanation: Super Mario Bros. is a classic platforming game where players
+        control Mario to rescue Princess Peach from Bowser.
+    - Question: What is the best-selling gaming console of all time?
+      TrueAnswer: PlayStation 2
+      FalseAnswer:
+      - Xbox One
+      - Nintendo Switch
+      - Sega Genesis
+      Explanation: The PlayStation 2 holds the record for the best-selling gaming
+        console, with over 155 million units sold worldwide.
+    - Question: Which game is set in a post-apocalyptic wasteland?
+      TrueAnswer: Fallout
+      FalseAnswer:
+      - World of Warcraft
+      - Final Fantasy
+      - Minecraft
+      Explanation: Fallout is a series of role-playing games set in a world devastated
+        by nuclear war, with players navigating the wasteland.
+    - Question: What is the name of the protagonist in 'The Legend of Zelda' series?
+      TrueAnswer: Link
+      FalseAnswer:
+      - Zelda
+      - Ganondorf
+      - Sheik
+      Explanation: Link is the hero in 'The Legend of Zelda' series, tasked with
+        rescuing Princess Zelda and defeating Ganon.
+    - Question: Which game features a group of four turtles named after famous artists?
+      TrueAnswer: Teenage Mutant Ninja Turtles
+      FalseAnswer:
+      - Street Fighter
+      - Mortal Kombat
+      - Super Smash Bros.
+      Explanation: The Teenage Mutant Ninja Turtles game follows the adventures of
+        Leonardo, Donatello, Michelangelo, and Raphael.
+    - Question: What is the name of the main character in 'Assassin's Creed'?
+      TrueAnswer: Ezio
+      FalseAnswer:
+      - Altair
+      - Connor
+      - Edward
+      Explanation: Ezio Auditore da Firenze is the main character in several 'Assassin's
+        Creed' games, known for his stealth and parkour skills.
+    - Question: Which game features a character named Master Chief?
+      TrueAnswer: Halo
+      FalseAnswer:
+      - Gears of War
+      - Destiny
+      - Borderlands
+      Explanation: Master Chief is the protagonist in the 'Halo' series, a super-soldier
+        fighting against alien forces.
+    - Question: What is the best-selling video game franchise of all time?
+      TrueAnswer: Mario
+      FalseAnswer:
+      - Call of Duty
+      - Pokemon
+      - Grand Theft Auto
+      Explanation: The 'Mario' franchise, featuring games like Super Mario Bros.
+        and Mario Kart, is the best-selling video game franchise.
+    - Question: Which game is known for its block-building and creative gameplay?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - Fortnite
+      - Roblox
+      - Terraria
+      Explanation: Minecraft allows players to build and explore virtual worlds made
+        up of blocks, fostering creativity and imagination.
+    - Question: What is the name of the main character in 'God of War'?
+      TrueAnswer: Kratos
+      FalseAnswer:
+      - Ares
+      - Zeus
+      - Poseidon
+      Explanation: Kratos is the Spartan warrior seeking revenge against the gods
+        in the 'God of War' series.
+    - Question: Which game is known for its addictive puzzle gameplay?
+      TrueAnswer: Tetris
+      FalseAnswer:
+      - Candy Crush Saga
+      - Angry Birds
+      - Bejeweled
+      Explanation: Tetris is a classic puzzle game where players arrange falling
+        blocks to create complete lines and score points.
+    - Question: What is the name of the main character in 'Metal Gear Solid'?
+      TrueAnswer: Solid Snake
+      FalseAnswer:
+      - Liquid Snake
+      - Big Boss
+      - Raiden
+      Explanation: Solid Snake is the main protagonist in the 'Metal Gear Solid'
+        series, a stealth operative fighting against terrorists.
+    - Question: Which game is known for its competitive multiplayer mode?
+      TrueAnswer: Call of Duty
+      FalseAnswer:
+      - The Sims
+      - Animal Crossing
+      - Stardew Valley
+      Explanation: Call of Duty is a popular first-person shooter game with intense
+        multiplayer battles against other players.
+    - Question: What is the name of the main character in 'Uncharted'?
+      TrueAnswer: Nathan Drake
+      FalseAnswer:
+      - Lara Croft
+      - Samus Aran
+      - Joel
+      Explanation: Nathan Drake is the treasure-hunting adventurer in the 'Uncharted'
+        series, known for his wit and resourcefulness.
+    - Question: Which game is known for its massive multiplayer online role-playing
+        experience?
+      TrueAnswer: World of Warcraft
+      FalseAnswer:
+      - Fortnite
+      - Minecraft
+      - League of Legends
+      Explanation: World of Warcraft is a popular MMORPG where players can explore
+        a vast fantasy world and complete quests with others.
+    - Question: What is the name of the main character in 'Final Fantasy VII'?
+      TrueAnswer: Cloud
+      FalseAnswer:
+      - Squall
+      - Tidus
+      - Noctis
+      Explanation: Cloud Strife is the main protagonist in 'Final Fantasy VII', a
+        mercenary caught up in a battle against an evil corporation.
+    - Question: Which game is known for its tactical team-based gameplay?
+      TrueAnswer: Rainbow Six Siege
+      FalseAnswer:
+      - Fortnite
+      - Apex Legends
+      - Rocket League
+      Explanation: Rainbow Six Siege is a tactical first-person shooter where players
+        work together in teams to complete objectives.
+    - Question: What is the name of the main character in 'The Last of Us'?
+      TrueAnswer: Joel
+      FalseAnswer:
+      - Ellie
+      - Tommy
+      - Bill
+      Explanation: Joel is one of the main protagonists in 'The Last of Us', a post-apocalyptic
+        game focused on survival and human relationships.

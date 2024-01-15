@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3573183804483412018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3634683172499279839}
+  - component: {fileID: 360607964030270378}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Food_and_Identity.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3634683172499279839
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3573183804483412018}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &360607964030270378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3573183804483412018}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: How does cultural background influence food preferences?
+      TrueAnswer: Significantly
+      FalseAnswer:
+      - Minimally
+      - Occasionally
+      - Not at all
+      Explanation: Cultural background plays a significant role in shaping food preferences,
+        as it influences taste, cooking methods, and ingredient choices.
+    - Question: What is a common dish that symbolizes Japanese identity?
+      TrueAnswer: Sushi
+      FalseAnswer:
+      - Pasta
+      - Burrito
+      - Pad Thai
+      Explanation: Sushi is deeply rooted in Japanese culture and symbolizes the
+        country's culinary identity, known for its precision and artistry.
+    - Question: Do food rituals and traditions contribute to a person's identity?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - No
+      - Sometimes
+      - Rarely
+      Explanation: Food rituals and traditions are integral to a person's identity,
+        reflecting heritage, values, and societal customs.
+    - Question: Is the concept of comfort food linked to individual identity?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - No
+      - Partially
+      - Occasionally
+      Explanation: Comfort foods often resonate with personal memories, emotions,
+        and upbringing, shaping an individual's culinary identity.
+    - Question: How does immigration influence a person's culinary identity?
+      TrueAnswer: Diversifies
+      FalseAnswer:
+      - Hinders
+      - Homogenizes
+      - Minimizes
+      Explanation: Immigration introduces new flavors, ingredients, and cooking techniques,
+        enriching and diversifying an individual's culinary identity.
+    - Question: Does food adaptation reflect cultural identity?
+      TrueAnswer: Yes
+      FalseAnswer:
+      - No
+      - Rarely
+      - Incidentally
+      Explanation: Food adaptation showcases cultural identity, demonstrating resilience,
+        creativity, and the fusion of culinary traditions.
+    - Question: Can religious beliefs influence dietary choices and food practices?
+      TrueAnswer: Certainly
+      FalseAnswer:
+      - Hardly
+      - Barely
+      - Doubtful
+      Explanation: Religious beliefs profoundly influence dietary restrictions, food
+        preparation, and communal eating practices, shaping culinary identity.
+    - Question: Are food taboos often tied to cultural and ethnic identity?
+      TrueAnswer: Often
+      FalseAnswer:
+      - Sometimes
+      - Rarely
+      - Hardly
+      Explanation: Food taboos are frequently intertwined with cultural and ethnic
+        identity, reflecting historical, spiritual, and societal influences.
+    - Question: Is nostalgia a significant factor in shaping culinary identity?
+      TrueAnswer: Undoubtedly
+      FalseAnswer:
+      - Questionable
+      - Minimally
+      - Seldom
+      Explanation: Nostalgia evokes powerful food memories, traditions, and flavors,
+        deeply influencing an individual's culinary identity.
+    - Question: How does socioeconomic status impact an individual's relationship
+        with food?
+      TrueAnswer: Profoundly
+      FalseAnswer:
+      - Negligibly
+      - Partially
+      - Superficially
+      Explanation: Socioeconomic status greatly influences food access, eating habits,
+        and culinary experiences, profoundly shaping an individual's relationship
+        with food.
+    - Question: Does regional cuisine contribute to a collective cultural identity?
+      TrueAnswer: Certainly
+      FalseAnswer:
+      - Debatable
+      - Possibly
+      - Doubtful
+      Explanation: Regional cuisine embodies unique flavors and traditions, contributing
+        to a collective cultural identity, showcasing diversity and culinary heritage.
+    - Question: Are there food customs directly associated with national identity?
+      TrueAnswer: Definitely
+      FalseAnswer:
+      - Maybe
+      - Possibly
+      - Not really
+      Explanation: Many countries have distinct food customs that reflect their national
+        identity, encompassing historical, geographical, and cultural influences.
+    - Question: Do family recipes play a role in shaping an individual's culinary
+        identity?
+      TrueAnswer: Significantly
+      FalseAnswer:
+      - Minimally
+      - Occasionally
+      - Not at all
+      Explanation: Family recipes carry heritage, memories, and traditions, significantly
+        shaping an individual's culinary identity and connection to their roots.
+    - Question: Is food an expression of personal and communal identity?
+      TrueAnswer: Absolutely
+      FalseAnswer:
+      - Possibly
+      - Partially
+      - Sometimes
+      Explanation: Food serves as a powerful expression of personal and communal
+        identity, uniting people through shared experiences, traditions, and values.
+    - Question: How does food language and terminology reflect cultural identity?
+      TrueAnswer: Deeply
+      FalseAnswer:
+      - Barely
+      - Incidentally
+      - Superficially
+      Explanation: Food language and terminology are deeply embedded in cultural
+        identity, conveying history, traditions, and regional influences through
+        culinary expressions.
+    - Question: Are regional ingredients integral to defining culinary identity?
+      TrueAnswer: Essential
+      FalseAnswer:
+      - Optional
+      - Extraneous
+      - Inconsequential
+      Explanation: Regional ingredients are essential in defining culinary identity,
+        showcasing terroir, flavor profiles, and the essence of local food traditions.
+    - Question: How does the migration of food cultures influence culinary identities?
+      TrueAnswer: Enriches
+      FalseAnswer:
+      - Homogenizes
+      - Diminishes
+      - Discourages
+      Explanation: The migration of food cultures enriches culinary identities by
+        fostering cross-cultural exchanges, culinary innovation, and appreciation
+        for diverse food traditions.
+    - Question: Is the representation of food in media a reflection of cultural identity?
+      TrueAnswer: Frequently
+      FalseAnswer:
+      - Occasionally
+      - Rarely
+      - Hardly
+      Explanation: Food representation in media often reflects cultural identity,
+        portraying culinary customs, celebrations, and diverse gastronomic traditions.
+    - Question: Do food-related festivities contribute to cultural identity?
+      TrueAnswer: Undoubtedly
+      FalseAnswer:
+      - Possibly
+      - Marginally
+      - Negligibly
+      Explanation: Food-related festivities are integral in preserving and celebrating
+        cultural identity, showcasing unique culinary traditions and communal practices.
+    - Question: Is the sharing of traditional food recipes a form of preserving cultural
+        identity?
+      TrueAnswer: Absolutely
+      FalseAnswer:
+      - Occasionally
+      - Partially
+      - Doubtful
+      Explanation: Sharing traditional food recipes is a powerful way to preserve
+        and perpetuate cultural identity, sustaining culinary heritage across generations.

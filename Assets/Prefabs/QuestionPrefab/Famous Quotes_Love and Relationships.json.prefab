@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6926672129639164452
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3667869657963728604}
+  - component: {fileID: 3369765947711730480}
+  m_Layer: 0
+  m_Name: Famous Quotes_Love and Relationships.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3667869657963728604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6926672129639164452}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3369765947711730480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6926672129639164452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The greatest thing you'll ever learn is just to love and
+        be loved in return'?
+      TrueAnswer: Nat King Cole
+      FalseAnswer:
+      - Frank Sinatra
+      - Elvis Presley
+      - Louis Armstrong
+      Explanation: Nat King Cole, the American singer, famously sang these lyrics
+        in the song 'Nature Boy'.
+    - Question: Which author said, 'Love is composed of a single soul inhabiting
+        two bodies'?
+      TrueAnswer: Aristotle
+      FalseAnswer:
+      - William Shakespeare
+      - Jane Austen
+      - F. Scott Fitzgerald
+      Explanation: Aristotle, the Greek philosopher, expressed this idea in his writings
+        on love and relationships.
+    - Question: Who said, 'Love is not about possession. Love is about appreciation'?
+      TrueAnswer: Osho
+      FalseAnswer:
+      - Dalai Lama
+      - Mother Teresa
+      - Mahatma Gandhi
+      Explanation: Osho, the Indian spiritual teacher, emphasized the importance
+        of appreciating love without possessiveness.
+    - Question: Which poet wrote, 'Love is an irresistible desire to be irresistibly
+        desired'?
+      TrueAnswer: Robert Frost
+      FalseAnswer:
+      - Emily Dickinson
+      - Langston Hughes
+      - Maya Angelou
+      Explanation: Robert Frost, the American poet, beautifully captured the essence
+        of love in this quote.
+    - Question: Who said, 'Love is a friendship set to music'?
+      TrueAnswer: Joseph Campbell
+      FalseAnswer:
+      - Sigmund Freud
+      - Carl Jung
+      - Friedrich Nietzsche
+      Explanation: Joseph Campbell, the American mythologist, described love as a
+        harmonious friendship.
+    - Question: Which philosopher said, 'Love is the joy of the good, the wonder
+        of the wise, the amazement of the gods'?
+      TrueAnswer: Plato
+      FalseAnswer:
+      - Confucius
+      - Immanuel Kant
+      - Friedrich Nietzsche
+      Explanation: Plato, the ancient Greek philosopher, expressed the profound nature
+        of love in this quote.
+    - Question: Who said, 'Love is like the wind, you can't see it but you can feel
+        it'?
+      TrueAnswer: Nicholas Sparks
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - George R.R. Martin
+      Explanation: Nicholas Sparks, the American author, used this metaphor to describe
+        the intangible nature of love.
+    - Question: Which playwright wrote, 'The course of true love never did run smooth'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - Tennessee Williams
+      - Arthur Miller
+      Explanation: William Shakespeare, the renowned English playwright, penned this
+        line in his play 'A Midsummer Night's Dream'.
+    - Question: Who said, 'Love is a game that two can play and both win'?
+      TrueAnswer: Eva Gabor
+      FalseAnswer:
+      - Audrey Hepburn
+      - Marilyn Monroe
+      - Grace Kelly
+      Explanation: Eva Gabor, the Hungarian-American actress, expressed the mutual
+        benefits of love in this quote.
+    - Question: Which philosopher said, 'Love is the master key that opens the gates
+        of happiness'?
+      TrueAnswer: Oliver Wendell Holmes
+      FalseAnswer:
+      - Ralph Waldo Emerson
+      - Henry David Thoreau
+      - Friedrich Nietzsche
+      Explanation: Oliver Wendell Holmes, the American physician and poet, believed
+        that love unlocks happiness.
+    - Question: Who said, 'Love is a canvas furnished by nature and embroidered by
+        imagination'?
+      TrueAnswer: Voltaire
+      FalseAnswer:
+      - Albert Einstein
+      - Isaac Newton
+      - Galileo Galilei
+      Explanation: Voltaire, the French Enlightenment writer, described love as a
+        work of art.
+    - Question: Which author wrote, 'Love is a smoke made with the fume of sighs'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Jane Austen
+      - Emily Bronte
+      - Virginia Woolf
+      Explanation: William Shakespeare, the legendary playwright, used this metaphor
+        in his play 'Romeo and Juliet'.
+    - Question: Who said, 'Love is the only force capable of transforming an enemy
+        into a friend'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Nelson Mandela
+      - Malcolm X
+      - Mahatma Gandhi
+      Explanation: Martin Luther King Jr., the civil rights leader, believed in the
+        power of love to foster reconciliation.
+    - Question: Which poet wrote, 'Love is the voice under all silences, the hope
+        which has no opposite in fear'?
+      TrueAnswer: E.E. Cummings
+      FalseAnswer:
+      - Robert Frost
+      - Maya Angelou
+      - Langston Hughes
+      Explanation: E.E. Cummings, the American poet, expressed the profound nature
+        of love in this quote.
+    - Question: Who said, 'Love is a better teacher than duty'?
+      TrueAnswer: Albert Einstein
+      FalseAnswer:
+      - Isaac Newton
+      - Stephen Hawking
+      - Nikola Tesla
+      Explanation: Albert Einstein, the renowned physicist, believed that love provides
+        valuable lessons in life.
+    - Question: Which philosopher said, 'Love is the beauty of the soul'?
+      TrueAnswer: Saint Augustine
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Socrates
+      Explanation: Saint Augustine, the early Christian theologian, described love
+        as a soulful beauty.
+    - Question: Who said, 'Love is the flower you've got to let grow'?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - Bob Marley
+      - Elton John
+      - David Bowie
+      Explanation: John Lennon, the English musician, encouraged nurturing love like
+        a blossoming flower.
+    - Question: Which author wrote, 'Love is a better fate than wisdom'?
+      TrueAnswer: E.E. Cummings
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - Ernest Hemingway
+      - J.D. Salinger
+      Explanation: E.E. Cummings, the American poet, believed that love surpasses
+        wisdom in life's journey.
+    - Question: Who said, 'Love is the absence of judgment'?
+      TrueAnswer: Dalai Lama
+      FalseAnswer:
+      - Pope Francis
+      - Buddha
+      - Jesus Christ
+      Explanation: Dalai Lama, the spiritual leader, emphasized the importance of
+        unconditional love without judgment.
+    - Question: Which philosopher said, 'Love is the ultimate meaning of everything
+        around us'?
+      TrueAnswer: Rabindranath Tagore
+      FalseAnswer:
+      - Friedrich Nietzsche
+      - Jean-Paul Sartre
+      - "S\xF8ren Kierkegaard"
+      Explanation: Rabindranath Tagore, the Indian poet and philosopher, believed
+        that love gives meaning to life.

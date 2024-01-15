@@ -1,0 +1,134 @@
+{
+    "Science and Philosophy": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the study of matter and energy called?",
+                    "TrueAnswer": "Physics",
+                    "FalseAnswer": ["Biology", "Chemistry", "Geology"],
+                    "Explanation": "Physics is the branch of science that deals with matter, energy, and their interactions."
+                },
+                {
+                    "Question": "Who proposed the theory of general relativity?",
+                    "TrueAnswer": "Albert Einstein",
+                    "FalseAnswer": ["Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+                    "Explanation": "Albert Einstein is the physicist who proposed the theory of general relativity in 1915."
+                },
+                {
+                    "Question": "What is the smallest unit of life?",
+                    "TrueAnswer": "Cell",
+                    "FalseAnswer": ["Atom", "Molecule", "Organism"],
+                    "Explanation": "Cells are the basic structural and functional units of all living organisms."
+                },
+                {
+                    "Question": "What is the study of the origin and evolution of the universe called?",
+                    "TrueAnswer": "Cosmology",
+                    "FalseAnswer": ["Astrology", "Astronomy", "Geology"],
+                    "Explanation": "Cosmology is the scientific study of the origin, evolution, and structure of the universe."
+                },
+                {
+                    "Question": "Who is considered the father of modern philosophy?",
+                    "TrueAnswer": "René Descartes",
+                    "FalseAnswer": ["Plato", "Aristotle", "Immanuel Kant"],
+                    "Explanation": "René Descartes is often regarded as the father of modern philosophy due to his contributions to rationalism and skepticism."
+                },
+                {
+                    "Question": "What is the study of knowledge, truth, and the nature of reality called?",
+                    "TrueAnswer": "Epistemology",
+                    "FalseAnswer": ["Ethics", "Metaphysics", "Logic"],
+                    "Explanation": "Epistemology is the branch of philosophy that deals with the nature of knowledge, truth, and belief."
+                },
+                {
+                    "Question": "What is the study of moral values and principles called?",
+                    "TrueAnswer": "Ethics",
+                    "FalseAnswer": ["Aesthetics", "Logic", "Metaphysics"],
+                    "Explanation": "Ethics is the branch of philosophy that deals with moral values, principles, and judgments."
+                },
+                {
+                    "Question": "Who proposed the theory of evolution by natural selection?",
+                    "TrueAnswer": "Charles Darwin",
+                    "FalseAnswer": ["Gregor Mendel", "Louis Pasteur", "Marie Curie"],
+                    "Explanation": "Charles Darwin is the scientist who proposed the theory of evolution by natural selection in his book 'On the Origin of Species'."
+                },
+                {
+                    "Question": "What is the study of the nature of existence and reality called?",
+                    "TrueAnswer": "Metaphysics",
+                    "FalseAnswer": ["Ethics", "Epistemology", "Aesthetics"],
+                    "Explanation": "Metaphysics is the branch of philosophy that deals with the fundamental nature of reality, existence, and being."
+                },
+                {
+                    "Question": "What is the study of the mind and mental processes called?",
+                    "TrueAnswer": "Psychology",
+                    "FalseAnswer": ["Sociology", "Anthropology", "Neuroscience"],
+                    "Explanation": "Psychology is the scientific study of the mind, behavior, and mental processes."
+                },
+                {
+                    "Question": "Who proposed the concept of the unconscious mind?",
+                    "TrueAnswer": "Sigmund Freud",
+                    "FalseAnswer": ["Carl Jung", "Ivan Pavlov", "B.F. Skinner"],
+                    "Explanation": "Sigmund Freud is the psychologist who proposed the concept of the unconscious mind and psychoanalysis."
+                },
+                {
+                    "Question": "What is the study of the principles of reasoning and valid argumentation called?",
+                    "TrueAnswer": "Logic",
+                    "FalseAnswer": ["Ethics", "Epistemology", "Metaphysics"],
+                    "Explanation": "Logic is the branch of philosophy that deals with the principles of reasoning and valid argumentation."
+                },
+                {
+                    "Question": "Who proposed the concept of the 'categorical imperative' in ethics?",
+                    "TrueAnswer": "Immanuel Kant",
+                    "FalseAnswer": ["John Stuart Mill", "Jeremy Bentham", "Friedrich Nietzsche"],
+                    "Explanation": "Immanuel Kant is the philosopher who proposed the concept of the 'categorical imperative' in ethics."
+                },
+                {
+                    "Question": "What is the study of the physical and chemical processes in living organisms called?",
+                    "TrueAnswer": "Biochemistry",
+                    "FalseAnswer": ["Microbiology", "Genetics", "Ecology"],
+                    "Explanation": "Biochemistry is the branch of science that deals with the chemical processes and substances in living organisms."
+                },
+                {
+                    "Question": "Who proposed the theory of relativity?",
+                    "TrueAnswer": "Albert Einstein",
+                    "FalseAnswer": ["Isaac Newton", "Galileo Galilei", "Stephen Hawking"],
+                    "Explanation": "Albert Einstein is the physicist who proposed the theory of relativity in his groundbreaking papers of 1905 and 1915."
+                },
+                {
+                    "Question": "What is the study of the structure and function of genes called?",
+                    "TrueAnswer": "Genetics",
+                    "FalseAnswer": ["Microbiology", "Biochemistry", "Ecology"],
+                    "Explanation": "Genetics is the branch of biology that deals with the study of genes, heredity, and genetic variation."
+                },
+                {
+                    "Question": "Who proposed the concept of the 'invisible hand' in economics?",
+                    "TrueAnswer": "Adam Smith",
+                    "FalseAnswer": ["Karl Marx", "John Maynard Keynes", "Milton Friedman"],
+                    "Explanation": "Adam Smith is the economist who proposed the concept of the 'invisible hand' in his book 'The Wealth of Nations'."
+                },
+                {
+                    "Question": "What is the study of the Earth's physical structure and substance called?",
+                    "TrueAnswer": "Geology",
+                    "FalseAnswer": ["Meteorology", "Astronomy", "Oceanography"],
+                    "Explanation": "Geology is the science that deals with the Earth's physical structure, history, and the processes that shape it."
+                },
+                {
+                    "Question": "Who proposed the concept of the 'id', 'ego', and 'superego' in psychology?",
+                    "TrueAnswer": "Sigmund Freud",
+                    "FalseAnswer": ["Carl Jung", "Ivan Pavlov", "B.F. Skinner"],
+                    "Explanation": "Sigmund Freud is the psychologist who proposed the concept of the 'id', 'ego', and 'superego' in his psychoanalytic theory."
+                },
+                {
+                    "Question": "What is the study of the origin, behavior, and physical, social, and cultural development of humans called?",
+                    "TrueAnswer": "Anthropology",
+                    "FalseAnswer": ["Sociology", "Psychology", "Archaeology"],
+                    "Explanation": "Anthropology is the scientific study of humans, including their origin, behavior, and cultural development."
+                },
+                {
+                    "Question": "Who proposed the concept of the 'invisible hand' in economics?",
+                    "TrueAnswer": "Adam Smith",
+                    "FalseAnswer": ["Karl Marx", "John Maynard Keynes", "Milton Friedman"],
+                    "Explanation": "Adam Smith is the economist who proposed the concept of the 'invisible hand' in his book 'The Wealth of Nations'."
+                }
+            ]
+        }
+    ]
+}

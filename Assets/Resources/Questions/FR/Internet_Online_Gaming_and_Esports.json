@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le jeu de battle royale en ligne le plus populaire?",
+            "TrueAnswer": "Fortnite",
+            "FalseAnswer": [
+              "PUBG",
+              "Apex Legends",
+              "Call of Duty Warzone"
+            ],
+            "Explanation": "Fortnite est devenu un phénomène culturel, attirant plus de 350 millions de joueurs dans le monde depuis sa sortie en 2017."
+          },
+          {
+            "Question": "Quelle entreprise a développé le jeu League of Legends?",
+            "TrueAnswer": "Riot Games",
+            "FalseAnswer": [
+              "Valve Corporation",
+              "Blizzard Entertainment",
+              "Epic Games"
+            ],
+            "Explanation": "Riot Games, fondée en 2006, est également connue pour avoir créé le jeu de tir à la première personne populaire, Valorant."
+          },
+          {
+            "Question": "Quel est le prize pool pour The International, le championnat du monde de Dota 2?",
+            "TrueAnswer": "Des millions de dollars",
+            "FalseAnswer": [
+              "Des centaines de milliers de dollars",
+              "Des dizaines de milliers de dollars",
+              "Des milliards de dollars"
+            ],
+            "Explanation": "Le prize pool de The International est financé par le biais d'achats en jeu, ce qui se traduit par des gains de plusieurs millions de dollars pour les meilleures équipes."
+          },
+          {
+            "Question": "Quel pays compte le plus grand public d'esports au monde?",
+            "TrueAnswer": "Chine",
+            "FalseAnswer": [
+              "États-Unis",
+              "Corée du Sud",
+              "Brésil"
+            ],
+            "Explanation": "Avec plus de 400 millions de spectateurs, la Chine domine largement le public des esports, suivie par les États-Unis et la Corée du Sud."
+          },
+          {
+            "Question": "En quelle année le jeu Counter-Strike: Global Offensive a-t-il été publié?",
+            "TrueAnswer": "2012",
+            "FalseAnswer": [
+              "2007",
+              "2010",
+              "2014"
+            ],
+            "Explanation": "Counter-Strike: Global Offensive, communément appelé CS:GO, a été officiellement publié le 21 août 2012."
+          },
+          {
+            "Question": "Quelle est la plateforme de streaming la plus populaire pour le contenu de jeux vidéo?",
+            "TrueAnswer": "Twitch",
+            "FalseAnswer": [
+              "YouTube Gaming",
+              "Facebook Gaming",
+              "Mixer"
+            ],
+            "Explanation": "Twitch, acquis par Amazon en 2014, domine l'industrie du streaming avec des millions d'utilisateurs actifs quotidiens et un grand nombre de spectateurs."
+          },
+          {
+            "Question": "Quel jeu a popularisé le genre battle royale dans les jeux vidéo grand public?",
+            "TrueAnswer": "PlayerUnknown's Battlegrounds (PUBG)",
+            "FalseAnswer": [
+              "H1Z1",
+              "DayZ",
+              "Fortnite"
+            ],
+            "Explanation": "PUBG, développé par Brendan Greene, a introduit le concept de battle royale et ouvert la voie à d'autres jeux dans le genre."
+          },
+          {
+            "Question": "Quel est le but principal d'un jeu 'MOBA' comme Dota 2 ou League of Legends?",
+            "TrueAnswer": "Détruire la base ennemie",
+            "FalseAnswer": [
+              "Obtenir le plus de kills",
+              "Gagner le plus d'or",
+              "Capturer le plus d'objectifs"
+            ],
+            "Explanation": "Dans les jeux 'MOBA', les joueurs travaillent à détruire la structure principale de l'équipe adverse, appelée Ancien dans Dota 2 et Nexus dans League of Legends."
+          },
+          {
+            "Question": "À quel genre de jeu appartient StarCraft II?",
+            "TrueAnswer": "Stratégie en temps réel (RTS)",
+            "FalseAnswer": [
+              "Jeu de tir à la première personne (FPS)",
+              "Jeu de rôle (RPG)",
+              "Sandbox"
+            ],
+            "Explanation": "StarCraft II est un jeu de stratégie en temps réel classique connu pour sa jouabilité complexe et sa scène compétitive dans les esports."
+          },
+          {
+            "Question": "Quel est le focus principal du jeu compétitif Overwatch?",
+            "TrueAnswer": "Objectifs basés sur l'équipe",
+            "FalseAnswer": [
+              "Kills solo",
+              "Exploration de carte",
+              "Gestion des ressources"
+            ],
+            "Explanation": "Overwatch met l'accent sur le travail d'équipe et le jeu coopératif, les joueurs travaillant ensemble pour atteindre les objectifs de jeu et remporter la victoire."
+          },
+          {
+            "Question": "Que signifie le terme 'GG' dans les jeux vidéo en ligne?",
+            "TrueAnswer": "Bon jeu",
+            "FalseAnswer": [
+              "Partir",
+              "Groupe formidable",
+              "Objectif du joueur"
+            ],
+            "Explanation": "Dans les jeux vidéo en ligne, 'GG' est couramment utilisé comme un geste fair-play pour reconnaître la fin d'un match et montrer du respect envers les adversaires."
+          },
+          {
+            "Question": "Quelle plateforme de jeu a introduit le concept de succès/trophées pour les jeux vidéo en ligne?",
+            "TrueAnswer": "Xbox Live",
+            "FalseAnswer": [
+              "PlayStation Network",
+              "Steam",
+              "Nintendo Switch Online"
+            ],
+            "Explanation": "Xbox Live a popularisé le concept de succès en jeu, qui est maintenant une fonctionnalité standard sur diverses plateformes de jeu."
+          },
+          {
+            "Question": "Quel est le terme pour un joueur professionnel dans l'industrie des esports?",
+            "TrueAnswer": "Joueur professionnel",
+            "FalseAnswer": [
+              "Esportif",
+              "Champion de jeu",
+              "Athlète numérique"
+            ],
+            "Explanation": "Les joueurs professionnels dans les esports sont souvent appelés 'joueurs professionnels', mettant en valeur leur dévouement et leur talent dans le jeu compétitif."
+          },
+          {
+            "Question": "Quel jeu de cartes populaire a une scène des esports prospère?",
+            "TrueAnswer": "Hearthstone",
+            "FalseAnswer": [
+              "Magic: The Gathering",
+              "Yu-Gi-Oh!",
+              "Pokémon TCG"
+            ],
+            "Explanation": "Hearthstone, développé par Blizzard Entertainment, a une forte présence dans les esports, organisant des tournois majeurs et des compétitions à travers le monde."
+          },
+          {
+            "Question": "Quelle région est connue pour sa domination dans les compétitions professionnelles de StarCraft?",
+            "TrueAnswer": "Corée du Sud",
+            "FalseAnswer": [
+              "États-Unis",
+              "Suède",
+              "Chine"
+            ],
+            "Explanation": "La Corée du Sud a longtemps été une puissance dans le StarCraft compétitif, avec des ligues dédiées et une base de fans passionnée."
+          },
+          {
+            "Question": "Quel est le terme utilisé pour les achats en jeu dans les jeux gratuits?",
+            "TrueAnswer": "Microtransactions",
+            "FalseAnswer": [
+              "Macropaiements",
+              "Mises à niveau numériques",
+              "Acquisitions virtuelles"
+            ],
+            "Explanation": "Les microtransactions permettent aux joueurs d'acheter des biens ou des items virtuels dans les jeux gratuits, couramment observés dans les titres mobiles et multijoueurs en ligne."
+          },
+          {
+            "Question": "Quel est l'objectif dans un jeu d'arène de bataille comme Super Smash Bros.?",
+            "TrueAnswer": "Éliminer les adversaires de la scène",
+            "FalseAnswer": [
+              "Obtenir le plus de points",
+              "Finir le plus de niveaux",
+              "Ramasser des power-ups"
+            ],
+            "Explanation": "Dans des jeux comme Super Smash Bros., le but principal est d'éliminer les adversaires en les projetant hors de l'aire de jeu, plutôt que d'accumuler des points."
+          },
+          {
+            "Question": "Quel est le mode de compétition principal dans le jeu Rocket League?",
+            "TrueAnswer": "Matchs de type soccer avec des voitures",
+            "FalseAnswer": [
+              "Contre-la-montre et courses",
+              "Défis acrobatiques aériens",
+              "Batailles de personnalisation de voiture"
+            ],
+            "Explanation": "Rocket League implique des matchs compétitifs où les joueurs contrôlent des voitures pour frapper un ballon dans le but de l'équipe adverse, ressemblant à un mélange de soccer et de combat automobile."
+          },
+          {
+            "Question": "Quel est le terme pour les équipes professionnelles représentant des organisations spécifiques dans les esports?",
+            "TrueAnswer": "Franchises d'esports",
+            "FalseAnswer": [
+              "Alliances de jeu",
+              "Guildes numériques",
+              "Groupes de cybersport"
+            ],
+            "Explanation": "Les franchises d'esports, tout comme les équipes sportives traditionnelles, concourent dans des ligues et des tournois tout en représentant une marque ou une organisation particulière."
+          },
+          {
+            "Question": "Quel jeu en ligne populaire intègre la construction, la collecte de ressources et le gameplay de combat?",
+            "TrueAnswer": "Minecraft",
+            "FalseAnswer": [
+              "Terraria",
+              "Roblox",
+              "Les Sims"
+            ],
+            "Explanation": "Minecraft combine des éléments de survie et de créativité, permettant aux joueurs de collecter des ressources, de construire des structures et de participer à des combats dans un environnement en monde ouvert."
+          }
+        ]
+      }
+    }
+  ]
+}

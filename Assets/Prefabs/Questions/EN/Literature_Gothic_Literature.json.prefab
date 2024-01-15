@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8749504145967266338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7326131496645177702}
+  - component: {fileID: 4719113350125712433}
+  m_Layer: 0
+  m_Name: Literature_Gothic_Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7326131496645177702
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8749504145967266338}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4719113350125712433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8749504145967266338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the novel that brought Gothic fiction to the mainstream?
+      TrueAnswer: Frankenstein
+      FalseAnswer:
+      - Dracula
+      - The Castle of Otranto
+      - Wuthering Heights
+      Explanation: Mary Shelley's 'Frankenstein' is considered the first true science
+        fiction novel and a cornerstone of Gothic literature.
+    - Question: Which author is known for pioneering the Gothic genre with 'The Monk'?
+      TrueAnswer: Matthew Lewis
+      FalseAnswer:
+      - Ann Radcliffe
+      - Jane Austen
+      - Edgar Allan Poe
+      Explanation: Matthew Lewis was only 20 years old when he wrote 'The Monk',
+        known for its sensational and controversial content.
+    - Question: "Where is the setting of Emily Bront\xEB's Gothic novel 'Wuthering
+        Heights'?"
+      TrueAnswer: Yorkshire Moors
+      FalseAnswer:
+      - Transylvania
+      - Scottish Highlands
+      - French Alps
+      Explanation: The bleak and desolate Yorkshire Moors provide the perfect setting
+        for the intense drama and Gothic elements in the novel.
+    - Question: Which famous Gothic novel features a character named Heathcliff?
+      TrueAnswer: Wuthering Heights
+      FalseAnswer:
+      - The Hunchback of Notre Dame
+      - Rebecca
+      - The Mysteries of Udolpho
+      Explanation: "Heathcliff is a central figure in Emily Bront\xEB's 'Wuthering
+        Heights', contributing to the novel's dark and brooding atmosphere."
+    - Question: Who is the author of the influential Gothic novel 'The Mysteries
+        of Udolpho'?
+      TrueAnswer: Ann Radcliffe
+      FalseAnswer:
+      - Edgar Allan Poe
+      - "Charlotte Bront\xEB"
+      - Bram Stoker
+      Explanation: Ann Radcliffe's novel is known for its emphasis on the rational
+        and psychological rather than the supernatural.
+    - Question: Which 18th-century novel is often regarded as the first Gothic novel?
+      TrueAnswer: The Castle of Otranto
+      FalseAnswer:
+      - Northanger Abbey
+      - The Italian
+      - The Monk
+      Explanation: Horace Walpole's 'The Castle of Otranto' is deemed as the original
+        Gothic novel, setting the stage for the genre's conventions.
+    - Question: What is the name of the central character in Bram Stoker's 'Dracula'?
+      TrueAnswer: Count Dracula
+      FalseAnswer:
+      - Jonathan Harker
+      - Van Helsing
+      - Renfield
+      Explanation: Count Dracula is a powerful and enigmatic figure at the heart
+        of Stoker's iconic Gothic novel.
+    - Question: Which classic novel features a character named Victor Frankenstein?
+      TrueAnswer: Frankenstein
+      FalseAnswer:
+      - Dr. Jekyll and Mr. Hyde
+      - The Picture of Dorian Gray
+      - The Strange Case of Dr. Couney
+      Explanation: Victor Frankenstein is the ambitious scientist who creates the
+        infamous creature in Mary Shelley's novel.
+    - Question: In which Gothic novel does the character Bertha Mason play a pivotal
+        role?
+      TrueAnswer: Jane Eyre
+      FalseAnswer:
+      - Northanger Abbey
+      - Rebecca
+      - The Turn of the Screw
+      Explanation: "Bertha Mason's presence in 'Jane Eyre' adds a layer of darkness
+        and mystery to Charlotte Bront\xEB's narrative."
+    - Question: Who wrote the short story 'The Tell-Tale Heart', known for its Gothic
+        elements?
+      TrueAnswer: Edgar Allan Poe
+      FalseAnswer:
+      - Nathaniel Hawthorne
+      - Washington Irving
+      - H.P. Lovecraft
+      Explanation: Edgar Allan Poe's psychological terror and eerie atmosphere reflect
+        distinct Gothic traits in his works.
+    - Question: What is the name of the eerie and imposing residence in 'Rebecca'?
+      TrueAnswer: Manderley
+      FalseAnswer:
+      - Thornfield Hall
+      - Hill House
+      - Bly Manor
+      Explanation: Manderley stands as a haunting symbol of the past in Daphne du
+        Maurier's atmospheric and suspenseful novel.
+    - Question: "In which Gothic novel does the character Laura Fairlie face an unsettling
+        doppelg\xE4nger?"
+      TrueAnswer: The Woman in White
+      FalseAnswer:
+      - The Haunting of Hill House
+      - Carmilla
+      - The Turn of the Screw
+      Explanation: Wilkie Collins' mystery novel 'The Woman in White' delves into
+        themes of identity and duality through Laura's encounter.
+    - Question: Who is the author of the chilling Gothic tale 'The Turn of the Screw'?
+      TrueAnswer: Henry James
+      FalseAnswer:
+      - Oscar Wilde
+      - Charles Dickens
+      - H.G. Wells
+      Explanation: Henry James' ambiguous and psychologically intense narrative has
+        captivated readers with its ghostly ambiguity.
+    - Question: What enigmatic figure haunts the narrator in Edgar Allan Poe's 'The
+        Raven'?
+      TrueAnswer: Lenore
+      FalseAnswer:
+      - Beatrice
+      - Evelyn
+      - Margaret
+      Explanation: Lenore's absence shapes the melancholic and ominous tone of Poe's
+        renowned Gothic poem.
+    - Question: What is the rumored cause of the strange occurrences at Bly Manor
+        in Henry James' 'The Turn of the Screw'?
+      TrueAnswer: Ghosts
+      FalseAnswer:
+      - Illusion
+      - Hysteria
+      - Supernatural Creatures
+      Explanation: The suggestion of ghosts and the uncertainty surrounding the events
+        enhance the Gothic atmosphere of the story.
+    - Question: In which classic Gothic novel does the character Clarice starve herself
+        to death?
+      TrueAnswer: The Mysteries of Udolpho
+      FalseAnswer:
+      - Carmilla
+      - The Castle of Wolfenbach
+      - The Orphan of the Rhine
+      Explanation: Clarice's tragic fate contributes to the novel's intense and emotive
+        Gothic depiction of female suffering.
+    - Question: Who is the author of the early Gothic novel 'Vathek'?
+      TrueAnswer: William Beckford
+      FalseAnswer:
+      - Horace Walpole
+      - Ann Radcliffe
+      - Matthew Lewis
+      Explanation: Beckford's 'Vathek' is an Orientalist and Gothic tale, reflecting
+        the fascination with the exotic and the supernatural in the late 18th century.
+    - Question: Who penned the influential Gothic novel 'Zofloya; or, The Moor'?
+      TrueAnswer: Charlotte Dacre
+      FalseAnswer:
+      - Maria Edgeworth
+      - Mary Shelley
+      - Fanny Burney
+      Explanation: Charlotte Dacre's novel is marked by its dark and sensual depiction
+        of violence and moral corruption.
+    - Question: Which classic Gothic novel follows the story of a young woman imprisoned
+        in an Italian castle?
+      TrueAnswer: The Italian
+      FalseAnswer:
+      - Caleb Williams
+      - The Monk
+      - The Castle Spectre
+      Explanation: Radcliffe's 'The Italian' is a tale of passion, intrigue, and
+        the harrowing experiences of her persecuted heroine.
+    - Question: In which Gothic novel does the protagonist experience terror and
+        suspense at an abbey?
+      TrueAnswer: Northanger Abbey
+      FalseAnswer:
+      - The Monk
+      - The Mysteries of Udolpho
+      - The Italian
+      Explanation: Austen's parody of the Gothic genre incorporates elements of terror
+        and suspense within the walls of an abbey.

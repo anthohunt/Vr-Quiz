@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &267338403894182522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 881444022067844640}
+  - component: {fileID: 3247222659888290055}
+  m_Layer: 0
+  m_Name: Internet_Internet Trends and Viral Phenomena.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &881444022067844640
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267338403894182522}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3247222659888290055
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 267338403894182522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What was the first viral video on the internet?
+      TrueAnswer: The Evolution of Dance
+      FalseAnswer:
+      - Charlie Bit My Finger
+      - Gangnam Style
+      - Chocolate Rain
+      Explanation: The Evolution of Dance, uploaded in 2006, became the first viral
+        video to gain widespread popularity.
+    - Question: Which social media platform introduced the concept of disappearing
+        stories?
+      TrueAnswer: Snapchat
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Twitter
+      Explanation: Snapchat was the first social media platform to introduce disappearing
+        stories, revolutionizing the way people share content.
+    - Question: What was the most-watched YouTube video of all time?
+      TrueAnswer: Baby Shark Dance
+      FalseAnswer:
+      - Despacito
+      - Gangnam Style
+      - See You Again
+      Explanation: Baby Shark Dance surpassed other popular videos to become the
+        most-watched YouTube video with billions of views.
+    - Question: Which internet trend involved pouring ice-cold water over oneself
+        for charity?
+      TrueAnswer: Ice Bucket Challenge
+      FalseAnswer:
+      - Mannequin Challenge
+      - Harlem Shake
+      - Planking
+      Explanation: The Ice Bucket Challenge went viral as people filmed themselves
+        pouring ice-cold water to raise awareness and funds for ALS.
+    - Question: What was the first social media platform to reach 1 billion users?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - LinkedIn
+      Explanation: Facebook was the first social media platform to reach 1 billion
+        users, solidifying its dominance in the industry.
+    - Question: Which internet trend involved people recreating famous works of art
+        at home?
+      TrueAnswer: Getty Museum Challenge
+      FalseAnswer:
+      - Mannequin Challenge
+      - TikTok Dances
+      - Dalgona Coffee
+      Explanation: During the Getty Museum Challenge, people recreated famous artworks
+        using household items and shared their creations online.
+    - Question: What was the first viral meme on the internet?
+      TrueAnswer: Dancing Baby
+      FalseAnswer:
+      - Rickrolling
+      - Pepe the Frog
+      - Distracted Boyfriend
+      Explanation: The Dancing Baby, a 3D-rendered animation, became one of the first
+        viral memes on the internet in the 1990s.
+    - Question: Which social media platform popularized the hashtag?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - TikTok
+      Explanation: Twitter popularized the use of hashtags, allowing users to categorize
+        and discover content related to specific topics.
+    - Question: What was the first video to reach 1 billion views on YouTube?
+      TrueAnswer: Gangnam Style
+      FalseAnswer:
+      - Baby Shark Dance
+      - Despacito
+      - See You Again
+      Explanation: Gangnam Style by Psy was the first video to reach 1 billion views
+        on YouTube, becoming a global sensation.
+    - Question: Which internet trend involved people freezing in place like mannequins?
+      TrueAnswer: Mannequin Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Harlem Shake
+      - Planking
+      Explanation: The Mannequin Challenge went viral as people filmed themselves
+        frozen in various poses, creating captivating videos.
+    - Question: What was the first social media platform to introduce the 'like'
+        button?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - LinkedIn
+      Explanation: Facebook introduced the 'like' button, allowing users to express
+        their approval or appreciation for posts.
+    - Question: Which internet trend involved people imitating the dance moves from
+        Fortnite?
+      TrueAnswer: Floss Dance
+      FalseAnswer:
+      - Dabbing
+      - TikTok Dances
+      - Macarena
+      Explanation: The Floss Dance gained popularity as people imitated the iconic
+        dance moves from the video game Fortnite.
+    - Question: What was the first viral video to reach 1 billion views on YouTube?
+      TrueAnswer: Gangnam Style
+      FalseAnswer:
+      - Baby Shark Dance
+      - Despacito
+      - See You Again
+      Explanation: Gangnam Style by Psy was the first viral video to reach 1 billion
+        views on YouTube, breaking records.
+    - Question: Which social media platform introduced the concept of 'retweets'?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Snapchat
+      Explanation: Twitter introduced the concept of 'retweets,' allowing users to
+        share and amplify content from others.
+    - Question: What was the first internet meme to go mainstream?
+      TrueAnswer: Rickrolling
+      FalseAnswer:
+      - Dancing Baby
+      - Pepe the Frog
+      - Distracted Boyfriend
+      Explanation: Rickrolling, where users were tricked into watching Rick Astley's
+        'Never Gonna Give You Up,' became a widespread meme.
+    - Question: Which internet trend involved people sharing their top nine Instagram
+        photos of the year?
+      TrueAnswer: Top Nine Challenge
+      FalseAnswer:
+      - Ice Bucket Challenge
+      - Mannequin Challenge
+      - Dalgona Coffee
+      Explanation: The Top Nine Challenge encouraged users to showcase their most-liked
+        Instagram photos from the past year.
+    - Question: What was the first social media platform to introduce the concept
+        of 'followers'?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Instagram
+      - Facebook
+      - Snapchat
+      Explanation: Twitter introduced the concept of 'followers,' allowing users
+        to subscribe to updates from other users.
+    - Question: Which internet trend involved people imitating the dance moves from
+        the song 'Macarena'?
+      TrueAnswer: Macarena Dance
+      FalseAnswer:
+      - Floss Dance
+      - Dabbing
+      - TikTok Dances
+      Explanation: The Macarena Dance trend involved people imitating the iconic
+        dance moves from the song 'Macarena.'
+    - Question: What was the first viral video to reach 1 million views on YouTube?
+      TrueAnswer: Charlie Bit My Finger
+      FalseAnswer:
+      - The Evolution of Dance
+      - Gangnam Style
+      - Chocolate Rain
+      Explanation: Charlie Bit My Finger, a cute home video, became one of the first
+        viral videos to reach 1 million views on YouTube.
+    - Question: Which social media platform introduced the concept of 'likes'?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - Snapchat
+      Explanation: Facebook introduced the concept of 'likes,' allowing users to
+        show their appreciation for posts and content.
+    - Question: What was the first internet meme to be added to the Oxford English
+        Dictionary?
+      TrueAnswer: LOL
+      FalseAnswer:
+      - Rickrolling
+      - Facepalm
+      - Selfie
+      Explanation: LOL, an abbreviation for 'laugh out loud,' was the first internet
+        meme to be added to the Oxford English Dictionary.

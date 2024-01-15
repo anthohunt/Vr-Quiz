@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4010364457065394542
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8357204644395536369}
+  - component: {fileID: 771369682705945562}
+  m_Layer: 0
+  m_Name: TV_Shows_Thriller_Series.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8357204644395536369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4010364457065394542}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &771369682705945562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4010364457065394542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV series features a serial killer named Dexter Morgan?
+      TrueAnswer: Dexter
+      FalseAnswer:
+      - Breaking Bad
+      - Mindhunter
+      - True Detective
+      Explanation: Dexter, the show follows the life of a forensic blood spatter
+        analyst who leads a double life as a vigilante serial killer.
+    - Question: What is the alias used by the main character in 'Breaking Bad'?
+      TrueAnswer: Heisenberg
+      FalseAnswer:
+      - Walter White
+      - Jesse Pinkman
+      - Saul Goodman
+      Explanation: Walter White adopts the alias 'Heisenberg' as he delves deeper
+        into the world of illegal drug trade.
+    - Question: In 'Stranger Things', what is Eleven's supernatural ability?
+      TrueAnswer: Telekinesis
+      FalseAnswer:
+      - Mind control
+      - Teleportation
+      - Time travel
+      Explanation: Eleven possesses telekinetic abilities, which allow her to move
+        objects with her mind and perform other feats.
+    - Question: Which TV show features FBI agents investigating serial killers based
+        on real cases?
+      TrueAnswer: Mindhunter
+      FalseAnswer:
+      - Criminal Minds
+      - The Mentalist
+      - Hannibal
+      Explanation: '''Mindhunter'' is based on the true-crime book ''Mindhunter:
+        Inside the FBI''s Elite Serial Crime Unit'' by John E. Douglas.'
+    - Question: What is the main setting for the TV show 'True Detective'?
+      TrueAnswer: Louisiana
+      FalseAnswer:
+      - California
+      - New York
+      - Texas
+      Explanation: Each season is set in a different location, with the first season
+        taking place in Louisiana, focusing on a murder investigation spanning over
+        two decades.
+    - Question: Which series is centered around a high school chemistry teacher turned
+        meth manufacturer?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - Narcos
+      - Weeds
+      - Ozark
+      Explanation: '''Breaking Bad'' follows Walter White as he descends into the
+        criminal underworld to secure his family''s financial future after his cancer
+        diagnosis.'
+    - Question: In 'Stranger Things', what is the name of the parallel dimension
+        where monsters reside?
+      TrueAnswer: The Upside Down
+      FalseAnswer:
+      - The Dark World
+      - The Other Side
+      - Shadow Realm
+      Explanation: The Upside Down is a dark and eerie parallel dimension that mirrors
+        the real world in the TV series.
+    - Question: Which TV show features a forensic analyst who helps solve crimes
+        at night by using his vigilante persona?
+      TrueAnswer: Dexter
+      FalseAnswer:
+      - 'CSI: Crime Scene Investigation'
+      - Bones
+      - NCIS
+      Explanation: Dexter Morgan works as a blood spatter analyst for the Miami Metro
+        Police Department while also pursuing vigilante justice.
+    - Question: In 'True Detective', which actor portrayed Detective Rust Cohle?
+      TrueAnswer: Matthew McConaughey
+      FalseAnswer:
+      - Woody Harrelson
+      - Colin Farrell
+      - Mahershala Ali
+      Explanation: Matthew McConaughey delivered a standout performance as the brooding
+        and philosophical detective in the first season of 'True Detective'.
+    - Question: Which TV series follows the stories of different criminals with each
+        episode focusing on a different case?
+      TrueAnswer: Criminal Minds
+      FalseAnswer:
+      - The Blacklist
+      - 'CSI: Miami'
+      - 'Law & Order: SVU'
+      Explanation: '''Criminal Minds'' features an elite team of FBI profilers who
+        analyze the country''s most twisted criminal minds, anticipating their next
+        moves.'
+    - Question: What is the occupation of the main character in the TV show 'Dexter'?
+      TrueAnswer: Forensic analyst
+      FalseAnswer:
+      - Police officer
+      - Journalist
+      - Lawyer
+      Explanation: Dexter Morgan's day job as a forensic blood spatter analyst gives
+        him access to crime scenes and helps him with his extracurricular activities.
+    - Question: Which TV series features a morally ambiguous lawyer who operates
+        under the alias 'Saul Goodman'?
+      TrueAnswer: Better Call Saul
+      FalseAnswer:
+      - The Good Wife
+      - Suits
+      - How to Get Away with Murder
+      Explanation: The law-themed thriller 'Better Call Saul' serves as a prequel
+        to the hit series 'Breaking Bad', spotlighting the transformation of Jimmy
+        McGill into Saul Goodman.
+    - Question: In 'Stranger Things', what is the name of the group of friends led
+        by Mike Wheeler?
+      TrueAnswer: The Party
+      FalseAnswer:
+      - The Squad
+      - The Crew
+      - The Gang
+      Explanation: In the TV series, the group of friends led by Mike Wheeler is
+        known as 'The Party'. Their bond is central to the show's narrative.
+    - Question: Who is the lead character in the TV show 'The Mentalist'?
+      TrueAnswer: Patrick Jane
+      FalseAnswer:
+      - Lisbon
+      - Rigsby
+      - Cho
+      Explanation: Patrick Jane, portrayed by Simon Baker, is a former psychic medium
+        who uses his keen observational skills to assist the California Bureau of
+        Investigation (CBI).
+    - Question: Which TV series revolves around a symbiotic relationship between
+        a serial killer and a detective?
+      TrueAnswer: Hannibal
+      FalseAnswer:
+      - Dexter
+      - Mindhunter
+      - True Detective
+      Explanation: Hannibal Lecter, a brilliant psychiatrist and cannibalistic serial
+        killer, forms a complex alliance with FBI special investigator Will Graham
+        in the series.
+    - Question: In 'Breaking Bad', what is the street name used by Jesse Pinkman
+        as a drug dealer?
+      TrueAnswer: Cap'n Cook
+      FalseAnswer:
+      - Heisenberg
+      - Skinny Pete
+      - Badger
+      Explanation: Jesse Pinkman operated as a small-time methamphetamine manufacturer
+        and dealer under the street name 'Cap'n Cook' before partnering with Walter
+        White.
+    - Question: Which TV show features a time loop mystery in a small town where
+        a boy disappears?
+      TrueAnswer: Dark
+      FalseAnswer:
+      - The OA
+      - Twin Peaks
+      - Lost
+      Explanation: '''Dark'' unfolds a complex narrative of time travel and multigenerational
+        family drama, exploring the sinister events in the town of Winden.'
+    - Question: What is the iconic phrase frequently used by the character Detective
+        Rust Cohle in 'True Detective'?
+      TrueAnswer: Time is a flat circle
+      FalseAnswer:
+      - A lone wolf
+      - Darkness becomes you
+      - The world is a story
+      Explanation: The profound statement 'Time is a flat circle' has become synonymous
+        with Rust Cohle's existential musings and complex worldview in the series.
+    - Question: In 'Mindhunter', which real-life figure is credited with developing
+        criminal profiling?
+      TrueAnswer: John E. Douglas
+      FalseAnswer:
+      - Ted Bundy
+      - Charles Manson
+      - Jeffrey Dahmer
+      Explanation: John E. Douglas is a former FBI agent, author, and expert in the
+        development of modern criminal investigative analysis and criminal profiling.
+    - Question: Which TV show features a criminal lawyer who becomes the 'fixer'
+        for the Mexican drug cartel?
+      TrueAnswer: Ozark
+      FalseAnswer:
+      - Sons of Anarchy
+      - Narcos
+      - Justified
+      Explanation: In 'Ozark', the character Marty Byrde transforms from a financial
+        planner to a money launderer and advisor for a drug cartel to protect his
+        family.

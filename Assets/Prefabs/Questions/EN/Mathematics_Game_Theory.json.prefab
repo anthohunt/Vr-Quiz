@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7910316740539032918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7587453546440606175}
+  - component: {fileID: 4356640662896077396}
+  m_Layer: 0
+  m_Name: Mathematics_Game_Theory.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7587453546440606175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7910316740539032918}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4356640662896077396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7910316740539032918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the concept that represents the interaction among rational
+        decision-makers in Game Theory?
+      TrueAnswer: Nash equilibrium
+      FalseAnswer:
+      - Pareto efficiency
+      - Zero-sum game
+      - Dominant strategy
+      Explanation: The Nash equilibrium is a solution concept representing a stable
+        state where no player has an incentive to change their strategy.
+    - Question: In game theory, what type of game involves two players with conflicting
+        interests?
+      TrueAnswer: Zero-sum game
+      FalseAnswer:
+      - Cooperative game
+      - Simultaneous game
+      - Sequential game
+      Explanation: In a zero-sum game, the total payoff is constant, and the loss
+        of one player is the gain of the other.
+    - Question: Which mathematician introduced the concept of a 'paradox of rationality'
+        in Game Theory?
+      TrueAnswer: John Nash
+      FalseAnswer:
+      - John von Neumann
+      - Oskar Morgenstern
+      - Robert Axelrod
+      Explanation: John Nash introduced the concept of a paradox of rationality in
+        his work on non-cooperative games, for which he won the Nobel Prize in Economics
+        in 1994.
+    - Question: In Game Theory, what does 'Pareto efficiency' refer to?
+      TrueAnswer: Outcome where no participant can be made better off without making
+        someone else worse off
+      FalseAnswer:
+      - Maximizing individual payoffs
+      - Perfect equilibrium
+      - Dominated strategy
+      Explanation: Pareto efficiency represents an allocation of resources or an
+        outcome where no individual's situation can be improved without making someone
+        else worse off.
+    - Question: What does the 'centipede game' illustrate in Game Theory?
+      TrueAnswer: The concept of backward induction
+      FalseAnswer:
+      - Mixed strategy
+      - Cooperative games
+      - Sequential equilibrium
+      Explanation: The centipede game is often used to illustrate the concept of
+        backward induction, a process of reasoning backward in time.
+    - Question: According to Game Theory, what is a 'dominant strategy' for a player?
+      TrueAnswer: Strategy that is better than any other strategy, regardless of
+        what the other players do
+      FalseAnswer:
+      - Nash equilibrium
+      - Strictly dominant strategy
+      - Mixed strategy
+      Explanation: A dominant strategy is one that yields a higher payoff than any
+        other strategy, regardless of the strategies chosen by other players.
+    - Question: What does the 'prisoner's dilemma' represent in Game Theory?
+      TrueAnswer: A situation where individuals choose not to cooperate, despite
+        potentially benefiting from it
+      FalseAnswer:
+      - Tit for tat strategy
+      - Win-win situation
+      - Coase theorem
+      Explanation: The prisoner's dilemma is an example of a game in which players
+        tend not to cooperate, even though it would be in their best interest to
+        do so.
+    - Question: What is the 'minimax theorem' in Game Theory?
+      TrueAnswer: A fundamental principle for decision-making under uncertainty
+      FalseAnswer:
+      - Maxmin strategy
+      - Saddle point principle
+      - Bayesian equilibrium
+      Explanation: The minimax theorem provides a method for determining an optimal
+        strategy in game-playing where the adversaries have conflicting interests.
+    - Question: Which concept in Game Theory involves forming coalitions to maximize
+        collective payoffs?
+      TrueAnswer: Cooperative game
+      FalseAnswer:
+      - Simultaneous game
+      - Folk theorem
+      - Pareto efficiency
+      Explanation: Cooperative game theory concerns situations in which groups of
+        players can make binding agreements to achieve outcomes not attainable in
+        non-cooperative games.
+    - Question: What does 'perfect information' mean in the context of Game Theory?
+      TrueAnswer: Complete and accurate knowledge about the game
+      FalseAnswer:
+      - Asymmetric information
+      - Imperfect information
+      - Incomplete information
+      Explanation: Perfect information implies that players have access to all relevant
+        information about the game, including the strategies and payoffs of other
+        players.
+    - Question: Which theorem provides a method to determine a rational strategy
+        in zero-sum games?
+      TrueAnswer: Minimax theorem
+      FalseAnswer:
+      - Pareto optimality
+      - Equilibrium theorem
+      - Nash bargaining solution
+      Explanation: The minimax theorem provides a strategy to minimize potential
+        loss, assuming an adversary strives to maximize it in a zero-sum game.
+    - Question: What concept describes a strategy that maximizes payoff across all
+        possible actions of an opponent?
+      TrueAnswer: Saddle point
+      FalseAnswer:
+      - Subgame perfect equilibrium
+      - Mixed strategy Nash equilibrium
+      - Maximin strategy
+      Explanation: In a two-player zero-sum game, a saddle point strategy is one
+        that ensures the player's maximum payoff regardless of the opponent's actions.
+    - Question: What term denotes a strategy that guarantees the highest possible
+        payoff when the adversary is rational?
+      TrueAnswer: Maximin
+      FalseAnswer:
+      - Minimax
+      - Optimal equilibrium
+      - Stackelberg equilibrium
+      Explanation: A maximin strategy aims to secure the best outcome under the assumption
+        that the opponent will act rationally to minimize the player's gains.
+    - Question: In the context of Game Theory, what does 'asymmetric information'
+        refer to?
+      TrueAnswer: Different knowledge levels among players about the game
+      FalseAnswer:
+      - Complete information
+      - Collusion
+      - Simultaneous game
+      Explanation: Asymmetric information occurs when some players have more or better
+        information than others, affecting decision-making and outcomes in games.
+    - Question: Which concept in Game Theory addresses the strategic interaction
+        between multiple decision-makers?
+      TrueAnswer: Game
+      FalseAnswer:
+      - Payoff matrix
+      - Perfect Bayesian equilibrium
+      - Imperfect competition
+      Explanation: A game in Game Theory refers to a situation involving strategic
+        interaction among rational decision-makers, each aiming to maximize their
+        payoffs.
+    - Question: What is the main principle behind the 'minimax regret' strategy in
+        Game Theory?
+      TrueAnswer: Minimizing the maximum regret for each possible action
+      FalseAnswer:
+      - Maximizing potential gain
+      - Satisficing
+      - Nash equilibrium
+      Explanation: The minimax regret strategy aims to minimize the maximum regret
+        that could be incurred by choosing a particular action among several alternatives.
+    - Question: Which concept in Game Theory involves determining optimal strategies
+        in decision-making with incomplete information?
+      TrueAnswer: Bayesian equilibrium
+      FalseAnswer:
+      - Mixed strategy
+      - Coherent expectations
+      - Common knowledge
+      Explanation: Bayesian equilibrium provides a solution concept for games with
+        incomplete information, where players have beliefs about the likelihood of
+        different types of opponents.
+    - Question: What is the condition for a 'subgame perfect equilibrium' in Game
+        Theory?
+      TrueAnswer: Strategies must also form an equilibrium in every possible continuation
+        of the game
+      FalseAnswer:
+      - Pareto efficiency
+      - Dominant strategy
+      - Simultaneous move
+      Explanation: Subgame perfect equilibrium requires strategies to be an equilibrium
+        not only at the initial node but also at every subsequent decision point.
+    - Question: In Game Theory, what does 'repeated game' imply?
+      TrueAnswer: The same game is played over and over, allowing for reputational
+        effects and cooperation
+      FalseAnswer:
+      - One-shot game
+      - Collusion
+      - Sequential equilibrium
+      Explanation: Repeated games involve players engaging in the same game multiple
+        times, affecting strategies as players consider the impact of their decisions
+        on future interactions.
+    - Question: What concept in Game Theory deals with the study of social dilemmas
+        and cooperation?
+      TrueAnswer: Public goods game
+      FalseAnswer:
+      - Bertrand competition
+      - Stackelberg competition
+      - Cournot duopoly
+      Explanation: The public goods game investigates how individuals choose to contribute
+        to a public good, addressing challenges of cooperation and social dilemmas.

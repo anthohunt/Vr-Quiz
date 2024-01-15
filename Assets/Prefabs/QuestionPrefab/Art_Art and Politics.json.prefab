@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4997028417945396076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6226062075099480863}
+  - component: {fileID: 5914552087376174436}
+  m_Layer: 0
+  m_Name: Art_Art and Politics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6226062075099480863
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4997028417945396076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5914552087376174436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4997028417945396076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous artwork 'Guernica'?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Vincent van Gogh
+      - Leonardo da Vinci
+      - Claude Monet
+      Explanation: '''Guernica'' is a powerful anti-war painting created by Pablo
+        Picasso in response to the bombing of Guernica during the Spanish Civil War.'
+    - Question: Which artist created the 'Hope' poster for Barack Obama's 2008 presidential
+        campaign?
+      TrueAnswer: Shepard Fairey
+      FalseAnswer:
+      - Banksy
+      - Andy Warhol
+      - Jean-Michel Basquiat
+      Explanation: Shepard Fairey designed the iconic 'Hope' poster, which became
+        a symbol of Barack Obama's presidential campaign.
+    - Question: Who painted 'The Third of May 1808', depicting the Spanish resistance
+        against Napoleon's army?
+      TrueAnswer: Francisco Goya
+      FalseAnswer:
+      - "Salvador Dal\xED"
+      - Rembrandt
+      - Michelangelo
+      Explanation: '''The Third of May 1808'' is a famous painting by Francisco Goya,
+        portraying the brutal execution of Spanish civilians by French soldiers.'
+    - Question: Which artist created the 'We Can Do It!' poster, commonly known as
+        'Rosie the Riveter'?
+      TrueAnswer: J. Howard Miller
+      FalseAnswer:
+      - Frida Kahlo
+      - Georgia O'Keeffe
+      - Mary Cassatt
+      Explanation: J. Howard Miller designed the 'We Can Do It!' poster, which became
+        an iconic symbol of female empowerment during World War II.
+    - Question: Who painted 'The Death of Marat', a political artwork depicting the
+        French revolutionary leader?
+      TrueAnswer: Jacques-Louis David
+      FalseAnswer:
+      - Edgar Degas
+      - Pierre-Auguste Renoir
+      - Henri Matisse
+      Explanation: '''The Death of Marat'' is a famous painting by Jacques-Louis
+        David, commemorating the assassination of Jean-Paul Marat during the French
+        Revolution.'
+    - Question: Which artist created the 'Obama '08' campaign poster featuring Barack
+        Obama's face?
+      TrueAnswer: Shepard Fairey
+      FalseAnswer:
+      - Keith Haring
+      - Jackson Pollock
+      - Yayoi Kusama
+      Explanation: Shepard Fairey designed the 'Obama '08' campaign poster, which
+        became an influential symbol of Barack Obama's presidential campaign.
+    - Question: Who painted 'The Execution of Emperor Maximilian', depicting the
+        execution of the Mexican emperor?
+      TrueAnswer: "\xC9douard Manet"
+      FalseAnswer:
+      - Pablo Picasso
+      - Claude Monet
+      - Vincent van Gogh
+      Explanation: "'The Execution of Emperor Maximilian' is a painting by \xC9douard
+        Manet, portraying the execution of Emperor Maximilian I of Mexico."
+    - Question: Which artist created the 'Mao' series of paintings featuring Mao
+        Zedong?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Piet Mondrian
+      - "Salvador Dal\xED"
+      - Frida Kahlo
+      Explanation: Andy Warhol created the 'Mao' series of paintings, depicting the
+        Chinese communist leader Mao Zedong.
+    - Question: Who painted 'Liberty Leading the People', a symbol of the French
+        Revolution?
+      TrueAnswer: "Eug\xE8ne Delacroix"
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Vincent van Gogh
+      - Pablo Picasso
+      Explanation: "'Liberty Leading the People' is a famous painting by Eug\xE8ne
+        Delacroix, representing the July Revolution of 1830 in France."
+    - Question: Which artist created the 'American Gothic' painting featuring a farmer
+        and his daughter?
+      TrueAnswer: Grant Wood
+      FalseAnswer:
+      - Edward Hopper
+      - Norman Rockwell
+      - Thomas Hart Benton
+      Explanation: Grant Wood painted 'American Gothic', an iconic portrayal of rural
+        American life during the Great Depression.
+    - Question: Who painted 'The Scream', a famous artwork expressing existential
+        angst?
+      TrueAnswer: Edvard Munch
+      FalseAnswer:
+      - "Salvador Dal\xED"
+      - Pablo Picasso
+      - Vincent van Gogh
+      Explanation: '''The Scream'' is a renowned painting by Edvard Munch, representing
+        the anxiety and despair of modern life.'
+    - Question: Which artist created the 'Frida Kahlo' portrait, depicting the Mexican
+        artist?
+      TrueAnswer: Frida Kahlo
+      FalseAnswer:
+      - Georgia O'Keeffe
+      - Tamara de Lempicka
+      - Yayoi Kusama
+      Explanation: Frida Kahlo painted a self-portrait titled 'Frida Kahlo', capturing
+        her unique identity and personal struggles.
+    - Question: Who painted 'The Raft of the Medusa', depicting a shipwreck and political
+        corruption?
+      TrueAnswer: "Th\xE9odore G\xE9ricault"
+      FalseAnswer:
+      - Claude Monet
+      - Pierre-Auguste Renoir
+      - Edgar Degas
+      Explanation: "'The Raft of the Medusa' is a monumental painting by Th\xE9odore
+        G\xE9ricault, highlighting the tragic aftermath of a French naval disaster."
+    - Question: Which artist created the 'Campbell's Soup Cans' artwork, a commentary
+        on consumerism?
+      TrueAnswer: Andy Warhol
+      FalseAnswer:
+      - Jackson Pollock
+      - Mark Rothko
+      - Willem de Kooning
+      Explanation: Andy Warhol produced the 'Campbell's Soup Cans' series, challenging
+        the boundaries between art and mass-produced consumer goods.
+    - Question: Who painted 'The Persistence of Memory', featuring melting clocks?
+      TrueAnswer: "Salvador Dal\xED"
+      FalseAnswer:
+      - "Ren\xE9 Magritte"
+      - "Joan Mir\xF3"
+      - Pablo Picasso
+      Explanation: "'The Persistence of Memory' is a famous painting by Salvador
+        Dal\xED, exploring the concept of time and the subconscious mind."
+    - Question: Which artist created the 'Les Demoiselles d'Avignon' painting, a
+        groundbreaking work of modern art?
+      TrueAnswer: Pablo Picasso
+      FalseAnswer:
+      - Henri Matisse
+      - Georges Braque
+      - Wassily Kandinsky
+      Explanation: Pablo Picasso painted 'Les Demoiselles d'Avignon', a revolutionary
+        artwork that marked the beginning of Cubism.
+    - Question: Who painted 'The Night Watch', a famous group portrait of a militia
+        company?
+      TrueAnswer: Rembrandt
+      FalseAnswer:
+      - Johannes Vermeer
+      - Jan van Eyck
+      - Hieronymus Bosch
+      Explanation: '''The Night Watch'' is a renowned painting by Rembrandt, depicting
+        a group of Amsterdam militia members.'
+    - Question: Which artist created the 'Migrant Mother' photograph, symbolizing
+        the Great Depression?
+      TrueAnswer: Dorothea Lange
+      FalseAnswer:
+      - Ansel Adams
+      - Edward Weston
+      - Cindy Sherman
+      Explanation: Dorothea Lange captured the iconic 'Migrant Mother' photograph,
+        representing the hardships faced by migrant workers during the Great Depression.
+    - Question: Who painted 'The Birth of Venus', depicting the goddess of love and
+        beauty?
+      TrueAnswer: Sandro Botticelli
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Michelangelo
+      - Raphael
+      Explanation: '''The Birth of Venus'' is a famous painting by Sandro Botticelli,
+        illustrating the mythological birth of the goddess Venus.'
+    - Question: Which artist created the 'Whaam!' artwork, incorporating comic book
+        imagery?
+      TrueAnswer: Roy Lichtenstein
+      FalseAnswer:
+      - Andy Warhol
+      - Keith Haring
+      - Jean-Michel Basquiat
+      Explanation: Roy Lichtenstein produced the 'Whaam!' artwork, inspired by comic
+        book panels and pop culture imagery.

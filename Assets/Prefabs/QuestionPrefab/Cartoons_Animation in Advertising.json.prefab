@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3293036348209925027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6882429275101176563}
+  - component: {fileID: 3645803519988344479}
+  m_Layer: 0
+  m_Name: Cartoons_Animation in Advertising.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6882429275101176563
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3293036348209925027}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3645803519988344479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3293036348209925027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which cartoon character is a sailor with a love for spinach?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Scooby-Doo
+      - Bart Simpson
+      - Fred Flintstone
+      Explanation: Popeye, the spinach-loving sailor, is a popular cartoon character
+        known for his super strength.
+    - Question: Which cartoon character lives in a pineapple under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Dora the Explorer
+      - Mickey Mouse
+      - Bugs Bunny
+      Explanation: SpongeBob SquarePants is a beloved cartoon character who lives
+        in a pineapple under the sea in Bikini Bottom.
+    - Question: Which cartoon character is a yellow, cylindrical creature with one
+        eye?
+      TrueAnswer: Minion
+      FalseAnswer:
+      - Bart Simpson
+      - Scooby-Doo
+      - Pikachu
+      Explanation: Minions are small, yellow, cylindrical creatures with one eye,
+        known for their mischievous behavior.
+    - Question: Which cartoon character is a pink, anthropomorphic cat?
+      TrueAnswer: Hello Kitty
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Bugs Bunny
+      Explanation: Hello Kitty is a popular cartoon character, known for her pink
+        color and cute, anthropomorphic features.
+    - Question: Which cartoon character is a mischievous, blue hedgehog?
+      TrueAnswer: Sonic the Hedgehog
+      FalseAnswer:
+      - Popeye
+      - Fred Flintstone
+      - Scooby-Doo
+      Explanation: Sonic the Hedgehog is a popular video game character who has also
+        appeared in cartoons and advertisements.
+    - Question: Which cartoon character is a yellow bird with a speech impediment?
+      TrueAnswer: Tweety Bird
+      FalseAnswer:
+      - Mickey Mouse
+      - Bugs Bunny
+      - SpongeBob SquarePants
+      Explanation: Tweety Bird is a yellow canary known for his speech impediment
+        and constant pursuit by Sylvester the Cat.
+    - Question: Which cartoon character is a blue, anthropomorphic dog?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Popeye
+      - Bart Simpson
+      - Fred Flintstone
+      Explanation: Scooby-Doo is a popular cartoon character who solves mysteries
+        with his human friends.
+    - Question: Which cartoon character is a yellow, cylindrical sponge?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Dora the Explorer
+      - Mickey Mouse
+      - Bugs Bunny
+      Explanation: SpongeBob SquarePants is a beloved cartoon character who lives
+        in a pineapple under the sea in Bikini Bottom.
+    - Question: Which cartoon character is a mischievous, pink rabbit?
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Bugs Bunny is a popular cartoon character known for his mischievous
+        behavior and catchphrase 'What's up, Doc?'
+    - Question: Which cartoon character is a yellow, cylindrical creature with one
+        eye?
+      TrueAnswer: Minion
+      FalseAnswer:
+      - Bart Simpson
+      - Scooby-Doo
+      - Pikachu
+      Explanation: Minions are small, yellow, cylindrical creatures with one eye,
+        known for their mischievous behavior.
+    - Question: Which cartoon character is a sailor with a love for spinach?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Scooby-Doo
+      - Bart Simpson
+      - Fred Flintstone
+      Explanation: Popeye, the spinach-loving sailor, is a popular cartoon character
+        known for his super strength.
+    - Question: Which cartoon character is known for saying 'What's up, Doc?'
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Bugs Bunny, the iconic Looney Tunes character, is known for his
+        catchphrase 'What's up, Doc?'
+    - Question: Which cartoon character is a pink, anthropomorphic cat?
+      TrueAnswer: Hello Kitty
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Bugs Bunny
+      Explanation: Hello Kitty is a popular cartoon character, known for her pink
+        color and cute, anthropomorphic features.
+    - Question: Which cartoon character is a mischievous, blue hedgehog?
+      TrueAnswer: Sonic the Hedgehog
+      FalseAnswer:
+      - Popeye
+      - Fred Flintstone
+      - Scooby-Doo
+      Explanation: Sonic the Hedgehog is a popular video game character who has also
+        appeared in cartoons and advertisements.
+    - Question: Which cartoon character is a yellow bird with a speech impediment?
+      TrueAnswer: Tweety Bird
+      FalseAnswer:
+      - Mickey Mouse
+      - Bugs Bunny
+      - SpongeBob SquarePants
+      Explanation: Tweety Bird is a yellow canary known for his speech impediment
+        and constant pursuit by Sylvester the Cat.
+    - Question: Which cartoon character is a blue, anthropomorphic dog?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Popeye
+      - Bart Simpson
+      - Fred Flintstone
+      Explanation: Scooby-Doo is a popular cartoon character who solves mysteries
+        with his human friends.
+    - Question: Which cartoon character is a yellow, cylindrical sponge?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Dora the Explorer
+      - Mickey Mouse
+      - Bugs Bunny
+      Explanation: SpongeBob SquarePants is a beloved cartoon character who lives
+        in a pineapple under the sea in Bikini Bottom.
+    - Question: Which cartoon character is a mischievous, pink rabbit?
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Mickey Mouse
+      - SpongeBob SquarePants
+      - Homer Simpson
+      Explanation: Bugs Bunny is a popular cartoon character known for his mischievous
+        behavior and catchphrase 'What's up, Doc?'
+    - Question: Which cartoon character is a yellow, cylindrical creature with one
+        eye?
+      TrueAnswer: Minion
+      FalseAnswer:
+      - Bart Simpson
+      - Scooby-Doo
+      - Pikachu
+      Explanation: Minions are small, yellow, cylindrical creatures with one eye,
+        known for their mischievous behavior.
+    - Question: Which cartoon character is a sailor with a love for spinach?
+      TrueAnswer: Popeye
+      FalseAnswer:
+      - Scooby-Doo
+      - Bart Simpson
+      - Fred Flintstone
+      Explanation: Popeye, the spinach-loving sailor, is a popular cartoon character
+        known for his super strength.

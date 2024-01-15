@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6468598259336891332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3188708085305653827}
+  - component: {fileID: 2064249422638212562}
+  m_Layer: 0
+  m_Name: Science_Marine_Science.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3188708085305653827
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6468598259336891332}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2064249422638212562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6468598259336891332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the average depth of the Pacific Ocean?
+      TrueAnswer: 13,215 feet
+      FalseAnswer:
+      - 9,842 feet
+      - 17,560 feet
+      - 20,000 feet
+      Explanation: The mean depth of the Pacific Ocean is approximately 13,215 feet
+        (4,028 meters). It is the deepest and largest ocean in the world.
+    - Question: Which marine animal is known for its bioluminescence?
+      TrueAnswer: Anglerfish
+      FalseAnswer:
+      - Dolphin
+      - Jellyfish
+      - Shark
+      Explanation: Anglerfish reside in the deep sea and have a bioluminescent lure
+        attached to their head to attract prey in the darkness.
+    - Question: What is the most abundant gas in seawater?
+      TrueAnswer: Oxygen
+      FalseAnswer:
+      - Carbon dioxide
+      - Nitrogen
+      - Hydrogen
+      Explanation: Oxygen is the most abundant gas in seawater, critical for the
+        survival of marine organisms through the process of photosynthesis.
+    - Question: Where is the Mariana Trench located?
+      TrueAnswer: Western Pacific Ocean
+      FalseAnswer:
+      - Atlantic Ocean
+      - Indian Ocean
+      - Arctic Ocean
+      Explanation: The Mariana Trench, the deepest part of the world's oceans, is
+        located in the western Pacific Ocean near Guam.
+    - Question: Which marine ecosystem is characterized by high biodiversity?
+      TrueAnswer: Coral Reefs
+      FalseAnswer:
+      - Mangroves
+      - Kelp Forests
+      - Deep Sea Vents
+      Explanation: Coral reefs harbor a vast array of marine life, making them incredibly
+        biodiverse and essential for the health of the ocean ecosystem.
+    - Question: What is the primary source of food for many marine ecosystems?
+      TrueAnswer: Phytoplankton
+      FalseAnswer:
+      - Zooplankton
+      - Krill
+      - Algae
+      Explanation: Phytoplankton, microscopic algae, are the foundation of marine
+        food chains, supporting the entirety of the ocean's ecosystems.
+    - Question: How do marine mammals regulate their body temperature in cold water?
+      TrueAnswer: Blubber
+      FalseAnswer:
+      - Hibernation
+      - Migration
+      - Thick Fur
+      Explanation: Marine mammals rely on a thick layer of blubber to insulate and
+        regulate their body temperature in cold ocean environments.
+    - Question: What important role do mangroves play in marine environments?
+      TrueAnswer: Nursery for Fish
+      FalseAnswer:
+      - Carbon Sink
+      - Phytoplankton Habitat
+      - Coral Reef Protection
+      Explanation: Mangroves serve as crucial nurseries for various fish species,
+        providing shelter and food for juvenile marine life.
+    - Question: What causes the phenomenon of 'red tide' in marine waters?
+      TrueAnswer: Algal Bloom
+      FalseAnswer:
+      - Ocean Pollution
+      - High Salinity
+      - Tectonic Activity
+      Explanation: Red tides occur due to the rapid growth and accumulation of certain
+        species of harmful algae, leading to harmful effects on marine life and humans.
+    - Question: Which marine creature is known as the 'Giant of the Sea'?
+      TrueAnswer: Blue Whale
+      FalseAnswer:
+      - Great White Shark
+      - Killer Whale
+      - Giant Squid
+      Explanation: The Blue Whale, the largest animal on Earth, is often referred
+        to as the 'Giant of the Sea' due to its colossal size.
+    - Question: What is the primary function of a coral polyp in a coral reef?
+      TrueAnswer: Build Reef Structure
+      FalseAnswer:
+      - Photosynthesis
+      - Filtering Water
+      - Reproduction
+      Explanation: Coral polyps secrete calcium carbonate to build the intricate
+        structures of coral reefs, providing habitat and protection for numerous
+        marine organisms.
+    - Question: Which marine species is capable of camouflaging itself by changing
+        color?
+      TrueAnswer: Cuttlefish
+      FalseAnswer:
+      - Octopus
+      - Seahorse
+      - Squid
+      Explanation: Cuttlefish possess specialized skin cells that enable them to
+        change color and texture, allowing them to blend seamlessly into their surroundings.
+    - Question: What is the primary mechanism through which marine organisms remove
+        carbon dioxide from seawater?
+      TrueAnswer: Calcification
+      FalseAnswer:
+      - Respiration
+      - Photosynthesis
+      - Hydrothermal Venting
+      Explanation: Calcification is the process by which marine organisms such as
+        corals and mollusks extract carbon to form calcium carbonate structures,
+        sequestering carbon dioxide from seawater.
+    - Question: Which marine reptile is known for its ability to migrate long distances
+        across the oceans?
+      TrueAnswer: Sea Turtle
+      FalseAnswer:
+      - Crocodile
+      - Iguana
+      - Gila Monster
+      Explanation: Sea turtles are renowned for their remarkable migrations, traveling
+        thousands of miles between nesting and foraging grounds while navigating
+        across the open ocean.
+    - Question: What is the main threat to coral reefs worldwide?
+      TrueAnswer: Ocean Acidification
+      FalseAnswer:
+      - Overfishing
+      - Pollution
+      - Coral Bleaching
+      Explanation: Ocean acidification, caused by the absorption of carbon dioxide,
+        poses a severe threat to coral reefs by impeding the ability of corals to
+        build their calcium carbonate skeletons.
+    - Question: What is the primary function of a baleen in baleen whales?
+      TrueAnswer: Filter Feeding
+      FalseAnswer:
+      - Insulation
+      - Singing
+      - Navigation
+      Explanation: Baleen whales utilize their specialized baleen plates to filter
+        and consume large quantities of tiny organisms such as krill from the water,
+        facilitating efficient feeding.
+    - Question: Which marine organism produces a potent venom capable of causing
+        paralysis?
+      TrueAnswer: Box Jellyfish
+      FalseAnswer:
+      - Lionfish
+      - Cone Snail
+      - Blue-Ringed Octopus
+      Explanation: Box jellyfish possess highly venomous tentacles that can cause
+        paralysis and, in severe cases, even be fatal to humans, making them one
+        of the most dangerous marine creatures.
+    - Question: What is the primary cause of the formation of oceanic gyres?
+      TrueAnswer: Global Wind Patterns
+      FalseAnswer:
+      - Tidal Forces
+      - Ocean Currents
+      - Underwater Volcanism
+      Explanation: Oceanic gyres are large-scale circular ocean currents primarily
+        driven by global wind patterns, contributing to the distribution of marine
+        nutrients and debris.
+    - Question: What is a crucial adaptation that enables marine mammals to dive
+        to great depths?
+      TrueAnswer: Pressure-resistant Lungs
+      FalseAnswer:
+      - Inflatable Bladders
+      - Oxygen Storage Sacs
+      - Flexible Ribcage
+      Explanation: Marine mammals possess lungs with exceptional flexibility and
+        resistance to collapse under immense pressure, enabling them to dive to extreme
+        depths in search of prey.
+    - Question: Which process is responsible for the formation of oceanic trenches?
+      TrueAnswer: Subduction
+      FalseAnswer:
+      - Seafloor Spreading
+      - Erosion
+      - Thermal Convection
+      Explanation: Subduction occurs when one tectonic plate is forced beneath another,
+        leading to the formation of deep oceanic trenches, such as the Mariana Trench,
+        as a result of convergent plate boundaries.

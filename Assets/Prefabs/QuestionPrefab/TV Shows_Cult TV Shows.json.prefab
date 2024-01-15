@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6859596802626249956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5940003480591178677}
+  - component: {fileID: 9201829160411786120}
+  m_Layer: 0
+  m_Name: TV Shows_Cult TV Shows.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5940003480591178677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6859596802626249956}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9201829160411786120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6859596802626249956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which TV show features a group of survivors in a post-apocalyptic
+        world?
+      TrueAnswer: The Walking Dead
+      FalseAnswer:
+      - Friends
+      - The Big Bang Theory
+      - Grey's Anatomy
+      Explanation: The Walking Dead is a cult TV show that follows a group of survivors
+        in a world overrun by zombies.
+    - Question: What is the name of the fictional town in the TV show 'Twin Peaks'?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - Springfield
+      - Hill Valley
+      - Sunnydale
+      Explanation: The TV show 'Twin Peaks' is set in the fictional town of Twin
+        Peaks, known for its mysterious happenings.
+    - Question: Which TV show revolves around a high school chemistry teacher turned
+        methamphetamine manufacturer?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - The Office
+      - Stranger Things
+      - Game of Thrones
+      Explanation: Breaking Bad follows the transformation of Walter White, a chemistry
+        teacher, into a methamphetamine manufacturer.
+    - Question: In the TV show 'Lost', what is the name of the mysterious island
+        where the survivors are stranded?
+      TrueAnswer: The Island
+      FalseAnswer:
+      - Hawaii
+      - Bermuda Triangle
+      - Alcatraz
+      Explanation: The TV show 'Lost' is set on a mysterious island where the survivors
+        of a plane crash find themselves stranded.
+    - Question: Which TV show features a serial killer who only kills other killers?
+      TrueAnswer: Dexter
+      FalseAnswer:
+      - Friends
+      - The Office
+      - Stranger Things
+      Explanation: Dexter is a cult TV show about a forensic blood spatter analyst
+        who leads a secret life as a vigilante serial killer.
+    - Question: What is the name of the fictional city in the TV show 'The X-Files'?
+      TrueAnswer: Washington, D.C.
+      FalseAnswer:
+      - New York City
+      - Los Angeles
+      - Chicago
+      Explanation: The X-Files is set in various locations, but the main headquarters
+        of the FBI division is in Washington, D.C.
+    - Question: Which TV show follows the lives of a group of friends living in New
+        York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Walking Dead
+      - Breaking Bad
+      - Game of Thrones
+      Explanation: Friends is a popular sitcom that revolves around the lives of
+        six friends in New York City.
+    - Question: In the TV show 'Stranger Things', what is the name of the parallel
+        dimension?
+      TrueAnswer: The Upside Down
+      FalseAnswer:
+      - The Other Side
+      - The Dark Realm
+      - The Shadow World
+      Explanation: Stranger Things features a parallel dimension called the Upside
+        Down, a dark and dangerous mirror of the real world.
+    - Question: Which TV show is set in the fictional town of Sunnydale and follows
+        a vampire slayer?
+      TrueAnswer: Buffy the Vampire Slayer
+      FalseAnswer:
+      - Gossip Girl
+      - The Office
+      - The Simpsons
+      Explanation: Buffy the Vampire Slayer is set in the fictional town of Sunnydale
+        and follows the adventures of a vampire slayer.
+    - Question: What is the name of the spaceship in the TV show 'Firefly'?
+      TrueAnswer: Serenity
+      FalseAnswer:
+      - Enterprise
+      - Millennium Falcon
+      - Galactica
+      Explanation: Firefly is set in a future where humanity has colonized other
+        planets, and the spaceship is named Serenity.
+    - Question: Which TV show features a group of survivors on a plane crash who
+        end up on a mysterious island?
+      TrueAnswer: Lost
+      FalseAnswer:
+      - The Walking Dead
+      - Breaking Bad
+      - Stranger Things
+      Explanation: Lost follows the lives of survivors of a plane crash who find
+        themselves on a mysterious island.
+    - Question: In the TV show 'The Office', what is the name of the paper company
+        where the characters work?
+      TrueAnswer: Dunder Mifflin
+      FalseAnswer:
+      - Scranton Paper Co.
+      - Pawnee Paper
+      - Sterling Cooper
+      Explanation: The Office is set in the Scranton branch of the paper company
+        Dunder Mifflin.
+    - Question: Which TV show is set in the fictional town of Springfield and follows
+        the Simpson family?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Friends
+      - Breaking Bad
+      - Game of Thrones
+      Explanation: The Simpsons is an animated sitcom set in the fictional town of
+        Springfield and focuses on the Simpson family.
+    - Question: What is the name of the fictional city in the TV show 'Gotham'?
+      TrueAnswer: Gotham City
+      FalseAnswer:
+      - Metropolis
+      - Star City
+      - Central City
+      Explanation: Gotham is set in the fictional city of Gotham City, known for
+        its crime and corruption.
+    - Question: Which TV show follows the lives of a group of students at a fictional
+        California university?
+      TrueAnswer: Beverly Hills, 90210
+      FalseAnswer:
+      - The Walking Dead
+      - Stranger Things
+      - Grey's Anatomy
+      Explanation: Beverly Hills, 90210 is a cult TV show that focuses on the lives
+        of a group of students in Beverly Hills.
+    - Question: In the TV show 'Game of Thrones', what is the name of the fictional
+        continent?
+      TrueAnswer: Westeros
+      FalseAnswer:
+      - Essos
+      - Middle-earth
+      - Narnia
+      Explanation: Game of Thrones is set in the fictional continent of Westeros,
+        where the power struggle for the Iron Throne takes place.
+    - Question: Which TV show features a group of friends who meet at a coffee shop
+        called Central Perk?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - The Walking Dead
+      - Breaking Bad
+      - Stranger Things
+      Explanation: Friends revolves around the lives of six friends who frequently
+        hang out at the coffee shop Central Perk.
+    - Question: What is the name of the fictional town in the TV show 'The Twilight
+        Zone'?
+      TrueAnswer: Willoughby
+      FalseAnswer:
+      - Hawkins
+      - Sunnydale
+      - Springfield
+      Explanation: The Twilight Zone is an anthology series, and the fictional town
+        of Willoughby is featured in one of its episodes.
+    - Question: Which TV show follows the lives of a group of high school students
+        in a small town called Capeside?
+      TrueAnswer: Dawson's Creek
+      FalseAnswer:
+      - The Walking Dead
+      - Breaking Bad
+      - Stranger Things
+      Explanation: Dawson's Creek is a cult TV show that focuses on the lives of
+        a group of high school students in Capeside.
+    - Question: In the TV show 'The X-Files', what is the name of the FBI division
+        that investigates paranormal cases?
+      TrueAnswer: The X-Files
+      FalseAnswer:
+      - The Supernatural Division
+      - The Unexplained Cases Unit
+      - The Paranormal Investigations Bureau
+      Explanation: The X-Files is the name of the FBI division that investigates
+        paranormal and unsolved cases.

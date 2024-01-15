@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5984419332920744578
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5506058936466949666}
+  - component: {fileID: 1742795774542627464}
+  m_Layer: 0
+  m_Name: Cartoons_Disney_Cartoons.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5506058936466949666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5984419332920744578}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1742795774542627464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5984419332920744578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is Mickey Mouse's girlfriend?
+      TrueAnswer: Minnie
+      FalseAnswer:
+      - Daisy
+      - Clarabelle
+      - Roxanne
+      Explanation: Minnie Mouse debuted in the 'Steamboat Willie' cartoon in 1928
+        as Mickey's significant other and has been one of Disney's most iconic characters.
+    - Question: Which Disney film introduced the first princess?
+      TrueAnswer: Snow White
+      FalseAnswer:
+      - Cinderella
+      - Beauty and the Beast
+      - The Little Mermaid
+      Explanation: Snow White, released in 1937, is the first animated feature to
+        include a Disney Princess character.
+    - Question: What are the names of Ariel's sisters in 'The Little Mermaid'?
+      TrueAnswer: Aquata and Andrina
+      FalseAnswer:
+      - Ursula and Adella
+      - Attina and Alana
+      - Adella and Alana
+      Explanation: Aquata and Andrina are two of Ariel's six older sisters, who appear
+        briefly in the opening scene of the film 'The Little Mermaid.'
+    - Question: What is the name of Goofy's son?
+      TrueAnswer: Max
+      FalseAnswer:
+      - Pluto
+      - Dippy
+      - Wally
+      Explanation: Max Goof is the son of Goofy and made his debut in the 1992 film
+        'A Goofy Movie.'
+    - Question: How many dwarfs live with Snow White?
+      TrueAnswer: 7
+      FalseAnswer:
+      - 5
+      - 6
+      - 8
+      Explanation: Snow White lives with seven dwarfs named Doc, Grumpy, Happy, Sleepy,
+        Bashful, Sneezy, and Dopey in the classic Disney film.
+    - Question: Which Disney princess is known for wearing a green dress?
+      TrueAnswer: Tiana
+      FalseAnswer:
+      - Aurora
+      - Belle
+      - Jasmine
+      Explanation: Tiana, from 'The Princess and the Frog,' is known for her distinctive
+        green lily pad gown worn in the film's final scenes.
+    - Question: What is the name of Simba's mother in 'The Lion King'?
+      TrueAnswer: Sarabi
+      FalseAnswer:
+      - Nala
+      - Kiara
+      - Sarafina
+      Explanation: "Sarabi is Simba\u2019s mother and the queen of the Pride Lands
+        in 'The Lion King,' guiding and protecting her son and her kingdom."
+    - Question: In 'Beauty and the Beast,' what item is enchanted in the Beast's
+        castle?
+      TrueAnswer: Rose
+      FalseAnswer:
+      - Mirror
+      - Candlestick
+      - Teapot
+      Explanation: The enchantress placed a powerful spell on the rose, making it
+        wilt to symbolize the Beast's fate unless he finds true love before the last
+        petal falls.
+    - Question: What kind of animal is Thumper in 'Bambi'?
+      TrueAnswer: Rabbit
+      FalseAnswer:
+      - Skunk
+      - Squirrel
+      - Hedgehog
+      Explanation: Thumper is a young rabbit who befriends Bambi and is known for
+        teaching him about life in the forest and giving him his name.
+    - Question: Which Disney character sings 'Part of Your World'?
+      TrueAnswer: Ariel
+      FalseAnswer:
+      - Pocahontas
+      - Rapunzel
+      - Mulan
+      Explanation: Ariel from 'The Little Mermaid' sings 'Part of Your World', expressing
+        her desire to explore the human world and be part of it.
+    - Question: Who is the villain in 'The Little Mermaid'?
+      TrueAnswer: Ursula
+      FalseAnswer:
+      - Maleficent
+      - Cruella de Vil
+      - Gaston
+      Explanation: Ursula, an evil sea witch, is the main antagonist in 'The Little
+        Mermaid', attempting to manipulate and harm Ariel for her own gain.
+    - Question: What kind of creature is Gus in 'Cinderella'?
+      TrueAnswer: Mouse
+      FalseAnswer:
+      - Fairy Godmother
+      - Rabbit
+      - Bird
+      Explanation: Gus is a plump, joyful mouse and one of Cinderella's close friends,
+        famously known for his clumsiness and love for cheese.
+    - Question: What is the name of Donald Duck's girlfriend?
+      TrueAnswer: Daisy
+      FalseAnswer:
+      - Minnie
+      - Clarice
+      - Belle
+      Explanation: Daisy Duck is the significant other of Donald Duck, known for
+        her assertive attitude and distinctive fashion sense in the Disney universe.
+    - Question: Which Disney film features the character Baloo?
+      TrueAnswer: The Jungle Book
+      FalseAnswer:
+      - Tarzan
+      - Mulan
+      - Aladdin
+      Explanation: Baloo is a lovable bear who befriends Mowgli, the main character
+        in Disney's 'The Jungle Book', offering guidance and teaching him the 'Bare
+        Necessities'.
+    - Question: Who is the wisecracking chameleon in 'Tangled'?
+      TrueAnswer: Pascal
+      FalseAnswer:
+      - Maximus
+      - Timothy
+      - Sebastian
+      Explanation: Pascal is Rapunzel's supportive and comedic chameleon friend who
+        accompanies her on her adventurous journey in the film 'Tangled'.
+    - Question: What is the name of Lilo's alien friend in 'Lilo & Stitch'?
+      TrueAnswer: Stitch
+      FalseAnswer:
+      - Scrump
+      - Jumba
+      - Pleakley
+      Explanation: '''Stitch'' is Experiment 626, an alien created by Dr. Jumba Jookiba,
+        who becomes Lilo''s loyal and unique friend in the heartwarming movie ''Lilo
+        & Stitch''.'
+    - Question: Who is known for singing 'Circle of Life' in 'The Lion King'?
+      TrueAnswer: Rafiki
+      FalseAnswer:
+      - Simba
+      - Nala
+      - Timon
+      Explanation: Rafiki, the wise mandrill, sings 'Circle of Life' at the beginning
+        of 'The Lion King', symbolizing the presentation of newborn cubs to the animal
+        kingdom.
+    - Question: In 'Alice in Wonderland', what does the Caterpillar smoke?
+      TrueAnswer: Hookah
+      FalseAnswer:
+      - Pipe
+      - Cigar
+      - Pipeweed
+      Explanation: The Caterpillar is frequently seen smoking a hookah, offering
+        profound and enigmatic advice to Alice in 'Alice in Wonderland'.
+    - Question: Who is the captain of the 'Pirates of the Caribbean' ship, 'The Black
+        Pearl'?
+      TrueAnswer: Barbossa
+      FalseAnswer:
+      - Jack Sparrow
+      - Davy Jones
+      - Beckett
+      Explanation: Hector Barbossa serves as the original captain of 'The Black Pearl'
+        in the film series 'Pirates of the Caribbean', opposing Jack Sparrow.
+    - Question: What type of creature is the character Abu in 'Aladdin'?
+      TrueAnswer: Monkey
+      FalseAnswer:
+      - Elephant
+      - Bird
+      - Tiger
+      Explanation: Abu is a resourceful and mischievous anthropoid monkey and Aladdin's
+        closest companion in the enchanting tale of 'Aladdin'.

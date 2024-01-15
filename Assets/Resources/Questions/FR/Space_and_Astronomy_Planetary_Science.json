@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la plus grande planète de notre système solaire?",
+            "TrueAnswer": "Jupiter",
+            "FalseAnswer": [
+              "Neptune",
+              "Mars",
+              "Saturne"
+            ],
+            "Explanation": "Jupiter est la plus grande planète, avec une masse plus de 300 fois celle de la Terre. Sa célèbre Grande Tache Rouge est en réalité un immense système de tempête."
+          },
+          {
+            "Question": "Quel est le composant principal de l'atmosphère de Jupiter?",
+            "TrueAnswer": "Hydrogène",
+            "FalseAnswer": [
+              "Oxygène",
+              "Dioxyde de carbone",
+              "Azote"
+            ],
+            "Explanation": "L'atmosphère de Jupiter est principalement composée d'hydrogène, avec de plus petites quantités d'hélium, de méthane et d'ammoniac. Ses bandes colorées et ses tourbillons sont créés par l'interaction de différents produits chimiques."
+          },
+          {
+            "Question": "Quelle planète est connue pour ses magnifiques anneaux?",
+            "TrueAnswer": "Saturne",
+            "FalseAnswer": [
+              "Uranus",
+              "Jupiter",
+              "Neptune"
+            ],
+            "Explanation": "Les anneaux emblématiques de Saturne sont constitués de glace, de roche et de particules de poussière. Ces anneaux changent constamment et sont considérés comme relativement jeunes par rapport à l'âge du système solaire."
+          },
+          {
+            "Question": "Quelle est la planète la plus froide de notre système solaire?",
+            "TrueAnswer": "Neptune",
+            "FalseAnswer": [
+              "Mars",
+              "Saturne",
+              "Uranus"
+            ],
+            "Explanation": "Neptune est la planète la plus froide, avec une température moyenne de -353°F (-214°C). Sa couleur bleue est due à la présence de méthane dans son atmosphère, qui absorbe la lumière rouge."
+          },
+          {
+            "Question": "Quelle planète possède le pic volcanique le plus élevé du système solaire?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Vénus",
+              "Mercure",
+              "Terre"
+            ],
+            "Explanation": "Olympus Mons sur Mars est le plus haut volcan connu du système solaire, atteignant une hauteur de près de 16 miles (25 kilomètres). Il est environ trois fois plus haut que le mont Everest."
+          },
+          {
+            "Question": "Quel est le nom du plus grand satellite de Saturne?",
+            "TrueAnswer": "Titan",
+            "FalseAnswer": [
+              "Io",
+              "Europe",
+              "Ganymède"
+            ],
+            "Explanation": "Titan est le seul satellite du système solaire avec une atmosphère dense, principalement composée d'azote. Il présente des caractéristiques de surface similaires à celles de la Terre et est le seul corps, en dehors de la Terre, à posséder des étendues stables de liquide à sa surface."
+          },
+          {
+            "Question": "Quelle planète a la plus haute densité dans notre système solaire?",
+            "TrueAnswer": "La Terre",
+            "FalseAnswer": [
+              "Mercure",
+              "Vénus",
+              "Mars"
+            ],
+            "Explanation": "La Terre possède la plus haute densité, principalement due à son noyau de fer-nickel. La densité affecte la force gravitationnelle et d'autres caractéristiques planétaires."
+          },
+          {
+            "Question": "Quelle planète a le jour le plus long dans notre système solaire?",
+            "TrueAnswer": "Vénus",
+            "FalseAnswer": [
+              "Jupiter",
+              "Mercure",
+              "Uranus"
+            ],
+            "Explanation": "Vénus a une rotation extrêmement lente, prenant environ 243 jours terrestres pour accomplir une rotation sur son axe. Cela se traduit par un jour plus long que son année."
+          },
+          {
+            "Question": "Quelle est la seule planète du système solaire à tourner sur le côté?",
+            "TrueAnswer": "Uranus",
+            "FalseAnswer": [
+              "Mars",
+              "Neptune",
+              "Saturne"
+            ],
+            "Explanation": "L'axe de rotation d'Uranus est incliné presque à 90 degrés, ce qui fait qu'elle tourne essentiellement autour du Soleil sur son côté. Cette inclinaison unique entraîne des variations saisonnières extrêmes."
+          },
+          {
+            "Question": "Quelle planète a la plus haute montagne du système solaire?",
+            "TrueAnswer": "Mars",
+            "FalseAnswer": [
+              "Vénus",
+              "Terre",
+              "Mercure"
+            ],
+            "Explanation": "Olympus Mons sur Mars est non seulement le plus grand volcan, mais aussi la montagne la plus haute, atteignant des hauteurs d'environ 13,6 miles (22 kilomètres), près de trois fois la hauteur du mont Everest."
+          },
+          {
+            "Question": "Quel est le gaz à effet de serre le plus abondant dans l'atmosphère de Vénus?",
+            "TrueAnswer": "Dioxyde de carbone",
+            "FalseAnswer": [
+              "Méthane",
+              "Oxygène",
+              "Azote"
+            ],
+            "Explanation": "L'atmosphère épaisse de Vénus est principalement composée de dioxyde de carbone, avec des nuages d'acide sulfurique. Cela crée un effet de serre incontrôlé et provoque des températures de surface extrêmes de plus de 800°F (427°C)."
+          },
+          {
+            "Question": "Quel satellite de Jupiter est connu pour son intense activité volcanique?",
+            "TrueAnswer": "Io",
+            "FalseAnswer": [
+              "Ganymède",
+              "Callisto",
+              "Europe"
+            ],
+            "Explanation": "Io est l'astre le plus actif du système solaire sur le plan volcanique, avec des centaines de volcans actifs alimentés par les forces de marée exercées par Jupiter et ses autres lunes."
+          },
+          {
+            "Question": "Quelle est la plus grande planète naine connue de notre système solaire?",
+            "TrueAnswer": "Éris",
+            "FalseAnswer": [
+              "Pluton",
+              "Haumea",
+              "Makemake"
+            ],
+            "Explanation": "Éris est légèrement plus grande que Pluton et a été l'un des facteurs ayant conduit à la reclassement de Pluton en tant que planète naine. Elle se trouve dans la ceinture de Kuiper."
+          },
+          {
+            "Question": "Quelle planète est connue pour avoir une atmosphère extrêmement mince et ténu?",
+            "TrueAnswer": "Mercure",
+            "FalseAnswer": [
+              "Mars",
+              "Vénus",
+              "Terre"
+            ],
+            "Explanation": "L'atmosphère de Mercure est presque inexistante, composée principalement de traces de hydrogène, d'hélium et de dioxygène. Ce manque d'atmosphère entraîne des variations de température extrêmes."
+          },
+          {
+            "Question": "Quelle est la caractéristique la plus importante de la surface de Mars?",
+            "TrueAnswer": "Valles Marineris",
+            "FalseAnswer": [
+              "Olympus Mons",
+              "Tharsis Montes",
+              "Hellas Planitia"
+            ],
+            "Explanation": "Valles Marineris est un vaste système de canyons sur Mars, s'étendant sur plus de 2 500 miles (4 000 kilomètres) de long et atteignant des profondeurs allant jusqu'à 7 miles (11 kilomètres). C'est le plus grand système de canyons du système solaire."
+          },
+          {
+            "Question": "Quel gaz constitue la majeure partie de l'atmosphère des géantes gazeuses?",
+            "TrueAnswer": "Hydrogène",
+            "FalseAnswer": [
+              "Oxygène",
+              "Azote",
+              "Dioxyde de carbone"
+            ],
+            "Explanation": "Les géantes gazeuses, comme Jupiter et Saturne, ont des atmosphères principalement composées d'hydrogène et d'hélium, avec des quantités plus faibles d'autres gaz comme le methane et l'ammoniac."
+          },
+          {
+            "Question": "Quel est le constituant principal de l'atmosphère de Mars?",
+            "TrueAnswer": "Dioxyde de carbone",
+            "FalseAnswer": [
+              "Oxygène",
+              "Azote",
+              "Méthane"
+            ],
+            "Explanation": "L'atmosphère de Mars est composée à 95 % de dioxyde de carbone, avec très peu d'oxygène. La faible atmosphère contribue aux fortes différences de surface et de températures de la planète."
+          },
+          {
+            "Question": "Quel satellite de Saturne est connu pour avoir un océan souterrain?",
+            "TrueAnswer": "Encelade",
+            "FalseAnswer": [
+              "Mimas",
+              "Rhéa",
+              "Dioné"
+            ],
+            "Explanation": "Encelade possède un océan souterrain sous sa croûte glacée, comme le montrent les geysers qui jaillissent à sa surface, indiquant une activité hydrothermale potentielle. Cela en fait une cible intéressante pour la recherche en astrobiologie."
+          },
+          {
+            "Question": "Quelle est la plus petite planète de notre système solaire?",
+            "TrueAnswer": "Mercure",
+            "FalseAnswer": [
+              "Mars",
+              "Vénus",
+              "Terre"
+            ],
+            "Explanation": "Mercure, malgré sa proximité avec le Soleil, est la plus petite planète du système solaire, avec un diamètre d'environ 3 032 miles (4 879 kilomètres)."
+          },
+          {
+            "Question": "Quel est l'objet le plus brillant dans le ciel nocturne en dehors de la Lune?",
+            "TrueAnswer": "Vénus",
+            "FalseAnswer": [
+              "Mars",
+              "Jupiter",
+              "Saturne"
+            ],
+            "Explanation": "Vénus est souvent appelée l'« étoile du soir » ou l'« étoile du matin » en raison de sa luminosité, car elle peut être observée peu de temps avant le lever du soleil ou après le coucher du soleil. Ses nuages épais reflètent la lumière du soleil, ce qui la rend brillante dans le ciel."
+          }
+        ]
+      }
+    }
+  ]
+}

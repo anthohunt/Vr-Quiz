@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6027101557570099476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8340247425841519449}
+  - component: {fileID: 1437383694645957705}
+  m_Layer: 0
+  m_Name: Geography_Political_Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8340247425841519449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027101557570099476}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1437383694645957705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6027101557570099476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the capital of Australia?
+      TrueAnswer: Canberra
+      FalseAnswer:
+      - Sydney
+      - Melbourne
+      - Brisbane
+      Explanation: Canberra was chosen as the capital in 1913 due to its location
+        between Melbourne and Sydney, resolving their rivalry.
+    - Question: Which country is known as the 'Land of the Rising Sun'?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - China
+      - Korea
+      - Vietnam
+      Explanation: Japan is known as the 'Land of the Rising Sun' due to its position
+        east of the Asian continent.
+    - Question: Who was the first female Prime Minister of the United Kingdom?
+      TrueAnswer: Margaret Thatcher
+      FalseAnswer:
+      - Theresa May
+      - Angela Merkel
+      - Jacinda Ardern
+      Explanation: Margaret Thatcher served as the Prime Minister of the United Kingdom
+        from 1979 to 1990.
+    - Question: What is the longest river in Africa?
+      TrueAnswer: Nile
+      FalseAnswer:
+      - Congo
+      - Niger
+      - Zambezi
+      Explanation: The Nile River is approximately 6,650 kilometers long, making
+        it the longest river in Africa and the world.
+    - Question: Which international organization uses the acronym 'UNESCO'?
+      TrueAnswer: United Nations Educational, Scientific and Cultural Organization
+      FalseAnswer:
+      - World Health Organization
+      - North Atlantic Treaty Organization
+      - International Monetary Fund
+      Explanation: UNESCO aims to promote peace and security through international
+        collaboration in education, science, and culture.
+    - Question: What is the smallest country in the world by land area?
+      TrueAnswer: Vatican City
+      FalseAnswer:
+      - Monaco
+      - Maldives
+      - San Marino
+      Explanation: Vatican City, an independent city-state enclaved within Rome,
+        Italy, is the smallest country by both area and population.
+    - Question: What is the largest country in South America by land area?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - Argentina
+      - Colombia
+      - Peru
+      Explanation: Brazil covers over 8.5 million square kilometers, making it the
+        largest country in South America and the fifth largest in the world.
+    - Question: Which city is known as the 'Pearl of the Adriatic'?
+      TrueAnswer: Dubrovnik
+      FalseAnswer:
+      - Venice
+      - Athens
+      - Barcelona
+      Explanation: Dubrovnik, a coastal city in Croatia, earned the nickname due
+        to its rich history and stunning architecture.
+    - Question: What is the most populous city in Canada?
+      TrueAnswer: Toronto
+      FalseAnswer:
+      - Montreal
+      - Vancouver
+      - Calgary
+      Explanation: Toronto, the capital of Ontario, is the most populous city in
+        Canada, known for its cultural diversity.
+    - Question: In which European city is the headquarters of the European Central
+        Bank located?
+      TrueAnswer: Frankfurt
+      FalseAnswer:
+      - Paris
+      - London
+      - Berlin
+      Explanation: Frankfurt, Germany, houses the headquarters of the European Central
+        Bank, responsible for monetary policy in the euro area.
+    - Question: Which country does not have a coastline on the Caspian Sea?
+      TrueAnswer: Armenia
+      FalseAnswer:
+      - Russia
+      - Turkmenistan
+      - Kazakhstan
+      Explanation: Armenia is an inland country without direct access to the Caspian
+        Sea, unlike its neighboring countries.
+    - Question: What was the former name of Istanbul, Turkey?
+      TrueAnswer: Constantinople
+      FalseAnswer:
+      - Byzantium
+      - Smyrna
+      - Troy
+      Explanation: Istanbul was known as Constantinople until 1930, reflecting its
+        rich history as a major cultural and religious center.
+    - Question: Which country is the largest producer of oil in Africa?
+      TrueAnswer: Nigeria
+      FalseAnswer:
+      - Angola
+      - Libya
+      - Egypt
+      Explanation: Nigeria has significant oil reserves, making it the largest oil
+        producer in Africa and a key player in the global energy market.
+    - Question: What is the official language of Brazil?
+      TrueAnswer: Portuguese
+      FalseAnswer:
+      - Spanish
+      - French
+      - English
+      Explanation: Portuguese is the official language of Brazil, reflecting its
+        colonial history and cultural heritage.
+    - Question: Which country is known as the 'Land of 10,000 Lakes'?
+      TrueAnswer: Finland
+      FalseAnswer:
+      - Sweden
+      - Norway
+      - Denmark
+      Explanation: Finland, with its abundance of lakes, earned the nickname 'Land
+        of 10,000 Lakes' and is renowned for its natural beauty.
+    - Question: What is the main language spoken in Switzerland?
+      TrueAnswer: German
+      FalseAnswer:
+      - French
+      - Italian
+      - Dutch
+      Explanation: German is the most widely spoken language in Switzerland, particularly
+        in the central and eastern regions of the country.
+    - Question: Which country is not a member of the European Union?
+      TrueAnswer: Norway
+      FalseAnswer:
+      - Finland
+      - Greece
+      - Estonia
+      Explanation: Norway, while closely associated with the EU through various agreements,
+        is not a member of the European Union.
+    - Question: In which country would you find the city of Cusco, a historic capital
+        of the Inca Empire?
+      TrueAnswer: Peru
+      FalseAnswer:
+      - Bolivia
+      - Ecuador
+      - Chile
+      Explanation: Cusco, located in southeastern Peru, served as the capital of
+        the Inca Empire and is renowned for its rich history and Incan heritage.
+    - Question: Which Caribbean island is divided into two countries - Haiti and
+        the Dominican Republic?
+      TrueAnswer: Hispaniola
+      FalseAnswer:
+      - Martinique
+      - Jamaica
+      - Puerto Rico
+      Explanation: Hispaniola, the second largest island in the Caribbean, is divided
+        between Haiti and the Dominican Republic, forming a unique cultural and geological
+        landscape.
+    - Question: Which country is located on the Iberian Peninsula and shares a border
+        with Spain?
+      TrueAnswer: Portugal
+      FalseAnswer:
+      - Italy
+      - Greece
+      - Austria
+      Explanation: Portugal shares the Iberian Peninsula with Spain and has a rich
+        history and cultural identity distinct from its neighbor.

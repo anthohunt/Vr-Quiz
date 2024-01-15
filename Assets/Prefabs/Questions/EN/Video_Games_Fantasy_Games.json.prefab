@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3876845325774096248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3557351948027867738}
+  - component: {fileID: 2071347311020670543}
+  m_Layer: 0
+  m_Name: Video_Games_Fantasy_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3557351948027867738
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3876845325774096248}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2071347311020670543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3876845325774096248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: 'What fictional land is the main setting of ''The Elder Scrolls V:
+        Skyrim''?'
+      TrueAnswer: Tamriel
+      FalseAnswer:
+      - Middle-earth
+      - Azeroth
+      - Narnia
+      Explanation: '''The Elder Scrolls V: Skyrim'' takes place in the province of
+        Skyrim, located in the continent of Tamriel.'
+    - Question: Which of these is NOT a class in the 'World of Warcraft' game?
+      TrueAnswer: Jedi
+      FalseAnswer:
+      - Warrior
+      - Mage
+      - Rogue
+      Explanation: 'Jedi is not a class in ''World of Warcraft''. It''s a class in
+        the ''Star Wars: The Old Republic'' game instead.'
+    - Question: What is the protagonist's title in 'The Legend of Zelda' series?
+      TrueAnswer: Link
+      FalseAnswer:
+      - Zelda
+      - Ganon
+      - Sheik
+      Explanation: Link, the protagonist, is often given the task of rescuing Princess
+        Zelda and thwarting Ganon's plans.
+    - Question: Which series features the land of Ferelden and the Blight in the
+        first installment?
+      TrueAnswer: Dragon Age
+      FalseAnswer:
+      - The Witcher
+      - Dark Souls
+      - Fire Emblem
+      Explanation: The first 'Dragon Age' game, 'Origins', introduces the land of
+        Ferelden and the threat of the Blight.
+    - Question: In 'Final Fantasy VII', who is the main antagonist?
+      TrueAnswer: Sephiroth
+      FalseAnswer:
+      - Kefka
+      - Cloud
+      - Tifa
+      Explanation: Sephiroth, a former member of SOLDIER, is the primary antagonist
+        in 'Final Fantasy VII'.
+    - Question: What mythical creature is the symbol of 'The Witcher' series?
+      TrueAnswer: Griffin
+      FalseAnswer:
+      - Dragon
+      - Basilisk
+      - Werewolf
+      Explanation: The griffin is the symbol of the 'Witcher' series, reflecting
+        its folklore-inspired fantasy setting.
+    - Question: Which race is known for its prowess in magic in the 'Elder Scrolls'
+        series?
+      TrueAnswer: High Elves
+      FalseAnswer:
+      - Nords
+      - Orcs
+      - Redguards
+      Explanation: High Elves, also known as Altmer, are highly skilled in magic
+        and renowned for their arrogance.
+    - Question: Who is the author of 'The Book of the Dead' in the 'Diablo' series?
+      TrueAnswer: Abd al-Hazir
+      FalseAnswer:
+      - Deckard Cain
+      - Adria
+      - The Stranger
+      Explanation: Abd al-Hazir, a renowned scholar from Caldeum, wrote 'The Book
+        of the Dead' in the 'Diablo' series.
+    - Question: In 'Dark Souls', what is the name of the area ruled by the Four Kings?
+      TrueAnswer: The Abyss
+      FalseAnswer:
+      - Anor Londo
+      - Firelink Shrine
+      - Ash Lake
+      Explanation: The Abyss is the domain ruled by the Four Kings, a pivotal area
+        in 'Dark Souls' lore.
+    - Question: Which of these is a playable race in 'World of Warcraft'?
+      TrueAnswer: Pandaren
+      FalseAnswer:
+      - Hobbit
+      - Gnome
+      - Orc
+      Explanation: 'Pandaren, a race of anthropomorphic pandas, was introduced as
+        a playable race in ''World of Warcraft: Mists of Pandaria''.'
+    - Question: Which goddess is the primary deity worshipped in 'The Legend of Zelda'
+        series?
+      TrueAnswer: Hylia
+      FalseAnswer:
+      - Farore
+      - Din
+      - Nayru
+      Explanation: Hylia is the primary deity worshipped in 'The Legend of Zelda'
+        series, associated with creation and protection.
+    - Question: What class of weapon does Geralt typically use in 'The Witcher' series?
+      TrueAnswer: Steel Sword
+      FalseAnswer:
+      - Silver Sword
+      - Dagger
+      - Axe
+      Explanation: Geralt, as a Witcher, primarily utilizes the steel sword for combating
+        human and non-magical foes.
+    - Question: Which of these is a prominent faction in 'The Elder Scrolls' series?
+      TrueAnswer: Thieves Guild
+      FalseAnswer:
+      - Mage Council
+      - Warrior Brotherhood
+      - Assassins Syndicate
+      Explanation: The Thieves Guild is a significant faction in 'The Elder Scrolls'
+        series, involved in stealth and larceny across the realms.
+    - Question: What creature is a signature mount in the 'World of Warcraft' game?
+      TrueAnswer: Gryphon
+      FalseAnswer:
+      - Dragon
+      - Hippogryph
+      - Kodo
+      Explanation: Gryphons are iconic mounts in 'World of Warcraft', often used
+        for aerial travel in various zones and continents.
+    - Question: In 'Final Fantasy IX', what is the main character Zidane's species?
+      TrueAnswer: Genome
+      FalseAnswer:
+      - Human
+      - Moogle
+      - Ogre
+      Explanation: Zidane is a Genome, a synthetic humanoid created by the enigmatic
+        race known as the Terran people.
+    - Question: What is the main currency used in 'The Elder Scrolls' series?
+      TrueAnswer: Septim
+      FalseAnswer:
+      - Gil
+      - Gold Coin
+      - Dollar
+      Explanation: The Septim is the principal currency across the provinces in 'The
+        Elder Scrolls' series, named after the ruling dynasty.
+    - Question: Which continent is the heart of the Alliance in 'World of Warcraft'?
+      TrueAnswer: Eastern Kingdoms
+      FalseAnswer:
+      - Kalimdor
+      - Northrend
+      - Pandaria
+      Explanation: The Eastern Kingdoms is the heart of the Alliance, home to numerous
+        human and dwarven settlements in 'World of Warcraft'.
+    - Question: 'What type of dragon battles the player in ''Dragon Age: Inquisition''?'
+      TrueAnswer: High Dragon
+      FalseAnswer:
+      - Frost Dragon
+      - Wyvern
+      - Ancient Dragon
+      Explanation: 'High Dragons, massive and powerful creatures, pose formidable
+        challenges in ''Dragon Age: Inquisition''.'
+    - Question: Which of these is a primary character class in 'The Elder Scrolls
+        Online'?
+      TrueAnswer: Dragonknight
+      FalseAnswer:
+      - Necromancer
+      - Bard
+      - Sorcerer
+      Explanation: Dragonknights, warriors adept in fire and earth magic, are a primary
+        class in 'The Elder Scrolls Online'.
+    - Question: What is the primary weapon type used by the Grey Wardens in the 'Dragon
+        Age' series?
+      TrueAnswer: Greatsword
+      FalseAnswer:
+      - Mace
+      - Bow
+      - Staff
+      Explanation: Grey Wardens, renowned warriors against the Blight, favor the
+        use of greatswords as their primary weapon type.

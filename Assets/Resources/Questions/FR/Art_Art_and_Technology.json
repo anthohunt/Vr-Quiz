@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quand la première sculpture imprimée en 3D a-t-elle été créée?",
+            "TrueAnswer": "1984",
+            "FalseAnswer": [
+              "1992",
+              "2001",
+              "2010"
+            ],
+            "Explanation": "La première sculpture imprimée en 3D, 'Rabbit', a été créée par l'artiste Michael W. Rees en 1984, ouvrant la voie à l'utilisation de l'impression 3D dans l'art."
+          },
+          {
+            "Question": "Quel logiciel Andy Warhol a-t-il utilisé pour créer de l'art numérique?",
+            "TrueAnswer": "Amiga",
+            "FalseAnswer": [
+              "Photoshop",
+              "Illustrator",
+              "CorelDRAW"
+            ],
+            "Explanation": "Andy Warhol a utilisé l'ordinateur Amiga 1000 et les logiciels 'Graphicraft' et 'ProPaint' pour créer de l'art numérique dans les années 1980."
+          },
+          {
+            "Question": "Qui a inventé le terme 'réalité virtuelle' et en quelle année?",
+            "TrueAnswer": "Jaron Lanier, 1987",
+            "FalseAnswer": [
+              "Walt Disney, 1964",
+              "Timothy Leary, 1970",
+              "Hiroshi Ishiguro, 1993"
+            ],
+            "Explanation": "Jaron Lanier a inventé le terme 'réalité virtuelle' en 1987, la décrivant comme un environnement numérique entièrement immersif vécu à travers un ordinateur."
+          },
+          {
+            "Question": "Quel artiste a créé un dispositif de peinture robotique appelé 'e-David'?",
+            "TrueAnswer": "Uli Aschenborn",
+            "FalseAnswer": [
+              "Banksy",
+              "Yayoi Kusama",
+              "Damien Hirst"
+            ],
+            "Explanation": "Uli Aschenborn, un artiste allemand, a créé le système robotique 'e-David' qui crée autonomement des peintures basées sur des données visuelles et des algorithmes."
+          },
+          {
+            "Question": "En quelle année a été créée la première photographie numérique?",
+            "TrueAnswer": "1957",
+            "FalseAnswer": [
+              "1972",
+              "1986",
+              "1999"
+            ],
+            "Explanation": "Russell Kirsch a créé la première photographie numérique en 1957 à l'aide d'un dispositif appelé 'drum scanner' qui convertit une image en fichier numérique."
+          },
+          {
+            "Question": "Le film d'animation 'La Belle et la Bête' a utilisé quelle technologie pionnière?",
+            "TrueAnswer": "CAPS",
+            "FalseAnswer": [
+              "Impression 3D",
+              "Réalité virtuelle",
+              "Capture de mouvement"
+            ],
+            "Explanation": "Le film d'animation 'La Belle et la Bête' (1991) a été le premier à utiliser le Computer Animation Production System (CAPS) pour créer et colorer l'animation."
+          },
+          {
+            "Question": "Quelle technologie Marcel Duchamp a-t-il utilisée dans son œuvre 'Rotoreliefs'?",
+            "TrueAnswer": "Un disque optique",
+            "FalseAnswer": [
+              "Réalité augmentée",
+              "Projection laser",
+              "Holographie"
+            ],
+            "Explanation": "Marcel Duchamp a créé 'Rotoreliefs' en 1935, utilisant des disques optiques qui produisaient des illusions d'optique lorsqu'ils tournaient sur une platine, mélangeant ainsi art et technologie."
+          },
+          {
+            "Question": "Quel musée a accueilli la première grande exposition dédiée à l'art numérique?",
+            "TrueAnswer": "Musée d'Art moderne (MoMA)",
+            "FalseAnswer": [
+              "Musée du Louvre",
+              "British Museum",
+              "Musée Guggenheim"
+            ],
+            "Explanation": "Le MoMA a accueilli l'exposition 'Art numérique' en 1989, reconnaissant et mettant en valeur des œuvres numériques remettant en question les notions traditionnelles d'art et de médium."
+          },
+          {
+            "Question": "Quel terme décrit la fusion des mondes virtuel et physique dans l'art?",
+            "TrueAnswer": "Réalité augmentée",
+            "FalseAnswer": [
+              "Réalité virtuelle",
+              "Art cybernétique",
+              "Art algorithmique"
+            ],
+            "Explanation": "La réalité augmentée intègre des éléments numériques dans un environnement réel, élargissant l'expression artistique à travers des expériences interactives et immersives."
+          },
+          {
+            "Question": "Quelle technologie a permis l'installation 'The Weather Project' d'Olafur Eliasson?",
+            "TrueAnswer": "Lumières monofréquence",
+            "FalseAnswer": [
+              "Mapping de projection",
+              "Impression 3D",
+              "Intelligence artificielle"
+            ],
+            "Explanation": "Eliasson a utilisé des lumières monofréquence dans 'The Weather Project' (2003) au Tate Modern pour créer un effet de lumière artificielle semblable au soleil, altérant la perception des spectateurs."
+          },
+          {
+            "Question": "Qui a créé la première œuvre entièrement générée par intelligence artificielle?",
+            "TrueAnswer": "Harold Cohen",
+            "FalseAnswer": [
+              "Damien Hirst",
+              "Yayoi Kusama",
+              "Banksy"
+            ],
+            "Explanation": "Le programme d'Harold Cohen, AARON, a produit des œuvres générées par ordinateur, explorant l'intersection de la créativité, de la technologie et du rôle de l'artiste."
+          },
+          {
+            "Question": "Quelle technologie Chris Milk a-t-il utilisée pour créer l'installation artistique 'Treasures'?",
+            "TrueAnswer": "Réalité virtuelle",
+            "FalseAnswer": [
+              "Impression 3D",
+              "Capture de mouvement",
+              "Mapping de projection"
+            ],
+            "Explanation": "Chris Milk a utilisé la réalité virtuelle pour plonger les spectateurs dans 'Treasures', une installation artistique interactive où les participants peuvent créer et interagir avec de l'art numérique."
+          },
+          {
+            "Question": "Quel artiste a utilisé la numérisation 3D et l'impression 3D pour créer des formes sculpturales?",
+            "TrueAnswer": "Nick Ervinck",
+            "FalseAnswer": [
+              "Kara Walker",
+              "JR",
+              "Olafur Eliasson"
+            ],
+            "Explanation": "Nick Ervinck utilise la numérisation 3D et l'impression 3D pour créer des formes sculpturales complexes, fusionnant techniques numériques et traditionnelles dans sa pratique artistique."
+          },
+          {
+            "Question": "Quelle technologie a permis l'installation 'Pulse Room' de Rafael Lozano-Hemmer?",
+            "TrueAnswer": "Capteurs de rythme cardiaque",
+            "FalseAnswer": [
+              "Reconnaissance faciale",
+              "Balayage biométrique",
+              "Surveillance des ondes cérébrales"
+            ],
+            "Explanation": "Lozano-Hemmer a utilisé des capteurs de rythme cardiaque dans 'Pulse Room' pour créer une exposition visuelle basée sur les pulsations des participants, mêlant technologie et interaction avec le public."
+          },
+          {
+            "Question": "Qui a conçu l'installation interactive de lumière et de son 'Spectral Diffractions'?",
+            "TrueAnswer": "Ryoji Ikeda",
+            "FalseAnswer": [
+              "Olafur Eliasson",
+              "Yayoi Kusama",
+              "Ai Weiwei"
+            ],
+            "Explanation": "Ryoji Ikeda a utilisé une technologie audiovisuelle avancée pour créer une expérience multisensorielle immersive pour le public."
+          },
+          {
+            "Question": "Quel artiste a été pionnier dans l'utilisation de l'holographie dans les expositions artistiques?",
+            "TrueAnswer": "Harriet Casdin-Silver",
+            "FalseAnswer": [
+              "Damien Hirst",
+              "Banksy",
+              "Yoko Ono"
+            ],
+            "Explanation": "Harriet Casdin-Silver a exploré l'utilisation d'images holographiques et de la technologie laser dans ses expositions artistiques pionnières à partir des années 1960."
+          },
+          {
+            "Question": "Quelle technologie Refik Anadol a-t-il utilisée dans l'installation 'Infinity Room'?",
+            "TrueAnswer": "Algorithmes génératifs",
+            "FalseAnswer": [
+              "Photographie par drone",
+              "Capteurs intelligents",
+              "Nanotechnologie"
+            ],
+            "Explanation": "Refik Anadol a employé des algorithmes génératifs pour créer 'Infinity Room', un environnement audiovisuel immersif qui réimagine la perception de l'espace et de la réalité."
+          },
+          {
+            "Question": "En quelle année la première œuvre d'art numérique a-t-elle été vendue aux enchères en utilisant la technologie de la blockchain?",
+            "TrueAnswer": "2018",
+            "FalseAnswer": [
+              "2005",
+              "2012",
+              "2016"
+            ],
+            "Explanation": "La première œuvre d'art numérique vendue aux enchères en utilisant la blockchain a été 'Edmond de Belamy' par le collectif Obvious en 2018, révolutionnant le marché de l'art."
+          },
+          {
+            "Question": "Quelle technologie TeamLab a-t-il utilisée pour créer des installations d'art numérique interactives?",
+            "TrueAnswer": "Mapping de projection",
+            "FalseAnswer": [
+              "Réalité augmentée",
+              "Peinture numérique",
+              "Réseaux neuronaux"
+            ],
+            "Explanation": "TeamLab combine le mapping de projection avec des capteurs numériques pour créer des environnements immersifs et interactifs intégrant les mouvements du public et des visuels dynamiques."
+          }
+        ]
+      }
+    }
+  ]
+}

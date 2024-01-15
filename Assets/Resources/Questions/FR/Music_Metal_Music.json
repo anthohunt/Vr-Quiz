@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom du chanteur principal de Metallica?",
+            "TrueAnswer": "James Hetfield",
+            "FalseAnswer": [
+              "Dave Mustaine",
+              "Lars Ulrich",
+              "Kirk Hammett"
+            ],
+            "Explanation": "James Hetfield a co-fondé Metallica en 1981 et est le chanteur principal et guitariste rythmique depuis cette époque."
+          },
+          {
+            "Question": "D'où vient Black Sabbath?",
+            "TrueAnswer": "Birmingham, Angleterre",
+            "FalseAnswer": [
+              "Los Angeles, États-Unis",
+              "Sydney, Australie",
+              "Berlin, Allemagne"
+            ],
+            "Explanation": "Black Sabbath a été formé à Birmingham, au Royaume-Uni, en 1968, et est souvent considéré comme les pionniers du heavy metal."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti l'album 'Master of Puppets'?",
+            "TrueAnswer": "Metallica",
+            "FalseAnswer": [
+              "Slayer",
+              "Pantera",
+              "Iron Maiden"
+            ],
+            "Explanation": "'Master of Puppets', sorti en 1986, est le troisième album studio de Metallica et est considéré comme un classique de l'histoire de la musique metal."
+          },
+          {
+            "Question": "Qui est l'iconique guitariste principal de Guns N' Roses?",
+            "TrueAnswer": "Slash",
+            "FalseAnswer": [
+              "Eddie Van Halen",
+              "Randy Rhoads",
+              "Jimi Hendrix"
+            ],
+            "Explanation": "Slash était un membre clé de Guns N' Roses à la fin des années 1980 et au début des années 1990, reconnu pour son style de guitare distinctif."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti un album intitulé 'Rust in Peace'?",
+            "TrueAnswer": "Megadeth",
+            "FalseAnswer": [
+              "Anthrax",
+              "Slipknot",
+              "Mötley Crüe"
+            ],
+            "Explanation": "'Rust in Peace' est le quatrième album studio de Megadeth, sorti en 1990, considéré comme leur chef-d'œuvre et un jalon dans le thrash metal."
+          },
+          {
+            "Question": "Quel est le modèle de guitare signature de Kirk Hammett?",
+            "TrueAnswer": "ESP KH-2",
+            "FalseAnswer": [
+              "Gibson Les Paul",
+              "Fender Stratocaster",
+              "Ibanez RG"
+            ],
+            "Explanation": "Kirk Hammett de Metallica a collaboré avec ESP pour créer le KH-2, un modèle signature avec des incrustations de crânes et de tibias."
+          },
+          {
+            "Question": "Qui est le chanteur principal de Iron Maiden?",
+            "TrueAnswer": "Bruce Dickinson",
+            "FalseAnswer": [
+              "Rob Halford",
+              "Ozzy Osbourne",
+              "Bon Scott"
+            ],
+            "Explanation": "Bruce Dickinson a rejoint Iron Maiden en 1981 et est reconnu pour sa présence scénique opératique et énergique."
+          },
+          {
+            "Question": "Quel groupe de metal a été formé à Huntington Park, Californie?",
+            "TrueAnswer": "Slayer",
+            "FalseAnswer": [
+              "Pantera",
+              "Judas Priest",
+              "Motorhead"
+            ],
+            "Explanation": "Slayer a été formé en 1981 à Huntington Park, en Californie, et a influencé le genre du thrash metal."
+          },
+          {
+            "Question": "Quel est le genre musical associé à des groupes tels que Behemoth et Dimmu Borgir?",
+            "TrueAnswer": "Black Metal",
+            "FalseAnswer": [
+              "Death Metal",
+              "Power Metal",
+              "Doom Metal"
+            ],
+            "Explanation": "Le black metal est connu pour ses paroles extrêmes et souvent anti-chrétiennes, ses tempos rapides et ses structures de chansons non conventionnelles."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti l'album 'Paranoid'?",
+            "TrueAnswer": "Black Sabbath",
+            "FalseAnswer": [
+              "Led Zeppelin",
+              "Deep Purple",
+              "Judas Priest"
+            ],
+            "Explanation": "'Paranoid' est le deuxième album studio de Black Sabbath, sorti en 1970, et est considéré comme l'un des plus grands albums de metal de tous les temps."
+          },
+          {
+            "Question": "Quel est le nom de naissance d'Ozzy Osbourne, le chanteur emblématique de Black Sabbath?",
+            "TrueAnswer": "John Michael Osbourne",
+            "FalseAnswer": [
+              "David Lee Roth",
+              "Ronnie James Dio",
+              "Rob Halford"
+            ],
+            "Explanation": "Ozzy Osbourne est né John Michael Osbourne à Birmingham, en Angleterre, et est devenu une figure emblématique du heavy metal."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti l'album 'Reign in Blood'?",
+            "TrueAnswer": "Slayer",
+            "FalseAnswer": [
+              "Metallica",
+              "Megadeth",
+              "Anthrax"
+            ],
+            "Explanation": "'Reign in Blood', sorti en 1986, est le troisième album studio de Slayer et est considéré comme l'un des plus grands albums de thrash metal."
+          },
+          {
+            "Question": "Qui est le batteur et parolier principal de Tool?",
+            "TrueAnswer": "Danny Carey",
+            "FalseAnswer": [
+              "Lars Ulrich",
+              "Dave Grohl",
+              "Neil Peart"
+            ],
+            "Explanation": "Danny Carey est le batteur de Tool depuis 1990, connu pour ses rythmes complexes et son style progressif."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti l'album 'City of Evil'?",
+            "TrueAnswer": "Avenged Sevenfold",
+            "FalseAnswer": [
+              "Bullet for My Valentine",
+              "Bring Me the Horizon",
+              "Trivium"
+            ],
+            "Explanation": "'City of Evil', sorti en 2005, est le troisième album studio d'Avenged Sevenfold, connu pour leur mélange d'éléments de metalcore et de hard rock."
+          },
+          {
+            "Question": "Qui est le membre fondateur et chanteur principal de Pantera?",
+            "TrueAnswer": "Phil Anselmo",
+            "FalseAnswer": [
+              "Rob Halford",
+              "Jonathan Davis",
+              "Corey Taylor"
+            ],
+            "Explanation": "Phil Anselmo a cofondé Pantera en 1981 et a été le chanteur principal du groupe jusqu'à leur séparation en 2003."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti l'album 'And Justice for All'?",
+            "TrueAnswer": "Metallica",
+            "FalseAnswer": [
+              "Slipknot",
+              "Lamb of God",
+              "Opeth"
+            ],
+            "Explanation": "'...And Justice for All', sorti en 1988, est le quatrième album studio de Metallica, connu pour ses structures de chansons complexes et ses thèmes politiques."
+          },
+          {
+            "Question": "Quel est le modèle de guitare warlock souvent associé aux musiciens de heavy metal?",
+            "TrueAnswer": "BC Rich",
+            "FalseAnswer": [
+              "Jackson",
+              "Dean",
+              "ESP"
+            ],
+            "Explanation": "BC Rich est connue pour ses designs de guitares uniques et non conventionnels, souvent vus entre les mains des guitaristes de heavy metal."
+          },
+          {
+            "Question": "Qui est le chanteur emblématique de Judas Priest connu pour ses vocals aigus?",
+            "TrueAnswer": "Rob Halford",
+            "FalseAnswer": [
+              "Bruce Dickinson",
+              "David Coverdale",
+              "Ronnie James Dio"
+            ],
+            "Explanation": "Rob Halford, également connu sous le nom de 'Metal God', est le chanteur principal de Judas Priest, renommé pour sa puissante étendue vocale."
+          },
+          {
+            "Question": "Quel groupe de metal a sorti l'album 'Far Beyond Driven'?",
+            "TrueAnswer": "Pantera",
+            "FalseAnswer": [
+              "Korn",
+              "Slipknot",
+              "Mastodon"
+            ],
+            "Explanation": "'Far Beyond Driven', sorti en 1994, est le septième album studio de Pantera et a fait ses débuts à la première place du classement Billboard 200."
+          },
+          {
+            "Question": "Quel est le genre musical associé à des groupes comme Meshuggah et Gojira?",
+            "TrueAnswer": "Metal Progressif",
+            "FalseAnswer": [
+              "Deathcore",
+              "Djent",
+              "Post-Metal"
+            ],
+            "Explanation": "Le metal progressif combine des rythmes complexes, des signatures rythmiques inhabituelles et des structures musicales complexes, repoussant souvent les limites de la musique metal traditionnelle."
+          }
+        ]
+      }
+    }
+  ]
+}

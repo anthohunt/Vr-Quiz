@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5228705628447628954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1578397417207427736}
+  - component: {fileID: 6850583001068633479}
+  m_Layer: 0
+  m_Name: Mathematics_Mathematical_Algorithms.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1578397417207427736
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5228705628447628954}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6850583001068633479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5228705628447628954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of the Euclidean algorithm?
+      TrueAnswer: Find the greatest common divisor
+      FalseAnswer:
+      - Solve linear equations
+      - Calculate pi
+      - Factorize large numbers
+      Explanation: The Euclidean algorithm is a method for finding the greatest common
+        divisor of two numbers, a key element in many mathematical computations and
+        applications.
+    - Question: What is the time complexity of the bubble sort algorithm?
+      TrueAnswer: O(n^2)
+      FalseAnswer:
+      - O(n)
+      - O(log n)
+      - O(n log n)
+      Explanation: The bubble sort algorithm has a time complexity of O(n^2), making
+        it inefficient for large datasets, but it's easy to implement.
+    - Question: What is the purpose of the Sieve of Eratosthenes algorithm?
+      TrueAnswer: Find all prime numbers up to a given limit
+      FalseAnswer:
+      - Solve systems of linear equations
+      - Calculate square roots
+      - Optimize SQL queries
+      Explanation: The Sieve of Eratosthenes is an ancient algorithm used to find
+        all prime numbers up to a specified limit, a fundamental method in number
+        theory and cryptography.
+    - Question: What is the Brzozowski's algorithm used for?
+      TrueAnswer: Determine the Moore equivalence of a finite automaton
+      FalseAnswer:
+      - Compute Fibonacci sequence
+      - Find shortest path in a graph
+      - Solve Sudoku puzzles
+      Explanation: Brzozowski's algorithm is a key method in formal language theory
+        and automata theory, used to determine the Moore equivalence of finite automata,
+        aiding in formal language processing and software verification.
+    - Question: What is the objective of the Dijkstra's algorithm?
+      TrueAnswer: Find the shortest path in a weighted graph
+      FalseAnswer:
+      - Solve system of nonlinear equations
+      - Optimize binary search
+      - Calculate matrix determinant
+      Explanation: Dijkstra's algorithm is a critical method in graph theory and
+        computer science, utilized to find the shortest path from a designated starting
+        vertex to all other vertices in a weighted graph, essential in navigation
+        systems and network routing protocols.
+    - Question: Which algorithm is used for integer factorization?
+      TrueAnswer: Pollard's rho algorithm
+      FalseAnswer:
+      - Fibonacci sequence algorithm
+      - Primality test algorithm
+      - Huffman coding algorithm
+      Explanation: The Pollard's rho algorithm is a primary algorithm employed in
+        integer factorization, crucial in cryptography and number theory, aiding
+        in the security of digital communications and encryption.
+    - Question: What is the objective of Newton-Raphson method?
+      TrueAnswer: Find the roots of a real-valued function
+      FalseAnswer:
+      - Interpolate polynomial functions
+      - Generate pseudo-random numbers
+      - Compute matrix eigenvalues
+      Explanation: The Newton-Raphson method is a numerical technique to find the
+        roots of a real-valued function, extensively used in optimization, physics,
+        and engineering for solving equations and simulation modeling.
+    - Question: What is the purpose of the Miller-Rabin primality test?
+      TrueAnswer: Determine if a number is likely prime
+      FalseAnswer:
+      - Generate Fibonacci sequence
+      - Calculate matrix inverse
+      - Optimize database queries
+      Explanation: The Miller-Rabin primality test is a probabilistic algorithm for
+        determining whether a given number is likely prime, essential in cryptography
+        and security protocols, offering efficient checking for large numbers.
+    - Question: What is the primary goal of Bellman-Ford algorithm?
+      TrueAnswer: Find the shortest paths in a weighted graph with negative edges
+      FalseAnswer:
+      - Encode data with Huffman coding
+      - Query database for specific records
+      - Compute eigenvalues of a matrix
+      Explanation: The Bellman-Ford algorithm is a critical tool in graph theory
+        and network routing, specifically designed to handle graphs with negative
+        edge weights, essential in network reliability and transportation planning.
+    - Question: What is the purpose of the Karatsuba algorithm?
+      TrueAnswer: Perform fast multiplication of large numbers
+      FalseAnswer:
+      - Solve simultaneous equations
+      - Calculate square roots
+      - Optimize merge sort
+      Explanation: The Karatsuba algorithm is an efficient method for multiplying
+        large numbers, reducing the number of arithmetic operations, and prevalent
+        in cryptography, numerical analysis, and computer algebra systems.
+    - Question: What is the primary focus of the Floyd-Warshall algorithm?
+      TrueAnswer: Find the shortest paths in a weighted graph with positive and negative
+        edges
+      FalseAnswer:
+      - Parse and analyze XML data
+      - Generate random permutations
+      - Compute discrete Fourier transform
+      Explanation: The Floyd-Warshall algorithm is designed to calculate the shortest
+        paths between all pairs of vertices in a weighted graph, allowing for both
+        positive and negative edge weights, crucial in transportation networks and
+        airline routing.
+    - Question: What is the key application of the Rabin-Karp algorithm?
+      TrueAnswer: Pattern searching in a text
+      FalseAnswer:
+      - Encrypting data with RSA
+      - Generating L-system fractals
+      - Calculating matrix dot product
+      Explanation: The Rabin-Karp algorithm is primarily employed for pattern matching
+        and substring search in strings, offering enhanced efficiency in text processing,
+        plagiarism detection, and bioinformatics.
+    - Question: What is the main objective of the Fast Fourier Transform (FFT) algorithm?
+      TrueAnswer: Compute the discrete Fourier transform of a sequence
+      FalseAnswer:
+      - Optimize quicksort algorithm
+      - Factorize large numbers
+      - Generate pseudo-random numbers
+      Explanation: The Fast Fourier Transform (FFT) algorithm efficiently computes
+        the discrete Fourier transform (DFT) of a sequence, pivotal in signal processing,
+        digital audio and image compression, and scientific computing.
+    - Question: What is the aim of the Coppersmith's algorithm?
+      TrueAnswer: Solve specific types of modular equations
+      FalseAnswer:
+      - Compress and decompress data
+      - Calculate matrix determinant
+      - Generate prime numbers
+      Explanation: Coppersmith's algorithm is focused on solving specific types of
+        modular equations, instrumental in cryptography, computer security, and digital
+        signature schemes, strengthening cryptographic protocols against attacks.
+    - Question: What is the primary function of the Levenberg-Marquardt algorithm?
+      TrueAnswer: Solve nonlinear least squares optimization problems
+      FalseAnswer:
+      - Sort data using merge sort
+      - Compute matrix eigenvalues
+      - Encrypt data with AES
+      Explanation: The Levenberg-Marquardt algorithm is a technique for solving nonlinear
+        least-squares problems, extensively used in curve fitting, data modeling,
+        and parameter estimation in scientific and engineering applications.
+    - Question: What is the purpose of the Hopcroft-Karp algorithm?
+      TrueAnswer: Find maximum cardinality matching in a bipartite graph
+      FalseAnswer:
+      - Optimize bubble sort
+      - Encode data with Huffman coding
+      - Search for specific records in a database
+      Explanation: The Hopcroft-Karp algorithm is crucial for finding the maximum
+        cardinality matching in a bipartite graph, offering efficient solutions to
+        matching and assignment problems in computational biology, resource allocation,
+        and cloud computing.
+    - Question: What is the main goal of the Babai's algorithm?
+      TrueAnswer: Solve graph isomorphism problem
+      FalseAnswer:
+      - Compute matrix dot product
+      - Generate L-system fractals
+      - Factorize large numbers
+      Explanation: Babai's algorithm is designed to efficiently solve the graph isomorphism
+        problem, a fundamental question in computer science, complexity theory, and
+        permutation groups, providing insights into computational complexity and
+        group theory.
+    - Question: What is the primary purpose of the Miller's algorithm in elliptic
+        curve cryptography?
+      TrueAnswer: Point multiplication on an elliptic curve
+      FalseAnswer:
+      - Compute determinant of a matrix
+      - Search for prime numbers
+      - Generate random permutations
+      Explanation: Miller's algorithm is a crucial operation in elliptic curve cryptography,
+        enabling efficient point multiplication on elliptic curves, fundamental for
+        secure digital signatures, key exchanges, and cryptographic protocols.
+    - Question: What is the primary focus of the Berlekamp-Massey algorithm?
+      TrueAnswer: Find the shortest LFSR for given binary sequence
+      FalseAnswer:
+      - Solve simultaneous equations
+      - Optimize quicksort algorithm
+      - Encrypt data with RSA
+      Explanation: The Berlekamp-Massey algorithm is central in linear feedback shift
+        register (LFSR) theory and error-correction coding, used to find the shortest
+        LFSR for a given binary sequence, vital in digital communications, error
+        detection, and correction.
+    - Question: What is the primary purpose of the AKS primality test?
+      TrueAnswer: Determining if a number is prime
+      FalseAnswer:
+      - Generating Fibonacci sequence
+      - Calculating matrix inverse
+      - Optimizing database queries
+      Explanation: The AKS primality test is a deterministic algorithm for determining
+        whether a number is prime, a groundbreaking development in number theory
+        and cryptography, providing a polynomial-time method for primality testing.

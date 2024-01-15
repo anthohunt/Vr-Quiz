@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3113659755490079417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8366312976837313461}
+  - component: {fileID: 7825041928198122172}
+  m_Layer: 0
+  m_Name: Nature and Wildlife_Animal Migration Patterns.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8366312976837313461
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3113659755490079417}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7825041928198122172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3113659755490079417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the longest recorded migration of any mammal?
+      TrueAnswer: Gray Whale
+      FalseAnswer:
+      - Monarch Butterfly
+      - Arctic Tern
+      - Humpback Whale
+      Explanation: The Gray Whale holds the record for the longest migration, traveling
+        up to 12,000 miles round trip.
+    - Question: Which animal migrates the farthest distance annually?
+      TrueAnswer: Arctic Tern
+      FalseAnswer:
+      - Salmon
+      - Caribou
+      - Swallow
+      Explanation: The Arctic Tern migrates the farthest distance annually, covering
+        about 44,000 miles round trip.
+    - Question: What is the largest land animal migration on Earth?
+      TrueAnswer: Wildebeest
+      FalseAnswer:
+      - Elephant
+      - Zebra
+      - Bison
+      Explanation: The Wildebeest migration in Africa is the largest land animal
+        migration, with millions of individuals moving in search of food and water.
+    - Question: Which bird species migrates from the Arctic to Antarctica and back
+        each year?
+      TrueAnswer: Sooty Shearwater
+      FalseAnswer:
+      - Penguin
+      - Albatross
+      - Swan
+      Explanation: The Sooty Shearwater undertakes an incredible journey from the
+        Arctic to Antarctica and back, covering around 40,000 miles annually.
+    - Question: What is the most common reason for animal migration?
+      TrueAnswer: Seasonal changes
+      FalseAnswer:
+      - Habitat destruction
+      - Predator avoidance
+      - Breeding
+      Explanation: Animals often migrate in response to seasonal changes, such as
+        temperature, food availability, and breeding opportunities.
+    - Question: Which animal is known for its annual migration to the calving grounds
+        in the Arctic?
+      TrueAnswer: Caribou
+      FalseAnswer:
+      - Moose
+      - Reindeer
+      - Elk
+      Explanation: Caribou undertake an annual migration to the calving grounds in
+        the Arctic, covering hundreds of miles in search of suitable habitat.
+    - Question: What is the purpose of animal migration?
+      TrueAnswer: Survival
+      FalseAnswer:
+      - Reproduction
+      - Exploration
+      - Social interaction
+      Explanation: Animal migration is primarily driven by the need for survival,
+        including finding food, escaping harsh conditions, and avoiding predators.
+    - Question: Which animal migrates to the same breeding grounds every year?
+      TrueAnswer: Salmon
+      FalseAnswer:
+      - Sea turtle
+      - Frog
+      - Butterfly
+      Explanation: Salmon return to the same breeding grounds every year, navigating
+        back to the exact location where they were born.
+    - Question: What is the main factor that triggers animal migration?
+      TrueAnswer: Instinct
+      FalseAnswer:
+      - Climate change
+      - Human interference
+      - Competition for resources
+      Explanation: The main factor that triggers animal migration is instinct, an
+        innate behavior that guides them to move in specific patterns.
+    - Question: Which animal migrates in a circular pattern around the North Pole?
+      TrueAnswer: Polar Bear
+      FalseAnswer:
+      - Arctic Fox
+      - Walrus
+      - Seal
+      Explanation: Polar Bears migrate in a circular pattern around the North Pole,
+        following the movement of sea ice and their prey.
+    - Question: What is the purpose of bird migration?
+      TrueAnswer: Food availability
+      FalseAnswer:
+      - Breeding
+      - Escape from predators
+      - Climate change
+      Explanation: Bird migration is primarily driven by the availability of food,
+        as they move to areas with abundant resources.
+    - Question: Which animal migrates to the same wintering grounds every year?
+      TrueAnswer: Monarch Butterfly
+      FalseAnswer:
+      - Dragonfly
+      - Bee
+      - Ladybug
+      Explanation: Monarch Butterflies undertake a remarkable migration, returning
+        to the same wintering grounds in Mexico every year.
+    - Question: What is the purpose of fish migration?
+      TrueAnswer: Reproduction
+      FalseAnswer:
+      - Feeding
+      - Avoiding predators
+      - Exploration
+      Explanation: Fish migration is primarily driven by the need to reproduce, as
+        they move to specific areas for spawning.
+    - Question: Which animal migrates from the Amazon rainforest to the Atlantic
+        Ocean?
+      TrueAnswer: Sea turtle
+      FalseAnswer:
+      - Jaguar
+      - Sloth
+      - Anaconda
+      Explanation: Sea turtles migrate from the Amazon rainforest to the Atlantic
+        Ocean to lay their eggs on sandy beaches.
+    - Question: What is the purpose of insect migration?
+      TrueAnswer: Finding suitable habitat
+      FalseAnswer:
+      - Avoiding extreme weather
+      - Social interaction
+      - Predator avoidance
+      Explanation: Insect migration is primarily driven by the need to find suitable
+        habitat for feeding, breeding, and survival.
+    - Question: Which animal migrates in search of warmer waters during the winter?
+      TrueAnswer: Humpback Whale
+      FalseAnswer:
+      - Dolphin
+      - Shark
+      - Seal
+      Explanation: Humpback Whales migrate to warmer waters during the winter months
+        to mate and give birth.
+    - Question: What is the purpose of mammal migration?
+      TrueAnswer: Finding food
+      FalseAnswer:
+      - Escaping predators
+      - Social interaction
+      - Climate change
+      Explanation: Mammal migration is primarily driven by the need to find food,
+        as they move to areas with abundant resources.
+    - Question: Which animal migrates in a V-formation to conserve energy?
+      TrueAnswer: Canada Goose
+      FalseAnswer:
+      - Swan
+      - Duck
+      - Pelican
+      Explanation: Canada Geese migrate in a V-formation, which helps them conserve
+        energy by reducing wind resistance.
+    - Question: What is the purpose of reptile migration?
+      TrueAnswer: Breeding
+      FalseAnswer:
+      - Hunting
+      - Avoiding extreme temperatures
+      - Exploration
+      Explanation: Reptile migration is primarily driven by the need to find suitable
+        breeding grounds and lay eggs.
+    - Question: Which animal migrates to the same nesting grounds every year?
+      TrueAnswer: Sea turtle
+      FalseAnswer:
+      - Seagull
+      - Pelican
+      - Crab
+      Explanation: Sea turtles return to the same nesting grounds every year, often
+        traveling long distances to reach their preferred beaches.

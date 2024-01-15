@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7756851340096905110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8601893588898573509}
+  - component: {fileID: 4006904015052851506}
+  m_Layer: 0
+  m_Name: Movies_The Role of Film Critics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8601893588898573509
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7756851340096905110}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4006904015052851506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7756851340096905110}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who won the Academy Award for Best Actor in 2020?
+      TrueAnswer: Joaquin Phoenix
+      FalseAnswer:
+      - Leonardo DiCaprio
+      - Brad Pitt
+      - Adam Driver
+      Explanation: Joaquin Phoenix won the Academy Award for Best Actor in 2020 for
+        his role in 'Joker'.
+    - Question: Which film won the Best Picture Oscar in 2019?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Joker
+      - 1917
+      - Once Upon a Time in Hollywood
+      Explanation: '''Parasite'' made history by becoming the first South Korean
+        film to win the Best Picture Oscar in 2019.'
+    - Question: Who directed the movie 'Pulp Fiction'?
+      TrueAnswer: Quentin Tarantino
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Christopher Nolan
+      Explanation: '''Pulp Fiction'' was directed by Quentin Tarantino, known for
+        his unique storytelling style.'
+    - Question: Which actor played the character Tony Stark/Iron Man in the Marvel
+        Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Mark Ruffalo
+      Explanation: Robert Downey Jr. portrayed the iconic character Tony Stark/Iron
+        Man in the Marvel Cinematic Universe.
+    - Question: Who won the Academy Award for Best Actress in 2020?
+      TrueAnswer: "Ren\xE9e Zellweger"
+      FalseAnswer:
+      - Scarlett Johansson
+      - Charlize Theron
+      - Saoirse Ronan
+      Explanation: "Ren\xE9e Zellweger won the Academy Award for Best Actress in
+        2020 for her role in 'Judy'."
+    - Question: Which film won the Best Animated Feature Oscar in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: '''Toy Story 4'' won the Best Animated Feature Oscar in 2020,
+        continuing the beloved franchise.'
+    - Question: Who directed the movie 'The Shawshank Redemption'?
+      TrueAnswer: Frank Darabont
+      FalseAnswer:
+      - David Fincher
+      - Stanley Kubrick
+      - Christopher Nolan
+      Explanation: '''The Shawshank Redemption'' was directed by Frank Darabont,
+        known for his powerful storytelling.'
+    - Question: Which actor played the character Luke Skywalker in the original 'Star
+        Wars' trilogy?
+      TrueAnswer: Mark Hamill
+      FalseAnswer:
+      - Harrison Ford
+      - Carrie Fisher
+      - Alec Guinness
+      Explanation: Mark Hamill portrayed the iconic character Luke Skywalker in the
+        original 'Star Wars' trilogy.
+    - Question: Who won the Academy Award for Best Director in 2020?
+      TrueAnswer: Bong Joon-ho
+      FalseAnswer:
+      - Martin Scorsese
+      - Quentin Tarantino
+      - Sam Mendes
+      Explanation: Bong Joon-ho won the Academy Award for Best Director in 2020 for
+        his film 'Parasite'.
+    - Question: Which film won the Best Picture Oscar in 2020?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Joker
+      - 1917
+      - Once Upon a Time in Hollywood
+      Explanation: '''Parasite'' made history by becoming the first South Korean
+        film to win the Best Picture Oscar in 2019.'
+    - Question: Who directed the movie 'Pulp Fiction'?
+      TrueAnswer: Quentin Tarantino
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Christopher Nolan
+      Explanation: '''Pulp Fiction'' was directed by Quentin Tarantino, known for
+        his unique storytelling style.'
+    - Question: Which actor played the character Tony Stark/Iron Man in the Marvel
+        Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Mark Ruffalo
+      Explanation: Robert Downey Jr. portrayed the iconic character Tony Stark/Iron
+        Man in the Marvel Cinematic Universe.
+    - Question: Who won the Academy Award for Best Actress in 2020?
+      TrueAnswer: "Ren\xE9e Zellweger"
+      FalseAnswer:
+      - Scarlett Johansson
+      - Charlize Theron
+      - Saoirse Ronan
+      Explanation: "Ren\xE9e Zellweger won the Academy Award for Best Actress in
+        2020 for her role in 'Judy'."
+    - Question: Which film won the Best Animated Feature Oscar in 2020?
+      TrueAnswer: Toy Story 4
+      FalseAnswer:
+      - Frozen II
+      - 'How to Train Your Dragon: The Hidden World'
+      - Missing Link
+      Explanation: '''Toy Story 4'' won the Best Animated Feature Oscar in 2020,
+        continuing the beloved franchise.'
+    - Question: Who directed the movie 'The Shawshank Redemption'?
+      TrueAnswer: Frank Darabont
+      FalseAnswer:
+      - David Fincher
+      - Stanley Kubrick
+      - Christopher Nolan
+      Explanation: '''The Shawshank Redemption'' was directed by Frank Darabont,
+        known for his powerful storytelling.'
+    - Question: Which actor played the character Luke Skywalker in the original 'Star
+        Wars' trilogy?
+      TrueAnswer: Mark Hamill
+      FalseAnswer:
+      - Harrison Ford
+      - Carrie Fisher
+      - Alec Guinness
+      Explanation: Mark Hamill portrayed the iconic character Luke Skywalker in the
+        original 'Star Wars' trilogy.
+    - Question: Who won the Academy Award for Best Director in 2020?
+      TrueAnswer: Bong Joon-ho
+      FalseAnswer:
+      - Martin Scorsese
+      - Quentin Tarantino
+      - Sam Mendes
+      Explanation: Bong Joon-ho won the Academy Award for Best Director in 2020 for
+        his film 'Parasite'.
+    - Question: Which film won the Best Picture Oscar in 2020?
+      TrueAnswer: Parasite
+      FalseAnswer:
+      - Joker
+      - 1917
+      - Once Upon a Time in Hollywood
+      Explanation: '''Parasite'' made history by becoming the first South Korean
+        film to win the Best Picture Oscar in 2019.'
+    - Question: Who directed the movie 'Pulp Fiction'?
+      TrueAnswer: Quentin Tarantino
+      FalseAnswer:
+      - Martin Scorsese
+      - Steven Spielberg
+      - Christopher Nolan
+      Explanation: '''Pulp Fiction'' was directed by Quentin Tarantino, known for
+        his unique storytelling style.'
+    - Question: Which actor played the character Tony Stark/Iron Man in the Marvel
+        Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Mark Ruffalo
+      Explanation: Robert Downey Jr. portrayed the iconic character Tony Stark/Iron
+        Man in the Marvel Cinematic Universe.

@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5367796200319865947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2431420683455524973}
+  - component: {fileID: 239665891899083238}
+  m_Layer: 0
+  m_Name: TV Shows_Streaming Originals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2431420683455524973
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5367796200319865947}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &239665891899083238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5367796200319865947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which streaming original series is set in the fictional town of Hawkins?
+      TrueAnswer: Stranger Things
+      FalseAnswer:
+      - The Crown
+      - The Handmaid's Tale
+      - Ozark
+      Explanation: Stranger Things is a popular streaming original series that takes
+        place in the fictional town of Hawkins, Indiana.
+    - Question: Which streaming original series follows the lives of the Bluth family?
+      TrueAnswer: Arrested Development
+      FalseAnswer:
+      - Breaking Bad
+      - The Office
+      - Friends
+      Explanation: Arrested Development is a comedy series that revolves around the
+        dysfunctional Bluth family.
+    - Question: Which streaming original series is based on the book series by George
+        R.R. Martin?
+      TrueAnswer: Game of Thrones
+      FalseAnswer:
+      - The Walking Dead
+      - The Big Bang Theory
+      - Stranger Things
+      Explanation: Game of Thrones is a highly acclaimed fantasy series adapted from
+        George R.R. Martin's book series.
+    - Question: Which streaming original series is set in the world of professional
+        wrestling?
+      TrueAnswer: GLOW
+      FalseAnswer:
+      - The Marvelous Mrs. Maisel
+      - The Handmaid's Tale
+      - Stranger Things
+      Explanation: GLOW is a comedy-drama series that explores the world of women's
+        professional wrestling in the 1980s.
+    - Question: Which streaming original series is about a high school chemistry
+        teacher turned methamphetamine producer?
+      TrueAnswer: Breaking Bad
+      FalseAnswer:
+      - The Crown
+      - Friends
+      - Stranger Things
+      Explanation: Breaking Bad follows the transformation of a high school chemistry
+        teacher into a methamphetamine producer.
+    - Question: Which streaming original series is set in a post-apocalyptic world
+        ruled by a totalitarian regime?
+      TrueAnswer: The Handmaid's Tale
+      FalseAnswer:
+      - Stranger Things
+      - The Office
+      - Game of Thrones
+      Explanation: The Handmaid's Tale is a dystopian series that depicts a society
+        where women are oppressed and used for reproductive purposes.
+    - Question: Which streaming original series is a mockumentary about a paper company
+        in Scranton, Pennsylvania?
+      TrueAnswer: The Office
+      FalseAnswer:
+      - Stranger Things
+      - Friends
+      - Breaking Bad
+      Explanation: The Office is a mockumentary-style sitcom that portrays the daily
+        lives of office employees in Scranton.
+    - Question: Which streaming original series is set in the criminal underworld
+        of Birmingham, England?
+      TrueAnswer: Peaky Blinders
+      FalseAnswer:
+      - Stranger Things
+      - The Crown
+      - Game of Thrones
+      Explanation: Peaky Blinders is a period crime drama series that follows the
+        Shelby crime family in post-World War I Birmingham.
+    - Question: Which streaming original series is a dark comedy about a hitman turned
+        actor?
+      TrueAnswer: Barry
+      FalseAnswer:
+      - Stranger Things
+      - The Handmaid's Tale
+      - Friends
+      Explanation: Barry is a dark comedy series that centers around a hitman who
+        discovers a passion for acting.
+    - Question: Which streaming original series is set in a small town where supernatural
+        occurrences happen?
+      TrueAnswer: Twin Peaks
+      FalseAnswer:
+      - Stranger Things
+      - The Office
+      - Game of Thrones
+      Explanation: Twin Peaks is a mystery drama series that takes place in a small
+        town filled with supernatural elements.
+    - Question: Which streaming original series is a political drama set in Washington,
+        D.C.?
+      TrueAnswer: House of Cards
+      FalseAnswer:
+      - Stranger Things
+      - The Crown
+      - Friends
+      Explanation: House of Cards follows the ruthless political maneuvers of Frank
+        Underwood in Washington, D.C.
+    - Question: Which streaming original series is a comedy about a group of friends
+        living in New York City?
+      TrueAnswer: Friends
+      FalseAnswer:
+      - Stranger Things
+      - The Handmaid's Tale
+      - Breaking Bad
+      Explanation: Friends is a beloved sitcom that revolves around the lives of
+        six friends in Manhattan.
+    - Question: Which streaming original series is a sci-fi anthology that explores
+        the dark side of technology?
+      TrueAnswer: Black Mirror
+      FalseAnswer:
+      - Stranger Things
+      - The Office
+      - Game of Thrones
+      Explanation: Black Mirror is a thought-provoking series that delves into the
+        potential consequences of advanced technology.
+    - Question: Which streaming original series is a comedy-drama about a woman who
+        becomes a stand-up comedian in the 1950s?
+      TrueAnswer: The Marvelous Mrs. Maisel
+      FalseAnswer:
+      - Stranger Things
+      - The Handmaid's Tale
+      - Friends
+      Explanation: The Marvelous Mrs. Maisel follows the journey of a housewife who
+        discovers her talent for stand-up comedy.
+    - Question: Which streaming original series is a crime drama set in the world
+        of drug cartels?
+      TrueAnswer: Narcos
+      FalseAnswer:
+      - Stranger Things
+      - The Crown
+      - Game of Thrones
+      Explanation: Narcos explores the rise and fall of notorious drug cartels in
+        different parts of the world.
+    - Question: Which streaming original series is a psychological thriller about
+        a serial killer?
+      TrueAnswer: Mindhunter
+      FalseAnswer:
+      - Stranger Things
+      - The Office
+      - Friends
+      Explanation: Mindhunter follows FBI agents as they delve into the minds of
+        serial killers to solve ongoing cases.
+    - Question: Which streaming original series is a fantasy epic with dragons and
+        noble families vying for power?
+      TrueAnswer: Game of Thrones
+      FalseAnswer:
+      - Stranger Things
+      - The Handmaid's Tale
+      - The Office
+      Explanation: Game of Thrones is a fantasy series that features intricate political
+        plots and mythical creatures like dragons.
+    - Question: Which streaming original series is a dark comedy about a woman who
+        accidentally kills her boyfriend?
+      TrueAnswer: Dead to Me
+      FalseAnswer:
+      - Stranger Things
+      - The Crown
+      - Friends
+      Explanation: Dead to Me follows the unlikely friendship between a grieving
+        widow and a woman with a dark secret.
+    - Question: Which streaming original series is a superhero show set in the Marvel
+        Cinematic Universe?
+      TrueAnswer: Daredevil
+      FalseAnswer:
+      - Stranger Things
+      - The Handmaid's Tale
+      - Game of Thrones
+      Explanation: Daredevil is a superhero series that takes place in the same universe
+        as the Marvel movies.
+    - Question: Which streaming original series is a comedy about a group of vampires
+        living in Staten Island?
+      TrueAnswer: What We Do in the Shadows
+      FalseAnswer:
+      - Stranger Things
+      - The Office
+      - Friends
+      Explanation: What We Do in the Shadows is a mockumentary-style comedy that
+        follows the lives of vampire roommates.

@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2162583373571129858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8813773924936950928}
+  - component: {fileID: 8080042374778277934}
+  m_Layer: 0
+  m_Name: Nature and Wildlife_Rainforest Ecosystems.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8813773924936950928
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2162583373571129858}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8080042374778277934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2162583373571129858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest rainforest in the world?
+      TrueAnswer: Amazon
+      FalseAnswer:
+      - Congo
+      - Daintree
+      - Borneo
+      Explanation: The Amazon rainforest is the largest rainforest in the world,
+        covering approximately 5.5 million square kilometers.
+    - Question: Which animal is known as the 'king of the jungle'?
+      TrueAnswer: Lion
+      FalseAnswer:
+      - Tiger
+      - Gorilla
+      - Elephant
+      Explanation: The lion is often referred to as the 'king of the jungle' due
+        to its majestic appearance and dominance in its habitat.
+    - Question: What is the process by which plants convert sunlight into energy?
+      TrueAnswer: Photosynthesis
+      FalseAnswer:
+      - Respiration
+      - Transpiration
+      - Pollination
+      Explanation: Photosynthesis is the process by which plants use sunlight, carbon
+        dioxide, and water to produce glucose and oxygen.
+    - Question: Which bird is known for its ability to mimic human speech?
+      TrueAnswer: Parrot
+      FalseAnswer:
+      - Eagle
+      - Ostrich
+      - Penguin
+      Explanation: Parrots are known for their ability to mimic human speech and
+        other sounds, making them popular pets.
+    - Question: What is the largest land animal?
+      TrueAnswer: Elephant
+      FalseAnswer:
+      - Giraffe
+      - Hippopotamus
+      - Rhinoceros
+      Explanation: The elephant is the largest land animal, with the African elephant
+        being the largest of the two species.
+    - Question: Which animal is known for its black and white stripes?
+      TrueAnswer: Zebra
+      FalseAnswer:
+      - Gazelle
+      - Antelope
+      - Horse
+      Explanation: Zebras are known for their distinctive black and white stripes,
+        which help to confuse predators and regulate body temperature.
+    - Question: What is the largest species of shark?
+      TrueAnswer: Whale Shark
+      FalseAnswer:
+      - Great White Shark
+      - Tiger Shark
+      - Hammerhead Shark
+      Explanation: The whale shark is the largest species of shark, reaching lengths
+        of up to 40 feet and feeding on plankton.
+    - Question: Which animal is known for its ability to camouflage?
+      TrueAnswer: Chameleon
+      FalseAnswer:
+      - Lemur
+      - Sloth
+      - Kangaroo
+      Explanation: Chameleons are known for their ability to change color and blend
+        in with their surroundings, providing effective camouflage.
+    - Question: What is the process by which animals hibernate during winter?
+      TrueAnswer: Hibernation
+      FalseAnswer:
+      - Migration
+      - Estivation
+      - Torpor
+      Explanation: Hibernation is a state of inactivity and reduced metabolic rate
+        that animals enter during winter to conserve energy.
+    - Question: Which animal is known for its long neck?
+      TrueAnswer: Giraffe
+      FalseAnswer:
+      - Kangaroo
+      - Elephant
+      - Horse
+      Explanation: Giraffes have long necks, which allow them to reach leaves on
+        tall trees that other animals cannot access.
+    - Question: What is the largest species of penguin?
+      TrueAnswer: Emperor Penguin
+      FalseAnswer:
+      - King Penguin
+      - Adelie Penguin
+      - Gentoo Penguin
+      Explanation: The emperor penguin is the largest species of penguin, with adults
+        reaching heights of up to 4 feet.
+    - Question: Which animal is known for its ability to fly?
+      TrueAnswer: Bat
+      FalseAnswer:
+      - Mouse
+      - Rat
+      - Squirrel
+      Explanation: Bats are the only mammals capable of sustained flight, using their
+        wings to navigate and catch prey.
+    - Question: What is the process by which animals shed their outer layer?
+      TrueAnswer: Molting
+      FalseAnswer:
+      - Hibernation
+      - Metamorphosis
+      - Camouflage
+      Explanation: Molting is the process by which animals shed their outer layer,
+        such as feathers or skin, to allow for growth and repair.
+    - Question: Which animal is known for its ability to climb trees?
+      TrueAnswer: Sloth
+      FalseAnswer:
+      - Kangaroo
+      - Elephant
+      - Horse
+      Explanation: Sloths are known for their slow movement and ability to hang upside
+        down from trees, using their long claws for grip.
+    - Question: What is the largest species of bear?
+      TrueAnswer: Polar Bear
+      FalseAnswer:
+      - Grizzly Bear
+      - Black Bear
+      - Kodiak Bear
+      Explanation: The polar bear is the largest species of bear, with males weighing
+        up to 1,500 pounds.
+    - Question: Which animal is known for its ability to swim upstream to spawn?
+      TrueAnswer: Salmon
+      FalseAnswer:
+      - Tuna
+      - Dolphin
+      - Shark
+      Explanation: Salmon are known for their ability to swim upstream against strong
+        currents to reach their spawning grounds.
+    - Question: What is the process by which plants release water vapor through their
+        leaves?
+      TrueAnswer: Transpiration
+      FalseAnswer:
+      - Photosynthesis
+      - Respiration
+      - Pollination
+      Explanation: Transpiration is the process by which plants release water vapor
+        through their leaves, helping to cool the plant and transport nutrients.
+    - Question: Which animal is known for its ability to glide through the air?
+      TrueAnswer: Flying Squirrel
+      FalseAnswer:
+      - Chipmunk
+      - Rabbit
+      - Hedgehog
+      Explanation: Flying squirrels have a flap of skin called a patagium that allows
+        them to glide through the air between trees.
+    - Question: What is the process by which plants reproduce using pollen and ovules?
+      TrueAnswer: Pollination
+      FalseAnswer:
+      - Germination
+      - Fertilization
+      - Photosynthesis
+      Explanation: Pollination is the process by which pollen is transferred from
+        the male reproductive organs to the female reproductive organs of a plant.
+    - Question: Which animal is known for its ability to regrow its tail?
+      TrueAnswer: Lizard
+      FalseAnswer:
+      - Snake
+      - Frog
+      - Turtle
+      Explanation: Certain species of lizards have the ability to shed and regrow
+        their tails as a defense mechanism.

@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &373721999532116260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 685164840260523725}
+  - component: {fileID: 4383940571154286959}
+  m_Layer: 0
+  m_Name: Science_Geology and Earth's Formation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &685164840260523725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 373721999532116260}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4383940571154286959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 373721999532116260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the process by which rocks, minerals, and sediments are broken
+        down and transported?
+      TrueAnswer: Weathering
+      FalseAnswer:
+      - Erosion
+      - Deposition
+      - Compaction
+      Explanation: Weathering is the process of breaking down rocks, minerals, and
+        sediments into smaller pieces.
+    - Question: What is the term for the movement of Earth's tectonic plates?
+      TrueAnswer: Plate tectonics
+      FalseAnswer:
+      - Volcanism
+      - Erosion
+      - Weathering
+      Explanation: Plate tectonics refers to the movement of Earth's lithospheric
+        plates, causing earthquakes, volcanic activity, and the formation of mountains.
+    - Question: What is the outermost layer of the Earth called?
+      TrueAnswer: Crust
+      FalseAnswer:
+      - Mantle
+      - Core
+      - Asthenosphere
+      Explanation: The crust is the thin, solid outermost layer of the Earth, composed
+        of rocks and minerals.
+    - Question: What is the term for the process of molten rock cooling and solidifying?
+      TrueAnswer: Solidification
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Solidification is the process by which molten rock, or magma,
+        cools and hardens to form solid rock.
+    - Question: What is the term for the process of sediment being laid down in a
+        new location?
+      TrueAnswer: Deposition
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Compaction
+      Explanation: Deposition is the process by which sediment is transported and
+        laid down in a new location, often by wind, water, or ice.
+    - Question: What is the term for the process of compacting sediment into solid
+        rock?
+      TrueAnswer: Compaction
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Compaction is the process by which sediment is squeezed and compressed,
+        removing water and air, and forming solid rock.
+    - Question: What is the term for the process of rocks and minerals being dissolved
+        by water?
+      TrueAnswer: Dissolution
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Dissolution is the process by which rocks and minerals are dissolved
+        and carried away by water.
+    - Question: What is the term for the process of rocks and minerals being broken
+        down by chemical reactions?
+      TrueAnswer: Chemical weathering
+      FalseAnswer:
+      - Physical weathering
+      - Erosion
+      - Deposition
+      Explanation: Chemical weathering is the process by which rocks and minerals
+        are broken down through chemical reactions, altering their composition.
+    - Question: What is the term for the process of rocks and minerals being broken
+        down by physical forces?
+      TrueAnswer: Physical weathering
+      FalseAnswer:
+      - Chemical weathering
+      - Erosion
+      - Deposition
+      Explanation: Physical weathering is the process by which rocks and minerals
+        are broken down through physical forces, such as temperature changes or pressure.
+    - Question: What is the term for the process of sediment being transported by
+        wind, water, or ice?
+      TrueAnswer: Erosion
+      FalseAnswer:
+      - Weathering
+      - Deposition
+      - Compaction
+      Explanation: Erosion is the process by which sediment is transported and moved
+        by wind, water, or ice, wearing away the Earth's surface.
+    - Question: What is the term for the process of rocks and minerals being broken
+        down by living organisms?
+      TrueAnswer: Biological weathering
+      FalseAnswer:
+      - Chemical weathering
+      - Physical weathering
+      - Erosion
+      Explanation: Biological weathering is the process by which rocks and minerals
+        are broken down through the actions of living organisms, such as plants or
+        animals.
+    - Question: What is the term for the process of new rock forming from existing
+        rock?
+      TrueAnswer: Rock cycle
+      FalseAnswer:
+      - Plate tectonics
+      - Weathering
+      - Erosion
+      Explanation: The rock cycle is a continuous process in which rocks are formed,
+        broken down, and reformed through various geological processes.
+    - Question: What is the term for the process of heat and pressure transforming
+        existing rock into new rock?
+      TrueAnswer: Metamorphism
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Metamorphism is the process by which heat and pressure transform
+        existing rock into new rock, often resulting in changes in texture and mineral
+        composition.
+    - Question: What is the term for the process of molten rock reaching the Earth's
+        surface?
+      TrueAnswer: Volcanism
+      FalseAnswer:
+      - Plate tectonics
+      - Weathering
+      - Erosion
+      Explanation: Volcanism is the process by which molten rock, or magma, reaches
+        the Earth's surface, often resulting in volcanic eruptions and the formation
+        of new land.
+    - Question: What is the term for the process of sediment being compacted and
+        cemented together?
+      TrueAnswer: Lithification
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Lithification is the process by which loose sediment is compacted
+        and cemented together, forming solid rock.
+    - Question: What is the term for the process of rocks and minerals being broken
+        down by freezing and thawing?
+      TrueAnswer: Frost wedging
+      FalseAnswer:
+      - Chemical weathering
+      - Physical weathering
+      - Erosion
+      Explanation: Frost wedging is the process by which rocks and minerals are broken
+        down as water freezes and expands in cracks and crevices.
+    - Question: What is the term for the process of sediment being carried away by
+        wind?
+      TrueAnswer: Deflation
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Deflation is the process by which wind removes loose sediment
+        from the Earth's surface, often resulting in the formation of sand dunes.
+    - Question: What is the term for the process of sediment being carried away by
+        water?
+      TrueAnswer: Fluvial erosion
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Fluvial erosion is the process by which water removes and transports
+        sediment, shaping river valleys and creating canyons.
+    - Question: What is the term for the process of sediment being carried away by
+        glaciers?
+      TrueAnswer: Glacial erosion
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Glacial erosion is the process by which glaciers move and transport
+        sediment, carving out valleys and shaping the landscape.
+    - Question: What is the term for the process of sediment being carried away by
+        gravity?
+      TrueAnswer: Mass wasting
+      FalseAnswer:
+      - Weathering
+      - Erosion
+      - Deposition
+      Explanation: Mass wasting is the process by which gravity causes the movement
+        of sediment downslope, resulting in landslides and other mass movements.

@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8152528820417209332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9094413266464859320}
+  - component: {fileID: 1242077891366365970}
+  m_Layer: 0
+  m_Name: Famous Quotes_Sports Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9094413266464859320
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8152528820417209332}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1242077891366365970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8152528820417209332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'I've failed over and over and over again in my life. And
+        that is why I succeed.'?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Jordan, widely regarded as the greatest basketball player
+        of all time, emphasized the importance of learning from failure.
+    - Question: Which athlete said 'You miss 100% of the shots you don't take.'?
+      TrueAnswer: Wayne Gretzky
+      FalseAnswer:
+      - Michael Phelps
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Wayne Gretzky, a legendary ice hockey player, highlighted the
+        significance of taking risks and seizing opportunities.
+    - Question: Who famously said 'It's not whether you get knocked down, it's whether
+        you get up.'?
+      TrueAnswer: Vince Lombardi
+      FalseAnswer:
+      - Tom Brady
+      - Peyton Manning
+      - Joe Montana
+      Explanation: Vince Lombardi, a renowned football coach, emphasized resilience
+        and the ability to bounce back from setbacks.
+    - Question: Which sports figure said 'I've never lost a game. I just ran out
+        of time.'?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - Tom Brady
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Michael Jordan, known for his competitive spirit, expressed his
+        belief in always giving his best effort.
+    - Question: Who said 'The only way to prove that you're a good sport is to lose.'?
+      TrueAnswer: Ernie Banks
+      FalseAnswer:
+      - Muhammad Ali
+      - Tiger Woods
+      - Serena Williams
+      Explanation: Ernie Banks, a baseball Hall of Famer, emphasized the importance
+        of sportsmanship and humility in defeat.
+    - Question: Which athlete said 'I've learned that something constructive comes
+        from every defeat.'?
+      TrueAnswer: Tom Landry
+      FalseAnswer:
+      - Michael Phelps
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Tom Landry, a successful football coach, believed that setbacks
+        provide valuable lessons and opportunities for growth.
+    - Question: Who famously said 'It ain't over till it's over.'?
+      TrueAnswer: Yogi Berra
+      FalseAnswer:
+      - Michael Jordan
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Yogi Berra, a baseball legend, highlighted the importance of perseverance
+        and not giving up prematurely.
+    - Question: Which sports figure said 'The harder the battle, the sweeter the
+        victory.'?
+      TrueAnswer: Leslie Nielsen
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Leslie Nielsen, a former professional basketball player, emphasized
+        the satisfaction that comes from overcoming challenges.
+    - Question: Who said 'You can't put a limit on anything. The more you dream,
+        the farther you get.'?
+      TrueAnswer: Michael Phelps
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Phelps, the most decorated Olympian of all time, encouraged
+        the pursuit of ambitious goals and dreams.
+    - Question: Which athlete said 'I've failed over and over and over again in my
+        life. And that is why I succeed.'?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Jordan, widely regarded as the greatest basketball player
+        of all time, emphasized the importance of learning from failure.
+    - Question: Who famously said 'You miss 100% of the shots you don't take.'?
+      TrueAnswer: Wayne Gretzky
+      FalseAnswer:
+      - Michael Phelps
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Wayne Gretzky, a legendary ice hockey player, highlighted the
+        significance of taking risks and seizing opportunities.
+    - Question: Which sports figure said 'It's not whether you get knocked down,
+        it's whether you get up.'?
+      TrueAnswer: Vince Lombardi
+      FalseAnswer:
+      - Tom Brady
+      - Peyton Manning
+      - Joe Montana
+      Explanation: Vince Lombardi, a renowned football coach, emphasized resilience
+        and the ability to bounce back from setbacks.
+    - Question: Who said 'I've never lost a game. I just ran out of time.'?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - Tom Brady
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Michael Jordan, known for his competitive spirit, expressed his
+        belief in always giving his best effort.
+    - Question: Which athlete said 'The only way to prove that you're a good sport
+        is to lose.'?
+      TrueAnswer: Ernie Banks
+      FalseAnswer:
+      - Muhammad Ali
+      - Tiger Woods
+      - Serena Williams
+      Explanation: Ernie Banks, a baseball Hall of Famer, emphasized the importance
+        of sportsmanship and humility in defeat.
+    - Question: Who said 'I've learned that something constructive comes from every
+        defeat.'?
+      TrueAnswer: Tom Landry
+      FalseAnswer:
+      - Michael Phelps
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Tom Landry, a successful football coach, believed that setbacks
+        provide valuable lessons and opportunities for growth.
+    - Question: Who famously said 'It ain't over till it's over.'?
+      TrueAnswer: Yogi Berra
+      FalseAnswer:
+      - Michael Jordan
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Yogi Berra, a baseball legend, highlighted the importance of perseverance
+        and not giving up prematurely.
+    - Question: Which sports figure said 'The harder the battle, the sweeter the
+        victory.'?
+      TrueAnswer: Leslie Nielsen
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Leslie Nielsen, a former professional basketball player, emphasized
+        the satisfaction that comes from overcoming challenges.
+    - Question: Who said 'You can't put a limit on anything. The more you dream,
+        the farther you get.'?
+      TrueAnswer: Michael Phelps
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Phelps, the most decorated Olympian of all time, encouraged
+        the pursuit of ambitious goals and dreams.
+    - Question: Which athlete said 'I've failed over and over and over again in my
+        life. And that is why I succeed.'?
+      TrueAnswer: Michael Jordan
+      FalseAnswer:
+      - LeBron James
+      - Kobe Bryant
+      - Magic Johnson
+      Explanation: Michael Jordan, widely regarded as the greatest basketball player
+        of all time, emphasized the importance of learning from failure.
+    - Question: Who famously said 'You miss 100% of the shots you don't take.'?
+      TrueAnswer: Wayne Gretzky
+      FalseAnswer:
+      - Michael Phelps
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Wayne Gretzky, a legendary ice hockey player, highlighted the
+        significance of taking risks and seizing opportunities.
+    - Question: Which sports figure said 'It's not whether you get knocked down,
+        it's whether you get up.'?
+      TrueAnswer: Vince Lombardi
+      FalseAnswer:
+      - Tom Brady
+      - Peyton Manning
+      - Joe Montana
+      Explanation: Vince Lombardi, a renowned football coach, emphasized resilience
+        and the ability to bounce back from setbacks.

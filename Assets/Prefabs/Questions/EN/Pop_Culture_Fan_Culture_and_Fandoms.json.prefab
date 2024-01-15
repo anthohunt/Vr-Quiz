@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1687839182281772144
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4593752270309661725}
+  - component: {fileID: 1526046101331481473}
+  m_Layer: 0
+  m_Name: Pop_Culture_Fan_Culture_and_Fandoms.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4593752270309661725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687839182281772144}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1526046101331481473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687839182281772144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is known as the 'Merc with a Mouth'?
+      TrueAnswer: Deadpool
+      FalseAnswer:
+      - Wolverine
+      - Iron Man
+      - Thor
+      Explanation: Deadpool is a fictional antihero character in Marvel Comics known
+        for his sarcastic humor and breaking the fourth wall.
+    - Question: Which Harry Potter house does Luna Lovegood belong to?
+      TrueAnswer: Ravenclaw
+      FalseAnswer:
+      - Hufflepuff
+      - Gryffindor
+      - Slytherin
+      Explanation: Luna Lovegood is a unique and open-minded character, traits commonly
+        associated with Ravenclaw house at Hogwarts School of Witchcraft and Wizardry.
+    - Question: What are fans of the TV show 'Sherlock' called?
+      TrueAnswer: Sherlockians
+      FalseAnswer:
+      - Whovians
+      - Browncoats
+      - Trekkies
+      Explanation: Sherlockians are the dedicated fanbase of the 'Sherlock' TV show,
+        following the exploits of the brilliant detective Sherlock Holmes.
+    - Question: Which fictional world is the setting for 'The Lord of the Rings'?
+      TrueAnswer: Middle-earth
+      FalseAnswer:
+      - Narnia
+      - Westeros
+      - Hogwarts
+      Explanation: Middle-earth is the primary setting for J.R.R. Tolkien's epic
+        fantasy series, including 'The Hobbit' and 'The Lord of the Rings'.
+    - Question: Who is the creator of the animated TV series 'The Simpsons'?
+      TrueAnswer: Matt Groening
+      FalseAnswer:
+      - Seth MacFarlane
+      - Mike Judge
+      - Trey Parker
+      Explanation: Matt Groening is best known for creating 'The Simpsons', which
+        has become a cultural phenomenon and the longest-running American sitcom.
+    - Question: In the TV show 'Doctor Who', what is the Doctor's TARDIS disguised
+        as?
+      TrueAnswer: Police Box
+      FalseAnswer:
+      - Phone Booth
+      - Taxi
+      - Bathroom
+      Explanation: The TARDIS, a time-traveling spaceship, is disguised as a British
+        police box due to a malfunctioning chameleon circuit.
+    - Question: Who is the lead singer of the band Queen?
+      TrueAnswer: Freddie Mercury
+      FalseAnswer:
+      - Jon Bon Jovi
+      - Mick Jagger
+      - Bono
+      Explanation: Freddie Mercury was the charismatic frontman of Queen, known for
+        his powerful voice and stage presence.
+    - Question: Which fictional character is known for saying 'To infinity and beyond'?
+      TrueAnswer: Buzz Lightyear
+      FalseAnswer:
+      - Woody
+      - Sulley
+      - Dory
+      Explanation: Buzz Lightyear is a space ranger action figure and one of the
+        main characters in Pixar's 'Toy Story' film series.
+    - Question: What is the official language of the fictional world of 'Star Trek'?
+      TrueAnswer: Federation Standard
+      FalseAnswer:
+      - Vulcan
+      - Klingon
+      - Bajoran
+      Explanation: Federation Standard, also known as Galactic Standard, is the official
+        common language used by the Federation and is seen in various 'Star Trek'
+        series and films.
+    - Question: Which DC Comics character is known for using a magical lasso?
+      TrueAnswer: Wonder Woman
+      FalseAnswer:
+      - Supergirl
+      - Black Canary
+      - Harley Quinn
+      Explanation: Wonder Woman wields the Lasso of Truth, which compels anyone bound
+        by it to tell the truth in DC Comics lore.

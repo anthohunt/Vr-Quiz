@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the most widely used programming language?",
+            "TrueAnswer": "Python",
+            "FalseAnswer": [
+              "Java",
+              "C++",
+              "JavaScript"
+            ],
+            "Explanation": "Python has gained popularity due to its simplicity, readability, and versatility, making it widely used in web development, data analysis, and artificial intelligence."
+          },
+          {
+            "Question": "What does 'RAM' stand for in computing?",
+            "TrueAnswer": "Random Access Memory",
+            "FalseAnswer": [
+              "Read-Only Memory",
+              "Runtime Analysis Module",
+              "Remote Access Modem"
+            ],
+            "Explanation": "RAM is a type of computer memory that is used to temporarily store data that is being actively used or worked on."
+          },
+          {
+            "Question": "Which company created the Java programming language?",
+            "TrueAnswer": "Sun Microsystems",
+            "FalseAnswer": [
+              "Microsoft",
+              "Oracle",
+              "IBM"
+            ],
+            "Explanation": "Java was developed by Sun Microsystems in 1995 and is now owned by Oracle Corporation after the acquisition of Sun in 2010."
+          },
+          {
+            "Question": "What does HTML stand for in web development?",
+            "TrueAnswer": "HyperText Markup Language",
+            "FalseAnswer": [
+              "Highly Tuned Media Library",
+              "Hostile Takeover Manipulation Language",
+              "Hypnotic Text Manipulation Logic"
+            ],
+            "Explanation": "HTML is the standard markup language for creating web pages and web applications. It defines the structure and layout of content on the World Wide Web."
+          },
+          {
+            "Question": "Which of the following is a frontend programming language?",
+            "TrueAnswer": "JavaScript",
+            "FalseAnswer": [
+              "PHP",
+              "Python",
+              "Ruby"
+            ],
+            "Explanation": "JavaScript is a scripting language used for creating interactive and dynamic elements on websites, making it a fundamental part of frontend web development."
+          },
+          {
+            "Question": "What does VPN stand for in networking?",
+            "TrueAnswer": "Virtual Private Network",
+            "FalseAnswer": [
+              "Very Public Network",
+              "Volatile Personal Network",
+              "Virtual Protocol Node"
+            ],
+            "Explanation": "A VPN extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network."
+          },
+          {
+            "Question": "Which cloud computing platform is developed by Microsoft?",
+            "TrueAnswer": "Azure",
+            "FalseAnswer": [
+              "AWS",
+              "Google Cloud Platform",
+              "Salesforce"
+            ],
+            "Explanation": "Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers."
+          },
+          {
+            "Question": "What is the maximum transmission speed of USB 3.0?",
+            "TrueAnswer": "5 Gbps",
+            "FalseAnswer": [
+              "10 Gbps",
+              "2 Gbps",
+              "1 Gbps"
+            ],
+            "Explanation": "USB 3.0 has a SuperSpeed mode with a maximum transmission speed of 5 Gbps, while USB 3.1 and USB 3.2 offer higher speeds of 10 Gbps and 20 Gbps respectively."
+          },
+          {
+            "Question": "What is the primary function of a router in a network?",
+            "TrueAnswer": "Routing packets",
+            "FalseAnswer": [
+              "Generating power",
+              "Operating web servers",
+              "Encrypting data"
+            ],
+            "Explanation": "A router is a networking device that forwards data packets between computer networks. It performs routing functions to direct the data packets to their intended destinations."
+          },
+          {
+            "Question": "Which type of malware disguises itself as legitimate software?",
+            "TrueAnswer": "Trojan",
+            "FalseAnswer": [
+              "Worm",
+              "Virus",
+              "Ransomware"
+            ],
+            "Explanation": "A Trojan horse, or Trojan, is a type of malware that disguises itself as legitimate software to trick users into installing it, allowing unauthorized access to the user's system."
+          },
+          {
+            "Question": "What is the term for a software that is distributed for free?",
+            "TrueAnswer": "Freeware",
+            "FalseAnswer": [
+              "Shareware",
+              "Open source",
+              "Public domain"
+            ],
+            "Explanation": "Freeware refers to software that is available for use at no cost or for an optional fee, often with limited functionality or restrictions on distribution."
+          },
+          {
+            "Question": "Which wireless communication technology is used for short-range data transfer?",
+            "TrueAnswer": "Bluetooth",
+            "FalseAnswer": [
+              "Wi-Fi",
+              "NFC",
+              "LTE"
+            ],
+            "Explanation": "Bluetooth technology is commonly used for short-range wireless communication between devices, such as smartphones, tablets, and wireless headphones."
+          },
+          {
+            "Question": "What is the purpose of a firewall in network security?",
+            "TrueAnswer": "Block unauthorized access",
+            "FalseAnswer": [
+              "Accelerate network speed",
+              "Filter spam emails",
+              "Encrypt data transmissions"
+            ],
+            "Explanation": "A firewall acts as a barrier between a trusted internal network and untrusted external networks, filtering network traffic to prevent unauthorized access while allowing legitimate communication."
+          },
+          {
+            "Question": "Which type of software is designed to damage or disrupt computer systems?",
+            "TrueAnswer": "Malware",
+            "FalseAnswer": [
+              "Adware",
+              "Spyware",
+              "Bloatware"
+            ],
+            "Explanation": "Malware is malicious software designed to harm computer systems, steal data, or disrupt operations, often including virus, worms, Trojans, ransomware, and spyware."
+          },
+          {
+            "Question": "What technology enables the creation of decentralized digital currencies?",
+            "TrueAnswer": "Blockchain",
+            "FalseAnswer": [
+              "Artificial Intelligence",
+              "Quantum Computing",
+              "Augmented Reality"
+            ],
+            "Explanation": "Blockchain is a distributed ledger technology that enables the secure and transparent recording of transactions across a network of computers, forming the foundation of cryptocurrencies like Bitcoin and Ethereum."
+          },
+          {
+            "Question": "Which type of database management system uses tables with predefined columns?",
+            "TrueAnswer": "Relational",
+            "FalseAnswer": [
+              "NoSQL",
+              "Object-oriented",
+              "Graph"
+            ],
+            "Explanation": "Relational databases organize data into tables with predefined columns and rows, using structured query language (SQL) for querying and managing the data."
+          },
+          {
+            "Question": "What technology allows virtualization of computing resources?",
+            "TrueAnswer": "Hypervisor",
+            "FalseAnswer": [
+              "Router",
+              "Firewall",
+              "Modem"
+            ],
+            "Explanation": "A hypervisor is a software or firmware that creates and runs virtual machines, enabling the virtualization of computing resources such as processing power, memory, and storage."
+          },
+          {
+            "Question": "What is the standard data communication protocol used for sending emails?",
+            "TrueAnswer": "SMTP",
+            "FalseAnswer": [
+              "HTTP",
+              "FTP",
+              "XML"
+            ],
+            "Explanation": "Simple Mail Transfer Protocol (SMTP) is the standard protocol for sending emails over the Internet, defining the format and transmission rules for electronic mail."
+          },
+          {
+            "Question": "Which technology is used to identify individuals based on unique biological characteristics?",
+            "TrueAnswer": "Biometrics",
+            "FalseAnswer": [
+              "RFID",
+              "NFC",
+              "QR code"
+            ],
+            "Explanation": "Biometric technology uses physiological or behavioral characteristics, such as fingerprints, iris patterns, or voice recognition, for identification and authentication purposes, providing secure access control."
+          },
+          {
+            "Question": "What is the primary purpose of a domain name system (DNS)?",
+            "TrueAnswer": "Translate domain names to IP addresses",
+            "FalseAnswer": [
+              "Encrypt website data",
+              "Authenticate user identities",
+              "Block phishing emails"
+            ],
+            "Explanation": "DNS is a decentralized naming system that converts domain names into IP addresses, enabling users to access websites using easy-to-remember domain names instead of complex IP addresses."
+          }
+        ]
+      }
+    }
+  ]
+}

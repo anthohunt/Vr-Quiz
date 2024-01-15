@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1840482123087305297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5731903751497811241}
+  - component: {fileID: 2207586872172211399}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Friendship_and_Relationships_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5731903751497811241
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1840482123087305297}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2207586872172211399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1840482123087305297}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'A real friend is one who walks in when the rest of the
+        world walks out'?
+      TrueAnswer: Walter Winchell
+      FalseAnswer:
+      - Maya Angelou
+      - Helen Keller
+      - Oprah Winfrey
+      Explanation: Walter Winchell, a famous newspaper and radio gossip commentator,
+        is credited with this enduring quote about the loyalty of real friends.
+    - Question: Which historical figure coined the phrase, 'A friend in need is a
+        friend indeed'?
+      TrueAnswer: King Solomon
+      FalseAnswer:
+      - William Shakespeare
+      - Abraham Lincoln
+      - Socrates
+      Explanation: The origin of this proverb can be traced back to King Solomon's
+        proverbs in the Old Testament, emphasizing the value of dependable friends.
+    - Question: Who is known for saying, 'There is nothing on this earth more to
+        be prized than true friendship'?
+      TrueAnswer: Thomas Aquinas
+      FalseAnswer:
+      - Ralph Waldo Emerson
+      - Confucius
+      - Jane Austen
+      Explanation: Thomas Aquinas, an influential theologian and philosopher of the
+        Medieval period, advocated for the immense value of genuine friendship in
+        human life.
+    - Question: Which renowned author wrote, 'It is not a lack of love, but a lack
+        of friendship that makes unhappy marriages'?
+      TrueAnswer: Friedrich Nietzsche
+      FalseAnswer:
+      - Jane Austen
+      - Leo Tolstoy
+      - Mark Twain
+      Explanation: This insightful perspective on the significance of friendship
+        within marriage is attributed to the influential German philosopher Friedrich
+        Nietzsche.
+    - Question: Who is attributed with the quote, 'Friendship is born at that moment
+        when one person says to another, 'What! You too? I thought I was the only
+        one'?
+      TrueAnswer: C.S. Lewis
+      FalseAnswer:
+      - Maya Angelou
+      - Ernest Hemingway
+      - Virginia Woolf
+      Explanation: This statement, capturing the essence of genuine connection in
+        friendship, is famously linked to the renowned author and theologian C.S.
+        Lewis.
+    - Question: Which philosopher expressed, 'Wishing to be friends is quick work,
+        but friendship is a slow ripening fruit'?
+      TrueAnswer: Aristotle
+      FalseAnswer:
+      - Plato
+      - Socrates
+      - Nietzsche
+      Explanation: Aristotle, the great Greek philosopher, emphasized the gradual
+        development and nurturing required for the deep and meaningful bond of true
+        friendship.
+    - Question: Who penned the words, 'There are no strangers here; Only friends
+        you haven't yet met'?
+      TrueAnswer: William Butler Yeats
+      FalseAnswer:
+      - Pablo Neruda
+      - Emily Dickinson
+      - Robert Frost
+      Explanation: Irish poet William Butler Yeats captured the essence of warm hospitality
+        and inclusivity through this poetic expression about the potential for friendship
+        in every encounter.
+    - Question: Which historical figure indicated, 'Friendship is the only cement
+        that will ever hold the world together'?
+      TrueAnswer: Woodrow Wilson
+      FalseAnswer:
+      - Winston Churchill
+      - Napoleon Bonaparte
+      - Benjamin Franklin
+      Explanation: This sentiment, emphasizing the unifying force of friendship,
+        is often associated with Woodrow Wilson, the 28th President of the United
+        States.
+    - Question: Who famously iterated, 'Love is the only force capable of transforming
+        an enemy into a friend'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Nelson Mandela
+      - Mahatma Gandhi
+      - Mother Teresa
+      Explanation: The profound words of Martin Luther King Jr. highlight the transcendent
+        power of love in transcending animosity and fostering friendship.
+    - Question: Which iconic literary figure emphasized, 'A single rose can be my
+        garden... a single friend, my world'?
+      TrueAnswer: Leo Buscaglia
+      FalseAnswer:
+      - George Bernard Shaw
+      - Virginia Woolf
+      - Sylvia Plath
+      Explanation: Renowned author and motivational speaker Leo Buscaglia conveyed
+        the immense value of genuine friendship through this evocative analogy.
+    - Question: Who is credited with proclaiming, 'The greatest healing therapy is
+        friendship and love'?
+      TrueAnswer: Hubert H. Humphrey
+      FalseAnswer:
+      - Eleanor Roosevelt
+      - John F. Kennedy
+      - Nelson Mandela
+      Explanation: Hubert H. Humphrey, the 38th Vice President of the United States,
+        emphasized the profound and rejuvenating effects of genuine friendship and
+        love in this statement.
+    - Question: Which renowned philosopher conveyed, 'A friend is a second self'?
+      TrueAnswer: Aristotle
+      FalseAnswer:
+      - Socrates
+      - Plato
+      - Epictetus
+      Explanation: This profound notion of friendship as a mirror image of the self
+        is attributed to the influential Greek philosopher Aristotle.
+    - Question: Who articulated, 'Friendship marks a life even more deeply than love.
+        Love risks degenerating into obsession, friendship is never anything but
+        sharing'?
+      TrueAnswer: Elie Wiesel
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - Haruki Murakami
+      - Virginia Woolf
+      Explanation: Nobel laureate and Holocaust survivor Elie Wiesel delved into
+        the profound impact of friendship, contrasting it with the potential pitfalls
+        of love.
+    - Question: Which renowned poet expressed, 'Friendship is the shadow of the evening,
+        which increases with the setting sun of life'?
+      TrueAnswer: Jean de La Fontaine
+      FalseAnswer:
+      - John Keats
+      - Emily Dickinson
+      - Edgar Allan Poe
+      Explanation: Jean de La Fontaine, the eminent French poet, conveyed the deepening
+        and enriching nature of friendship as life progresses through this metaphorical
+        expression.
+    - Question: Who is known for asserting, 'Absence makes the heart grow fonder,
+        but it sure makes the rest of you lonely'?
+      TrueAnswer: Charles M. Schulz
+      FalseAnswer:
+      - Ernest Hemingway
+      - Maya Angelou
+      - Mark Twain
+      Explanation: The creator of the beloved 'Peanuts' comic strip, Charles M. Schulz,
+        wittily captured the bittersweet reality of the emotional impact of absence
+        in this relatable quote.
+    - Question: Which literary legend expressed, 'A true friend is someone who is
+        there for you when they would rather be anywhere else'?
+      TrueAnswer: Len Wein
+      FalseAnswer:
+      - George R.R. Martin
+      - J.K. Rowling
+      - Harper Lee
+      Explanation: Renowned comic book writer and editor Len Wein provided this poignant
+        and relatable definition of true friendship through his impactful words.
+    - Question: Who advocated for the idea that, 'In the end, we will remember not
+        the words of our enemies, but the silence of our friends'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Nelson Mandela
+      - Malala Yousafzai
+      - Mahatma Gandhi
+      Explanation: Martin Luther King Jr., in his written works and speeches, highlighted
+        the profound impact of the support or lack thereof from friends during challenging
+        times.
+    - Question: Which prolific writer expressed, 'A friend is one of the nicest things
+        you can have, and one of the best things you can be'?
+      TrueAnswer: Douglas Pagels
+      FalseAnswer:
+      - Maya Angelou
+      - Mark Twain
+      - Virginia Woolf
+      Explanation: The sentiment of genuine friendship as a precious gift and a noble
+        aspect of one's character is poignantly conveyed by author Douglas Pagels.
+    - Question: Who articulated, 'A friend is someone who knows all about you and
+        still loves you'?
+      TrueAnswer: Elbert Hubbard
+      FalseAnswer:
+      - Maya Angelou
+      - Winston Churchill
+      - Jane Austen
+      Explanation: The profound sentiment regarding unconditional love and acceptance
+        in true friendship is attributed to influential writer and philosopher Elbert
+        Hubbard.
+    - Question: Which literary figure conveyed, 'A true soul mate is a mirror, the
+        person who shows you everything that is holding you back'?
+      TrueAnswer: Elizabeth Gilbert
+      FalseAnswer:
+      - Harper Lee
+      - Khaled Hosseini
+      - Alice Walker
+      Explanation: Author Elizabeth Gilbert, in her celebrated work 'Eat, Pray, Love',
+        shared this profound reflection on the role of a true soul mate in growth
+        and self-awareness.

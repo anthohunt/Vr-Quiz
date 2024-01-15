@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la dimension de l'espace nul d'une matrice 3x5?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "3",
+              "8",
+              "2"
+            ],
+            "Explanation": "La dimension de l'espace nul d'une matrice 3x5 est égale au nombre de variables libres, qui est de 5."
+          },
+          {
+            "Question": "Dans une matrice 2x2, à quoi est égal la trace?",
+            "TrueAnswer": "Somme des éléments diagonaux",
+            "FalseAnswer": [
+              "Déterminant",
+              "Produit des éléments non diagonaux",
+              "Inverse"
+            ],
+            "Explanation": "La trace d'une matrice 2x2 est la somme de ses éléments diagonaux, ce qui correspond à la somme des valeurs propres."
+          },
+          {
+            "Question": "Quel est le déterminant d'une matrice singulière?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "1",
+              "-1",
+              "Non nul"
+            ],
+            "Explanation": "Une matrice singulière a un déterminant de 0, indiquant que la matrice n'est pas inversible et que ses colonnes sont linéairement dépendantes."
+          },
+          {
+            "Question": "Quel est le rang d'une matrice identité 4x4?",
+            "TrueAnswer": "4",
+            "FalseAnswer": [
+              "0",
+              "1",
+              "2"
+            ],
+            "Explanation": "Le rang d'une matrice identité est égal à son nombre de lignes (ou de colonnes), qui est dans ce cas de 4."
+          },
+          {
+            "Question": "Quel est le validité d'une valeur propre d'une matrice 3x3?",
+            "TrueAnswer": "-2",
+            "FalseAnswer": [
+              "1",
+              "0",
+              "5"
+            ],
+            "Explanation": "Les valeurs propres d'une matrice satisfont l'équation caractéristique, et dans une matrice 3x3, -2 est une valeur propre potentielle."
+          },
+          {
+            "Question": "Quel est le déterminant de la transposée d'une matrice carrée?",
+            "TrueAnswer": "Identique à la matrice d'origine",
+            "FalseAnswer": [
+              "Réciproque",
+              "Négatif",
+              "Dépend de la matrice"
+            ],
+            "Explanation": "Le déterminant d'une matrice transposée est égal au déterminant de la matrice d'origine, quelle que soit sa taille."
+          },
+          {
+            "Question": "Quelle est la solution à un système homogène d'équations linéaires avec une solution unique?",
+            "TrueAnswer": "Vecteur nul",
+            "FalseAnswer": [
+              "Matrice identité",
+              "Solutions infinies",
+              "Vecteur non nul"
+            ],
+            "Explanation": "Dans un système homogène avec une solution unique, la seule solution est le vecteur nul, ce qui correspond à toutes les variables étant 0."
+          },
+          {
+            "Question": "Quel est le rang de la matrice de coefficients A dans un système consistant Ax=b?",
+            "TrueAnswer": "Nombre de colonnes pivot",
+            "FalseAnswer": [
+              "0",
+              "Déterminant",
+              "Lignes de A"
+            ],
+            "Explanation": "Le rang de la matrice de coefficients A dans un système consistant Ax=b est égal au nombre de colonnes pivot, ce qui détermine la dimension de l'espace solution."
+          },
+          {
+            "Question": "Quel est vrai à propos du déterminant du produit de matrices?",
+            "TrueAnswer": "Produit de leurs déterminants",
+            "FalseAnswer": [
+              "Somme de leurs déterminants",
+              "Inverse du déterminant",
+              "Dépend des matrices"
+            ],
+            "Explanation": "Le déterminant du produit de matrices est égal au produit de leurs déterminants individuels, à condition qu'il s'agisse de matrices carrées de même taille."
+          },
+          {
+            "Question": "Quelle est la dimension de l'espace colonne d'une matrice 4x7?",
+            "TrueAnswer": "Au plus 4",
+            "FalseAnswer": [
+              "Au moins 7",
+              "Exactement 7",
+              "Au plus 7"
+            ],
+            "Explanation": "La dimension de l'espace colonne est au plus le nombre de colonnes dans la matrice, qui dans ce cas est 7, mais elle peut être moins en fonction des dépendances linéaires."
+          },
+          {
+            "Question": "Quelle est la solution à un système inconsistant d'équations linéaires?",
+            "TrueAnswer": "Aucune solution",
+            "FalseAnswer": [
+              "Solution unique",
+              "Solutions infinies",
+              "Vecteur nul"
+            ],
+            "Explanation": "Un système inconsistant d'équations linéaires n'a pas de solution, ce qui indique que les équations sont contradictoires et ne peuvent pas être satisfaites simultanément."
+          },
+          {
+            "Question": "Quel est le rang de la matrice après avoir effectué des opérations sur ses lignes?",
+            "TrueAnswer": "Inchangé",
+            "FalseAnswer": [
+              "Diminué",
+              "Augmenté",
+              "Devient zéro"
+            ],
+            "Explanation": "Effectuer des opérations sur les lignes ne change pas le rang d'une matrice, car les opérations sur les lignes préservent l'espace ligne et les relations linéaires entre ses lignes."
+          },
+          {
+            "Question": "Quelle est la solution à un système d'équations linéaires si le déterminant de la matrice de coefficients est zéro?",
+            "TrueAnswer": "Soit aucune solution, soit des solutions infinies",
+            "FalseAnswer": [
+              "Solution unique",
+              "Vecteur nul",
+              "Matrice identité"
+            ],
+            "Explanation": "Si le déterminant de la matrice de coefficients est zéro, le système peut soit ne pas avoir de solution, soit avoir des solutions infinies, en fonction de la consistance du système."
+          },
+          {
+            "Question": "Qu'est-ce qu'un vecteur propre d'une matrice A?",
+            "TrueAnswer": "Vecteur non nul v",
+            "FalseAnswer": [
+              "Vecteur nul",
+              "Espace colonne de A",
+              "Transposée de A"
+            ],
+            "Explanation": "Un vecteur propre d'une matrice A est un vecteur non nul v tel que lorsqu'il est multiplié par A, il donne une version mise à l'échelle de lui-même, représentée par Av = λv."
+          },
+          {
+            "Question": "Quel est vrai à propos de l'inverse d'une matrice non singulière?",
+            "TrueAnswer": "Existe et est unique",
+            "FalseAnswer": [
+              "N'existe pas",
+              "Dépend de la matrice",
+              "Toujours symétrique"
+            ],
+            "Explanation": "Une matrice non singulière a un inverse qui existe et est unique, ce qui permet de résoudre des équations linéaires impliquant la matrice."
+          },
+          {
+            "Question": "Quel est le déterminant de la matrice nulle?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "1",
+              "-1",
+              "Dépend de la taille"
+            ],
+            "Explanation": "Le déterminant d'une matrice nulle, quelle que soit sa taille, est toujours 0 en raison de l'absence de valeurs propres non nulles et de singularités."
+          },
+          {
+            "Question": "Quel est le rang d'une matrice 3x4 avec des colonnes linéairement indépendantes?",
+            "TrueAnswer": "3",
+            "FalseAnswer": [
+              "4",
+              "0",
+              "1"
+            ],
+            "Explanation": "Si une matrice 3x4 a des colonnes linéairement indépendantes, son rang est égal au nombre de colonnes linéairement indépendantes, qui est de 3 dans ce cas."
+          },
+          {
+            "Question": "Quelle est la relation entre l'espace ligne et l'espace nul d'une matrice?",
+            "TrueAnswer": "Compléments orthogonaux",
+            "FalseAnswer": [
+              "Même espace",
+              "Espaces dépendants",
+              "Espaces perpendiculaires"
+            ],
+            "Explanation": "L'espace ligne et l'espace nul d'une matrice sont des compléments orthogonaux, ce qui signifie qu'ils n'ont pas d'intersection non triviale et qu'ils recouvrent tout l'espace."
+          },
+          {
+            "Question": "Comment le déterminant d'une matrice triangulaire est-il lié à ses entrées diagonales?",
+            "TrueAnswer": "Produit des entrées diagonales",
+            "FalseAnswer": [
+              "Somme des entrées diagonales",
+              "Déterminant est zéro",
+              "Augmente avec la taille"
+            ],
+            "Explanation": "Le déterminant d'une matrice triangulaire est égal au produit de ses entrées diagonales, une propriété valable pour les matrices triangulaires supérieures et inférieures."
+          },
+          {
+            "Question": "Quelle est la valeur propre d'une matrice triangulaire?",
+            "TrueAnswer": "Ses entrées diagonales",
+            "FalseAnswer": [
+              "Zéro",
+              "Nombre aléatoire",
+              "1"
+            ],
+            "Explanation": "Les valeurs propres d'une matrice triangulaire sont simplement ses entrées diagonales, car le polynôme caractéristique équivaut au produit des entrées diagonales de (A-λI)."
+          }
+        ]
+      }
+    }
+  ]
+}

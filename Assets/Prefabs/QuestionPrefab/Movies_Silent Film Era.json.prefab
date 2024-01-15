@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7755752011729388412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 982677145406032771}
+  - component: {fileID: 2354625398073939224}
+  m_Layer: 0
+  m_Name: Movies_Silent Film Era.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &982677145406032771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7755752011729388412}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2354625398073939224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7755752011729388412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the first major silent film star?
+      TrueAnswer: Charlie Chaplin
+      FalseAnswer:
+      - Buster Keaton
+      - Mary Pickford
+      - Greta Garbo
+      Explanation: Charlie Chaplin is widely regarded as the first major silent film
+        star, known for his iconic character 'The Tramp'.
+    - Question: Which silent film is known for its groundbreaking special effects?
+      TrueAnswer: Metropolis
+      FalseAnswer:
+      - The Birth of a Nation
+      - Nosferatu
+      - The Cabinet of Dr. Caligari
+      Explanation: Metropolis, directed by Fritz Lang, is renowned for its innovative
+        use of special effects and futuristic cityscape.
+    - Question: Who directed the silent film 'The General'?
+      TrueAnswer: Buster Keaton
+      FalseAnswer:
+      - Charlie Chaplin
+      - D.W. Griffith
+      - F.W. Murnau
+      Explanation: Buster Keaton directed and starred in 'The General', a silent
+        comedy considered one of the greatest films of all time.
+    - Question: Which silent film is based on Bram Stoker's 'Dracula'?
+      TrueAnswer: Nosferatu
+      FalseAnswer:
+      - The Phantom of the Opera
+      - The Hunchback of Notre Dame
+      - The Cabinet of Dr. Caligari
+      Explanation: '''Nosferatu'', directed by F.W. Murnau, is an unauthorized adaptation
+        of ''Dracula'' and a classic of German Expressionist cinema.'
+    - Question: Who was the first woman to win an Academy Award for Best Actress?
+      TrueAnswer: Janet Gaynor
+      FalseAnswer:
+      - Mary Pickford
+      - Greta Garbo
+      - Lillian Gish
+      Explanation: Janet Gaynor won the first Academy Award for Best Actress in 1929
+        for her performances in three silent films.
+    - Question: Which silent film is known for its use of surreal and distorted sets?
+      TrueAnswer: The Cabinet of Dr. Caligari
+      FalseAnswer:
+      - The Birth of a Nation
+      - Metropolis
+      - 'Sunrise: A Song of Two Humans'
+      Explanation: '''The Cabinet of Dr. Caligari'', directed by Robert Wiene, is
+        a German Expressionist film with distinctive visual style.'
+    - Question: 'Who directed the silent film ''Sunrise: A Song of Two Humans''?'
+      TrueAnswer: F.W. Murnau
+      FalseAnswer:
+      - Buster Keaton
+      - Charlie Chaplin
+      - D.W. Griffith
+      Explanation: 'F.W. Murnau directed ''Sunrise: A Song of Two Humans'', a silent
+        film known for its poetic and emotional storytelling.'
+    - Question: Which silent film is considered the first feature-length horror film?
+      TrueAnswer: The Cabinet of Dr. Caligari
+      FalseAnswer:
+      - Nosferatu
+      - The Phantom of the Opera
+      - The Hunchback of Notre Dame
+      Explanation: '''The Cabinet of Dr. Caligari'' is often credited as the first
+        feature-length horror film, influencing the genre for years to come.'
+    - Question: Who was known as 'America's Sweetheart' during the silent film era?
+      TrueAnswer: Mary Pickford
+      FalseAnswer:
+      - Greta Garbo
+      - Clara Bow
+      - Louise Brooks
+      Explanation: Mary Pickford, one of the most popular actresses of the silent
+        era, earned the nickname 'America's Sweetheart'.
+    - Question: Which silent film is known for its controversial portrayal of African
+        Americans?
+      TrueAnswer: The Birth of a Nation
+      FalseAnswer:
+      - Metropolis
+      - The General
+      - The Cabinet of Dr. Caligari
+      Explanation: '''The Birth of a Nation'', directed by D.W. Griffith, is a highly
+        controversial film due to its racist depiction of African Americans.'
+    - Question: Who directed the silent film 'The Passion of Joan of Arc'?
+      TrueAnswer: Carl Theodor Dreyer
+      FalseAnswer:
+      - F.W. Murnau
+      - Buster Keaton
+      - Charlie Chaplin
+      Explanation: Carl Theodor Dreyer directed 'The Passion of Joan of Arc', a silent
+        film renowned for its powerful performances.
+    - Question: Which silent film is known for its epic scope and Civil War setting?
+      TrueAnswer: The Birth of a Nation
+      FalseAnswer:
+      - Metropolis
+      - The General
+      - The Cabinet of Dr. Caligari
+      Explanation: '''The Birth of a Nation'' is an epic silent film directed by
+        D.W. Griffith, depicting the American Civil War and Reconstruction era.'
+    - Question: Who was the first African American to direct a feature-length film?
+      TrueAnswer: Oscar Micheaux
+      FalseAnswer:
+      - Paul Robeson
+      - Sidney Poitier
+      - Hattie McDaniel
+      Explanation: Oscar Micheaux, a pioneering filmmaker, became the first African
+        American to direct a feature-length film with 'The Homesteader' in 1919.
+    - Question: Which silent film is known for its iconic staircase sequence?
+      TrueAnswer: Battleship Potemkin
+      FalseAnswer:
+      - The Gold Rush
+      - The Kid
+      - The Great Train Robbery
+      Explanation: '''Battleship Potemkin'', directed by Sergei Eisenstein, features
+        a famous staircase sequence that has been highly influential in cinema.'
+    - Question: Who was the first person to portray the character of Dracula in a
+        silent film?
+      TrueAnswer: Max Schreck
+      FalseAnswer:
+      - Bela Lugosi
+      - Lon Chaney
+      - Christopher Lee
+      Explanation: Max Schreck played the iconic vampire Count Orlok in 'Nosferatu',
+        one of the earliest portrayals of Dracula on screen.
+    - Question: Which silent film is known for its use of groundbreaking camera techniques?
+      TrueAnswer: The Battleship Potemkin
+      FalseAnswer:
+      - The Birth of a Nation
+      - Metropolis
+      - The Cabinet of Dr. Caligari
+      Explanation: '''The Battleship Potemkin'', directed by Sergei Eisenstein, is
+        celebrated for its innovative use of montage and editing techniques.'
+    - Question: Who directed the silent film 'The Kid'?
+      TrueAnswer: Charlie Chaplin
+      FalseAnswer:
+      - Buster Keaton
+      - D.W. Griffith
+      - F.W. Murnau
+      Explanation: Charlie Chaplin directed and starred in 'The Kid', a silent comedy-drama
+        that showcases his iconic Tramp character.
+    - Question: Which silent film is known for its use of double exposure and stop-motion
+        animation?
+      TrueAnswer: The Lost World
+      FalseAnswer:
+      - The Cabinet of Dr. Caligari
+      - Metropolis
+      - The General
+      Explanation: '''The Lost World'', directed by Harry O. Hoyt, is recognized
+        for its pioneering use of special effects in silent cinema.'
+    - Question: Who was the first African American to produce a feature-length film?
+      TrueAnswer: Oscar Micheaux
+      FalseAnswer:
+      - Paul Robeson
+      - Sidney Poitier
+      - Hattie McDaniel
+      Explanation: Oscar Micheaux, a trailblazing filmmaker, became the first African
+        American to produce a feature-length film with 'The Homesteader' in 1919.
+    - Question: Which silent film is known for its tragic love story set against
+        the backdrop of World War I?
+      TrueAnswer: 'Sunrise: A Song of Two Humans'
+      FalseAnswer:
+      - The Birth of a Nation
+      - Metropolis
+      - The Cabinet of Dr. Caligari
+      Explanation: '''Sunrise: A Song of Two Humans'', directed by F.W. Murnau, explores
+        the complexities of love and redemption amidst war.'
+    - Question: Who directed the silent film 'The Phantom of the Opera'?
+      TrueAnswer: Rupert Julian
+      FalseAnswer:
+      - F.W. Murnau
+      - Buster Keaton
+      - Charlie Chaplin
+      Explanation: Rupert Julian directed 'The Phantom of the Opera', a silent horror
+        film based on Gaston Leroux's novel.

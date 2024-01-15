@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le groupe sanguin le plus courant?",
+            "TrueAnswer": "O",
+            "FalseAnswer": [
+              "A",
+              "B",
+              "AB"
+            ],
+            "Explanation": "O positif est le groupe sanguin le plus courant, tandis que AB négatif est le plus rare."
+          },
+          {
+            "Question": "Quel est un symptôme courant de la déshydratation?",
+            "TrueAnswer": "Soif",
+            "FalseAnswer": [
+              "Toux",
+              "Éternuement",
+              "Éruption cutanée"
+            ],
+            "Explanation": "La soif est un symptôme précoce courant de la déshydratation, indiquant le besoin de liquides du corps."
+          },
+          {
+            "Question": "Quelle est la quantité minimale recommandée d'activité physique pour les adultes par semaine?",
+            "TrueAnswer": "150 minutes",
+            "FalseAnswer": [
+              "60 minutes",
+              "300 minutes",
+              "Aucune"
+            ],
+            "Explanation": "L'American Heart Association recommande au moins 150 minutes d'activité aérobique d'intensité modérée par semaine pour les adultes."
+          },
+          {
+            "Question": "Quel nutriment est essentiel pour des os et des dents solides?",
+            "TrueAnswer": "Calcium",
+            "FalseAnswer": [
+              "Vitamine C",
+              "Fer",
+              "Protéines"
+            ],
+            "Explanation": "Le calcium est crucial pour la santé des os et des dents, aidant à leur développement et entretien."
+          },
+          {
+            "Question": "Quelle est une conséquence courante d'un temps d'écran excessif?",
+            "TrueAnswer": "Fatigue oculaire",
+            "FalseAnswer": [
+              "Perte de cheveux",
+              "Gain musculaire",
+              "Amélioration de la vision"
+            ],
+            "Explanation": "Un temps d'écran excessif peut entraîner une fatigue oculaire, provoquant des symptômes tels que des maux de tête, une vision floue et des yeux secs."
+          },
+          {
+            "Question": "Quel comportement en ligne risqué peut nuire à votre santé mentale?",
+            "TrueAnswer": "Cyberintimidation",
+            "FalseAnswer": [
+              "Achats en ligne",
+              "Socialisation",
+              "Art digital"
+            ],
+            "Explanation": "La cyberintimidation peut avoir des impacts graves sur la santé mentale, entraînant de l'anxiété, de la dépression, voire des pensées suicidaires."
+          },
+          {
+            "Question": "Quelle est l'apport hydrique quotidien recommandé pour les adultes?",
+            "TrueAnswer": "8 verres",
+            "FalseAnswer": [
+              "2 verres",
+              "20 verres",
+              "4 verres"
+            ],
+            "Explanation": "La recommandation générale pour les adultes est de boire environ 8 verres (64 onces) d'eau par jour pour rester bien hydraté."
+          },
+          {
+            "Question": "Quelle technique de pleine conscience permet de réduire le stress?",
+            "TrueAnswer": "Respiration profonde",
+            "FalseAnswer": [
+              "Marche rapide",
+              "Manger vite",
+              "Regarder la télévision"
+            ],
+            "Explanation": "La respiration profonde peut aider à réduire le stress en déclenchant la réponse de relaxation du corps et en apaisant l'esprit."
+          },
+          {
+            "Question": "Quel est l'inconvénient potentiel de se fier uniquement aux informations médicales en ligne?",
+            "TrueAnswer": "Conseils inexactes",
+            "FalseAnswer": [
+              "Soutien personnalisé",
+              "Mises à jour opportunes",
+              "Ressources gratuites"
+            ],
+            "Explanation": "Un inconvénient potentiel des informations médicales en ligne est le risque de rencontrer des conseils inexactes ou trompeurs."
+          },
+          {
+            "Question": "Quelle est la première étape dans l'évaluation de la fiabilité d'une ressource médicale en ligne?",
+            "TrueAnswer": "Vérifier la source",
+            "FalseAnswer": [
+              "Survoler le contenu",
+              "Partager sur les réseaux sociaux",
+              "Ignorer les avis"
+            ],
+            "Explanation": "La première étape consiste à vérifier la crédibilité de la source, les qualifications et les biais potentiels dans la fourniture d'informations médicales."
+          },
+          {
+            "Question": "Quel indique une ressource médicale en ligne réputée?",
+            "TrueAnswer": "Études évaluées par des pairs",
+            "FalseAnswer": [
+              "Approbations de célébrités",
+              "Annonces pop-up",
+              "Témoignages d'utilisateurs"
+            ],
+            "Explanation": "Les ressources médicales en ligne réputées citent souvent des études évaluées par des pairs et des preuves scientifiques pour étayer leur contenu."
+          },
+          {
+            "Question": "Quel est un avantage potentiel d'utiliser des communautés de soutien médical en ligne?",
+            "TrueAnswer": "Soutien émotionnel",
+            "FalseAnswer": [
+              "Isolement",
+              "Stress accru",
+              "Charge financière"
+            ],
+            "Explanation": "Les communautés de soutien médical en ligne peuvent offrir un soutien émotionnel, une compréhension et un sentiment d'appartenance aux personnes confrontées à des défis de santé similaires."
+          },
+          {
+            "Question": "Quels outils en ligne peuvent aider à suivre l'activité physique quotidienne et fournir de la motivation?",
+            "TrueAnswer": "Applications de fitness",
+            "FalseAnswer": [
+              "Sites de cuisine",
+              "Prévisions météorologiques",
+              "Applications d'apprentissage des langues"
+            ],
+            "Explanation": "Les applications de fitness peuvent suivre l'activité physique, fixer des objectifs et fournir de la motivation grâce au suivi des progrès et aux programmes d'entraînement."
+          },
+          {
+            "Question": "Quel est un risque potentiel d'auto-diagnostic en utilisant des ressources médicales en ligne?",
+            "TrueAnswer": "Mauvaise interprétation des symptômes",
+            "FalseAnswer": [
+              "Résolution rapide",
+              "Connaissances d'expert",
+              "Confiance accrue"
+            ],
+            "Explanation": "L'auto-diagnostic basé sur des ressources médicales en ligne peut entraîner une mauvaise interprétation des symptômes et retarder la recherche de conseils médicaux professionnels."
+          },
+          {
+            "Question": "Quel type de ressource médicale en ligne peut offrir des outils interactifs pour des exercices de bien-être mental?",
+            "TrueAnswer": "Sites web de santé mentale",
+            "FalseAnswer": [
+              "Tutoriels de toilettage pour animaux de compagnie",
+              "Forums de maintenance automobile",
+              "Blogs de mode"
+            ],
+            "Explanation": "Les sites web de santé mentale offrent souvent des outils interactifs pour la pleine conscience, la méditation et des exercices de réduction du stress pour soutenir le bien-être mental."
+          },
+          {
+            "Question": "Quel est un avantage potentiel d'utiliser des ressources en ligne de pleine conscience et de méditation?",
+            "TrueAnswer": "Réduction du stress",
+            "FalseAnswer": [
+              "Prise de poids",
+              "Anxiété accrue",
+              "Perte de mémoire"
+            ],
+            "Explanation": "Les ressources en ligne de pleine conscience et de méditation peuvent aider à réduire le stress, améliorer le bien-être émotionnel et renforcer la concentration et la résilience."
+          },
+          {
+            "Question": "Quelle ressource en ligne est dédiée à promouvoir un mode de vie sain grâce à des conseils en nutrition et en activité physique?",
+            "TrueAnswer": "Blogs de bien-être",
+            "FalseAnswer": [
+              "Forums de jeux en ligne",
+              "Sites web de bricolage à domicile",
+              "Sites de potins sur les célébrités"
+            ],
+            "Explanation": "Les blogs de bien-être offrent généralement des conseils en nutrition, en activité physique, en bien-être mental et des choix de mode de vie sain, visant à inspirer et éduquer les lecteurs."
+          },
+          {
+            "Question": "Quel inconvénient potentiel comporte le fait de se fier uniquement aux conseils médicaux en ligne pour les problèmes de santé graves?",
+            "TrueAnswer": "Retard dans le traitement professionnel",
+            "FalseAnswer": [
+              "Guérison immédiate",
+              "Diminution des symptômes",
+              "Perspective positive"
+            ],
+            "Explanation": "Le fait de se fier uniquement aux conseils médicaux en ligne pour des problèmes graves peut entraîner des retards dans la recherche d'une évaluation médicale et d'un traitement professionnel."
+          },
+          {
+            "Question": "Quel type de ressource en ligne peut fournir des consultations virtuelles avec des professionnels de la santé?",
+            "TrueAnswer": "Plateformes de télémédecine",
+            "FalseAnswer": [
+              "Bases de données de recettes en ligne",
+              "Forums de bricolage",
+              "Sites de réservation de voyages"
+            ],
+            "Explanation": "Les plateformes de télémédecine offrent des consultations virtuelles, un suivi à distance et des services de santé numériques, offrant un accès pratique à des professionnels de la santé."
+          }
+        ]
+      }
+    }
+  ]
+}

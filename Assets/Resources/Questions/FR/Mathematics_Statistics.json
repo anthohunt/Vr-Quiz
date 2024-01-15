@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Qu'est-ce qui mesure la moyenne d'un ensemble de nombres?",
+            "TrueAnswer": "Moyenne",
+            "FalseAnswer": [
+              "Médiane",
+              "Mode",
+              "Écart"
+            ],
+            "Explanation": "La moyenne, également connue sous le nom de moyenne arithmétique, est calculée en ajoutant toutes les valeurs et en les divisant par le nombre total."
+          },
+          {
+            "Question": "Quelle mesure de tendance centrale est résistante aux valeurs extrêmes?",
+            "TrueAnswer": "Médiane",
+            "FalseAnswer": [
+              "Moyenne",
+              "Mode",
+              "Variance"
+            ],
+            "Explanation": "La médiane est la valeur médiane lorsque les données sont classées par ordre croissant, ce qui la rend résistante aux valeurs aberrantes."
+          },
+          {
+            "Question": "Quelle statistique décrit la variabilité d'un ensemble de données?",
+            "TrueAnswer": "Écart type",
+            "FalseAnswer": [
+              "Variance",
+              "Moyenne",
+              "Biais"
+            ],
+            "Explanation": "L'écart type mesure la distance moyenne des points de données par rapport à la moyenne, donnant un aperçu de la dispersion des données."
+          },
+          {
+            "Question": "Que signifie une valeur de p dans le test d'hypothèse?",
+            "TrueAnswer": "Niveau de signification",
+            "FalseAnswer": [
+              "Erreur standard",
+              "Intervalle de confiance",
+              "Taille de l'échantillon"
+            ],
+            "Explanation": "La valeur de p représente la probabilité d'obtenir des résultats de test au moins aussi extrêmes que les résultats observés, en supposant que l'hypothèse nulle est vraie."
+          },
+          {
+            "Question": "Quelle distribution est couramment utilisée pour modéliser des données asymétriques?",
+            "TrueAnswer": "Log-normale",
+            "FalseAnswer": [
+              "Normale",
+              "Binomiale",
+              "Poisson"
+            ],
+            "Explanation": "La distribution log-normale est caractérisée par le logarithme des données suivant une distribution normale, ce qui la rend adaptée aux données positivement asymétriques."
+          },
+          {
+            "Question": "Que mesure le coefficient de détermination?",
+            "TrueAnswer": "Qualité d'ajustement",
+            "FalseAnswer": [
+              "Erreur d'échantillonnage",
+              "Test d'hypothèse",
+              "Erreur de type I"
+            ],
+            "Explanation": "Le coefficient de détermination, noté R carré, quantifie la proportion de la variance de la variable dépendante qui est prévisible à partir de la ou des variables indépendantes."
+          },
+          {
+            "Question": "Quel test évalue la corrélation entre deux variables continues?",
+            "TrueAnswer": "Corrélation de Pearson",
+            "FalseAnswer": [
+              "Test du Chi-deux",
+              "Test Z",
+              "ANOVA"
+            ],
+            "Explanation": "Le coefficient de corrélation de Pearson évalue la force et la direction de la relation linéaire entre deux variables continues."
+          },
+          {
+            "Question": "Que représente l'intervalle de confiance?",
+            "TrueAnswer": "Plage de valeurs plausibles",
+            "FalseAnswer": [
+              "Écart type",
+              "Erreur absolue moyenne",
+              "Biais"
+            ],
+            "Explanation": "L'intervalle de confiance fournit une gamme de valeurs dans laquelle le paramètre de population est susceptible de se trouver, en fonction des données de l'échantillon et d'un niveau de confiance choisi."
+          },
+          {
+            "Question": "Quel type de biais se produit lorsque certains individus sont systématiquement exclus d'un échantillon?",
+            "TrueAnswer": "Biais de sélection",
+            "FalseAnswer": [
+              "Biais d'échantillonnage",
+              "Biais de réponse",
+              "Biais de mesure"
+            ],
+            "Explanation": "Le biais de sélection survient lorsque le processus de sélection de l'échantillon favorise certains individus, conduisant à un échantillon non représentatif avec des différences systématiques par rapport à la population."
+          },
+          {
+            "Question": "Quelle mesure de dispersion est affectée par les valeurs extrêmes?",
+            "TrueAnswer": "Écart",
+            "FalseAnswer": [
+              "Écart interquartile",
+              "Variance",
+              "Écart type"
+            ],
+            "Explanation": "L'écart est très sensible aux valeurs extrêmes car il ne considère que la différence entre les valeurs les plus grandes et les plus petites dans l'ensemble de données."
+          },
+          {
+            "Question": "Quelle distribution est caractérisée par une courbe en J?",
+            "TrueAnswer": "Distribution asymétrique",
+            "FalseAnswer": [
+              "Distribution normale",
+              "Distribution exponentielle",
+              "Distribution uniforme"
+            ],
+            "Explanation": "Une distribution asymétrique présente une asymétrie avec la plupart des points de données se regroupant d'un côté, ce qui donne une courbe en J lorsqu'elle est tracée."
+          },
+          {
+            "Question": "Dans un diagramme en boîte, que représentent les 'whiskers'?",
+            "TrueAnswer": "Plage de données non aberrantes",
+            "FalseAnswer": [
+              "Écart interquartile",
+              "Moyenne et écart type",
+              "Distribution de fréquence"
+            ],
+            "Explanation": "Les 'whiskers' s'étendent aux valeurs minimales et maximales des données non aberrantes, fournissant une représentation visuelle de la plage de la majorité des données."
+          },
+          {
+            "Question": "Quel effet a l'augmentation de la taille de l'échantillon sur la marge d'erreur?",
+            "TrueAnswer": "Diminue",
+            "FalseAnswer": [
+              "Augmente",
+              "Reste constant",
+              "Aucun effet"
+            ],
+            "Explanation": "À mesure que la taille de l'échantillon augmente, la marge d'erreur diminue car le plus grand échantillon offre une représentation plus précise de la population."
+          },
+          {
+            "Question": "Que révèle le paradoxe de Simpson sur les données agrégées?",
+            "TrueAnswer": "Inversion des tendances",
+            "FalseAnswer": [
+              "Détection des valeurs aberrantes",
+              "Homoscédasticité",
+              "Tendance centrale"
+            ],
+            "Explanation": "Le paradoxe de Simpson démontre qu'une corrélation apparente dans des données agrégées peut s'inverser ou disparaître lorsque les données sont décomposées en sous-groupes."
+          },
+          {
+            "Question": "Quelle mesure évalue la dispersion d'une distribution de probabilité?",
+            "TrueAnswer": "Entropie",
+            "FalseAnswer": [
+              "Skewness",
+              "Kurtosis",
+              "Variance"
+            ],
+            "Explanation": "L'entropie quantifie l'imprévisibilité d'une distribution de probabilité, fournissant un aperçu du désordre ou de l'aléatoire dans les données."
+          },
+          {
+            "Question": "Quel type d'erreur dans le test d'hypothèse se produit lorsque l'hypothèse nulle est rejetée par erreur?",
+            "TrueAnswer": "Erreur de type I",
+            "FalseAnswer": [
+              "Erreur de type II",
+              "Erreur d'échantillonnage",
+              "Erreur de mesure"
+            ],
+            "Explanation": "Une erreur de type I se produit lorsque l'hypothèse nulle est rejetée par erreur, indiquant la présence d'un effet ou d'une relation alors qu'aucun n'existe réellement dans la population."
+          },
+          {
+            "Question": "Quelle mesure indique la symétrie d'une distribution de probabilité?",
+            "TrueAnswer": "Skewness",
+            "FalseAnswer": [
+              "Kurtosis",
+              "Écart type",
+              "Variance"
+            ],
+            "Explanation": "La skewness mesure le degré d'asymétrie dans la distribution de probabilité, identifiant si les données sont inclinées vers la gauche ou vers la droite."
+          },
+          {
+            "Question": "Quel test statistique compare les moyennes de deux groupes indépendants?",
+            "TrueAnswer": "Test t indépendant",
+            "FalseAnswer": [
+              "Test t apparié",
+              "Test du Chi-deux",
+              "ANOVA"
+            ],
+            "Explanation": "Le test t indépendant évalue si les moyennes de deux groupes indépendants diffèrent significativement, fournissant des informations sur les différences entre les groupes."
+          },
+          {
+            "Question": "Que stipule l'hypothèse nulle dans le test d'hypothèse statistique?",
+            "TrueAnswer": "Absence d'effet ou de relation",
+            "FalseAnswer": [
+              "Présence d'effet",
+              "Preuve insuffisante",
+              "Résultats indécis"
+            ],
+            "Explanation": "L'hypothèse nulle suppose qu'aucun effet ou relation significatif n'existe, servant de point de départ pour évaluer la présence d'un effet observé."
+          },
+          {
+            "Question": "Quelle mesure de dispersion est affectée par la médiane?",
+            "TrueAnswer": "Écart interquartile",
+            "FalseAnswer": [
+              "Variance",
+              "Écart type",
+              "Écart"
+            ],
+            "Explanation": "L'écart interquartile est basé sur la médiane et les quartiles, fournissant une mesure de dispersion résistante aux valeurs extrêmes."
+          }
+        ]
+      }
+    }
+  ]
+}

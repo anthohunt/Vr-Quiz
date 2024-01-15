@@ -1,0 +1,228 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the main goal of cybersecurity?",
+          "TrueAnswer": "Protecting data",
+          "FalseAnswer": [
+            "Hacking systems",
+            "Creating viruses",
+            "Stealing information"
+          ],
+          "Explanation": "The main goal of cybersecurity is to protect data from unauthorized access, use, disclosure, disruption, modification, or destruction."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding user privacy?",
+          "TrueAnswer": "Respecting and safeguarding it",
+          "FalseAnswer": [
+            "Selling user data",
+            "Ignoring privacy concerns",
+            "Exploiting user information"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to respect and safeguard user privacy by implementing strong security measures and transparent data practices."
+        },
+        {
+          "Question": "What is the concept of 'ethical hacking'?",
+          "TrueAnswer": "Testing systems for vulnerabilities",
+          "FalseAnswer": [
+            "Illegally accessing systems",
+            "Spreading malware",
+            "Stealing sensitive information"
+          ],
+          "Explanation": "Ethical hacking involves testing computer systems for vulnerabilities to identify and fix potential security weaknesses before malicious hackers can exploit them."
+        },
+        {
+          "Question": "What is the purpose of a software license agreement?",
+          "TrueAnswer": "Defining terms of use",
+          "FalseAnswer": [
+            "Restricting access",
+            "Collecting user data",
+            "Enforcing copyright"
+          ],
+          "Explanation": "A software license agreement defines the terms and conditions under which a user can legally use the software, including restrictions and permissions."
+        },
+        {
+          "Question": "What is the ethical concern related to artificial intelligence (AI) and job displacement?",
+          "TrueAnswer": "Unemployment and economic inequality",
+          "FalseAnswer": [
+            "AI taking over the world",
+            "Loss of human creativity",
+            "Privacy invasion"
+          ],
+          "Explanation": "The ethical concern with AI and job displacement is the potential increase in unemployment and economic inequality due to automation replacing human workers."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding algorithmic bias?",
+          "TrueAnswer": "Addressing and minimizing it",
+          "FalseAnswer": [
+            "Promoting algorithmic bias",
+            "Ignoring its existence",
+            "Exploiting biased algorithms"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to address and minimize algorithmic bias, which can lead to unfair and discriminatory outcomes."
+        },
+        {
+          "Question": "What is the ethical concern related to data breaches?",
+          "TrueAnswer": "Privacy violations and identity theft",
+          "FalseAnswer": [
+            "Enhanced cybersecurity measures",
+            "Data accuracy concerns",
+            "Increased data sharing"
+          ],
+          "Explanation": "Data breaches can result in privacy violations and identity theft, where personal information is exposed and potentially misused by malicious actors."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding data collection?",
+          "TrueAnswer": "Obtaining informed consent",
+          "FalseAnswer": [
+            "Collecting data without consent",
+            "Selling data without consent",
+            "Ignoring data privacy"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to obtain informed consent from users before collecting their personal data, ensuring transparency and user control."
+        },
+        {
+          "Question": "What is the concept of 'net neutrality'?",
+          "TrueAnswer": "Treating all internet traffic equally",
+          "FalseAnswer": [
+            "Blocking certain websites",
+            "Throttling internet speeds",
+            "Prioritizing specific content"
+          ],
+          "Explanation": "Net neutrality is the principle that all internet traffic should be treated equally, without discrimination or preferential treatment by internet service providers."
+        },
+        {
+          "Question": "What is the ethical concern related to social media and privacy?",
+          "TrueAnswer": "Data exploitation and manipulation",
+          "FalseAnswer": [
+            "Enhanced social connections",
+            "Increased transparency",
+            "Protection against cyberbullying"
+          ],
+          "Explanation": "The ethical concern with social media and privacy is the potential for data exploitation and manipulation, where user information is used for targeted advertising or influencing behavior."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding encryption?",
+          "TrueAnswer": "Ensuring secure communication",
+          "FalseAnswer": [
+            "Breaking encryption",
+            "Monitoring encrypted data",
+            "Selling encryption keys"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to ensure secure communication by implementing strong encryption measures to protect user data from unauthorized access."
+        },
+        {
+          "Question": "What is the concept of 'informed consent' in the context of data privacy?",
+          "TrueAnswer": "Voluntary agreement with understanding",
+          "FalseAnswer": [
+            "Forced data sharing",
+            "Automatic data collection",
+            "Uninformed agreement"
+          ],
+          "Explanation": "Informed consent refers to the voluntary agreement given by individuals with a clear understanding of the purpose and consequences of data collection and usage."
+        },
+        {
+          "Question": "What is the ethical concern related to facial recognition technology?",
+          "TrueAnswer": "Privacy invasion and surveillance",
+          "FalseAnswer": [
+            "Enhanced security measures",
+            "Improved identification accuracy",
+            "Prevention of crime"
+          ],
+          "Explanation": "The ethical concern with facial recognition technology is the potential invasion of privacy and mass surveillance, as it can be used for tracking and monitoring individuals without their consent."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding online harassment?",
+          "TrueAnswer": "Preventing and addressing it",
+          "FalseAnswer": [
+            "Encouraging online harassment",
+            "Ignoring its existence",
+            "Promoting anonymity"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to prevent and address online harassment by implementing measures to protect users from abusive behavior and fostering a safe online environment."
+        },
+        {
+          "Question": "What is the concept of 'data anonymization'?",
+          "TrueAnswer": "Removing personally identifiable information",
+          "FalseAnswer": [
+            "Sharing data without consent",
+            "Collecting more personal data",
+            "Encrypting data for storage"
+          ],
+          "Explanation": "Data anonymization involves removing personally identifiable information from datasets to protect privacy while still allowing analysis and research to be conducted."
+        },
+        {
+          "Question": "What is the ethical concern related to autonomous vehicles?",
+          "TrueAnswer": "Safety and liability",
+          "FalseAnswer": [
+            "Increased traffic congestion",
+            "Loss of driving skills",
+            "Environmental impact"
+          ],
+          "Explanation": "The ethical concern with autonomous vehicles is ensuring their safety and determining liability in the event of accidents or malfunctions."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding online misinformation?",
+          "TrueAnswer": "Combating and reducing it",
+          "FalseAnswer": [
+            "Promoting online misinformation",
+            "Ignoring its impact",
+            "Censoring free speech"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to combat and reduce online misinformation by implementing measures to verify and fact-check information, promoting reliable sources."
+        },
+        {
+          "Question": "What is the concept of 'digital divide'?",
+          "TrueAnswer": "Unequal access to technology",
+          "FalseAnswer": [
+            "Equal distribution of technology",
+            "Digital literacy skills",
+            "Technological advancements"
+          ],
+          "Explanation": "The digital divide refers to the unequal access to technology and internet connectivity, creating disparities in education, employment, and opportunities."
+        },
+        {
+          "Question": "What is the ethical concern related to biometric data collection?",
+          "TrueAnswer": "Privacy and consent",
+          "FalseAnswer": [
+            "Enhanced security measures",
+            "Improved identification accuracy",
+            "Medical advancements"
+          ],
+          "Explanation": "The ethical concern with biometric data collection is the potential invasion of privacy and the need for informed consent when capturing and storing unique physiological or behavioral characteristics."
+        },
+        {
+          "Question": "What is the ethical responsibility of tech companies regarding online content moderation?",
+          "TrueAnswer": "Ensuring a safe and inclusive environment",
+          "FalseAnswer": [
+            "Promoting harmful content",
+            "Ignoring user reports",
+            "Censoring free speech"
+          ],
+          "Explanation": "Tech companies have an ethical responsibility to ensure a safe and inclusive online environment by moderating content to prevent the spread of harmful or offensive material."
+        },
+        {
+          "Question": "What is the concept of 'whistleblowing' in the context of technology?",
+          "TrueAnswer": "Reporting unethical practices",
+          "FalseAnswer": [
+            "Promoting unethical practices",
+            "Ignoring unethical behavior",
+            "Selling sensitive information"
+          ],
+          "Explanation": "Whistleblowing refers to the act of reporting unethical practices or wrongdoing within an organization, often related to technology, to expose and address the issues."
+        },
+        {
+          "Question": "What is the ethical concern related to surveillance technology?",
+          "TrueAnswer": "Invasion of privacy and civil liberties",
+          "FalseAnswer": [
+            "Enhanced security measures",
+            "Crime prevention",
+            "Public safety"
+          ],
+          "Explanation": "The ethical concern with surveillance technology is the potential invasion of privacy and infringement on civil liberties, as it can be used for constant monitoring and tracking of individuals."
+        }
+      ]
+    }
+  ]
+}

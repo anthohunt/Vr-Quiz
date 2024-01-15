@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6117950791186628805
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 829680955456864763}
+  - component: {fileID: 900253189229791011}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Learning_and_Education_Quotes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &829680955456864763
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6117950791186628805}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &900253189229791011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6117950791186628805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The whole purpose of education is to turn mirrors into
+        windows'?
+      TrueAnswer: Sydney J. Harris
+      FalseAnswer:
+      - John Dewey
+      - Nelson Mandela
+      - Albert Einstein
+      Explanation: Sydney J. Harris, an American journalist, is known for this quote
+        emphasizing education's role in broadening perspectives and creating opportunities.
+    - Question: Which philosopher stated, 'Education is the kindling of a flame,
+        not the filling of a vessel'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Aristotle
+      - Confucius
+      - Plato
+      Explanation: This quote by Socrates emphasizes the idea that education should
+        inspire curiosity and critical thinking rather than simply imparting knowledge.
+    - Question: Who said, 'The mind is not a vessel to be filled, but a fire to be
+        kindled'?
+      TrueAnswer: Plutarch
+      FalseAnswer:
+      - Hippocrates
+      - Cicero
+      - Herodotus
+      Explanation: Plutarch, a Greek biographer and essayist, expressed the philosophy
+        that education should ignite the mind's passion and creativity.
+    - Question: Which famous scientist stated, 'Education is the passport to the
+        future, for tomorrow belongs to those who prepare for it today'?
+      TrueAnswer: Malcolm X
+      FalseAnswer:
+      - Albert Einstein
+      - Marie Curie
+      - Isaac Newton
+      Explanation: Malcolm X, an influential civil rights leader, emphasized the
+        transformative power of education in shaping individuals' futures.
+    - Question: Who said, 'Education is the most powerful weapon which you can use
+        to change the world'?
+      TrueAnswer: Nelson Mandela
+      FalseAnswer:
+      - Mahatma Gandhi
+      - Martin Luther King Jr.
+      - Winston Churchill
+      Explanation: This quote by Nelson Mandela reflects his belief in the pivotal
+        role of education in driving positive social change and progress.
+    - Question: Which writer stated, 'The function of education is to teach one to
+        think intensively and to think critically'?
+      TrueAnswer: Martin Luther King Jr.
+      FalseAnswer:
+      - Maya Angelou
+      - Toni Morrison
+      - Langston Hughes
+      Explanation: Martin Luther King Jr.'s quote underscores the importance of education
+        in cultivating analytical thinking and intellectual depth.
+    - Question: Who said, 'Education is not the filling of a pail, but the lighting
+        of a fire'?
+      TrueAnswer: William Butler Yeats
+      FalseAnswer:
+      - Ernest Hemingway
+      - Virginia Woolf
+      - Oscar Wilde
+      Explanation: This quote by William Butler Yeats evokes the notion that education
+        should spark enthusiasm and curiosity rather than solely imparting knowledge.
+    - Question: Which philosopher stated, 'The roots of education are bitter, but
+        the fruit is sweet'?
+      TrueAnswer: Aristotle
+      FalseAnswer:
+      - Plato
+      - Seneca
+      - Socrates
+      Explanation: Aristotle's quote captures the idea that while the process of
+        learning may be challenging, the rewards and outcomes of education are valuable
+        and gratifying.
+    - Question: Who said, 'The beautiful thing about learning is that no one can
+        take it away from you'?
+      TrueAnswer: B.B. King
+      FalseAnswer:
+      - Jimi Hendrix
+      - Aretha Franklin
+      - Ella Fitzgerald
+      Explanation: Blues legend B.B. King's quote reflects the enduring and empowering
+        nature of knowledge and learning, which remain with individuals despite external
+        circumstances.
+    - Question: Which educational reformer stated, 'The only person who is educated
+        is the one who has learned how to learn'?
+      TrueAnswer: Carl Rogers
+      FalseAnswer:
+      - Maria Montessori
+      - John Dewey
+      - Jean Piaget
+      Explanation: Carl Rogers' quote emphasizes the importance of developing a capacity
+        for continuous learning as a fundamental aspect of being truly educated.
+    - Question: Who said, 'Education is not preparation for life; education is life
+        itself'?
+      TrueAnswer: John Dewey
+      FalseAnswer:
+      - Jean-Jacques Rousseau
+      - Ralph Waldo Emerson
+      - Horace Mann
+      Explanation: John Dewey's philosophical view posits that education is not solely
+        a means to an end but an ongoing, integral part of living and experiencing
+        life itself.
+    - Question: Which scientist stated, 'The only true wisdom is in knowing you know
+        nothing'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Aristotle
+      - Galileo Galilei
+      - Isaac Newton
+      Explanation: This quote, often attributed to Socrates, reflects the philosophical
+        value of humility and constant pursuit of knowledge in the learning process.
+    - Question: Who said, 'Live as if you were to die tomorrow. Learn as if you were
+        to live forever'?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Buddha
+      - Confucius
+      - Lao Tzu
+      Explanation: Mahatma Gandhi's quote encapsulates the idea of embracing the
+        present while nurturing a lifelong commitment to learning and personal growth.
+    - Question: Which philosopher stated, 'Education is the kindling of a light,
+        not the filling of a vessel'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Confucius
+      Explanation: Socrates' quote emphasizes the role of education in inspiring
+        curiosity, illuminating the mind, and fostering individual enlightenment.
+    - Question: Who said, 'Education is what survives when what has been learned
+        has been forgotten'?
+      TrueAnswer: B.F. Skinner
+      FalseAnswer:
+      - Jean Piaget
+      - Lev Vygotsky
+      - Erik Erikson
+      Explanation: B.F. Skinner's insightful quote underscores the enduring impact
+        of education, as it shapes individuals and endures beyond the acquisition
+        of specific knowledge.
+    - Question: Which American writer stated, 'The secret of education lies in respecting
+        the pupil'?
+      TrueAnswer: Ralph Waldo Emerson
+      FalseAnswer:
+      - Henry David Thoreau
+      - Mark Twain
+      - Walt Whitman
+      Explanation: Ralph Waldo Emerson's perspective highlights the importance of
+        fostering mutual respect and understanding in the educational relationship.
+    - Question: Who said, 'Education is the ability to listen to almost anything
+        without losing your temper or your self-confidence'?
+      TrueAnswer: Robert Frost
+      FalseAnswer:
+      - Maya Angelou
+      - Langston Hughes
+      - Toni Morrison
+      Explanation: Poet Robert Frost's quote emphasizes the valuable attribute of
+        open-mindedness and composure nurtured by education, enabling receptive engagement
+        with divergent views.
+    - Question: Which Chinese philosopher stated, 'Learning without thought is labor
+        lost'?
+      TrueAnswer: Confucius
+      FalseAnswer:
+      - Lao Tzu
+      - Sun Tzu
+      - Mencius
+      Explanation: Confucius' quote stresses the importance of reflective and thoughtful
+        learning, suggesting that mere accumulation of knowledge without contemplation
+        is futile.
+    - Question: Who said, 'The mind once enlightened cannot again become dark'?
+      TrueAnswer: Thomas Paine
+      FalseAnswer:
+      - John Locke
+      - Jean-Jacques Rousseau
+      - Voltaire
+      Explanation: This quote by Thomas Paine emphasizes the enduring impact of enlightenment
+        through education, as it forever alters and enriches the individual's perspective.

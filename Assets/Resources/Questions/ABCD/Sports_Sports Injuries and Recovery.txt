@@ -1,0 +1,128 @@
+{
+    "Sports Injuries and Recovery": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the most common sports injury?",
+                    "TrueAnswer": "Sprained ankle",
+                    "FalseAnswer": ["Concussion", "Torn ACL", "Fractured wrist"],
+                    "Explanation": "A sprained ankle is the most common sports injury, often caused by twisting or rolling the ankle."
+                },
+                {
+                    "Question": "Which sport has the highest rate of concussions?",
+                    "TrueAnswer": "Football",
+                    "FalseAnswer": ["Basketball", "Soccer", "Baseball"],
+                    "Explanation": "Football has the highest rate of concussions due to its physical nature and high impact collisions."
+                },
+                {
+                    "Question": "What is the recommended treatment for a muscle strain?",
+                    "TrueAnswer": "RICE",
+                    "FalseAnswer": ["Heat therapy", "Massage", "Stretching"],
+                    "Explanation": "The recommended treatment for a muscle strain is RICE: Rest, Ice, Compression, and Elevation."
+                },
+                {
+                    "Question": "Which injury is characterized by a sudden, sharp pain in the back of the leg?",
+                    "TrueAnswer": "Hamstring strain",
+                    "FalseAnswer": ["Shin splints", "Tennis elbow", "Rotator cuff tear"],
+                    "Explanation": "A hamstring strain is characterized by a sudden, sharp pain in the back of the leg, often during physical activity."
+                },
+                {
+                    "Question": "What is the primary cause of overuse injuries?",
+                    "TrueAnswer": "Repetitive stress",
+                    "FalseAnswer": ["Lack of flexibility", "Poor nutrition", "Inadequate warm-up"],
+                    "Explanation": "Overuse injuries are primarily caused by repetitive stress on a specific body part or joint."
+                },
+                {
+                    "Question": "Which injury is commonly known as 'runner's knee'?",
+                    "TrueAnswer": "Patellofemoral pain syndrome",
+                    "FalseAnswer": ["Tennis elbow", "Achilles tendinitis", "Plantar fasciitis"],
+                    "Explanation": "Patellofemoral pain syndrome, commonly known as 'runner's knee', causes pain around the kneecap during physical activity."
+                },
+                {
+                    "Question": "What is the best way to prevent sports injuries?",
+                    "TrueAnswer": "Proper warm-up and stretching",
+                    "FalseAnswer": ["Wearing protective gear", "Taking painkillers", "Ignoring pain"],
+                    "Explanation": "Proper warm-up and stretching before physical activity can help prevent sports injuries."
+                },
+                {
+                    "Question": "Which injury is characterized by a sudden, sharp pain in the shoulder?",
+                    "TrueAnswer": "Rotator cuff tear",
+                    "FalseAnswer": ["Ankle sprain", "Groin strain", "Wrist fracture"],
+                    "Explanation": "A rotator cuff tear is characterized by a sudden, sharp pain in the shoulder, often during overhead movements."
+                },
+                {
+                    "Question": "What is the primary cause of stress fractures?",
+                    "TrueAnswer": "Repetitive impact",
+                    "FalseAnswer": ["Lack of strength", "Inadequate warm-up", "Poor nutrition"],
+                    "Explanation": "Stress fractures are primarily caused by repetitive impact on a specific bone, often due to overuse."
+                },
+                {
+                    "Question": "Which injury is characterized by pain and swelling in the front of the knee?",
+                    "TrueAnswer": "Patellar tendinitis",
+                    "FalseAnswer": ["Sprained wrist", "Groin strain", "Achilles tendinitis"],
+                    "Explanation": "Patellar tendinitis causes pain and swelling in the front of the knee, often due to repetitive jumping or running."
+                },
+                {
+                    "Question": "What is the recommended treatment for a concussion?",
+                    "TrueAnswer": "Rest and gradual return to activity",
+                    "FalseAnswer": ["Heat therapy", "Massage", "Stretching"],
+                    "Explanation": "The recommended treatment for a concussion is rest and a gradual return to activity under medical supervision."
+                },
+                {
+                    "Question": "Which injury is characterized by pain and inflammation in the elbow?",
+                    "TrueAnswer": "Tennis elbow",
+                    "FalseAnswer": ["Shin splints", "Hamstring strain", "Rotator cuff tear"],
+                    "Explanation": "Tennis elbow causes pain and inflammation in the outer part of the elbow, often due to repetitive arm movements."
+                },
+                {
+                    "Question": "What is the primary cause of ACL tears?",
+                    "TrueAnswer": "Sudden twisting or pivoting",
+                    "FalseAnswer": ["Lack of flexibility", "Inadequate warm-up", "Poor nutrition"],
+                    "Explanation": "ACL tears are primarily caused by a sudden twisting or pivoting motion, often during sports activities."
+                },
+                {
+                    "Question": "Which injury is characterized by pain and inflammation in the shin area?",
+                    "TrueAnswer": "Shin splints",
+                    "FalseAnswer": ["Ankle sprain", "Tennis elbow", "Rotator cuff tear"],
+                    "Explanation": "Shin splints cause pain and inflammation in the front part of the lower leg, often due to repetitive impact."
+                },
+                {
+                    "Question": "What is the recommended treatment for a sprained wrist?",
+                    "TrueAnswer": "Immobilization and rest",
+                    "FalseAnswer": ["Heat therapy", "Massage", "Stretching"],
+                    "Explanation": "The recommended treatment for a sprained wrist is immobilization with a splint or brace and rest."
+                },
+                {
+                    "Question": "Which injury is characterized by pain and inflammation in the heel?",
+                    "TrueAnswer": "Plantar fasciitis",
+                    "FalseAnswer": ["Patellar tendinitis", "Groin strain", "Achilles tendinitis"],
+                    "Explanation": "Plantar fasciitis causes pain and inflammation in the heel, often due to overuse or improper footwear."
+                },
+                {
+                    "Question": "What is the primary cause of groin strains?",
+                    "TrueAnswer": "Sudden movements or overstretching",
+                    "FalseAnswer": ["Lack of strength", "Inadequate warm-up", "Poor nutrition"],
+                    "Explanation": "Groin strains are primarily caused by sudden movements or overstretching of the muscles in the groin area."
+                },
+                {
+                    "Question": "Which injury is characterized by pain and inflammation in the Achilles tendon?",
+                    "TrueAnswer": "Achilles tendinitis",
+                    "FalseAnswer": ["Sprained ankle", "Tennis elbow", "Rotator cuff tear"],
+                    "Explanation": "Achilles tendinitis causes pain and inflammation in the Achilles tendon, often due to overuse or repetitive activities."
+                },
+                {
+                    "Question": "What is the recommended treatment for a fractured bone?",
+                    "TrueAnswer": "Immobilization and medical intervention",
+                    "FalseAnswer": ["Heat therapy", "Massage", "Stretching"],
+                    "Explanation": "The recommended treatment for a fractured bone is immobilization with a cast or splint and medical intervention."
+                },
+                {
+                    "Question": "Which injury is characterized by pain and inflammation in the hip area?",
+                    "TrueAnswer": "Hip bursitis",
+                    "FalseAnswer": ["Ankle sprain", "Hamstring strain", "Wrist fracture"],
+                    "Explanation": "Hip bursitis causes pain and inflammation in the hip area, often due to repetitive activities or prolonged pressure."
+                }
+            ]
+        }
+    ]
+}

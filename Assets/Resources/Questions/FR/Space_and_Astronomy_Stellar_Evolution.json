@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le dernier stade de la vie d'une étoile massive?",
+            "TrueAnswer": "Supernova",
+            "FalseAnswer": [
+              "Naine blanche",
+              "Étoile à neutrons",
+              "Trou noir"
+            ],
+            "Explanation": "Lorsqu'une étoile massive termine de brûler son combustible nucléaire, elle subit une explosion de supernova, dispersant des éléments dans l'espace."
+          },
+          {
+            "Question": "Comment les étoiles génèrent-elles de l'énergie pendant la phase de séquence principale?",
+            "TrueAnswer": "Fusion nucléaire",
+            "FalseAnswer": [
+              "Fission nucléaire",
+              "Réactions chimiques",
+              "Convection"
+            ],
+            "Explanation": "Pendant la phase de séquence principale, les étoiles convertissent l'hydrogène en hélium par fusion nucléaire, libérant de l'énergie dans le processus."
+          },
+          {
+            "Question": "Qu'est-ce qui empêche une étoile à neutrons de s'effondrer sous son propre poids?",
+            "TrueAnswer": "Pression de dégénérescence des neutrons",
+            "FalseAnswer": [
+              "Répulsion électromagnétique",
+              "Attraction gravitationnelle",
+              "Fusion nucléaire"
+            ],
+            "Explanation": "La pression de dégénérescence des neutrons est une force qui contrecarre la gravité, empêchant l'effondrement des étoiles à neutrons en trous noirs."
+          },
+          {
+            "Question": "Qu'est-ce qui provoque une supernova dans un système d'étoiles binaires?",
+            "TrueAnswer": "Transfert de masse depuis une étoile compagne",
+            "FalseAnswer": [
+              "Collision planétaire",
+              "Sursaut gamma",
+              "Perturbation du champ magnétique"
+            ],
+            "Explanation": "Dans un système d'étoiles binaires, une supernova peut se produire lorsque l'étoile compagne transfère de la masse à l'autre, déclenchant une réaction nucléaire en chaîne."
+          },
+          {
+            "Question": "Quelle est la destinée finale d'une étoile de faible masse après la phase de géante rouge?",
+            "TrueAnswer": "Nébuleuse planétaire",
+            "FalseAnswer": [
+              "Naine blanche",
+              "Naine noire",
+              "Étoile à neutrons"
+            ],
+            "Explanation": "Après la phase de géante rouge, une étoile de faible masse perd ses couches externes pour former une nébuleuse planétaire, laissant derrière elle une naine blanche."
+          },
+          {
+            "Question": "Quelle est la source d'énergie principale pour une étoile géante rouge?",
+            "TrueAnswer": "Fusion de l'hélium",
+            "FalseAnswer": [
+              "Fusion de l'hydrogène",
+              "Fusion du carbone",
+              "Fission nucléaire"
+            ],
+            "Explanation": "Les étoiles géantes rouges subissent une fusion de l'hélium dans leur noyau après l'épuisement de l'hydrogène, générant de l'énergie et s'agrandissant en taille."
+          },
+          {
+            "Question": "Quel processus est responsable de la formation d'éléments lourds lors d'une supernova?",
+            "TrueAnswer": "Nucléosynthèse r-process",
+            "FalseAnswer": [
+              "Accrétion du vent pulsar",
+              "Cycle CNO",
+              "Photodésintégration"
+            ],
+            "Explanation": "Pendant une supernova, la capture rapide de neutrons dans le processus r conduit à la création d'éléments lourds au-delà du fer."
+          },
+          {
+            "Question": "Quelle caractéristique distingue une supernova de type II d'une supernova de type Ia?",
+            "TrueAnswer": "Présence d'hydrogène dans les raies spectrales",
+            "FalseAnswer": [
+              "Présence d'hélium dans les raies spectrales",
+              "Explosion d'une naine blanche",
+              "Absence d'un sursaut gamma accompagnant"
+            ],
+            "Explanation": "Les supernovae de type II présentent des raies spectrales d'hydrogène, indiquant l'explosion d'une étoile massive, contrairement aux supernovae de type Ia."
+          },
+          {
+            "Question": "Quelle étape suit la phase de protostar dans l'évolution stellaire?",
+            "TrueAnswer": "Étoile T Tauri",
+            "FalseAnswer": [
+              "Objet Herbig-Haro",
+              "Étoile de séquence principale",
+              "Étoile naine rouge"
+            ],
+            "Explanation": "Après la phase de protostar, une jeune étoile entre dans l'étape T Tauri, caractérisée par de forts vents stellaires et une intense activité magnétique."
+          },
+          {
+            "Question": "Quel est le résultat final de l'effondrement du noyau d'une étoile de grande masse?",
+            "TrueAnswer": "Étoile à neutrons",
+            "FalseAnswer": [
+              "Naine blanche",
+              "Géante rouge",
+              "Trou noir"
+            ],
+            "Explanation": "L'effondrement du noyau d'une étoile de grande masse conduit à la formation d'une étoile à neutrons, un résidu dense soutenu par la pression de dégénérescence des neutrons."
+          }
+        ]
+      }
+    }
+  ]
+}

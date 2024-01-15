@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6217890278982333984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3236435049140708403}
+  - component: {fileID: 2880846215799757111}
+  m_Layer: 0
+  m_Name: Sports_Cycling.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3236435049140708403
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6217890278982333984}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2880846215799757111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6217890278982333984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the official winning jersey color of the Tour de France?
+      TrueAnswer: Yellow
+      FalseAnswer:
+      - Green
+      - Red
+      - Blue
+      Explanation: The yellow jersey, or maillot jaune, is awarded to the rider leading
+        the general classification of the Tour de France.
+    - Question: What is the most prestigious one-day cycling race in the world?
+      TrueAnswer: Tour of Flanders
+      FalseAnswer:
+      - Milan-San Remo
+      - Paris-Roubaix
+      - Liege-Bastogne-Liege
+      Explanation: The Tour of Flanders, or Ronde van Vlaanderen, is considered one
+        of the 'Monuments' of cycling, known for its challenging cobbled climbs.
+    - Question: Who holds the record for the most Tour de France victories?
+      TrueAnswer: Lance Armstrong
+      FalseAnswer:
+      - Eddy Merckx
+      - Miguel Indurain
+      - Jacques Anquetil
+      Explanation: Lance Armstrong won a record seven consecutive Tour de France
+        titles from 1999 to 2005, but they were later stripped due to doping allegations.
+    - Question: What prestigious cycling event is characterized by its pink jersey
+        for the overall leader?
+      TrueAnswer: Giro d'Italia
+      FalseAnswer:
+      - Vuelta a Espana
+      - Tour Down Under
+      - Tour de Suisse
+      Explanation: "The Giro d'Italia, or Tour of Italy, is one of the three Grand
+        Tours in cycling, along with the Tour de France and the Vuelta a Espa\xF1a."
+    - Question: Which body part commonly experiences numbness in long-distance cyclists?
+      TrueAnswer: Hands
+      FalseAnswer:
+      - Feet
+      - Buttocks
+      - Lower back
+      Explanation: Numbness in the hands, often due to prolonged pressure on the
+        handlebars, is a common issue for cyclists during long rides.
+    - Question: What is the longest one-day professional road cycling race?
+      TrueAnswer: Paris-Roubaix
+      FalseAnswer:
+      - Milan-San Remo
+      - "Li\xE8ge-Bastogne-Li\xE8ge"
+      - Tour of Flanders
+      Explanation: Paris-Roubaix, known as the 'Hell of the North', covers a daunting
+        route with extensive sections of cobbled roads, testing riders' endurance.
+    - Question: What is the highest road in the Tour de France?
+      TrueAnswer: Col de la Bonette
+      FalseAnswer:
+      - Mont Ventoux
+      - Alpe d'Huez
+      - Col du Tourmalet
+      Explanation: Col de la Bonette, situated in the French Alps, reaches an elevation
+        of 2,802 meters (9,193 feet), making it the highest paved road in Europe.
+    - Question: In track cycling, what kind of race showcases a rider's ability to
+        sprint many laps?
+      TrueAnswer: Points race
+      FalseAnswer:
+      - Individual pursuit
+      - Keirin
+      - Madison
+      Explanation: The points race involves endurance and strategic sprinting, with
+        riders vying for points in intermediate sprints and lapping the field to
+        gain more points.
+    - Question: 'Which cycling discipline consists of three events: sprint, time
+        trial, and keirin?'
+      TrueAnswer: Track cycling omnium
+      FalseAnswer:
+      - Mountain biking
+      - Road racing
+      - Cyclocross
+      Explanation: The track cycling omnium is a multi-race event testing various
+        capabilities, ultimately awarding the rider with the lowest total points.
+    - Question: What was the first year a German cyclist won the Tour de France?
+      TrueAnswer: 1997
+      FalseAnswer:
+      - 1980
+      - 2003
+      - 2011
+      Explanation: In 1997, Jan Ullrich became the first German cyclist to win the
+        Tour de France, finishing ahead of Richard Virenque and Marco Pantani.
+    - Question: Which iconic climb is often featured in the Grand Tours and known
+        for its challenging hairpin turns?
+      TrueAnswer: Alpe d'Huez
+      FalseAnswer:
+      - Mont Ventoux
+      - Stelvio Pass
+      - Mount Evans
+      Explanation: Alpe d'Huez, in the French Alps, is renowned for its 21 hairpin
+        turns and has been a celebrated stage in the Tour de France since 1952.
+    - Question: What designates the best young rider in the Tour de France?
+      TrueAnswer: White jersey
+      FalseAnswer:
+      - Polka dot jersey
+      - Green jersey
+      - Yellow jersey
+      Explanation: The white jersey is awarded to the best rider under the age of
+        25 in the general classification of the Tour de France.
+    - Question: Which former professional cyclist holds the hour record for the farthest
+        distance cycled in one hour?
+      TrueAnswer: Sir Bradley Wiggins
+      FalseAnswer:
+      - Chris Boardman
+      - Miguel Indurain
+      - Tony Rominger
+      Explanation: In 2015, Sir Bradley Wiggins set a new hour record at 54.526 kilometers,
+        surpassing the previous record set by Alex Dowsett.
+    - Question: What is the longest continuous climb in the Tour de France?
+      TrueAnswer: Mont Ventoux
+      FalseAnswer:
+      - Col du Tourmalet
+      - Alpe d'Huez
+      - Col du Galibier
+      Explanation: Mont Ventoux, known for its barren landscape and challenging ascent,
+        has been a legendary and grueling stage in the Tour de France.
+    - Question: What type of racing features the see-and-be-seen approach, showcasing
+        aerodynamic equipment and strategies?
+      TrueAnswer: Time trial
+      FalseAnswer:
+      - Criterium
+      - Hill climb
+      - Road race
+      Explanation: The time trial demands high-speed solo efforts and meticulous
+        positioning to minimize air resistance, often determining overall race standings.
+    - Question: What is the nickname of the prominent monument in the one-day cycling
+        classic, Liege-Bastogne-Liege?
+      TrueAnswer: La Redoute
+      FalseAnswer:
+      - Mur de Huy
+      - "C\xF4te de la Roche-aux-Faucons"
+      - Col du Rosier
+      Explanation: La Redoute, a steep and pivotal climb, is a highlight of the Liege-Bastogne-Liege
+        race, known for its demanding gradients and fan-packed roadside.
+    - Question: Which cycling discipline involves traversing off-road terrain and
+        natural obstacles?
+      TrueAnswer: Cyclocross
+      FalseAnswer:
+      - Track cycling
+      - Road racing
+      - Mountain biking
+      Explanation: Cyclocross combines elements of road and mountain biking, with
+        racers navigating varied terrain, barriers, and challenging weather conditions.
+    - Question: What is the most renowned climb in the Giro d'Italia, featuring its
+        steep gradients and switchbacks?
+      TrueAnswer: Passo dello Stelvio
+      FalseAnswer:
+      - Monte Zoncolan
+      - Passo Gavia
+      - Mortirolo
+      Explanation: Passo dello Stelvio, located in the Italian Alps, is celebrated
+        for its 48 hairpin turns and breathtaking scenery, attracting cycling enthusiasts
+        worldwide.
+    - Question: What component in a cyclist's diet plays a crucial role in muscle
+        recovery and performance?
+      TrueAnswer: Protein
+      FalseAnswer:
+      - Carbohydrates
+      - Fats
+      - Vitamins
+      Explanation: Protein aids in muscle repair and growth, essential for cyclists
+        undergoing rigorous training and competitions, promoting overall endurance
+        and recovery.
+    - Question: Which legendary climb is synonymous with the term 'the Giant of Provence'?
+      TrueAnswer: Mont Ventoux
+      FalseAnswer:
+      - Col du Galibier
+      - Alpe d'Huez
+      - Col du Tourmalet
+      Explanation: Mont Ventoux in the Provence region of France is renowned for
+        its towering presence and imposing ascent, creating an iconic challenge in
+        cycling.

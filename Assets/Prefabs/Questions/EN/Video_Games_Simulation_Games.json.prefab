@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5982032550531610574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1054653932553040946}
+  - component: {fileID: 155730122070649076}
+  m_Layer: 0
+  m_Name: Video_Games_Simulation_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1054653932553040946
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982032550531610574}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &155730122070649076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982032550531610574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: How many players can you have in a multiplayer game of The Sims 4?
+      TrueAnswer: 4
+      FalseAnswer:
+      - 2
+      - 6
+      - 8
+      Explanation: The Sims 4 allows up to 4 players to play online in the multiplayer
+        mode.
+    - Question: 'Which studio developed the game ''Cities: Skylines''?'
+      TrueAnswer: Colossal Order
+      FalseAnswer:
+      - Maxis
+      - Paradox Interactive
+      - Blizzard Entertainment
+      Explanation: 'Colossal Order, a Finnish game development studio, is behind
+        the city-building game ''Cities: Skylines''.'
+    - Question: What is the primary resource in 'RimWorld'?
+      TrueAnswer: Food
+      FalseAnswer:
+      - Gold
+      - Wood
+      - Iron
+      Explanation: '''RimWorld'' requires players to manage food to sustain their
+        colony amidst various challenges and events.'
+    - Question: Which of these is a popular farming game franchise?
+      TrueAnswer: Harvest Moon
+      FalseAnswer:
+      - Final Fantasy
+      - Assassin's Creed
+      - Grand Theft Auto
+      Explanation: Harvest Moon is a long-running farming simulation game series
+        that has gained a dedicated fanbase.
+    - Question: Which game allows players to manage their own theme park?
+      TrueAnswer: RollerCoaster Tycoon
+      FalseAnswer:
+      - 'The Elder Scrolls V: Skyrim'
+      - Overwatch
+      - Minecraft
+      Explanation: RollerCoaster Tycoon lets players construct and manage their own
+        amusement park, creating rides and managing finances.
+    - Question: In 'The Sims', what is the highest career level in the Culinary track?
+      TrueAnswer: Celebrity Chef
+      FalseAnswer:
+      - Sous Chef
+      - Executive Chef
+      - Pastry Chef
+      Explanation: The Celebrity Chef career level is the highest rank in 'The Sims'
+        Culinary career track, granting special perks and benefits.
+    - Question: Which virtual life game is known for its quirky humor and characters?
+      TrueAnswer: Stardew Valley
+      FalseAnswer:
+      - 'The Witcher 3: Wild Hunt'
+      - Fallout 4
+      - 'The Legend of Zelda: Breath of the Wild'
+      Explanation: Stardew Valley's charming characters and humorous moments contribute
+        to its endearing and captivating gameplay experience.
+    - Question: Which genre does 'Euro Truck Simulator 2' belong to?
+      TrueAnswer: Simulation
+      FalseAnswer:
+      - Role-Playing
+      - First-Person Shooter
+      - Puzzle
+      Explanation: '''Euro Truck Simulator 2'' falls under the simulation genre,
+        offering players a realistic truck driving experience across Europe.'
+    - Question: In 'Planet Coaster', what are players tasked with building?
+      TrueAnswer: Amusement Parks
+      FalseAnswer:
+      - Space Stations
+      - Underwater Cities
+      - Medieval Castles
+      Explanation: Players in 'Planet Coaster' create and manage elaborate amusement
+        parks with custom-designed rides and attractions.
+    - Question: Which game simulation involves creating and managing a hospital?
+      TrueAnswer: Two Point Hospital
+      FalseAnswer:
+      - FIFA 22
+      - 'Call of Duty: Warzone'
+      - Horizon Zero Dawn
+      Explanation: '''Two Point Hospital'' challenges players to construct and oversee
+        an efficient healthcare facility with quirky illnesses.'
+    - Question: What farming mechanic is a core feature of 'Story of Seasons'?
+      TrueAnswer: Seasonal Crops
+      FalseAnswer:
+      - Livestock Breeding
+      - Fishing
+      - Mining
+      Explanation: The farming cycle in 'Story of Seasons' revolves around planting
+        and harvesting crops based on seasonal variations and weather.
+    - Question: In 'Airport CEO', what type of facility do players manage?
+      TrueAnswer: Airports
+      FalseAnswer:
+      - Shopping Malls
+      - Sports Arenas
+      - Zoos
+      Explanation: '''Airport CEO'' simulates the intricate management of airport
+        operations, including logistics, security, and passenger services.'
+    - Question: What is the goal in 'Prison Architect'?
+      TrueAnswer: Build and Manage a Prison
+      FalseAnswer:
+      - Design a Theme Park
+      - Lead an Army to Victory
+      - Run a Cafe
+      Explanation: Players in 'Prison Architect' assume the role of a prison designer
+        and manager, overseeing inmate needs and maintaining security.
+    - Question: Which simulation game tasks players with overseeing a space agency's
+        expansion?
+      TrueAnswer: Kerbal Space Program
+      FalseAnswer:
+      - Assassin's Creed Valhalla
+      - 'The Witcher 3: Wild Hunt'
+      - Minecraft
+      Explanation: '''Kerbal Space Program'' lets players control a space program,
+        designing and launching spacecraft for missions.'
+    - Question: What is the primary objective in 'The Escapists'?
+      TrueAnswer: Escape from Prison
+      FalseAnswer:
+      - Start a Small Business
+      - Conquer Enemy Territories
+      - Solve Mysteries
+      Explanation: In 'The Escapists', players strive to plan and execute clever
+        strategies to escape from incarceration.
+    - Question: In the game 'House Flipper', what do players renovate?
+      TrueAnswer: Houses
+      FalseAnswer:
+      - Hotels
+      - Castles
+      - Amusement Parks
+      Explanation: '''House Flipper'' tasks players with purchasing and renovating
+        various houses to sell for profit.'
+    - Question: Which genre does 'Microsoft Flight Simulator' belong to?
+      TrueAnswer: Flight Simulation
+      FalseAnswer:
+      - Racing
+      - Point-and-Click Adventure
+      - Platformer
+      Explanation: As a classic flight simulation game, 'Microsoft Flight Simulator'
+        offers a realistic aviation experience with accurate recreations of real-world
+        locations.
+    - Question: What is the main focus of 'The Isle' game?
+      TrueAnswer: Survival
+      FalseAnswer:
+      - City Building
+      - Racing
+      - Fashion Design
+      Explanation: '''The Isle'' immerses players in a survival experience, challenging
+        them to thrive in a prehistoric environment as dinosaurs or humans.'
+    - Question: Which of these is a staple feature in 'SimCity' games?
+      TrueAnswer: City Planning and Management
+      FalseAnswer:
+      - Space Exploration
+      - Detective Investigations
+      - Pirate Adventures
+      Explanation: SimCity games emphasize urban planning and governance, allowing
+        players to build and manage virtual cities.
+    - Question: What is the central theme of the game 'House Party'?
+      TrueAnswer: Social Interactions
+      FalseAnswer:
+      - Monster Hunting
+      - Space Exploration
+      - Time Travel
+      Explanation: '''House Party'' focuses on navigating social interactions and
+        relationships at a raucous house gathering with various characters.'

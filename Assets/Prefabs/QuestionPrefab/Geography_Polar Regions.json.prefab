@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2923558007129479226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7943620870665229003}
+  - component: {fileID: 9100645319601441032}
+  m_Layer: 0
+  m_Name: Geography_Polar Regions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7943620870665229003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2923558007129479226}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9100645319601441032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2923558007129479226}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest polar region on Earth?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is the largest polar region, covering an area of about
+        14 million square kilometers.
+    - Question: Which polar region is located in the Northern Hemisphere?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is located in the Northern Hemisphere and is surrounded
+        by the Arctic Ocean.
+    - Question: Which polar region is home to the North Pole?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is home to the North Pole, which is located in the
+        middle of the Arctic Ocean.
+    - Question: Which polar region is home to the South Pole?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is home to the South Pole, which is located at the
+        southernmost point on Earth.
+    - Question: Which polar region is mostly covered by ice?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is mostly covered by ice, with ice sheets that are
+        several kilometers thick.
+    - Question: Which polar region is known for its polar bears?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is known for its polar bears, which are adapted to
+        the cold Arctic climate.
+    - Question: Which polar region is home to penguins?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is home to penguins, which are well-adapted to the
+        icy conditions.
+    - Question: Which polar region is closer to the equator?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is closer to the equator compared to Antarctica.
+    - Question: Which polar region is located in the Southern Hemisphere?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is located in the Southern Hemisphere, surrounding
+        the South Pole.
+    - Question: Which polar region is known for its icebergs?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is known for its icebergs, which break off from glaciers
+        and float in the surrounding ocean.
+    - Question: Which polar region is home to the largest ice sheet?
+      TrueAnswer: Greenland
+      FalseAnswer:
+      - Arctic
+      - Antarctica
+      - Svalbard
+      Explanation: Greenland is home to the largest ice sheet in the world, covering
+        about 80% of the island.
+    - Question: Which polar region is known for its fjords?
+      TrueAnswer: Svalbard
+      FalseAnswer:
+      - Arctic
+      - Antarctica
+      - Greenland
+      Explanation: Svalbard, an archipelago in the Arctic, is known for its stunning
+        fjords carved by glaciers.
+    - Question: Which polar region is closest to Russia?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is closest to Russia, with the Russian Arctic spanning
+        across the northernmost part of the country.
+    - Question: Which polar region is known for its midnight sun phenomenon?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic experiences the midnight sun phenomenon, where the
+        sun remains visible for 24 hours during summer.
+    - Question: Which polar region is home to the Inuit people?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is home to the Inuit people, who have adapted to the
+        harsh Arctic environment.
+    - Question: Which polar region is known for its ice shelves?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is known for its ice shelves, which are floating extensions
+        of the ice sheet.
+    - Question: Which polar region is located near Canada?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is located near Canada, with the Canadian Arctic Archipelago
+        consisting of numerous islands.
+    - Question: Which polar region is known for its aurora borealis?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctica
+      - Greenland
+      - Svalbard
+      Explanation: The Arctic is known for the aurora borealis, also known as the
+        Northern Lights, a natural light display.
+    - Question: Which polar region is home to the largest penguin species?
+      TrueAnswer: Antarctica
+      FalseAnswer:
+      - Arctic
+      - Greenland
+      - Svalbard
+      Explanation: Antarctica is home to the largest penguin species, the Emperor
+        Penguin.
+    - Question: Which polar region is known for its extreme cold temperatures?
+      TrueAnswer: Both
+      FalseAnswer:
+      - Arctic
+      - Antarctica
+      - Neither
+      Explanation: Both the Arctic and Antarctica are known for their extreme cold
+        temperatures, with Antarctica being colder on average.

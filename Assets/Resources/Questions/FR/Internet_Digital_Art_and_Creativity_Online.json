@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est le format de fichier le plus populaire pour l'art numérique ?",
+            "TrueAnswer": "JPEG",
+            "FalseAnswer": [
+              "TIFF",
+              "GIF",
+              "PNG"
+            ],
+            "Explanation": "Le JPEG, ou Joint Photographic Experts Group, est couramment utilisé pour l'art numérique en raison de sa petite taille de fichier et de sa compression largement prise en charge."
+          },
+          {
+            "Question": "Quel logiciel est largement utilisé pour l'art numérique en 3D ?",
+            "TrueAnswer": "Blender",
+            "FalseAnswer": [
+              "Adobe Photoshop",
+              "Procreate",
+              "Krita"
+            ],
+            "Explanation": "Blender est populaire pour la création d'art numérique en 3D en raison de sa nature open-source, de ses fonctionnalités étendues et du soutien actif de la communauté."
+          },
+          {
+            "Question": "Quelle est la taille de toile numérique courante pour les œuvres d'art en ligne ?",
+            "TrueAnswer": "1080x1080 pixels",
+            "FalseAnswer": [
+              "800x600 pixels",
+              "1920x1080 pixels",
+              "400x400 pixels"
+            ],
+            "Explanation": "1080x1080 pixels est une taille de toile numérique populaire pour les œuvres d'art en ligne, notamment pour les plateformes de médias sociaux comme Instagram et Pinterest."
+          },
+          {
+            "Question": "Quelle plateforme en ligne est connue pour sa communauté d'art numérique ?",
+            "TrueAnswer": "DeviantArt",
+            "FalseAnswer": [
+              "Pinterest",
+              "Behance",
+              "ArtStation"
+            ],
+            "Explanation": "DeviantArt est une communauté en ligne dynamique pour les artistes numériques pour présenter et partager leur travail, se connecter avec d'autres et participer à des concours et événements liés à l'art numérique."
+          },
+          {
+            "Question": "Quelle marque de tablette d'art numérique est populaire ?",
+            "TrueAnswer": "Wacom",
+            "FalseAnswer": [
+              "Huion",
+              "XP-Pen",
+              "Apple"
+            ],
+            "Explanation": "Wacom est largement reconnu pour ses tablettes d'art numérique de haute qualité, offrant des stylets sensibles à la pression pour des dessins et peintures numériques précis et naturels."
+          },
+          {
+            "Question": "Quel est le terme pour la manipulation d'art numérique existant pour créer une nouvelle composition ?",
+            "TrueAnswer": "Collage numérique",
+            "FalseAnswer": [
+              "Pixel art",
+              "Tracé vectoriel",
+              "Morphing"
+            ],
+            "Explanation": "Le collage numérique consiste à combiner et à modifier des éléments de différentes œuvres d'art numériques pour former une nouvelle composition cohérente, souvent avec une intention thématique ou artistique."
+          },
+          {
+            "Question": "Quel mode de couleur est couramment utilisé pour l'art numérique destiné à la visualisation web ?",
+            "TrueAnswer": "RVB",
+            "FalseAnswer": [
+              "CMJN",
+              "Niveaux de gris",
+              "Couleur indexée"
+            ],
+            "Explanation": "Le mode de couleur RVB (Rouge, Vert, Bleu) est idéal pour l'art numérique destiné à la visualisation web, car il représente de manière précise les couleurs affichées sur les écrans électroniques."
+          },
+          {
+            "Question": "Quel est le terme commun pour l'art numérique qui simule les médias traditionnels ?",
+            "TrueAnswer": "Peinture numérique",
+            "FalseAnswer": [
+              "Sculpture numérique",
+              "Art en réalité augmentée",
+              "Art génératif"
+            ],
+            "Explanation": "La peinture numérique fait référence à la création d'œuvres d'art à l'aide d'outils numériques pour imiter les techniques de peinture traditionnelles, telles que les coups de pinceau et le mélange des couleurs, sur un ordinateur ou une tablette."
+          },
+          {
+            "Question": "Quel format de fichier prend en charge l'animation dans l'art numérique ?",
+            "TrueAnswer": "GIF",
+            "FalseAnswer": [
+              "SVG",
+              "MOV",
+              "AVI"
+            ],
+            "Explanation": "Le format GIF (Graphics Interchange Format) permet des animations simples dans l'art numérique, couramment utilisé pour de courtes animations en boucle et des graphismes en mouvement de basse résolution."
+          },
+          {
+            "Question": "Quelle plateforme en ligne est connue pour son marché d'art numérique et ses ventes de NFT ?",
+            "TrueAnswer": "SuperRare",
+            "FalseAnswer": [
+              "Etsy",
+              "Redbubble",
+              "Society6"
+            ],
+            "Explanation": "SuperRare est une plateforme en ligne spécialisée dans l'art numérique et les ventes de NFT (jetons non fongibles), permettant aux artistes de créer et de vendre des œuvres d'art numériques uniques sous forme de jetons de collection."
+          },
+          {
+            "Question": "Qui est un artiste numérique de premier plan connu pour avoir inauguré l'art de la glitch art ?",
+            "TrueAnswer": "Phillip Stearns",
+            "FalseAnswer": [
+              "Banksy",
+              "Yayoi Kusama",
+              "JR"
+            ],
+            "Explanation": "Phillip Stearns est une figure de proue dans l'art de la glitch, une pratique artistique qui consiste à exploiter les erreurs techniques et les imperfections des systèmes numériques pour créer des œuvres visuellement saisissantes et conceptuellement riches."
+          },
+          {
+            "Question": "Quelle plateforme en ligne est populaire pour héberger des tutoriels et des ressources d'art numérique ?",
+            "TrueAnswer": "ArtStation",
+            "FalseAnswer": [
+              "YouTube",
+              "Skillshare",
+              "Udemy"
+            ],
+            "Explanation": "ArtStation est un lieu renommé pour les tutoriels et les ressources d'art numérique, proposant un large éventail de contenus éducatifs, des perspectives industrielles et des ateliers dirigés par des artistes pour les artistes numériques aspirants et établis."
+          },
+          {
+            "Question": "Quel est le terme commun pour la superposition de textures ou de motifs sur de l'art numérique ?",
+            "TrueAnswer": "Mapping de textures",
+            "FalseAnswer": [
+              "Rotoscopie",
+              "Défilement parallaxe",
+              "Capture de mouvement"
+            ],
+            "Explanation": "Le mapping de textures consiste à appliquer des textures ou des motifs sur des surfaces d'art numérique pour améliorer le réalisme visuel, la profondeur et les détails, souvent utilisé dans le rendu 3D et le développement de jeux."
+          },
+          {
+            "Question": "Quel est l'avantage principal de l'utilisation du logiciel d'art numérique pour l'expression créative ?",
+            "TrueAnswer": "Fonctionnalité Annuler/Rétablir",
+            "FalseAnswer": [
+              "Options de couleur limitées",
+              "Formats de fichier incompatibles",
+              "Dépendance matérielle"
+            ],
+            "Explanation": "La fonctionnalité Annuler/Rétablir dans le logiciel d'art numérique permet aux artistes d'expérimenter librement, de réviser leur travail de manière itérative et d'annuler des erreurs, offrant une plus grande flexibilité et expérimentation créative dans le processus d'art numérique."
+          },
+          {
+            "Question": "Quelle technique d'art numérique implique la génération algorithmique de visuels et d'animations ?",
+            "TrueAnswer": "Génération procédurale",
+            "FalseAnswer": [
+              "Animation en volume",
+              "Photographie tilt-shift",
+              "Surréalisme"
+            ],
+            "Explanation": "La génération procédurale utilise des algorithmes pour créer et manipuler des visuels et des animations numériques, permettant aux artistes de générer une production artistique complexe, variée et souvent imprévisible avec une logique informatique."
+          },
+          {
+            "Question": "Quel logiciel est renommé pour ses capacités de sculpture numérique ?",
+            "TrueAnswer": "ZBrush",
+            "FalseAnswer": [
+              "Microsoft Paint",
+              "Autodesk SketchBook",
+              "Clip Studio Paint"
+            ],
+            "Explanation": "ZBrush est célèbre pour ses puissants outils de sculpture numérique, permettant aux artistes de créer des modèles, des sculptures et des designs de personnages 3D complexes, détaillés et réalistes avec une grande précision."
+          },
+          {
+            "Question": "Quel est le terme pour la distorsion délibérée de l'art numérique pour évoquer des émotions ou un symbolisme ?",
+            "TrueAnswer": "Pixellisation",
+            "FalseAnswer": [
+              "Flou de mouvement",
+              "Flare de lentille",
+              "Aberration chromatique"
+            ],
+            "Explanation": "La pixellisation consiste à déformer délibérément l'art numérique, souvent au niveau pixel, pour transmettre des émotions, des thèmes ou des qualités esthétiques spécifiques, brouillant les frontières entre précision numérique et expression artistique."
+          },
+          {
+            "Question": "Que signifie le terme 'NFT' dans le contexte de l'art numérique ?",
+            "TrueAnswer": "Jetons non fongibles",
+            "FalseAnswer": [
+              "Balise de fidélité négociable",
+              "Transfert de fichier en réseau",
+              "Test de rétroaction neurale"
+            ],
+            "Explanation": "Les NFT sont des jetons numériques uniques qui représentent la propriété ou la preuve d'authenticité pour des œuvres d'art numériques, tirant parti de la technologie de la blockchain pour des transactions artistiques sécurisées et immuables."
+          },
+          {
+            "Question": "Quel style d'art numérique intègre la technologie et des thèmes futuristes ?",
+            "TrueAnswer": "Cyberpunk",
+            "FalseAnswer": [
+              "Expressionnisme abstrait",
+              "Minimalisme",
+              "Réalisme"
+            ],
+            "Explanation": "Le style d'art cyberpunk se concentre sur des éléments dystopiques et futuristes, mêlant souvent technologie, paysages urbains et augmentation cybernétique pour créer des œuvres visuellement saisissantes et conceptuellement riches."
+          },
+          {
+            "Question": "Quelle technique d'art numérique consiste à créer des transitions visuelles fluides entre les images ?",
+            "TrueAnswer": "Morphing",
+            "FalseAnswer": [
+              "Dithering",
+              "Op art",
+              "Distorsion de perspective"
+            ],
+            "Explanation": "Le morphing est la technique d'art numérique consistant à créer des transitions fluides et harmonieuses entre les images, souvent utilisée pour des effets visuels, des séquences de transformations et des animations surréalistes."
+          }
+        ]
+      }
+    }
+  ]
+}

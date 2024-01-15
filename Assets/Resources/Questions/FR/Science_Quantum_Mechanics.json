@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'âge minimum de l'univers?",
+            "TrueAnswer": "13,8 milliards d'années",
+            "FalseAnswer": [
+              "100 millions d'années",
+              "1 billion d'années",
+              "5 milliards d'années"
+            ],
+            "Explanation": "L'âge de l'univers, basé sur les mesures du rayonnement cosmique de fond, est estimé à 13,8 milliards d'années."
+          },
+          {
+            "Question": "Quelle est la nature duale de la lumière?",
+            "TrueAnswer": "Dualité ondes-particules",
+            "FalseAnswer": [
+              "Onde de photon",
+              "Dualité particulaire",
+              "Interférence ondes-particules"
+            ],
+            "Explanation": "La lumière présente à la fois des propriétés ondulatoires et des propriétés particules. Ce phénomène est connu sous le nom de dualité ondes-particules en mécanique quantique."
+          },
+          {
+            "Question": "Quel physicien a proposé le principe d'incertitude?",
+            "TrueAnswer": "Werner Heisenberg",
+            "FalseAnswer": [
+              "Niels Bohr",
+              "Max Planck",
+              "Albert Einstein"
+            ],
+            "Explanation": "Werner Heisenberg a introduit le principe d'incertitude, affirmant que certaines paires de propriétés physiques ne peuvent pas être connues simultanément avec précision."
+          },
+          {
+            "Question": "À quoi la l'équation d'onde de Schrödinger décrit-elle?",
+            "TrueAnswer": "Fonction d'onde quantique",
+            "FalseAnswer": [
+              "Vitesse particulaire",
+              "Orbitales électroniques",
+              "Masse atomique"
+            ],
+            "Explanation": "L'équation de Schrödinger est utilisée pour calculer la fonction d'onde d'un système quantique, fournissant des informations sur la probabilité de trouver une particule dans un état particulier."
+          },
+          {
+            "Question": "Quelle est la plus petite unité d'énergie en mécanique quantique?",
+            "TrueAnswer": "Photon",
+            "FalseAnswer": [
+              "Électron",
+              "Quark",
+              "Neutrino"
+            ],
+            "Explanation": "Les photons sont des paquets discrets d'énergie qui constituent les ondes électromagnétiques. En mécanique quantique, les photons sont des particules fondamentales responsables de la force électromagnétique."
+          },
+          {
+            "Question": "Quelle est la propriété fondamentale d'un système quantique analogue au moment angulaire?",
+            "TrueAnswer": "Spin",
+            "FalseAnswer": [
+              "Charge",
+              "Masse",
+              "Vitesse"
+            ],
+            "Explanation": "Le spin est une forme intrinsèque du moment angulaire porté par les particules élémentaires, distinguant les particules quantiques des objets classiques et influençant leur comportement."
+          },
+          {
+            "Question": "Quel est le nombre maximal d'électrons pouvant remplir une orbitale atomique?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "4",
+              "6",
+              "8"
+            ],
+            "Explanation": "Selon le principe d'exclusion de Pauli, chaque orbitale peut contenir au maximum 2 électrons avec des spins opposés, empêchant l'occupation du même état quantique par plus de deux électrons."
+          },
+          {
+            "Question": "Quel type de particules est soumis au principe d'exclusion de Pauli?",
+            "TrueAnswer": "Fermions",
+            "FalseAnswer": [
+              "Bosons",
+              "Leptons",
+              "Quarks"
+            ],
+            "Explanation": "Les fermions, comprenant les électrons, les protons et les neutrons, suivent le principe d'exclusion de Pauli, qui interdit à deux fermions identiques d'occuper simultanément le même état quantique."
+          },
+          {
+            "Question": "Quelle est la température minimale théoriquement atteignable?",
+            "TrueAnswer": "Zéro absolu",
+            "FalseAnswer": [
+              "Température ambiante",
+              "500 K",
+              "-273,15°C"
+            ],
+            "Explanation": "Le zéro absolu, à 0 Kelvin (-273,15°C ou -459,67°F), est la température la plus basse possible, où le mouvement thermique des particules s'arrête et l'entropie atteint sa valeur minimale."
+          },
+          {
+            "Question": "Quelle fonction de densité de probabilité est utilisée pour décrire un électron dans un atome?",
+            "TrueAnswer": "Fonction d'onde",
+            "FalseAnswer": [
+              "Flux quantique",
+              "Nuage électronique",
+              "Schéma orbital"
+            ],
+            "Explanation": "La fonction d'onde, souvent notée Ψ, décrit le comportement d'un électron dans un atome, déterminant la probabilité de trouver l'électron dans une position spécifique."
+          },
+          {
+            "Question": "Quelle expérience a observé la dualité ondes-particules des électrons?",
+            "TrueAnswer": "Expérience des fentes d'Young",
+            "FalseAnswer": [
+              "Effet photoélectrique",
+              "Diffusion Compton",
+              "Tunnel quantique"
+            ],
+            "Explanation": "L'expérience des fentes d'Young a démontré que les électrons présentent un comportement ondulatoire, remettant en question la vision classique et confirmant la prédiction de la dualité ondes-particules de la mécanique quantique."
+          },
+          {
+            "Question": "Comment appelle-t-on le changement d'un système quantique lorsqu'il est observé?",
+            "TrueAnswer": "Effondrement de la fonction d'onde",
+            "FalseAnswer": [
+              "Saut quantique",
+              "Décohérence particulaire",
+              "Effet observateur"
+            ],
+            "Explanation": "L'effondrement de la fonction d'onde désigne le changement soudain de la fonction d'onde d'un système quantique lors de l'observation, conduisant à un résultat spécifique et indiquant une transition de la superposition à un état déterminé."
+          },
+          {
+            "Question": "Quelle est la représentation en niveau d'énergie des électrons d'un atome?",
+            "TrueAnswer": "Diagramme d'état quantique",
+            "FalseAnswer": [
+              "Schéma orbital atomique",
+              "Tracé de configuration électronique",
+              "Graphique du modèle de Bohr"
+            ],
+            "Explanation": "Un diagramme d'état quantique représente visuellement les niveaux d'énergie permis et les configurations électroniques au sein d'un atome, suivant les principes de la mécanique quantique et le principe d'exclusion de Pauli."
+          },
+          {
+            "Question": "Comment appelle-t-on l'état entrelacé de deux particules quantiques?",
+            "TrueAnswer": "État de Bell",
+            "FalseAnswer": [
+              "Superposition quantique",
+              "État cohérent",
+              "État d'effondrement"
+            ],
+            "Explanation": "Un état de Bell décrit l'entrelacement de deux particules quantiques, où leurs propriétés deviennent corrélées et interdépendantes, même lorsqu'elles sont séparées spatialement, démontrant la nature non locale de la mécanique quantique."
+          },
+          {
+            "Question": "Que manipulent les portes quantiques dans l'informatique quantique?",
+            "TrueAnswer": "Qubits",
+            "FalseAnswer": [
+              "Bits",
+              "Octets",
+              "Registres"
+            ],
+            "Explanation": "Les portes quantiques sont des opérations qui agissent sur les qubits, les unités fondamentales d'information quantique, manipulant leur état pour effectuer des calculs quantiques avec des effets de superposition et d'entrelacement."
+          },
+          {
+            "Question": "Quel principe quantique est utilisé comme fondement de la cryptographie quantique?",
+            "TrueAnswer": "Le principe d'incertitude de Heisenberg",
+            "FalseAnswer": [
+              "La constante de Planck",
+              "Le théorème de Bell",
+              "Le principe d'indétermination quantique"
+            ],
+            "Explanation": "Le principe d'incertitude est utilisé en cryptographie quantique pour permettre une communication sécurisée grâce aux limitations inhérentes sur la mesure simultanée de certaines propriétés quantiques, établissant des principes de distribution de clé quantique."
+          },
+          {
+            "Question": "Quel effet la superposition a-t-elle sur les systèmes quantiques?",
+            "TrueAnswer": "États simultanés",
+            "FalseAnswer": [
+              "États ordonnés",
+              "États décohérés",
+              "État singulier"
+            ],
+            "Explanation": "La superposition permet à un système quantique d'exister simultanément dans plusieurs états, constituant une combinaison ou une superposition de tous les états possibles jusqu'à ce qu'ils soient mesurés ou observés, comme décrit par la mécanique quantique."
+          },
+          {
+            "Question": "Quel est le terme pour l'émission spontanée de lumière par un atome excité en mécanique quantique?",
+            "TrueAnswer": "Saut quantique",
+            "FalseAnswer": [
+              "Émission de photon",
+              "Transition électronique",
+              "Effondrement d'onde"
+            ],
+            "Explanation": "Un saut quantique, ou un bond quantique, représente la transition soudaine d'un atome d'un état excité à un état d'énergie inférieure, accompagnée de l'émission d'un photon."
+          },
+          {
+            "Question": "Quel est le terme pour le processus par lequel un système quantique interagit avec son environnement, aboutissant à la décohérence de l'état?",
+            "TrueAnswer": "Entrelacement quantique",
+            "FalseAnswer": [
+              "Tunnel quantique",
+              "Superposition quantique",
+              "Effondrement quantique"
+            ],
+            "Explanation": "L'entrelacement quantique implique l'interconnexion de systèmes quantiques, entraînant l'entrelacement et la décohérence, ce qui pose des défis pour maintenir la cohérence des technologies quantiques et des communications."
+          },
+          {
+            "Question": "Quel type de particules est utilisé dans la téléportation quantique?",
+            "TrueAnswer": "Particules entrelacées",
+            "FalseAnswer": [
+              "Particules polarisées",
+              "Particules excitées",
+              "Particules alignées"
+            ],
+            "Explanation": "La téléportation quantique implique le transfert d'informations quantiques entre des particules entrelacées, en utilisant la corrélation unique et la connexion non locale établie par l'entrelacement quantique."
+          }
+        ]
+      }
+    }
+  ]
+}

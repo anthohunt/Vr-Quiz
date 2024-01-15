@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &722683394037851273
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4102143796722279931}
+  - component: {fileID: 4388496354685746775}
+  m_Layer: 0
+  m_Name: Fashion and Design_The Art of Jewelry Design.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4102143796722279931
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722683394037851273}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4388496354685746775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 722683394037851273}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most common type of metal used in jewelry making?
+      TrueAnswer: Gold
+      FalseAnswer:
+      - Silver
+      - Platinum
+      - Copper
+      Explanation: Gold is the most commonly used metal in jewelry making due to
+        its durability and malleability.
+    - Question: What is the birthstone for the month of April?
+      TrueAnswer: Diamond
+      FalseAnswer:
+      - Emerald
+      - Ruby
+      - Sapphire
+      Explanation: The birthstone for April is the diamond, known for its brilliance
+        and symbolizing everlasting love.
+    - Question: What is the process of coating a metal with a thin layer of gold
+        called?
+      TrueAnswer: Gold plating
+      FalseAnswer:
+      - Silver plating
+      - Copper plating
+      - Bronze plating
+      Explanation: Gold plating is the process of depositing a thin layer of gold
+        onto a metal surface.
+    - Question: What is the term for a gemstone that has been cut and polished?
+      TrueAnswer: Faceted
+      FalseAnswer:
+      - Raw
+      - Tumbled
+      - Cabochon
+      Explanation: A faceted gemstone has been cut and polished with multiple flat
+        surfaces to enhance its brilliance.
+    - Question: What is the traditional gift for a 10th wedding anniversary?
+      TrueAnswer: Diamond
+      FalseAnswer:
+      - Gold
+      - Silver
+      - Ruby
+      Explanation: The traditional gift for a 10th wedding anniversary is a diamond,
+        symbolizing strength and durability.
+    - Question: What is the process of joining two metal pieces together called?
+      TrueAnswer: Soldering
+      FalseAnswer:
+      - Welding
+      - Brazing
+      - Adhesive bonding
+      Explanation: Soldering is the process of using a metal alloy to join two metal
+        pieces together.
+    - Question: What is the term for a small decorative piece of metal or stone on
+        a piece of jewelry?
+      TrueAnswer: Bead
+      FalseAnswer:
+      - Charm
+      - Pendant
+      - Brooch
+      Explanation: A bead is a small decorative piece of metal or stone used in jewelry
+        design.
+    - Question: What is the process of giving a metal surface a textured or patterned
+        finish called?
+      TrueAnswer: Etching
+      FalseAnswer:
+      - Engraving
+      - Embossing
+      - Filigree
+      Explanation: Etching is the process of creating a textured or patterned finish
+        on a metal surface.
+    - Question: What is the term for a ring that features a single gemstone in the
+        center?
+      TrueAnswer: Solitaire
+      FalseAnswer:
+      - Cluster
+      - Halo
+      - Three-stone
+      Explanation: A solitaire ring features a single gemstone in the center, often
+        with a simple band.
+    - Question: What is the term for a necklace that sits snugly around the base
+        of the neck?
+      TrueAnswer: Choker
+      FalseAnswer:
+      - Pendant
+      - Lariat
+      - Collar
+      Explanation: A choker is a necklace that sits snugly around the base of the
+        neck, emphasizing the neckline.
+    - Question: What is the term for a decorative technique that involves twisting
+        fine metal wires together?
+      TrueAnswer: Filigree
+      FalseAnswer:
+      - Enamel
+      - Granulation
+      - "Repouss\xE9"
+      Explanation: Filigree is a decorative technique that involves twisting fine
+        metal wires together to create intricate designs.
+    - Question: What is the term for a small, round metal fastener used to secure
+        a necklace or bracelet?
+      TrueAnswer: Clasp
+      FalseAnswer:
+      - Bail
+      - Toggle
+      - Link
+      Explanation: A clasp is a small, round metal fastener used to secure a necklace
+        or bracelet.
+    - Question: What is the term for a gemstone that changes color depending on the
+        lighting?
+      TrueAnswer: Alexandrite
+      FalseAnswer:
+      - Opal
+      - Amethyst
+      - Garnet
+      Explanation: Alexandrite is a rare gemstone that exhibits different colors
+        under different lighting conditions.
+    - Question: What is the term for a ring that features three gemstones in a row?
+      TrueAnswer: Three-stone
+      FalseAnswer:
+      - Eternity
+      - Cluster
+      - Halo
+      Explanation: A three-stone ring features three gemstones in a row, often representing
+        the past, present, and future.
+    - Question: What is the term for a necklace that features a pendant suspended
+        from a chain?
+      TrueAnswer: Lariat
+      FalseAnswer:
+      - Collar
+      - Choker
+      - Bib
+      Explanation: A lariat is a necklace that features a pendant or tassel suspended
+        from a chain, often without a clasp.
+    - Question: What is the term for a gemstone that has been shaped and polished
+        into a smooth, rounded form?
+      TrueAnswer: Cabochon
+      FalseAnswer:
+      - Faceted
+      - Raw
+      - Tumbled
+      Explanation: A cabochon is a gemstone that has been shaped and polished into
+        a smooth, rounded form without facets.
+    - Question: What is the term for a decorative technique that involves fusing
+        metal particles onto a surface?
+      TrueAnswer: Granulation
+      FalseAnswer:
+      - Engraving
+      - Etching
+      - "Repouss\xE9"
+      Explanation: Granulation is a decorative technique that involves fusing tiny
+        metal particles onto a metal surface.
+    - Question: What is the term for a bracelet that features a series of connected
+        links?
+      TrueAnswer: Chain
+      FalseAnswer:
+      - Bangle
+      - Cuff
+      - Toggle
+      Explanation: A chain bracelet features a series of connected links, allowing
+        flexibility and movement.
+    - Question: What is the term for a decorative technique that involves applying
+        colored glass to metal?
+      TrueAnswer: Enamel
+      FalseAnswer:
+      - Filigree
+      - Etching
+      - Inlay
+      Explanation: Enamel is a decorative technique that involves applying colored
+        glass to metal and firing it to create a smooth, glossy surface.
+    - Question: What is the term for a ring that features a circular band with no
+        beginning or end?
+      TrueAnswer: Eternity
+      FalseAnswer:
+      - Solitaire
+      - Three-stone
+      - Cluster
+      Explanation: An eternity ring features a circular band with no beginning or
+        end, often set with gemstones all around.
+    - Question: What is the term for a necklace that features multiple strands of
+        beads or chains?
+      TrueAnswer: Bib
+      FalseAnswer:
+      - Lariat
+      - Choker
+      - Collar
+      Explanation: A bib necklace features multiple strands of beads or chains that
+        create a layered, statement look.

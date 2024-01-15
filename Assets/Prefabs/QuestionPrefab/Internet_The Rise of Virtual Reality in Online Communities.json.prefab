@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8185829637867684496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3784772712196832758}
+  - component: {fileID: 1474687585732691927}
+  m_Layer: 0
+  m_Name: Internet_The Rise of Virtual Reality in Online Communities.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3784772712196832758
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8185829637867684496}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1474687585732691927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8185829637867684496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most widely used web browser?
+      TrueAnswer: Google Chrome
+      FalseAnswer:
+      - Mozilla Firefox
+      - Safari
+      - Internet Explorer
+      Explanation: Google Chrome is the most popular web browser, known for its speed
+        and user-friendly interface.
+    - Question: What does URL stand for?
+      TrueAnswer: Uniform Resource Locator
+      FalseAnswer:
+      - Universal Resource Locator
+      - Uniform Retrieval Locator
+      - Universal Retrieval Locator
+      Explanation: URL stands for Uniform Resource Locator, which is the address
+        of a specific webpage or file on the internet.
+    - Question: What does HTML stand for?
+      TrueAnswer: Hypertext Markup Language
+      FalseAnswer:
+      - Hyperlink Markup Language
+      - Hypertext Modeling Language
+      - Hyperlink Modeling Language
+      Explanation: HTML stands for Hypertext Markup Language, which is the standard
+        markup language for creating web pages.
+    - Question: What is the purpose of a VPN?
+      TrueAnswer: To secure internet connection
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track online activities
+      Explanation: A VPN (Virtual Private Network) is used to secure internet connections
+        and protect privacy by encrypting data.
+    - Question: What is the main function of a search engine?
+      TrueAnswer: To retrieve information from the internet
+      FalseAnswer:
+      - To create websites
+      - To send emails
+      - To play online games
+      Explanation: The main function of a search engine is to retrieve information
+        from the internet based on user queries.
+    - Question: What is the purpose of cookies on websites?
+      TrueAnswer: To store user preferences and data
+      FalseAnswer:
+      - To display advertisements
+      - To block access to websites
+      - To track user location
+      Explanation: Cookies are used by websites to store user preferences and data,
+        such as login information and shopping cart items.
+    - Question: What is the maximum file size that can be sent via email attachment?
+      TrueAnswer: Depends on the email service provider
+      FalseAnswer:
+      - 10MB
+      - 100MB
+      - 1GB
+      Explanation: The maximum file size that can be sent via email attachment depends
+        on the email service provider's limitations.
+    - Question: What is the purpose of a firewall?
+      TrueAnswer: To protect against unauthorized access
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track online activities
+      Explanation: A firewall is a security measure that protects against unauthorized
+        access to a computer or network.
+    - Question: What is the purpose of a CAPTCHA?
+      TrueAnswer: To verify that the user is human
+      FalseAnswer:
+      - To block access to websites
+      - To track user location
+      - To display advertisements
+      Explanation: CAPTCHA is used to verify that the user is human and not a computer
+        program attempting to abuse or spam a website.
+    - Question: What is the purpose of an IP address?
+      TrueAnswer: To identify devices on a network
+      FalseAnswer:
+      - To store website data
+      - To encrypt internet connections
+      - To block access to websites
+      Explanation: An IP address is used to identify devices on a network and enable
+        communication between them.
+    - Question: What is the purpose of a domain name?
+      TrueAnswer: To identify a website
+      FalseAnswer:
+      - To store website data
+      - To encrypt internet connections
+      - To block access to websites
+      Explanation: A domain name is used to identify a website and make it easier
+        for users to access it.
+    - Question: What is the purpose of a cookie consent banner?
+      TrueAnswer: To inform users about website cookies
+      FalseAnswer:
+      - To block access to websites
+      - To track user location
+      - To display advertisements
+      Explanation: A cookie consent banner is used to inform users about the use
+        of cookies on a website and obtain their consent.
+    - Question: What is the purpose of a social media platform?
+      TrueAnswer: To connect and share with others online
+      FalseAnswer:
+      - To create websites
+      - To send emails
+      - To play online games
+      Explanation: Social media platforms are designed to connect individuals and
+        allow them to share content, communicate, and network online.
+    - Question: What is the purpose of an online forum?
+      TrueAnswer: To discuss and exchange information
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track online activities
+      Explanation: An online forum is a platform where users can discuss and exchange
+        information on various topics.
+    - Question: What is the purpose of a virtual private server (VPS)?
+      TrueAnswer: To host websites and applications
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track online activities
+      Explanation: A virtual private server (VPS) is used to host websites and applications,
+        providing more control and resources compared to shared hosting.
+    - Question: What is the purpose of a content management system (CMS)?
+      TrueAnswer: To create and manage website content
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To track online activities
+      Explanation: A content management system (CMS) is used to create, edit, and
+        manage website content without requiring advanced technical skills.
+    - Question: What is the purpose of an online shopping cart?
+      TrueAnswer: To store selected items for purchase
+      FalseAnswer:
+      - To increase internet speed
+      - To block access to websites
+      - To track user location
+      Explanation: An online shopping cart is used to store selected items for purchase
+        before proceeding to the checkout process.
+    - Question: What is the purpose of a digital wallet?
+      TrueAnswer: To securely store payment information
+      FalseAnswer:
+      - To increase internet speed
+      - To block access to websites
+      - To track user location
+      Explanation: A digital wallet is used to securely store payment information
+        and facilitate online transactions.
+    - Question: What is the purpose of a web hosting service?
+      TrueAnswer: To store and make websites accessible
+      FalseAnswer:
+      - To increase internet speed
+      - To block access to websites
+      - To track online activities
+      Explanation: A web hosting service is used to store website files and make
+        them accessible on the internet.
+    - Question: What is the purpose of a social networking site?
+      TrueAnswer: To connect individuals and build relationships
+      FalseAnswer:
+      - To create websites
+      - To send emails
+      - To play online games
+      Explanation: Social networking sites allow individuals to connect, communicate,
+        and build relationships with others online.

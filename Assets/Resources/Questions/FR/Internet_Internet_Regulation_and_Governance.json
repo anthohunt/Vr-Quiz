@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but de la neutralité du net?",
+            "TrueAnswer": "Accès égal pour tous",
+            "FalseAnswer": [
+              "Promouvoir la vitesse d'internet",
+              "Limite le contenu en ligne",
+              "Bloque certains sites web"
+            ],
+            "Explanation": "La neutralité du net garantit que tout le trafic internet soit traité de manière égale, empêchant les fournisseurs de services internet de bloquer ou ralentir des contenus ou des sites web spécifiques."
+          },
+          {
+            "Question": "Quelle organisation supervise l'enregistrement des noms de domaine?",
+            "TrueAnswer": "ICANN",
+            "FalseAnswer": [
+              "ISOC",
+              "IETF",
+              "IEEE"
+            ],
+            "Explanation": "La Société pour l'attribution des noms de domaine et des numéros sur Internet (ICANN) est responsable de coordonner la maintenance et les procédures de plusieurs bases de données liées aux espaces de noms et numériques d'internet, garantissant ainsi le fonctionnement stable et sécurisé du réseau."
+          },
+          {
+            "Question": "Que réglemente le RGPD en matière de vie privée sur internet?",
+            "TrueAnswer": "Protection des données",
+            "FalseAnswer": [
+              "Publicité en ligne",
+              "Modération du contenu",
+              "Infrastructure réseau"
+            ],
+            "Explanation": "Le Règlement général sur la protection des données (RGPD) est une réglementation visant à donner aux individus le contrôle sur leurs données personnelles et à simplifier l'environnement réglementaire pour les entreprises internationales en unifiant la réglementation au sein de l'UE."
+          },
+          {
+            "Question": "Qui est responsable de l'application du Children's Online Privacy Protection Act (COPPA)?",
+            "TrueAnswer": "FTC",
+            "FalseAnswer": [
+              "FCC",
+              "CDC",
+              "EPA"
+            ],
+            "Explanation": "La Federal Trade Commission (FTC) est chargée de faire respecter la COPPA, qui exige des sites web qu'ils obtiennent le consentement parental avant de collecter des informations personnelles auprès des enfants de moins de 13 ans."
+          },
+          {
+            "Question": "Quel est le but du Digital Millennium Copyright Act (DMCA)?",
+            "TrueAnswer": "Protéger le contenu numérique",
+            "FalseAnswer": [
+              "Réguler la vitesse d'internet",
+              "Appliquer la censure en ligne",
+              "Taxer les transactions internet"
+            ],
+            "Explanation": "Le DMCA offre un refuge sûr aux fournisseurs de services en ligne en les protégeant de toute responsabilité pour violation du droit d'auteur par les utilisateurs, à condition qu'ils suppriment rapidement le contenu contrefait à la demande du propriétaire des droits d'auteur."
+          },
+          {
+            "Question": "Quelle entité est responsable de l'attribution des adresses IP?",
+            "TrueAnswer": "IANA",
+            "FalseAnswer": [
+              "ISO",
+              "IEEE",
+              "ICANN"
+            ],
+            "Explanation": "L'Autorité des numéros affectés sur internet (IANA), un département de l'ICANN, est responsable de coordonner le pool global de numéros IP et AS (Système Autonome), en fournissant des identifiants uniques et en maintenant la stabilité et la sécurité du système global de routage inter-domaines de l'internet."
+          },
+          {
+            "Question": "Quel est le but du Communications Decency Act (CDA)?",
+            "TrueAnswer": "Réguler le contenu en ligne",
+            "FalseAnswer": [
+              "Promouvoir l'accès à l'internet",
+              "Appliquer le chiffrement des données",
+              "Taxer les transactions internet"
+            ],
+            "Explanation": "Le CDA réglemente le matériel indécent ou obscène sur internet afin de protéger les mineurs contre l'accès à des contenus nuisibles, notamment à travers l'utilisation de logiciels de contrôle parental et d'outils éducatifs."
+          },
+          {
+            "Question": "Qui supervise la réglementation de la diffusion radio et télévisuelle?",
+            "TrueAnswer": "FCC",
+            "FalseAnswer": [
+              "FTC",
+              "NTIA",
+              "FBI"
+            ],
+            "Explanation": "La Commission fédérale des communications (FCC) est un organisme indépendant chargé de réglementer les communications inter-États et internationales par radio, télévision, fil, satellite et câble aux États-Unis."
+          },
+          {
+            "Question": "Quel est l'objectif principal de la censure d'internet dans certains pays?",
+            "TrueAnswer": "Contrôler l'information",
+            "FalseAnswer": [
+              "Promouvoir la liberté d'expression",
+              "Encourager la vie privée en ligne",
+              "Augmenter la vitesse d'internet"
+            ],
+            "Explanation": "La censure vise à contrôler et restreindre l'accès à certaines informations ou à supprimer des points de vue jugés inacceptables ou potentiellement préjudiciables pour le gouvernement en place."
+          },
+          {
+            "Question": "Quelle organisation internationale traite des questions de gouvernance de l'internet?",
+            "TrueAnswer": "ONU",
+            "FalseAnswer": [
+              "UE",
+              "OTAN",
+              "OMS"
+            ],
+            "Explanation": "Les Nations unies (ONU) abordent les questions de gouvernance de l'internet par divers moyens afin de garantir un fonctionnement ouvert, sécurisé et stable de l'internet, et de relever des défis tels que la cybersécurité, les droits de l'homme et le développement économique à l'ère numérique."
+          },
+          {
+            "Question": "À quoi fait référence le terme 'throttling' dans la réglementation de l'internet?",
+            "TrueAnswer": "Restriction de la bande passante",
+            "FalseAnswer": [
+              "Internet ultra-rapide",
+              "Chiffrement des données",
+              "Filtrage du contenu"
+            ],
+            "Explanation": "Le 'throttling' implique le ralentissement intentionnel du service internet par un fournisseur de services internet, généralement pour des sites web ou des services en ligne spécifiques, afin de réguler le trafic réseau ou de donner la priorité à certains contenus."
+          },
+          {
+            "Question": "Quelle politique vise à protéger la vie privée des consommateurs en Californie?",
+            "TrueAnswer": "CCPA",
+            "FalseAnswer": [
+              "HIPPA",
+              "FERPA",
+              "COPPA"
+            ],
+            "Explanation": "La California Consumer Privacy Act (CCPA) renforce les droits à la vie privée et la protection des consommateurs résidant en Californie, en donnant aux consommateurs un plus grand contrôle sur les informations personnelles collectées par les entreprises à leur sujet."
+          },
+          {
+            "Question": "Qui établit les normes techniques pour le fonctionnement de l'internet?",
+            "TrueAnswer": "IETF",
+            "FalseAnswer": [
+              "IEEE",
+              "ISO",
+              "ITC"
+            ],
+            "Explanation": "Le Groupe de travail en ingénierie sur internet (IETF) développe et promeut des normes volontaires pour l'internet, en particulier les normes qui composent la suite de protocoles Internet (TCP/IP) et d'autres normes connexes."
+          },
+          {
+            "Question": "Que réglemente la loi sur les télécommunications de 1996?",
+            "TrueAnswer": "Services de communication",
+            "FalseAnswer": [
+              "Pratiques publicitaires",
+              "Législation antitrust",
+              "Réglementations environnementales"
+            ],
+            "Explanation": "La loi vise à promouvoir la concurrence et à réduire la réglementation afin d'obtenir des prix plus bas et une meilleure qualité de services pour les consommateurs américains en matière de télécommunications, tout en encourageant l'innovation et l'investissement dans les infrastructures de télécommunications."
+          },
+          {
+            "Question": "Quel est le but principal de l'Electronic Communications Privacy Act (ECPA)?",
+            "TrueAnswer": "Protéger les communications électroniques",
+            "FalseAnswer": [
+              "Surveiller l'utilisation d'internet",
+              "Taxer les transactions en ligne",
+              "Subventionner l'internet à large bande"
+            ],
+            "Explanation": "L'ECPA définit les normes pour que le gouvernement puisse accéder à des informations privées et sensibles, en garantissant la transmission sécurisée et privée des communications électroniques, comme les emails ou les messages en ligne, contre toute interception ou divulgation non autorisée."
+          },
+          {
+            "Question": "Qui gère l'attribution des noms de domaine de premier niveau?",
+            "TrueAnswer": "IANA",
+            "FalseAnswer": [
+              "ICANN",
+              "IETF",
+              "ISOC"
+            ],
+            "Explanation": "L'Autorité des numéros affectés sur internet (IANA) gère l'attribution de la zone racine des DNS et des noms de domaine de premier niveau, garantissant la coordination mondiale de la racine des DNS, des adresses IP et d'autres ressources de protocoles internet."
+          },
+          {
+            "Question": "Quelle législation permet aux autorités de surveiller les communications à travers les réseaux?",
+            "TrueAnswer": "USA PATRIOT Act",
+            "FalseAnswer": [
+              "ACA",
+              "FOIA",
+              "HIPAA"
+            ],
+            "Explanation": "Le USA PATRIOT Act a élargi les pouvoirs des agences de maintien de l'ordre et de renseignement pour surveiller et intercepter les communications électroniques, y compris les communications internet, afin de lutter contre le terrorisme et d'autres menaces pour la sécurité nationale."
+          },
+          {
+            "Question": "Qui développe et promeut les normes de l'internet?",
+            "TrueAnswer": "IETF",
+            "FalseAnswer": [
+              "IEEE",
+              "ISOC",
+              "ICANN"
+            ],
+            "Explanation": "Le Groupe de travail en ingénierie sur internet (IETF) développe et promeut des normes volontaires pour l'internet, y compris les normes qui composent la suite de protocoles Internet (TCP/IP) et d'autres normes connexes pour le fonctionnement stable et sécurisé de l'internet."
+          },
+          {
+            "Question": "Quel est l'objectif principal de la gouvernance de l'internet?",
+            "TrueAnswer": "Assurer un fonctionnement stable et sécurisé",
+            "FalseAnswer": [
+              "Maximiser la vitesse d'internet",
+              "Réglementer la censure de contenu",
+              "Promouvoir l'anonymat en ligne"
+            ],
+            "Explanation": "La gouvernance de l'internet vise à assurer un fonctionnement stable et sécurisé de l'internet, en abordant les questions techniques, juridiques, économiques et de politique publique pour faciliter l'interconnectivité mondiale et renforcer la confiance et la confiance des utilisateurs dans l'environnement numérique."
+          }
+        ]
+      }
+    }
+  ]
+}

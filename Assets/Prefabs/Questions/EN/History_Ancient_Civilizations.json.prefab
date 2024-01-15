@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3216798244381763915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7008691052229126844}
+  - component: {fileID: 5935399264642272990}
+  m_Layer: 0
+  m_Name: History_Ancient_Civilizations.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7008691052229126844
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3216798244381763915}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5935399264642272990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3216798244381763915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What ancient civilization built the city of Machu Picchu?
+      TrueAnswer: Inca
+      FalseAnswer:
+      - Maya
+      - Aztec
+      - Olmec
+      Explanation: The Inca civilization built Machu Picchu in the 15th century,
+        but it was abandoned during the Spanish conquest.
+    - Question: Which ancient civilization created the first known system of writing?
+      TrueAnswer: Sumerians
+      FalseAnswer:
+      - Egyptians
+      - Minoans
+      - Indus Valley
+      Explanation: The Sumerians developed cuneiform writing around 3200 BCE, using
+        a wedge-shaped stylus on clay tablets.
+    - Question: In which ancient civilization was the famous Library of Alexandria
+        located?
+      TrueAnswer: Egypt
+      FalseAnswer:
+      - Greece
+      - Rome
+      - Persia
+      Explanation: The Library of Alexandria was part of the Ptolemaic Kingdom and
+        housed countless scrolls of knowledge.
+    - Question: Which ancient civilization built the massive city of Teotihuacan
+        in present-day Mexico?
+      TrueAnswer: Teotihuacanos
+      FalseAnswer:
+      - Aztecs
+      - Maya
+      - Olmecs
+      Explanation: The Teotihuacanos constructed the city around 100 BCE. It was
+        one of the largest urban centers of its time.
+    - Question: Which ancient civilization was responsible for the construction of
+        the Great Pyramid of Giza?
+      TrueAnswer: Egyptians
+      FalseAnswer:
+      - Sumerians
+      - Minoans
+      - Hittites
+      Explanation: The Pharaoh Khufu commissioned the Great Pyramid, completed around
+        2560 BCE. It served as a royal tomb.
+    - Question: Which ancient civilization is known for the creation of the Hanging
+        Gardens of Babylon?
+      TrueAnswer: Babylonians
+      FalseAnswer:
+      - Assyrians
+      - Persians
+      - Hittites
+      Explanation: The Babylonian king Nebuchadnezzar II is said to have built the
+        gardens to please his wife, Amytis of Media.
+    - Question: What ancient civilization is credited with the invention of the wheel?
+      TrueAnswer: Mesopotamians
+      FalseAnswer:
+      - Indus Valley
+      - Minoans
+      - Hittites
+      Explanation: The Mesopotamians used wheels around 3500 BCE for pottery and
+        transportation, revolutionizing technology.
+    - Question: Which ancient civilization developed the earliest known form of democracy
+        in Athens?
+      TrueAnswer: Greeks
+      FalseAnswer:
+      - Romans
+      - Persians
+      - Celts
+      Explanation: Athens developed a form of direct democracy around 500 BCE, allowing
+        citizens to vote on laws and policies.
+    - Question: In which ancient civilization did the mythical figure of King Gilgamesh
+        exist?
+      TrueAnswer: Sumerians
+      FalseAnswer:
+      - Egyptians
+      - Minoans
+      - Indus Valley
+      Explanation: The Epic of Gilgamesh, an ancient Sumerian poem, depicts the hero's
+        quests and relationships with gods.
+    - Question: Which ancient civilization is associated with the creation of the
+        Colosseum in Rome?
+      TrueAnswer: Romans
+      FalseAnswer:
+      - Greeks
+      - Etruscans
+      - Carthaginians
+      Explanation: The Flavian emperors built the Colosseum in 70-80 AD for gladiatorial
+        contests and public spectacles.
+    - Question: Which ancient civilization built the temple complex of Angkor Wat
+        in present-day Cambodia?
+      TrueAnswer: Khmer
+      FalseAnswer:
+      - Chola
+      - Pallava
+      - Majapahit
+      Explanation: The Khmer Empire constructed Angkor Wat in the 12th century as
+        a Hindu temple dedicated to Vishnu.
+    - Question: Which ancient civilization is known for constructing the massive
+        city of Tikal in present-day Guatemala?
+      TrueAnswer: Maya
+      FalseAnswer:
+      - Aztecs
+      - Inca
+      - Olmecs
+      Explanation: The Maya city of Tikal flourished from 200-900 AD, showcasing
+        impressive architecture and urban planning.
+    - Question: In which ancient civilization was the Code of Hammurabi, one of the
+        earliest known legal codes, created?
+      TrueAnswer: Babylonians
+      FalseAnswer:
+      - Assyrians
+      - Hittites
+      - Phoenicians
+      Explanation: Hammurabi of Babylon established the code around 1754 BCE, covering
+        a wide range of civil and criminal laws.
+    - Question: Which ancient civilization constructed the city of Caral, one of
+        the oldest urban centers in the Americas?
+      TrueAnswer: Norte Chico
+      FalseAnswer:
+      - Aztecs
+      - Inca
+      - Maya
+      Explanation: The Norte Chico civilization built Caral in modern-day Peru around
+        2600 BCE, demonstrating advanced urban planning.
+    - Question: Which ancient civilization is associated with the creation of the
+        Oracle at Delphi in Greece?
+      TrueAnswer: Greeks
+      FalseAnswer:
+      - Romans
+      - Persians
+      - Celts
+      Explanation: The Oracle at Delphi served as a religious sanctuary where priests
+        delivered prophecies in the name of Apollo.
+    - Question: Which ancient civilization developed the first known form of coinage
+        in Lydia?
+      TrueAnswer: Lydians
+      FalseAnswer:
+      - Phoenicians
+      - Persians
+      - Carthaginians
+      Explanation: The Lydians in Asia Minor introduced standardized metal coins
+        around 600 BCE, facilitating trade and commerce.
+    - Question: In which ancient civilization was the concept of zero first developed?
+      TrueAnswer: Maya
+      FalseAnswer:
+      - Indus Valley
+      - Egyptians
+      - Greeks
+      Explanation: The Maya used a symbol for zero in their numerical system by the
+        4th century AD, enabling advanced mathematics.
+    - Question: Which ancient civilization constructed Chichen Itza, a prominent
+        archaeological site in Mexico?
+      TrueAnswer: Maya
+      FalseAnswer:
+      - Aztecs
+      - Inca
+      - Olmecs
+      Explanation: Chichen Itza, built by the Maya, features iconic structures like
+        the Kukulkan Pyramid and the Great Ball Court.
+    - Question: During which ancient civilization was the Indus Valley Civilization
+        thriving?
+      TrueAnswer: Harappans
+      FalseAnswer:
+      - Aryans
+      - Mauryans
+      - Guptas
+      Explanation: The Harappan or Indus Valley Civilization flourished from around
+        3300 to 1300 BCE in what is now Pakistan and northwest India.
+    - Question: Which ancient civilization is credited with the construction of the
+        Moai statues on Easter Island?
+      TrueAnswer: Rapa Nui
+      FalseAnswer:
+      - Tahitians
+      - Maoris
+      - Samoans
+      Explanation: The Rapa Nui people carved and erected the Moai statues between
+        1250 and 1500 CE as representations of their ancestors.

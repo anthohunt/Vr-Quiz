@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2344593335485710633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 581084829011732669}
+  - component: {fileID: 3215908417283680670}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Food_and_Health.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &581084829011732669
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2344593335485710633}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3215908417283680670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2344593335485710633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the recommended daily intake of fruits and vegetables for
+        adults?
+      TrueAnswer: 5 servings
+      FalseAnswer:
+      - 3 servings
+      - 7 servings
+      - 10 servings
+      Explanation: The CDC recommends adults to consume at least 5 servings of fruits
+        and vegetables daily for essential nutrients and to reduce the risk of chronic
+        diseases.
+    - Question: Which nutrient is essential for bone health and is found in dairy
+        products?
+      TrueAnswer: Calcium
+      FalseAnswer:
+      - Vitamin C
+      - Iron
+      - Protein
+      Explanation: Calcium is crucial for bone growth and maintenance, and can be
+        obtained from dairy products like milk, cheese, and yogurt.
+    - Question: What is the recommended daily water intake for adults?
+      TrueAnswer: 8 cups
+      FalseAnswer:
+      - 4 cups
+      - 12 cups
+      - 10 cups
+      Explanation: The general recommendation is to drink at least 8 cups of water
+        per day to stay hydrated and support bodily functions.
+    - Question: 'Which cooking method is generally healthier: grilling or frying?'
+      TrueAnswer: Grilling
+      FalseAnswer:
+      - Frying
+      - Boiling
+      - Roasting
+      Explanation: Grilling is a healthier option as it allows excess fat to drip
+        off, reducing the overall calorie and fat content of the food.
+    - Question: What is a good source of omega-3 fatty acids that may benefit heart
+        health?
+      TrueAnswer: Salmon
+      FalseAnswer:
+      - Beef
+      - Chicken
+      - Pork
+      Explanation: Salmon is rich in omega-3 fatty acids, which can contribute to
+        reducing the risk of heart disease and promoting overall heart health.
+    - Question: Which type of oil is considered heart-healthy and high in mono-unsaturated
+        fats?
+      TrueAnswer: Olive oil
+      FalseAnswer:
+      - Coconut oil
+      - Palm oil
+      - Canola oil
+      Explanation: Olive oil is rich in mono-unsaturated fats, which can help lower
+        the risk of heart disease and decrease bad cholesterol levels.
+    - Question: What is the recommended daily intake of fiber for adults?
+      TrueAnswer: 25 grams
+      FalseAnswer:
+      - 15 grams
+      - 30 grams
+      - 10 grams
+      Explanation: The recommended daily intake of fiber is 25 grams for women and
+        38 grams for men, to support digestive health and reduce the risk of chronic
+        diseases.
+    - Question: Which nutrient is important for red blood cell production and is
+        found in spinach and red meat?
+      TrueAnswer: Iron
+      FalseAnswer:
+      - Vitamin A
+      - Vitamin D
+      - Magnesium
+      Explanation: Iron is crucial for the production of red blood cells, carrying
+        oxygen to the body's tissues and supporting overall energy levels.
+    - Question: What is the recommended daily limit for added sugars in a healthy
+        diet?
+      TrueAnswer: 25 grams
+      FalseAnswer:
+      - 50 grams
+      - 10 grams
+      - 60 grams
+      Explanation: The American Heart Association recommends limiting added sugar
+        intake to 25 grams per day for women and 36 grams for men to maintain heart
+        health and prevent chronic disease.
+    - Question: Which nutrient is important for nerve function and is abundant in
+        seafood and fortified cereals?
+      TrueAnswer: Vitamin B12
+      FalseAnswer:
+      - Vitamin E
+      - Vitamin K
+      - Vitamin C
+      Explanation: Vitamin B12 is crucial for nerve function and red blood cell production,
+        and can be obtained from seafood, meat, eggs, and fortified cereals.

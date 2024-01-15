@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &925403166845326310
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654890607030677600}
+  - component: {fileID: 4585083879863566351}
+  m_Layer: 0
+  m_Name: Movies_Silent_Films.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &654890607030677600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 925403166845326310}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4585083879863566351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 925403166845326310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the first Hollywood movie star?
+      TrueAnswer: Florence Lawrence
+      FalseAnswer:
+      - Charlie Chaplin
+      - Mary Pickford
+      - Douglas Fairbanks
+      Explanation: Florence Lawrence is widely recognized as the first movie star.
+        She was one of the first famous silent film actors.
+    - Question: Which 1927 silent film is known for its use of sound effects and
+        music?
+      TrueAnswer: The Jazz Singer
+      FalseAnswer:
+      - Metropolis
+      - Nosferatu
+      - The General
+      Explanation: '''The Jazz Singer'' is famous for being the first feature-length
+        motion picture with synchronized dialogue sequences.'
+    - Question: Who is known for making silent films with comedic performances like
+        'City Lights' and 'The Kid'?
+      TrueAnswer: Charlie Chaplin
+      FalseAnswer:
+      - Buster Keaton
+      - Harold Lloyd
+      - Fatty Arbuckle
+      Explanation: Charlie Chaplin, aka The Tramp, is one of the most iconic figures
+        in the history of the film industry and silent era.
+    - Question: Which silent film is known for the iconic scene of a woman tied to
+        the railroad tracks?
+      TrueAnswer: The Perils of Pauline
+      FalseAnswer:
+      - The Birth of a Nation
+      - Broken Blossoms
+      - Greed
+      Explanation: '''The Perils of Pauline'' is a classic in the history of American
+        cinema and is known for this iconic scene.'
+    - Question: What was the typical frame rate for silent films?
+      TrueAnswer: 16-24 frames per second
+      FalseAnswer:
+      - 8-12 frames per second
+      - 30-60 frames per second
+      - 1-5 frames per second
+      Explanation: The typical frame rate for silent films ranged from 16 to 24 frames
+        per second.
+    - Question: In what decade did the silent film era come to an end?
+      TrueAnswer: 1920s
+      FalseAnswer:
+      - 1910s
+      - 1930s
+      - 1940s
+      Explanation: The transition from silent to sound films, known as 'talkies,'
+        began in the late 1920s.
+    - Question: Who is the French filmmaker known for silent films like 'A Trip to
+        the Moon'?
+      TrueAnswer: "Georges M\xE9li\xE8s"
+      FalseAnswer:
+      - Fritz Lang
+      - D.W. Griffith
+      - Sergei Eisenstein
+      Explanation: "Georges M\xE9li\xE8s was a pioneer of early cinema and renowned
+        for his innovative contributions to filmmaking."
+    - Question: What was the purpose of title cards in silent films?
+      TrueAnswer: Convey dialogue and narrative
+      FalseAnswer:
+      - Display credits
+      - Promote upcoming films
+      - Provide historical context
+      Explanation: Title cards were used to convey dialogue and narrative, as silent
+        films lacked synchronized sound.
+    - Question: Which country is known for producing silent film classics like 'The
+        Cabinet of Dr. Caligari'?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - France
+      - Italy
+      - Spain
+      Explanation: Germany was a prominent force in the silent film industry, creating
+        influential and avant-garde works.
+    - Question: Who was the first woman to win an Academy Award for Best Actress
+        for her role in a silent film?
+      TrueAnswer: Janet Gaynor
+      FalseAnswer:
+      - Gloria Swanson
+      - Lillian Gish
+      - Clara Bow
+      Explanation: Janet Gaynor won the first Academy Award for Best Actress for
+        her performances in three silent films released in 1927.
+    - Question: What was the duration of a typical silent film feature?
+      TrueAnswer: 90-120 minutes
+      FalseAnswer:
+      - 30-60 minutes
+      - 150-180 minutes
+      - 10-20 minutes
+      Explanation: Silent film features typically ranged from 90 to 120 minutes in
+        duration, providing immersive storytelling experiences.
+    - Question: Who is known for his role as the vampire Count Orlok in the silent
+        film 'Nosferatu'?
+      TrueAnswer: Max Schreck
+      FalseAnswer:
+      - Lon Chaney
+      - Bela Lugosi
+      - Boris Karloff
+      Explanation: Max Schreck's portrayal of Count Orlok in 'Nosferatu' remains
+        a haunting and iconic performance in cinematic history.
+    - Question: Which silent film is known for its use of innovative special effects
+        and visual storytelling techniques?
+      TrueAnswer: Metropolis
+      FalseAnswer:
+      - 'Sunrise: A Song of Two Humans'
+      - The Phantom Carriage
+      - The Lodger
+      Explanation: '''Metropolis'' is celebrated for its groundbreaking use of visual
+        effects and its influence on the science fiction genre.'
+    - Question: Who was the director famous for creating epic silent films such as
+        'Intolerance' and 'The Birth of a Nation'?
+      TrueAnswer: D.W. Griffith
+      FalseAnswer:
+      - Cecil B. DeMille
+      - Ernst Lubitsch
+      - King Vidor
+      Explanation: D.W. Griffith was a pioneering director in the silent film era,
+        known for his innovative cinematic techniques.
+    - Question: Which silent film star was known as 'America's Sweetheart'?
+      TrueAnswer: Mary Pickford
+      FalseAnswer:
+      - Greta Garbo
+      - Louise Brooks
+      - Clara Bow
+      Explanation: Mary Pickford became a beloved figure in silent cinema, known
+        as 'America's Sweetheart' for her endearing performances.
+    - Question: Who is considered the first African-American filmmaker and a pioneer
+        of silent cinema?
+      TrueAnswer: Oscar Micheaux
+      FalseAnswer:
+      - Spencer Williams
+      - Noble Johnson
+      - Michelle Obama
+      Explanation: Oscar Micheaux was a groundbreaking figure, producing and directing
+        numerous silent films that addressed racial issues.
+    - Question: What was the primary material used for film stock during the silent
+        film era?
+      TrueAnswer: Nitrocellulose
+      FalseAnswer:
+      - Polyester
+      - Celluloid
+      - Acetate
+      Explanation: Nitrocellulose, a highly flammable material, was commonly used
+        for film stock during the silent era, leading to fire hazards.
+    - Question: Which famous silent film comedian was known for his acrobatic and
+        physical comedy?
+      TrueAnswer: Harold Lloyd
+      FalseAnswer:
+      - Roscoe 'Fatty' Arbuckle
+      - Buster Keaton
+      - Charlie Chaplin
+      Explanation: Harold Lloyd was renowned for his thrilling and daring stunts,
+        especially in the iconic clock scene from 'Safety Last!'
+    - Question: What was the first full-length animated feature film, released during
+        the silent film era?
+      TrueAnswer: The Adventures of Prince Achmed
+      FalseAnswer:
+      - Snow White and the Seven Dwarfs
+      - Gertie the Dinosaur
+      - Steamboat Willie
+      Explanation: '''The Adventures of Prince Achmed'' pioneered the art of animated
+        feature filmmaking, created by Lotte Reiniger.'
+    - Question: Which silent film director was known for his avant-garde and surrealistic
+        works like 'Un Chien Andalou'?
+      TrueAnswer: "Luis Bu\xF1uel"
+      FalseAnswer:
+      - F.W. Murnau
+      - Sergei Eisenstein
+      - Carl Theodor Dreyer
+      Explanation: "Luis Bu\xF1uel was a prominent figure in avant-garde cinema,
+        collaborating with Salvador Dal\xED on 'Un Chien Andalou.'"

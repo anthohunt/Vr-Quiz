@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the name of the largest moon of Saturn?",
+          "TrueAnswer": "Titan",
+          "FalseAnswer": [
+            "Io",
+            "Ganymede",
+            "Europa"
+          ],
+          "Explanation": "Titan is the second-largest moon in the Solar System and larger in diameter than the planet Mercury. It has a thick atmosphere and hydrocarbon lakes on its surface, making it an interesting target for exploration."
+        },
+        {
+          "Question": "Which space agency launched the Voyager 1 and Voyager 2 spacecrafts?",
+          "TrueAnswer": "NASA",
+          "FalseAnswer": [
+            "ESA",
+            "Roscosmos",
+            "CNSA"
+          ],
+          "Explanation": "NASA's Voyager 1 and 2 spacecraft were launched in 1977 to study the outer Solar System and interstellar space. They are the farthest human-made objects from Earth."
+        },
+        {
+          "Question": "What is the name of the first spacecraft to land on a comet?",
+          "TrueAnswer": "Philae",
+          "FalseAnswer": [
+            "Rosetta",
+            "Curiosity",
+            "Opportunity"
+          ],
+          "Explanation": "Philae, part of the European Space Agency's Rosetta mission, made the first successful soft landing on a comet nucleus in 2014 on Comet 67P/Churyumov-Gerasimenko."
+        },
+        {
+          "Question": "Which planet has the highest mountain in the Solar System?",
+          "TrueAnswer": "Mars",
+          "FalseAnswer": [
+            "Earth",
+            "Venus",
+            "Jupiter"
+          ],
+          "Explanation": "Mars' Olympus Mons is the tallest volcano and mountain in the Solar System, reaching a height of nearly 22 kilometers (13.6 miles), about two and a half times the height of Mount Everest."
+        },
+        {
+          "Question": "What mission detected evidence of water on Mars?",
+          "TrueAnswer": "Mars Reconnaissance Orbiter",
+          "FalseAnswer": [
+            "Hubble Space Telescope",
+            "Cassini-Huygens",
+            "New Horizons"
+          ],
+          "Explanation": "The Mars Reconnaissance Orbiter's instruments, including the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM), have detected hydrated minerals that indicate the past presence of liquid water on the Martian surface."
+        },
+        {
+          "Question": "Which gas giant has the Great Red Spot?",
+          "TrueAnswer": "Jupiter",
+          "FalseAnswer": [
+            "Saturn",
+            "Uranus",
+            "Neptune"
+          ],
+          "Explanation": "Jupiter's Great Red Spot is a gigantic storm, larger than Earth, that has been raging for at least 400 years. It is a prominent feature in Jupiter's atmosphere."
+        },
+        {
+          "Question": "What is the most abundant element in the atmosphere of Uranus?",
+          "TrueAnswer": "Hydrogen",
+          "FalseAnswer": [
+            "Helium",
+            "Methane",
+            "Nitrogen"
+          ],
+          "Explanation": "The atmosphere of Uranus is composed mainly of hydrogen with smaller amounts of helium and methane. The presence of methane gives Uranus its blue-green color."
+        },
+        {
+          "Question": "Which spacecraft conducted the first flyby of Pluto?",
+          "TrueAnswer": "New Horizons",
+          "FalseAnswer": [
+            "Cassini-Huygens",
+            "Juno",
+            "Dawn"
+          ],
+          "Explanation": "NASA's New Horizons spacecraft conducted the first flyby of Pluto in July 2015, providing unprecedented close-up images and data of the distant dwarf planet."
+        },
+        {
+          "Question": "What is the largest asteroid in the asteroid belt?",
+          "TrueAnswer": "Ceres",
+          "FalseAnswer": [
+            "Vesta",
+            "Pallas",
+            "Hygiea"
+          ],
+          "Explanation": "Ceres is the largest object in the asteroid belt between Mars and Jupiter, and the only dwarf planet in the inner Solar System. It has a unique surface with bright spots that intrigued scientists."
+        },
+        {
+          "Question": "Which mission was the first to land a rover on Mars?",
+          "TrueAnswer": "Mars Pathfinder",
+          "FalseAnswer": [
+            "Curiosity",
+            "Opportunity",
+            "Spirit"
+          ],
+          "Explanation": "The Mars Pathfinder mission, including the Sojourner rover, was the first to successfully land a rover on Mars in 1997. It revolutionized Mars exploration and paved the way for future missions."
+        },
+        {
+          "Question": "What is the name of the first privately funded spacecraft to reach the Moon?",
+          "TrueAnswer": "Berresheet",
+          "FalseAnswer": [
+            "Chandrayaan-2",
+            "Lunar Reconnaissance Orbiter",
+            "Smart-1"
+          ],
+          "Explanation": "The Beresheet lander, developed by the Israeli nonprofit organization SpaceIL, aimed to become the first privately funded spacecraft to land on the Moon in 2019. Although it crashed, it marked a historic milestone in lunar exploration."
+        },
+        {
+          "Question": "Which spacecraft made the first successful landing on Venus?",
+          "TrueAnswer": "Venera 7",
+          "FalseAnswer": [
+            "Magellan",
+            "Akatsuki",
+            "Pioneer Venus"
+          ],
+          "Explanation": "Soviet spacecraft Venera 7 made the first successful soft landing on Venus in 1970, transmitting data for 23 minutes. It was a major milestone in planetary exploration."
+        },
+        {
+          "Question": "What is the name of the spacecraft that discovered geysers on Enceladus?",
+          "TrueAnswer": "Cassini-Huygens",
+          "FalseAnswer": [
+            "Voyager 2",
+            "Galileo",
+            "New Horizons"
+          ],
+          "Explanation": "The Cassini-Huygens mission, a collaboration between NASA, ESA, and the Italian space agency, discovered geysers on Saturn's moon Enceladus, suggesting the presence of a subsurface ocean and potential habitability."
+        },
+        {
+          "Question": "Which spacecraft conducted the first successful landing on a comet?",
+          "TrueAnswer": "Philae",
+          "FalseAnswer": [
+            "Rosetta",
+            "Dawn",
+            "Hayabusa2"
+          ],
+          "Explanation": "As part of the Rosetta mission, Philae's successful landing on Comet 67P/Churyumov-Gerasimenko in 2014 marked the first time a spacecraft landed on a comet, providing valuable insights into the composition of comets."
+        },
+        {
+          "Question": "What is the name of the Moon orbiting Neptune discovered by Voyager 2?",
+          "TrueAnswer": "Triton",
+          "FalseAnswer": [
+            "Nereid",
+            "Proteus",
+            "Thalassa"
+          ],
+          "Explanation": "Voyager 2 discovered Triton in 1989 and revealed it to be the coldest known object in the Solar System. Triton is unique in that it orbits Neptune in the opposite direction of the planet's rotation."
+        },
+        {
+          "Question": "Which space telescope discovered potential habitable exoplanets in the TRAPPIST-1 system?",
+          "TrueAnswer": "Spitzer",
+          "FalseAnswer": [
+            "Hubble",
+            "Kepler",
+            "Chandra"
+          ],
+          "Explanation": "NASA's Spitzer Space Telescope observed the TRAPPIST-1 system, discovering seven Earth-sized exoplanets, some of which are within the habitable zone where liquid water could exist on the surface."
+        },
+        {
+          "Question": "What is the name of the first spacecraft to orbit Mercury?",
+          "TrueAnswer": "MESSENGER",
+          "FalseAnswer": [
+            "Mariner 10",
+            "BepiColombo",
+            "Venus Express"
+          ],
+          "Explanation": "NASA's MESSENGER spacecraft became the first to orbit Mercury in 2011, providing comprehensive data and images of the planet's surface, magnetic field, and exosphere."
+        },
+        {
+          "Question": "Which Mars rover set a record for the longest distance driven on the Martian surface?",
+          "TrueAnswer": "Opportunity",
+          "FalseAnswer": [
+            "Curiosity",
+            "Sojourner",
+            "Perseverance"
+          ],
+          "Explanation": "The Opportunity rover, part of NASA's Mars Exploration Rovers mission, traveled a record-breaking distance of over 45 kilometers (28 miles) on the Martian surface before succumbing to a dust storm in 2018."
+        },
+        {
+          "Question": "Which space agency is responsible for the Hayabusa and Hayabusa2 missions?",
+          "TrueAnswer": "JAXA",
+          "FalseAnswer": [
+            "ESA",
+            "NASA",
+            "Roscosmos"
+          ],
+          "Explanation": "The Japanese Aerospace Exploration Agency (JAXA) conducted the Hayabusa and Hayabusa2 missions, which aimed to study and return samples from near-Earth asteroids, contributing to our understanding of the early Solar System."
+        },
+        {
+          "Question": "What is the name of the rover launched as part of the Mars 2020 mission?",
+          "TrueAnswer": "Perseverance",
+          "FalseAnswer": [
+            "Curiosity",
+            "Spirit",
+            "Opportunity"
+          ],
+          "Explanation": "NASA's Perseverance rover, launched in 2020, is tasked with astrobiological research, caching samples for potential return to Earth, and testing technologies for future human exploration of Mars."
+        }
+      ]
+    }
+  ]
+}

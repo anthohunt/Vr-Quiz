@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2354064852161945376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5160516010207219775}
+  - component: {fileID: 4918899734449194952}
+  m_Layer: 0
+  m_Name: Technology_The History of Video Game Consoles.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5160516010207219775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2354064852161945376}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4918899734449194952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2354064852161945376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which company released the first home video game console?
+      TrueAnswer: Magnavox
+      FalseAnswer:
+      - Atari
+      - Nintendo
+      - Sega
+      Explanation: Magnavox released the first home video game console, the Magnavox
+        Odyssey, in 1972.
+    - Question: What was the first commercially successful video game console?
+      TrueAnswer: Atari 2600
+      FalseAnswer:
+      - Nintendo Entertainment System
+      - Sega Genesis
+      - PlayStation
+      Explanation: The Atari 2600, released in 1977, was the first commercially successful
+        video game console.
+    - Question: Which console introduced the concept of interchangeable game cartridges?
+      TrueAnswer: Fairchild Channel F
+      FalseAnswer:
+      - ColecoVision
+      - Intellivision
+      - Atari 5200
+      Explanation: The Fairchild Channel F, released in 1976, introduced interchangeable
+        game cartridges.
+    - Question: Which console popularized 3D gaming with its release of the Nintendo
+        64?
+      TrueAnswer: Nintendo
+      FalseAnswer:
+      - Sony
+      - Sega
+      - Microsoft
+      Explanation: Nintendo popularized 3D gaming with the release of the Nintendo
+        64 in 1996.
+    - Question: Which console was the first to feature a CD-ROM drive?
+      TrueAnswer: Sega CD
+      FalseAnswer:
+      - PlayStation
+      - Nintendo 64
+      - Sega Saturn
+      Explanation: The Sega CD, released in 1991, was the first console to feature
+        a CD-ROM drive.
+    - Question: Which console introduced motion-controlled gaming with the Wii Remote?
+      TrueAnswer: Nintendo Wii
+      FalseAnswer:
+      - PlayStation 3
+      - Xbox 360
+      - Sega Dreamcast
+      Explanation: The Nintendo Wii, released in 2006, introduced motion-controlled
+        gaming with the Wii Remote.
+    - Question: Which console was the first to support online multiplayer gaming?
+      TrueAnswer: Sega Dreamcast
+      FalseAnswer:
+      - PlayStation 2
+      - Xbox
+      - Nintendo GameCube
+      Explanation: The Sega Dreamcast, released in 1998, was the first console to
+        support online multiplayer gaming.
+    - Question: Which console introduced the concept of handheld gaming?
+      TrueAnswer: Nintendo Game Boy
+      FalseAnswer:
+      - Sega Game Gear
+      - Atari Lynx
+      - Sony PSP
+      Explanation: The Nintendo Game Boy, released in 1989, introduced the concept
+        of handheld gaming.
+    - Question: Which console was the first to feature a built-in hard drive?
+      TrueAnswer: Xbox
+      FalseAnswer:
+      - PlayStation 2
+      - Nintendo GameCube
+      - Sega Saturn
+      Explanation: The Xbox, released in 2001, was the first console to feature a
+        built-in hard drive.
+    - Question: Which console introduced the concept of online gaming with Xbox Live?
+      TrueAnswer: Xbox
+      FalseAnswer:
+      - PlayStation 2
+      - Nintendo GameCube
+      - Sega Dreamcast
+      Explanation: The Xbox, released in 2001, introduced the concept of online gaming
+        with Xbox Live.
+    - Question: Which console was the first to feature a touch screen?
+      TrueAnswer: Nintendo DS
+      FalseAnswer:
+      - PlayStation Portable
+      - Game Boy Advance
+      - Sega Game Gear
+      Explanation: The Nintendo DS, released in 2004, was the first console to feature
+        a touch screen.
+    - Question: Which console introduced the concept of virtual reality gaming?
+      TrueAnswer: PlayStation VR
+      FalseAnswer:
+      - Oculus Rift
+      - HTC Vive
+      - Nintendo Switch
+      Explanation: PlayStation VR, released in 2016, introduced the concept of virtual
+        reality gaming to consoles.
+    - Question: Which console was the first to feature a built-in DVD player?
+      TrueAnswer: PlayStation 2
+      FalseAnswer:
+      - Xbox
+      - Nintendo GameCube
+      - Sega Dreamcast
+      Explanation: The PlayStation 2, released in 2000, was the first console to
+        feature a built-in DVD player.
+    - Question: Which console introduced the concept of motion-controlled gaming
+        with the Kinect?
+      TrueAnswer: Xbox 360
+      FalseAnswer:
+      - PlayStation 3
+      - Nintendo Wii
+      - Sega Dreamcast
+      Explanation: The Xbox 360, released in 2005, introduced motion-controlled gaming
+        with the Kinect.
+    - Question: Which console was the first to feature a built-in camera?
+      TrueAnswer: PlayStation 2
+      FalseAnswer:
+      - Xbox
+      - Nintendo GameCube
+      - Sega Dreamcast
+      Explanation: The PlayStation 2, released in 2000, was the first console to
+        feature a built-in camera.
+    - Question: Which console introduced the concept of handheld 3D gaming without
+        glasses?
+      TrueAnswer: Nintendo 3DS
+      FalseAnswer:
+      - PlayStation Vita
+      - Sega Game Gear
+      - Game Boy Advance
+      Explanation: The Nintendo 3DS, released in 2011, introduced the concept of
+        handheld 3D gaming without glasses.
+    - Question: Which console was the first to feature a built-in microphone?
+      TrueAnswer: Nintendo DS
+      FalseAnswer:
+      - PlayStation Portable
+      - Game Boy Advance
+      - Sega Game Gear
+      Explanation: The Nintendo DS, released in 2004, was the first console to feature
+        a built-in microphone.
+    - Question: Which console introduced the concept of streaming gameplay with Twitch
+        integration?
+      TrueAnswer: PlayStation 4
+      FalseAnswer:
+      - Xbox One
+      - Nintendo Switch
+      - Sega Genesis
+      Explanation: The PlayStation 4, released in 2013, introduced the concept of
+        streaming gameplay with Twitch integration.
+    - Question: Which console was the first to feature a built-in Blu-ray player?
+      TrueAnswer: PlayStation 3
+      FalseAnswer:
+      - Xbox 360
+      - Nintendo Wii
+      - Sega Dreamcast
+      Explanation: The PlayStation 3, released in 2006, was the first console to
+        feature a built-in Blu-ray player.
+    - Question: Which console introduced the concept of hybrid gaming with its handheld
+        and docked modes?
+      TrueAnswer: Nintendo Switch
+      FalseAnswer:
+      - PlayStation 4
+      - Xbox One
+      - Sega Saturn
+      Explanation: The Nintendo Switch, released in 2017, introduced the concept
+        of hybrid gaming with its handheld and docked modes.

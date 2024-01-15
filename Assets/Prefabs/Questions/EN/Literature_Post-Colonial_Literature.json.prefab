@@ -1,0 +1,230 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6186552446414515669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5425428018339207737}
+  - component: {fileID: 1638355376866192975}
+  m_Layer: 0
+  m_Name: Literature_Post-Colonial_Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5425428018339207737
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6186552446414515669}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1638355376866192975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6186552446414515669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: In which country was author Chinua Achebe born?
+      TrueAnswer: Nigeria
+      FalseAnswer:
+      - Kenya
+      - Ghana
+      - South Africa
+      Explanation: Chinua Achebe, considered the father of African literature in
+        English, was born in Ogidi, Nigeria.
+    - Question: What literary work is attributed to the beginnings of post-colonial
+        literature?
+      TrueAnswer: Things Fall Apart
+      FalseAnswer:
+      - Heart of Darkness
+      - Wide Sargasso Sea
+      - The God of Small Things
+      Explanation: '''Things Fall Apart'' by Chinua Achebe is a seminal post-colonial
+        novel, exploring the impact of colonization on Igbo society.'
+    - Question: Who is the author of the novel 'Midnight's Children'?
+      TrueAnswer: Salman Rushdie
+      FalseAnswer:
+      - Arundhati Roy
+      - J.M. Coetzee
+      - V.S. Naipaul
+      Explanation: Salman Rushdie's 'Midnight's Children' is a key text in post-colonial
+        literature, blending magical realism with India's history and politics.
+    - Question: What is the setting of the novel 'Wide Sargasso Sea'?
+      TrueAnswer: Jamaica
+      FalseAnswer:
+      - India
+      - Australia
+      - Canada
+      Explanation: Jean Rhys' 'Wide Sargasso Sea' serves as a prequel to 'Jane Eyre'
+        and is set in Jamaica during the time of slavery and colonial oppression.
+    - Question: Which post-colonial writer won the Nobel Prize in Literature in 1986?
+      TrueAnswer: Wole Soyinka
+      FalseAnswer:
+      - "Ng\u0169g\u0129 wa Thiong'o"
+      - J.M. Coetzee
+      - Arundhati Roy
+      Explanation: Wole Soyinka, a Nigerian playwright and poet, was recognized for
+        his literary contribution to African drama and culture.
+    - Question: "In which language did Gabriel Garc\xEDa M\xE1rquez originally write
+        'One Hundred Years of Solitude'?"
+      TrueAnswer: Spanish
+      FalseAnswer:
+      - Portuguese
+      - French
+      - Italian
+      Explanation: "Gabriel Garc\xEDa M\xE1rquez, a leading figure in magical realism,
+        wrote 'One Hundred Years of Solitude' in his native language, Spanish."
+    - Question: What colonial power does the novel 'Nervous Conditions' focus on?
+      TrueAnswer: British
+      FalseAnswer:
+      - French
+      - Portuguese
+      - Dutch
+      Explanation: '''Nervous Conditions'' by Tsitsi Dangarembga depicts the effects
+        of British colonialism on the people of Zimbabwe.'
+    - Question: Which of the following authors is associated with the term 'double
+        consciousness'?
+      TrueAnswer: W.E.B. Du Bois
+      FalseAnswer:
+      - "Ng\u0169g\u0129 wa Thiong'o"
+      - Chinua Achebe
+      - Arundhati Roy
+      Explanation: W.E.B. Du Bois, a prominent African American intellectual, coined
+        the term 'double consciousness' to describe the experience of Black Americans
+        under racism and colonialism.
+    - Question: What is the title of the post-colonial novel by J.M. Coetzee that
+        won the Booker Prize?
+      TrueAnswer: Life & Times of Michael K
+      FalseAnswer:
+      - Disgrace
+      - Waiting for the Barbarians
+      - Foe
+      Explanation: J.M. Coetzee's 'Life & Times of Michael K' won the Booker Prize
+        in 1983, reflecting themes of apartheid and social injustice in South Africa.
+    - Question: Who is the author of 'The Famished Road', a magical realist novel
+        set in Nigeria?
+      TrueAnswer: Ben Okri
+      FalseAnswer:
+      - Nadine Gordimer
+      - Jhumpa Lahiri
+      - Rohinton Mistry
+      Explanation: Ben Okri's 'The Famished Road' draws on Nigerian folklore and
+        spirituality, offering an allegorical representation of post-colonial struggles.
+    - Question: What term is used to describe the reworking of colonial history from
+        the perspective of the colonized?
+      TrueAnswer: Reclamation
+      FalseAnswer:
+      - Estrangement
+      - Orientalism
+      - Assimilation
+      Explanation: Reclamation literature seeks to counter colonial narratives, reclaiming
+        agency and dignity for marginalized cultures and communities.
+    - Question: Which post-colonial author wrote 'The Shadow Lines', a novel exploring
+        the complexities of borders and identity?
+      TrueAnswer: Amitav Ghosh
+      FalseAnswer:
+      - Arundhati Roy
+      - V.S. Naipaul
+      - Salman Rushdie
+      Explanation: Amitav Ghosh's 'The Shadow Lines' weaves a narrative around historical
+        events to reflect on the fluidity and impact of borders in South Asia.
+    - Question: What is the main theme of post-colonial literature?
+      TrueAnswer: Power and Resistance
+      FalseAnswer:
+      - Love and Betrayal
+      - Nature and Redemption
+      - Hope and Despair
+      Explanation: Post-colonial literature often explores power dynamics, resistance
+        movements, and the legacy of colonial oppression on indigenous cultures.
+    - Question: Which literary movement heavily influenced the development of post-colonial
+        literature?
+      TrueAnswer: Magical Realism
+      FalseAnswer:
+      - Existentialism
+      - Surrealism
+      - Modernism
+      Explanation: "Magical realism, as seen in the works of Gabriel Garc\xEDa M\xE1rquez
+        and Salman Rushdie, infused post-colonial narratives with fantastical elements
+        to convey historical and social truths."
+    - Question: Who is considered the pioneer of Caribbean literature and post-colonial
+        studies?
+      TrueAnswer: Edward Kamau Brathwaite
+      FalseAnswer:
+      - V.S. Naipaul
+      - Derek Walcott
+      - Jean Rhys
+      Explanation: Edward Kamau Brathwaite's poetry and scholarship on Caribbean
+        history and identity laid the groundwork for the study of post-colonial literature
+        and culture.
+    - Question: What literary term refers to an author's use of their own culture's
+        language and traditions in their work?
+      TrueAnswer: Ethnographic Writing
+      FalseAnswer:
+      - Afrofuturism
+      - Postmodernism
+      - Feminist Literature
+      Explanation: Ethnographic writing involves the representation of cultural practices
+        and beliefs within literary texts, often challenging colonial representations
+        and stereotypes.
+    - Question: Which post-colonial author's work is often associated with the term
+        'writing back'?
+      TrueAnswer: "Ng\u0169g\u0129 wa Thiong'o"
+      FalseAnswer:
+      - Chinua Achebe
+      - Wole Soyinka
+      - Arundhati Roy
+      Explanation: "Ng\u0169g\u0129 wa Thiong'o advocated for African writers to
+        'write back' against colonial depictions and reclaim their own narratives
+        through literature."
+    - Question: What literary device is frequently used in post-colonial literature
+        to challenge dominant narratives?
+      TrueAnswer: Subaltern Voices
+      FalseAnswer:
+      - Epic Simile
+      - Dramatic Irony
+      - Oxymoron
+      Explanation: Post-colonial writers utilize subaltern voices to amplify the
+        perspectives of marginalized and oppressed communities, disrupting the hegemony
+        of colonial discourses.
+    - Question: Which post-colonial author is known for their exploration of gender
+        politics and identity in South Africa?
+      TrueAnswer: Nadine Gordimer
+      FalseAnswer:
+      - Chinua Achebe
+      - Ben Okri
+      - J.M. Coetzee
+      Explanation: Nadine Gordimer's works critically examine the intersection of
+        gender, race, and power dynamics in the context of apartheid and post-colonial
+        realities.
+    - Question: What literary theory framework examines the interconnectedness of
+        post-colonial literature and colonial history?
+      TrueAnswer: Postcolonial Theory
+      FalseAnswer:
+      - Structuralism
+      - Feminist Theory
+      - Deconstruction
+      Explanation: Postcolonial theory interrogates the legacies of colonialism and
+        imperialism, analyzing power structures and cultural dynamics in post-colonial
+        societies.

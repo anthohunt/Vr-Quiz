@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7925414416985859583
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7083549399746208249}
+  - component: {fileID: 1182809983965035718}
+  m_Layer: 0
+  m_Name: Pop_Culture_Pop_Culture_and_Politics.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7083549399746208249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925414416985859583}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1182809983965035718
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7925414416985859583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who was the first celebrity to endorse a political candidate during
+        a presidential campaign?
+      TrueAnswer: Frank Sinatra
+      FalseAnswer:
+      - Marilyn Monroe
+      - Elvis Presley
+      - John Wayne
+      Explanation: In 1960, Frank Sinatra endorsed John F. Kennedy for the presidency,
+        marking the beginning of celebrity endorsements in politics.
+    - Question: Which U.S. President appeared on the television show 'Laugh-In'?
+      TrueAnswer: Richard Nixon
+      FalseAnswer:
+      - Ronald Reagan
+      - Bill Clinton
+      - George W. Bush
+      Explanation: In 1968, Richard Nixon, then a presidential candidate, made a
+        cameo appearance on 'Laugh-In,' stating the show's popular catchphrase 'Sock
+        it to me.'
+    - Question: Which movie director famously released a controversial political
+        documentary about the U.S. healthcare system?
+      TrueAnswer: Michael Moore
+      FalseAnswer:
+      - Steven Spielberg
+      - Christopher Nolan
+      - Quentin Tarantino
+      Explanation: Michael Moore's documentary 'Sicko' (2007) examines the American
+        healthcare system, offering critical views on the insurance and pharmaceutical
+        industries.
+    - Question: Which musician had a public feud with the U.S. President over the
+        use of their music at political rallies?
+      TrueAnswer: Bruce Springsteen
+      FalseAnswer:
+      - Taylor Swift
+      - Kanye West
+      - Adele
+      Explanation: Bruce Springsteen publicly objected to former President Ronald
+        Reagan's use of his song 'Born in the U.S.A.' during campaign events.
+    - Question: Which fictional TV character ran for U.S. Congress as an independent
+        candidate?
+      TrueAnswer: Lisa Simpson
+      FalseAnswer:
+      - Bart Simpson
+      - Peter Griffin
+      - Leslie Knope
+      Explanation: In 'The Simpsons' episode 'Mr. Lisa Goes to Washington,' Lisa
+        runs for Congress on an environmental platform, advocating for the town's
+        trees.

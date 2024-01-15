@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1771261994791217601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1154331144775005139}
+  - component: {fileID: 5988337128069137248}
+  m_Layer: 0
+  m_Name: Movies_Film Adaptations.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1154331144775005139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771261994791217601}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5988337128069137248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1771261994791217601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who directed the film adaptation of 'The Lord of the Rings' trilogy?
+      TrueAnswer: Peter Jackson
+      FalseAnswer:
+      - Steven Spielberg
+      - Christopher Nolan
+      - Quentin Tarantino
+      Explanation: Peter Jackson directed the film adaptation of 'The Lord of the
+        Rings' trilogy, released between 2001 and 2003.
+    - Question: Which actor played the role of Harry Potter in the film adaptation
+        series?
+      TrueAnswer: Daniel Radcliffe
+      FalseAnswer:
+      - Rupert Grint
+      - Tom Felton
+      - Emma Watson
+      Explanation: Daniel Radcliffe portrayed the character of Harry Potter in the
+        film adaptation series, based on J.K. Rowling's books.
+    - Question: What is the name of the fictional city in the film adaptation of
+        'The Dark Knight'?
+      TrueAnswer: Gotham City
+      FalseAnswer:
+      - Metropolis
+      - Central City
+      - Star City
+      Explanation: Gotham City is the fictional city in the film adaptation of 'The
+        Dark Knight', home to Batman.
+    - Question: Which actress played the role of Katniss Everdeen in 'The Hunger
+        Games' film adaptation series?
+      TrueAnswer: Jennifer Lawrence
+      FalseAnswer:
+      - Emma Stone
+      - Scarlett Johansson
+      - Natalie Portman
+      Explanation: Jennifer Lawrence portrayed the character of Katniss Everdeen
+        in 'The Hunger Games' film adaptation series.
+    - Question: Who directed the film adaptation of 'The Great Gatsby'?
+      TrueAnswer: Baz Luhrmann
+      FalseAnswer:
+      - Martin Scorsese
+      - Woody Allen
+      - David Fincher
+      Explanation: Baz Luhrmann directed the film adaptation of 'The Great Gatsby',
+        released in 2013.
+    - Question: Which actor played the role of Tony Stark in the film adaptation
+        of 'Iron Man'?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Mark Ruffalo
+      Explanation: Robert Downey Jr. portrayed the character of Tony Stark in the
+        film adaptation of 'Iron Man'.
+    - Question: What is the name of the fictional planet in the film adaptation of
+        'Avatar'?
+      TrueAnswer: Pandora
+      FalseAnswer:
+      - Tatooine
+      - Krypton
+      - Alderaan
+      Explanation: Pandora is the name of the fictional planet in the film adaptation
+        of 'Avatar', known for its lush environment.
+    - Question: Which actress played the role of Hermione Granger in the film adaptation
+        series of 'Harry Potter'?
+      TrueAnswer: Emma Watson
+      FalseAnswer:
+      - Bonnie Wright
+      - Evanna Lynch
+      - Katie Leung
+      Explanation: Emma Watson portrayed the character of Hermione Granger in the
+        film adaptation series of 'Harry Potter'.
+    - Question: Who directed the film adaptation of 'The Hobbit' trilogy?
+      TrueAnswer: Peter Jackson
+      FalseAnswer:
+      - James Cameron
+      - Tim Burton
+      - Guillermo del Toro
+      Explanation: Peter Jackson directed the film adaptation of 'The Hobbit' trilogy,
+        released between 2012 and 2014.
+    - Question: What is the name of the fictional school in the film adaptation of
+        'Dead Poets Society'?
+      TrueAnswer: Welton Academy
+      FalseAnswer:
+      - Hogwarts School of Witchcraft and Wizardry
+      - Xavier's School for Gifted Youngsters
+      - Rydell High School
+      Explanation: Welton Academy is the name of the fictional school in the film
+        adaptation of 'Dead Poets Society'.
+    - Question: Which actor played the role of James Bond in the film adaptation
+        of 'Casino Royale'?
+      TrueAnswer: Daniel Craig
+      FalseAnswer:
+      - Pierce Brosnan
+      - Sean Connery
+      - Roger Moore
+      Explanation: Daniel Craig portrayed the character of James Bond in the film
+        adaptation of 'Casino Royale'.
+    - Question: What is the name of the fictional town in the film adaptation of
+        'Twilight'?
+      TrueAnswer: Forks
+      FalseAnswer:
+      - Mystic Falls
+      - Sunnydale
+      - Haddonfield
+      Explanation: Forks is the name of the fictional town in the film adaptation
+        of 'Twilight', known for its rainy weather.
+    - Question: Which actress played the role of Lisbeth Salander in the film adaptation
+        of 'The Girl with the Dragon Tattoo'?
+      TrueAnswer: Rooney Mara
+      FalseAnswer:
+      - Noomi Rapace
+      - Scarlett Johansson
+      - Charlize Theron
+      Explanation: Rooney Mara portrayed the character of Lisbeth Salander in the
+        film adaptation of 'The Girl with the Dragon Tattoo'.
+    - Question: Who directed the film adaptation of 'The Fault in Our Stars'?
+      TrueAnswer: Josh Boone
+      FalseAnswer:
+      - John Green
+      - James Franco
+      - Wes Anderson
+      Explanation: Josh Boone directed the film adaptation of 'The Fault in Our Stars',
+        released in 2014.
+    - Question: What is the name of the fictional ship in the film adaptation of
+        'Pirates of the Caribbean'?
+      TrueAnswer: The Black Pearl
+      FalseAnswer:
+      - The Flying Dutchman
+      - The Queen Anne's Revenge
+      - The Interceptor
+      Explanation: The Black Pearl is the name of the fictional ship in the film
+        adaptation of 'Pirates of the Caribbean'.
+    - Question: Which actor played the role of Neo in the film adaptation of 'The
+        Matrix'?
+      TrueAnswer: Keanu Reeves
+      FalseAnswer:
+      - Laurence Fishburne
+      - Hugo Weaving
+      - Carrie-Anne Moss
+      Explanation: Keanu Reeves portrayed the character of Neo in the film adaptation
+        of 'The Matrix'.
+    - Question: What is the name of the fictional country in the film adaptation
+        of 'Black Panther'?
+      TrueAnswer: Wakanda
+      FalseAnswer:
+      - Genosha
+      - Sokovia
+      - Latveria
+      Explanation: Wakanda is the name of the fictional country in the film adaptation
+        of 'Black Panther', known for its advanced technology.
+    - Question: Which actress played the role of Elizabeth Bennet in the film adaptation
+        of 'Pride and Prejudice'?
+      TrueAnswer: Keira Knightley
+      FalseAnswer:
+      - Emma Thompson
+      - Kate Winslet
+      - Rosamund Pike
+      Explanation: Keira Knightley portrayed the character of Elizabeth Bennet in
+        the film adaptation of 'Pride and Prejudice'.
+    - Question: 'Who directed the film adaptation of ''The Chronicles of Narnia:
+        The Lion, the Witch and the Wardrobe''?'
+      TrueAnswer: Andrew Adamson
+      FalseAnswer:
+      - Peter Jackson
+      - Tim Burton
+      - Guillermo del Toro
+      Explanation: 'Andrew Adamson directed the film adaptation of ''The Chronicles
+        of Narnia: The Lion, the Witch and the Wardrobe''.'
+    - Question: What is the name of the fictional town in the film adaptation of
+        'The Truman Show'?
+      TrueAnswer: Seahaven
+      FalseAnswer:
+      - Springfield
+      - Hill Valley
+      - Sunnydale
+      Explanation: Seahaven is the name of the fictional town in the film adaptation
+        of 'The Truman Show'.
+    - Question: Which actor played the role of Jack Sparrow in the film adaptation
+        of 'Pirates of the Caribbean'?
+      TrueAnswer: Johnny Depp
+      FalseAnswer:
+      - Orlando Bloom
+      - Geoffrey Rush
+      - Javier Bardem
+      Explanation: Johnny Depp portrayed the character of Jack Sparrow in the film
+        adaptation of 'Pirates of the Caribbean'.

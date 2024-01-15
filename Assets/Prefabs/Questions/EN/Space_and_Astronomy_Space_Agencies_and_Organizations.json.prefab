@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8349451586378988725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2520447100631756161}
+  - component: {fileID: 3939285307571757097}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Space_Agencies_and_Organizations.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2520447100631756161
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8349451586378988725}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3939285307571757097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8349451586378988725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which agency launched the Hubble Space Telescope?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - CNSA
+      - Roscosmos
+      Explanation: NASA launched the Hubble Space Telescope in 1990 on the space
+        shuttle Discovery.
+    - Question: Which organization launched the Chandrayaan-2 mission to the moon?
+      TrueAnswer: ISRO
+      FalseAnswer:
+      - NASA
+      - ESA
+      - JAXA
+      Explanation: The Indian Space Research Organisation (ISRO) launched Chandrayaan-2,
+        India's second lunar exploration mission, in July 2019.
+    - Question: Who operates the International Space Station (ISS)?
+      TrueAnswer: Roscosmos
+      FalseAnswer:
+      - NASA
+      - ESA
+      - CNSA
+      Explanation: The Russian space agency, Roscosmos, operates the Russian segment
+        of the ISS.
+    - Question: Which space agency launched the Mars Rover Perseverance in 2020?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - JAXA
+      Explanation: NASA's Perseverance rover successfully landed on Mars in February
+        2021 to search for signs of ancient microbial life.
+    - Question: Which organization developed and operates the Hubble Space Telescope?
+      TrueAnswer: ESA
+      FalseAnswer:
+      - NASA
+      - JAXA
+      - Roscosmos
+      Explanation: While NASA launched the Hubble Space Telescope, the European Space
+        Agency (ESA) developed and operates it.
+    - Question: Which agency sent the first human to space?
+      TrueAnswer: Soviet space program
+      FalseAnswer:
+      - NASA
+      - ESA
+      - CNSA
+      Explanation: On April 12, 1961, the Soviet Union's Vostok 1 mission sent Yuri
+        Gagarin as the first human into space.
+    - Question: What agency operates the Mars Reconnaissance Orbiter?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - Roscosmos
+      Explanation: NASA's Mars Reconnaissance Orbiter has been studying the Martian
+        surface and climate since it arrived in orbit in 2006.
+    - Question: Which space organization launched the Voyager 1 and Voyager 2 probes?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - CNSA
+      Explanation: NASA's Voyager program launched the Voyager 1 and Voyager 2 spacecraft
+        in 1977 to explore the outer solar system.
+    - Question: Who manages the European Spaceport in French Guiana?
+      TrueAnswer: ESA
+      FalseAnswer:
+      - NASA
+      - Roscosmos
+      - ISRO
+      Explanation: The European Space Agency (ESA) manages the Guiana Space Centre
+        located in French Guiana, a major launch site for European payloads.
+    - Question: Which agency launched the Juno spacecraft to study Jupiter?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - CNSA
+      Explanation: NASA's Juno spacecraft arrived at Jupiter in 2016 and has been
+        studying the planet's atmosphere, magnetic field, and more.
+    - Question: What organization operates the Chandra X-ray Observatory?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - CNSA
+      - Roscosmos
+      Explanation: NASA's Chandra X-ray Observatory, launched in 1999, helps astronomers
+        understand the structure and evolution of the universe.
+    - Question: Which space agency launched the Solar Dynamics Observatory (SDO)?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - CNSA
+      Explanation: NASA's SDO was launched in 2010 to study the Sun's magnetic fields,
+        solar flares, and other solar activities.
+    - Question: Who sent the first human-made object, Sputnik 1, into space?
+      TrueAnswer: Soviet space program
+      FalseAnswer:
+      - NASA
+      - ESA
+      - CNSA
+      Explanation: The Soviet Union's launch of Sputnik 1 in 1957 marked the beginning
+        of the space age and space exploration.
+    - Question: Which organization operates the InSight lander on Mars?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - CNSA
+      Explanation: NASA's InSight lander, which landed on Mars in 2018, is studying
+        the planet's seismic activity and interior structure.
+    - Question: Which agency launched the Kepler Space Telescope to search for exoplanets?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - CNSA
+      Explanation: NASA's Kepler Space Telescope, launched in 2009, has discovered
+        thousands of exoplanets by observing starlight dips.
+    - Question: What organization developed and operates the James Webb Space Telescope?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - JAXA
+      - Roscosmos
+      Explanation: NASA's James Webb Space Telescope, set to launch in 2021, will
+        explore the history of the universe and study distant galaxies.
+    - Question: Which space agency operates the Mars Express mission?
+      TrueAnswer: ESA
+      FalseAnswer:
+      - NASA
+      - ISRO
+      - Roscosmos
+      Explanation: The European Space Agency's Mars Express mission, launched in
+        2003, has been studying the Red Planet's geology and atmosphere.
+    - Question: Who launched the Space Shuttle program for orbital space transportation?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - Roscosmos
+      - ISRO
+      Explanation: NASA's Space Shuttle program, active from 1981 to 2011, revolutionized
+        space travel and construction of the ISS.
+    - Question: What space organization launched the Dawn spacecraft to explore asteroids?
+      TrueAnswer: NASA
+      FalseAnswer:
+      - ESA
+      - ISRO
+      - CNSA
+      Explanation: 'NASA''s Dawn spacecraft orbited and studied the two largest bodies
+        in the asteroid belt: Vesta and Ceres.'

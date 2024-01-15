@@ -1,0 +1,128 @@
+{
+    "TV Shows": [
+        {
+            "Questions": [
+                {
+                    "Question": "Who is the main character in the TV show 'Sherlock'?",
+                    "TrueAnswer": "Sherlock Holmes",
+                    "FalseAnswer": ["John Watson", "Mycroft Holmes", "Jim Moriarty"],
+                    "Explanation": "Sherlock Holmes is the brilliant detective and main character in the TV show 'Sherlock', based on the works of Arthur Conan Doyle."
+                },
+                {
+                    "Question": "Which TV show features a serial killer known as 'The Bay Harbor Butcher'?",
+                    "TrueAnswer": "Dexter",
+                    "FalseAnswer": ["Breaking Bad", "True Detective", "The Wire"],
+                    "Explanation": "The TV show 'Dexter' revolves around a forensic blood spatter analyst who is also a serial killer."
+                },
+                {
+                    "Question": "In 'True Detective', which actor plays the character Rust Cohle?",
+                    "TrueAnswer": "Matthew McConaughey",
+                    "FalseAnswer": ["Woody Harrelson", "Colin Farrell", "Vince Vaughn"],
+                    "Explanation": "Matthew McConaughey portrays the complex character Rust Cohle in the TV show 'True Detective'."
+                },
+                {
+                    "Question": "Which TV show follows the lives of the Shelby crime family in post-World War I Birmingham?",
+                    "TrueAnswer": "Peaky Blinders",
+                    "FalseAnswer": ["Narcos", "The Sopranos", "Breaking Bad"],
+                    "Explanation": "The TV show 'Peaky Blinders' focuses on the Shelby crime family and their activities in Birmingham, England."
+                },
+                {
+                    "Question": "Who is the lead character in the TV show 'The Mentalist'?",
+                    "TrueAnswer": "Patrick Jane",
+                    "FalseAnswer": ["Teresa Lisbon", "Kimball Cho", "Wayne Rigsby"],
+                    "Explanation": "Patrick Jane, a former psychic medium, is the main character in the TV show 'The Mentalist'."
+                },
+                {
+                    "Question": "Which TV show features a high school chemistry teacher turned methamphetamine manufacturer?",
+                    "TrueAnswer": "Breaking Bad",
+                    "FalseAnswer": ["The Wire", "Narcos", "Better Call Saul"],
+                    "Explanation": "The TV show 'Breaking Bad' tells the story of Walter White, a chemistry teacher who becomes a methamphetamine producer."
+                },
+                {
+                    "Question": "In 'The X-Files', what are the names of the two FBI agents investigating paranormal cases?",
+                    "TrueAnswer": "Fox Mulder and Dana Scully",
+                    "FalseAnswer": ["John Doggett and Monica Reyes", "Frank Black and Catherine Black", "Walter Skinner and Alex Krycek"],
+                    "Explanation": "Fox Mulder and Dana Scully are the two FBI agents investigating paranormal cases in the TV show 'The X-Files'."
+                },
+                {
+                    "Question": "Which TV show is set in the fictional town of Twin Peaks, Washington?",
+                    "TrueAnswer": "Twin Peaks",
+                    "FalseAnswer": ["Stranger Things", "Fargo", "True Detective"],
+                    "Explanation": "The TV show 'Twin Peaks' takes place in the mysterious town of Twin Peaks, known for its supernatural occurrences."
+                },
+                {
+                    "Question": "Who is the serial killer known as 'The Ice Truck Killer' in the TV show 'Dexter'?",
+                    "TrueAnswer": "Rudy Cooper",
+                    "FalseAnswer": ["Brian Moser", "Arthur Mitchell", "Jordan Chase"],
+                    "Explanation": "Rudy Cooper, also known as Brian Moser, is the serial killer referred to as 'The Ice Truck Killer' in 'Dexter'."
+                },
+                {
+                    "Question": "Which TV show follows the investigations of a forensic anthropologist named Temperance Brennan?",
+                    "TrueAnswer": "Bones",
+                    "FalseAnswer": ["Criminal Minds", "CSI: Crime Scene Investigation", "NCIS"],
+                    "Explanation": "The TV show 'Bones' centers around the forensic anthropologist Temperance Brennan and her team solving crimes through skeletal remains."
+                },
+                {
+                    "Question": "In 'Mindhunter', which real-life serial killer is interviewed by the FBI agents?",
+                    "TrueAnswer": "Ed Kemper",
+                    "FalseAnswer": ["Ted Bundy", "John Wayne Gacy", "Richard Ramirez"],
+                    "Explanation": "In 'Mindhunter', the FBI agents interview Ed Kemper, a real-life serial killer known for his brutal murders."
+                },
+                {
+                    "Question": "Which TV show features a criminal consultant named Neal Caffrey who works with the FBI?",
+                    "TrueAnswer": "White Collar",
+                    "FalseAnswer": ["Suits", "Burn Notice", "Leverage"],
+                    "Explanation": "The TV show 'White Collar' revolves around Neal Caffrey, a criminal consultant who assists the FBI in solving white-collar crimes."
+                },
+                {
+                    "Question": "Who is the main character in the TV show 'The Blacklist'?",
+                    "TrueAnswer": "Raymond Reddington",
+                    "FalseAnswer": ["Elizabeth Keen", "Donald Ressler", "Harold Cooper"],
+                    "Explanation": "Raymond Reddington, a former government agent turned high-profile criminal, is the main character in 'The Blacklist'."
+                },
+                {
+                    "Question": "Which TV show follows the life of a high-functioning sociopath named Patrick Bateman?",
+                    "TrueAnswer": "American Psycho",
+                    "FalseAnswer": ["Hannibal", "Mindhunter", "The Following"],
+                    "Explanation": "'American Psycho' is a film, not a TV show, that delves into the life of Patrick Bateman, a high-functioning sociopath."
+                },
+                {
+                    "Question": "In 'The Wire', which city does the TV show primarily focus on?",
+                    "TrueAnswer": "Baltimore",
+                    "FalseAnswer": ["New York City", "Los Angeles", "Chicago"],
+                    "Explanation": "'The Wire' primarily focuses on the city of Baltimore and explores various aspects of its crime and law enforcement."
+                },
+                {
+                    "Question": "Which TV show features a criminal profiler named Will Graham who has empathy for serial killers?",
+                    "TrueAnswer": "Hannibal",
+                    "FalseAnswer": ["Criminal Minds", "Mindhunter", "Dexter"],
+                    "Explanation": "The TV show 'Hannibal' centers around Will Graham, a criminal profiler with the ability to empathize with serial killers."
+                },
+                {
+                    "Question": "Who is the main character in the TV show 'True Blood'?",
+                    "TrueAnswer": "Sookie Stackhouse",
+                    "FalseAnswer": ["Bill Compton", "Eric Northman", "Jason Stackhouse"],
+                    "Explanation": "Sookie Stackhouse, a telepathic waitress, is the main character in the TV show 'True Blood' set in a world with vampires and other supernatural beings."
+                },
+                {
+                    "Question": "Which TV show features a forensic scientist named Barry Allen who gains superhuman speed?",
+                    "TrueAnswer": "The Flash",
+                    "FalseAnswer": ["Arrow", "Supergirl", "Legends of Tomorrow"],
+                    "Explanation": "In 'The Flash', Barry Allen, a forensic scientist, gains superhuman speed after being struck by lightning."
+                },
+                {
+                    "Question": "In 'Sherlock', who is Sherlock Holmes' loyal friend and assistant?",
+                    "TrueAnswer": "John Watson",
+                    "FalseAnswer": ["Mycroft Holmes", "Jim Moriarty", "Mary Watson"],
+                    "Explanation": "John Watson is Sherlock Holmes' loyal friend and assistant in the TV show 'Sherlock'."
+                },
+                {
+                    "Question": "Which TV show follows the life of a high school chemistry teacher turned criminal lawyer?",
+                    "TrueAnswer": "Better Call Saul",
+                    "FalseAnswer": ["Breaking Bad", "The Sopranos", "Narcos"],
+                    "Explanation": "'Better Call Saul' is a prequel to 'Breaking Bad' and focuses on the life of Jimmy McGill, who later becomes the lawyer Saul Goodman."
+                }
+            ]
+        }
+    ]
+}

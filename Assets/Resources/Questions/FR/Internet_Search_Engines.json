@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le moteur de recherche le plus populaire?",
+            "TrueAnswer": "Google",
+            "FalseAnswer": [
+              "Bing",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Google domine le marché des moteurs de recherche avec une part de 90%, traitant plus de 3,5 milliards de recherches par jour."
+          },
+          {
+            "Question": "Quel moteur de recherche est connu pour privilégier la vie privée des utilisateurs?",
+            "TrueAnswer": "DuckDuckGo",
+            "FalseAnswer": [
+              "Google",
+              "Bing",
+              "Yahoo"
+            ],
+            "Explanation": "DuckDuckGo est réputé pour ne pas suivre les utilisateurs ou stocker leurs informations personnelles, assurant la confidentialité lors des recherches."
+          },
+          {
+            "Question": "Que signifie SEO?",
+            "TrueAnswer": "Optimisation pour les moteurs de recherche",
+            "FalseAnswer": [
+              "Options de recherche supplémentaires",
+              "Résultats de moteur systématiques",
+              "Offre d'options engageantes"
+            ],
+            "Explanation": "Le SEO désigne le processus visant à améliorer la visibilité et le classement d'un site web dans les résultats des moteurs de recherche, générant du trafic organique."
+          },
+          {
+            "Question": "Quel moteur de recherche est intégré à l'écosystème Microsoft?",
+            "TrueAnswer": "Bing",
+            "FalseAnswer": [
+              "Google",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Bing est le moteur de recherche par défaut du navigateur web de Microsoft et est étroitement intégré à Windows et à d'autres produits Microsoft."
+          },
+          {
+            "Question": "Quel est le terme désignant le processus par lequel un moteur de recherche découvre des pages web?",
+            "TrueAnswer": "Exploration",
+            "FalseAnswer": [
+              "Scrutation",
+              "Indexation",
+              "Interrogation"
+            ],
+            "Explanation": "L'exploration est le processus par lequel les moteurs de recherche parcourent systématiquement Internet pour trouver et enregistrer des informations sur les pages web."
+          },
+          {
+            "Question": "Quel moteur de recherche a précédé Google?",
+            "TrueAnswer": "Backrub",
+            "FalseAnswer": [
+              "Archie",
+              "Lycos",
+              "AltaVista"
+            ],
+            "Explanation": "Backrub, développé par Larry Page et Sergey Brin en 1996, a posé les bases de la création de Google."
+          },
+          {
+            "Question": "Quel est le plus grand concurrent de Google sur le marché des moteurs de recherche?",
+            "TrueAnswer": "Bing",
+            "FalseAnswer": [
+              "Yahoo",
+              "DuckDuckGo",
+              "Blekko"
+            ],
+            "Explanation": "Bing, soutenu par Microsoft, détient la deuxième plus grande part du marché des moteurs de recherche et constitue le principal concurrent de Google."
+          },
+          {
+            "Question": "Quel moteur de recherche a vu le jour en tant qu'annuaire web?",
+            "TrueAnswer": "Yahoo",
+            "FalseAnswer": [
+              "Google",
+              "Bing",
+              "Ask Jeeves"
+            ],
+            "Explanation": "Yahoo a commencé en tant qu'annuaire web appelé Jerry and David's Guide to the World Wide Web avant de se développer en moteur de recherche."
+          },
+          {
+            "Question": "Quel moteur de recherche était connu pour son robot d'exploration web 'slurp'?",
+            "TrueAnswer": "Yahoo",
+            "FalseAnswer": [
+              "Google",
+              "Bing",
+              "Ask Jeeves"
+            ],
+            "Explanation": "Le 'slurp' de Yahoo était un robot d'exploration web utilisé pour indexer les pages web et collecter des informations pour la base de données du moteur de recherche."
+          },
+          {
+            "Question": "Quel moteur de recherche est associé à l'expression 'I'm feelin' lucky'?",
+            "TrueAnswer": "Google",
+            "FalseAnswer": [
+              "Bing",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Le bouton 'I'm feeling lucky' sur Google permet de contourner les résultats de recherche et d'emmener directement les utilisateurs vers la page classée en tête pour la requête saisie."
+          },
+          {
+            "Question": "Quel moteur de recherche a été fondé par Jerry Yang et David Filo?",
+            "TrueAnswer": "Yahoo",
+            "FalseAnswer": [
+              "Google",
+              "Bing",
+              "Ask Jeeves"
+            ],
+            "Explanation": "Yahoo a été fondé en 1994 par Jerry Yang et David Filo, deux étudiants diplômés de l'Université Stanford."
+          },
+          {
+            "Question": "Quelle est la part de marché de Bing dans l'industrie des moteurs de recherche?",
+            "TrueAnswer": "7%",
+            "FalseAnswer": [
+              "15%",
+              "3%",
+              "25%"
+            ],
+            "Explanation": "En 2021, Bing détient une part de 7% sur le marché mondial des moteurs de recherche, nettement inférieure à celle de Google."
+          },
+          {
+            "Question": "Quel moteur de recherche est souvent loué pour ses images attrayantes sur sa page d'accueil?",
+            "TrueAnswer": "Bing",
+            "FalseAnswer": [
+              "Google",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "La page d'accueil de Bing présente des images de haute qualité et esthétiquement attrayantes qui changent quotidiennement, recevant des éloges pour son attrait visuel."
+          },
+          {
+            "Question": "Quel est le pourcentage de recherches effectuées sur Google via des appareils mobiles?",
+            "TrueAnswer": "60%",
+            "FalseAnswer": [
+              "45%",
+              "75%",
+              "90%"
+            ],
+            "Explanation": "Environ 60% du trafic de recherche sur Google provient d'appareils mobiles, reflétant la tendance croissante de l'utilisation de la recherche mobile."
+          },
+          {
+            "Question": "Quel est le nom de l'algorithme de recherche de Google connu pour classer les pages web?",
+            "TrueAnswer": "PageRank",
+            "FalseAnswer": [
+              "WebRank",
+              "SearchRank",
+              "RankMaster"
+            ],
+            "Explanation": "PageRank a été développé par Larry Page et Sergey Brin et a servi de base à l'algorithme de recherche de Google."
+          },
+          {
+            "Question": "Quel moteur de recherche met l'accent sur l'anonymat des utilisateurs avec son mode 'incognito'?",
+            "TrueAnswer": "Google",
+            "FalseAnswer": [
+              "Bing",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Le mode 'incognito' de Google permet aux utilisateurs de naviguer sur le web en privé, empêchant l'enregistrement de leur activité dans l'historique du navigateur ou de recherche."
+          },
+          {
+            "Question": "Quel est le moteur de recherche par défaut du navigateur Safari d'Apple?",
+            "TrueAnswer": "Google",
+            "FalseAnswer": [
+              "Bing",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Google est le moteur de recherche par défaut du navigateur Safari d'Apple, mais les utilisateurs peuvent le changer pour un autre moteur de recherche s'ils le préfèrent."
+          },
+          {
+            "Question": "Quel moteur de recherche arbore une police ludique et des couleurs vives dans son logo?",
+            "TrueAnswer": "Yahoo",
+            "FalseAnswer": [
+              "Google",
+              "Bing",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Le logo de Yahoo se caractérise par sa typographie ludique et ses couleurs vives, reflétant l'image dynamique et créative de la marque."
+          },
+          {
+            "Question": "Quel moteur de recherche est connu pour ses doodles animés sur sa page d'accueil?",
+            "TrueAnswer": "Google",
+            "FalseAnswer": [
+              "Bing",
+              "Yahoo",
+              "DuckDuckGo"
+            ],
+            "Explanation": "Google présente fréquemment des doodles animés créatifs et interactifs sur sa page d'accueil, commémorant des événements et des personnalités importantes."
+          },
+          {
+            "Question": "Quel est le terme désignant le processus d'organisation des pages web par un moteur de recherche pour une récupération facile?",
+            "TrueAnswer": "Indexation",
+            "FalseAnswer": [
+              "Exploration",
+              "Scrutation",
+              "Interrogation"
+            ],
+            "Explanation": "L'indexation implique le stockage et l'organisation des informations obtenues lors de l'exploration, les rendant rapidement accessibles pour les requêtes de recherche."
+          }
+        ]
+      }
+    }
+  ]
+}

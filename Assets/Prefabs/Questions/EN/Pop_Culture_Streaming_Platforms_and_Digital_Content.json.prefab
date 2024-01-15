@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1241231602633601240
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5038795166913106178}
+  - component: {fileID: 3406524340973810390}
+  m_Layer: 0
+  m_Name: Pop_Culture_Streaming_Platforms_and_Digital_Content.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5038795166913106178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241231602633601240}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3406524340973810390
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1241231602633601240}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which streaming platform hosts 'Stranger Things'?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      Explanation: '''Stranger Things'' is a popular Netflix original series that
+        first premiered in 2016, created by the Duffer Brothers.'
+    - Question: What service offers 'The Mandalorian'?
+      TrueAnswer: Disney+
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Amazon Prime Video
+      Explanation: '''The Mandalorian'' is an original series available exclusively
+        on Disney+, a streaming platform by The Walt Disney Company.'
+    - Question: Which platform airs 'The Marvelous Mrs. Maisel'?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Disney+
+      Explanation: '''The Marvelous Mrs. Maisel'' is a critically acclaimed Amazon
+        Prime Video original series created by Amy Sherman-Palladino.'
+    - Question: Who created 'BoJack Horseman'?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Amazon Prime Video
+      - Hulu
+      - Disney+
+      Explanation: '''BoJack Horseman'' is an adult animated series created by Raphael
+        Bob-Waksberg, available exclusively on Netflix.'
+    - Question: What platform is known for 'The Handmaid's Tale'?
+      TrueAnswer: Hulu
+      FalseAnswer:
+      - Netflix
+      - Amazon Prime Video
+      - Disney+
+      Explanation: '''The Handmaid''s Tale'' is a Hulu original series based on the
+        dystopian novel by Margaret Atwood.'
+    - Question: Which platform streams 'The Crown'?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      Explanation: '''The Crown'' is a historical drama television series exclusively
+        available on Netflix, chronicling the reign of Queen Elizabeth II.'
+    - Question: Which service offers 'The Boys'?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Disney+
+      Explanation: '''The Boys'' is a superhero web series adapted from the comic
+        book and is available on Amazon Prime Video.'
+    - Question: Who created 'Fleabag'?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Disney+
+      Explanation: '''Fleabag'' is a British comedy-drama television series created
+        by and starring Phoebe Waller-Bridge, available on Amazon Prime Video.'
+    - Question: What platform holds 'The Witcher' adaptation?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      Explanation: Based on the book series, 'The Witcher' is an action-packed fantasy
+        drama available exclusively on Netflix.
+    - Question: Which streaming service offers 'The Great'?
+      TrueAnswer: Hulu
+      FalseAnswer:
+      - Netflix
+      - Amazon Prime Video
+      - Disney+
+      Explanation: '''The Great'' is a satirical, comedic drama television series
+        available exclusively on Hulu, created by Tony McNamara.'
+    - Question: Who is the creator of 'Stranger Things'?
+      TrueAnswer: The Duffer Brothers
+      FalseAnswer:
+      - Phoebe Waller-Bridge
+      - Amy Sherman-Palladino
+      - Raphael Bob-Waksberg
+      Explanation: The Duffer Brothers, Matt and Ross Duffer, are the creative minds
+        behind the popular Netflix series 'Stranger Things.'
+    - Question: Which platform produced the series 'Jack Ryan'?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Hulu
+      - Netflix
+      - Disney+
+      Explanation: '''Tom Clancy''s Jack Ryan'' is an action-packed political thriller
+        series available exclusively on Amazon Prime Video.'
+    - Question: What streaming service offers 'The Umbrella Academy'?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      Explanation: Based on the comic book, 'The Umbrella Academy' is a Netflix original
+        series developed by Steve Blackman.
+    - Question: Which platform streams 'The Expanse' sci-fi series?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Disney+
+      Explanation: '''The Expanse'' is a science fiction television series exclusively
+        available on Amazon Prime Video.'
+    - Question: What platform is famous for 'The Handmaid's Tale' adaptation?
+      TrueAnswer: Hulu
+      FalseAnswer:
+      - Netflix
+      - Amazon Prime Video
+      - Disney+
+      Explanation: '''The Handmaid''s Tale'' adaptation is a critically acclaimed
+        series exclusively available on Hulu.'

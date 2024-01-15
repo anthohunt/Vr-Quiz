@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7737268429374029378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3541025766486545925}
+  - component: {fileID: 1045946930009489484}
+  m_Layer: 0
+  m_Name: Science_Nanotechnology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3541025766486545925
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7737268429374029378}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1045946930009489484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7737268429374029378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is nanotechnology?
+      TrueAnswer: The manipulation of matter on an atomic, molecular, and supramolecular
+        scale.
+      FalseAnswer:
+      - The study of large-scale structures and systems.
+      - The study of living organisms at the nanoscale.
+      - The study of weather patterns and climate change.
+      Explanation: Nanotechnology involves manipulating matter at the atomic and
+        molecular level to create new materials and devices.
+    - Question: Which scientist is often credited with the concept of nanotechnology?
+      TrueAnswer: Richard Feynman
+      FalseAnswer:
+      - Albert Einstein
+      - Marie Curie
+      - Isaac Newton
+      Explanation: Richard Feynman is often credited with introducing the concept
+        of nanotechnology in his 1959 lecture 'There's Plenty of Room at the Bottom.'
+    - Question: What is the size range of nanoparticles?
+      TrueAnswer: 1-100 nanometers
+      FalseAnswer:
+      - 1-10 micrometers
+      - 1-100 micrometers
+      - 1-10 millimeters
+      Explanation: Nanoparticles typically range in size from 1 to 100 nanometers,
+        which is about 1/1000th the width of a human hair.
+    - Question: What is the potential application of nanotechnology in medicine?
+      TrueAnswer: Targeted drug delivery
+      FalseAnswer:
+      - Nanobots for cleaning the environment
+      - Nanoparticles for energy production
+      - Nanomaterials for building construction
+      Explanation: Nanotechnology can be used to develop targeted drug delivery systems,
+        allowing medications to be delivered directly to specific cells or tissues.
+    - Question: What is the term for a material that exhibits different properties
+        at the nanoscale?
+      TrueAnswer: Nanomaterial
+      FalseAnswer:
+      - Macroscopic material
+      - Microscopic material
+      - Mega material
+      Explanation: A nanomaterial is a material that exhibits unique properties at
+        the nanoscale, which can differ from its bulk properties.
+    - Question: What is the potential environmental impact of nanotechnology?
+      TrueAnswer: Unknown
+      FalseAnswer:
+      - No impact
+      - Positive impact
+      - Negative impact
+      Explanation: The environmental impact of nanotechnology is still being studied,
+        and its long-term effects are currently unknown.
+    - Question: What is the term for the process of assembling nanoscale components
+        into larger structures?
+      TrueAnswer: Nanomanufacturing
+      FalseAnswer:
+      - Nanodisassembly
+      - Nanodestruction
+      - Nanodisintegration
+      Explanation: Nanomanufacturing involves the process of assembling nanoscale
+        components into larger structures or devices.
+    - Question: What is the potential application of nanotechnology in electronics?
+      TrueAnswer: Miniaturization
+      FalseAnswer:
+      - Wireless communication
+      - Energy generation
+      - Data storage
+      Explanation: Nanotechnology can enable the miniaturization of electronic components,
+        leading to smaller and more efficient devices.
+    - Question: What is the term for the study of manipulating individual atoms and
+        molecules?
+      TrueAnswer: Nanomanipulation
+      FalseAnswer:
+      - Macroscopy
+      - Microscopy
+      - Megascale manipulation
+      Explanation: Nanomanipulation involves the study and control of individual
+        atoms and molecules to create desired structures or devices.
+    - Question: What is the potential application of nanotechnology in energy production?
+      TrueAnswer: Solar cells
+      FalseAnswer:
+      - Nuclear power plants
+      - Fossil fuel extraction
+      - Hydroelectric dams
+      Explanation: Nanotechnology can be used to improve the efficiency and performance
+        of solar cells, enabling more sustainable energy production.
+    - Question: What is the term for a particle that is larger than a molecule but
+        smaller than a bulk material?
+      TrueAnswer: Nanoparticle
+      FalseAnswer:
+      - Microscopic particle
+      - Macroscopic particle
+      - Mega particle
+      Explanation: A nanoparticle is a particle that falls between the size of a
+        molecule and a bulk material, typically ranging from 1 to 100 nanometers.
+    - Question: What is the potential application of nanotechnology in environmental
+        remediation?
+      TrueAnswer: Water purification
+      FalseAnswer:
+      - Air pollution control
+      - Soil erosion prevention
+      - Waste management
+      Explanation: Nanotechnology can be used for water purification, removing contaminants
+        and pollutants to improve water quality.
+    - Question: What is the term for the ability of a material to self-repair when
+        damaged?
+      TrueAnswer: Self-healing
+      FalseAnswer:
+      - Self-destructing
+      - Self-dissolving
+      - Self-disintegrating
+      Explanation: Self-healing materials have the ability to repair themselves when
+        damaged, potentially extending their lifespan and reducing the need for replacements.
+    - Question: What is the potential application of nanotechnology in food packaging?
+      TrueAnswer: Extended shelf life
+      FalseAnswer:
+      - Increased food waste
+      - Enhanced flavor
+      - Reduced nutritional value
+      Explanation: Nanotechnology can be used in food packaging to extend the shelf
+        life of products by preventing spoilage and maintaining freshness.
+    - Question: What is the term for the study of the behavior of matter at the nanoscale?
+      TrueAnswer: Nanoscience
+      FalseAnswer:
+      - Macroscience
+      - Microscience
+      - Megascale science
+      Explanation: Nanoscience is the study of the behavior of matter at the nanoscale,
+        exploring unique phenomena and properties that arise at this level.
+    - Question: What is the potential application of nanotechnology in clothing?
+      TrueAnswer: Stain resistance
+      FalseAnswer:
+      - Increased heat retention
+      - Enhanced breathability
+      - Reduced durability
+      Explanation: Nanotechnology can be used to create clothing with stain-resistant
+        properties, making it easier to clean and maintain.
+    - Question: What is the term for the process of breaking down materials into
+        nanoscale particles?
+      TrueAnswer: Nanodispersion
+      FalseAnswer:
+      - Macrodispersion
+      - Microdispersion
+      - Megadispersion
+      Explanation: Nanodispersion involves breaking down materials into nanoscale
+        particles, which can then be used in various applications.
+    - Question: What is the potential application of nanotechnology in cosmetics?
+      TrueAnswer: Improved delivery of active ingredients
+      FalseAnswer:
+      - Color enhancement
+      - Fragrance enhancement
+      - Increased shelf life
+      Explanation: Nanotechnology can enhance the delivery of active ingredients
+        in cosmetics, improving their effectiveness and targeting specific skin concerns.
+    - Question: What is the term for the ability of a material to repel water?
+      TrueAnswer: Hydrophobic
+      FalseAnswer:
+      - Hydrophilic
+      - Hydroscopic
+      - Hydrothermal
+      Explanation: Hydrophobic materials have the ability to repel water, causing
+        it to bead up and roll off the surface.
+    - Question: What is the potential application of nanotechnology in agriculture?
+      TrueAnswer: Precision farming
+      FalseAnswer:
+      - Crop destruction
+      - Soil depletion
+      - Pest infestation
+      Explanation: Nanotechnology can be used in precision farming, optimizing crop
+        production through targeted delivery of nutrients and pest control.
+    - Question: What is the term for the process of creating nanoscale patterns on
+        a surface?
+      TrueAnswer: Nanolithography
+      FalseAnswer:
+      - Macroetching
+      - Microengraving
+      - Megapatterning
+      Explanation: Nanolithography involves creating nanoscale patterns on a surface,
+        often used in the fabrication of electronic devices.

@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the first cryptocurrency ever created?",
+          "TrueAnswer": "Bitcoin",
+          "FalseAnswer": [
+            "Ethereum",
+            "Ripple",
+            "Litecoin"
+          ],
+          "Explanation": "Bitcoin, created in 2009 by an unknown person or group using the pseudonym Satoshi Nakamoto, was the first decentralized cryptocurrency."
+        },
+        {
+          "Question": "What is the process of validating and recording transactions on a blockchain called?",
+          "TrueAnswer": "Mining",
+          "FalseAnswer": [
+            "Trading",
+            "Staking",
+            "Fiat"
+          ],
+          "Explanation": "Mining is the process of adding and verifying transactions on a blockchain, often performed by powerful computers solving complex mathematical puzzles."
+        },
+        {
+          "Question": "What is the maximum supply of Bitcoin?",
+          "TrueAnswer": "21 million",
+          "FalseAnswer": [
+            "10 million",
+            "15 million",
+            "30 million"
+          ],
+          "Explanation": "The maximum supply of Bitcoin is capped at 21 million coins, creating scarcity and the potential for long-term value appreciation."
+        },
+        {
+          "Question": "What consensus algorithm does Ethereum use?",
+          "TrueAnswer": "Proof of Stake (PoS)",
+          "FalseAnswer": [
+            "Proof of Work (PoW)",
+            "Delegated Proof of Stake (DPoS)",
+            "Byzantine Fault Tolerance (BFT)"
+          ],
+          "Explanation": "Ethereum is transitioning from Proof of Work to Proof of Stake consensus algorithm, aiming to improve scalability and reduce environmental impact."
+        },
+        {
+          "Question": "What is a decentralized digital ledger that records all cryptocurrency transactions?",
+          "TrueAnswer": "Blockchain",
+          "FalseAnswer": [
+            "Tangle",
+            "Hashgraph",
+            "DAG"
+          ],
+          "Explanation": "Blockchain is a chain of blocks containing transaction data that is secure, transparent, and tamper-resistant, essential for cryptocurrencies' trustless nature."
+        },
+        {
+          "Question": "What is the term used to describe the process of verifying transactions on a blockchain without the need for a central authority?",
+          "TrueAnswer": "Decentralization",
+          "FalseAnswer": [
+            "Centralization",
+            "Intermediation",
+            "Consolidation"
+          ],
+          "Explanation": "Decentralization ensures that no single entity has control over the network, promoting transparency, security, and censorship resistance."
+        },
+        {
+          "Question": "Which type of wallet allows for offline storage of cryptocurrency?",
+          "TrueAnswer": "Hardware wallet",
+          "FalseAnswer": [
+            "Paper wallet",
+            "Desktop wallet",
+            "Mobile wallet"
+          ],
+          "Explanation": "Hardware wallets store cryptocurrency offline, providing enhanced security against online attacks and unauthorized access."
+        },
+        {
+          "Question": "What cryptographic technique provides the security and integrity of blockchain transactions?",
+          "TrueAnswer": "Hashing",
+          "FalseAnswer": [
+            "Encryption",
+            "Tokenization",
+            "Salting"
+          ],
+          "Explanation": "Hashing converts input data into a fixed-size string of characters, providing a unique digital fingerprint for each block, ensuring data integrity and security."
+        },
+        {
+          "Question": "Who is the creator of Ethereum?",
+          "TrueAnswer": "Vitalik Buterin",
+          "FalseAnswer": [
+            "Satoshi Nakamoto",
+            "Charlie Lee",
+            "Roger Ver"
+          ],
+          "Explanation": "Vitalik Buterin, a Russian-Canadian programmer, proposed Ethereum in late 2013 and development began in early 2014, aiming to create a more versatile blockchain platform."
+        },
+        {
+          "Question": "What role do nodes play in a blockchain network?",
+          "TrueAnswer": "Verification and validation",
+          "FalseAnswer": [
+            "Cryptocurrency mining",
+            "Smart contract execution",
+            "Token generation"
+          ],
+          "Explanation": "Nodes verify and validate transactions, ensuring consensus, security, and the accurate recording of data on a blockchain network."
+        },
+        {
+          "Question": "What feature of blockchain technology ensures immutability and tamper resistance?",
+          "TrueAnswer": "Consensus mechanism",
+          "FalseAnswer": [
+            "Transaction finality",
+            "Block confirmation",
+            "Historical data compression"
+          ],
+          "Explanation": "Consensus mechanisms like Proof of Work or Proof of Stake ensure that transactions are irreversible and resistant to tampering, enhancing trust in blockchain data."
+        },
+        {
+          "Question": "What is the term for a temporary split in the blockchain, often due to conflicting transactions?",
+          "TrueAnswer": "Fork",
+          "FalseAnswer": [
+            "Dip",
+            "Split",
+            "Branch"
+          ],
+          "Explanation": "A fork occurs when a blockchain diverges into two separate chains, usually due to a change in the network's protocol or consensus rules."
+        },
+        {
+          "Question": "Which type of attack involves an individual or group controlling the majority of a blockchain network's mining power?",
+          "TrueAnswer": "51% attack",
+          "FalseAnswer": [
+            "Double spending attack",
+            "Sybil attack",
+            "Timestamp manipulation attack"
+          ],
+          "Explanation": "In a 51% attack, the attacker can manipulate transactions and potentially reverse confirmed transactions, undermining the blockchain’s security and integrity."
+        },
+        {
+          "Question": "What programming language is commonly used for writing smart contracts on Ethereum?",
+          "TrueAnswer": "Solidity",
+          "FalseAnswer": [
+            "Java",
+            "Python",
+            "C++"
+          ],
+          "Explanation": "Solidity is a high-level language for implementing smart contracts on Ethereum, specifically designed for creating and executing secure and reliable code."
+        },
+        {
+          "Question": "What is the term for a process that makes cryptocurrency funds illegitimate or unspendable?",
+          "TrueAnswer": "Blacklisting",
+          "FalseAnswer": [
+            "Whitelisting",
+            "Freezing",
+            "Seizing"
+          ],
+          "Explanation": "Blacklisting renders cryptocurrency funds unusable, often due to regulatory compliance, suspicious activity, or involvement in illicit transactions."
+        },
+        {
+          "Question": "In cryptocurrency, what does the acronym ICO stand for?",
+          "TrueAnswer": "Initial Coin Offering",
+          "FalseAnswer": [
+            "Initial Public Offering",
+            "International Currency Organization",
+            "Innovative Cryptocurrency Operation"
+          ],
+          "Explanation": "An ICO is a fundraising method where a new cryptocurrency project sells a portion of its tokens to early investors, similar to a company's IPO in traditional finance."
+        },
+        {
+          "Question": "Who proposed the concept of a cryptocurrency in a white paper in 1998?",
+          "TrueAnswer": "Wei Dai",
+          "FalseAnswer": [
+            "David Chaum",
+            "Nick Szabo",
+            "Hal Finney"
+          ],
+          "Explanation": "Wei Dai, a computer engineer, proposed the concept of a decentralized form of money in a cypherpunk mailing list in 1998, inspiring future cryptocurrencies like Bitcoin."
+        },
+        {
+          "Question": "What is the purpose of the Lightning Network in the context of Bitcoin?",
+          "TrueAnswer": "Scalability and instant payments",
+          "FalseAnswer": [
+            "Transaction anonymity",
+            "Consensus protocol upgrade",
+            "Smart contract execution"
+          ],
+          "Explanation": "The Lightning Network aims to enable faster and cheaper Bitcoin transactions by processing them off-chain, enhancing the network's scalability and enabling instant micropayments."
+        },
+        {
+          "Question": "What is the term for a malicious program that can modify transaction details and divert cryptocurrency to unauthorized recipients?",
+          "TrueAnswer": "Smart contract vulnerability",
+          "FalseAnswer": [
+            "Keylogger",
+            "Malware",
+            "Phishing"
+          ],
+          "Explanation": "Smart contract vulnerabilities can be exploited to manipulate transactions, resulting in unauthorized fund transfers, emphasizing the importance of thorough code audits and security testing."
+        },
+        {
+          "Question": "What type of consensus does the Ripple (XRP) network primarily rely on?",
+          "TrueAnswer": "Consensus Protocol",
+          "FalseAnswer": [
+            "Proof of Work (PoW)",
+            "Proof of Stake (PoS)",
+            "Delegated Proof of Stake (DPoS)"
+          ],
+          "Explanation": "Ripple uses its unique consensus algorithm to validate transactions, aiming to provide fast and cost-effective cross-border payments without relying on energy-intensive mining."
+        }
+      ]
+    }
+  ]
+}

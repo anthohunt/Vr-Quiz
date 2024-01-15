@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la valeur actuelle de 1000 $ reçus dans 5 ans à un taux d'intérêt de 3%?",
+            "TrueAnswer": "$863,84",
+            "FalseAnswer": [
+              "$1000",
+              "$1159,27",
+              "$924,73"
+            ],
+            "Explanation": "La valeur actuelle est calculée en divisant la valeur future par (1 + r)^n, où r est le taux d'intérêt et n est le nombre de périodes jusqu'au paiement."
+          },
+          {
+            "Question": "Quelle est la formule de la valeur actuelle d'une rente?",
+            "TrueAnswer": "PMT * [(1 - (1 + r)^-n) / r]",
+            "FalseAnswer": [
+              "PMT * n * (1 + r)",
+              "PMT * (1 + r) / r",
+              "PMT * (1 - (1 + r)^n)"
+            ],
+            "Explanation": "La formule de la valeur actuelle d'une rente calcule la valeur actuelle d'une série de paiements égaux effectués à intervalles réguliers, en tenant compte du taux d'intérêt et du nombre de périodes."
+          },
+          {
+            "Question": "Quelle est la mesure la plus précise de la diversification d'un portefeuille?",
+            "TrueAnswer": "Coefficient de corrélation",
+            "FalseAnswer": [
+              "Ratio de Sharpe",
+              "Coefficient bêta",
+              "Écart type"
+            ],
+            "Explanation": "Le coefficient de corrélation mesure le degré selon lequel les rendements de deux actifs évoluent l'un par rapport à l'autre, indiquant les avantages de la diversification dans un portefeuille."
+          },
+          {
+            "Question": "Quelle est la formule pour calculer les intérêts composés?",
+            "TrueAnswer": "A = P(1 + r/n)^(nt)",
+            "FalseAnswer": [
+              "A = P(1 + r)^t",
+              "A = P(1 + r/n)^t",
+              "A = P(1 + nt)^(r/n)"
+            ],
+            "Explanation": "La formule des intérêts composés calcule le montant d'argent qu'un investissement atteindra après un temps t, en se composant n fois par an, avec un montant principal initial P et un taux d'intérêt r."
+          },
+          {
+            "Question": "Quelle est l'hypothèse clé du modèle de Black-Scholes pour la tarification des options?",
+            "TrueAnswer": "Distribution log-normale des rendements de l'action",
+            "FalseAnswer": [
+              "Distribution normale des rendements de l'action",
+              "Distribution de Pareto des rendements de l'action",
+              "Distribution uniforme des rendements de l'action"
+            ],
+            "Explanation": "Le modèle de Black-Scholes suppose que la distribution des rendements de l'action est log-normalement distribuée, permettant le calcul des prix des options en utilisant la formule dérivée de cette supposition."
+          },
+          {
+            "Question": "Quelle est la relation entre les prix des obligations et les taux d'intérêt?",
+            "TrueAnswer": "Inverse",
+            "FalseAnswer": [
+              "Directe",
+              "Aucune relation",
+              "Non linéaire"
+            ],
+            "Explanation": "Les prix des obligations et les taux d'intérêt ont une relation inverse, ce qui signifie que lorsque les taux d'intérêt augmentent, les prix des obligations baissent, et vice versa. Cette relation est fondamentale dans l'investissement en obligations."
+          },
+          {
+            "Question": "Quelle est la formule pour la valeur future d'un investissement sur n années?",
+            "TrueAnswer": "FV = PV * (1 + r)^n",
+            "FalseAnswer": [
+              "FV = PV * (1 - r)^n",
+              "FV = PV * (1 + r/n)^n",
+              "FV = PV * (1 + nt)"
+            ],
+            "Explanation": "La formule de la valeur future calcule la valeur d'un investissement à un moment spécifique dans le futur, en tenant compte du principal initial (PV), du taux d'intérêt (r) et du nombre d'années (n)."
+          },
+          {
+            "Question": "Quel investissement a la plus grande liquidité?",
+            "TrueAnswer": "Bons du Trésor",
+            "FalseAnswer": [
+              "Immobilier",
+              "Certificats de dépôt",
+              "Obligations d'entreprises"
+            ],
+            "Explanation": "Les bons du Trésor sont considérés comme l'investissement le plus liquide car ce sont des titres à court terme à faible risque émis par le gouvernement et pouvant être facilement achetés et vendus sur le marché secondaire."
+          },
+          {
+            "Question": "Quelle est la formule pour calculer la valeur actuelle de la perpétuité?",
+            "TrueAnswer": "PV = PMT / r",
+            "FalseAnswer": [
+              "PV = PMT / (1 + r)",
+              "PV = PMT / (1 - r)",
+              "PV = PMT * r"
+            ],
+            "Explanation": "La valeur actuelle de la perpétuité représente une série de flux de trésorerie égaux se produisant à intervalles réguliers indéfiniment. La formule se simplifie en PV = PMT / r, où PMT est le paiement constant et r est le taux d'intérêt."
+          },
+          {
+            "Question": "Quel est le rôle principal de la Réserve fédérale dans le système financier?",
+            "TrueAnswer": "Régulation de la politique monétaire",
+            "FalseAnswer": [
+              "Formulation de la politique budgétaire",
+              "Gestion de la dette des ménages",
+              "Surveillance de la spéculation sur le marché"
+            ],
+            "Explanation": "La Réserve fédérale joue un rôle crucial dans la régulation de la politique monétaire de la nation, influençant les taux d'intérêt, l'offre de monnaie, et favorisant la stabilité et la croissance économique."
+          },
+          {
+            "Question": "Quelle est la formule pour calculer le prix d'une perpétuité?",
+            "TrueAnswer": "P = PMT / r",
+            "FalseAnswer": [
+              "P = PMT / (1 + r)",
+              "P = PMT / (1 - r)",
+              "P = PMT * r"
+            ],
+            "Explanation": "Le prix d'une perpétuité reflète la valeur actuelle d'une série infinie de paiements périodiques et est calculé en utilisant la formule P = PMT / r, où PMT est le paiement constant et r est le taux d'intérêt."
+          },
+          {
+            "Question": "Quel est le principal focus de la finance comportementale?",
+            "TrueAnswer": "Psychologie et biais des investisseurs",
+            "FalseAnswer": [
+              "Théorie de l'efficience du marché",
+              "Analyse technique des prix des actions",
+              "Approche de tarification neutre au risque"
+            ],
+            "Explanation": "La finance comportementale examine comment les facteurs psychologiques influencent la prise de décisions financières et les résultats sur le marché, mettant en lumière les biais cognitifs, les influences émotionnelles et les comportements irrationnels dans l'investissement."
+          },
+          {
+            "Question": "Quelle est la mesure ajustée au risque qui évalue le rendement excédentaire par unité de risque?",
+            "TrueAnswer": "Ratio de Sharpe",
+            "FalseAnswer": [
+              "Ratio de Treynor",
+              "Alpha de Jensen",
+              "Ratio de Sortino"
+            ],
+            "Explanation": "Le ratio de Sharpe évalue la performance d'un investissement en mesurant le rendement excédentaire par unité de risque total, offrant un outil précieux pour évaluer le rendement ajusté au risque d'une stratégie d'investissement."
+          },
+          {
+            "Question": "Quel est le facteur clé impactant la valeur d'une option d'achat dans le modèle de Black-Scholes?",
+            "TrueAnswer": "Volatilité du prix de l'action",
+            "FalseAnswer": [
+              "Taux d'intérêt",
+              "Durée jusqu'à l'expiration",
+              "Rendement des dividendes"
+            ],
+            "Explanation": "Dans le modèle de Black-Scholes, la valeur d'une option d'achat est significativement affectée par la volatilité du prix de l'action sous-jacente, car une volatilité plus élevée entraîne une valeur d'option plus élevée en raison d'un potentiel accru de mouvements de prix."
+          },
+          {
+            "Question": "Que suggère l'hypothèse des marchés efficaces?",
+            "TrueAnswer": "Toute l'information disponible est reflétée dans les prix des actions.",
+            "FalseAnswer": [
+              "Les prix des actions sont aléatoires",
+              "Les prix des actions sont prévisibles",
+              "Les prix des actions sont déterminés uniquement par l'offre et la demande"
+            ],
+            "Explanation": "L'hypothèse des marchés efficaces soutient que toute l'information disponible est déjà reflétée dans les prix des actions et qu'il est impossible d'obtenir de manière cohérente des rendements excédentaires en analysant les données de marché passées ou en faisant des prédictions basées sur les tendances historiques."
+          },
+          {
+            "Question": "Quel est l'objectif principal des modèles de tarification des options comme Black-Scholes?",
+            "TrueAnswer": "Estimer la juste valeur des options",
+            "FalseAnswer": [
+              "Prédire les futurs prix des actions",
+              "Calculer le rendement des dividendes",
+              "Mesurer la volatilité du marché"
+            ],
+            "Explanation": "Les modèles de tarification des options, tels que Black-Scholes, visent à déterminer la juste valeur des options en tenant compte de facteurs tels que le prix de l'action sous-jacente, la durée jusqu'à l'expiration, le taux sans risque et la volatilité, facilitant ainsi des décisions d'investissement éclairées."
+          },
+          {
+            "Question": "Quel est le but principal du Modèle d'Évaluation des Actifs Financiers (MEDAF)?",
+            "TrueAnswer": "Calculer le rendement attendu pour un actif",
+            "FalseAnswer": [
+              "Prévoir les mouvements des prix des actions",
+              "Quantifier la prime de risque du marché",
+              "Évaluer la rentabilité de l'entreprise"
+            ],
+            "Explanation": "Le MEDAF est utilisé pour calculer le rendement attendu pour un actif en fonction de son bêta, du taux sans risque et de la prime de risque du marché, fournissant un cadre d'évaluation du rendement potentiel de l'actif par rapport à son risque systématique."
+          },
+          {
+            "Question": "Quelle est la formule pour calculer le rendement annuel effectif (RAE)?",
+            "TrueAnswer": "RAE = (1 + r/n)^n - 1",
+            "FalseAnswer": [
+              "RAE = r * n",
+              "RAE = (1 + r)^n - 1",
+              "RAE = r / n"
+            ],
+            "Explanation": "La formule du rendement annuel effectif (RAE) ajuste le taux d'intérêt nominal pour les effets de la capitalisation, permettant aux investisseurs de comparer le rendement réel sur différentes options d'investissement avec différentes fréquences de capitalisation."
+          },
+          {
+            "Question": "Quel est l'objectif principal de la gestion des risques financiers?",
+            "TrueAnswer": "Minimiser les pertes potentielles",
+            "FalseAnswer": [
+              "Maximiser les gains à court terme",
+              "Éliminer la volatilité du marché",
+              "Planification stratégique à long terme"
+            ],
+            "Explanation": "La gestion des risques financiers vise à minimiser les pertes potentielles en identifiant, évaluant et atténuant les risques dans le contexte des portefeuilles d'investissement, de la volatilité du marché et des activités opérationnelles, renforçant ainsi la stabilité financière globale et la résilience."
+          },
+          {
+            "Question": "Quel est le facteur principal affectant le rendement à échéance d'une obligation?",
+            "TrueAnswer": "Les variations des taux d'intérêt",
+            "FalseAnswer": [
+              "La notation de crédit de l'émetteur",
+              "La date d'échéance de l'obligation",
+              "La liquidité du marché de l'obligation"
+            ],
+            "Explanation": "Le rendement à échéance d'une obligation est principalement impacté par les variations des taux d'intérêt, car il représente le rendement total qu'un investisseur peut attendre s'il détient l'obligation jusqu'à son échéance, tenant compte à la fois des paiements de coupons et de tout changement du prix de l'obligation dû aux mouvements des taux d'intérêt."
+          }
+        ]
+      }
+    }
+  ]
+}

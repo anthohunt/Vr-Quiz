@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4307512562939575870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7979386580003033420}
+  - component: {fileID: 7170028912338351950}
+  m_Layer: 0
+  m_Name: Internet_Online_News_and_Journalism.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7979386580003033420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4307512562939575870}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7170028912338351950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4307512562939575870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the standard size for a Twitter profile picture?
+      TrueAnswer: 400x400 pixels
+      FalseAnswer:
+      - 200x200 pixels
+      - 600x600 pixels
+      - 800x800 pixels
+      Explanation: The standard size for a Twitter profile picture is 400x400 pixels,
+        which appears as a circle in the profile.
+    - Question: What news organization operates the website HuffPost?
+      TrueAnswer: Verizon Media
+      FalseAnswer:
+      - BuzzFeed
+      - The New York Times
+      - Fox News
+      Explanation: Verizon Media operates the website HuffPost, which is a news and
+        opinion website covering politics, entertainment, and more.
+    - Question: In journalism, what does the acronym 'AP' stand for?
+      TrueAnswer: Associated Press
+      FalseAnswer:
+      - American Press
+      - Asia Pacific
+      - Article Publication
+      Explanation: In journalism, 'AP' stands for Associated Press, which is a nonprofit
+        news agency providing unbiased news to its members.
+    - Question: What year was the first blog published?
+      TrueAnswer: 1994
+      FalseAnswer:
+      - 2000
+      - 1989
+      - 2005
+      Explanation: The first blog was published in 1994 by Justin Hall, who is often
+        regarded as the pioneer of blogging.
+    - Question: What is the purpose of an op-ed in journalism?
+      TrueAnswer: Expressing personal opinion
+      FalseAnswer:
+      - Reporting breaking news
+      - Conducting interviews
+      - Conducting investigative journalism
+      Explanation: Op-ed, short for 'opposite the editorial page,' is a newspaper
+        page dedicated to articles written by guest contributors expressing their
+        personal opinions.
+    - Question: Which of these is a popular fact-checking website?
+      TrueAnswer: Snopes
+      FalseAnswer:
+      - BuzzFeed
+      - The Onion
+      - Upworthy
+      Explanation: Snopes is a leading fact-checking website that debunks urban legends,
+        fake news, and misinformation.
+    - Question: What is the term for false information deliberately spread to deceive?
+      TrueAnswer: Disinformation
+      FalseAnswer:
+      - Misinformation
+      - Propaganda
+      - Hoax
+      Explanation: Disinformation refers to false information intentionally spread
+        to deceive, while misinformation is false information shared without the
+        intent to deceive.
+    - Question: Which news outlet is associated with the tagline 'The most trusted
+        name in news'?
+      TrueAnswer: CNN
+      FalseAnswer:
+      - Fox News
+      - MSNBC
+      - BBC News
+      Explanation: CNN is associated with the tagline 'The most trusted name in news,'
+        emphasizing its commitment to providing reliable and trustworthy journalism.
+    - Question: What is the process of gathering news called?
+      TrueAnswer: Journalism
+      FalseAnswer:
+      - Editorial
+      - Opinion piece
+      - Press release
+      Explanation: The process of gathering news, verifying information, and presenting
+        it to the public in a timely manner is known as journalism.
+    - Question: Which of the following is a principle of ethical journalism?
+      TrueAnswer: Independence
+      FalseAnswer:
+      - Sensationalism
+      - Deception
+      - Conflict of interest
+      Explanation: Independence is a key principle of ethical journalism, ensuring
+        freedom from undue influence and the ability to report truthfully and impartially.
+    - Question: What does the abbreviation 'AP' stand for in online news?
+      TrueAnswer: Associated Press
+      FalseAnswer:
+      - Article Publication
+      - Asia Pacific
+      - Authoritative Publisher
+      Explanation: In the context of online news, 'AP' typically refers to the Associated
+        Press, a renowned news agency providing global coverage.
+    - Question: Which platform is known for 'trending topics' featuring news and
+        discussions?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Instagram
+      - TikTok
+      - LinkedIn
+      Explanation: Twitter is known for its 'trending topics' section, where users
+        can discover popular news, events, and discussions in real-time.
+    - Question: What term describes the practice of copying and republishing news
+        from other sources without authorization?
+      TrueAnswer: Plagiarism
+      FalseAnswer:
+      - Paraphrasing
+      - Citing
+      - Attribution
+      Explanation: Plagiarism is the unethical practice of copying and republishing
+        someone else's work without permission or proper attribution.
+    - Question: Which of the following is a common type of online news headline?
+      TrueAnswer: Clickbait
+      FalseAnswer:
+      - Informative
+      - Objective
+      - Straightforward
+      Explanation: Clickbait headlines are designed to attract attention and encourage
+        clicks, often by exaggerating or sensationalizing the content.
+    - Question: What is the term for the illegal practice of manipulating website
+        traffic or engagement metrics?
+      TrueAnswer: Click fraud
+      FalseAnswer:
+      - Impression fraud
+      - Bot traffic
+      - Adware
+      Explanation: Click fraud involves artificially inflating the number of clicks
+        on online advertisements to fraudulently generate revenue or disrupt competitors'
+        advertising campaigns.
+    - Question: What is the term for a news article that presents a biased or one-sided
+        viewpoint?
+      TrueAnswer: Opinion piece
+      FalseAnswer:
+      - Investigative report
+      - Editorial
+      - Press release
+      Explanation: An opinion piece is a news article expressing the author's subjective
+        viewpoint, typically distinct from objective news reporting.
+    - Question: What does the acronym 'RSS' stand for in the context of online news
+        syndication?
+      TrueAnswer: Really Simple Syndication
+      FalseAnswer:
+      - Rapid Source Sharing
+      - Remote Site Sync
+      - Regional News Service
+      Explanation: RSS, or Really Simple Syndication, is a standardized format for
+        distributing web content, such as news articles, across different platforms
+        and applications.
+    - Question: Which of the following is a potential ethical concern in online journalism?
+      TrueAnswer: Clickbait tactics
+      FalseAnswer:
+      - Timely reporting
+      - User engagement
+      - Data visualization
+      Explanation: Clickbait tactics can raise ethical concerns in online journalism,
+        as they prioritize click quantity over informational quality, potentially
+        misleading readers.
+    - Question: What is the term for the process of making changes or adding updates
+        to a published news article?
+      TrueAnswer: Editing
+      FalseAnswer:
+      - Redacting
+      - Outlining
+      - Transcribing
+      Explanation: Editing involves making changes or updates to a published news
+        article to improve accuracy, clarity, or relevance based on new information
+        or developments.
+    - Question: Which of the following is a recognized standard of journalism ethics?
+      TrueAnswer: Transparency
+      FalseAnswer:
+      - Sensationalism
+      - Biased reporting
+      - Conflict of interest
+      Explanation: Transparency is a fundamental principle of journalism ethics,
+        emphasizing openness, honesty, and disclosure of sources and potential conflicts
+        of interest.

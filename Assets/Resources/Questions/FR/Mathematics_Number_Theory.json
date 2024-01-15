@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Combien de nombres premiers y a-t-il entre 1 et 20?",
+            "TrueAnswer": "8",
+            "FalseAnswer": [
+              "5",
+              "10",
+              "12"
+            ],
+            "Explanation": "Les nombres premiers entre 1 et 20 sont 2, 3, 5, 7, 11, 13, 17 et 19, ce qui fait un total de 8 nombres premiers."
+          },
+          {
+            "Question": "Quelle est la somme de tous les diviseurs positifs de 28?",
+            "TrueAnswer": "56",
+            "FalseAnswer": [
+              "42",
+              "36",
+              "49"
+            ],
+            "Explanation": "Les diviseurs positifs de 28 sont 1, 2, 4, 7, 14 et 28. La somme de ces diviseurs est 56."
+          },
+          {
+            "Question": "Lequel des nombres suivants est un nombre parfait?",
+            "TrueAnswer": "28",
+            "FalseAnswer": [
+              "16",
+              "30",
+              "24"
+            ],
+            "Explanation": "28 est un nombre parfait car la somme de ses diviseurs propres (1, 2, 4, 7, 14) équivaut au nombre lui-même (28)."
+          },
+          {
+            "Question": "Quel est le plus petit facteur premier de 50?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "5",
+              "3",
+              "7"
+            ],
+            "Explanation": "Le plus petit facteur premier de 50 est 2, car 50 peut être exprimé comme 2 multiplié par 5^2. "
+          },
+          {
+            "Question": "Quel est le 10e nombre de Fibonacci?",
+            "TrueAnswer": "55",
+            "FalseAnswer": [
+              "34",
+              "89",
+              "21"
+            ],
+            "Explanation": "Le 10e nombre de Fibonacci est 55, trouvé en additionnant les 9e et 8e nombres dans la séquence."
+          },
+          {
+            "Question": "Combien d'entiers positifs inférieurs à 100 sont premiers entre eux à 100?",
+            "TrueAnswer": "40",
+            "FalseAnswer": [
+              "20",
+              "30",
+              "50"
+            ],
+            "Explanation": "Le nombre d'entiers positifs inférieurs à 100 qui sont premiers entre eux à 100 est donné par la fonction indicatrice d'Euler (ou fonction phi d'Euler), qui équivaut à 40."
+          },
+          {
+            "Question": "Combien y a-t-il de diviseurs positifs de 100?",
+            "TrueAnswer": "9",
+            "FalseAnswer": [
+              "6",
+              "7",
+              "12"
+            ],
+            "Explanation": "Les diviseurs positifs de 100 sont 1, 2, 4, 5, 10, 20, 25, 50 et 100, ce qui donne un total de 9 diviseurs."
+          },
+          {
+            "Question": "Quel est le plus petit commun multiple de 6 et 8?",
+            "TrueAnswer": "24",
+            "FalseAnswer": [
+              "16",
+              "20",
+              "30"
+            ],
+            "Explanation": "Le plus petit commun multiple de 6 et 8 est 24, car 24 est le plus petit multiple dans lequel 6 et 8 divisent."
+          },
+          {
+            "Question": "Quelle est la somme des 7 premiers nombres premiers?",
+            "TrueAnswer": "58",
+            "FalseAnswer": [
+              "42",
+              "50",
+              "65"
+            ],
+            "Explanation": "La somme des 7 premiers nombres premiers (2, 3, 5, 7, 11, 13, 17) est 58."
+          },
+          {
+            "Question": "Quelle est la valeur de 7 mod 3?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "2",
+              "0",
+              "3"
+            ],
+            "Explanation": "La valeur de 7 mod 3 est 1, ce qui représente le reste lorsque 7 est divisé par 3."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &788764657625705703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5631018231985680017}
+  - component: {fileID: 8764474979859267273}
+  m_Layer: 0
+  m_Name: Mathematics_Math in Nature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5631018231985680017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 788764657625705703}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8764474979859267273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 788764657625705703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the mathematical pattern found in the center of a sunflower?
+      TrueAnswer: Fibonacci sequence
+      FalseAnswer:
+      - Prime numbers
+      - Exponential growth
+      - Geometric progression
+      Explanation: The center of a sunflower exhibits a spiral pattern that follows
+        the Fibonacci sequence.
+    - Question: What is the name of the mathematical shape formed by a snowflake?
+      TrueAnswer: Fractal
+      FalseAnswer:
+      - Polygon
+      - Ellipse
+      - Parabola
+      Explanation: A snowflake is a fractal, a complex geometric shape that exhibits
+        self-similarity at different scales.
+    - Question: What is the mathematical concept behind the branching of trees?
+      TrueAnswer: Fractal geometry
+      FalseAnswer:
+      - Trigonometry
+      - Calculus
+      - Linear algebra
+      Explanation: The branching patterns of trees can be described using fractal
+        geometry, which studies self-repeating patterns.
+    - Question: What is the name of the mathematical sequence found in pinecones?
+      TrueAnswer: Fibonacci sequence
+      FalseAnswer:
+      - Arithmetic progression
+      - Geometric sequence
+      - Exponential growth
+      Explanation: The arrangement of scales in a pinecone follows the Fibonacci
+        sequence, resulting in a spiral pattern.
+    - Question: What is the mathematical concept behind the formation of honeycomb
+        cells?
+      TrueAnswer: Hexagonal packing
+      FalseAnswer:
+      - Rectangular packing
+      - Circular packing
+      - Triangular packing
+      Explanation: Honeycomb cells are formed using hexagonal packing, which maximizes
+        space efficiency and minimizes material usage.
+    - Question: What is the mathematical principle behind the symmetry of butterfly
+        wings?
+      TrueAnswer: Bilateral symmetry
+      FalseAnswer:
+      - Radial symmetry
+      - Asymmetry
+      - Spherical symmetry
+      Explanation: Butterfly wings exhibit bilateral symmetry, meaning they can be
+        divided into two equal halves along a central line.
+    - Question: What is the mathematical concept behind the spiral shape of seashells?
+      TrueAnswer: Logarithmic spiral
+      FalseAnswer:
+      - Archimedean spiral
+      - Elliptical spiral
+      - Hyperbolic spiral
+      Explanation: The spiral shape of seashells follows a logarithmic spiral, which
+        expands while maintaining a constant angle.
+    - Question: What is the mathematical principle behind the formation of beehives?
+      TrueAnswer: Hexagonal tiling
+      FalseAnswer:
+      - Square tiling
+      - Triangular tiling
+      - Pentagonal tiling
+      Explanation: Beehives are formed using hexagonal tiling, which allows for efficient
+        use of space and uniform distribution of cells.
+    - Question: What is the mathematical concept behind the symmetry of snowflakes?
+      TrueAnswer: Hexagonal symmetry
+      FalseAnswer:
+      - Octagonal symmetry
+      - Circular symmetry
+      - Rectangular symmetry
+      Explanation: Snowflakes exhibit hexagonal symmetry, meaning they have six-fold
+        rotational symmetry and reflectional symmetry.
+    - Question: What is the mathematical pattern found in the arrangement of leaves
+        on a stem?
+      TrueAnswer: Phyllotaxis
+      FalseAnswer:
+      - Symmetry axis
+      - Leaf arrangement
+      - Stem morphology
+      Explanation: The arrangement of leaves on a stem follows a pattern called phyllotaxis,
+        which can be spiral or opposite.
+    - Question: What is the mathematical concept behind the formation of river meanders?
+      TrueAnswer: Erosion and deposition
+      FalseAnswer:
+      - Tectonic activity
+      - Glacial movement
+      - Volcanic eruptions
+      Explanation: River meanders are formed through a combination of erosion on
+        the outer bank and deposition on the inner bank.
+    - Question: What is the mathematical principle behind the formation of hexagonal
+        basalt columns?
+      TrueAnswer: Columnar jointing
+      FalseAnswer:
+      - Sedimentary layering
+      - Volcanic eruptions
+      - Tectonic activity
+      Explanation: Hexagonal basalt columns are formed through columnar jointing,
+        where cooling lava contracts and cracks into hexagonal shapes.
+    - Question: What is the mathematical concept behind the formation of sand dunes?
+      TrueAnswer: Wind erosion and deposition
+      FalseAnswer:
+      - Water erosion and deposition
+      - Glacial movement
+      - Tectonic activity
+      Explanation: Sand dunes are formed through the process of wind erosion and
+        deposition, shaping the sand into characteristic dune formations.
+    - Question: What is the mathematical pattern found in the arrangement of petals
+        in a flower?
+      TrueAnswer: Fibonacci sequence
+      FalseAnswer:
+      - Prime numbers
+      - Geometric progression
+      - Exponential growth
+      Explanation: The number of petals in many flowers follows the Fibonacci sequence,
+        resulting in aesthetically pleasing arrangements.
+    - Question: What is the mathematical concept behind the formation of stalactites
+        and stalagmites?
+      TrueAnswer: Calcium carbonate precipitation
+      FalseAnswer:
+      - Limestone erosion
+      - Volcanic activity
+      - Tectonic movement
+      Explanation: Stalactites and stalagmites are formed through the precipitation
+        of calcium carbonate from dripping water in caves.
+    - Question: What is the mathematical principle behind the formation of sand ripples?
+      TrueAnswer: Fluid dynamics
+      FalseAnswer:
+      - Wind erosion
+      - Tidal forces
+      - Glacial movement
+      Explanation: Sand ripples are formed through the interaction of fluid dynamics,
+        such as water or wind, with loose sand particles.
+    - Question: What is the mathematical concept behind the formation of lightning
+        bolts?
+      TrueAnswer: Electromagnetic fields
+      FalseAnswer:
+      - Static electricity
+      - Chemical reactions
+      - Tectonic activity
+      Explanation: Lightning bolts are formed through the buildup and discharge of
+        electromagnetic fields in the atmosphere.
+    - Question: What is the mathematical pattern found in the arrangement of scales
+        on a fish?
+      TrueAnswer: Fractal
+      FalseAnswer:
+      - Symmetry
+      - Geometric progression
+      - Exponential growth
+      Explanation: The arrangement of scales on a fish exhibits a fractal pattern,
+        with self-similarity at different scales.
+    - Question: What is the mathematical concept behind the formation of sandstone
+        arches?
+      TrueAnswer: Erosion
+      FalseAnswer:
+      - Tectonic activity
+      - Volcanic eruptions
+      - Sedimentary layering
+      Explanation: Sandstone arches are formed through the process of erosion, where
+        wind and water gradually wear away the rock.
+    - Question: What is the mathematical principle behind the formation of geodes?
+      TrueAnswer: Crystal growth
+      FalseAnswer:
+      - Volcanic activity
+      - Tectonic movement
+      - Sedimentary deposition
+      Explanation: Geodes are formed through the slow growth of crystals inside cavities
+        or hollow spaces within rocks.

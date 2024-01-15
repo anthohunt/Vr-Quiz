@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5032550678411935735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2083966956161390365}
+  - component: {fileID: 4448702498763226205}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoon_Heroes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2083966956161390365
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5032550678411935735}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4448702498763226205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5032550678411935735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the main antagonist in the Bugs Bunny cartoons?
+      TrueAnswer: Elmer Fudd
+      FalseAnswer:
+      - Sylvester
+      - Tweety
+      - Bugs Bunny
+      Explanation: Elmer Fudd is one of the main recurring antagonists in the Looney
+        Tunes cartoons. He is often seen hunting Bugs Bunny.
+    - Question: Which superhero team does the cartoon character Teen Titans belong
+        to?
+      TrueAnswer: DC Comics
+      FalseAnswer:
+      - Marvel
+      - Image Comics
+      - Dark Horse Comics
+      Explanation: Teen Titans is a superhero team in DC Comics, featuring young
+        heroes like Robin, Beast Boy, Raven, Starfire, and Cyborg.
+    - Question: What animal is Courage in the cartoon 'Courage the Cowardly Dog'?
+      TrueAnswer: Dog
+      FalseAnswer:
+      - Cat
+      - Rabbit
+      - Mouse
+      Explanation: Courage is a pink, easily frightened, and overly protective dog
+        who lives with an elderly couple in the middle of Nowhere, Kansas.
+    - Question: What year was the first episode of 'SpongeBob SquarePants' released?
+      TrueAnswer: 1999
+      FalseAnswer:
+      - 2001
+      - 1995
+      - 2005
+      Explanation: The first episode of 'SpongeBob SquarePants' aired on May 1, 1999.
+        The show has since become a beloved and enduring classic.
+    - Question: In 'Scooby-Doo, Where Are You!' what is Scooby-Doo's full name?
+      TrueAnswer: Scoobert Doo
+      FalseAnswer:
+      - Scooby-Dum
+      - Scooby-Dee
+      - Scooby-Diddly
+      Explanation: Scooby-Doo's full name is Scoobert Doo. The show originally aired
+        on CBS from 1969 to 1976, spanning multiple spin-offs.

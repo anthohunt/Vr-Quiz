@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel était le nom du premier vaisseau spatial à atteindre la Lune?",
+            "TrueAnswer": "Luna 2",
+            "FalseAnswer": [
+              "Apollo 11",
+              "Chang'e 5",
+              "Surveyor 1"
+            ],
+            "Explanation": "Luna 2, lancée par l'Union soviétique, a été le premier objet fabriqué par l'homme à atteindre la Lune, impactant sa surface le 14 septembre 1959."
+          },
+          {
+            "Question": "Quel programme de la NASA a marqué le premier atterrissage réussi d'astronautes sur la Lune?",
+            "TrueAnswer": "Apollo 11",
+            "FalseAnswer": [
+              "Mercury",
+              "Gemini",
+              "Apollo 13"
+            ],
+            "Explanation": "Apollo 11, menée par les astronautes Neil Armstrong et Buzz Aldrin, a atterri avec succès sur la Lune le 20 juillet 1969."
+          },
+          {
+            "Question": "Quel est le plus grand cratère d'impact sur l'hémisphère visible de la Lune?",
+            "TrueAnswer": "Bassin Pôle Sud-Aitken",
+            "FalseAnswer": [
+              "Mare Orientale",
+              "Clavius",
+              "Tycho"
+            ],
+            "Explanation": "Le bassin Pôle Sud-Aitken est l'un des plus grands cratères d'impact connus dans le Système solaire, mesurant environ 2 500 kilomètres de diamètre."
+          },
+          {
+            "Question": "Quel engin spatial robotique d'un pays a réalisé le premier atterrissage en douceur sur la Lune?",
+            "TrueAnswer": "URSS (Luna 9)",
+            "FalseAnswer": [
+              "États-Unis (Surveyor 1)",
+              "Chine (Chang'e 3)",
+              "Inde (Chandrayaan-2)"
+            ],
+            "Explanation": "La sonde Luna 9 de l'Union soviétique a réalisé le premier atterrissage en douceur sur la surface lunaire le 3 février 1966, ouvrant la voie à l'exploration lunaire."
+          },
+          {
+            "Question": "Quel était le nom de la première mission habitée à orbiter autour de la Lune?",
+            "TrueAnswer": "Apollo 8",
+            "FalseAnswer": [
+              "Gemini 8",
+              "Mercury-Redstone 3",
+              "Artemis 3"
+            ],
+            "Explanation": "Apollo 8, avec les astronautes Frank Borman, James Lovell et William Anders, est devenue la première mission habitée à orbiter autour de la Lune en décembre 1968."
+          },
+          {
+            "Question": "Quelle mission Apollo a été la première à réaliser une exploration avec un rover lunaire?",
+            "TrueAnswer": "Apollo 15",
+            "FalseAnswer": [
+              "Apollo 11",
+              "Apollo 13",
+              "Apollo 17"
+            ],
+            "Explanation": "Les astronautes de la mission Apollo 15 ont utilisé le Véhicule Léger Lunaire (LRV) pour explorer la surface lunaire, parcourant une distance totale d'environ 27,9 kilomètres."
+          },
+          {
+            "Question": "Quelle a été la première mission de retour d'échantillons extraterrestres?",
+            "TrueAnswer": "Luna 16",
+            "FalseAnswer": [
+              "Apollo 11",
+              "Chang'e 5",
+              "Clementine"
+            ],
+            "Explanation": "Luna 16, un engin spatial robotique soviétique, a ramené avec succès des échantillons de sol lunaire sur Terre en septembre 1970, prouvant la faisabilité des missions de retour d'échantillons."
+          },
+          {
+            "Question": "Quel engin spatial a détecté de la glace d'eau sur la Lune pour la première fois?",
+            "TrueAnswer": "Chandrayaan-1",
+            "FalseAnswer": [
+              "Apollo 11",
+              "Lunar Prospector",
+              "Clementine"
+            ],
+            "Explanation": "L'instrument Moon Mineralogy Mapper (M3) de Chandrayaan-1 a détecté la présence de glace d'eau à la surface de la Lune en 2008, fournissant des informations cruciales pour l'exploration lunaire future."
+          },
+          {
+            "Question": "Quelle est la durée continue la plus longue passée sur la surface lunaire par des astronautes?",
+            "TrueAnswer": "74 heures et 59 minutes (Apollo 17)",
+            "FalseAnswer": [
+              "22 heures et 2 minutes (Apollo 11)",
+              "33 heures et 31 minutes (Apollo 16)",
+              "22 heures et 4 minutes (Apollo 14)"
+            ],
+            "Explanation": "La mission Apollo 17, le dernier atterrissage lunaire Apollo, a permis aux astronautes Eugene Cernan et Harrison Schmitt de passer près de 75 heures à explorer le terrain lunaire."
+          },
+          {
+            "Question": "Quelle mission a détecté une 'anomalie' gravitationnelle sur la face cachée de la Lune?",
+            "TrueAnswer": "Lunar Orbiter 5",
+            "FalseAnswer": [
+              "Luna 3",
+              "Apollo 15",
+              "Chang'e 4"
+            ],
+            "Explanation": "Les données photographiques du Lunar Orbiter 5 ont conduit à la découverte de la concentration de masse sous Mare Ingenii, indiquant une anomalie gravitationnelle inattendue sur la face cachée de la Lune."
+          },
+          {
+            "Question": "Quand a eu lieu la dernière mission habitée vers la Lune?",
+            "TrueAnswer": "14-19 décembre 1972 (Apollo 17)",
+            "FalseAnswer": [
+              "20-21 juillet 1969 (Apollo 11)",
+              "16-27 avril 1972 (Apollo 16)",
+              "14-24 novembre 1969 (Apollo 12)"
+            ],
+            "Explanation": "Apollo 17, la dernière mission lunaire habitée à ce jour, a atterri sur la Lune en décembre 1972, mettant fin à l'ère remarquable de l'exploration humaine au-delà de la Terre."
+          },
+          {
+            "Question": "Quelle mission lunaire a été la première à incorporer un rover pour l'exploration de la surface?",
+            "TrueAnswer": "Lunokhod 1 (Luna 17)",
+            "FalseAnswer": [
+              "Apollo 15",
+              "Chang'e 4",
+              "Yutu (Chang'e 3)"
+            ],
+            "Explanation": "La mission Luna 17 de l'Union soviétique a déployé le rover sans pilote, Lunokhod 1, sur la Lune en 1970, ouvrant la voie à l'exploration à distance de la surface."
+          },
+          {
+            "Question": "Quel est l'âge approximatif des échantillons de roche lunaire les plus anciens ramenés sur Terre?",
+            "TrueAnswer": "4,4 milliards d'années",
+            "FalseAnswer": [
+              "2,5 milliards d'années",
+              "3,7 milliards d'années",
+              "5,2 milliards d'années"
+            ],
+            "Explanation": "La mission Apollo 14 a rapporté d'anciennes roches lunaires datant d'environ 4,4 milliards d'années, fournissant des informations précieuses sur l'histoire ancienne de la Lune et du Système solaire."
+          },
+          {
+            "Question": "Quelle sonde lunaire a découvert des preuves d'activité volcanique sur la Lune?",
+            "TrueAnswer": "Lunar Reconnaissance Orbiter (LRO)",
+            "FalseAnswer": [
+              "Apollo 15",
+              "Clementine",
+              "Chandrayaan-1"
+            ],
+            "Explanation": "Les observations de la sonde Lunar Reconnaissance Orbiter ont révélé des formations volcaniques et des dépôts, éclairant l'évolution géologique de la Lune et ses régions remplies de lave."
+          },
+          {
+            "Question": "Quel engin spatial a trouvé des traces d'hélium-3 à la surface de la Lune?",
+            "TrueAnswer": "Lunar Prospector",
+            "FalseAnswer": [
+              "Apollo 17",
+              "Chang'e 2",
+              "SMART-1"
+            ],
+            "Explanation": "Le spectromètre à neutrons de Lunar Prospector a détecté des quantités significatives d'hélium-3, un isotope ayant des applications énergétiques avancées potentielles, sur la Lune."
+          },
+          {
+            "Question": "Quelle mission a découvert la présence de néon dans l'exosphère lunaire?",
+            "TrueAnswer": "Chandrayaan-1",
+            "FalseAnswer": [
+              "Apollo 15",
+              "Lunar Orbiter 2",
+              "Clementine"
+            ],
+            "Explanation": "La sonde Moon Impact Probe (MIP) de Chandrayaan-1 a détecté des preuves de néon, un gaz noble inerte, dans l'exosphère lunaire ténue, contribuant à notre compréhension des gaz de surface lunaire."
+          },
+          {
+            "Question": "Combien de temps la première mission habitée sur la Lune, Apollo 11, a-t-elle passé à la surface lunaire?",
+            "TrueAnswer": "21 heures et 36 minutes",
+            "FalseAnswer": [
+              "12 heures et 34 minutes",
+              "17 heures et 42 minutes",
+              "19 heures et 18 minutes"
+            ],
+            "Explanation": "Neil Armstrong et Buzz Aldrin ont exploré la surface lunaire pendant un total de 21 heures et 36 minutes lors de la mission historique Apollo 11 en 1969."
+          },
+          {
+            "Question": "Quelle mission lunaire a découvert des preuves de molécules d'eau sur la surface ensoleillée de la Lune?",
+            "TrueAnswer": "Chandrayaan-2",
+            "FalseAnswer": [
+              "Apollo 17",
+              "Lunar Atmosphere and Dust Environment Explorer (LADEE)",
+              "Chang'e 4"
+            ],
+            "Explanation": "L'orbiteur de Chandrayaan-2 a identifié des molécules d'eau dans les régions ensoleillées de la Lune, apportant des éclairages cruciaux sur la distribution de l'hydratation lunaire."
+          },
+          {
+            "Question": "Quel était l'objectif principal du programme Artemis annoncé par la NASA?",
+            "TrueAnswer": "Présence humaine durable sur la Lune d'ici 2024",
+            "FalseAnswer": [
+              "Établir une station spatiale lunaire d'ici 2030",
+              "Extraire des ressources pour l'exploration en profondeur de l'espace",
+              "Réaliser des missions habitées vers Mars d'ici 2035"
+            ],
+            "Explanation": "Le programme Artemis vise à ramener les humains sur la surface lunaire et à établir une présence durable, servant de tremplin pour les futures missions habitées vers Mars et au-delà."
+          }
+        ]
+      }
+    }
+  ]
+}

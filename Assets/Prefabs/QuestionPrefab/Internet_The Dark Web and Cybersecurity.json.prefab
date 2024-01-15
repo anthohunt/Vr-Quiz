@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2733626095401860756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8288040695201940762}
+  - component: {fileID: 7645349737995546653}
+  m_Layer: 0
+  m_Name: Internet_The Dark Web and Cybersecurity.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8288040695201940762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2733626095401860756}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7645349737995546653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2733626095401860756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the World Wide Web commonly referred to as?
+      TrueAnswer: WWW
+      FalseAnswer:
+      - URL
+      - HTML
+      - HTTP
+      Explanation: The World Wide Web is commonly referred to as WWW, which stands
+        for World Wide Web.
+    - Question: What is the main function of a web browser?
+      TrueAnswer: Display web pages
+      FalseAnswer:
+      - Send emails
+      - Play videos
+      - Edit documents
+      Explanation: The main function of a web browser is to display web pages and
+        access information on the internet.
+    - Question: What does the acronym ISP stand for?
+      TrueAnswer: Internet Service Provider
+      FalseAnswer:
+      - Internet Security Protocol
+      - Internet Search Provider
+      - Internet Speed Provider
+      Explanation: ISP stands for Internet Service Provider, which is a company that
+        provides internet access to customers.
+    - Question: What is the purpose of a firewall in cybersecurity?
+      TrueAnswer: Protect against unauthorized access
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Encrypt data
+      Explanation: A firewall is used in cybersecurity to protect against unauthorized
+        access and control incoming and outgoing network traffic.
+    - Question: What is a common method used for authentication in cybersecurity?
+      TrueAnswer: Username and password
+      FalseAnswer:
+      - Fingerprint scan
+      - Facial recognition
+      - Voice recognition
+      Explanation: A common method used for authentication in cybersecurity is the
+        combination of a username and password.
+    - Question: What is the purpose of encryption in cybersecurity?
+      TrueAnswer: Protect data from unauthorized access
+      FalseAnswer:
+      - Increase internet speed
+      - Hide IP address
+      - Block malicious websites
+      Explanation: Encryption is used in cybersecurity to protect data from unauthorized
+        access by converting it into a secret code.
+    - Question: What is the term for a malicious software that can replicate itself?
+      TrueAnswer: Virus
+      FalseAnswer:
+      - Firewall
+      - Router
+      - Modem
+      Explanation: A virus is a type of malicious software that can replicate itself
+        and infect other computer systems.
+    - Question: What is the purpose of a VPN in cybersecurity?
+      TrueAnswer: Secure internet connection
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Encrypt data
+      Explanation: A VPN (Virtual Private Network) is used in cybersecurity to create
+        a secure and encrypted internet connection.
+    - Question: What is the term for a program that appears harmless but actually
+        carries out malicious activities?
+      TrueAnswer: Trojan horse
+      FalseAnswer:
+      - Firewall
+      - Router
+      - Modem
+      Explanation: A Trojan horse is a program that appears harmless but actually
+        carries out malicious activities on a computer system.
+    - Question: What is the purpose of a CAPTCHA in cybersecurity?
+      TrueAnswer: Verify human users
+      FalseAnswer:
+      - Encrypt data
+      - Block advertisements
+      - Increase internet speed
+      Explanation: A CAPTCHA is used in cybersecurity to verify that the user is
+        a human and not a computer program.
+    - Question: What is the term for a person who gains unauthorized access to computer
+        systems?
+      TrueAnswer: Hacker
+      FalseAnswer:
+      - Firewall
+      - Router
+      - Modem
+      Explanation: A hacker is a person who gains unauthorized access to computer
+        systems, often with malicious intent.
+    - Question: What is the purpose of antivirus software in cybersecurity?
+      TrueAnswer: Detect and remove malware
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Encrypt data
+      Explanation: Antivirus software is used in cybersecurity to detect and remove
+        malware, such as viruses, from computer systems.
+    - Question: What is the term for a network of infected computers controlled by
+        a hacker?
+      TrueAnswer: Botnet
+      FalseAnswer:
+      - Firewall
+      - Router
+      - Modem
+      Explanation: A botnet is a network of infected computers that are controlled
+        by a hacker without the users' knowledge.
+    - Question: What is the purpose of a password manager in cybersecurity?
+      TrueAnswer: Securely store passwords
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Encrypt data
+      Explanation: A password manager is used in cybersecurity to securely store
+        and manage passwords for various online accounts.
+    - Question: What is the term for a type of cyber attack that floods a network
+        with excessive traffic?
+      TrueAnswer: DDoS
+      FalseAnswer:
+      - Phishing
+      - Malware
+      - Spyware
+      Explanation: A DDoS (Distributed Denial of Service) attack floods a network
+        with excessive traffic, causing it to become overwhelmed and unavailable.
+    - Question: What is the purpose of two-factor authentication in cybersecurity?
+      TrueAnswer: Add an extra layer of security
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Encrypt data
+      Explanation: Two-factor authentication adds an extra layer of security by requiring
+        users to provide two different forms of identification to access an account.
+    - Question: What is the term for a type of cyber attack that tricks users into
+        revealing sensitive information?
+      TrueAnswer: Phishing
+      FalseAnswer:
+      - Malware
+      - Spyware
+      - DDoS
+      Explanation: Phishing is a type of cyber attack that tricks users into revealing
+        sensitive information, such as passwords or credit card numbers.
+    - Question: What is the purpose of a digital certificate in cybersecurity?
+      TrueAnswer: Verify the authenticity of a website
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Encrypt data
+      Explanation: A digital certificate is used in cybersecurity to verify the authenticity
+        of a website and establish a secure connection.
+    - Question: What is the term for a type of cyber attack that secretly monitors
+        and collects information?
+      TrueAnswer: Spyware
+      FalseAnswer:
+      - Phishing
+      - Malware
+      - DDoS
+      Explanation: Spyware is a type of cyber attack that secretly monitors and collects
+        information from a computer system without the user's knowledge.
+    - Question: What is the purpose of a secure socket layer (SSL) in cybersecurity?
+      TrueAnswer: Encrypt data during transmission
+      FalseAnswer:
+      - Increase internet speed
+      - Block advertisements
+      - Verify website authenticity
+      Explanation: A secure socket layer (SSL) is used in cybersecurity to encrypt
+        data during transmission, ensuring its confidentiality and integrity.
+    - Question: What is the term for a type of cyber attack that exploits software
+        vulnerabilities?
+      TrueAnswer: Malware
+      FalseAnswer:
+      - Phishing
+      - Spyware
+      - DDoS
+      Explanation: Malware is a type of cyber attack that exploits software vulnerabilities
+        to gain unauthorized access or cause harm to a computer system.

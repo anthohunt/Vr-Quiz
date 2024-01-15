@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Comment l'AR diffère-t-il de la VR?",
+            "TrueAnswer": "Superposition sur le monde réel",
+            "FalseAnswer": [
+              "Crée un monde virtuel",
+              "Nécessite un affichage monté sur la tête",
+              "Fournit un retour tactile"
+            ],
+            "Explanation": "La RA superpose du contenu numérique sur le monde réel, tandis que la RV crée un environnement numérique complètement immersif, distinct de l'environnement réel."
+          },
+          {
+            "Question": "Quel composant est essentiel pour une expérience AR?",
+            "TrueAnswer": "Caméra",
+            "FalseAnswer": [
+              "Microphone",
+              "Haut-parleurs",
+              "Gyroscope"
+            ],
+            "Explanation": "La caméra est cruciale en RA pour capturer l'environnement du monde réel pour la superposition numérique et les interactions."
+          },
+          {
+            "Question": "Quel système de RV a été développé par Valve en partenariat avec HTC?",
+            "TrueAnswer": "SteamVR",
+            "FalseAnswer": [
+              "PSVR",
+              "Oculus Rift",
+              "Google Cardboard"
+            ],
+            "Explanation": "Valve a collaboré avec HTC pour créer le système SteamVR, offrant des expériences de RV haute fidélité avec le casque HTC Vive."
+          },
+          {
+            "Question": "Quel est le nom du jeu AR développé par Nianticlabs avant 'Pokemon Go'?",
+            "TrueAnswer": "Ingress",
+            "FalseAnswer": [
+              "Harry Potter: Wizards Unite",
+              "Jurassic World Alive",
+              "Minecraft Earth"
+            ],
+            "Explanation": "Ingress était un jeu AR précoce développé par Nianticlabs qui a jeté les bases des expériences de jeu AR basées sur la localisation."
+          },
+          {
+            "Question": "Quelle expérience sensorielle n'est pas courante dans les casques de RV?",
+            "TrueAnswer": "Goût",
+            "FalseAnswer": [
+              "Vue",
+              "Son",
+              "Toucher"
+            ],
+            "Explanation": "Alors que la RV peut simuler la vue, le son et le toucher, la technologie n'inclut actuellement pas le goût dans l'expérience."
+          },
+          {
+            "Question": "Quelle technologie est souvent utilisée pour le contrôle gestuel en RA et en RV?",
+            "TrueAnswer": "Suivi des mouvements",
+            "FalseAnswer": [
+              "Reconnaissance vocale",
+              "Analyse des expressions faciales",
+              "Retour haptique"
+            ],
+            "Explanation": "La technologie de suivi des mouvements est utilisée pour détecter et interpréter les mouvements pour un contrôle interactif et intuitif dans les environnements de RA et de RV."
+          },
+          {
+            "Question": "Quelle entreprise a créé le casque AR 'HoloLens'?",
+            "TrueAnswer": "Microsoft",
+            "FalseAnswer": [
+              "Apple",
+              "Google",
+              "Facebook"
+            ],
+            "Explanation": "HoloLens est un casque AR pionnier développé et fabriqué par Microsoft, destiné aux applications professionnelles et grand public."
+          },
+          {
+            "Question": "Quel accessoire de RV façonne l'environnement numérique dans un espace 3D?",
+            "TrueAnswer": "Contrôleurs manuels",
+            "FalseAnswer": [
+              "Suivi oculaire",
+              "Tapis roulant",
+              "Interface olfactive"
+            ],
+            "Explanation": "Les contrôleurs manuels permettent aux utilisateurs d'interagir et de naviguer dans l'espace de RV avec des mouvements 3D précis, améliorant l'expérience immersive."
+          },
+          {
+            "Question": "Quel est le principal dispositif d'entrée dans un casque de RV?",
+            "TrueAnswer": "Suivi du casque",
+            "FalseAnswer": [
+              "Clavier",
+              "Souris",
+              "Joystick"
+            ],
+            "Explanation": "Les casques de RV reposent sur le suivi des mouvements et de l'orientation du casque lui-même comme principal dispositif d'entrée pour les interactions immersives."
+          },
+          {
+            "Question": "Quelle technologie de RA permet la superposition d'informations spécifiques à un emplacement?",
+            "TrueAnswer": "Géolocalisation",
+            "FalseAnswer": [
+              "Codes QR",
+              "Balises Bluetooth",
+              "Balises RFID"
+            ],
+            "Explanation": "La géolocalisation permet à la RA de superposer des éléments numériques basés sur l'emplacement sur le monde réel, améliorant les expériences contextuelles."
+          },
+          {
+            "Question": "Quel casque de RV a été financé avec succès sur Kickstarter en 2012?",
+            "TrueAnswer": "Oculus Rift",
+            "FalseAnswer": [
+              "HTC Vive",
+              "PlayStation VR",
+              "Samsung Gear VR"
+            ],
+            "Explanation": "Oculus Rift s'est fait connaître grâce à une campagne Kickstarter réussie, suscitant un intérêt généralisé pour la technologie de RV grand public."
+          },
+          {
+            "Question": "Quelle technologie permet un suivi de position précis dans les environnements de RV?",
+            "TrueAnswer": "Suivi Lighthouse",
+            "FalseAnswer": [
+              "GPS",
+              "Accéléromètre",
+              "Gyroscope"
+            ],
+            "Explanation": "Le suivi Lighthouse utilise des capteurs infrarouges pour un suivi de position 3D précis des appareils de RV dans un espace dédié, améliorant les interactions en RV."
+          },
+          {
+            "Question": "Quelle fonction de RA la distingue des interactions traditionnelles avec les applications mobiles?",
+            "TrueAnswer": "Reconnaissance spatiale",
+            "FalseAnswer": [
+              "Commandes vocales",
+              "Authentification biométrique",
+              "Entrée de l'accéléromètre"
+            ],
+            "Explanation": "La reconnaissance spatiale en RA permet au contenu numérique d'être ancré dans l'espace physique, permettant des interactions uniques et contextuelles."
+          },
+          {
+            "Question": "Quelle technologie d'affichage de RV offre un champ de vision plus large par rapport à la technologie LCD traditionnelle?",
+            "TrueAnswer": "OLED",
+            "FalseAnswer": [
+              "LED",
+              "Plasma",
+              "CRT"
+            ],
+            "Explanation": "Les écrans OLED offrent des angles de vision plus larges et un contraste supérieur, améliorant l'expérience immersive de la RV avec des images vives."
+          },
+          {
+            "Question": "Quel secteur a largement adopté la RA à des fins de maintenance et de formation?",
+            "TrueAnswer": "Aérospatiale",
+            "FalseAnswer": [
+              "Automobile",
+              "Commerce de détail",
+              "Divertissement"
+            ],
+            "Explanation": "Les entreprises aérospatiales utilisent la RA pour la maintenance et la formation, exploitant son potentiel pour superposer des instructions et des aides visuelles pour des tâches complexes."
+          },
+          {
+            "Question": "Quel type de technologie de casque est intégré dans l'appareil AR Magic Leap One?",
+            "TrueAnswer": "Affichage de champ lumineux",
+            "FalseAnswer": [
+              "Projection laser",
+              "Dispositif de micromiroir numérique",
+              "Écran incurvé"
+            ],
+            "Explanation": "Magic Leap One utilise la technologie d'affichage de champ lumineux pour mélanger de manière transparente le contenu numérique avec l'environnement naturel de l'utilisateur, améliorant le réalisme de la RA."
+          },
+          {
+            "Question": "Quel aspect immersif est exclusif aux expériences de RV?",
+            "TrueAnswer": "Isolation sensorielle complète",
+            "FalseAnswer": [
+              "Partage social",
+              "Collaboration en temps réel",
+              "Superposition de données en direct"
+            ],
+            "Explanation": "La RV offre une isolation sensorielle complète, plongeant les utilisateurs dans un environnement virtuel tout en se déconnectant de l'environnement physique, une caractéristique distincte de la RA."
+          },
+          {
+            "Question": "Quelle technologie de RA superpose du contenu numérique sur des objets physiques?",
+            "TrueAnswer": "Suivi basé sur des marqueurs",
+            "FalseAnswer": [
+              "Technologie SLAM",
+              "Détection de profondeur",
+              "Reconnaissance d'objet"
+            ],
+            "Explanation": "Le suivi basé sur des marqueurs en RA identifie des marqueurs ou des motifs prédéfinis, permettant la superposition de contenu numérique sur des objets physiques ou des emplacements spécifiques."
+          },
+          {
+            "Question": "Quel type de contenu de RV utilise souvent des expériences vidéo à 360 degrés?",
+            "TrueAnswer": "RV cinématographique",
+            "FalseAnswer": [
+              "Jeu immersif",
+              "RV sociale",
+              "RV éducative"
+            ],
+            "Explanation": "La RV cinématographique plonge les utilisateurs dans un contenu vidéo à 360 degrés, offrant des expériences panoramiques souvent utilisées dans les applications de divertissement et de narration."
+          },
+          {
+            "Question": "Quelle capacité de RA permet aux objets virtuels d'interagir avec des surfaces du monde réel?",
+            "TrueAnswer": "Détection de surface",
+            "FalseAnswer": [
+              "Reconnaissance de motif",
+              "Occultation en temps réel",
+              "Reconstruction 3D"
+            ],
+            "Explanation": "La détection de surface en RA permet aux objets virtuels d'interagir avec précision avec des surfaces du monde réel, améliorant le réalisme et l'interactivité."
+          }
+        ]
+      }
+    }
+  ]
+}

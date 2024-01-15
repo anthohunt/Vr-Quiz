@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &137203365335417539
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4064509338397762767}
+  - component: {fileID: 6855652309734695438}
+  m_Layer: 0
+  m_Name: Science_Paleontology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4064509338397762767
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 137203365335417539}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6855652309734695438
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 137203365335417539}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the study of fossils called?
+      TrueAnswer: Paleontology
+      FalseAnswer:
+      - Archaeology
+      - Geology
+      - Anthropology
+      Explanation: Paleontology is the scientific study of fossils to understand
+        the history of life on Earth.
+    - Question: Which era is known as the 'Age of Reptiles'?
+      TrueAnswer: Mesozoic
+      FalseAnswer:
+      - Cenozoic
+      - Paleozoic
+      - Precambrian
+      Explanation: The Mesozoic era, also known as the 'Age of Reptiles,' spanned
+        from 252 to 66 million years ago.
+    - Question: What is the largest dinosaur ever discovered?
+      TrueAnswer: Argentinosaurus
+      FalseAnswer:
+      - Tyrannosaurus Rex
+      - Brachiosaurus
+      - Triceratops
+      Explanation: Argentinosaurus is the largest dinosaur discovered, estimated
+        to have reached lengths of up to 100 feet.
+    - Question: Which famous paleontologist discovered the first T. rex fossil?
+      TrueAnswer: Barnum Brown
+      FalseAnswer:
+      - Mary Anning
+      - Roy Chapman Andrews
+      - Robert Bakker
+      Explanation: Barnum Brown, an American paleontologist, discovered the first
+        Tyrannosaurus rex fossil in 1902.
+    - Question: What is the study of ancient human remains called?
+      TrueAnswer: Paleoanthropology
+      FalseAnswer:
+      - Paleobotany
+      - Paleozoology
+      - Paleoecology
+      Explanation: Paleoanthropology is the study of ancient human remains to understand
+        human evolution and behavior.
+    - Question: Which period is known as the 'Age of Fishes'?
+      TrueAnswer: Devonian
+      FalseAnswer:
+      - Silurian
+      - Carboniferous
+      - Permian
+      Explanation: The Devonian period is known as the 'Age of Fishes' due to the
+        diversification of fish species.
+    - Question: What is the process of fossil formation called?
+      TrueAnswer: Fossilization
+      FalseAnswer:
+      - Petrification
+      - Mineralization
+      - Preservation
+      Explanation: Fossilization is the process by which organic remains are preserved
+        and transformed into fossils.
+    - Question: Which dinosaur is known for its long neck?
+      TrueAnswer: Brachiosaurus
+      FalseAnswer:
+      - Stegosaurus
+      - Velociraptor
+      - Ankylosaurus
+      Explanation: Brachiosaurus is a dinosaur known for its long neck, which allowed
+        it to reach vegetation at great heights.
+    - Question: What is the study of ancient plants called?
+      TrueAnswer: Paleobotany
+      FalseAnswer:
+      - Paleozoology
+      - Paleoecology
+      - Paleoanthropology
+      Explanation: Paleobotany is the study of ancient plants through the examination
+        of plant fossils.
+    - Question: Which period is known as the 'Age of Mammals'?
+      TrueAnswer: Cenozoic
+      FalseAnswer:
+      - Mesozoic
+      - Paleozoic
+      - Precambrian
+      Explanation: The Cenozoic era is known as the 'Age of Mammals' due to the diversification
+        and dominance of mammalian species.
+    - Question: What is the study of ancient insects called?
+      TrueAnswer: Paleoentomology
+      FalseAnswer:
+      - Paleoichnology
+      - Paleoherpetology
+      - Paleoornithology
+      Explanation: Paleoentomology is the study of ancient insects through the examination
+        of insect fossils.
+    - Question: Which dinosaur is known for its three horns?
+      TrueAnswer: Triceratops
+      FalseAnswer:
+      - Ankylosaurus
+      - Stegosaurus
+      - Velociraptor
+      Explanation: Triceratops is a dinosaur known for its three horns on its face,
+        used for defense and display.
+    - Question: What is the study of ancient footprints called?
+      TrueAnswer: Ichnology
+      FalseAnswer:
+      - Paleontology
+      - Paleobotany
+      - Paleoecology
+      Explanation: Ichnology is the study of ancient footprints and traces left by
+        organisms in sedimentary rocks.
+    - Question: Which period is known as the 'Age of Invertebrates'?
+      TrueAnswer: Paleozoic
+      FalseAnswer:
+      - Mesozoic
+      - Cenozoic
+      - Precambrian
+      Explanation: The Paleozoic era is known as the 'Age of Invertebrates' due to
+        the abundance and diversity of invertebrate species.
+    - Question: What is the study of ancient reptiles called?
+      TrueAnswer: Paleoherpetology
+      FalseAnswer:
+      - Paleoentomology
+      - Paleoichnology
+      - Paleoornithology
+      Explanation: Paleoherpetology is the study of ancient reptiles through the
+        examination of reptile fossils.
+    - Question: Which dinosaur is known for its sail-like structure on its back?
+      TrueAnswer: Spinosaurus
+      FalseAnswer:
+      - Tyrannosaurus Rex
+      - Brachiosaurus
+      - Triceratops
+      Explanation: Spinosaurus is a dinosaur known for its sail-like structure on
+        its back, possibly used for thermoregulation or display.
+    - Question: What is the study of ancient bird fossils called?
+      TrueAnswer: Paleoornithology
+      FalseAnswer:
+      - Paleoentomology
+      - Paleoichnology
+      - Paleoherpetology
+      Explanation: Paleoornithology is the study of ancient bird fossils to understand
+        the evolution and diversity of avian species.
+    - Question: Which period is known as the 'Age of Amphibians'?
+      TrueAnswer: Carboniferous
+      FalseAnswer:
+      - Silurian
+      - Devonian
+      - Permian
+      Explanation: The Carboniferous period is known as the 'Age of Amphibians' due
+        to the abundance and diversity of amphibian species.
+    - Question: What is the study of ancient trace fossils called?
+      TrueAnswer: Paleoichnology
+      FalseAnswer:
+      - Paleontology
+      - Paleobotany
+      - Paleoecology
+      Explanation: Paleoichnology is the study of ancient trace fossils, such as
+        footprints and burrows, to understand past behaviors and environments.
+    - Question: Which dinosaur is known for its bony plates along its back?
+      TrueAnswer: Stegosaurus
+      FalseAnswer:
+      - Ankylosaurus
+      - Triceratops
+      - Velociraptor
+      Explanation: Stegosaurus is a dinosaur known for its bony plates along its
+        back, possibly used for defense and thermoregulation.
+    - Question: What is the study of ancient ecosystems called?
+      TrueAnswer: Paleoecology
+      FalseAnswer:
+      - Paleontology
+      - Paleobotany
+      - Paleozoology
+      Explanation: Paleoecology is the study of ancient ecosystems and their interactions
+        between organisms and their environment.

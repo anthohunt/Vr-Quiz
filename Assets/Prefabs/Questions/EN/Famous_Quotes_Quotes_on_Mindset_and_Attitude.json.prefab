@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4946303592984524816
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8639652584670843756}
+  - component: {fileID: 6824663741783929981}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Quotes_on_Mindset_and_Attitude.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8639652584670843756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4946303592984524816}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6824663741783929981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4946303592984524816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The only thing we have to fear is fear itself'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - Winston Churchill
+      - Abraham Lincoln
+      - John F. Kennedy
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        spoke these words during his inaugural address in 1933, working to reassure
+        a nation devastated by economic depression.
+    - Question: Which author coined the phrase, 'Whether you think you can, or you
+        think you can't, you're right'?
+      TrueAnswer: Henry Ford
+      FalseAnswer:
+      - Mark Twain
+      - Charles Dickens
+      - Ernest Hemingway
+      Explanation: Henry Ford, the founder of Ford Motor Company, popularized this
+        quote, emphasizing the power of mindset in influencing one's capabilities
+        and outcomes.
+    - Question: Who is credited with saying, 'The mind is everything. What you think
+        you become'?
+      TrueAnswer: Buddha
+      FalseAnswer:
+      - Socrates
+      - Confucius
+      - Lao Tzu
+      Explanation: Buddha, the spiritual leader and founder of Buddhism, expressed
+        the idea of the profound connection between thoughts, identity, and personal
+        growth.
+    - Question: Which famous leader proclaimed, 'It does not matter how slowly you
+        go as long as you do not stop'?
+      TrueAnswer: Confucius
+      FalseAnswer:
+      - Martin Luther King Jr.
+      - Napoleon Bonaparte
+      - Winston Churchill
+      Explanation: Confucius, the Chinese philosopher and teacher, spoke to the importance
+        of perseverance and continuous progress in striving for success and ambition.
+    - Question: Who stated, 'I am not a product of my circumstances. I am a product
+        of my decisions'?
+      TrueAnswer: Stephen Covey
+      FalseAnswer:
+      - Zig Ziglar
+      - Napoleon Hill
+      - Tony Robbins
+      Explanation: Stephen Covey, author of 'The 7 Habits of Highly Effective People',
+        emphasized personal responsibility and proactive decision-making in shaping
+        one's mindset and outcomes.

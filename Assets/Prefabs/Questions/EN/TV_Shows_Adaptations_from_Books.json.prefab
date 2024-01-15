@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4234299462864729700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2437140784894427987}
+  - component: {fileID: 4601337902683054904}
+  m_Layer: 0
+  m_Name: TV_Shows_Adaptations_from_Books.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2437140784894427987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4234299462864729700}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4601337902683054904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4234299462864729700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which author is behind the book series 'A Song of Ice and Fire' that
+        inspired the TV show 'Game of Thrones'?
+      TrueAnswer: George R.R. Martin
+      FalseAnswer:
+      - J.R.R. Tolkien
+      - J.K. Rowling
+      - Stephen King
+      Explanation: The 'A Song of Ice and Fire' series, written by George R.R. Martin,
+        served as the source material for the hit TV show 'Game of Thrones'.
+    - Question: Which classic novel by Margaret Atwood was adapted into a dystopian
+        TV show starring Elisabeth Moss?
+      TrueAnswer: The Handmaid's Tale
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - Pride and Prejudice
+      - 1984
+      Explanation: Margaret Atwood's novel 'The Handmaid's Tale' received critical
+        acclaim and was adapted into an acclaimed TV series.
+    - Question: Which literary work by Arthur Conan Doyle served as the basis for
+        a modern TV show about a brilliant detective?
+      TrueAnswer: Sherlock Holmes
+      FalseAnswer:
+      - War and Peace
+      - Wuthering Heights
+      - Dracula
+      Explanation: Arthur Conan Doyle's iconic character Sherlock Holmes has been
+        reimagined in various TV adaptations, presenting the detective's deductive
+        brilliance.
+    - Question: Which popular book series by Charlaine Harris inspired a TV show
+        featuring vampires, werewolves, and supernatural mysteries?
+      TrueAnswer: The Southern Vampire Mysteries
+      FalseAnswer:
+      - The Hunger Games
+      - Twilight
+      - Divergent
+      Explanation: Charlaine Harris's book series 'The Southern Vampire Mysteries',
+        also known as the Sookie Stackhouse novels, led to the creation of the TV
+        show 'True Blood'.
+    - Question: Which classic novel by Neil Gaiman and Terry Pratchett was adapted
+        into a TV show exploring the unlikely friendship between an angel and a demon?
+      TrueAnswer: Good Omens
+      FalseAnswer:
+      - Alice's Adventures in Wonderland
+      - '''Salem''s Lot'
+      - The War of the Worlds
+      Explanation: Neil Gaiman and Terry Pratchett's collaborative work 'Good Omens'
+        was adapted into a TV miniseries, portraying a humorous and thought-provoking
+        take on the apocalypse.
+    - Question: Who wrote the book 'Mindhunter' that served as the basis for a TV
+        show exploring the early days of criminal psychology and criminal profiling?
+      TrueAnswer: John E. Douglas
+      FalseAnswer:
+      - Agatha Christie
+      - Stephen King
+      - Gillian Flynn
+      Explanation: John E. Douglas, a former FBI agent, authored the book 'Mindhunter'
+        which inspired the acclaimed TV show by the same name, delving into the development
+        of criminal profiling.
+    - Question: Which bestselling novel by Liane Moriarty was adapted into a popular
+        TV show featuring a murder mystery within a close-knit community?
+      TrueAnswer: Big Little Lies
+      FalseAnswer:
+      - Gone Girl
+      - Sharp Objects
+      - The Girl on the Train
+      Explanation: Liane Moriarty's novel 'Big Little Lies' was successfully adapted
+        into a captivating TV series, exploring the complexities of womanhood, relationships,
+        and secrets.
+    - Question: Which author's work provided the basis for the TV show 'Bones', following
+        a forensic anthropologist solving murder cases?
+      TrueAnswer: Kathy Reichs
+      FalseAnswer:
+      - Patricia Cornwell
+      - Sue Grafton
+      - Tess Gerritsen
+      Explanation: Kathy Reichs, a forensic anthropologist herself, wrote the 'Temperance
+        Brennan' series which inspired the TV show 'Bones', combining science and
+        crime-solving.
+    - Question: Which classic novel by Stephen King was adapted into a TV series,
+        depicting a small town's eerie encounters with supernatural occurrences?
+      TrueAnswer: Under the Dome
+      FalseAnswer:
+      - The Shining
+      - Carrie
+      - Pet Sematary
+      Explanation: Stephen King's novel 'Under the Dome' was adapted into a TV series,
+        where a mysterious dome isolates a small town, leading to psychological and
+        physical challenges.
+    - Question: Whose book series inspired the TV show 'True Detective', known for
+        its anthology format and complex mysteries?
+      TrueAnswer: Nic Pizzolatto
+      FalseAnswer:
+      - Gillian Flynn
+      - Michael Connelly
+      - Lee Child
+      Explanation: Nic Pizzolatto not only created but also wrote the acclaimed TV
+        show 'True Detective', known for its intricate storytelling and compelling
+        characters.
+    - Question: Which classic novel by Margaret Atwood was adapted into a dystopian
+        TV show starring Elisabeth Moss?
+      TrueAnswer: The Handmaid's Tale
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - Pride and Prejudice
+      - 1984
+      Explanation: Margaret Atwood's novel 'The Handmaid's Tale' received critical
+        acclaim and was adapted into an acclaimed TV series.
+    - Question: Which literary work by Arthur Conan Doyle served as the basis for
+        a modern TV show about a brilliant detective?
+      TrueAnswer: Sherlock Holmes
+      FalseAnswer:
+      - War and Peace
+      - Wuthering Heights
+      - Dracula
+      Explanation: Arthur Conan Doyle's iconic character Sherlock Holmes has been
+        reimagined in various TV adaptations, presenting the detective's deductive
+        brilliance.
+    - Question: Which popular book series by Charlaine Harris inspired a TV show
+        featuring vampires, werewolves, and supernatural mysteries?
+      TrueAnswer: The Southern Vampire Mysteries
+      FalseAnswer:
+      - The Hunger Games
+      - Twilight
+      - Divergent
+      Explanation: Charlaine Harris's book series 'The Southern Vampire Mysteries',
+        also known as the Sookie Stackhouse novels, led to the creation of the TV
+        show 'True Blood'.
+    - Question: Which classic novel by Neil Gaiman and Terry Pratchett was adapted
+        into a TV show exploring the unlikely friendship between an angel and a demon?
+      TrueAnswer: Good Omens
+      FalseAnswer:
+      - Alice's Adventures in Wonderland
+      - '''Salem''s Lot'
+      - The War of the Worlds
+      Explanation: Neil Gaiman and Terry Pratchett's collaborative work 'Good Omens'
+        was adapted into a TV miniseries, portraying a humorous and thought-provoking
+        take on the apocalypse.
+    - Question: Who wrote the book 'Mindhunter' that served as the basis for a TV
+        show exploring the early days of criminal psychology and criminal profiling?
+      TrueAnswer: John E. Douglas
+      FalseAnswer:
+      - Agatha Christie
+      - Stephen King
+      - Gillian Flynn
+      Explanation: John E. Douglas, a former FBI agent, authored the book 'Mindhunter'
+        which inspired the acclaimed TV show by the same name, delving into the development
+        of criminal profiling.
+    - Question: Which bestselling novel by Liane Moriarty was adapted into a popular
+        TV show featuring a murder mystery within a close-knit community?
+      TrueAnswer: Big Little Lies
+      FalseAnswer:
+      - Gone Girl
+      - Sharp Objects
+      - The Girl on the Train
+      Explanation: Liane Moriarty's novel 'Big Little Lies' was successfully adapted
+        into a captivating TV series, exploring the complexities of womanhood, relationships,
+        and secrets.
+    - Question: Which author's work provided the basis for the TV show 'Bones', following
+        a forensic anthropologist solving murder cases?
+      TrueAnswer: Kathy Reichs
+      FalseAnswer:
+      - Patricia Cornwell
+      - Sue Grafton
+      - Tess Gerritsen
+      Explanation: Kathy Reichs, a forensic anthropologist herself, wrote the 'Temperance
+        Brennan' series which inspired the TV show 'Bones', combining science and
+        crime-solving.
+    - Question: Which classic novel by Stephen King was adapted into a TV series,
+        depicting a small town's eerie encounters with supernatural occurrences?
+      TrueAnswer: Under the Dome
+      FalseAnswer:
+      - The Shining
+      - Carrie
+      - Pet Sematary
+      Explanation: Stephen King's novel 'Under the Dome' was adapted into a TV series,
+        where a mysterious dome isolates a small town, leading to psychological and
+        physical challenges.
+    - Question: Whose book series inspired the TV show 'True Detective', known for
+        its anthology format and complex mysteries?
+      TrueAnswer: Nic Pizzolatto
+      FalseAnswer:
+      - Gillian Flynn
+      - Michael Connelly
+      - Lee Child
+      Explanation: Nic Pizzolatto not only created but also wrote the acclaimed TV
+        show 'True Detective', known for its intricate storytelling and compelling
+        characters.

@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &419888767079831624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5519507880044053544}
+  - component: {fileID: 4954397515188249730}
+  m_Layer: 0
+  m_Name: Technology_Quantum_Computing.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5519507880044053544
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419888767079831624}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4954397515188249730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 419888767079831624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the fundamental unit of information in quantum computing?
+      TrueAnswer: Qubit
+      FalseAnswer:
+      - Bit
+      - Byte
+      - Nibble
+      Explanation: A qubit is the fundamental unit of information in quantum computing,
+        analogous to a classical bit.
+    - Question: Which property allows qubits to exist in multiple states simultaneously?
+      TrueAnswer: Superposition
+      FalseAnswer:
+      - Interference
+      - Entanglement
+      - Decoherence
+      Explanation: Superposition enables qubits to exist in multiple states at the
+        same time, a key feature in quantum computation.
+    - Question: What phenomenon occurs when entangled qubits become correlated?
+      TrueAnswer: Quantum Entanglement
+      FalseAnswer:
+      - Quantum Tunneling
+      - Quantum Computing
+      - Quantum Cryptography
+      Explanation: Quantum entanglement is a phenomenon where particles become interconnected
+        and their quantum states are correlated.
+    - Question: Which concept allows qubits to transmit information instantly over
+        long distances?
+      TrueAnswer: Quantum Teleportation
+      FalseAnswer:
+      - Quantum Communication
+      - Quantum Encryption
+      - Quantum Tunneling
+      Explanation: Quantum teleportation is a process to transmit quantum information
+        instantaneously, not physical particles, across any distance.
+    - Question: What is the theoretical limit of the number of qubits that can be
+        entangled in a quantum computer?
+      TrueAnswer: No Limit
+      FalseAnswer:
+      - 1000
+      - 10000
+      - 100000
+      Explanation: Theoretically, there is no limit to the number of qubits that
+        can be entangled in a quantum computer, unlike classical systems.
+    - Question: Which phenomenon causes quantum information to degrade and lose coherence?
+      TrueAnswer: Quantum Decoherence
+      FalseAnswer:
+      - Quantum Superposition
+      - Quantum Entanglement
+      - Quantum Tunneling
+      Explanation: Quantum decoherence is the process by which quantum information's
+        coherence is lost, limiting quantum computation's precision and power.
+    - Question: What property allows qubits to be intertwined and influence each
+        other's state?
+      TrueAnswer: Entanglement
+      FalseAnswer:
+      - Superposition
+      - EPR Paradox
+      - Quantum Spin
+      Explanation: Entanglement enables qubits to become interconnected, leading
+        to correlations between their quantum states.
+    - Question: What term refers to the exponential speedup quantum computers demonstrate
+        over classical computers?
+      TrueAnswer: Quantum Speedup
+      FalseAnswer:
+      - Quantum Leap
+      - Quantum Advantage
+      - Quantum Supremacy
+      Explanation: Quantum speedup refers to the exponential increase in computational
+        power quantum computers exhibit over classical systems for certain problems.
+    - Question: What cryptographic method is potentially threatened by Shor's Algorithm
+        in quantum computing?
+      TrueAnswer: RSA
+      FalseAnswer:
+      - AES
+      - Diffie-Hellman
+      - ECC
+      Explanation: Shor's algorithm has the potential to break RSA encryption, undermining
+        its security in the face of quantum computers.
+    - Question: Which operation describes the simultaneous change of two qubits due
+        to their entanglement?
+      TrueAnswer: Quantum Gate
+      FalseAnswer:
+      - Quantum Circuit
+      - Quantum Algorithm
+      - Quantum Oracle
+      Explanation: Quantum gates are the basic building blocks of quantum circuits,
+        introducing correlations between qubits through entanglement.
+    - Question: What is the main challenge in creating stable and reliable qubits
+        for quantum computing?
+      TrueAnswer: Decoherence
+      FalseAnswer:
+      - Interference
+      - Superposition
+      - Entanglement
+      Explanation: Decoherence, the loss of quantum coherence in qubits, is a major
+        challenge in creating stable and reliable quantum computing systems.
+    - Question: What is the term for using both classical and quantum computation
+        in problem-solving?
+      TrueAnswer: Hybrid Computing
+      FalseAnswer:
+      - Quantum Hybrid
+      - Classical Quantum
+      - Mixed Computation
+      Explanation: Hybrid computing refers to the integration of classical and quantum
+        computation techniques to solve problems efficiently and effectively.
+    - Question: Which physicist formulated the concept of quantum computing in 1981?
+      TrueAnswer: Richard Feynman
+      FalseAnswer:
+      - Niels Bohr
+      - "Erwin Schr\xF6dinger"
+      - Werner Heisenberg
+      Explanation: Richard Feynman proposed the idea of quantum computing in 1981,
+        laying the conceptual groundwork for its development.
+    - Question: What is the term for the error-correcting codes used in quantum computing
+        to protect against noise?
+      TrueAnswer: Quantum Error Correction
+      FalseAnswer:
+      - Quantum Noise Suppression
+      - Quantum Fault Tolerance
+      - Quantum Disturbance Control
+      Explanation: Quantum error correction encompasses various codes and techniques
+        to protect quantum information against errors and decoherence caused by noise.
+    - Question: What is the primary quantum algorithm for factoring large integers
+        efficiently on a quantum computer?
+      TrueAnswer: Shor's Algorithm
+      FalseAnswer:
+      - Grover's Algorithm
+      - Quantum Fourier Transform
+      - VQE Algorithm
+      Explanation: Shor's algorithm is a quantum algorithm that efficiently factors
+        large integers, posing a threat to classical cryptographic systems like RSA.
+    - Question: What term refers to the state of a qubit before it is measured or
+        observed?
+      TrueAnswer: Quantum State
+      FalseAnswer:
+      - Quantum Probability
+      - Quantum Entropy
+      - Quantum Uncertainty
+      Explanation: The quantum state refers to the complete set of information about
+        a qubit, including its superposition and entanglement, before measurement.
+    - Question: What theory suggests that quantum information cannot be copied perfectly?
+      TrueAnswer: No-Cloning Theorem
+      FalseAnswer:
+      - Quantum Uncertainty Principle
+      - Quantum Nonlocality
+      - Quantum Indistinguishability
+      Explanation: The no-cloning theorem states that it is impossible to create
+        an exact copy of an arbitrary unknown quantum state.
+    - Question: What does the term 'Quantum Supremacy' refer to in the context of
+        quantum computing?
+      TrueAnswer: Demonstrating Quantum Advantage
+      FalseAnswer:
+      - Quantum Superiority
+      - Quantum Preeminence
+      - Quantum Dominance
+      Explanation: Quantum supremacy refers to the experimental achievement of quantum
+        advantage over classical systems in a specific computational task or problem.
+    - Question: What is the use of quantum computers to solve optimization and decision
+        problems known as?
+      TrueAnswer: Quantum Optimization
+      FalseAnswer:
+      - Quantum Decision Making
+      - Quantum Heuristics
+      - Quantum Problem Solving
+      Explanation: Quantum optimization leverages quantum algorithms to efficiently
+        solve complex optimization and decision-making problems, surpassing classical
+        approaches in certain cases.
+    - Question: What field of study focuses on the practical implementation of quantum
+        computing devices and systems?
+      TrueAnswer: Quantum Engineering
+      FalseAnswer:
+      - Quantum Theory
+      - Quantum Algorithms
+      - Quantum Cryptography
+      Explanation: Quantum engineering involves the design, development, and implementation
+        of practical quantum computing hardware and systems to harness the power
+        of quantum information processing.

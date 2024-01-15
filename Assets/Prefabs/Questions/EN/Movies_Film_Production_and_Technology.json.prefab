@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4213485367566137839
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5020085387937182551}
+  - component: {fileID: 7089301558386431254}
+  m_Layer: 0
+  m_Name: Movies_Film_Production_and_Technology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5020085387937182551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4213485367566137839}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7089301558386431254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4213485367566137839}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of a clapperboard in film production?
+      TrueAnswer: Sync sound and image
+      FalseAnswer:
+      - Measure light intensity
+      - Create special effects
+      - Control camera zoom
+      Explanation: A clapperboard marks the synchronization of sound and image, facilitating
+        editing and sound-matching in post-production.
+    - Question: Which aspect ratio is commonly used in modern cinema?
+      TrueAnswer: 16:9
+      FalseAnswer:
+      - 4:3
+      - 21:9
+      - 2.35:1
+      Explanation: The 16:9 aspect ratio, also known as widescreen, has become the
+        standard for modern films and television.
+    - Question: What is the function of a boom microphone on a film set?
+      TrueAnswer: Capture audio from a distance
+      FalseAnswer:
+      - Adjust lighting
+      - Create visual effects
+      - Control the camera focus
+      Explanation: A boom microphone is used to capture high-quality audio from a
+        distance, ensuring clear dialogue in film production.
+    - Question: What does CGI stand for in film technology?
+      TrueAnswer: Computer-generated imagery
+      FalseAnswer:
+      - Cinematic graphic interface
+      - Camera-generated images
+      - Creative graphics integration
+      Explanation: CGI refers to computer-generated imagery, which involves the use
+        of computer graphics to create visual effects in films.
+    - Question: Which of the following is a key role in film post-production?
+      TrueAnswer: Film Editor
+      FalseAnswer:
+      - Stunt Coordinator
+      - Gaffer
+      - Key Grip
+      Explanation: The film editor plays a crucial role in shaping the final narrative
+        and visual storytelling of a film during post-production.
+    - Question: What is the purpose of a green screen in film production?
+      TrueAnswer: Create background replacement
+      FalseAnswer:
+      - Adjust color temperature
+      - Add motion blur
+      - Simulate weather effects
+      Explanation: A green screen is used to replace the background with different
+        images or footage through the process of chroma keying.
+    - Question: Which camera motion technique involves rotating the camera around
+        its vertical axis?
+      TrueAnswer: Pan
+      FalseAnswer:
+      - Tilt
+      - Dolly
+      - Crane
+      Explanation: A pan involves pivoting the camera horizontally from a fixed position,
+        capturing a panoramic view of the scene.
+    - Question: What is the purpose of a dolly in film production?
+      TrueAnswer: Smooth camera movement
+      FalseAnswer:
+      - Create lighting effects
+      - Attach additional lenses
+      - Stabilize shaky footage
+      Explanation: A dolly is used to achieve smooth camera movements by rolling
+        the camera along a track or platform.
+    - Question: Which lighting technique creates dramatic contrast between light
+        and shadow?
+      TrueAnswer: Chiaroscuro
+      FalseAnswer:
+      - High key lighting
+      - Soft lighting
+      - Backlighting
+      Explanation: Chiaroscuro lighting emphasizes strong contrasts between light
+        and shadow, often used to create visually dramatic scenes.
+    - Question: What is the purpose of a matte painting in filmmaking?
+      TrueAnswer: Create visual backgrounds
+      FalseAnswer:
+      - Simulate camera movement
+      - Enhance sound effects
+      - Generate 3D models
+      Explanation: A matte painting is used to create realistic or fantastical backgrounds
+        that are impractical or impossible to film on location.
+    - Question: Which audio format is commonly used for film soundtracks?
+      TrueAnswer: Dolby Atmos
+      FalseAnswer:
+      - MP3
+      - WAV
+      - FLAC
+      Explanation: Dolby Atmos is a popular audio format for film soundtracks, providing
+        immersive and multidimensional sound experiences in theaters.
+    - Question: What is the purpose of a clapperboard in film production?
+      TrueAnswer: Sync sound and image
+      FalseAnswer:
+      - Measure light intensity
+      - Create special effects
+      - Control camera zoom
+      Explanation: A clapperboard marks the synchronization of sound and image, facilitating
+        editing and sound-matching in post-production.
+    - Question: What is the function of a key grip on a film set?
+      TrueAnswer: Equipment handling and rigging
+      FalseAnswer:
+      - Monitor color grading
+      - Control script continuity
+      - Coordinate stunts
+      Explanation: A key grip is responsible for the handling and rigging of equipment,
+        ensuring proper setup and execution of camera movements.
+    - Question: Which film editing technique involves cutting between two different
+        actions to create a sense of continuity?
+      TrueAnswer: Cross-cutting
+      FalseAnswer:
+      - Jump cut
+      - Match cut
+      - Fade cut
+      Explanation: Cross-cutting, also known as parallel editing, is used to interweave
+        two or more separate scenes, creating tension or connection between them.
+    - Question: What does VFX stand for in film production?
+      TrueAnswer: Visual effects
+      FalseAnswer:
+      - Virtual filming experience
+      - Vector force exchange
+      - Video format extension
+      Explanation: VFX refers to visual effects, encompassing various computer-generated
+        or enhanced visuals added during post-production to enhance the film's visual
+        storytelling.
+    - Question: Which film camera accessory is used to control the amount of light
+        entering the lens?
+      TrueAnswer: Filter
+      FalseAnswer:
+      - Viewfinder
+      - Tripod
+      - Lens hood
+      Explanation: Filters are attached to the front of the lens to alter or enhance
+        the qualities of light entering the camera, such as color balance or glare
+        reduction.
+    - Question: What is the purpose of a follow focus in film production?
+      TrueAnswer: Precise focus control
+      FalseAnswer:
+      - Adjust exposure settings
+      - Add motion blur
+      - Stabilize handheld shots
+      Explanation: A follow focus is a mechanism used to accurately adjust and maintain
+        focus during camera movements, ensuring sharp and intentional focus on subjects.
+    - Question: Which camera movement involves tilting the camera up or down?
+      TrueAnswer: Tilt
+      FalseAnswer:
+      - Pan
+      - Dolly
+      - Zoom
+      Explanation: A tilt movement involves angling the camera vertically, capturing
+        upward or downward perspectives within a scene.
+    - Question: What is the purpose of a storyboard in film pre-production?
+      TrueAnswer: Visualize and plan shots
+      FalseAnswer:
+      - Record dialogue scripts
+      - Create post-production effects
+      - Design costume concepts
+      Explanation: Storyboards are visual representations that help filmmakers plan
+        and visualize each shot or scene before filming begins, aiding in efficient
+        production planning.
+    - Question: Which modern film format offers enhanced resolution and dynamic range?
+      TrueAnswer: 4K HDR
+      FalseAnswer:
+      - 480p
+      - 1080i
+      - 720p
+      Explanation: 4K HDR provides high-resolution visuals and a wider dynamic range,
+        offering viewers vivid and lifelike cinematic experiences.

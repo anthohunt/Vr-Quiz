@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1361085608256679022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1091983767684847318}
+  - component: {fileID: 8310592562742890431}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Space_Telescopes_and_Observatories.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1091983767684847318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1361085608256679022}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8310592562742890431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1361085608256679022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary function of the Hubble Space Telescope?
+      TrueAnswer: Observing distant galaxies
+      FalseAnswer:
+      - Studying asteroids
+      - Measuring star brightness
+      - Searching for black holes
+      Explanation: The Hubble Space Telescope is known for its role in significantly
+        expanding our understanding of the universe by capturing images of distant
+        galaxies and celestial phenomena.
+    - Question: Which space observatory operates primarily in the X-ray part of the
+        electromagnetic spectrum?
+      TrueAnswer: Chandra X-ray Observatory
+      FalseAnswer:
+      - Spitzer Space Telescope
+      - Kepler Space Telescope
+      - James Webb Space Telescope
+      Explanation: The Chandra X-ray Observatory is specifically designed to detect
+        and observe X-ray emission from high-energy regions of the universe, including
+        black holes and supernovae remnants.
+    - Question: What is the main purpose of the James Webb Space Telescope?
+      TrueAnswer: Studying the early universe
+      FalseAnswer:
+      - Hunting for exoplanets
+      - Mapping the asteroid belt
+      - Observing solar flares
+      Explanation: The James Webb Space Telescope aims to study the universe's first
+        stars and galaxies, as well as the formation of planetary systems, to provide
+        insights into the early universe.
+    - Question: Which space telescope is known for its infrared observations of the
+        cosmos?
+      TrueAnswer: Spitzer Space Telescope
+      FalseAnswer:
+      - Hubble Space Telescope
+      - Chandra X-ray Observatory
+      - Kepler Space Telescope
+      Explanation: The Spitzer Space Telescope is renowned for its pioneering work
+        in the field of infrared astronomy, enabling the study of cool and distant
+        objects such as protostars and exoplanets.
+    - Question: What space observatory has been crucial for the discovery and study
+        of exoplanets?
+      TrueAnswer: Kepler Space Telescope
+      FalseAnswer:
+      - Hubble Space Telescope
+      - Chandra X-ray Observatory
+      - James Webb Space Telescope
+      Explanation: The Kepler Space Telescope revolutionized the study of exoplanets
+        by detecting thousands of planetary candidates, providing valuable data for
+        understanding planetary systems beyond our solar system.

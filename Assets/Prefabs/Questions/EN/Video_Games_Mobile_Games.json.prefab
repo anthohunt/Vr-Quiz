@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8781688278145325880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5401401904768619392}
+  - component: {fileID: 1268954958359456607}
+  m_Layer: 0
+  m_Name: Video_Games_Mobile_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5401401904768619392
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8781688278145325880}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1268954958359456607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8781688278145325880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most downloaded mobile game of all time?
+      TrueAnswer: Subway Surfers
+      FalseAnswer:
+      - Candy Crush
+      - PUBG Mobile
+      - Angry Birds
+      Explanation: Subway Surfers has been downloaded over 2.7 billion times across
+        all platforms, making it the most downloaded mobile game.
+    - Question: What genre does the mobile game 'Clash of Clans' belong to?
+      TrueAnswer: Strategy
+      FalseAnswer:
+      - Puzzle
+      - Racing
+      - Simulation
+      Explanation: Clash of Clans is a freemium mobile strategy video game developed
+        and published by Supercell, a Finnish mobile game development company.
+    - Question: What was the first-ever mobile game to reach 100 million downloads?
+      TrueAnswer: Snake
+      FalseAnswer:
+      - Tetris
+      - Angry Birds
+      - Fruit Ninja
+      Explanation: Snake, a classic mobile game, reached 100 million downloads by
+        2002, marking a milestone for mobile gaming history.
+    - Question: "Which mobile game company is behind 'Pok\xE9mon GO'?"
+      TrueAnswer: Niantic
+      FalseAnswer:
+      - Supercell
+      - King
+      - Rovio
+      Explanation: "Niantic, Inc. is an American software development company best
+        known for developing the augmented reality mobile games 'Ingress' and 'Pok\xE9mon
+        GO'."
+    - Question: In 'Temple Run', what are players constantly trying to escape from?
+      TrueAnswer: Demon Monkeys
+      FalseAnswer:
+      - Zombies
+      - Giant Spiders
+      - Mummies
+      Explanation: The game involves the player controlling an explorer who has obtained
+        an ancient relic and is running from demon monkeys.

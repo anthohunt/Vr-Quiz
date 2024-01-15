@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel instrument mesure la vitesse du vent?",
+            "TrueAnswer": "Anémomètre",
+            "FalseAnswer": [
+              "Baromètre",
+              "Hygromètre",
+              "Thermomètre"
+            ],
+            "Explanation": "Un anémomètre est un outil courant utilisé en météorologie pour mesurer la vitesse du vent."
+          },
+          {
+            "Question": "Quelle est la principale source d'énergie dans l'atmosphère terrestre?",
+            "TrueAnswer": "Soleil",
+            "FalseAnswer": [
+              "Vent",
+              "Nuages",
+              "Océans"
+            ],
+            "Explanation": "Le soleil est la principale source d'énergie pour le temps et le climat sur Terre à travers des processus tels que le rayonnement et la convection."
+          },
+          {
+            "Question": "Comment appelle-t-on la couche de l'atmosphère où se produit la plupart des phénomènes météorologiques?",
+            "TrueAnswer": "Troposphère",
+            "FalseAnswer": [
+              "Stratosphère",
+              "Mésosphère",
+              "Thermosphère"
+            ],
+            "Explanation": "La troposphère est la couche la plus basse de l'atmosphère terrestre où se produisent des phénomènes météorologiques tels que des nuages et des tempêtes."
+          },
+          {
+            "Question": "Comment appelle-t-on un monsieur qui prédit la météo?",
+            "TrueAnswer": "Météorologiste",
+            "FalseAnswer": [
+              "Astronome",
+              "Géologue",
+              "Biologiste"
+            ],
+            "Explanation": "Un météorologiste est un scientifique qui étudie et prédit les conditions atmosphériques et météorologiques."
+          },
+          {
+            "Question": "Quel est le processus de transformation de l'eau en vapeur?",
+            "TrueAnswer": "Évaporation",
+            "FalseAnswer": [
+              "Condensation",
+              "Précipitation",
+              "Fusion"
+            ],
+            "Explanation": "L'évaporation est le processus par lequel l'eau passe de l'état liquide à l'état gazeux ou de vapeur, sous l'effet de la chaleur."
+          },
+          {
+            "Question": "Que signifie l'acronyme 'HAIL' en relation avec la météo?",
+            "TrueAnswer": "Hailstone Alert and Information Line",
+            "FalseAnswer": [
+              "High Altitude Infrared Laser",
+              "Hypothermia and Isolation Locator",
+              "Heavy Axis Isobar Limit"
+            ],
+            "Explanation": "HAIL est un acronyme pour Hailstone Alert and Information Line, qui fournit des informations en temps réel sur les tempêtes de grêle au public et aux entreprises."
+          },
+          {
+            "Question": "Comment s'appelle la ligne sur une carte météorologique reliant des points de température égale?",
+            "TrueAnswer": "Isotherme",
+            "FalseAnswer": [
+              "Isobare",
+              "Isohyète",
+              "Isohauteur"
+            ],
+            "Explanation": "Une isotherme est une ligne sur une carte météorologique reliant des points de température égale, couramment utilisée pour analyser la distribution de la température."
+          },
+          {
+            "Question": "Quel instrument mesure la pression atmosphérique?",
+            "TrueAnswer": "Baromètre",
+            "FalseAnswer": [
+              "Anémomètre",
+              "Hygromètre",
+              "Thermomètre"
+            ],
+            "Explanation": "Un baromètre est un appareil utilisé pour mesurer la pression atmosphérique, essentiel pour la prévision météorologique et la surveillance des changements atmosphériques."
+          },
+          {
+            "Question": "Quel type de nuage apporte des orages et de fortes pluies?",
+            "TrueAnswer": "Cumulonimbus",
+            "FalseAnswer": [
+              "Cirrostratus",
+              "Altostratus",
+              "Stratocumulus"
+            ],
+            "Explanation": "Les nuages cumulonimbus sont associés à des orages et à de fortes précipitations, produisant souvent des éclairs, du tonnerre, et parfois de la grêle."
+          },
+          {
+            "Question": "Comment appelle-t-on la science qui étudie les schémas météorologiques, les climats et les conditions atmosphériques?",
+            "TrueAnswer": "Météorologie",
+            "FalseAnswer": [
+              "Astronomie",
+              "Géologie",
+              "Biologie"
+            ],
+            "Explanation": "La météorologie est l'étude scientifique de l'atmosphère, mettant l'accent sur les processus météorologiques, le climat et les phénomènes atmosphériques."
+          },
+          {
+            "Question": "Qu'est-ce qui cause l'effet de Coriolis dans l'atmosphère?",
+            "TrueAnswer": "La rotation de la Terre",
+            "FalseAnswer": [
+              "La gravité de la Lune",
+              "Le rayonnement solaire",
+              "La pression atmosphérique"
+            ],
+            "Explanation": "L'effet de Coriolis est causé par la rotation de la Terre, déviant la trajectoire des objets en mouvement, y compris les masses d'air, dans l'atmosphère."
+          },
+          {
+            "Question": "Quelle condition un hygromètre mesure-t-il dans l'atmosphère?",
+            "TrueAnswer": "L'humidité",
+            "FalseAnswer": [
+              "La pression",
+              "La température",
+              "La vitesse du vent"
+            ],
+            "Explanation": "Un hygromètre mesure l'humidité, indiquant la teneur en humidité de l'atmosphère, ce qui est crucial pour comprendre les schémas météorologiques et la prévision."
+          },
+          {
+            "Question": "Quel est le processus de transformation de la vapeur d'eau en gouttelettes d'eau liquide?",
+            "TrueAnswer": "Condensation",
+            "FalseAnswer": [
+              "Évaporation",
+              "Précipitation",
+              "Sublimation"
+            ],
+            "Explanation": "La condensation est le processus par lequel la vapeur d'eau se transforme en eau liquide, formant des nuages, du brouillard, ou de la rosée."
+          },
+          {
+            "Question": "Comment appelle-t-on la frontière entre deux masses d'air ayant des températures et une humidité différentes?",
+            "TrueAnswer": "Front",
+            "FalseAnswer": [
+              "Stratosphère",
+              "Tropopause",
+              "Thermocline"
+            ],
+            "Explanation": "Un front est la frontière entre deux masses d'air ayant des températures et une humidité différentes, entraînant souvent des changements et des perturbations météorologiques."
+          },
+          {
+            "Question": "Quel terme désigne la mesure du poids de l'atmosphère au-dessus d'un endroit?",
+            "TrueAnswer": "Pression atmosphérique",
+            "FalseAnswer": [
+              "Vitesse du vent",
+              "Température",
+              "Humidité"
+            ],
+            "Explanation": "La pression atmosphérique est la force exercée par le poids de l'atmosphère au-dessus d'un endroit spécifique, influençant les schémas et les systèmes météorologiques."
+          },
+          {
+            "Question": "Quel est le principal gaz présent dans l'atmosphère terrestre?",
+            "TrueAnswer": "Azote",
+            "FalseAnswer": [
+              "Oxygène",
+              "Dioxyde de carbone",
+              "Argon"
+            ],
+            "Explanation": "L'azote est le gaz le plus abondant dans l'atmosphère terrestre, constituant environ 78% de l'air que nous respirons."
+          },
+          {
+            "Question": "Comment s'appelle la colonne d'air en rotation dans un orage?",
+            "TrueAnswer": "Tornade",
+            "FalseAnswer": [
+              "Ouragan",
+              "Cyclone",
+              "Typhon"
+            ],
+            "Explanation": "Une tornade est une colonne d'air en rotation rapide en contact à la fois avec la surface et un nuage cumulonimbus, souvent associée à des conditions météorologiques graves."
+          },
+          {
+            "Question": "Quel terme désigne l'état à court terme de l'atmosphère dans une zone spécifique?",
+            "TrueAnswer": "Météo",
+            "FalseAnswer": [
+              "Climat",
+              "Saison",
+              "Terrain"
+            ],
+            "Explanation": "La météo se réfère à l'état à court terme de l'atmosphère dans une zone spécifique, incluant des éléments comme la température, l'humidité, et les précipitations."
+          },
+          {
+            "Question": "Quel instrument mesure la quantité de précipitations?",
+            "TrueAnswer": "Pluviomètre",
+            "FalseAnswer": [
+              "Anémomètre",
+              "Baromètre",
+              "Hygromètre"
+            ],
+            "Explanation": "Un pluviomètre mesure la quantité de précipitations liquides ou solides tombant à un endroit spécifique sur une période de temps définie."
+          },
+          {
+            "Question": "Quel type de nuage est filandreux et retrouvé à de hautes altitudes?",
+            "TrueAnswer": "Cirrus",
+            "FalseAnswer": [
+              "Stratus",
+              "Cumulus",
+              "Nimbostratus"
+            ],
+            "Explanation": "Les nuages cirrus sont des nuages minces et filandreux retrouvés à de hautes altitudes, indiquant souvent un temps clair mais pouvant précéder un changement atmosphérique."
+          }
+        ]
+      }
+    }
+  ]
+}

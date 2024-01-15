@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Which TV show is set in the fictional city of Sunnydale?",
+            "TrueAnswer": "Buffy the Vampire Slayer",
+            "FalseAnswer": [
+              "Supernatural",
+              "X-Files",
+              "Twin Peaks"
+            ],
+            "Explanation": "Buffy the Vampire Slayer is set in the fictional Californian town of Sunnydale, where the main protagonist battles vampires and other supernatural entities."
+          },
+          {
+            "Question": "What is the name of Captain Picard's ship in Star Trek: The Next Generation?",
+            "TrueAnswer": "USS Enterprise",
+            "FalseAnswer": [
+              "USS Voyager",
+              "USS Discovery",
+              "USS Defiant"
+            ],
+            "Explanation": "Captain Picard is the commanding officer of the USS Enterprise (NCC-1701-D) in Star Trek: The Next Generation, with the ship being a vital part of the show's narrative."
+          },
+          {
+            "Question": "In The X-Files, which department is Fox Mulder from?",
+            "TrueAnswer": "FBI",
+            "FalseAnswer": [
+              "CIA",
+              "NSA",
+              "DEA"
+            ],
+            "Explanation": "Fox Mulder is an FBI special agent in The X-Files, leading the unsolved cases unit known as the X-Files, which involves paranormal phenomena."
+          },
+          {
+            "Question": "Who is the creator of the cult classic TV show Twin Peaks?",
+            "TrueAnswer": "David Lynch",
+            "FalseAnswer": [
+              "Quentin Tarantino",
+              "Stanley Kubrick",
+              "Martin Scorsese"
+            ],
+            "Explanation": "David Lynch is the co-creator and director of Twin Peaks, a groundbreaking series known for its surrealism and mystery in a small town setting."
+          },
+          {
+            "Question": "Which TV show features a group of survivors in a post-apocalyptic world fighting zombies?",
+            "TrueAnswer": "The Walking Dead",
+            "FalseAnswer": [
+              "Lost",
+              "Breaking Bad",
+              "Stranger Things"
+            ],
+            "Explanation": "The Walking Dead follows a group of survivors who navigate a world overrun by zombies, exploring human nature and morality in an apocalyptic setting."
+          }
+        ]
+      }
+    }
+  ]
+}

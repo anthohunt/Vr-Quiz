@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is a meteor shower?",
+          "TrueAnswer": "A celestial event where a number of meteors radiate from one point in the night sky.",
+          "FalseAnswer": [
+            "A comet that enters Earth's atmosphere and burns up",
+            "A meteor that hits the Earth's surface",
+            "A star that explodes in a supernova"
+          ],
+          "Explanation": "A meteor shower occurs when Earth passes through a trail of debris left by a comet, causing meteors to appear to radiate from a single point in the sky."
+        },
+        {
+          "Question": "What causes a meteor shower?",
+          "TrueAnswer": "Debris left by a comet burning up in Earth's atmosphere.",
+          "FalseAnswer": [
+            "The collision of two asteroids in space",
+            "The explosion of a distant star",
+            "The gravitational pull of a black hole"
+          ],
+          "Explanation": "A meteor shower is caused by Earth passing through the debris left behind by a comet, which burns up in our atmosphere and creates streaks of light."
+        },
+        {
+          "Question": "When do meteor showers occur?",
+          "TrueAnswer": "At specific times of the year when Earth's orbit intersects with a comet's debris trail.",
+          "FalseAnswer": [
+            "Randomly throughout the year",
+            "During a full moon",
+            "During a solar eclipse"
+          ],
+          "Explanation": "Meteor showers occur when Earth's orbit intersects with the debris trail of a comet, which happens at specific times of the year."
+        },
+        {
+          "Question": "What is the most famous meteor shower?",
+          "TrueAnswer": "The Perseids",
+          "FalseAnswer": [
+            "The Leonids",
+            "The Geminids",
+            "The Taurids"
+          ],
+          "Explanation": "The Perseids is one of the most famous meteor showers, occurring annually in August and originating from the debris of the comet Swift-Tuttle."
+        },
+        {
+          "Question": "What are comets made of?",
+          "TrueAnswer": "Ice, dust, and rocky particles.",
+          "FalseAnswer": [
+            "Gas and plasma",
+            "Pure rock",
+            "Liquid water"
+          ],
+          "Explanation": "Comets are composed of a mixture of ice, dust, and rocky particles, which vaporize and create a glowing coma and tail when they approach the Sun."
+        },
+        {
+          "Question": "What is the nucleus of a comet?",
+          "TrueAnswer": "The solid core of a comet made of ice and rock.",
+          "FalseAnswer": [
+            "The glowing tail of a comet",
+            "The outer layer of gas surrounding a comet",
+            "The debris trail left by a comet"
+          ],
+          "Explanation": "The nucleus of a comet is the solid core made of ice and rock, which remains intact as the comet travels through space and releases gas and dust when heated by the Sun."
+        },
+        {
+          "Question": "What is the coma of a comet?",
+          "TrueAnswer": "The glowing cloud of gas and dust surrounding the nucleus of a comet.",
+          "FalseAnswer": [
+            "The solid core of a comet",
+            "The tail of a comet",
+            "The debris trail left by a comet"
+          ],
+          "Explanation": "The coma of a comet is the glowing cloud of gas and dust that surrounds the nucleus when the comet approaches the Sun and is heated, creating a fuzzy appearance."
+        },
+        {
+          "Question": "What is the tail of a comet?",
+          "TrueAnswer": "A stream of gas and dust that extends away from the nucleus of a comet.",
+          "FalseAnswer": [
+            "The solid core of a comet",
+            "The glowing cloud surrounding the nucleus",
+            "The debris trail left by a comet"
+          ],
+          "Explanation": "The tail of a comet is a stream of gas and dust that extends away from the nucleus, pushed by the solar wind and always pointing away from the Sun."
+        },
+        {
+          "Question": "What is the difference between a meteor and a comet?",
+          "TrueAnswer": "A meteor is a small particle that burns up in Earth's atmosphere, while a comet is a celestial object with a nucleus, coma, and tail.",
+          "FalseAnswer": [
+            "A meteor is a large rock that hits the Earth's surface, while a comet is a small icy body",
+            "A meteor is a star that explodes, while a comet is a planet",
+            "A meteor is a planet, while a comet is a moon"
+          ],
+          "Explanation": "Meteors are small particles that burn up in Earth's atmosphere, while comets are celestial objects with a solid nucleus, a glowing coma, and a tail."
+        },
+        {
+          "Question": "What is the difference between a meteor and a meteorite?",
+          "TrueAnswer": "A meteor is a meteoroid that burns up in Earth's atmosphere, while a meteorite is a meteoroid that survives and lands on Earth.",
+          "FalseAnswer": [
+            "A meteor is a meteoroid that hits the Earth's surface, while a meteorite is a meteoroid that burns up",
+            "A meteor is a meteoroid that enters Earth's atmosphere, while a meteorite is a meteoroid that enters the Sun's atmosphere",
+            "A meteor is a meteoroid that enters the Sun's atmosphere, while a meteorite is a meteoroid that enters Earth's atmosphere"
+          ],
+          "Explanation": "Meteors are meteoroids that burn up in Earth's atmosphere, while meteorites are meteoroids that survive the journey through the atmosphere and land on Earth's surface."
+        },
+        {
+          "Question": "What is the name of the most famous comet?",
+          "TrueAnswer": "Halley's Comet",
+          "FalseAnswer": [
+            "Hale-Bopp",
+            "Comet Shoemaker-Levy 9",
+            "Comet ISON"
+          ],
+          "Explanation": "Halley's Comet is the most famous comet, visible from Earth approximately every 76 years."
+        },
+        {
+          "Question": "What is the average size of a comet nucleus?",
+          "TrueAnswer": "A few kilometers in diameter.",
+          "FalseAnswer": [
+            "A few meters in diameter",
+            "A few centimeters in diameter",
+            "A few millimeters in diameter"
+          ],
+          "Explanation": "The average size of a comet nucleus is a few kilometers in diameter, although they can vary in size."
+        },
+        {
+          "Question": "What is the name of the spacecraft that visited a comet in 2014?",
+          "TrueAnswer": "Rosetta",
+          "FalseAnswer": [
+            "Voyager 1",
+            "Cassini",
+            "New Horizons"
+          ],
+          "Explanation": "The Rosetta spacecraft visited the comet 67P/Churyumov-Gerasimenko in 2014, providing valuable data about comets and their composition."
+        },
+        {
+          "Question": "What is the name of the mission that landed on a comet in 2014?",
+          "TrueAnswer": "Philae",
+          "FalseAnswer": [
+            "Curiosity",
+            "Opportunity",
+            "Spirit"
+          ],
+          "Explanation": "The Philae lander, part of the Rosetta mission, successfully landed on the surface of comet 67P/Churyumov-Gerasimenko in 2014."
+        },
+        {
+          "Question": "What is the name of the largest known comet?",
+          "TrueAnswer": "Comet Hale-Bopp",
+          "FalseAnswer": [
+            "Comet Halley",
+            "Comet Shoemaker-Levy 9",
+            "Comet ISON"
+          ],
+          "Explanation": "Comet Hale-Bopp is the largest known comet, with a nucleus estimated to be about 40 kilometers in diameter."
+        },
+        {
+          "Question": "What is the name of the first comet to be visited by a spacecraft?",
+          "TrueAnswer": "Comet Halley",
+          "FalseAnswer": [
+            "Comet Hale-Bopp",
+            "Comet Shoemaker-Levy 9",
+            "Comet ISON"
+          ],
+          "Explanation": "Comet Halley was the first comet to be visited by a spacecraft, with the European Space Agency's Giotto mission in 1986."
+        },
+        {
+          "Question": "What is the name of the comet that crashed into Jupiter in 1994?",
+          "TrueAnswer": "Comet Shoemaker-Levy 9",
+          "FalseAnswer": [
+            "Comet Halley",
+            "Comet Hale-Bopp",
+            "Comet ISON"
+          ],
+          "Explanation": "Comet Shoemaker-Levy 9 crashed into Jupiter in 1994, creating a series of impact scars visible on the planet's surface."
+        },
+        {
+          "Question": "What is the name of the comet that disintegrated when it approached the Sun in 2013?",
+          "TrueAnswer": "Comet ISON",
+          "FalseAnswer": [
+            "Comet Halley",
+            "Comet Hale-Bopp",
+            "Comet Shoemaker-Levy 9"
+          ],
+          "Explanation": "Comet ISON disintegrated when it approached the Sun in 2013, failing to become a bright comet visible from Earth."
+        },
+        {
+          "Question": "What is the name of the region in space where most comets originate?",
+          "TrueAnswer": "The Oort Cloud",
+          "FalseAnswer": [
+            "The Kuiper Belt",
+            "The Asteroid Belt",
+            "The Hubble Deep Field"
+          ],
+          "Explanation": "The Oort Cloud is a region in space where most comets are believed to originate, located far beyond the orbit of Neptune."
+        },
+        {
+          "Question": "What is the name of the region in space where short-period comets originate?",
+          "TrueAnswer": "The Kuiper Belt",
+          "FalseAnswer": [
+            "The Oort Cloud",
+            "The Asteroid Belt",
+            "The Hubble Deep Field"
+          ],
+          "Explanation": "The Kuiper Belt is a region in space beyond Neptune where short-period comets, with orbits less than 200 years, are believed to originate."
+        }
+      ]
+    }
+  ]
+}

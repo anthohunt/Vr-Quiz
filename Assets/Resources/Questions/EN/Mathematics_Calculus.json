@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the derivative of x^2?",
+            "TrueAnswer": "2x",
+            "FalseAnswer": [
+              "x^2",
+              "x",
+              "x^3"
+            ],
+            "Explanation": "The derivative of x^2 is 2x. In general, the power rule states that the derivative of x^n is nx^(n-1)."
+          },
+          {
+            "Question": "In integration, what operation is the reverse of differentiation?",
+            "TrueAnswer": "Anti-differentiation",
+            "FalseAnswer": [
+              "Exponentiation",
+              "Logarithm",
+              "Substitution"
+            ],
+            "Explanation": "The reverse operation of differentiation is anti-differentiation, or finding the integral. It is denoted by the integral symbol ∫."
+          },
+          {
+            "Question": "What does lim(x->3) (2x+1) equal?",
+            "TrueAnswer": "7",
+            "FalseAnswer": [
+              "12",
+              "5",
+              "0"
+            ],
+            "Explanation": "The limit of (2x+1) as x approaches 3 is 7. Evaluating limits helps determine the behavior of functions around specific points."
+          },
+          {
+            "Question": "What is the area under the curve of y = x^2 from x=0 to x=2?",
+            "TrueAnswer": "4/3",
+            "FalseAnswer": [
+              "2",
+              "8/3",
+              "1"
+            ],
+            "Explanation": "The area under the curve y = x^2 from x=0 to x=2 is 4/3. This can be solved using definite integrals."
+          },
+          {
+            "Question": "When does the derivative of a function represent the rate of change?",
+            "TrueAnswer": "At a specific point or instant",
+            "FalseAnswer": [
+              "Over an interval",
+              "At the mean value",
+              "At the maximum value"
+            ],
+            "Explanation": "The derivative of a function represents the rate of change at a specific point or instant, providing insight into the function's behavior."
+          },
+          {
+            "Question": "What is the formula for the derivative of sin(x)?",
+            "TrueAnswer": "cos(x)",
+            "FalseAnswer": [
+              "sin(x)",
+              "-sin(x)",
+              "-cos(x)"
+            ],
+            "Explanation": "The derivative of sin(x) is cos(x). It exemplifies the derivative of trigonometric functions with specific differentiation rules."
+          },
+          {
+            "Question": "Which rule is used to find the derivative of e^x?",
+            "TrueAnswer": "The exponential function rule",
+            "FalseAnswer": [
+              "The product rule",
+              "The power rule",
+              "The quotient rule"
+            ],
+            "Explanation": "The derivative of e^x is found using the exponential function rule, which states that the derivative of e^x is e^x itself."
+          },
+          {
+            "Question": "What is the derivative of ln(x)?",
+            "TrueAnswer": "1/x",
+            "FalseAnswer": [
+              "x",
+              "ln(x)^2",
+              "2/x"
+            ],
+            "Explanation": "The derivative of ln(x) is 1/x. It is one of the fundamental derivatives involving natural logarithmic functions."
+          },
+          {
+            "Question": "What does lim(x->0) (sin(x)/x) equal?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "0",
+              "∞",
+              "π"
+            ],
+            "Explanation": "The limit of sin(x)/x as x approaches 0 is 1. This is a fundamental limit important in calculus and trigonometry."
+          },
+          {
+            "Question": "What technique is used to find the area between two curves?",
+            "TrueAnswer": "Integration",
+            "FalseAnswer": [
+              "Differentiation",
+              "Substitution",
+              "Series expansion"
+            ],
+            "Explanation": "To find the area between two curves, integration is used, specifically with the concept of finding the difference between the two curve functions."
+          },
+          {
+            "Question": "What does d/dx (x^n) equal?",
+            "TrueAnswer": "nx^(n-1)",
+            "FalseAnswer": [
+              "nx^n",
+              "n-1*x^(n-1)",
+              "x^(n-1)"
+            ],
+            "Explanation": "The derivative of x^n with respect to x is nx^(n-1). This follows the power rule for differentiation in calculus."
+          },
+          {
+            "Question": "When is a function continuous on a closed interval [a, b]?",
+            "TrueAnswer": "When it is continuous at every point in (a, b), and at a and b",
+            "FalseAnswer": [
+              "When it is differentiable",
+              "When it has no sharp turns",
+              "When it has maxima and minima"
+            ],
+            "Explanation": "A function is continuous on a closed interval [a, b] if it is continuous at every point in the open interval (a, b) and at a and b. This ensures no breaks or jumps in the graph."
+          },
+          {
+            "Question": "What is the second derivative of f(x) = x^3?",
+            "TrueAnswer": "6x",
+            "FalseAnswer": [
+              "x^2",
+              "3x^2",
+              "6"
+            ],
+            "Explanation": "The second derivative of f(x) = x^3 is 6x. It represents the rate of change of the rate of change, providing insights into the behavior of the function."
+          },
+          {
+            "Question": "What can the second derivative convey about a function?",
+            "TrueAnswer": "Concavity",
+            "FalseAnswer": [
+              "Slope",
+              "Area",
+              "Roots"
+            ],
+            "Explanation": "The second derivative conveys information about the concavity of a function, indicating whether the graph is bending upward or downward at a specific point."
+          },
+          {
+            "Question": "What does the right-hand limit as x approaches c+ of f(x) convey?",
+            "TrueAnswer": "The behavior of the function as x approaches c from the right",
+            "FalseAnswer": [
+              "The area under the curve",
+              "The slope of the tangent",
+              "The local extrema"
+            ],
+            "Explanation": "The right-hand limit as x approaches c+ of f(x) describes the behavior of the function as x approaches the specific value c from the right-hand side, offering insights into the function's continuity."
+          },
+          {
+            "Question": "What is the area under the curve of y = ln(x) from x=1 to x=e?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "e",
+              "0",
+              "2"
+            ],
+            "Explanation": "The area under the curve y = ln(x) from x=1 to x=e is 1. This can be found using definite integrals, providing insights into the natural logarithmic function."
+          },
+          {
+            "Question": "What is the derivative of cos(x)?",
+            "TrueAnswer": "-sin(x)",
+            "FalseAnswer": [
+              "cos(x)",
+              "sin(x)",
+              "-cos(x)"
+            ],
+            "Explanation": "The derivative of cos(x) is -sin(x). It aligns with the differentiation rule for trigonometric functions and has implications in various fields, including physics and engineering."
+          },
+          {
+            "Question": "What is the result of d/dx (e^(-2x))?",
+            "TrueAnswer": "-2e^(-2x)",
+            "FalseAnswer": [
+              "2e^(-2x)",
+              "-e^(2x)",
+              "e^(-2x)"
+            ],
+            "Explanation": "The derivative of e^(-2x) is -2e^(-2x). This illustrates the differentiation rule for the exponential function with a negative exponent."
+          },
+          {
+            "Question": "What is the integral of 2x with respect to x?",
+            "TrueAnswer": "x^2 + C",
+            "FalseAnswer": [
+              "2x^2",
+              "2",
+              "2x + C"
+            ],
+            "Explanation": "The integral of 2x with respect to x is x^2 + C, where C represents the constant of integration. It showcases the power rule of integration."
+          },
+          {
+            "Question": "In calculus, what is the process called to find maximum and minimum values of a function?",
+            "TrueAnswer": "Optimization",
+            "FalseAnswer": [
+              "Differentiation",
+              "Integration",
+              "Limit evaluation"
+            ],
+            "Explanation": "The process in calculus to find maximum and minimum values of a function is called optimization, involving techniques such as finding critical points and using the first or second derivative tests."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le concept qui représente l'interaction entre des décideurs rationnels en théorie des jeux ?",
+            "TrueAnswer": "Équilibre de Nash",
+            "FalseAnswer": [
+              "Efficacité de Pareto",
+              "Jeu à somme nulle",
+              "Stratégie dominante"
+            ],
+            "Explanation": "L'équilibre de Nash est un concept de solution représentant un état stable où aucun joueur n'a intérêt à changer sa stratégie."
+          },
+          {
+            "Question": "En théorie des jeux, quel type de jeu implique deux joueurs aux intérêts conflictuels ?",
+            "TrueAnswer": "Jeu à somme nulle",
+            "FalseAnswer": [
+              "Jeu coopératif",
+              "Jeu simultané",
+              "Jeu séquentiel"
+            ],
+            "Explanation": "Dans un jeu à somme nulle, le gain total est constant et la perte d'un joueur est le gain de l'autre."
+          },
+          {
+            "Question": "Quel mathématicien a introduit le concept de 'paradoxe de la rationalité' en théorie des jeux ?",
+            "TrueAnswer": "John Nash",
+            "FalseAnswer": [
+              "John von Neumann",
+              "Oskar Morgenstern",
+              "Robert Axelrod"
+            ],
+            "Explanation": "John Nash a introduit le concept de paradoxe de la rationalité dans ses travaux sur les jeux non coopératifs, pour lesquels il a remporté le prix Nobel d'économie en 1994."
+          },
+          {
+            "Question": "En théorie des jeux, à quoi fait référence l'efficacité de Pareto ?",
+            "TrueAnswer": "Résultat où aucun participant ne peut être amélioré sans que quelqu'un d'autre ne soit dégradé",
+            "FalseAnswer": [
+              "Maximiser les gains individuels",
+              "Équilibre parfait",
+              "Stratégie dominée"
+            ],
+            "Explanation": "L'efficacité de Pareto représente une allocation des ressources ou un résultat où la situation d'aucun individu ne peut être améliorée sans dégrader celle de quelqu'un d'autre."
+          },
+          {
+            "Question": "Que représente le 'jeu du centipède' en théorie des jeux ?",
+            "TrueAnswer": "Le concept d'induction rétrospective",
+            "FalseAnswer": [
+              "Stratégie mixte",
+              "Jeux coopératifs",
+              "Équilibre séquentiel"
+            ],
+            "Explanation": "Le jeu du centipède est souvent utilisé pour illustrer le concept d'induction rétrospective, un processus de raisonnement en remontant dans le temps."
+          },
+          {
+            "Question": "Selon la théorie des jeux, quelle est une 'stratégie dominante' pour un joueur ?",
+            "TrueAnswer": "Stratégie qui est meilleure que toute autre stratégie, quelles que soient les actions des autres joueurs",
+            "FalseAnswer": [
+              "Équilibre de Nash",
+              "Stratégie strictement dominante",
+              "Stratégie mixte"
+            ],
+            "Explanation": "Une stratégie dominante est celle qui rapporte un gain supérieur à toute autre stratégie, quelles que soient les stratégies choisies par les autres joueurs."
+          },
+          {
+            "Question": "Que représente le 'dilemme du prisonnier' en théorie des jeux ?",
+            "TrueAnswer": "Une situation où des individus choisissent de ne pas coopérer, malgré un bénéfice potentiel",
+            "FalseAnswer": [
+              "Stratégie du donnant-donnant",
+              "Situation gagnant-gagnant",
+              "Théorème de Coase"
+            ],
+            "Explanation": "Le dilemme du prisonnier est un exemple de jeu dans lequel les joueurs ont tendance à ne pas coopérer, même s'il serait dans leur intérêt de le faire."
+          },
+          {
+            "Question": "Qu'est-ce que le 'théorème minimax' en théorie des jeux ?",
+            "TrueAnswer": "Un principe fondamental pour la prise de décision en situation d'incertitude",
+            "FalseAnswer": [
+              "Stratégie de maximin",
+              "Principe du point-selle",
+              "Équilibre bayésien"
+            ],
+            "Explanation": "Le théorème minimax fournit une méthode pour déterminer une stratégie optimale dans les jeux où les adversaires ont des intérêts conflictuels."
+          },
+          {
+            "Question": "Quel concept en théorie des jeux implique la formation de coalitions pour maximiser les gains collectifs ?",
+            "TrueAnswer": "Jeu coopératif",
+            "FalseAnswer": [
+              "Jeu simultané",
+              "Théorème folklorique",
+              "Efficacité de Pareto"
+            ],
+            "Explanation": "La théorie des jeux coopératifs traite des situations où des groupes de joueurs peuvent conclure des accords contraignants pour atteindre des résultats impossibles à obtenir dans les jeux non coopératifs."
+          },
+          {
+            "Question": "Que signifie 'information parfaite' dans le contexte de la théorie des jeux ?",
+            "TrueAnswer": "Connaissance complète et précise du jeu",
+            "FalseAnswer": [
+              "Information asymétrique",
+              "Information imparfaite",
+              "Information incomplète"
+            ],
+            "Explanation": "L'information parfaite implique que les joueurs ont accès à toutes les informations pertinentes sur le jeu, y compris les stratégies et les gains des autres joueurs."
+          },
+          {
+            "Question": "Quel théorème fournit une méthode pour déterminer une stratégie rationnelle dans les jeux à somme nulle ?",
+            "TrueAnswer": "Théorème minimax",
+            "FalseAnswer": [
+              "Optimalité de Pareto",
+              "Théorème de l'équilibre",
+              "Solution de négociation de Nash"
+            ],
+            "Explanation": "Le théorème minimax fournit une stratégie pour minimiser les pertes potentielles, en supposant qu'un adversaire s'efforce de les maximiser dans un jeu à somme nulle."
+          },
+          {
+            "Question": "Quel terme désigne une stratégie qui maximise le gain à travers toutes les actions possibles d'un adversaire ?",
+            "TrueAnswer": "Point-selle",
+            "FalseAnswer": [
+              "Équilibre en stratégies mixtes",
+              "Équilibre de Nash en stratégies mixtes",
+              "Stratégie de maximin"
+            ],
+            "Explanation": "Dans un jeu à somme nulle à deux joueurs, une stratégie en point-selle est celle qui garantit le gain maximum du joueur, quelle que soit l'action de l'adversaire."
+          },
+          {
+            "Question": "Quel terme désigne une stratégie qui garantit le gain le plus élevé possible lorsque l'adversaire est rationnel ?",
+            "TrueAnswer": "Maximin",
+            "FalseAnswer": [
+              "Minimax",
+              "Équilibre optimal",
+              "Équilibre de Stackelberg"
+            ],
+            "Explanation": "Une stratégie de maximin vise à obtenir le meilleur résultat en supposant que l'adversaire agira rationnellement pour minimiser les gains du joueur."
+          },
+          {
+            "Question": "Dans le contexte de la théorie des jeux, à quoi fait référence 'l'information asymétrique' ?",
+            "TrueAnswer": "Différences de niveaux de connaissance entre les joueurs sur le jeu",
+            "FalseAnswer": [
+              "Information complète",
+              "Collusion",
+              "Jeu simultané"
+            ],
+            "Explanation": "L'information asymétrique survient lorsque certains joueurs ont plus ou de meilleures informations que d'autres, ce qui influe sur la prise de décision et les résultats dans les jeux."
+          },
+          {
+            "Question": "Quel concept en théorie des jeux traite de l'interaction stratégique entre plusieurs décideurs ?",
+            "TrueAnswer": "Jeu",
+            "FalseAnswer": [
+              "Matrice de gains",
+              "Équilibre bayésien parfait",
+              "Concurrence imparfaite"
+            ],
+            "Explanation": "Un jeu en théorie des jeux fait référence à une situation impliquant une interaction stratégique entre des décideurs rationnels, cherchant chacun à maximiser leurs gains."
+          },
+          {
+            "Question": "Quel est le principe principal derrière la stratégie 'regret minimax' en théorie des jeux ?",
+            "TrueAnswer": "Minimiser le regret maximal pour chaque action possible",
+            "FalseAnswer": [
+              "Maximiser le gain potentiel",
+              "Satisficing",
+              "Équilibre de Nash"
+            ],
+            "Explanation": "La stratégie de regret minimax vise à minimiser le regret maximal qui pourrait être subi en choisissant une action parmi plusieurs alternatives."
+          },
+          {
+            "Question": "Quel concept en théorie des jeux implique la détermination des stratégies optimales dans la prise de décisions avec une information incomplète ?",
+            "TrueAnswer": "Équilibre bayésien",
+            "FalseAnswer": [
+              "Stratégie mixte",
+              "Attentes cohérentes",
+              "Connaissance commune"
+            ],
+            "Explanation": "L'équilibre bayésien fournit un concept de solution pour les jeux avec une information incomplète, où les joueurs ont des croyances sur la probabilité de différents types d'adversaires."
+          },
+          {
+            "Question": "Quelle est la condition pour un 'équilibre parfait en sous-jeu' en théorie des jeux ?",
+            "TrueAnswer": "Les stratégies doivent également former un équilibre dans chaque continuation possible du jeu",
+            "FalseAnswer": [
+              "Efficacité de Pareto",
+              "Stratégie dominante",
+              "Coup simultané"
+            ],
+            "Explanation": "Un équilibre parfait en sous-jeu exige que les stratégies soient un équilibre non seulement au nœud initial, mais aussi à chaque point de décision ultérieur."
+          },
+          {
+            "Question": "En théorie des jeux, que signifie 'jeu répété' ?",
+            "TrueAnswer": "Le même jeu est joué à maintes reprises, permettant des effets de réputation et de coopération",
+            "FalseAnswer": [
+              "Jeu ponctuel",
+              "Collusion",
+              "Équilibre séquentiel"
+            ],
+            "Explanation": "Les jeux répétés impliquent que les joueurs participent au même jeu à plusieurs reprises, ce qui influe sur les stratégies car les joueurs tiennent compte de l'impact de leurs décisions sur les interactions futures."
+          },
+          {
+            "Question": "Quel concept en théorie des jeux traite de l'étude des dilemmes sociaux et de la coopération ?",
+            "TrueAnswer": "Jeu de biens publics",
+            "FalseAnswer": [
+              "Concurrence de Bertrand",
+              "Concurrence de Stackelberg",
+              "Duopole de Cournot"
+            ],
+            "Explanation": "Le jeu de biens publics étudie comment les individus choisissent de contribuer à un bien public, abordant les défis de la coopération et des dilemmes sociaux."
+          }
+        ]
+      }
+    }
+  ]
+}

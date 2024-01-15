@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3862577046839611763
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5173100841341522970}
+  - component: {fileID: 8331500249055215644}
+  m_Layer: 0
+  m_Name: Fashion_and_Design_Haute_Couture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5173100841341522970
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3862577046839611763}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8331500249055215644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3862577046839611763}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which fashion designer popularized the concept of Haute Couture?
+      TrueAnswer: Charles Frederick Worth
+      FalseAnswer:
+      - Coco Chanel
+      - Gianni Versace
+      - Ralph Lauren
+      Explanation: Charles Frederick Worth is considered the father of Haute Couture,
+        setting the standard for high fashion in the 19th century Paris.
+    - Question: What is the main focus of Haute Couture fashion?
+      TrueAnswer: Custom-made and high-quality garments
+      FalseAnswer:
+      - Mass production and affordability
+      - Casual and everyday wear
+      - Sustainable and eco-friendly materials
+      Explanation: Haute Couture emphasizes bespoke, handcrafted clothing tailored
+        to individual clients and crafted with exquisite materials and intricate
+        techniques.
+    - Question: Which prestigious organization regulates the official Haute Couture
+        designation?
+      TrueAnswer: Chambre Syndicale de la Haute Couture
+      FalseAnswer:
+      - Fashion Nova
+      - H&M
+      - Zara
+      Explanation: The Chambre Syndicale de la Haute Couture in Paris grants the
+        official Haute Couture appellation, ensuring adherence to strict criteria
+        and standards.
+    - Question: When and where does the Haute Couture Fashion Week take place annually?
+      TrueAnswer: Paris in January and July
+      FalseAnswer:
+      - Milan in March and September
+      - London in April and October
+      - New York in February and August
+      Explanation: The Haute Couture Fashion Week occurs in Paris in January and
+        July, showcasing the industry's most luxurious and exclusive fashion creations.
+    - Question: What is the approximate minimum number of hours required to create
+        a Haute Couture dress?
+      TrueAnswer: 100 hours
+      FalseAnswer:
+      - 25 hours
+      - 50 hours
+      - 150 hours
+      Explanation: Crafting a Haute Couture dress demands meticulous attention to
+        detail, with skilled artisans dedicating about 100 hours to its creation.
+    - Question: Which iconic fashion house is renowned for its opulent and avant-garde
+        Haute Couture designs?
+      TrueAnswer: Christian Dior
+      FalseAnswer:
+      - Gap
+      - Zara
+      - H&M
+      Explanation: Christian Dior's Haute Couture collections are celebrated for
+        their glamour, sophistication, and innovative aesthetics, transforming the
+        fashion landscape.
+    - Question: What defines a garment as Haute Couture?
+      TrueAnswer: Meeting specific criteria set by the Chambre Syndicale de la Haute
+        Couture
+      FalseAnswer:
+      - High price point
+      - Being designer-branded
+      - Use of natural fabrics only
+      Explanation: Haute Couture garments must adhere to strict guidelines and craftsmanship,
+        ensuring exceptional quality, exclusivity, and precision in design and production.
+    - Question: Which term best describes the essence of Haute Couture?
+      TrueAnswer: Luxury
+      FalseAnswer:
+      - Affordability
+      - Minimalism
+      - Functionality
+      Explanation: Haute Couture epitomizes luxury, offering an immersive experience
+        of elegance, refinement, and impeccable craftsmanship in fashion.
+    - Question: Who was the first female couturier to establish an influential Haute
+        Couture fashion house?
+      TrueAnswer: Madeleine Vionnet
+      FalseAnswer:
+      - Donatella Versace
+      - Stella McCartney
+      - Vera Wang
+      Explanation: Madeleine Vionnet, known for bias cut and fluid silhouettes, founded
+        her eponymous Haute Couture house in 1912, revolutionizing women's fashion.
+    - Question: Which aspect distinguishes Haute Couture from other fashion categories?
+      TrueAnswer: Exceptional attention to craftsmanship and detail
+      FalseAnswer:
+      - Mass marketing and accessibility
+      - Trend-focused designs
+      - Ready-to-wear collections
+      Explanation: Haute Couture sets itself apart through its dedicated focus on
+        artisanal skills, intricate embellishments, and personalized tailoring, showcasing
+        unparalleled quality and innovation.
+    - Question: What is the maximum number of official Haute Couture houses in Paris?
+      TrueAnswer: 16
+      FalseAnswer:
+      - 8
+      - 12
+      - 20
+      Explanation: As of today, there are 16 official Haute Couture houses in Paris
+        recognized by the Chambre Syndicale de la Haute Couture.
+    - Question: Which historical period marked the emergence of the Haute Couture
+        industry in Paris?
+      TrueAnswer: 19th century
+      FalseAnswer:
+      - 15th century
+      - 17th century
+      - 20th century
+      Explanation: "The opulent reign of Empress Eug\xE9nie during the mid-19th century
+        served as a catalyst for the growth and prestige of the Haute Couture industry
+        in Paris."
+    - Question: What was the main purpose of the original Haute Couture ateliers?
+      TrueAnswer: Serving the aristocracy and royalty
+      FalseAnswer:
+      - Promoting mass consumerism
+      - Supporting sustainable practices
+      - Creating affordable fashion for all
+      Explanation: The ateliers catered exclusively to the affluent elite, crafting
+        bespoke garments for noble clientele, symbolizing luxury and exclusivity.
+    - Question: Who is widely recognized as the first true fashion designer and couturier?
+      TrueAnswer: Rose Bertin
+      FalseAnswer:
+      - "Crist\xF3bal Balenciaga"
+      - Yves Saint Laurent
+      - Hedi Slimane
+      Explanation: Rose Bertin was the personal dressmaker and stylist to Queen Marie
+        Antoinette, forging the role of a modern fashion designer and establishing
+        a fashion empire in the 18th century Paris.
+    - Question: Which attribute characterizes the intricate craftsmanship of Haute
+        Couture?
+      TrueAnswer: Hand-sewn and embellished details
+      FalseAnswer:
+      - Mass-produced machine stitching
+      - Generic fabric selection
+      - Lack of embellishments and ornaments
+      Explanation: The labor-intensive artistry of Haute Couture involves meticulous
+        handwork, intricate embroidery, and the use of lavish materials, elevating
+        garments to wearable masterpieces.
+    - Question: Which element reflects the exclusivity of Haute Couture boutiques?
+      TrueAnswer: Private and invitation-only clientele
+      FalseAnswer:
+      - Open to the general public
+      - Online retail availability
+      - Discounts and promotions
+      Explanation: Haute Couture boutiques uphold an aura of distinction and prestige,
+        often operating on an appointment-only basis for a selective and elite clientele.
+    - Question: What role does the term 'Haute Couture' play in the fashion industry
+        today?
+      TrueAnswer: Symbolizes the pinnacle of luxury and craftsmanship
+      FalseAnswer:
+      - Represents mass-produced designer fashion
+      - Emphasizes affordability and accessibility
+      - Focuses on casual and streetwear trends
+      Explanation: Haute Couture continues to epitomize exclusivity, creativity,
+        and tradition, shaping the highest expression of sartorial artistry and innovation
+        in modern fashion.
+    - Question: Which iconic fashion figure is credited with reviving Haute Couture
+        in the post-war era?
+      TrueAnswer: Christian Dior
+      FalseAnswer:
+      - Coco Chanel
+      - Yves Saint Laurent
+      - Hubert de Givenchy
+      Explanation: After World War II, Christian Dior's 'New Look' collection redefined
+        luxury fashion, rejuvenating the Haute Couture industry with its lavish and
+        feminine silhouettes.
+    - Question: What role do fashion shows play in promoting Haute Couture collections?
+      TrueAnswer: Showcases exquisite craftsmanship and artistic vision
+      FalseAnswer:
+      - Offers mass market discounts and promotions
+      - Focuses on fast fashion and quick turnover
+      - Targets casual and everyday wear
+      Explanation: Fashion shows serve as immersive experiences, unveiling the artistry
+        and innovation behind Haute Couture designs, capturing the imagination of
+        discerning clientele and global fashion enthusiasts.

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Qu'est-ce que les cartographes utilisent pour représenter l'élévation sur les cartes?",
+            "TrueAnswer": "Lignes de contour",
+            "FalseAnswer": [
+              "Lignes de latitude",
+              "Lignes de longitude",
+              "L'équateur"
+            ],
+            "Explanation": "Les lignes de contour sont utilisées pour représenter l'élévation et la forme du terrain sur les cartes topographiques, permettant une interprétation visuelle du terrain."
+          },
+          {
+            "Question": "Quel type de carte montre les contours et les élévations terrestres?",
+            "TrueAnswer": "Carte topographique",
+            "FalseAnswer": [
+              "Carte politique",
+              "Carte physique",
+              "Carte routière"
+            ],
+            "Explanation": "Les cartes topographiques affichent la forme et l'élévation de la surface terrestre en utilisant des lignes de contour, facilitant la navigation et l'analyse géographique."
+          },
+          {
+            "Question": "Quelle projection cartographique est la plus couramment utilisée pour les cartes du monde?",
+            "TrueAnswer": "Projection de Mercator",
+            "FalseAnswer": [
+              "Projection gnomonique",
+              "Projection de Robinson",
+              "Projection de Mollweide"
+            ],
+            "Explanation": "La projection de Mercator, développée en 1569, est utilisée pour les cartes du monde en raison de sa précision à conserver les lignes droites et les angles, mais elle distord la taille près des pôles."
+          },
+          {
+            "Question": "Quel type de carte affiche les caractéristiques créées par l'homme telles que les routes et les bâtiments?",
+            "TrueAnswer": "Carte routière",
+            "FalseAnswer": [
+              "Carte physique",
+              "Carte thématique",
+              "Carte cadastrale"
+            ],
+            "Explanation": "Les cartes routières se concentrent sur les zones urbaines ou suburbaines, mettant en évidence les rues, les bâtiments et les points d'intérêt pour faciliter la navigation et la planification urbaine."
+          },
+          {
+            "Question": "Quel est l'objectif d'une carte nautique?",
+            "TrueAnswer": "La navigation en mer",
+            "FalseAnswer": [
+              "La prévision météorologique",
+              "L'astronomie",
+              "L'arpentage géologique"
+            ],
+            "Explanation": "Les cartes nautiques fournissent des informations essentielles pour une navigation sûre en mer, notamment les profondeurs d'eau, les caractéristiques côtières et les dangers de navigation."
+          },
+          {
+            "Question": "Quelle méthode est couramment utilisée pour la cartographie GPS précise?",
+            "TrueAnswer": "Trilatération",
+            "FalseAnswer": [
+              "Triangulation",
+              "Bilatération",
+              "Positionnement de pseudodistance"
+            ],
+            "Explanation": "La trilatération, en utilisant la distance depuis au moins trois satellites pour déterminer la position d'un récepteur, est une technique clé dans la cartographie basée sur le GPS."
+          },
+          {
+            "Question": "Quel type de carte se concentre sur un thème spécifique, tel que la densité de population?",
+            "TrueAnswer": "Carte thématique",
+            "FalseAnswer": [
+              "Carte géologique",
+              "Carte climatique",
+              "Carte topographique"
+            ],
+            "Explanation": "Les cartes thématiques visualisent des thèmes ou phénomènes géographiques spécifiques, tels que la répartition de la population, les schémas climatiques ou l'activité économique."
+          },
+          {
+            "Question": "Quelle projection préserve une taille relative précise mais déforme la forme?",
+            "TrueAnswer": "Projection gnomonique",
+            "FalseAnswer": [
+              "Projection conique",
+              "Projection cylindrique",
+              "Projection de Robinson"
+            ],
+            "Explanation": "La projection gnomonique représente précisément les tailles relatives des caractéristiques mais déforme les formes, communément utilisée en navigation et en astronomie."
+          },
+          {
+            "Question": "Comment s'appelle l'étude et la pratique de la création de cartes?",
+            "TrueAnswer": "Cartographie",
+            "FalseAnswer": [
+              "Géodésie",
+              "Géographie",
+              "Topographie"
+            ],
+            "Explanation": "La cartographie implique la conception, la production et l'interprétation de cartes, intégrant des éléments d'art, de science et de technologie pour une communication efficace des informations spatiales."
+          },
+          {
+            "Question": "Quel type de carte montre principalement les caractéristiques physiques naturelles d'une zone?",
+            "TrueAnswer": "Carte physique",
+            "FalseAnswer": [
+              "Carte thématique",
+              "Carte politique",
+              "Carte satellite"
+            ],
+            "Explanation": "Les cartes physiques mettent l'accent sur les formes naturelles telles que les montagnes, les rivières et les étendues d'eau, offrant un aperçu de la géographie physique de la Terre."
+          },
+          {
+            "Question": "Quelle est l'unité standard utilisée pour mesurer la distance sur une carte?",
+            "TrueAnswer": "Échelle",
+            "FalseAnswer": [
+              "Légende",
+              "Clé",
+              "Boussole"
+            ],
+            "Explanation": "L'échelle sur une carte fournit le rapport entre une distance sur la carte et la distance correspondante sur le terrain, facilitant la mesure précise de la distance."
+          },
+          {
+            "Question": "Quel instrument est utilisé pour déterminer les directions sur une carte?",
+            "TrueAnswer": "Boussole",
+            "FalseAnswer": [
+              "Sextant",
+              "Alidade",
+              "Théodolite"
+            ],
+            "Explanation": "Une boussole, contenant un aiguille magnétisée alignée sur le champ magnétique de la Terre, indique la direction du nord, aidant à l'orientation et à la navigation sur une carte."
+          },
+          {
+            "Question": "Quelle organisation fixe les normes pour la cartographie et les données géospatiales?",
+            "TrueAnswer": "Organisation internationale de normalisation",
+            "FalseAnswer": [
+              "Nations Unies",
+              "Société géologique d'Amérique",
+              "National Geographic Society"
+            ],
+            "Explanation": "L'Organisation internationale de normalisation (ISO) fournit des directives pour la cartographie, les données géospatiales et la représentation cartographique afin d'assurer une cohérence et une précision internationales."
+          },
+          {
+            "Question": "Quelle est la ligne de longitude opposée au méridien de Greenwich?",
+            "TrueAnswer": "Ligne de changement de date",
+            "FalseAnswer": [
+              "Équateur",
+              "Tropique du Cancer",
+              "Tropique du Capricorne"
+            ],
+            "Explanation": "La ligne de changement de date, suivant principalement le méridien 180°, marque la frontière où la date change en voyageant vers l'est ou l'ouest, impactant l'horodatage et la cartographie."
+          },
+          {
+            "Question": "Quel outil est utilisé pour mesurer les distances sur une carte?",
+            "TrueAnswer": "Barre d'échelle",
+            "FalseAnswer": [
+              "Rapporteur",
+              "Boussole",
+              "Règle"
+            ],
+            "Explanation": "Une barre d'échelle sur une carte présente une représentation visuelle de la distance, permettant aux utilisateurs de mesurer la proportion des unités cartographiques à la distance réelle au sol."
+          },
+          {
+            "Question": "Quel type de carte affiche les limites de propriété et la propriété foncière?",
+            "TrueAnswer": "Carte cadastrale",
+            "FalseAnswer": [
+              "Carte urbaine",
+              "Carte topographique",
+              "Carte géologique"
+            ],
+            "Explanation": "Les cartes cadastrales délimitent les limites de propriété et la propriété foncière, servant d'outils fondamentaux pour la gestion foncière, la taxation et le développement immobilier."
+          },
+          {
+            "Question": "Qu'est-ce qui est utilisé pour indiquer la direction sur une carte topographique?",
+            "TrueAnswer": "Lignes de contour",
+            "FalseAnswer": [
+              "Rose des vents",
+              "Déclinaison magnétique",
+              "Échelle"
+            ],
+            "Explanation": "Les lignes de contour sur une carte topographique relient des points d'élévation égale, fournissant des indices visuels pour comprendre la forme, la pente et l'orientation du terrain."
+          },
+          {
+            "Question": "Quel est le but principal d'une projection cartographique azimutale?",
+            "TrueAnswer": "Préserver les directions à partir d'un point central",
+            "FalseAnswer": [
+              "Minimiser la distorsion de l'aire",
+              "Maintenir les formes exactes",
+              "Représentation équivalente de l'aire"
+            ],
+            "Explanation": "Les projections azimutales préservent les directions précises à partir d'un point central, couramment utilisées pour la navigation aérienne et maritime, ainsi que pour la représentation des régions polaires."
+          },
+          {
+            "Question": "Quel type de projection cartographique minimise la distorsion mais sacrifie l'exactitude de la forme et de l'échelle?",
+            "TrueAnswer": "Projection équivalente de l'aire",
+            "FalseAnswer": [
+              "Projection conforme",
+              "Projection cylindrique",
+              "Projection d'homolosine"
+            ],
+            "Explanation": "Les projections équivalentes de l'aire représentent précisément les aires et les distributions spatiales, en négligeant la forme et l'échelle proportionnelles, précieuses pour l'analyse spatiale et la cartographie thématique."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the formula to calculate the area of a rectangle?",
+          "TrueAnswer": "Length x Width",
+          "FalseAnswer": [
+            "Length + Width",
+            "Length / Width",
+            "Length - Width"
+          ],
+          "Explanation": "The area of a rectangle is calculated by multiplying its length by its width."
+        },
+        {
+          "Question": "What is the formula to calculate the circumference of a circle?",
+          "TrueAnswer": "2 x π x Radius",
+          "FalseAnswer": [
+            "π x Radius^2",
+            "π x Diameter",
+            "Radius / π"
+          ],
+          "Explanation": "The circumference of a circle is calculated by multiplying its radius by 2π."
+        },
+        {
+          "Question": "What is the formula to calculate the volume of a sphere?",
+          "TrueAnswer": "(4/3) x π x Radius^3",
+          "FalseAnswer": [
+            "π x Radius^2",
+            "(4/3) x π x Radius^2",
+            "2 x π x Radius"
+          ],
+          "Explanation": "The volume of a sphere is calculated by multiplying (4/3)π by the cube of its radius."
+        },
+        {
+          "Question": "What is the formula to calculate the area of a triangle?",
+          "TrueAnswer": "(Base x Height) / 2",
+          "FalseAnswer": [
+            "Base + Height",
+            "Base x Height",
+            "Base - Height"
+          ],
+          "Explanation": "The area of a triangle is calculated by multiplying its base by its height and dividing the result by 2."
+        },
+        {
+          "Question": "What is the formula to calculate the perimeter of a square?",
+          "TrueAnswer": "4 x Side Length",
+          "FalseAnswer": [
+            "Side Length^2",
+            "2 x Side Length",
+            "Side Length / 4"
+          ],
+          "Explanation": "The perimeter of a square is calculated by multiplying its side length by 4."
+        },
+        {
+          "Question": "What is the formula to calculate the volume of a rectangular prism?",
+          "TrueAnswer": "Length x Width x Height",
+          "FalseAnswer": [
+            "Length + Width + Height",
+            "Length / Width / Height",
+            "Length - Width - Height"
+          ],
+          "Explanation": "The volume of a rectangular prism is calculated by multiplying its length, width, and height."
+        },
+        {
+          "Question": "What is the formula to calculate the area of a circle?",
+          "TrueAnswer": "π x Radius^2",
+          "FalseAnswer": [
+            "2 x π x Radius",
+            "π x Diameter",
+            "Radius / π"
+          ],
+          "Explanation": "The area of a circle is calculated by multiplying π by the square of its radius."
+        },
+        {
+          "Question": "What is the formula to calculate the circumference of a rectangle?",
+          "TrueAnswer": "2 x (Length + Width)",
+          "FalseAnswer": [
+            "Length x Width",
+            "2 x Length",
+            "2 x Width"
+          ],
+          "Explanation": "The circumference of a rectangle is calculated by multiplying the sum of its length and width by 2."
+        },
+        {
+          "Question": "What is the formula to calculate the volume of a cone?",
+          "TrueAnswer": "(1/3) x π x Radius^2 x Height",
+          "FalseAnswer": [
+            "π x Radius^2 x Height",
+            "(1/3) x π x Radius x Height",
+            "2 x π x Radius x Height"
+          ],
+          "Explanation": "The volume of a cone is calculated by multiplying (1/3)π by the square of its radius and its height."
+        },
+        {
+          "Question": "What is the formula to calculate the area of a trapezoid?",
+          "TrueAnswer": "((Base1 + Base2) x Height) / 2",
+          "FalseAnswer": [
+            "Base1 + Base2",
+            "Base1 x Base2",
+            "Base1 - Base2"
+          ],
+          "Explanation": "The area of a trapezoid is calculated by adding the lengths of its bases, multiplying the sum by its height, and dividing the result by 2."
+        },
+        {
+          "Question": "What is the formula to calculate the perimeter of a triangle?",
+          "TrueAnswer": "Side1 + Side2 + Side3",
+          "FalseAnswer": [
+            "Side1 x Side2 x Side3",
+            "Side1 - Side2 - Side3",
+            "Side1 / Side2 / Side3"
+          ],
+          "Explanation": "The perimeter of a triangle is calculated by adding the lengths of its three sides."
+        },
+        {
+          "Question": "What is the formula to calculate the volume of a cylinder?",
+          "TrueAnswer": "π x Radius^2 x Height",
+          "FalseAnswer": [
+            "(1/3) x π x Radius^2 x Height",
+            "2 x π x Radius x Height",
+            "π x Diameter x Height"
+          ],
+          "Explanation": "The volume of a cylinder is calculated by multiplying π by the square of its radius and its height."
+        },
+        {
+          "Question": "What is the formula to calculate the area of a parallelogram?",
+          "TrueAnswer": "Base x Height",
+          "FalseAnswer": [
+            "Base + Height",
+            "Base x Height / 2",
+            "Base - Height"
+          ],
+          "Explanation": "The area of a parallelogram is calculated by multiplying its base by its height."
+        },
+        {
+          "Question": "What is the formula to calculate the circumference of a square?",
+          "TrueAnswer": "4 x Side Length",
+          "FalseAnswer": [
+            "Side Length^2",
+            "2 x Side Length",
+            "Side Length / 4"
+          ],
+          "Explanation": "The circumference of a square is calculated by multiplying its side length by 4."
+        },
+        {
+          "Question": "What is the formula to calculate the volume of a pyramid?",
+          "TrueAnswer": "(1/3) x Base Area x Height",
+          "FalseAnswer": [
+            "Base Area x Height",
+            "(1/3) x Base Area",
+            "2 x Base Area x Height"
+          ],
+          "Explanation": "The volume of a pyramid is calculated by multiplying (1/3) by the base area and its height."
+        },
+        {
+          "Question": "What is the formula to calculate the area of a rhombus?",
+          "TrueAnswer": "(Diagonal1 x Diagonal2) / 2",
+          "FalseAnswer": [
+            "Diagonal1 + Diagonal2",
+            "Diagonal1 x Diagonal2",
+            "Diagonal1 - Diagonal2"
+          ],
+          "Explanation": "The area of a rhombus is calculated by multiplying the lengths of its diagonals and dividing the result by 2."
+        },
+        {
+          "Question": "What is the formula to calculate the perimeter of a circle?",
+          "TrueAnswer": "2 x π x Radius",
+          "FalseAnswer": [
+            "π x Radius^2",
+            "π x Diameter",
+            "Radius / π"
+          ],
+          "Explanation": "The perimeter of a circle is calculated by multiplying its radius by 2π."
+        },
+        {
+          "Question": "What is the formula to calculate the volume of a rectangular pyramid?",
+          "TrueAnswer": "(1/3) x Base Area x Height",
+          "FalseAnswer": [
+            "Base Area x Height",
+            "(1/3) x Base Area",
+            "2 x Base Area x Height"
+          ],
+          "Explanation": "The volume of a rectangular pyramid is calculated by multiplying (1/3) by the base area and its height."
+        },
+        {
+          "Question": "What is the formula to calculate the area of a sector?",
+          "TrueAnswer": "(θ/360) x π x Radius^2",
+          "FalseAnswer": [
+            "θ x π x Radius^2",
+            "(θ/360) x π x Radius",
+            "2 x θ x π x Radius"
+          ],
+          "Explanation": "The area of a sector is calculated by multiplying (θ/360)π by the square of its radius, where θ is the central angle in degrees."
+        },
+        {
+          "Question": "What is the formula to calculate the circumference of an ellipse?",
+          "TrueAnswer": "2π x √((a^2 + b^2)/2)",
+          "FalseAnswer": [
+            "π x a x b",
+            "2π x a",
+            "2π x b"
+          ],
+          "Explanation": "The circumference of an ellipse is approximated by multiplying 2π by the square root of ((a^2 + b^2)/2), where a and b are the lengths of its semi-major and semi-minor axes."
+        }
+      ]
+    }
+  ]
+}

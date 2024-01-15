@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la première étape de la méthode scientifique ?",
+            "TrueAnswer": "Poser une question",
+            "FalseAnswer": [
+              "Analyser les données",
+              "Formuler une hypothèse",
+              "Créer une expérience"
+            ],
+            "Explanation": "La première étape de la méthode scientifique consiste à poser une question pour identifier le problème ou le phénomène à étudier."
+          },
+          {
+            "Question": "Quel est le but d'un groupe témoin dans une expérience ?",
+            "TrueAnswer": "Fournir une base de comparaison",
+            "FalseAnswer": [
+              "Recevoir le traitement expérimental",
+              "Tester l'hypothèse",
+              "Prouver l'hypothèse nulle"
+            ],
+            "Explanation": "Un groupe témoin est utilisé pour fournir une base de comparaison afin de voir les effets causés par le traitement expérimental."
+          },
+          {
+            "Question": "Quelle est la différence entre précision et exactitude ?",
+            "TrueAnswer": "L'exactitude est la proximité d'une mesure à la vraie valeur",
+            "FalseAnswer": [
+              "La précision est identique à l'exactitude",
+              "L'exactitude est identique à la précision",
+              "La précision est la mesure de l'exactitude"
+            ],
+            "Explanation": "L'exactitude se réfère à la proximité d'une mesure à la vraie valeur, tandis que la précision mesure la proximité entre plusieurs mesures."
+          },
+          {
+            "Question": "Quel est le but de l'évaluation par les pairs dans la recherche scientifique ?",
+            "TrueAnswer": "Garantir la qualité et la validité de la recherche",
+            "FalseAnswer": [
+              "Promouvoir la compétition entre les chercheurs",
+              "Accélérer le processus de publication",
+              "Augmenter le nombre de citations"
+            ],
+            "Explanation": "L'évaluation par les pairs aide à garantir la qualité et la validité de la recherche en demandant à des experts du même domaine d'évaluer de manière critique la recherche avant sa publication."
+          },
+          {
+            "Question": "Lequel des éléments suivants n'est pas une composante d'une expérience bien conçue ?",
+            "TrueAnswer": "Un équipement peu fiable",
+            "FalseAnswer": [
+              "Des résultats reproductibles",
+              "Des variables contrôlées",
+              "Des procédures claires"
+            ],
+            "Explanation": "L'utilisation d'un équipement peu fiable peut introduire des erreurs et affecter la précision et la fiabilité des résultats expérimentaux."
+          },
+          {
+            "Question": "Quel est le but d'une hypothèse dans la méthode scientifique ?",
+            "TrueAnswer": "Faire une prédiction testable",
+            "FalseAnswer": [
+              "Prouver une théorie",
+              "Collecter des données",
+              "Concevoir l'expérience"
+            ],
+            "Explanation": "Une hypothèse est une prédiction ou explication testable pour un phénomène, qui peut être soutenue ou rejetée par l'expérimentation et l'observation."
+          },
+          {
+            "Question": "Qu'est-ce qu'une expérience en double aveugle ?",
+            "TrueAnswer": "Ni les chercheurs ni les participants ne savent qui est dans le groupe témoin ou expérimental",
+            "FalseAnswer": [
+              "Seuls les chercheurs savent qui est dans le groupe témoin ou expérimental",
+              "Seuls les participants savent qui est dans le groupe témoin ou expérimental",
+              "Il y a deux expériences distinctes menées simultanément"
+            ],
+            "Explanation": "Dans une expérience en double aveugle, à la fois les chercheurs et les participants ne savent pas qui est dans le groupe témoin ou expérimental pour éviter les biais et l'influence subjective sur les résultats."
+          },
+          {
+            "Question": "Qu'est-ce qu'une hypothèse nulle ?",
+            "TrueAnswer": "Une déclaration qu'il n'y a pas d'effet ou de différence",
+            "FalseAnswer": [
+              "Une théorie prouvée",
+              "Une hypothèse confirmée",
+              "Une prédiction basée sur des recherches antérieures"
+            ],
+            "Explanation": "L'hypothèse nulle est une déclaration qu'il n'y a pas d'effet ou de différence, qui peut être testée par rapport à une hypothèse alternative pour déterminer la signification des résultats expérimentaux."
+          },
+          {
+            "Question": "Quelles sont les données qualitatives ?",
+            "TrueAnswer": "Des données descriptives et non numériques",
+            "FalseAnswer": [
+              "Des données numériques et mesurables",
+              "Des données statistiques",
+              "Des données binaires"
+            ],
+            "Explanation": "Les données qualitatives sont descriptives et non numériques, impliquant souvent des observations, des entretiens ou des réponses ouvertes à des enquêtes, fournissant des informations sur les raisons sous-jacentes, les opinions et les motivations."
+          },
+          {
+            "Question": "Quel est le niveau de signification dans le test d'hypothèse ?",
+            "TrueAnswer": "La probabilité de rejeter l'hypothèse nulle quand elle est vraie",
+            "FalseAnswer": [
+              "L'intervalle de confiance",
+              "La valeur p",
+              "La précision de la mesure"
+            ],
+            "Explanation": "Le niveau de signification, souvent noté alpha, est la probabilité de rejeter l'hypothèse nulle quand elle est vraie, indiquant la chance de faire une erreur de type I dans le test d'hypothèse."
+          },
+          {
+            "Question": "Qu'est-ce qu'une théorie scientifique ?",
+            "TrueAnswer": "Une explication bien étayée d'un aspect du monde naturel",
+            "FalseAnswer": [
+              "Une hypothèse non prouvée",
+              "Une conjecture aléatoire",
+              "Un avis subjectif"
+            ],
+            "Explanation": "Une théorie scientifique est une explication bien étayée d'un aspect du monde naturel, reposant sur un ensemble de preuves et ayant fait l'objet de tests et d'examens rigoureux."
+          },
+          {
+            "Question": "Quelle est la dernière étape de la méthode scientifique ?",
+            "TrueAnswer": "Tirer une conclusion",
+            "FalseAnswer": [
+              "Analyser les résultats",
+              "Collecter plus de données",
+              "Réviser l'hypothèse"
+            ],
+            "Explanation": "Tirer une conclusion implique d'analyser les données recueillies pendant l'expérience pour déterminer si l'hypothèse est soutenue ou rejetée."
+          },
+          {
+            "Question": "Quel est le but de la randomisation dans une expérience ?",
+            "TrueAnswer": "Réduire les biais et les variables de confusion",
+            "FalseAnswer": [
+              "Garantir des tailles de groupe égales",
+              "Contrôler les influences externes",
+              "Augmenter la puissance statistique"
+            ],
+            "Explanation": "La randomisation aide à réduire les biais en assignant aléatoirement les sujets à différents groupes, garantissant que toutes les variables de confusion sont également réparties entre les groupes."
+          },
+          {
+            "Question": "Quelle est la différence entre un fait et une théorie en science ?",
+            "TrueAnswer": "Un fait est une observation, tandis qu'une théorie est une explication",
+            "FalseAnswer": [
+              "Un fait est toujours vrai, tandis qu'une théorie est incertaine",
+              "Une théorie est une collection de faits",
+              "Un fait est une théorie prouvée"
+            ],
+            "Explanation": "En science, un fait est une observation objective et vérifiable, tandis qu'une théorie est une explication bien étayée du monde naturel, soutenue par un vaste ensemble de preuves."
+          },
+          {
+            "Question": "Quel est le rôle d'un modèle scientifique dans l'enquête ?",
+            "TrueAnswer": "Représenter un système ou un processus",
+            "FalseAnswer": [
+              "Prédire les résultats expérimentaux",
+              "Remplacer l'expérimentation",
+              "Prouver une hypothèse"
+            ],
+            "Explanation": "Les modèles scientifiques sont utilisés pour représenter de manière simplifiée des systèmes ou des processus complexes, facilitant la compréhension, la visualisation et la prédiction des phénomènes naturels."
+          },
+          {
+            "Question": "Quel est le but de l'analyse statistique dans la recherche scientifique ?",
+            "TrueAnswer": "Interpréter et tirer des conclusions à partir des données",
+            "FalseAnswer": [
+              "Prouver l'hypothèse",
+              "Sélectionner le plan expérimental",
+              "Tester le groupe témoin"
+            ],
+            "Explanation": "L'analyse statistique permet aux chercheurs d'analyser et d'interpréter de vastes ensembles de données, identifier des motifs ou des tendances, et tirer des conclusions significatives sur l'hypothèse de recherche."
+          },
+          {
+            "Question": "Qu'est-ce qu'une erreur systématique dans une expérience ?",
+            "TrueAnswer": "Un écart constant et prévisible par rapport à la vraie valeur",
+            "FalseAnswer": [
+              "Une fluctuation aléatoire des mesures",
+              "Une erreur accidentelle dans la procédure",
+              "Une anomalie inexpliquée dans les données"
+            ],
+            "Explanation": "Les erreurs systématiques sont des écarts constants et prévisibles par rapport à la vraie valeur, causés par des défauts dans la configuration expérimentale ou le processus de mesure, pouvant affecter la précision des résultats."
+          },
+          {
+            "Question": "Quel est le but d'une revue de la littérature dans l'enquête scientifique ?",
+            "TrueAnswer": "Fournir un contexte et des antécédents à la recherche",
+            "FalseAnswer": [
+              "Collecter des données primaires",
+              "Soutenir l'hypothèse nulle",
+              "Déterminer les variables expérimentales"
+            ],
+            "Explanation": "Une revue de la littérature résume et synthétise les recherches et connaissances existantes sur un sujet spécifique, fournissant le contexte et les antécédents de la recherche actuelle et identifiant des lacunes ou des domaines nécessitant une investigation supplémentaire."
+          },
+          {
+            "Question": "Qu'est-ce qu'une erreur de type I dans le test d'hypothèse ?",
+            "TrueAnswer": "Faux positif - rejet d'une vraie hypothèse nulle",
+            "FalseAnswer": [
+              "Faux négatif - acceptation d'une fausse hypothèse nulle",
+              "Erreur de type II",
+              "Erreur beta"
+            ],
+            "Explanation": "Une erreur de type I se produit lorsque l'hypothèse nulle vraie est incorrectement rejetée, conduisant à la conclusion qu'il existe un effet ou une différence significative alors qu'il n'y en a pas, aboutissant à un faux positif."
+          },
+          {
+            "Question": "Quel est le but d'un résumé dans un article scientifique ?",
+            "TrueAnswer": "Résumer les aspects clés de la recherche",
+            "FalseAnswer": [
+              "Présenter les résultats",
+              "Discuter de la méthodologie",
+              "Reconnaître les sources de financement"
+            ],
+            "Explanation": "Un résumé fournit un résumé concis de l'article de recherche, y compris les objectifs, la méthodologie, les résultats et les conclusions, permettant aux lecteurs de comprendre rapidement les aspects essentiels de l'étude."
+          }
+        ]
+      }
+    }
+  ]
+}

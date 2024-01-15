@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le processus de modification des gènes des organismes vivants appelé?",
+            "TrueAnswer": "Ingénierie génétique",
+            "FalseAnswer": [
+              "Sélection naturelle",
+              "Évolution",
+              "Mutation"
+            ],
+            "Explanation": "L'ingénierie génétique consiste à modifier l'ADN des organismes vivants pour créer des caractéristiques désirées, telles que la résistance aux maladies ou un rendement accru des cultures."
+          },
+          {
+            "Question": "Quel processus biotechnologique implique l'utilisation de micro-organismes pour créer des produits?",
+            "TrueAnswer": "Fermentation",
+            "FalseAnswer": [
+              "Photosynthèse",
+              "Respiration",
+              "Réplication"
+            ],
+            "Explanation": "La fermentation utilise des micro-organismes, tels que des bactéries ou des levures, pour convertir des substances telles que les sucres en alcool, en acides organiques ou en gaz."
+          },
+          {
+            "Question": "Comment s'appelle l'étude de la composition génétique et de la fonction génique des organismes?",
+            "TrueAnswer": "Génomique",
+            "FalseAnswer": [
+              "Bioinformatique",
+              "Bioremédiation",
+              "Biomimétisme"
+            ],
+            "Explanation": "La génomique consiste à analyser l'ensemble complet des gènes d'un organisme, y compris leur structure, leur fonction et leurs interactions."
+          },
+          {
+            "Question": "Quelle est la technique courante utilisée pour amplifier des séquences d'ADN spécifiques?",
+            "TrueAnswer": "Réaction de polymérase en chaîne (PCR)",
+            "FalseAnswer": [
+              "Électrophorèse",
+              "Chromatographie",
+              "Analyse par microarray"
+            ],
+            "Explanation": "La PCR est une méthode permettant de produire des millions de copies d'une séquence d'ADN spécifique, permettant une analyse détaillée ou une utilisation dans des applications de biotechnologie."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un exemple d'organisme transgénique?",
+            "TrueAnswer": "GloFish",
+            "FalseAnswer": [
+              "Rose",
+              "Banane",
+              "Chat"
+            ],
+            "Explanation": "Les GloFish sont des poissons lumineux génétiquement modifiés, souvent modifiés avec des gènes de méduses ou de coraux pour la fluorescence, ce qui en fait des animaux de compagnie populaires dans les aquariums."
+          },
+          {
+            "Question": "Comment s'appelle la collection de fragments d'ADN provenant du génome d'un organisme?",
+            "TrueAnswer": "Bibliothèque génomique",
+            "FalseAnswer": [
+              "Code génétique",
+              "Hélice d'ADN",
+              "Archive de paires de bases"
+            ],
+            "Explanation": "Une bibliothèque génomique contient l'ensemble complet des fragments d'ADN d'un organisme, permettant l'étude de gènes spécifiques ou de traits génétiques."
+          },
+          {
+            "Question": "Quelle technologie est utilisée pour analyser et manipuler des gènes et leurs fonctions?",
+            "TrueAnswer": "Technologie de l'ADN recombinant",
+            "FalseAnswer": [
+              "CRISPR",
+              "Séquençage de l'ADN",
+              "Clonage"
+            ],
+            "Explanation": "La technologie de l'ADN recombinant consiste à combiner de l'ADN provenant de différentes sources, permettant la création d'organismes génétiquement modifiés ou la production de protéines thérapeutiques."
+          },
+          {
+            "Question": "Quel est le processus de transfert de gènes dans un organisme pour produire des caractéristiques désirées?",
+            "TrueAnswer": "Modification génétique",
+            "FalseAnswer": [
+              "Mitose",
+              "Méiose",
+              "Apoptose"
+            ],
+            "Explanation": "La modification génétique consiste à introduire des gènes spécifiques dans un organisme pour modifier sa structure génétique et exprimer des caractéristiques ou fonctions désirées."
+          },
+          {
+            "Question": "Comment s'appelle l'étude de l'application de micro-organismes dans les processus industriels?",
+            "TrueAnswer": "Bioprocédé",
+            "FalseAnswer": [
+              "Conseil génétique",
+              "Pharmacogénomique",
+              "Bioremédiation"
+            ],
+            "Explanation": "Le bioprocédé se concentre sur l'utilisation de micro-organismes ou de systèmes biologiques pour la production à grande échelle de produits commerciaux, y compris des produits pharmaceutiques et des biocarburants."
+          },
+          {
+            "Question": "Quel terme fait référence à la modification intentionnelle du génome d'un organisme à l'aide de la biotechnologie?",
+            "TrueAnswer": "Édition du génome",
+            "FalseAnswer": [
+              "Recombinaison génétique",
+              "Découpage de gènes",
+              "Altération chromosomique"
+            ],
+            "Explanation": "L'édition du génome implique de modifier précisément les séquences d'ADN à l'intérieur du génome d'un organisme, permettant la modification ciblée de traits génétiques spécifiques."
+          },
+          {
+            "Question": "Comment s'appelle le processus de création de copies identiques d'un matériau biologique?",
+            "TrueAnswer": "Clonage",
+            "FalseAnswer": [
+              "Hybridation",
+              "Mutagenèse",
+              "Greffe"
+            ],
+            "Explanation": "Le clonage consiste à produire des copies génétiquement identiques d'un organisme ou d'un gène spécifique, souvent utilisé dans la recherche, l'agriculture ou les applications médicales."
+          },
+          {
+            "Question": "Quelle technique biotechnologique est utilisée pour transférer des gènes étrangers dans un organisme hôte?",
+            "TrueAnswer": "Transgenèse",
+            "FalseAnswer": [
+              "Mutagenèse",
+              "Croisement",
+              "Greffe"
+            ],
+            "Explanation": "La transgenèse consiste à introduire des gènes d'une espèce dans une autre pour conférer de nouveaux traits ou fonctions, souvent utilisée dans la création d'organismes génétiquement modifiés."
+          },
+          {
+            "Question": "Quel est le processus d'utilisation d'organismes vivants pour nettoyer la pollution environnementale?",
+            "TrueAnswer": "Bioremédiation",
+            "FalseAnswer": [
+              "Bioaugmentation",
+              "Biomimétisme",
+              "Biofiltration"
+            ],
+            "Explanation": "La bioremédiation consiste à utiliser des micro-organismes ou des plantes pour métaboliser ou dégrader les contaminants dans le sol, l'eau et l'air, aidant ainsi aux efforts de nettoyage de l'environnement."
+          },
+          {
+            "Question": "Quelle technique biotechnologique permet d'analyser et de manipuler l'ensemble complet de l'ADN d'un organisme?",
+            "TrueAnswer": "Séquençage complet du génome",
+            "FalseAnswer": [
+              "Édition de gènes",
+              "Épigénétique",
+              "Métagnomique"
+            ],
+            "Explanation": "Le séquençage complet du génome consiste à déterminer la séquence complète de l'ADN d'un organisme, fournissant des informations sur sa structure génétique et ses traits potentiels."
+          },
+          {
+            "Question": "Quel est le nom du processus utilisé pour introduire des gènes dans des cellules végétales afin de créer des cultures génétiquement modifiées?",
+            "TrueAnswer": "Transformation végétale",
+            "FalseAnswer": [
+              "Photosynthèse",
+              "Respiration",
+              "Pollinisation"
+            ],
+            "Explanation": "Les méthodes de transformation végétale permettent l'introduction de nouveaux gènes dans les cellules végétales pour conférer des caractéristiques telles que la résistance aux parasites ou une teneur nutritionnelle accrue."
+          },
+          {
+            "Question": "Quel outil biotechnologique est utilisé pour identifier et analyser les fonctions des gènes au sein d'un organisme?",
+            "TrueAnswer": "Profilage de l'expression génique",
+            "FalseAnswer": [
+              "Détermination de la structure des protéines",
+              "Ingénierie métabolique",
+              "Technique de culture cellulaire"
+            ],
+            "Explanation": "Le profilage de l'expression génique examine l'activité des gènes dans un organisme, éclairant les rôles qu'ils jouent dans le développement, la maladie ou la réponse aux stimuli environnementaux."
+          },
+          {
+            "Question": "Quel est le processus d'élevage sélectif de plantes ou d'animaux pour exprimer des traits désirés?",
+            "TrueAnswer": "Bioprospection",
+            "FalseAnswer": [
+              "Élevage transgénique",
+              "Élevage par mutagenèse",
+              "Élevage sélectif"
+            ],
+            "Explanation": "La bioprospection consiste à explorer la diversité génétique naturelle pour identifier et sélectionner des organismes possédant des propriétés précieuses, telles que des composés médicinaux ou des caractéristiques agricoles."
+          },
+          {
+            "Question": "Quelle technique biotechnologique est utilisée pour détecter la présence de séquences d'ADN spécifiques dans un échantillon?",
+            "TrueAnswer": "Hybridation d'ADN",
+            "FalseAnswer": [
+              "Interférence ARN",
+              "Édition du génome",
+              "Purification des protéines"
+            ],
+            "Explanation": "L'hybridation d'ADN consiste à apparier des séquences d'ADN simple brin pour détecter la présence de séquences complémentaires, utile pour les tests génétiques ou l'identification de variations génétiques."
+          },
+          {
+            "Question": "Quel est le processus d'utilisation de systèmes biologiques ou d'organismes vivants pour produire des biens commerciaux?",
+            "TrueAnswer": "Bioproduction",
+            "FalseAnswer": [
+              "Bioéthique",
+              "Bioprospection",
+              "Bioamélioration"
+            ],
+            "Explanation": "La bioproduction exploite des processus biologiques pour fabriquer des produits tels que des produits pharmaceutiques, des enzymes ou des biomatériaux, souvent en utilisant des organismes génétiquement modifiés ou des cultures cellulaires."
+          },
+          {
+            "Question": "Quel processus biotechnologique implique l'intégration de gènes de différentes espèces dans un seul organisme?",
+            "TrueAnswer": "Découpage de gènes",
+            "FalseAnswer": [
+              "Mutation",
+              "Consanguinité",
+              "Apoptose"
+            ],
+            "Explanation": "Le découpage de gènes incorpore du matériel génétique issu de sources diverses pour créer des organismes transgéniques avec des traits ou des fonctions nouveaux, largement utilisé en biotechnologie et en agriculture."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &973966013292464732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2802809238279689128}
+  - component: {fileID: 5780123343042114814}
+  m_Layer: 0
+  m_Name: History_Ancient Mesopotamia.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2802809238279689128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973966013292464732}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5780123343042114814
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973966013292464732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the oldest known civilization in Mesopotamia?
+      TrueAnswer: Sumerians
+      FalseAnswer:
+      - Babylonians
+      - Assyrians
+      - Persians
+      Explanation: The Sumerians are considered the oldest known civilization in
+        Mesopotamia, dating back to around 4500 BCE.
+    - Question: Which ancient Mesopotamian city was known for its Hanging Gardens?
+      TrueAnswer: Babylon
+      FalseAnswer:
+      - Ur
+      - Nineveh
+      - Eridu
+      Explanation: Babylon, under the rule of King Nebuchadnezzar II, was famous
+        for its Hanging Gardens, one of the Seven Wonders of the Ancient World.
+    - Question: What was the writing system used by ancient Mesopotamians?
+      TrueAnswer: Cuneiform
+      FalseAnswer:
+      - Hieroglyphics
+      - Alphabet
+      - Kanji
+      Explanation: Cuneiform was the writing system used by ancient Mesopotamians,
+        consisting of wedge-shaped marks on clay tablets.
+    - Question: Which ancient Mesopotamian king is known for creating the first empire?
+      TrueAnswer: Sargon of Akkad
+      FalseAnswer:
+      - Hammurabi
+      - Gilgamesh
+      - Nebuchadnezzar II
+      Explanation: Sargon of Akkad is credited with creating the first empire in
+        Mesopotamia, unifying various city-states under his rule.
+    - Question: What was the main crop grown by ancient Mesopotamians?
+      TrueAnswer: Barley
+      FalseAnswer:
+      - Wheat
+      - Rice
+      - Corn
+      Explanation: Barley was the main crop grown by ancient Mesopotamians, used
+        for making bread and brewing beer.
+    - Question: Which ancient Mesopotamian city was home to the famous Code of Hammurabi?
+      TrueAnswer: Babylon
+      FalseAnswer:
+      - Ur
+      - Nineveh
+      - Eridu
+      Explanation: Babylon was the city where the famous Code of Hammurabi, one of
+        the earliest known legal codes, was established.
+    - Question: What was the purpose of ziggurats in ancient Mesopotamia?
+      TrueAnswer: Religious ceremonies
+      FalseAnswer:
+      - Residential buildings
+      - Government offices
+      - Marketplaces
+      Explanation: Ziggurats in ancient Mesopotamia were towering structures used
+        for religious ceremonies and worship of the gods.
+    - Question: Which ancient Mesopotamian city was the capital of the Assyrian Empire?
+      TrueAnswer: Nineveh
+      FalseAnswer:
+      - Babylon
+      - Ur
+      - Eridu
+      Explanation: Nineveh served as the capital of the Assyrian Empire, known for
+        its military prowess and extensive library.
+    - Question: Who was the legendary king of Uruk in ancient Mesopotamian mythology?
+      TrueAnswer: Gilgamesh
+      FalseAnswer:
+      - Enki
+      - Marduk
+      - Ishtar
+      Explanation: Gilgamesh is the legendary king of Uruk in ancient Mesopotamian
+        mythology, known for his epic quest for immortality.
+    - Question: Which ancient Mesopotamian city was the birthplace of writing?
+      TrueAnswer: Uruk
+      FalseAnswer:
+      - Babylon
+      - Nineveh
+      - Eridu
+      Explanation: Uruk is considered the birthplace of writing in ancient Mesopotamia,
+        with the development of cuneiform script.
+    - Question: What was the purpose of the Code of Hammurabi in ancient Mesopotamia?
+      TrueAnswer: Establishing laws
+      FalseAnswer:
+      - Religious rituals
+      - Military strategies
+      - Trade regulations
+      Explanation: The Code of Hammurabi was created to establish laws and regulations
+        for ancient Mesopotamian society.
+    - Question: Which ancient Mesopotamian city was known for its ziggurat dedicated
+        to the god Marduk?
+      TrueAnswer: Babylon
+      FalseAnswer:
+      - Ur
+      - Nineveh
+      - Eridu
+      Explanation: Babylon had a famous ziggurat dedicated to the god Marduk, showcasing
+        the city's religious significance.
+    - Question: What was the main occupation of ancient Mesopotamians?
+      TrueAnswer: Agriculture
+      FalseAnswer:
+      - Trade
+      - Fishing
+      - Metalworking
+      Explanation: Agriculture was the main occupation of ancient Mesopotamians,
+        relying on the fertile land between the Tigris and Euphrates rivers.
+    - Question: Which ancient Mesopotamian city was the birthplace of Abraham, a
+        central figure in Judaism, Christianity, and Islam?
+      TrueAnswer: Ur
+      FalseAnswer:
+      - Babylon
+      - Nineveh
+      - Eridu
+      Explanation: Ur, located in southern Mesopotamia, is believed to be the birthplace
+        of Abraham, a significant figure in multiple religions.
+    - Question: What was the role of priests in ancient Mesopotamian society?
+      TrueAnswer: Intermediaries between gods and humans
+      FalseAnswer:
+      - Political leaders
+      - Military commanders
+      - Artisans
+      Explanation: Priests in ancient Mesopotamian society acted as intermediaries
+        between the gods and humans, performing religious rituals and offering prayers.
+    - Question: Which ancient Mesopotamian city was known for its ziggurat dedicated
+        to the moon god Nanna?
+      TrueAnswer: Ur
+      FalseAnswer:
+      - Babylon
+      - Nineveh
+      - Eridu
+      Explanation: Ur had a famous ziggurat dedicated to the moon god Nanna, reflecting
+        the city's religious beliefs and practices.
+    - Question: What was the role of scribes in ancient Mesopotamia?
+      TrueAnswer: Writing and record-keeping
+      FalseAnswer:
+      - Farming
+      - Trading
+      - Building
+      Explanation: Scribes in ancient Mesopotamia were responsible for writing and
+        record-keeping, maintaining important documents and administrative records.
+    - Question: Which ancient Mesopotamian city was known for its library containing
+        thousands of clay tablets?
+      TrueAnswer: Nineveh
+      FalseAnswer:
+      - Babylon
+      - Ur
+      - Eridu
+      Explanation: Nineveh had a renowned library containing thousands of clay tablets,
+        preserving a wealth of knowledge from ancient Mesopotamia.
+    - Question: What was the role of women in ancient Mesopotamian society?
+      TrueAnswer: Varied roles depending on social status
+      FalseAnswer:
+      - Strictly domestic duties
+      - No roles outside the home
+      - Military service
+      Explanation: The role of women in ancient Mesopotamian society varied depending
+        on their social status, with some engaging in business, education, and religious
+        activities.
+    - Question: Which ancient Mesopotamian city was known for its ziggurat dedicated
+        to the goddess Inanna?
+      TrueAnswer: Eridu
+      FalseAnswer:
+      - Babylon
+      - Ur
+      - Nineveh
+      Explanation: Eridu had a notable ziggurat dedicated to the goddess Inanna,
+        highlighting the city's religious significance and worship practices.
+    - Question: What was the purpose of canals in ancient Mesopotamia?
+      TrueAnswer: Irrigation and transportation
+      FalseAnswer:
+      - Defense against invaders
+      - Religious ceremonies
+      - Drainage of excess water
+      Explanation: Canals in ancient Mesopotamia served the purpose of irrigation,
+        ensuring water supply for agriculture, and transportation of goods and people.

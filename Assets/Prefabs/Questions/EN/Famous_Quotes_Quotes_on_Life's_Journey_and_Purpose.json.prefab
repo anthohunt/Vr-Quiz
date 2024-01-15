@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5116560446012715713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2488090391466408870}
+  - component: {fileID: 1893148410139302145}
+  m_Layer: 0
+  m_Name: Famous_Quotes_Quotes_on_Life's_Journey_and_Purpose.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2488090391466408870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5116560446012715713}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1893148410139302145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5116560446012715713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Mark Zuckerberg
+      - Elon Musk
+      - Bill Gates
+      Explanation: Steve Jobs, co-founder of Apple Inc., emphasized the importance
+        of passion in achieving remarkable accomplishments.
+    - Question: Which writer said, 'The purpose of our lives is to be happy'?
+      TrueAnswer: Dalai Lama
+      FalseAnswer:
+      - Maya Angelou
+      - Leo Tolstoy
+      - Ernest Hemingway
+      Explanation: Dalai Lama, the spiritual leader of Tibetan Buddhism, emphasizes
+        the pursuit of happiness as a fundamental purpose of life.
+    - Question: Who stated, 'The biggest adventure you can take is to live the life
+        of your dreams'?
+      TrueAnswer: Oprah Winfrey
+      FalseAnswer:
+      - Ellen DeGeneres
+      - Ellen Page
+      - Reese Witherspoon
+      Explanation: Oprah Winfrey, a renowned TV host and media mogul, urges individuals
+        to embrace their aspirations and create their ideal life.
+    - Question: Who said, 'The only impossible journey is the one you never begin'?
+      TrueAnswer: Tony Robbins
+      FalseAnswer:
+      - Deepak Chopra
+      - Brene Brown
+      - Eckhart Tolle
+      Explanation: Tony Robbins, a prominent life and business strategist, stresses
+        the importance of initiating one's aspirations to make them a reality.
+    - Question: Which philosopher proclaimed, 'The unexamined life is not worth living'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Aristotle
+      - Plato
+      - Confucius
+      Explanation: Socrates, a key figure in Western philosophy, emphasized the significance
+        of self-reflection and introspection in the pursuit of a meaningful existence.
+    - Question: Who stated, 'We make a living by what we get, but we make a life
+        by what we give'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Franklin D. Roosevelt
+      - Abraham Lincoln
+      - John F. Kennedy
+      Explanation: Winston Churchill, the former Prime Minister of the United Kingdom,
+        highlights the value of generosity and altruism in shaping a fulfilling life.
+    - Question: Who said, 'The purpose of our lives is to add value to the people
+        of this generation and those that follow'?
+      TrueAnswer: Vince Lombardi
+      FalseAnswer:
+      - Michael Jordan
+      - Babe Ruth
+      - Pele
+      Explanation: Vince Lombardi, a renowned football coach, expressed the importance
+        of contributing positively to society as a meaningful life purpose.
+    - Question: Which poet stated, 'To strive, to seek, to find, and not to yield'?
+      TrueAnswer: Alfred Lord Tennyson
+      FalseAnswer:
+      - William Wordsworth
+      - Percy Bysshe Shelley
+      - John Keats
+      Explanation: Alfred Lord Tennyson's poem 'Ulysses' reflects the enduring human
+        spirit, urging individuals to persist and persevere in life's journey.
+    - Question: Who said, 'Life is what happens when you're busy making other plans'?
+      TrueAnswer: John Lennon
+      FalseAnswer:
+      - Paul McCartney
+      - George Harrison
+      - Ringo Starr
+      Explanation: John Lennon, a legendary musician, emphasizes the unpredictable
+        nature of life and the importance of embracing the present moment.
+    - Question: Which author said, 'The purpose of life is not to be happy, but to
+        matter'?
+      TrueAnswer: Leo Rosten
+      FalseAnswer:
+      - J.D. Salinger
+      - Virginia Woolf
+      - F. Scott Fitzgerald
+      Explanation: Leo Rosten, a prolific writer and humorist, emphasizes the significance
+        of making meaningful contributions to the world as the true purpose of life.
+    - Question: Who stated, 'The purpose of our lives is to be happy'?
+      TrueAnswer: Dalai Lama
+      FalseAnswer:
+      - Maya Angelou
+      - Leo Tolstoy
+      - Ernest Hemingway
+      Explanation: Dalai Lama, the spiritual leader of Tibetan Buddhism, emphasizes
+        the pursuit of happiness as a fundamental purpose of life.
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Mark Zuckerberg
+      - Elon Musk
+      - Bill Gates
+      Explanation: Steve Jobs, co-founder of Apple Inc., emphasized the importance
+        of passion in achieving remarkable accomplishments.
+    - Question: Which French writer stated, 'The only true wisdom is in knowing you
+        know nothing'?
+      TrueAnswer: Voltaire
+      FalseAnswer:
+      - Rousseau
+      - "Moli\xE8re"
+      - Camus
+      Explanation: Voltaire, a prominent Enlightenment thinker, emphasizes the humbleness
+        of true wisdom, rooted in acknowledging one's limitations.
+    - Question: Who said, 'Life is 10% what happens to us and 90% how we react to
+        it'?
+      TrueAnswer: Charles R. Swindoll
+      FalseAnswer:
+      - Dale Carnegie
+      - Zig Ziglar
+      - Tony Robbins
+      Explanation: Charles R. Swindoll, an influential evangelical Christian pastor,
+        highlights the significant impact of our attitudes and responses to life's
+        challenges.
+    - Question: Which Greek philosopher stated, 'Know thyself'?
+      TrueAnswer: Socrates
+      FalseAnswer:
+      - Plato
+      - Aristotle
+      - Epicurus
+      Explanation: Socrates' famous aphorism emphasizes the importance of self-awareness
+        and self-discovery as fundamental to the human journey.
+    - Question: Who said, 'The purpose of our lives is to add value to the people
+        of this generation and those that follow'?
+      TrueAnswer: Vince Lombardi
+      FalseAnswer:
+      - Michael Jordan
+      - Babe Ruth
+      - Pele
+      Explanation: Vince Lombardi, a renowned football coach, expressed the importance
+        of contributing positively to society as a meaningful life purpose.
+    - Question: Who stated, 'We make a living by what we get, but we make a life
+        by what we give'?
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Franklin D. Roosevelt
+      - Abraham Lincoln
+      - John F. Kennedy
+      Explanation: Winston Churchill, the former Prime Minister of the United Kingdom,
+        highlights the value of generosity and altruism in shaping a fulfilling life.
+    - Question: Which writer stated, 'The purpose of our lives is to be happy'?
+      TrueAnswer: Dalai Lama
+      FalseAnswer:
+      - Maya Angelou
+      - Leo Tolstoy
+      - Ernest Hemingway
+      Explanation: Dalai Lama, the spiritual leader of Tibetan Buddhism, emphasizes
+        the pursuit of happiness as a fundamental purpose of life.
+    - Question: Who said, 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Mark Zuckerberg
+      - Elon Musk
+      - Bill Gates
+      Explanation: Steve Jobs, co-founder of Apple Inc., emphasized the importance
+        of passion in achieving remarkable accomplishments.
+    - Question: Which poet stated, 'To strive, to seek, to find, and not to yield'?
+      TrueAnswer: Alfred Lord Tennyson
+      FalseAnswer:
+      - William Wordsworth
+      - Percy Bysshe Shelley
+      - John Keats
+      Explanation: Alfred Lord Tennyson's poem 'Ulysses' reflects the enduring human
+        spirit, urging individuals to persist and persevere in life's journey.

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7303186247733525807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3677212302199437755}
+  - component: {fileID: 1778040805588749646}
+  m_Layer: 0
+  m_Name: History_Renaissance_Era.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3677212302199437755
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7303186247733525807}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1778040805588749646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7303186247733525807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who painted the famous Mona Lisa?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Raphael
+      - Titian
+      Explanation: Leonardo da Vinci painted the Mona Lisa between 1503 and 1506,
+        and it is now displayed in the Louvre Museum in Paris.
+    - Question: Which Italian city is often considered the birthplace of the Renaissance?
+      TrueAnswer: Florence
+      FalseAnswer:
+      - Venice
+      - Rome
+      - Milan
+      Explanation: Florence is known for its rich history, artistic achievements,
+        and influential Medici family, making it the center of the Renaissance.
+    - Question: Who is credited with inventing the printing press in the Renaissance
+        era?
+      TrueAnswer: Johannes Gutenberg
+      FalseAnswer:
+      - Leonardo da Vinci
+      - Galileo Galilei
+      - Isaac Newton
+      Explanation: Johannes Gutenberg's invention of the printing press in 1440 revolutionized
+        the spread of knowledge and played a key role in the Renaissance.
+    - Question: Which famous playwright lived during the Renaissance and wrote 'Romeo
+        and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Christopher Marlowe
+      - "Moli\xE8re"
+      - Dante Alighieri
+      Explanation: William Shakespeare, often referred to as the greatest playwright
+        in the English language, wrote 'Romeo and Juliet' in the late 16th century.
+    - Question: Who was the influential patron of the arts and culture during the
+        Renaissance?
+      TrueAnswer: Medici family
+      FalseAnswer:
+      - Borgias
+      - Sforza family
+      - Visconti family
+      Explanation: The Medici family, particularly Lorenzo de' Medici, played a significant
+        role in patronizing artists, scholars, and fostering cultural development
+        during the Renaissance.
+    - Question: Which Renaissance artist is known for his iconic fresco painting
+        'The Last Supper'?
+      TrueAnswer: Leonardo da Vinci
+      FalseAnswer:
+      - Michelangelo
+      - Raphael
+      - Titian
+      Explanation: Leonardo da Vinci's 'The Last Supper', a masterpiece of religious
+        art, represents the culmination of his skills in composition and perspective.
+    - Question: What was one of the consequences of the Renaissance in Europe?
+      TrueAnswer: Scientific revolution
+      FalseAnswer:
+      - Industrial revolution
+      - French Revolution
+      - Enlightenment
+      Explanation: The Renaissance's emphasis on humanism and intellectual curiosity
+        contributed to the emergence of new scientific ideas and discoveries.
+    - Question: Which architectural masterpiece in Florence is associated with the
+        Renaissance?
+      TrueAnswer: Duomo
+      FalseAnswer:
+      - Leaning Tower of Pisa
+      - Ponte Vecchio
+      - Pitti Palace
+      Explanation: The Duomo, also known as the Florence Cathedral, is a remarkable
+        Gothic-style architectural achievement that symbolizes the Renaissance spirit.
+    - Question: Who is considered a pioneering figure in the field of anatomy during
+        the Renaissance?
+      TrueAnswer: Andreas Vesalius
+      FalseAnswer:
+      - Nicolaus Copernicus
+      - Galileo Galilei
+      - Johannes Kepler
+      Explanation: Andreas Vesalius made significant contributions to the study of
+        human anatomy through his detailed anatomical illustrations and revolutionary
+        anatomical discoveries.
+    - Question: What is the name of the period in the Renaissance known for a renewed
+        interest in classical learning?
+      TrueAnswer: Humanism
+      FalseAnswer:
+      - Feudalism
+      - Baroque
+      - Enlightenment
+      Explanation: Humanism during the Renaissance emphasized the value of human
+        beings, their abilities, and the study of classical texts and philosophy.
+    - Question: Who painted the famous ceiling of the Sistine Chapel in the Vatican?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Raphael
+      - Leonardo da Vinci
+      - Donatello
+      Explanation: Michelangelo's awe-inspiring frescoes on the ceiling of the Sistine
+        Chapel depict biblical scenes and represent his remarkable talent as a painter.
+    - Question: Which mathematician and astronomer made significant contributions
+        to the Scientific Revolution during the Renaissance?
+      TrueAnswer: Galileo Galilei
+      FalseAnswer:
+      - Isaac Newton
+      - Johannes Kepler
+      - Nicolaus Copernicus
+      Explanation: Galileo Galilei's observations with the telescope and defense
+        of the heliocentric model challenged traditional views, contributing to the
+        Scientific Revolution.
+    - Question: In what city did the Black Death have a transformative impact during
+        the early Renaissance?
+      TrueAnswer: Florence
+      FalseAnswer:
+      - Venice
+      - Rome
+      - Milan
+      Explanation: The devastating effects of the Black Death in Florence led to
+        social and economic changes that influenced the city's Renaissance development.
+    - Question: Which influential philosopher and scholar wrote 'The Prince' during
+        the Renaissance?
+      TrueAnswer: "Niccol\xF2 Machiavelli"
+      FalseAnswer:
+      - Thomas More
+      - Erasmus
+      - Jean Bodin
+      Explanation: "Niccol\xF2 Machiavelli's 'The Prince' is a political treatise
+        that explores the qualities of an effective ruler and reflects the political
+        tumult of the Renaissance era."
+    - Question: Who sculpted the renowned statue of David during the Renaissance?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Donatello
+      - Leonardo da Vinci
+      - Raphael
+      Explanation: Michelangelo's marble statue of David, depicting the biblical
+        hero, showcases his mastery of sculptural form and human anatomy.
+    - Question: Which religious leader played a pivotal role in commissioning art
+        and architecture during the Renaissance?
+      TrueAnswer: Pope Julius II
+      FalseAnswer:
+      - Pope Alexander VI
+      - Pope Leo X
+      - Pope Clement VII
+      Explanation: Pope Julius II, known for his patronage of the arts, commissioned
+        significant works, including the decoration of the Sistine Chapel ceiling
+        by Michelangelo.
+    - Question: What was the term for the wealthy and influential individuals who
+        supported the arts and culture during the Renaissance?
+      TrueAnswer: Patrons
+      FalseAnswer:
+      - Artisans
+      - Reformers
+      - Scholars
+      Explanation: Patrons, often from noble or wealthy families, played a crucial
+        role in sponsoring artists, scholars, and cultural endeavors during the Renaissance.
+    - Question: Which prominent female artist gained recognition for her contributions
+        during the Renaissance?
+      TrueAnswer: Artemisia Gentileschi
+      FalseAnswer:
+      - Sofonisba Anguissola
+      - Lavinia Fontana
+      - Judith Leyster
+      Explanation: Artemisia Gentileschi, known for her powerful works and overcoming
+        societal norms, was a significant female artist of the Renaissance era.
+    - Question: What artistic technique was perfected by Renaissance painter Jan
+        van Eyck?
+      TrueAnswer: Oil painting
+      FalseAnswer:
+      - Watercolor
+      - Tempera painting
+      - Fresco
+      Explanation: Jan van Eyck's mastery of oil painting techniques, such as glazing
+        and layering, revolutionized the approach to creating vivid and detailed
+        imagery.
+    - Question: What topic did Renaissance philosopher Pico della Mirandola explore
+        in his work 'Oration on the Dignity of Man'?
+      TrueAnswer: Human potential
+      FalseAnswer:
+      - Existentialism
+      - Divine right of kings
+      - Natural law
+      Explanation: Pico della Mirandola's oration celebrates human abilities, emphasizing
+        individual freedom and potential, reflecting Renaissance humanist ideals.

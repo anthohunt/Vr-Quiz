@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1923273776699227321
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9205029662481774743}
+  - component: {fileID: 3980715958055515320}
+  m_Layer: 0
+  m_Name: Cartoons_Adult Animation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9205029662481774743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923273776699227321}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3980715958055515320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923273776699227321}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which animated series features a dysfunctional family living in the
+        fictional town of Springfield?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - Family Guy
+      - South Park
+      - Bob's Burgers
+      Explanation: The Simpsons is a long-running animated series known for its satirical
+        portrayal of American family life.
+    - Question: What is the name of the anthropomorphic horse in the animated series
+        'BoJack Horseman'?
+      TrueAnswer: BoJack
+      FalseAnswer:
+      - Mr. Peanutbutter
+      - Todd Chavez
+      - Princess Carolyn
+      Explanation: BoJack Horseman follows the life of the titular character, a washed-up
+        sitcom star who is also a horse.
+    - Question: Which adult animated series follows the adventures of a mad scientist
+        and his grandson?
+      TrueAnswer: Rick and Morty
+      FalseAnswer:
+      - Archer
+      - Futurama
+      - Big Mouth
+      Explanation: Rick and Morty is a sci-fi comedy series known for its dark humor
+        and complex storytelling.
+    - Question: What is the name of the animated series that features a talking dog
+        and his alcoholic owner?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - American Dad
+      - The Cleveland Show
+      - King of the Hill
+      Explanation: Family Guy is a satirical series that often pushes the boundaries
+        of humor and tackles controversial topics.
+    - Question: Which animated series revolves around a group of four boys and their
+        misadventures in a Colorado town?
+      TrueAnswer: South Park
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Adventure Time
+      Explanation: South Park is known for its irreverent humor and social commentary,
+        often tackling current events and controversial topics.
+    - Question: What is the name of the animated series that follows the Belcher
+        family and their burger restaurant?
+      TrueAnswer: Bob's Burgers
+      FalseAnswer:
+      - The Flintstones
+      - The Jetsons
+      - The Simpsons
+      Explanation: Bob's Burgers is a comedic series that focuses on the daily struggles
+        and adventures of the Belcher family.
+    - Question: Which animated series features a group of anthropomorphic animals
+        living in a fictional city?
+      TrueAnswer: BoJack Horseman
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - Rick and Morty
+      Explanation: BoJack Horseman explores themes of depression, addiction, and
+        existentialism through its animal characters.
+    - Question: What is the name of the animated series that follows the misadventures
+        of a group of friends in New York City?
+      TrueAnswer: Big Mouth
+      FalseAnswer:
+      - Archer
+      - Futurama
+      - Rick and Morty
+      Explanation: Big Mouth is a coming-of-age comedy that tackles puberty and sexuality
+        through its relatable and humorous characters.
+    - Question: Which animated series features a spy agency and its employees, known
+        for their dysfunctional relationships?
+      TrueAnswer: Archer
+      FalseAnswer:
+      - Family Guy
+      - Bob's Burgers
+      - South Park
+      Explanation: Archer is a spy comedy series that combines action, humor, and
+        intricate plotlines.
+    - Question: What is the name of the animated series that follows the adventures
+        of a time-traveling delivery boy?
+      TrueAnswer: Futurama
+      FalseAnswer:
+      - The Simpsons
+      - Rick and Morty
+      - South Park
+      Explanation: Futurama is a sci-fi comedy series set in the 31st century, known
+        for its clever humor and memorable characters.
+    - Question: Which animated series features a group of superhero teenagers fighting
+        crime in Jump City?
+      TrueAnswer: Teen Titans Go!
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Adventure Time
+      - South Park
+      Explanation: Teen Titans Go! is a lighthearted superhero series that combines
+        action, comedy, and pop culture references.
+    - Question: What is the name of the animated series that follows the adventures
+        of a group of magical girls?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - Teen Titans Go!
+      - Adventure Time
+      - South Park
+      Explanation: The Powerpuff Girls is a classic animated series known for its
+        blend of action, comedy, and girl power.
+    - Question: Which animated series features a dysfunctional family living in the
+        fictional town of Langley Falls?
+      TrueAnswer: American Dad
+      FalseAnswer:
+      - Family Guy
+      - The Cleveland Show
+      - King of the Hill
+      Explanation: American Dad is a satirical series that follows the Smith family
+        and their eccentric adventures.
+    - Question: What is the name of the animated series that follows the life of
+        a talking dog and his human family?
+      TrueAnswer: The Cleveland Show
+      FalseAnswer:
+      - Family Guy
+      - American Dad
+      - King of the Hill
+      Explanation: The Cleveland Show is a spin-off of Family Guy, focusing on the
+        character Cleveland Brown and his new life in Stoolbend.
+    - Question: Which animated series features a group of friends and their adventures
+        in the Land of Ooo?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - South Park
+      Explanation: Adventure Time is a fantasy series known for its colorful characters,
+        imaginative world, and epic quests.
+    - Question: What is the name of the animated series that follows the lives of
+        the Flintstone and Rubble families?
+      TrueAnswer: The Flintstones
+      FalseAnswer:
+      - The Jetsons
+      - The Simpsons
+      - Bob's Burgers
+      Explanation: The Flintstones is a classic animated series set in the Stone
+        Age, known for its humor and iconic characters.
+    - Question: Which animated series features a futuristic family living in the
+        sky city of Orbit City?
+      TrueAnswer: The Jetsons
+      FalseAnswer:
+      - The Flintstones
+      - The Simpsons
+      - Family Guy
+      Explanation: The Jetsons is a futuristic comedy series known for its imaginative
+        technology and portrayal of family life in the future.
+    - Question: What is the name of the animated series that follows the lives of
+        the Griffin family in the fictional town of Quahog?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - American Dad
+      - The Cleveland Show
+      - King of the Hill
+      Explanation: Family Guy is a satirical series that often pushes the boundaries
+        of humor and tackles controversial topics.
+    - Question: Which animated series features a group of friends and their adventures
+        in the magical land of Equestria?
+      TrueAnswer: 'My Little Pony: Friendship is Magic'
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Teen Titans Go!
+      - Adventure Time
+      Explanation: 'My Little Pony: Friendship is Magic is a colorful and positive
+        series that promotes friendship and teamwork.'
+    - Question: What is the name of the animated series that follows the lives of
+        the Hill family in the fictional town of Arlen?
+      TrueAnswer: King of the Hill
+      FalseAnswer:
+      - Family Guy
+      - American Dad
+      - The Cleveland Show
+      Explanation: King of the Hill is a slice-of-life comedy series known for its
+        realistic portrayal of suburban life in Texas.

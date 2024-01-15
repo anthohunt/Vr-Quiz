@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'ingrédient principal du plat italien risotto?",
+            "TrueAnswer": "Riz",
+            "FalseAnswer": [
+              "Pâtes",
+              "Quinoa",
+              "Couscous"
+            ],
+            "Explanation": "Le riz est l'ingrédient principal du risotto, un plat italien crémeux et riche souvent agrémenté de divers ingrédients tels que des champignons ou des fruits de mer."
+          },
+          {
+            "Question": "Quelle région en France est célèbre pour sa production de champagne?",
+            "TrueAnswer": "Champagne",
+            "FalseAnswer": [
+              "Bordeaux",
+              "Provence",
+              "Bourgogne"
+            ],
+            "Explanation": "La région Champagne en France est renommée pour la production du vin pétillant connu sous le nom de champagne, utilisant des méthodes traditionnelles pour créer sa saveur unique."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal traditionnel de la paella?",
+            "TrueAnswer": "Riz",
+            "FalseAnswer": [
+              "Couscous",
+              "Quinoa",
+              "Pâtes"
+            ],
+            "Explanation": "La paella, un plat espagnol classique, est traditionnellement préparée avec du riz et peut inclure divers ingrédients tels que du safran, des légumes, des fruits de mer ou de la viande."
+          },
+          {
+            "Question": "Quel ingrédient aromatisant est principalement utilisé dans la sauce pesto?",
+            "TrueAnswer": "Basilic",
+            "FalseAnswer": [
+              "Romarin",
+              "Thym",
+              "Origan"
+            ],
+            "Explanation": "Le basilic est l'élément essentiel de la sauce pesto, lui conférant sa saveur aromatique et fraîche distincte, souvent combiné à de l'ail, des pignons de pin et du fromage Parmesan."
+          },
+          {
+            "Question": "Lequel des fromages suivants est connu pour ses veines bleues?",
+            "TrueAnswer": "Gorgonzola",
+            "FalseAnswer": [
+              "Cheddar",
+              "Mozzarella",
+              "Gouda"
+            ],
+            "Explanation": "Le Gorgonzola est un célèbre fromage italien reconnu pour ses veines bleues, offrant un profil de saveur unique et relevé."
+          },
+          {
+            "Question": "Quel type de poisson est généralement utilisé dans le traditionnel fish and chips britannique?",
+            "TrueAnswer": "Morue",
+            "FalseAnswer": [
+              "Saumon",
+              "Aiglefin",
+              "Tilapia"
+            ],
+            "Explanation": "La morue est le poisson classique utilisé dans le traditionnel fish and chips britannique, connue pour sa texture floconneuse et sa saveur légèrement sucrée lorsqu'elle est frite."
+          },
+          {
+            "Question": "Quel type de nourriture est un ingrédient clé du plat japonais traditionnel sushi?",
+            "TrueAnswer": "Riz à sushi",
+            "FalseAnswer": [
+              "Riz complet",
+              "Quinoa",
+              "Couscous"
+            ],
+            "Explanation": "Le riz à sushi sert de base essentielle dans le sushi japonais traditionnel, assaisonné de vinaigre et de sucre, crucial pour la texture et la saveur distincte du plat."
+          },
+          {
+            "Question": "Quel épice donne sa couleur jaune au plat indien curry?",
+            "TrueAnswer": "Curcuma",
+            "FalseAnswer": [
+              "Cumin",
+              "Paprika",
+              "Cannelle"
+            ],
+            "Explanation": "La couleur jaune vibrante des plats au curry est due au curcuma, une épice couleur dorée avec une saveur chaude et poivrée couramment utilisée dans la cuisine indienne."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal du dessert français classique crème brûlée?",
+            "TrueAnswer": "Jaunes d'œufs",
+            "FalseAnswer": [
+              "Crème fouettée",
+              "Lait",
+              "Farine"
+            ],
+            "Explanation": "Les jaunes d'œufs jouent un rôle central dans la texture onctueuse de la crème brûlée, créant sa base de crème anglaise, surmontée d'une croûte de sucre caramélisé."
+          },
+          {
+            "Question": "Quelle est la protéine principale du plat mexicain carne asada?",
+            "TrueAnswer": "Bœuf",
+            "FalseAnswer": [
+              "Poulet",
+              "Porc",
+              "Poisson"
+            ],
+            "Explanation": "La carne asada est généralement composée de bœuf mariné et grillé, réputé pour sa tendreté et son profil aromatique, souvent servie dans des tacos ou en plat principal."
+          },
+          {
+            "Question": "Parmi les fruits suivants, lequel est un ingrédient principal typique du dip du Moyen-Orient, le hummus?",
+            "TrueAnswer": "Pois chiches",
+            "FalseAnswer": [
+              "Avocat",
+              "Aubergine",
+              "Tomate"
+            ],
+            "Explanation": "Les pois chiches constituent l'élément principal du hummus, offrant une saveur crémeuse et légèrement noisette, souvent combinée avec des ingrédients tels que du tahini, du citron et de l'ail."
+          },
+          {
+            "Question": "Quel type d'olive est généralement utilisé pour produire de l'huile d'olive extra vierge?",
+            "TrueAnswer": "Olive verte",
+            "FalseAnswer": [
+              "Olive noire",
+              "Olive Kalamata",
+              "Olive Niçoise"
+            ],
+            "Explanation": "L'huile d'olive extra vierge est souvent issue d'olives vertes, prisées pour leur saveur robuste et fruitée, représentant la plus haute qualité d'huile d'olive."
+          },
+          {
+            "Question": "Lequel des ingrédients suivants est un élément essentiel du plat coréen kimchi?",
+            "TrueAnswer": "Chou Napa",
+            "FalseAnswer": [
+              "Laitue",
+              "Radis",
+              "Carotte"
+            ],
+            "Explanation": "Le chou Napa est un élément significatif du kimchi, un plat d'accompagnement coréen traditionnel, fermenté avec des épices et assaisonnements pour développer sa saveur piquante et aigre."
+          },
+          {
+            "Question": "Quel type de noix est généralement utilisé dans la sauce pesto classique?",
+            "TrueAnswer": "Pignons de pin",
+            "FalseAnswer": [
+              "Amandes",
+              "Noix",
+              "Noix de cajou"
+            ],
+            "Explanation": "Les pignons de pin sont un ingrédient traditionnel de la sauce pesto, contribuant à une saveur riche, beurrée et à une texture crémeuse à ce condiment à base d'herbes aromatiques."
+          },
+          {
+            "Question": "Parmi les ingrédients suivants, lequel est un élément indispensable du guacamole mexicain?",
+            "TrueAnswer": "Avocat",
+            "FalseAnswer": [
+              "Mangue",
+              "Ananas",
+              "Papaye"
+            ],
+            "Explanation": "L'avocat constitue la base du guacamole, un dip crémeux et savoureux, généralement combiné avec du jus de citron vert, de l'oignon, de la coriandre et de la tomate pour un goût frais et piquant."
+          },
+          {
+            "Question": "Quel type de farine est utilisé pour fabriquer les traditionnelles baguettes françaises?",
+            "TrueAnswer": "Blé",
+            "FalseAnswer": [
+              "Seigle",
+              "Épeautre",
+              "Orge"
+            ],
+            "Explanation": "La farine de blé, en particulier la farine française de type 55, est le choix principal pour la fabrication des baguettes traditionnelles, offrant la texture moelleuse et la mie aérée désirées."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal du plat japonais tempura?",
+            "TrueAnswer": "Pâte à frire",
+            "FalseAnswer": [
+              "Riz",
+              "Nouilles",
+              "Tofu"
+            ],
+            "Explanation": "La tempura est caractérisée par une pâte à frire légère et croustillante comme élément clé, utilisée pour enrober et frire des légumes, des fruits de mer ou de la viande, créant une texture délicate et croustillante."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal du plat français classique coq au vin?",
+            "TrueAnswer": "Poulet",
+            "FalseAnswer": [
+              "Bœuf",
+              "Canard",
+              "Agneau"
+            ],
+            "Explanation": "Le coq au vin consiste à braiser du poulet dans du vin rouge, souvent agrémenté de champignons, d'oignons et de lardons, reflétant une saveur riche et savoureuse."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal du plat italien tiramisu?",
+            "TrueAnswer": "Fromage mascarpone",
+            "FalseAnswer": [
+              "Fromage ricotta",
+              "Fromage mozzarella",
+              "Fromage à la crème"
+            ],
+            "Explanation": "Le fromage mascarpone forme la base crémeuse et luxueuse du tiramisu, superposée à des biscuits à la cuiller imbibés de café et de liqueur, créant un dessert délectable."
+          }
+        ]
+      }
+    }
+  ]
+}

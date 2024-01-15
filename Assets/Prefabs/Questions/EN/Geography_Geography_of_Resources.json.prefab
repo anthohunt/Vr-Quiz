@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5877043130979303397
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4263829777873727551}
+  - component: {fileID: 3917203647676708431}
+  m_Layer: 0
+  m_Name: Geography_Geography_of_Resources.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4263829777873727551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5877043130979303397}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3917203647676708431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5877043130979303397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the top oil-producing country in the world?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Saudi Arabia
+      - Russia
+      - China
+      Explanation: The United States surpassed Saudi Arabia and Russia to become
+        the world's top oil producer in 2018, largely due to the boom in shale oil
+        extraction.
+    - Question: Which metal is primarily mined in the region of the Rustenburg in
+        South Africa?
+      TrueAnswer: Platinum
+      FalseAnswer:
+      - Gold
+      - Silver
+      - Copper
+      Explanation: Rustenburg is known for its platinum mines, producing about 70%
+        of the world's newly mined platinum.
+    - Question: What country is the world's leading producer of copper?
+      TrueAnswer: Chile
+      FalseAnswer:
+      - United States
+      - China
+      - Australia
+      Explanation: Chile is the largest producer of copper globally, providing about
+        a third of the world's supply.
+    - Question: Which country is the largest exporter of natural gas in the world?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - United States
+      - Qatar
+      - Australia
+      Explanation: Russia leads the world in natural gas exports, providing significant
+        supply to Europe and Asia.
+    - Question: Which country is the top producer of cocoa beans?
+      TrueAnswer: Ivory Coast
+      FalseAnswer:
+      - Ghana
+      - Brazil
+      - Indonesia
+      Explanation: Ivory Coast is the world's leading producer of cocoa beans, supplying
+        a significant portion of the global market.
+    - Question: What are the world's largest oil reserves located in which country?
+      TrueAnswer: Venezuela
+      FalseAnswer:
+      - Saudi Arabia
+      - Canada
+      - Iran
+      Explanation: Venezuela holds the world's largest proven oil reserves, primarily
+        in the Orinoco Belt region.
+    - Question: Which country is the top exporter of coal?
+      TrueAnswer: Indonesia
+      FalseAnswer:
+      - Australia
+      - Russia
+      - United States
+      Explanation: Indonesia is the leading exporter of coal, supplying a substantial
+        portion of global coal demand.
+    - Question: Which country is the primary source of diamonds in the world?
+      TrueAnswer: Botswana
+      FalseAnswer:
+      - Democratic Republic of the Congo
+      - Russia
+      - Australia
+      Explanation: Botswana is the largest producer of diamonds by value, with its
+        mines yielding high-quality gemstones.
+    - Question: What is the world's top producer of natural rubber?
+      TrueAnswer: Thailand
+      FalseAnswer:
+      - Indonesia
+      - Vietnam
+      - Malaysia
+      Explanation: Thailand is the leading producer of natural rubber, with its output
+        vital for the global rubber market.
+    - Question: Which country is the leading producer of corn (maize) in the world?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Brazil
+      - Argentina
+      Explanation: The United States is the largest producer of corn, generating
+        significant volumes for domestic and international consumption.
+    - Question: What is the world's primary source of bauxite, the raw material for
+        aluminum?
+      TrueAnswer: Australia
+      FalseAnswer:
+      - China
+      - Brazil
+      - India
+      Explanation: Australia holds the largest reserves of bauxite, contributing
+        significantly to global aluminum production.
+    - Question: Which country is the largest exporter of soybeans?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - United States
+      - Argentina
+      - Paraguay
+      Explanation: Brazil is the top global exporter of soybeans, supplying a substantial
+        portion of the world's demand.
+    - Question: What country is the leading producer of uranium?
+      TrueAnswer: Kazakhstan
+      FalseAnswer:
+      - Canada
+      - Australia
+      - Niger
+      Explanation: Kazakhstan is the world's largest producer of uranium, contributing
+        to nuclear fuel supply worldwide.
+    - Question: Which country is the top exporter of phosphates for fertilizers?
+      TrueAnswer: Morocco
+      FalseAnswer:
+      - China
+      - United States
+      - Russia
+      Explanation: Morocco is the largest exporter of phosphates, critical for global
+        agricultural fertilizer production.
+    - Question: What is the leading producer of silver in the world?
+      TrueAnswer: Mexico
+      FalseAnswer:
+      - Peru
+      - China
+      - Australia
+      Explanation: Mexico leads in silver production, with its mines contributing
+        a significant portion of global silver supply.
+    - Question: Which country is the top producer of natural gas liquids?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Saudi Arabia
+      - Russia
+      - China
+      Explanation: The United States is the top producer of natural gas liquids,
+        contributing to the global energy market.
+    - Question: What country is the largest supplier of nickel?
+      TrueAnswer: Indonesia
+      FalseAnswer:
+      - Australia
+      - Russia
+      - Canada
+      Explanation: Indonesia is the world's main provider of nickel, critical for
+        stainless steel and battery production.
+    - Question: Which nation is the leading supplier of tea worldwide?
+      TrueAnswer: China
+      FalseAnswer:
+      - India
+      - Sri Lanka
+      - Kenya
+      Explanation: China is the largest tea producer and exporter globally, with
+        diverse varieties enjoyed internationally.
+    - Question: Which country is the world's top producer of tin?
+      TrueAnswer: China
+      FalseAnswer:
+      - Indonesia
+      - Peru
+      - Brazil
+      Explanation: China leads in tin production, providing a substantial share of
+        the global supply for diverse industrial applications.

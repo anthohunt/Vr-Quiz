@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6213308044033192973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1188241393170996247}
+  - component: {fileID: 7329147840423379206}
+  m_Layer: 0
+  m_Name: Geography_Environmental_Geography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1188241393170996247
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6213308044033192973}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7329147840423379206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6213308044033192973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary greenhouse gas responsible for global warming?
+      TrueAnswer: Carbon dioxide
+      FalseAnswer:
+      - Methane
+      - Nitrous oxide
+      - Ozone
+      Explanation: Carbon dioxide is the most prevalent greenhouse gas, predominantly
+        emitted through human activities such as burning fossil fuels and deforestation,
+        leading to global warming.
+    - Question: What is the term for the process of soil degradation caused by waterlogging
+        and then drying?
+      TrueAnswer: Salinization
+      FalseAnswer:
+      - Erosion
+      - Desertification
+      - Acidification
+      Explanation: Salinization occurs when water-soluble salts accumulate in the
+        soil due to irrigation, affecting plant growth and reducing agricultural
+        productivity in arid regions.
+    - Question: Which layer of the atmosphere contains the ozone layer?
+      TrueAnswer: Stratosphere
+      FalseAnswer:
+      - Troposphere
+      - Mesosphere
+      - Thermosphere
+      Explanation: The ozone layer, essential for absorbing UV radiation, is primarily
+        located in the stratosphere, approximately 10 to 30 miles above the Earth's
+        surface.
+    - Question: What is the term for a natural disaster in which a large mass of
+        snow moves swiftly downhill?
+      TrueAnswer: Avalanche
+      FalseAnswer:
+      - Blizzard
+      - Hailstorm
+      - Cyclone
+      Explanation: Avalanches are triggered by factors like slope angle, snowpack
+        condition, and weather patterns, posing significant hazards to mountainous
+        and snowy regions.
+    - Question: Which of the following best represents a renewable energy source?
+      TrueAnswer: Hydroelectric power
+      FalseAnswer:
+      - Natural gas
+      - Coal
+      - Nuclear power
+      Explanation: Hydroelectric power harnesses the energy of flowing or falling
+        water, providing a sustainable and eco-friendly alternative to fossil fuel-based
+        electricity generation.
+    - Question: What is the term for the process by which fertile land becomes desert,
+        typically due to drought and deforestation?
+      TrueAnswer: Desertification
+      FalseAnswer:
+      - Salinization
+      - Erosion
+      - Acidification
+      Explanation: Desertification results from unsustainable land use, leading to
+        loss of vegetation and soil fertility, exacerbating desert expansion and
+        environmental degradation.
+    - Question: Which ocean is the largest and deepest on Earth?
+      TrueAnswer: Pacific Ocean
+      FalseAnswer:
+      - Atlantic Ocean
+      - Indian Ocean
+      - Arctic Ocean
+      Explanation: The Pacific Ocean covers approximately 30% of the Earth's surface
+        and holds the deepest point, the Mariana Trench, reaching depths of over
+        36,000 feet.
+    - Question: What is the primary cause of ocean acidification?
+      TrueAnswer: Excessive carbon dioxide absorption
+      FalseAnswer:
+      - Nuclear waste dumping
+      - Oil spills
+      - Industrial runoff
+      Explanation: Increased CO2 absorption by oceans leads to chemical reactions,
+        raising acidity levels, threatening marine ecosystems and coral reef habitats
+        worldwide.
+    - Question: Which of the following is a major factor contributing to deforestation?
+      TrueAnswer: Agricultural expansion
+      FalseAnswer:
+      - Renewable energy initiatives
+      - Urbanization
+      - Protected reserves
+      Explanation: Agricultural expansion, particularly for livestock and crop production,
+        drives extensive deforestation, leading to biodiversity loss and ecological
+        imbalances in forested regions.
+    - Question: What is the term for the loss of water from the soil surface due
+        to evaporation and plant transpiration?
+      TrueAnswer: Evapotranspiration
+      FalseAnswer:
+      - Precipitation
+      - Infiltration
+      - Runoff
+      Explanation: Evapotranspiration represents the combined process of water vapor
+        release into the atmosphere, crucial for the water cycle and sustaining terrestrial
+        ecosystems.
+    - Question: Which biome is characterized by harsh cold climates, minimal vegetation,
+        and permafrost?
+      TrueAnswer: Tundra
+      FalseAnswer:
+      - Rainforest
+      - Savanna
+      - Desert
+      Explanation: The tundra biome, found in high-latitude regions, experiences
+        short summers, long winters, and frozen soil, supporting adapted plants and
+        wildlife communities.
+    - Question: What is the name for the natural process of atmospheric temperature
+        rise due to trapped solar radiation?
+      TrueAnswer: Greenhouse effect
+      FalseAnswer:
+      - Albedo effect
+      - Coriolis effect
+      - Milankovitch cycle
+      Explanation: The greenhouse effect, caused by certain gases trapping heat in
+        the atmosphere, is essential for maintaining Earth's average surface temperature
+        and supporting life.
+    - Question: Which of the following is an indicator of air pollution commonly
+        regulated by environmental standards?
+      TrueAnswer: Particulate matter (PM10)
+      FalseAnswer:
+      - Carbon monoxide
+      - Sulfur dioxide
+      - Ozone
+      Explanation: PM10 refers to inhalable particulates, including dust, soot, and
+        aerosols, posing health risks and environmental impacts when present in elevated
+        concentrations.
+    - Question: Which of the following landforms is primarily formed through glacial
+        erosion?
+      TrueAnswer: U-shaped valley
+      FalseAnswer:
+      - Mesa
+      - Karst landscape
+      - Volcanic crater
+      Explanation: U-shaped valleys are carved by glaciers, exhibiting distinctive
+        wide, steep-walled profiles, and are characteristic features of glaciated
+        mountainous regions.
+    - Question: Which oceanic phenomenon involves the periodic warming of sea surface
+        temperatures in the Pacific Ocean?
+      TrueAnswer: "El Ni\xF1o"
+      FalseAnswer:
+      - "La Ni\xF1a"
+      - Monsoon
+      - Upwelling
+      Explanation: "El Ni\xF1o events disrupt global weather patterns, impacting
+        rainfall distribution, temperatures, and marine ecosystems, often leading
+        to extreme weather conditions worldwide."
+    - Question: What is the term for the process of soil degradation through chemical
+        changes and loss of fertility?
+      TrueAnswer: Acidification
+      FalseAnswer:
+      - Salinization
+      - Erosion
+      - Desertification
+      Explanation: Acidification results from excessive use of acidic fertilizers
+        or industrial pollutants, reducing nutrient availability and altering soil
+        pH, negatively affecting crops and ecosystems.
+    - Question: Within the context of renewable energy, which resource harnesses
+        the heat from the Earth's interior?
+      TrueAnswer: Geothermal energy
+      FalseAnswer:
+      - Wind power
+      - Solar panels
+      - Hydropower
+      Explanation: Geothermal energy utilizes heat from the Earth's core, extracted
+        through geothermal reservoirs or hot water sources, providing a sustainable
+        and continuous energy supply.
+    - Question: Which term refers to the process by which water infiltrates the soil
+        and replenishes underground aquifers?
+      TrueAnswer: Infiltration
+      FalseAnswer:
+      - Percolation
+      - Groundwater recharge
+      - Runoff
+      Explanation: Infiltration is vital for groundwater recharge, enhancing aquifer
+        storage and sustaining water supplies, especially in regions dependent on
+        groundwater for agriculture and drinking water.
+    - Question: What is the primary source of energy driving the hydrological cycle?
+      TrueAnswer: Solar radiation
+      FalseAnswer:
+      - Geothermal heat
+      - Tidal forces
+      - Wind energy
+      Explanation: Solar radiation powers evaporation, leading to cloud formation
+        and precipitation, driving the continuous circulation of water throughout
+        the Earth's atmosphere and surface.
+    - Question: Which major river system is the most extensive in the world, draining
+        nearly one-fifth of the Earth's land area?
+      TrueAnswer: Amazon River
+      FalseAnswer:
+      - Nile River
+      - Mississippi River
+      - Yangtze River
+      Explanation: The Amazon River's vast drainage basin spans over 7 million square
+        kilometers, influencing regional climate, biodiversity, and sustaining numerous
+        ecosystems across South America.

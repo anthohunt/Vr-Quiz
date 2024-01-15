@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel élément alimente le soleil?",
+            "TrueAnswer": "Hydrogène",
+            "FalseAnswer": [
+              "Hélium",
+              "Oxygène",
+              "Carbone"
+            ],
+            "Explanation": "Le soleil fusionne principalement des atomes d'hydrogène en hélium, libérant une immense énergie à travers des réactions de fusion nucléaire."
+          },
+          {
+            "Question": "Quel est le nom de la galaxie la plus proche de la Voie lactée?",
+            "TrueAnswer": "Andromède",
+            "FalseAnswer": [
+              "Orion",
+              "Triangulum",
+              "Pégase"
+            ],
+            "Explanation": "La galaxie d'Andromède est située à environ 2,537 millions d'années-lumière de la Terre et est projetée pour entrer en collision avec la Voie lactée dans environ 4 milliards d'années."
+          },
+          {
+            "Question": "Quel concept important Albert Einstein a-t-il introduit dans sa théorie de la relativité générale?",
+            "TrueAnswer": "Courbure de l'espace-temps",
+            "FalseAnswer": [
+              "Intrication quantique",
+              "Rayonnement des trous noirs",
+              "Énergie sombre"
+            ],
+            "Explanation": "La théorie d'Einstein avance que les objets massifs causent une courbure de l'espace-temps, affectant la trajectoire d'autres objets, expliquant la gravité comme une courbure dans l'espace-temps."
+          },
+          {
+            "Question": "Quel événement marque la naissance d'un trou noir?",
+            "TrueAnswer": "Explosion de supernova",
+            "FalseAnswer": [
+              "Éclipse solaire",
+              "Impact de comète",
+              "Pluie de météores"
+            ],
+            "Explanation": "Les trous noirs se forment à partir des restes d'une étoile massive subissant une explosion de supernova, conduisant à un effondrement gravitationnel."
+          },
+          {
+            "Question": "Quel est le nom du point autour d'un trou noir au-delà duquel l'évasion est impossible?",
+            "TrueAnswer": "Horizon des événements",
+            "FalseAnswer": [
+              "Singularité",
+              "Sphère de photon",
+              "Érgosphère"
+            ],
+            "Explanation": "L'horizon des événements est une frontière entourant un trou noir où la vitesse d'échappement dépasse la vitesse de la lumière, rendant impossible pour tout objet d'en sortir."
+          },
+          {
+            "Question": "Quel phénomène se produit lorsque qu'une étoile massive s'effondre en un petit volume et devient extrêmement dense?",
+            "TrueAnswer": "Formation d'étoile à neutrons",
+            "FalseAnswer": [
+              "Explosion de naine blanche",
+              "Formation de planète",
+              "Évaporation de trou noir"
+            ],
+            "Explanation": "Les étoiles à neutrons sont des restes incroyablement denses d'étoiles massives, composées principalement de neutrons, formées après une explosion de supernova et un effondrement gravitationnel."
+          },
+          {
+            "Question": "Comment les scientifiques détectent-ils les exoplanètes orbitant autour d'étoiles lointaines?",
+            "TrueAnswer": "Méthode de transit",
+            "FalseAnswer": [
+              "Microlentille",
+              "Méthode de vélocité radiale",
+              "Imagerie directe"
+            ],
+            "Explanation": "La méthode de transit implique d'observer l'atténuation légère de la lumière d'une étoile lorsque une planète passe devant, indiquant la présence d'une exoplanète."
+          },
+          {
+            "Question": "Quelle propriété de la lumière est utilisée pour étudier la composition des étoiles et des galaxies?",
+            "TrueAnswer": "Spectroscopie",
+            "FalseAnswer": [
+              "Photométrie",
+              "Polarimétrie",
+              "Interférométrie"
+            ],
+            "Explanation": "La spectroscopie analyse la lumière émise ou absorbée par les objets célestes, fournissant des informations sur leur composition chimique, leur température et leur mouvement."
+          },
+          {
+            "Question": "Quel télescope a produit la célèbre photographie de la 'Pale Blue Dot' de la Terre?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "Télescope spatial Hubble",
+              "Télescope spatial Kepler",
+              "Télescope spatial Spitzer"
+            ],
+            "Explanation": "Voyager 1 a capturé l'image de la 'Pale Blue Dot' à une distance record d'environ 3,7 milliards de miles alors qu'il quittait le système solaire."
+          },
+          {
+            "Question": "Comment s'appelle l'étude de la structure à grande échelle et de l'histoire de l'univers?",
+            "TrueAnswer": "Cosmologie",
+            "FalseAnswer": [
+              "Astrobiologie",
+              "Astrophysique",
+              "Exoplanétologie"
+            ],
+            "Explanation": "La cosmologie cherche à comprendre l'origine, l'évolution et le destin ultime de l'univers, y compris la distribution des galaxies et le rayonnement de fond cosmique."
+          },
+          {
+            "Question": "Quand l'univers a-t-il connu une expansion rapide connue sous le nom d'inflation cosmique?",
+            "TrueAnswer": "Peu de temps après le Big Bang",
+            "FalseAnswer": [
+              "Pendant la formation de la Voie lactée",
+              "Au moment des premières étoiles",
+              "Au début de la formation des galaxies"
+            ],
+            "Explanation": "L'inflation cosmique est censée s'être produite dans la première fraction de seconde après le Big Bang, conduisant à l'expansion rapide de l'univers."
+          },
+          {
+            "Question": "Quel est le destin du cosmos selon le scénario du 'Big Freeze' en cosmologie?",
+            "TrueAnswer": "Mort thermique",
+            "FalseAnswer": [
+              "Grand déchirement",
+              "Grand Crunch",
+              "Grand Rebond"
+            ],
+            "Explanation": "Le 'Big Freeze' prédit que l'univers continuera à s'étendre jusqu'à atteindre un état d'entropie maximale, entraînant la mort thermique du cosmos."
+          },
+          {
+            "Question": "Quelle construction théorique est proposée pour expliquer l'expansion accélérée de l'univers?",
+            "TrueAnswer": "Énergie sombre",
+            "FalseAnswer": [
+              "Cordes cosmiques",
+              "Mousse quantique",
+              "Monopôles magnétiques"
+            ],
+            "Explanation": "L'énergie sombre est une force mystérieuse qui contrebalance la gravité, causant l'expansion accélérée de l'univers, comme indiqué par les données observationnelles et le rayonnement de fond cosmique."
+          },
+          {
+            "Question": "Comment s'appelle la mission spatiale qui a fourni des données précieuses sur le rayonnement de fond cosmique?",
+            "TrueAnswer": "Planck",
+            "FalseAnswer": [
+              "WMAP",
+              "COBE",
+              "Spitzer"
+            ],
+            "Explanation": "La mission satellitaire Planck a cartographié le rayonnement de fond cosmique avec une grande précision, offrant des aperçus sur les propriétés et l'évolution de l'univers primitif."
+          },
+          {
+            "Question": "Quel est le terme pour l'étude des interactions gravitationnelles entre les corps célestes?",
+            "TrueAnswer": "Mécanique céleste",
+            "FalseAnswer": [
+              "Astrochimie",
+              "Évolution stellaire",
+              "Astrophysique nucléaire"
+            ],
+            "Explanation": "La mécanique céleste se concentre sur la compréhension du mouvement et des effets gravitationnels des corps célestes, y compris les orbites, les marées et les perturbations, en utilisant les principes de la physique et des mathématiques."
+          },
+          {
+            "Question": "Quelle est la source des particules de haute énergie qui créent les spectaculaires aurores sur Terre?",
+            "TrueAnswer": "Vent solaire",
+            "FalseAnswer": [
+              "Rayons cosmiques galactiques",
+              "Flux de neutrinos",
+              "Nuages mésosphériques polaires"
+            ],
+            "Explanation": "Le vent solaire, composé de particules chargées émises par le soleil, interagit avec la magnétosphère terrestre, produisant les particules énergétiques qui provoquent les aurores dans les régions polaires."
+          },
+          {
+            "Question": "Quel type d'objet céleste produit des éruptions intenses de rayonnement gamma?",
+            "TrueAnswer": "Sursauts gamma (GRB)",
+            "FalseAnswer": [
+              "Supernovae",
+              "Quasars",
+              "Pulsars"
+            ],
+            "Explanation": "Les sursauts gamma figurent parmi les explosions les plus puissantes de l'univers, probablement associées à la formation de trous noirs ou d'étoiles à neutrons à travers des événements cataclysmiques."
+          },
+          {
+            "Question": "Quel phénomène physique provoque le décalage de la lumière vers des longueurs d'onde plus longues dans un univers en expansion?",
+            "TrueAnswer": "Décalage vers le rouge",
+            "FalseAnswer": [
+              "Décalage vers le bleu",
+              "Décalage vers le blanc",
+              "Décalage vers le jaune"
+            ],
+            "Explanation": "Le décalage vers le rouge se produit lorsque la lumière en provenance d'objets célestes lointains s'étire en raison de l'expansion de l'espace, décalant ses raies spectrales vers des longueurs d'onde plus longues, fournissant une preuve de l'expansion cosmique."
+          },
+          {
+            "Question": "Quel est le point focal gravitationnel où les rayons lumineux convergent vers un seul point?",
+            "TrueAnswer": "Foyer",
+            "FalseAnswer": [
+              "Nœud",
+              "Singularité",
+              "Équilibre"
+            ],
+            "Explanation": "En astrophysique, le foyer désigne le point où l'effet de lentille gravitationnelle fait converger les rayons lumineux, créant des images déformées ou agrandies d'objets éloignés."
+          },
+          {
+            "Question": "Quel type de rayonnement fournit des aperçus précieux sur l'univers primitif et la formation des galaxies?",
+            "TrueAnswer": "Rayonnement de fond cosmique (CMB)",
+            "FalseAnswer": [
+              "Rayonnement ultraviolet",
+              "Rayonnement X",
+              "Rayonnement infrarouge"
+            ],
+            "Explanation": "Le rayonnement CMB est la plus ancienne lumière de l'univers, provenant d'environ 380 000 ans après le Big Bang, offrant des informations cruciales sur l'histoire et la structure cosmique."
+          }
+        ]
+      }
+    }
+  ]
+}

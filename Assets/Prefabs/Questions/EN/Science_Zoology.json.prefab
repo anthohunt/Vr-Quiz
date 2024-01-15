@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2936491853310830455
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5525412483464450391}
+  - component: {fileID: 6240391569407280810}
+  m_Layer: 0
+  m_Name: Science_Zoology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5525412483464450391
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936491853310830455}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6240391569407280810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936491853310830455}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the scientific name for the African elephant?
+      TrueAnswer: Loxodonta africana
+      FalseAnswer:
+      - Rhinoceros unicornis
+      - Giraffa camelopardalis
+      - Panthera leo
+      Explanation: The African elephant, Loxodonta africana, is the largest land
+        animal and is known for its distinctive trunk and large ears.
+    - Question: Which of these is the smallest species of bear?
+      TrueAnswer: Sun bear
+      FalseAnswer:
+      - Polar bear
+      - Grizzly bear
+      - Sloth bear
+      Explanation: The sun bear, also known as the honey bear, is the smallest bear
+        species and is native to Southeast Asia.
+    - Question: What is the fastest land animal?
+      TrueAnswer: Cheetah
+      FalseAnswer:
+      - Lion
+      - Gazelle
+      - Leopard
+      Explanation: The cheetah holds the title of the fastest land animal, reaching
+        speeds of up to 70 miles per hour in short bursts.
+    - Question: Which of these animals is not a marsupial?
+      TrueAnswer: Platypus
+      FalseAnswer:
+      - Kangaroo
+      - Koala
+      - Opossum
+      Explanation: The platypus is a monotreme, not a marsupial, and is unique for
+        laying eggs and producing milk for its young.
+    - Question: What is the term for a group of wolves?
+      TrueAnswer: Pack
+      FalseAnswer:
+      - Herd
+      - Flock
+      - Pod
+      Explanation: Wolves are social animals and often live and hunt together in
+        groups called packs, led by an alpha male and female.
+    - Question: Which bird is known for its mimicry of sounds, including human speech?
+      TrueAnswer: African grey parrot
+      FalseAnswer:
+      - Ostrich
+      - Toucan
+      - Penguin
+      Explanation: African grey parrots are renowned for their exceptional ability
+        to mimic and understand human speech and other sounds.
+    - Question: What is the largest living primate?
+      TrueAnswer: Gorilla
+      FalseAnswer:
+      - Chimpanzee
+      - Orangutan
+      - Bonobo
+      Explanation: Gorillas are the largest living primates, with male silverbacks
+        weighing up to 400 pounds and standing over 6 feet tall.
+    - Question: Which of these is not a venomous snake?
+      TrueAnswer: Boa constrictor
+      FalseAnswer:
+      - Cobra
+      - Rattlesnake
+      - Black mamba
+      Explanation: Boa constrictors are non-venomous, using constriction to suffocate
+        their prey rather than relying on venom.
+    - Question: What is the wingspan of the largest species of bat?
+      TrueAnswer: 1.8 meters (5.9 feet)
+      FalseAnswer:
+      - 1 meter (3.3 feet)
+      - 2.5 meters (8.2 feet)
+      - 1.2 meters (3.9 feet)
+      Explanation: The giant golden-crowned flying fox holds the record for the largest
+        wingspan of any bat species, reaching up to 1.8 meters (5.9 feet).
+    - Question: Which of these is not a type of penguin?
+      TrueAnswer: Puffin
+      FalseAnswer:
+      - Emperor penguin
+      - "Ad\xE9lie penguin"
+      - "Gal\xE1pagos penguin"
+      Explanation: Puffins are seabirds in the auk family and are not classified
+        as penguins, which are primarily found in the Southern Hemisphere.
+    - Question: What is the collective term for a group of crows?
+      TrueAnswer: Murder
+      FalseAnswer:
+      - Flock
+      - Herd
+      - Pack
+      Explanation: A murder of crows is a poetic term used to describe a group of
+        crows, often featured in folklore and literary works.
+    - Question: Which animal has the longest gestation period?
+      TrueAnswer: Elephant
+      FalseAnswer:
+      - Giraffe
+      - Hippopotamus
+      - Whale
+      Explanation: Elephants have the longest gestation period of any mammal, lasting
+        approximately 22 months from conception to birth.
+    - Question: Which of these is not a type of big cat?
+      TrueAnswer: Hyena
+      FalseAnswer:
+      - Tiger
+      - Lion
+      - Leopard
+      Explanation: Hyenas, despite their feline-like appearance, are actually members
+        of the Hyaenidae family and are not considered true cats.
+    - Question: What is the primary diet of a panda?
+      TrueAnswer: Bamboo
+      FalseAnswer:
+      - Berries
+      - Antelope
+      - Fish
+      Explanation: Giant pandas are primarily herbivorous and feed almost exclusively
+        on bamboo, consuming up to 26 to 84 pounds of it per day.
+    - Question: Which of these is not a type of hornbill bird?
+      TrueAnswer: Toucan
+      FalseAnswer:
+      - Rhinoceros hornbill
+      - Great hornbill
+      - Southern ground hornbill
+      Explanation: Toucans are not related to hornbills and are recognized by their
+        colorful, oversized bills and predominantly tropical habitats.
+    - Question: What is the natural habitat of a Komodo dragon?
+      TrueAnswer: Indonesian islands
+      FalseAnswer:
+      - African savanna
+      - Amazon rainforest
+      - Australian outback
+      Explanation: Komodo dragons are native to several Indonesian islands, including
+        Komodo, Rinca, Flores, and Gili Motang, in the Lesser Sunda islands archipelago.
+    - Question: Which of these is not a species of crocodile?
+      TrueAnswer: Alligator
+      FalseAnswer:
+      - Nile crocodile
+      - Saltwater crocodile
+      - American crocodile
+      Explanation: Alligators and crocodiles are distinct species; alligators have
+        a broader, U-shaped snout compared to the pointed, V-shaped snout of crocodiles.
+    - Question: What is the scientific name for the red kangaroo?
+      TrueAnswer: Macropus rufus
+      FalseAnswer:
+      - Vulpes vulpes
+      - Ursus arctos
+      - Equus ferus caballus
+      Explanation: The red kangaroo, the largest kangaroo species, is known scientifically
+        as Macropus rufus and is found in Australia's arid and semi-arid regions.
+    - Question: Which animal is known for its ability to change color?
+      TrueAnswer: Chameleon
+      FalseAnswer:
+      - Sloth
+      - Koala
+      - Lemur
+      Explanation: Chameleons have specialized cells called chromatophores that allow
+        them to change color for camouflage, signaling, and thermoregulation.
+    - Question: What is a group of kangaroos called?
+      TrueAnswer: Mob
+      FalseAnswer:
+      - Pack
+      - Gaggle
+      - Herd
+      Explanation: A group of kangaroos is referred to as a mob, reflecting their
+        social nature and tendency to gather together in the wild.

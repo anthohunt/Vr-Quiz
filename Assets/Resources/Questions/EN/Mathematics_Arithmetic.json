@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the result of 8 multiplied by 7?",
+            "TrueAnswer": "56",
+            "FalseAnswer": [
+              "42",
+              "64",
+              "49"
+            ],
+            "Explanation": "The result of 8 multiplied by 7 is 56. Multiplication is a fundamental arithmetic operation for combining multiple groups of the same size."
+          },
+          {
+            "Question": "What is the quotient of 36 divided by 6?",
+            "TrueAnswer": "6",
+            "FalseAnswer": [
+              "4",
+              "7",
+              "5"
+            ],
+            "Explanation": "The quotient of 36 divided by 6 is 6. Division is the process of distributing a quantity into a number of groups."
+          },
+          {
+            "Question": "What is the sum of 25 and 13?",
+            "TrueAnswer": "38",
+            "FalseAnswer": [
+              "30",
+              "42",
+              "34"
+            ],
+            "Explanation": "The sum of 25 and 13 is 38. Addition is the arithmetic operation of combining two numbers into a single number."
+          },
+          {
+            "Question": "What is the difference between 90 and 57?",
+            "TrueAnswer": "33",
+            "FalseAnswer": [
+              "42",
+              "25",
+              "47"
+            ],
+            "Explanation": "The difference between 90 and 57 is 33. Subtraction is the process of taking one number away from another."
+          },
+          {
+            "Question": "How many sides does a pentagon have?",
+            "TrueAnswer": "5",
+            "FalseAnswer": [
+              "6",
+              "4",
+              "7"
+            ],
+            "Explanation": "A pentagon is a five-sided polygon. In geometry, polygons are closed shapes with straight sides."
+          },
+          {
+            "Question": "What is the value of the digit 7 in the number 473?",
+            "TrueAnswer": "70",
+            "FalseAnswer": [
+              "7",
+              "700",
+              "0"
+            ],
+            "Explanation": "The digit 7 in the number 473 represents a value of 70, as it is in the tens place."
+          },
+          {
+            "Question": "What is the result of 18 plus 27 minus 10?",
+            "TrueAnswer": "35",
+            "FalseAnswer": [
+              "42",
+              "30",
+              "25"
+            ],
+            "Explanation": "The result of 18 plus 27 minus 10 is 35. Arithmetic expressions follow the order of operations: PEMDAS (Parentheses, Exponents, Multiplication and Division, Addition and Subtraction)."
+          },
+          {
+            "Question": "What is the product of 12 multiplied by 9 divided by 3?",
+            "TrueAnswer": "36",
+            "FalseAnswer": [
+              "27",
+              "45",
+              "30"
+            ],
+            "Explanation": "The product of 12 multiplied by 9 divided by 3 is 36. Multiplication and division are performed before addition and subtraction in arithmetic expressions."
+          },
+          {
+            "Question": "What is the sum of the first 10 positive integers?",
+            "TrueAnswer": "55",
+            "FalseAnswer": [
+              "45",
+              "60",
+              "50"
+            ],
+            "Explanation": "The sum of the first 10 positive integers (1 + 2 + 3 + ... + 10) is 55. This result is calculated using the formula n(n+1)/2, where n is the last number in the sequence."
+          },
+          {
+            "Question": "What is the square root of 144?",
+            "TrueAnswer": "12",
+            "FalseAnswer": [
+              "10",
+              "14",
+              "16"
+            ],
+            "Explanation": "The square root of 144 is 12, as 12 multiplied by itself equals 144. The square root is the inverse operation of squaring a number."
+          },
+          {
+            "Question": "How many equal sides does a rectangle have?",
+            "TrueAnswer": "2",
+            "FalseAnswer": [
+              "3",
+              "4",
+              "1"
+            ],
+            "Explanation": "A rectangle has two pairs of equal sides. Its opposite sides are of equal length, and all four angles are right angles."
+          },
+          {
+            "Question": "What is the next number in the sequence: 2, 5, 8, 11, ...?",
+            "TrueAnswer": "14",
+            "FalseAnswer": [
+              "13",
+              "16",
+              "17"
+            ],
+            "Explanation": "The sequence increases by 3 each time, so the next number is 11 + 3 = 14. Recognizing number sequences helps develop pattern recognition skills in mathematics."
+          },
+          {
+            "Question": "What is the difference between 5 and the sum of 2 and 3?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "2",
+              "3",
+              "1"
+            ],
+            "Explanation": "The difference between 5 and the sum of 2 and 3 is 0, as 5 - (2 + 3) = 0. Understanding the relationship between addition and subtraction is essential in arithmetic."
+          },
+          {
+            "Question": "What is the result of 4 raised to the power of 3?",
+            "TrueAnswer": "64",
+            "FalseAnswer": [
+              "12",
+              "16",
+              "32"
+            ],
+            "Explanation": "Four raised to the power of 3 is 64, calculated as 4 * 4 * 4. Exponentiation represents repeated multiplication of the base number."
+          },
+          {
+            "Question": "What is the median of the numbers: 12, 17, 8, 25, 20?",
+            "TrueAnswer": "17",
+            "FalseAnswer": [
+              "15",
+              "20",
+              "12"
+            ],
+            "Explanation": "The median of the given numbers is 17, as it is the middle value when the numbers are arranged in ascending order."
+          },
+          {
+            "Question": "What is the result of 3 plus 4 multiplied by 5?",
+            "TrueAnswer": "23",
+            "FalseAnswer": [
+              "35",
+              "27",
+              "19"
+            ],
+            "Explanation": "The result of 3 plus 4 multiplied by 5 is 23. To determine the correct order of operations, use parentheses to clarify the intended grouping in complex arithmetic expressions."
+          },
+          {
+            "Question": "What is the sum of the first 20 even numbers?",
+            "TrueAnswer": "420",
+            "FalseAnswer": [
+              "400",
+              "440",
+              "380"
+            ],
+            "Explanation": "The sum of the first 20 even numbers is 420. Even numbers are integers that are divisible by 2, and their sum can be calculated using the formula n(n+1), where n is the last even number in the sequence."
+          },
+          {
+            "Question": "What is the product of 5 and the difference between 12 and 7?",
+            "TrueAnswer": "25",
+            "FalseAnswer": [
+              "35",
+              "18",
+              "42"
+            ],
+            "Explanation": "The product of 5 and the difference between 12 and 7 is 25, as 5 * (12 - 7) = 25. Understanding the relationship between multiplication and subtraction is essential in arithmetic."
+          },
+          {
+            "Question": "What is the result of 48 divided by 3 plus 5?",
+            "TrueAnswer": "21",
+            "FalseAnswer": [
+              "19",
+              "26",
+              "15"
+            ],
+            "Explanation": "The result of 48 divided by 3 plus 5 is 21. Calculating the correct order of operations is crucial to obtaining the accurate result in arithmetic expressions."
+          },
+          {
+            "Question": "How many digits are in the number 1001?",
+            "TrueAnswer": "4",
+            "FalseAnswer": [
+              "3",
+              "5",
+              "2"
+            ],
+            "Explanation": "The number 1001 has 4 digits. Understanding the concept of place value is important for recognizing the number of digits in a given number."
+          }
+        ]
+      }
+    }
+  ]
+}

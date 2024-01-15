@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &623656639878775497
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1439766999149480274}
+  - component: {fileID: 3085988436686135867}
+  m_Layer: 0
+  m_Name: Fashion and Design_Fashion and Social Movements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1439766999149480274
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623656639878775497}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3085988436686135867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623656639878775497}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the founder of the fashion brand Chanel?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Giorgio Armani
+      - Ralph Lauren
+      - Calvin Klein
+      Explanation: Coco Chanel, a French fashion designer, is the founder of the
+        iconic fashion brand Chanel.
+    - Question: What is the primary color used in the logo of Louis Vuitton?
+      TrueAnswer: Brown
+      FalseAnswer:
+      - Red
+      - Blue
+      - Yellow
+      Explanation: The primary color used in the logo of Louis Vuitton is brown,
+        representing luxury and elegance.
+    - Question: Which fashion designer is known for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Donatella Versace
+      - Alexander McQueen
+      - Tom Ford
+      Explanation: Coco Chanel popularized the little black dress, a timeless and
+        versatile fashion staple.
+    - Question: Which fashion brand is famous for its red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Gucci
+      - Prada
+      - Jimmy Choo
+      Explanation: Christian Louboutin is renowned for its red-soled shoes, a signature
+        trademark of the brand.
+    - Question: What is the main fabric used in denim jeans?
+      TrueAnswer: Cotton
+      FalseAnswer:
+      - Polyester
+      - Nylon
+      - Rayon
+      Explanation: Denim jeans are primarily made from cotton, providing durability
+        and comfort.
+    - Question: Which fashion designer is associated with the wrap dress?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Stella McCartney
+      - Marc Jacobs
+      - Karl Lagerfeld
+      Explanation: Diane von Furstenberg is known for popularizing the wrap dress,
+        a flattering and versatile garment.
+    - Question: What is the main color associated with the fashion brand Gucci?
+      TrueAnswer: Green
+      FalseAnswer:
+      - Pink
+      - Purple
+      - Orange
+      Explanation: The main color associated with the fashion brand Gucci is green,
+        symbolizing luxury and wealth.
+    - Question: Which fashion designer is known for his red carpet gowns?
+      TrueAnswer: Elie Saab
+      FalseAnswer:
+      - Karl Lagerfeld
+      - Tommy Hilfiger
+      - Vera Wang
+      Explanation: Elie Saab is renowned for his exquisite red carpet gowns, worn
+        by many celebrities.
+    - Question: What is the main material used in the production of silk?
+      TrueAnswer: Silkworm
+      FalseAnswer:
+      - Cotton Plant
+      - Sheep Wool
+      - Synthetic Fibers
+      Explanation: Silk is primarily produced from the cocoons of silkworms, which
+        spin silk threads.
+    - Question: Which fashion brand is known for its iconic trench coats?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Versace
+      - Dolce & Gabbana
+      - Chanel
+      Explanation: Burberry is famous for its iconic trench coats, featuring the
+        brand's signature check pattern.
+    - Question: "What is the main color associated with the fashion brand Herm\xE8s?"
+      TrueAnswer: Orange
+      FalseAnswer:
+      - Blue
+      - Yellow
+      - Black
+      Explanation: "The main color associated with the fashion brand Herm\xE8s is
+        orange, representing luxury and sophistication."
+    - Question: Which fashion designer is known for his red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Manolo Blahnik
+      - Jimmy Choo
+      - Salvatore Ferragamo
+      Explanation: Christian Louboutin is renowned for his red-soled shoes, a distinctive
+        feature of his designs.
+    - Question: What is the main fabric used in traditional kimono garments?
+      TrueAnswer: Silk
+      FalseAnswer:
+      - Linen
+      - Wool
+      - Polyester
+      Explanation: Traditional kimono garments are primarily made from silk, known
+        for its luxurious and smooth texture.
+    - Question: Which fashion brand is famous for its double-C logo?
+      TrueAnswer: Chanel
+      FalseAnswer:
+      - Gucci
+      - Louis Vuitton
+      - Prada
+      Explanation: Chanel is famous for its double-C logo, representing the initials
+        of the brand's founder, Coco Chanel.
+    - Question: What is the main color associated with the fashion brand Versace?
+      TrueAnswer: Gold
+      FalseAnswer:
+      - Silver
+      - Bronze
+      - Platinum
+      Explanation: The main color associated with the fashion brand Versace is gold,
+        symbolizing luxury and opulence.
+    - Question: Which fashion designer is known for his iconic red plaid patterns?
+      TrueAnswer: Alexander McQueen
+      FalseAnswer:
+      - Ralph Lauren
+      - Tommy Hilfiger
+      - Calvin Klein
+      Explanation: Alexander McQueen is known for his iconic red plaid patterns,
+        often incorporated into his designs.
+    - Question: What is the main material used in the production of leather?
+      TrueAnswer: Animal Hide
+      FalseAnswer:
+      - Cotton Fiber
+      - Synthetic Fibers
+      - Wood Pulp
+      Explanation: Leather is primarily produced from the hides of animals, such
+        as cows or sheep.
+    - Question: Which fashion brand is famous for its checkered patterns?
+      TrueAnswer: Louis Vuitton
+      FalseAnswer:
+      - Gucci
+      - Burberry
+      - Prada
+      Explanation: Louis Vuitton is famous for its checkered patterns, known as the
+        Damier or Monogram canvas.
+    - Question: What is the main color associated with the fashion brand Balenciaga?
+      TrueAnswer: Black
+      FalseAnswer:
+      - White
+      - Gray
+      - Brown
+      Explanation: The main color associated with the fashion brand Balenciaga is
+        black, representing elegance and sophistication.
+    - Question: Which fashion designer is known for his iconic red sole shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Salvatore Ferragamo
+      Explanation: Christian Louboutin is known for his iconic red sole shoes, a
+        signature feature of his designs.

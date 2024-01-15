@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the name of NASA's Mars rover that landed in February 2021?",
+          "TrueAnswer": "Perseverance",
+          "FalseAnswer": [
+            "Opportunity",
+            "Curiosity",
+            "Spirit"
+          ],
+          "Explanation": "Perseverance is the most advanced rover ever sent to Mars, designed to search for signs of past microbial life and collect rock and soil samples for possible return to Earth."
+        },
+        {
+          "Question": "What propulsion system does SpaceX's Starship use for interplanetary travel?",
+          "TrueAnswer": "Raptor",
+          "FalseAnswer": [
+            "Falcon",
+            "Merlin",
+            "Dragon"
+          ],
+          "Explanation": "The Raptor engines are full-flow staged combustion engines fuelled by liquid methane and liquid oxygen, designed for high efficiency and reusability for long-duration trips to Mars and beyond."
+        },
+        {
+          "Question": "Which company designed the Hubble Space Telescope's Wide Field Camera 3?",
+          "TrueAnswer": "Ball Aerospace",
+          "FalseAnswer": [
+            "Lockheed Martin",
+            "Boeing",
+            "Northrop Grumman"
+          ],
+          "Explanation": "Ball Aerospace & Technologies Corp. designed and built the Wide Field Camera 3, a powerful instrument that captures stunning images and contributes to various scientific studies of the universe."
+        },
+        {
+          "Question": "What is the diameter of the James Webb Space Telescope's primary mirror?",
+          "TrueAnswer": "6.5 meters",
+          "FalseAnswer": [
+            "8 meters",
+            "5 meters",
+            "10 meters"
+          ],
+          "Explanation": "The primary mirror of the James Webb Space Telescope is 6.5 meters in diameter, making it the largest and most powerful space telescope ever built, set to revolutionize our understanding of the cosmos."
+        },
+        {
+          "Question": "Who was the first female astronaut to command the International Space Station?",
+          "TrueAnswer": "Peggy Whitson",
+          "FalseAnswer": [
+            "Sally Ride",
+            "Mae Jemison",
+            "Valentina Tereshkova"
+          ],
+          "Explanation": "Peggy Whitson, a biochemist and NASA astronaut, made history as the first female to command the International Space Station, demonstrating exceptional leadership and scientific excellence in space."
+        },
+        {
+          "Question": "Which planet did the Juno mission study and enter orbit around in 2016?",
+          "TrueAnswer": "Jupiter",
+          "FalseAnswer": [
+            "Saturn",
+            "Mars",
+            "Neptune"
+          ],
+          "Explanation": "The Juno spacecraft entered Jupiter's orbit in 2016 and has been conducting extensive studies of the planet's atmosphere, magnetosphere, and interior structure, providing valuable insights into its formation and evolution."
+        },
+        {
+          "Question": "What is the name of the Mars helicopter that accompanied the Perseverance rover?",
+          "TrueAnswer": "Ingenuity",
+          "FalseAnswer": [
+            "Spirit",
+            "Opportunity",
+            "Curiosity"
+          ],
+          "Explanation": "Ingenuity is a small autonomous helicopter that was deployed from the Perseverance rover, marking the first powered flight on another planet and demonstrating the potential for aerial exploration in future Mars missions."
+        },
+        {
+          "Question": "Which prominent physicist proposed the concept of solar sails for space propulsion?",
+          "TrueAnswer": "Carl Sagan",
+          "FalseAnswer": [
+            "Stephen Hawking",
+            "Albert Einstein",
+            "Isaac Newton"
+          ],
+          "Explanation": "Carl Sagan, renowned for popularizing science, proposed the idea of solar sails, a method of spacecraft propulsion that uses radiation pressure from sunlight to generate thrust for interplanetary travel."
+        },
+        {
+          "Question": "What is the approximate top speed of the New Horizons spacecraft during its Pluto flyby?",
+          "TrueAnswer": "31,000 mph",
+          "FalseAnswer": [
+            "15,000 mph",
+            "40,000 mph",
+            "25,000 mph"
+          ],
+          "Explanation": "New Horizons achieved a speed of approximately 31,000 miles per hour during its historic flyby of Pluto, enabling it to capture detailed images and scientific data of the distant dwarf planet."
+        },
+        {
+          "Question": "Which space agency successfully landed the Philae probe on comet 67P/Churyumov-Gerasimenko?",
+          "TrueAnswer": "ESA",
+          "FalseAnswer": [
+            "NASA",
+            "Roscosmos",
+            "CNSA"
+          ],
+          "Explanation": "The European Space Agency (ESA) achieved the historic feat of landing the Philae probe on comet 67P, providing valuable insights into the composition and behavior of comets as remnants of the early solar system."
+        },
+        {
+          "Question": "What technology did the Kepler space telescope primarily use to detect exoplanets?",
+          "TrueAnswer": "Transit photometry",
+          "FalseAnswer": [
+            "Radial velocity",
+            "Direct imaging",
+            "Microlensing"
+          ],
+          "Explanation": "Kepler primarily utilized the transit photometry method, observing the slight dimming of stars when planets pass in front of them, enabling the discovery of thousands of exoplanets across the Milky Way galaxy."
+        },
+        {
+          "Question": "What is the purpose of the active shielding technology on NASA's Orion spacecraft?",
+          "TrueAnswer": "Protecting astronauts from cosmic radiation",
+          "FalseAnswer": [
+            "Enhancing spacecraft maneuverability",
+            "Enabling long-term life support",
+            "Eliminating micrometeoroid impacts"
+          ],
+          "Explanation": "The active shielding system in NASA's Orion spacecraft is designed to minimize the exposure of astronauts to harmful cosmic radiation during deep-space missions, safeguarding their health and well-being in the space environment."
+        },
+        {
+          "Question": "Which space agency developed the Canadarm robotic manipulator systems used on the Space Shuttle and ISS?",
+          "TrueAnswer": "CSA",
+          "FalseAnswer": [
+            "NASA",
+            "ESA",
+            "Roscosmos"
+          ],
+          "Explanation": "The Canadian Space Agency (CSA) designed and developed the Canadarm systems, advanced robotic arms used for various tasks including satellite deployment, assembly of space structures, and maintenance on the Space Shuttle and the International Space Station."
+        },
+        {
+          "Question": "What is the primary purpose of the Space Launch System (SLS) developed by NASA?",
+          "TrueAnswer": "Human space exploration missions",
+          "FalseAnswer": [
+            "Satellite deployment",
+            "Space science research",
+            "Space debris removal"
+          ],
+          "Explanation": "The Space Launch System (SLS) is a powerful launch vehicle designed specifically for crewed missions beyond low Earth orbit, serving as the backbone for NASA's ambitious human exploration initiatives, including missions to the Moon and Mars."
+        },
+        {
+          "Question": "What innovation does the VASIMR plasma rocket engine bring to space propulsion technology?",
+          "TrueAnswer": "Electric propulsion",
+          "FalseAnswer": [
+            "Chemical propulsion",
+            "Ion propulsion",
+            "Nuclear propulsion"
+          ],
+          "Explanation": "The VASIMR engine utilizes radio frequency heating of plasma, enabling more efficient and controllable electric propulsion, offering the potential for faster and more economical interplanetary travel and cargo delivery in space exploration."
+        },
+        {
+          "Question": "Which private company launched the first commercially developed crewed spacecraft to the International Space Station?",
+          "TrueAnswer": "SpaceX",
+          "FalseAnswer": [
+            "Blue Origin",
+            "Boeing",
+            "Virgin Galactic"
+          ],
+          "Explanation": "SpaceX's Crew Dragon spacecraft became the first commercially built and operated crewed spacecraft to transport astronauts to the International Space Station, marking a significant milestone in advancing commercial space exploration."
+        },
+        {
+          "Question": "What astrophysical phenomenon does the Chandra X-ray Observatory primarily study in the universe?",
+          "TrueAnswer": "High-energy X-ray emissions",
+          "FalseAnswer": [
+            "Visible light spectrum",
+            "Infrared radiation",
+            "Gamma-ray bursts"
+          ],
+          "Explanation": "The Chandra X-ray Observatory focuses on capturing and analyzing high-energy X-ray emissions from cosmic sources, including black holes, supernova remnants, and galaxy clusters, providing valuable insights into extreme astrophysical processes."
+        },
+        {
+          "Question": "What is the function of the Mars Ascent Vehicle in the Mars Sample Return mission?",
+          "TrueAnswer": "Launch samples from Mars to orbit",
+          "FalseAnswer": [
+            "Deploying robotic rovers",
+            "Creating habitable environments",
+            "Extracting water from Martian soil"
+          ],
+          "Explanation": "The Mars Ascent Vehicle will play a critical role in the Mars Sample Return mission by launching the collected samples from the Martian surface to orbit, where they can be retrieved and returned to Earth for detailed analysis by scientists."
+        },
+        {
+          "Question": "Which company designed and manufactured the Lunar Module used in the Apollo Moon landing missions?",
+          "TrueAnswer": "Grumman Aerospace",
+          "FalseAnswer": [
+            "Lockheed Martin",
+            "Boeing",
+            "Northrop Grumman"
+          ],
+          "Explanation": "Grumman Aerospace Corporation, now part of Northrop Grumman, designed and built the Lunar Module, the spacecraft that carried astronauts from lunar orbit to the lunar surface during the Apollo missions, culminating in the first human steps on the Moon."
+        },
+        {
+          "Question": "What type of propulsion technology powers the main thrusters of the Cassini spacecraft during its mission at Saturn?",
+          "TrueAnswer": "Chemical",
+          "FalseAnswer": [
+            "Ion",
+            "Plasma",
+            "Electric"
+          ],
+          "Explanation": "The Cassini spacecraft utilizes chemical propulsion, specifically liquid bipropellant thrusters, for trajectory adjustments and orbital maneuvers during its mission exploring the Saturnian system and its fascinating moons."
+        }
+      ]
+    }
+  ]
+}

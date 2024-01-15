@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2235964311580439832
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7107359560897892431}
+  - component: {fileID: 2054565029937538495}
+  m_Layer: 0
+  m_Name: Science_Scientific_Method_and_Inquiry.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7107359560897892431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2235964311580439832}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2054565029937538495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2235964311580439832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the first step in the scientific method?
+      TrueAnswer: Ask a question
+      FalseAnswer:
+      - Analyze data
+      - Form a hypothesis
+      - Create an experiment
+      Explanation: The first step in the scientific method is asking a question to
+        identify the problem or phenomenon to be studied.
+    - Question: What is the purpose of a control group in an experiment?
+      TrueAnswer: To provide a baseline for comparison
+      FalseAnswer:
+      - To receive the experimental treatment
+      - To test the hypothesis
+      - To prove the null hypothesis
+      Explanation: A control group is used to provide a baseline for comparison to
+        see the effects caused by the experimental treatment.
+    - Question: What is the difference between accuracy and precision?
+      TrueAnswer: Accuracy is how close a measurement is to the true value
+      FalseAnswer:
+      - Precision is the same as accuracy
+      - Accuracy is the same as precision
+      - Precision is the measure of exactness
+      Explanation: Accuracy refers to how close a measurement is to the true value,
+        while precision measures how close multiple measurements are to each other.
+    - Question: What is the purpose of peer review in scientific research?
+      TrueAnswer: To ensure the quality and validity of research
+      FalseAnswer:
+      - To promote competition among researchers
+      - To speed up the publication process
+      - To increase the number of citations
+      Explanation: Peer review helps ensure the quality and validity of research
+        by having experts in the same field critically evaluate the research before
+        publication.
+    - Question: Which of the following is not a component of a well-designed experiment?
+      TrueAnswer: Unreliable equipment
+      FalseAnswer:
+      - Repeatable results
+      - Controlled variables
+      - Clear procedures
+      Explanation: Using unreliable equipment can introduce errors and affect the
+        accuracy and reliability of the experimental results.
+    - Question: What is the purpose of a hypothesis in the scientific method?
+      TrueAnswer: To make a testable prediction
+      FalseAnswer:
+      - To prove a theory
+      - To collect data
+      - To design the experiment
+      Explanation: A hypothesis is a testable prediction or explanation for a phenomenon,
+        which can be supported or rejected through experimentation and observation.
+    - Question: What is a double-blind experiment?
+      TrueAnswer: Neither the researchers nor the participants know who is in the
+        control or experimental group
+      FalseAnswer:
+      - Only the researchers know who is in the control or experimental group
+      - Only the participants know who is in the control or experimental group
+      - There are two separate experiments conducted simultaneously
+      Explanation: In a double-blind experiment, both the researchers and the participants
+        do not know who is in the control or experimental group to avoid bias and
+        subjective influence on the results.
+    - Question: What is a null hypothesis?
+      TrueAnswer: A statement that there is no effect or no difference
+      FalseAnswer:
+      - A proven theory
+      - A confirmed hypothesis
+      - A prediction based on prior research
+      Explanation: The null hypothesis is a statement that there is no effect or
+        no difference, which can be tested against an alternative hypothesis to determine
+        the significance of experimental results.
+    - Question: What are qualitative data?
+      TrueAnswer: Descriptive and non-numerical data
+      FalseAnswer:
+      - Numerical and measurable data
+      - Statistical data
+      - Binary data
+      Explanation: Qualitative data are descriptive and non-numerical, often involving
+        observations, interviews, or open-ended survey responses, providing insights
+        into underlying reasons, opinions, and motivations.
+    - Question: What is the significance level in hypothesis testing?
+      TrueAnswer: The probability of rejecting the null hypothesis when it is true
+      FalseAnswer:
+      - The confidence interval
+      - The p-value
+      - The precision of the measurement
+      Explanation: The significance level, often denoted by alpha, is the probability
+        of rejecting the null hypothesis when it is true, indicating the chance of
+        making a Type I error in hypothesis testing.
+    - Question: What is a scientific theory?
+      TrueAnswer: A well-substantiated explanation of some aspect of the natural
+        world
+      FalseAnswer:
+      - An unproven hypothesis
+      - A random guess
+      - A subjective opinion
+      Explanation: A scientific theory is a well-substantiated explanation of some
+        aspect of the natural world that is based on a body of evidence and has stood
+        rigorous testing and scrutiny.
+    - Question: What is the last step in the scientific method?
+      TrueAnswer: Draw a conclusion
+      FalseAnswer:
+      - Analyze the results
+      - Collect more data
+      - Revise the hypothesis
+      Explanation: Drawing a conclusion involves analyzing the data collected during
+        the experiment to determine whether the hypothesis is supported or rejected.
+    - Question: What is the purpose of randomization in an experiment?
+      TrueAnswer: To reduce bias and confounding variables
+      FalseAnswer:
+      - To ensure equal group sizes
+      - To control for external influences
+      - To increase statistical power
+      Explanation: Randomization helps reduce bias by assigning subjects randomly
+        to different groups, ensuring that any confounding variables are evenly distributed
+        among the groups.
+    - Question: What is the difference between a fact and a theory in science?
+      TrueAnswer: A fact is an observation, while a theory is an explanation
+      FalseAnswer:
+      - A fact is always true, while a theory is uncertain
+      - A theory is a collection of facts
+      - A fact is a proven theory
+      Explanation: In science, a fact is an objective and verifiable observation,
+        while a theory is a well-substantiated explanation of the natural world,
+        supported by a vast body of evidence.
+    - Question: What is the role of a scientific model in inquiry?
+      TrueAnswer: To represent a system or process
+      FalseAnswer:
+      - To predict experimental outcomes
+      - To replace experimentation
+      - To prove a hypothesis
+      Explanation: Scientific models are used to represent complex systems or processes
+        in a simplified way, aiding in understanding, visualizing, and making predictions
+        about natural phenomena.
+    - Question: What is the purpose of statistical analysis in scientific research?
+      TrueAnswer: To interpret and draw conclusions from data
+      FalseAnswer:
+      - To prove the hypothesis
+      - To select the experimental design
+      - To test the control group
+      Explanation: Statistical analysis allows researchers to analyze and interpret
+        large sets of data, identify patterns or trends, and draw meaningful conclusions
+        about the research hypothesis.
+    - Question: What is a systematic error in an experiment?
+      TrueAnswer: A consistent and predictable deviation from the true value
+      FalseAnswer:
+      - A random fluctuation of measurements
+      - An accidental mistake in the procedure
+      - An unexplained anomaly in the data
+      Explanation: Systematic errors are consistent and predictable deviations from
+        the true value caused by flaws in the experimental setup or measurement process,
+        which can affect the accuracy of results.
+    - Question: What is the purpose of a literature review in scientific inquiry?
+      TrueAnswer: To provide background and context for the research
+      FalseAnswer:
+      - To collect primary data
+      - To support the null hypothesis
+      - To determine the experimental variables
+      Explanation: A literature review summarizes and synthesizes existing research
+        and knowledge on a specific topic, providing the background and context for
+        the current research and identifying gaps or areas for further investigation.
+    - Question: What is a type I error in hypothesis testing?
+      TrueAnswer: False positive - rejecting a true null hypothesis
+      FalseAnswer:
+      - False negative - accepting a false null hypothesis
+      - Type II error
+      - Beta error
+      Explanation: A type I error occurs when a true null hypothesis is incorrectly
+        rejected, leading to the conclusion that there is a significant effect or
+        difference when there is not, resulting in a false positive outcome.
+    - Question: What is the purpose of an abstract in a scientific paper?
+      TrueAnswer: To summarize the key aspects of the research
+      FalseAnswer:
+      - To present the results
+      - To discuss the methodology
+      - To acknowledge the funding sources
+      Explanation: An abstract provides a concise summary of the research paper,
+        including the objectives, methodology, results, and conclusions, enabling
+        readers to quickly grasp the essential aspects of the study.

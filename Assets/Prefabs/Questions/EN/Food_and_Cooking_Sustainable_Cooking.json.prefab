@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4460671065297339157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3306426495828407342}
+  - component: {fileID: 3588898862753335367}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Sustainable_Cooking.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3306426495828407342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4460671065297339157}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3588898862753335367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4460671065297339157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is a sustainable alternative to plastic wrap for storing food?
+      TrueAnswer: Beeswax wrap
+      FalseAnswer:
+      - Aluminum foil
+      - Plastic containers
+      - Ziplock bags
+      Explanation: Beeswax wrap is a natural and reusable alternative to plastic
+        wrap, made from fabric infused with beeswax, jojoba oil, and tree resin.
+    - Question: What is considered the most sustainable method of cooking food?
+      TrueAnswer: Using a pressure cooker
+      FalseAnswer:
+      - Grilling
+      - Deep frying
+      - Microwaving
+      Explanation: Pressure cookers use less water and energy, as well as retain
+        more nutrients compared to other cooking methods.
+    - Question: Which cooking oil has the lowest environmental impact?
+      TrueAnswer: Sunflower oil
+      FalseAnswer:
+      - Palm oil
+      - Coconut oil
+      - Soybean oil
+      Explanation: Sunflower oil has a lower carbon footprint and requires less land
+        use compared to palm oil, coconut oil, and soybean oil.
+    - Question: What is a sustainable practice for reducing food waste in the kitchen?
+      TrueAnswer: Composting food scraps
+      FalseAnswer:
+      - Throwing food scraps in the trash
+      - Using a garbage disposal
+      - Freezing leftovers
+      Explanation: Composting food scraps reduces methane emissions from landfills
+        and creates nutrient-rich soil for gardening.
+    - Question: Which type of seafood is considered the most sustainable choice?
+      TrueAnswer: Sardines
+      FalseAnswer:
+      - Shrimp
+      - Tuna
+      - Salmon
+      Explanation: Sardines are abundant, low in mercury, and are harvested using
+        sustainable fishing methods, making them an environmentally friendly seafood
+        choice.
+    - Question: What sustainable ingredient can be used as a substitute for meat
+        in dishes?
+      TrueAnswer: Lentils
+      FalseAnswer:
+      - Quinoa
+      - Tofu
+      - Seitan
+      Explanation: Lentils are high in protein, require less water to grow compared
+        to meat, and have a lower carbon footprint.
+    - Question: What is an eco-friendly material for kitchen utensils and cookware?
+      TrueAnswer: Bamboo
+      FalseAnswer:
+      - Plastic
+      - Stainless steel
+      - Ceramic
+      Explanation: Bamboo is a sustainable, renewable resource that grows quickly
+        and can be used to make durable and biodegradable kitchen tools.
+    - Question: Which appliance is the most energy-efficient for cooking?
+      TrueAnswer: Induction cooktop
+      FalseAnswer:
+      - Gas stove
+      - Electric coil stove
+      - Microwave
+      Explanation: Induction cooktops use electromagnetic technology to heat only
+        the cookware, resulting in higher energy efficiency compared to gas and electric
+        stoves.
+    - Question: What is a sustainable method for preserving fruits and vegetables?
+      TrueAnswer: Canning
+      FalseAnswer:
+      - Freezing
+      - Dehydrating
+      - Pickling
+      Explanation: Canning extends the shelf life of produce without refrigeration,
+        reducing energy consumption and food waste.
+    - Question: Which kitchen practice promotes sustainable seafood consumption?
+      TrueAnswer: Checking for MSC certification
+      FalseAnswer:
+      - Buying farmed seafood
+      - Choosing exotic species
+      - Ignoring product labels
+      Explanation: The Marine Stewardship Council (MSC) certification ensures the
+        seafood is sustainably caught, preserving marine ecosystems.
+    - Question: What is a sustainable alternative to disposable plastic cutlery?
+      TrueAnswer: Biodegradable cutlery
+      FalseAnswer:
+      - Metal cutlery
+      - Plastic cutlery
+      - Reusable plastic cutlery
+      Explanation: Biodegradable cutlery made from plant-based materials decomposes
+        naturally, reducing plastic pollution in landfills and oceans.
+    - Question: Which sustainable cooking method reduces greenhouse gas emissions?
+      TrueAnswer: Using solar cookers
+      FalseAnswer:
+      - Braising
+      - "Saut\xE9ing"
+      - Steaming
+      Explanation: Solar cookers harness renewable solar energy and produce zero
+        carbon emissions while cooking food.
+    - Question: What is a more sustainable option for sweetening dishes compared
+        to sugar?
+      TrueAnswer: Maple syrup
+      FalseAnswer:
+      - Agave nectar
+      - Honey
+      - Artificial sweeteners
+      Explanation: Maple syrup is derived from the sap of maple trees and is a natural,
+        unprocessed sweetener with a lower environmental impact compared to refined
+        sugar.
+    - Question: Which cooking practice aligns with sustainable agriculture and local
+        sourcing?
+      TrueAnswer: Seasonal cooking
+      FalseAnswer:
+      - Importing exotic ingredients
+      - Using non-seasonal produce
+      - No regard for sourcing
+      Explanation: Seasonal cooking supports local farmers, reduces transportation
+        emissions, and promotes fresher, more flavorful ingredients.
+    - Question: What sustainable substitute can be used instead of paper towels in
+        the kitchen?
+      TrueAnswer: Cloth towels
+      FalseAnswer:
+      - Napkins
+      - Sponge
+      - Reusable paper towels
+      Explanation: Cloth towels are washable and reusable, minimizing paper waste
+        and environmental impact compared to single-use paper towels.
+    - Question: Which sustainable cooking practice minimizes water usage?
+      TrueAnswer: One-pot cooking
+      FalseAnswer:
+      - Running water while cooking
+      - Using multiple pots
+      - Constantly checking food in the pot
+      Explanation: One-pot cooking reduces water consumption by cooking multiple
+        ingredients together in a single pot, minimizing water waste during cleanup.
+    - Question: What is a sustainable alternative to traditional seafood seasoning
+        like fish sauce?
+      TrueAnswer: Seaweed-based seasoning
+      FalseAnswer:
+      - Soy sauce
+      - Oyster sauce
+      - Worcestershire sauce
+      Explanation: Seaweed-based seasoning provides a savory umami flavor and is
+        a sustainable alternative to fish-based seasonings, reducing pressure on
+        marine resources.
+    - Question: Which sustainable cooking method helps conserve nutrients in vegetables?
+      TrueAnswer: Steam cooking
+      FalseAnswer:
+      - Boiling
+      - Frying
+      - Roasting
+      Explanation: Steam cooking minimizes nutrient loss compared to boiling, frying,
+        or roasting, preserving the nutritional value of vegetables.
+    - Question: What is a sustainable option for reducing plastic waste in food packaging?
+      TrueAnswer: Eco-friendly food wraps
+      FalseAnswer:
+      - Plastic cling wrap
+      - Foam containers
+      - Single-use plastic bags
+      Explanation: Eco-friendly food wraps made from beeswax or cloth are reusable
+        and help reduce reliance on single-use plastic packaging.
+    - Question: Which sustainable cooking practice promotes diversity and reduces
+        food waste?
+      TrueAnswer: Using food scraps in creative recipes
+      FalseAnswer:
+      - Disposing of food scraps
+      - Sticking to traditional recipes
+      - Overstocking perishable ingredients
+      Explanation: Utilizing food scraps in innovative recipes reduces food waste
+        and encourages a diverse and sustainable approach to cooking.

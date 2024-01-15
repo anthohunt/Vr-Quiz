@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3322354513997876924
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8965957619723108252}
+  - component: {fileID: 7375858048860506632}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Experimental_and_Avant-Garde_Cuisine.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8965957619723108252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3322354513997876924}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7375858048860506632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3322354513997876924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who founded the famed elBulli restaurant, a pioneer of avant-garde
+        cuisine?
+      TrueAnswer: "Ferran Adri\xE0"
+      FalseAnswer:
+      - Gordon Ramsay
+      - Heston Blumenthal
+      - Thomas Keller
+      Explanation: "Ferran Adri\xE0, known for his experimental techniques, led elBulli
+        to be regarded as one of the best restaurants in the world."
+    - Question: Which of these is a prominent technique in avant-garde cuisine?
+      TrueAnswer: Spherification
+      FalseAnswer:
+      - Grilling
+      - Boiling
+      - Pan-frying
+      Explanation: Spherification involves shaping liquids into spheres, creating
+        unusual textures and flavor bursts, a hallmark of modernist cuisine.
+    - Question: What is the primary function of a rotary evaporator in experimental
+        cooking?
+      TrueAnswer: Extracting flavors
+      FalseAnswer:
+      - Whipping cream
+      - Searing meat
+      - Braising vegetables
+      Explanation: Rotary evaporators are used to extract and concentrate flavors
+        from ingredients at low temperatures, enriching experimental cooking methods.
+    - Question: Who authored the influential cookbook 'The Fat Duck Cookbook' showcasing
+        avant-garde techniques?
+      TrueAnswer: Heston Blumenthal
+      FalseAnswer:
+      - Julia Child
+      - Jamie Oliver
+      - Massimo Bottura
+      Explanation: Heston Blumenthal is renowned for his scientific approach to cooking,
+        as evidenced in 'The Fat Duck Cookbook.'
+    - Question: Which ingredient is typically used to create a smoking effect in
+        avant-garde cuisine?
+      TrueAnswer: Wood chips
+      FalseAnswer:
+      - Cinnamon powder
+      - Paprika
+      - Clove buds
+      Explanation: Wood chips are often employed in smoking guns to infuse unconventional
+        smoky flavors in avant-garde dishes.
+    - Question: What is the primary purpose of liquid nitrogen in experimental cuisine?
+      TrueAnswer: Flash freezing
+      FalseAnswer:
+      - Making dough
+      - Simmering soups
+      - Marinating meats
+      Explanation: Liquid nitrogen's ultra-low temperature allows rapid freezing,
+        preserving textures and creating unique frozen presentations in avant-garde
+        cuisine.
+    - Question: Which cuisine movement often intertwines avant-garde techniques with
+        traditional preparation methods?
+      TrueAnswer: Molecular gastronomy
+      FalseAnswer:
+      - Raw food diet
+      - Veganism
+      - Paleo diet
+      Explanation: Molecular gastronomy embraces scientific principles to transform
+        the textures and flavors of classic dishes, creating modern interpretations.
+    - Question: What is the characteristic texture of a foamed dish prepared using
+        siphons in experimental cooking?
+      TrueAnswer: Aerated
+      FalseAnswer:
+      - Gelatinous
+      - Crunchy
+      - Fibrous
+      Explanation: Siphons create aerated foams, lending a light and airy texture
+        to avant-garde dishes, enhancing their visual and gustatory appeal.
+    - Question: Which tool is commonly used to apply controlled heat in avant-garde
+        cooking, leading to precise caramelization?
+      TrueAnswer: Blowtorch
+      FalseAnswer:
+      - Pressure cooker
+      - Rice cooker
+      - Sous vide machine
+      Explanation: Blowtorches offer precise searing and browning, ideal for controlled
+        caramelization of surfaces in experimental and avant-garde cuisine.
+    - Question: What is the purpose of adding agar-agar to avant-garde culinary creations?
+      TrueAnswer: Gelation
+      FalseAnswer:
+      - Sweetening
+      - Raising dough
+      - Emulsifying
+      Explanation: Agar-agar, derived from seaweed, is used for its gelling properties,
+        creating stable textures and shapes in experimental dishes.
+    - Question: What distinguishes a deconstructed dish in avant-garde gastronomy?
+      TrueAnswer: Reimagined presentation
+      FalseAnswer:
+      - Simple plating
+      - Classic flavor pairings
+      - Traditional cooking methods
+      Explanation: Deconstructed dishes feature reimagined elements of a traditional
+        dish, presented in innovative, fragmented forms, enhancing diners' sensory
+        experiences.
+    - Question: Which fruit is often transformed through freeze-drying to create
+        avant-garde culinary garnishes?
+      TrueAnswer: Strawberry
+      FalseAnswer:
+      - Apple
+      - Banana
+      - Orange
+      Explanation: Freeze-dried strawberries yield delicate, crisp additions, intensifying
+        flavors and textures in experimental and avant-garde culinary creations.
+    - Question: Cryoconcentration, a technique in avant-garde cooking, involves the
+        extraction of flavors using what method?
+      TrueAnswer: Freezing
+      FalseAnswer:
+      - Fermenting
+      - Boiling
+      - Caramelizing
+      Explanation: Cryoconcentration uses freezing to concentrate flavors, providing
+        intense taste experiences and facilitating innovative culinary creations.
+    - Question: In avant-garde cuisine, what role does hydrocolloid powder play in
+        recipe development?
+      TrueAnswer: Texture modification
+      FalseAnswer:
+      - Increasing sweetness
+      - Enhancing aroma
+      - Balancing acidity
+      Explanation: Hydrocolloid powders alter textures, stabilizing emulsions and
+        creating gels, enabling chefs to innovate and craft novel culinary experiences.
+    - Question: Which unconventional vessel is often used for sous-vide cooking in
+        experimental culinary practices?
+      TrueAnswer: Plastic bag
+      FalseAnswer:
+      - Glass jar
+      - Aluminum foil
+      - Ceramic dish
+      Explanation: Plastic bags facilitate precise temperature control and flavor
+        infusion, making them a popular vessel for sous-vide cooking in experimental
+        cuisine.
+    - Question: What is the primary objective of a centrifuge in avant-garde cooking?
+      TrueAnswer: Separating components
+      FalseAnswer:
+      - Infusing flavors
+      - Aerating mixtures
+      - Blending ingredients
+      Explanation: Centrifuges discerningly separate components based on density,
+        allowing chefs to extract pure essences and refine textures in experimental
+        cuisine.
+    - Question: Which of these is a prominent characteristic of avant-garde edible
+        art installations?
+      TrueAnswer: Interaction
+      FalseAnswer:
+      - Observation
+      - Stillness
+      - Traditional plating
+      Explanation: Edible art installations urge diners to interact with the dish,
+        breaking the conventions of passive consumption and engaging multiple senses.
+    - Question: What is the purpose of using transglutaminase in experimental cuisine?
+      TrueAnswer: Bonding proteins
+      FalseAnswer:
+      - Leavening dough
+      - Emulsifying liquids
+      - Tenderizing meats
+      Explanation: Transglutaminase binds proteins, enabling chefs to create novel
+        textures and structures, revolutionizing the presentation of avant-garde
+        dishes.
+    - Question: What is a notable characteristic of a spherical dish created through
+        reverse spherification?
+      TrueAnswer: Liquid interior
+      FalseAnswer:
+      - Gelatinous exterior
+      - Crunchy exterior
+      - Hollow interior
+      Explanation: Reverse spherification forms a thin gel exterior, encapsulating
+        a flavorful liquid interior, showcasing the innovative textures in avant-garde
+        cuisine.
+    - Question: Which molecular gastronomy technique utilizes calcium chloride to
+        create firm gel spheres?
+      TrueAnswer: Basic spherification
+      FalseAnswer:
+      - Hot gelification
+      - Alginate bath
+      - Agar clarification
+      Explanation: Basic spherification involves immersing liquid mixtures in calcium
+        chloride to form stable and firm gel spheres, enhancing avant-garde presentations.

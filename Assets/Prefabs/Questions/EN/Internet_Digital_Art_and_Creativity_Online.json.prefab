@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1443638009098679316
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4156700019850462771}
+  - component: {fileID: 5474477367800949206}
+  m_Layer: 0
+  m_Name: Internet_Digital_Art_and_Creativity_Online.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4156700019850462771
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443638009098679316}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5474477367800949206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1443638009098679316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular file format for digital art?
+      TrueAnswer: JPEG
+      FalseAnswer:
+      - TIFF
+      - GIF
+      - PNG
+      Explanation: JPEG, or Joint Photographic Experts Group, is commonly used for
+        digital art due to its small file size and widely supported compression.
+    - Question: Which software is widely used for 3D digital art?
+      TrueAnswer: Blender
+      FalseAnswer:
+      - Adobe Photoshop
+      - Procreate
+      - Krita
+      Explanation: Blender is popular for 3D digital art creation due to its open-source
+        nature, extensive features, and active community support.
+    - Question: What is a common digital canvas size for online artwork?
+      TrueAnswer: 1080x1080 pixels
+      FalseAnswer:
+      - 800x600 pixels
+      - 1920x1080 pixels
+      - 400x400 pixels
+      Explanation: 1080x1080 pixels is a popular digital canvas size for online artwork,
+        especially for social media platforms like Instagram and Pinterest.
+    - Question: What online platform is known for its digital art community?
+      TrueAnswer: DeviantArt
+      FalseAnswer:
+      - Pinterest
+      - Behance
+      - ArtStation
+      Explanation: DeviantArt is a vibrant online community for digital artists to
+        showcase and share their work, connect with others, and participate in digital
+        art-related contests and events.
+    - Question: Which of the following is a popular digital art tablet brand?
+      TrueAnswer: Wacom
+      FalseAnswer:
+      - Huion
+      - XP-Pen
+      - Apple
+      Explanation: Wacom is widely recognized for its high-quality digital art tablets,
+        featuring pressure-sensitive stylus pens for precise and natural digital
+        drawing and painting.
+    - Question: What is the term for the manipulation of existing digital art to
+        create a new composition?
+      TrueAnswer: Digital collage
+      FalseAnswer:
+      - Pixel art
+      - Vector tracing
+      - Morphing
+      Explanation: Digital collage involves combining and altering elements from
+        different digital artworks to form a new, cohesive composition, often with
+        thematic or artistic intent.
+    - Question: Which color mode is commonly used for digital art intended for web
+        viewing?
+      TrueAnswer: RGB
+      FalseAnswer:
+      - CMYK
+      - Grayscale
+      - Indexed color
+      Explanation: RGB (Red, Green, Blue) color mode is ideal for digital art intended
+        for web viewing, as it accurately represents colors displayed on electronic
+        screens.
+    - Question: What is the common term for digital art that simulates traditional
+        media?
+      TrueAnswer: Digital painting
+      FalseAnswer:
+      - Digital sculpture
+      - Augmented reality art
+      - Generative art
+      Explanation: Digital painting refers to the creation of artwork using digital
+        tools to emulate traditional painting techniques, such as brush strokes and
+        color blending, on a computer or tablet.
+    - Question: What file format supports animation in digital art?
+      TrueAnswer: GIF
+      FalseAnswer:
+      - SVG
+      - MOV
+      - AVI
+      Explanation: GIF (Graphics Interchange Format) allows for simple animations
+        in digital art, commonly used for short, looping animations and low-resolution
+        motion graphics.
+    - Question: Which online platform is known for its digital art market and NFT
+        sales?
+      TrueAnswer: SuperRare
+      FalseAnswer:
+      - Etsy
+      - Redbubble
+      - Society6
+      Explanation: SuperRare is an online platform that specializes in digital art
+        and NFT (Non-Fungible Token) sales, allowing artists to mint and sell unique
+        digital artworks as collectible tokens.
+    - Question: Who is a prominent digital artist known for pioneering glitch art?
+      TrueAnswer: Phillip Stearns
+      FalseAnswer:
+      - Banksy
+      - Yayoi Kusama
+      - JR
+      Explanation: Phillip Stearns is a leading figure in glitch art, an artistic
+        practice that involves exploiting technical errors and imperfections in digital
+        systems to create visually striking and conceptually rich artworks.
+    - Question: Which online platform is popular for hosting digital art tutorials
+        and resources?
+      TrueAnswer: ArtStation
+      FalseAnswer:
+      - YouTube
+      - Skillshare
+      - Udemy
+      Explanation: ArtStation is a renowned hub for digital art tutorials and resources,
+        featuring a wide range of educational content, industry insights, and artist-led
+        workshops for aspiring and established digital artists.
+    - Question: What is the common term for overlaying textures or patterns on digital
+        art?
+      TrueAnswer: Texture mapping
+      FalseAnswer:
+      - Rotoscoping
+      - Parallax scrolling
+      - Motion capture
+      Explanation: Texture mapping involves applying textures or patterns onto surfaces
+        in digital art to enhance visual realism, depth, and detail, often used in
+        3D rendering and game development.
+    - Question: What is the primary advantage of using digital art software for creative
+        expression?
+      TrueAnswer: Undo/Redo functionality
+      FalseAnswer:
+      - Limited color options
+      - Incompatible file formats
+      - Hardware dependence
+      Explanation: The undo/redo functionality in digital art software allows artists
+        to experiment freely, revise their work iteratively, and undo mistakes, providing
+        greater creative flexibility and experimentation in the digital art process.
+    - Question: Which digital art technique involves algorithmic generation of visuals
+        and animations?
+      TrueAnswer: Procedural generation
+      FalseAnswer:
+      - Stop motion
+      - Tilt-shift photography
+      - Surrealism
+      Explanation: Procedural generation utilizes algorithms to create and manipulate
+        digital visuals and animations, enabling artists to generate complex, varied,
+        and often unpredictable artistic output with computational logic.
+    - Question: What software is renowned for its digital sculpting capabilities?
+      TrueAnswer: ZBrush
+      FalseAnswer:
+      - Microsoft Paint
+      - Autodesk SketchBook
+      - Clip Studio Paint
+      Explanation: ZBrush is celebrated for its powerful digital sculpting tools,
+        enabling artists to craft intricate and lifelike 3D models, sculptures, and
+        character designs with exceptional detail and surface realism.
+    - Question: What is the term for the deliberate distortion of digital art to
+        evoke emotion or symbolism?
+      TrueAnswer: Pixelation
+      FalseAnswer:
+      - Motion blur
+      - Lens flare
+      - Chromatic aberration
+      Explanation: Pixelation involves intentionally distorting digital art, often
+        at the pixel level, to convey specific emotions, themes, or aesthetic qualities,
+        blurring the lines between digital precision and artistic expression.
+    - Question: What does the term 'NFT' stand for in the context of digital art?
+      TrueAnswer: Non-Fungible Token
+      FalseAnswer:
+      - Negotiable Fidelity Tag
+      - Networked File Transfer
+      - Neural Feedback Test
+      Explanation: NFTs are unique digital tokens that represent ownership or proof
+        of authenticity for digital artworks, leveraging blockchain technology for
+        secure and immutable art transactions.
+    - Question: Which digital art style incorporates technology and futuristic themes?
+      TrueAnswer: Cyberpunk
+      FalseAnswer:
+      - Abstract expressionism
+      - Minimalism
+      - Realism
+      Explanation: Cyberpunk art style focuses on dystopian and futuristic elements,
+        often blending technology, urban landscapes, and cybernetic augmentation
+        to create visually striking and conceptually layered artworks.
+    - Question: What digital art technique involves creating seamless visual transitions
+        between images?
+      TrueAnswer: Morphing
+      FalseAnswer:
+      - Dithering
+      - Op art
+      - Perspective distortion
+      Explanation: Morphing is the digital art technique of creating smooth, seamless
+        transitions between images, often used for visual effects, transformation
+        sequences, and surrealistic animations.

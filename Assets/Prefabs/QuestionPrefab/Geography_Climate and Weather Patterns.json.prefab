@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8853485030350525663
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8477380652950843557}
+  - component: {fileID: 8755746125385737653}
+  m_Layer: 0
+  m_Name: Geography_Climate and Weather Patterns.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8477380652950843557
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8853485030350525663}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8755746125385737653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8853485030350525663}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the average temperature in the Sahara Desert?
+      TrueAnswer: "40\xB0C"
+      FalseAnswer:
+      - "10\xB0C"
+      - "25\xB0C"
+      - "50\xB0C"
+      Explanation: "The Sahara Desert has an average temperature of 40\xB0C, making
+        it one of the hottest places on Earth."
+    - Question: Which of the following is a type of tropical cyclone?
+      TrueAnswer: Hurricane
+      FalseAnswer:
+      - Tornado
+      - Blizzard
+      - Drought
+      Explanation: A hurricane is a type of tropical cyclone characterized by strong
+        winds and heavy rainfall.
+    - Question: What is the main cause of the greenhouse effect?
+      TrueAnswer: Carbon dioxide
+      FalseAnswer:
+      - Oxygen
+      - Nitrogen
+      - Methane
+      Explanation: Carbon dioxide is the main greenhouse gas responsible for trapping
+        heat in the Earth's atmosphere.
+    - Question: Which of the following is a greenhouse gas?
+      TrueAnswer: Water vapor
+      FalseAnswer:
+      - Ozone
+      - Nitrogen
+      - Argon
+      Explanation: Water vapor is a greenhouse gas that contributes to the Earth's
+        natural greenhouse effect.
+    - Question: What is the term for the boundary between two air masses of different
+        temperatures?
+      TrueAnswer: Front
+      FalseAnswer:
+      - Equator
+      - Troposphere
+      - Stratosphere
+      Explanation: A front is the boundary between two air masses of different temperatures,
+        leading to weather changes.
+    - Question: Which of the following is a factor that influences climate?
+      TrueAnswer: Latitude
+      FalseAnswer:
+      - Altitude
+      - Ocean currents
+      - Humidity
+      Explanation: Latitude, or the distance from the equator, plays a significant
+        role in determining climate patterns.
+    - Question: What is the term for the process of water vapor turning into liquid
+        water?
+      TrueAnswer: Condensation
+      FalseAnswer:
+      - Evaporation
+      - Precipitation
+      - Sublimation
+      Explanation: Condensation is the process by which water vapor cools and turns
+        into liquid water, forming clouds.
+    - Question: Which of the following is a type of precipitation?
+      TrueAnswer: Hail
+      FalseAnswer:
+      - Fog
+      - Dew
+      - Sleet
+      Explanation: Hail is a form of precipitation that consists of ice pellets falling
+        from the sky during thunderstorms.
+    - Question: What is the term for the average weather conditions in a specific
+        area over a long period?
+      TrueAnswer: Climate
+      FalseAnswer:
+      - Weather
+      - Season
+      - Temperature
+      Explanation: Climate refers to the long-term average weather conditions in
+        a specific area, including temperature, precipitation, and wind patterns.
+    - Question: Which of the following is a factor that affects local weather patterns?
+      TrueAnswer: Topography
+      FalseAnswer:
+      - Latitude
+      - Altitude
+      - Ocean currents
+      Explanation: Topography, or the physical features of an area, can influence
+        local weather patterns by affecting wind flow and precipitation.
+    - Question: What is the term for the layer of the Earth's atmosphere where weather
+        occurs?
+      TrueAnswer: Troposphere
+      FalseAnswer:
+      - Stratosphere
+      - Mesosphere
+      - Thermosphere
+      Explanation: The troposphere is the lowest layer of the Earth's atmosphere
+        where weather phenomena, such as clouds and storms, take place.
+    - Question: Which of the following is a factor that influences ocean currents?
+      TrueAnswer: Wind
+      FalseAnswer:
+      - Temperature
+      - Salinity
+      - Tides
+      Explanation: Wind plays a significant role in driving ocean currents by transferring
+        energy to the water's surface.
+    - Question: What is the term for the process of water falling from the atmosphere
+        to the Earth's surface?
+      TrueAnswer: Precipitation
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Transpiration
+      Explanation: Precipitation is the process by which water in the atmosphere
+        falls to the Earth's surface in various forms, such as rain, snow, or hail.
+    - Question: Which of the following is a factor that affects the intensity of
+        solar radiation received by Earth?
+      TrueAnswer: Angle of incidence
+      FalseAnswer:
+      - Cloud cover
+      - Atmospheric pressure
+      - Humidity
+      Explanation: The angle of incidence, or the angle at which sunlight strikes
+        the Earth's surface, determines the intensity of solar radiation received.
+    - Question: What is the term for the process of water turning into water vapor
+        from the Earth's surface?
+      TrueAnswer: Evaporation
+      FalseAnswer:
+      - Condensation
+      - Precipitation
+      - Sublimation
+      Explanation: Evaporation is the process by which water changes from a liquid
+        state to a gaseous state, forming water vapor.
+    - Question: Which of the following is a factor that affects the formation of
+        clouds?
+      TrueAnswer: Humidity
+      FalseAnswer:
+      - Wind speed
+      - Air pressure
+      - Solar radiation
+      Explanation: Humidity, or the amount of moisture in the air, plays a crucial
+        role in cloud formation.
+    - Question: What is the term for the process of ice turning directly into water
+        vapor without melting?
+      TrueAnswer: Sublimation
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Precipitation
+      Explanation: Sublimation is the process by which ice changes directly into
+        water vapor without going through the liquid phase.
+    - Question: Which of the following is a factor that affects the strength of winds?
+      TrueAnswer: Pressure gradient
+      FalseAnswer:
+      - Temperature
+      - Humidity
+      - Altitude
+      Explanation: The pressure gradient, or the difference in air pressure between
+        two locations, influences the strength and direction of winds.
+    - Question: What is the term for the process of water vapor returning to the
+        Earth's surface as liquid or solid?
+      TrueAnswer: Precipitation
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Transpiration
+      Explanation: Precipitation is the process by which water vapor in the atmosphere
+        condenses and falls back to the Earth's surface.
+    - Question: Which of the following is a factor that affects the distribution
+        of precipitation?
+      TrueAnswer: Air masses
+      FalseAnswer:
+      - Latitude
+      - Altitude
+      - Ocean currents
+      Explanation: The movement and interaction of air masses play a significant
+        role in determining the distribution of precipitation in different regions.
+    - Question: What is the term for the process of water vapor being released by
+        plants into the atmosphere?
+      TrueAnswer: Transpiration
+      FalseAnswer:
+      - Evaporation
+      - Condensation
+      - Precipitation
+      Explanation: Transpiration is the process by which plants release water vapor
+        into the atmosphere through their leaves.

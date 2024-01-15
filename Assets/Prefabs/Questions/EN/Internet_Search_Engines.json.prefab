@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &918259824720585730
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4528553757795077426}
+  - component: {fileID: 4747136456196116734}
+  m_Layer: 0
+  m_Name: Internet_Search_Engines.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4528553757795077426
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918259824720585730}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4747136456196116734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 918259824720585730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular search engine?
+      TrueAnswer: Google
+      FalseAnswer:
+      - Bing
+      - Yahoo
+      - DuckDuckGo
+      Explanation: Google dominates the search engine market with a 90% share, processing
+        over 3.5 billion searches per day.
+    - Question: Which search engine is known for prioritizing user privacy?
+      TrueAnswer: DuckDuckGo
+      FalseAnswer:
+      - Google
+      - Bing
+      - Yahoo
+      Explanation: DuckDuckGo is renowned for not tracking users or storing their
+        personal information, ensuring privacy while searching.
+    - Question: What does SEO stand for?
+      TrueAnswer: Search Engine Optimization
+      FalseAnswer:
+      - Searching Extra Options
+      - Systematic Engine Output
+      - Serving Engaging Options
+      Explanation: SEO refers to the process of improving a website's visibility
+        and ranking in search engine results, driving organic traffic.
+    - Question: Which search engine is integrated into the Microsoft ecosystem?
+      TrueAnswer: Bing
+      FalseAnswer:
+      - Google
+      - Yahoo
+      - DuckDuckGo
+      Explanation: Bing is the default search engine for Microsoft's web browser
+        and is tightly integrated into Windows and other Microsoft products.
+    - Question: What is the term for the process of a search engine discovering web
+        pages?
+      TrueAnswer: Crawling
+      FalseAnswer:
+      - Scraping
+      - Indexing
+      - Querying
+      Explanation: Crawling is the process by which search engines systematically
+        browse the internet to find and record information about web pages.
+    - Question: Which search engine was the precursor to Google?
+      TrueAnswer: Backrub
+      FalseAnswer:
+      - Archie
+      - Lycos
+      - AltaVista
+      Explanation: Backrub, developed by Larry Page and Sergey Brin in 1996, laid
+        the foundation for the creation of Google.
+    - Question: What is the largest competitor to Google in the search engine market?
+      TrueAnswer: Bing
+      FalseAnswer:
+      - Yahoo
+      - DuckDuckGo
+      - Blekko
+      Explanation: Bing, backed by Microsoft, holds the second-largest share of the
+        search engine market and is the main competitor to Google.
+    - Question: Which search engine originated as a web directory?
+      TrueAnswer: Yahoo
+      FalseAnswer:
+      - Google
+      - Bing
+      - Ask Jeeves
+      Explanation: Yahoo started as a web directory called Jerry and David's Guide
+        to the World Wide Web before developing into a search engine.
+    - Question: Which search engine was known for its unique 'slurp' web crawler?
+      TrueAnswer: Yahoo
+      FalseAnswer:
+      - Google
+      - Bing
+      - Ask Jeeves
+      Explanation: Yahoo's 'slurp' was a web crawler used to index web pages and
+        gather information for the search engine's database.
+    - Question: Which search engine is affiliated with the phrase 'I'm feelin' lucky'?
+      TrueAnswer: Google
+      FalseAnswer:
+      - Bing
+      - Yahoo
+      - DuckDuckGo
+      Explanation: The 'I'm feeling lucky' button on Google bypasses search results
+        and directly takes users to the top-ranking page for the entered query.
+    - Question: Which search engine was founded by Jerry Yang and David Filo?
+      TrueAnswer: Yahoo
+      FalseAnswer:
+      - Google
+      - Bing
+      - Ask Jeeves
+      Explanation: Yahoo was founded in 1994 by Jerry Yang and David Filo, two Stanford
+        University graduate students.
+    - Question: What is the market share of Bing in the search engine industry?
+      TrueAnswer: 7%
+      FalseAnswer:
+      - 15%
+      - 3%
+      - 25%
+      Explanation: As of 2021, Bing holds a 7% share in the global search engine
+        market, significantly lower than Google's share.
+    - Question: Which search engine is often praised for its attractive homepage
+        images?
+      TrueAnswer: Bing
+      FalseAnswer:
+      - Google
+      - Yahoo
+      - DuckDuckGo
+      Explanation: Bing's homepage features high-quality, visually appealing images
+        that change daily, earning praise for its aesthetic appeal.
+    - Question: What is the percentage of searches conducted on Google via mobile
+        devices?
+      TrueAnswer: 60%
+      FalseAnswer:
+      - 45%
+      - 75%
+      - 90%
+      Explanation: Approximately 60% of Google's search traffic comes from mobile
+        devices, reflecting the increasing trend of mobile search usage.
+    - Question: What is the name of Google's search algorithm known for ranking web
+        pages?
+      TrueAnswer: PageRank
+      FalseAnswer:
+      - WebRank
+      - SearchRank
+      - RankMaster
+      Explanation: PageRank was developed by Larry Page and Sergey Brin and served
+        as the foundation for Google's search algorithm.
+    - Question: Which search engine emphasizes user anonymity with its 'incognito'
+        mode?
+      TrueAnswer: Google
+      FalseAnswer:
+      - Bing
+      - Yahoo
+      - DuckDuckGo
+      Explanation: Google's 'incognito' mode allows users to browse the web privately,
+        preventing their activity from being stored in the browser or search history.
+    - Question: What is the default search engine for Apple's Safari browser?
+      TrueAnswer: Google
+      FalseAnswer:
+      - Bing
+      - Yahoo
+      - DuckDuckGo
+      Explanation: Google is the default search engine for Apple's Safari browser,
+        but users can change it to a different search engine if preferred.
+    - Question: Which search engine's logo features a playful font and colors?
+      TrueAnswer: Yahoo
+      FalseAnswer:
+      - Google
+      - Bing
+      - DuckDuckGo
+      Explanation: Yahoo's logo is characterized by its playful typeface and vibrant
+        colors, reflecting the brand's lively and creative image.
+    - Question: Which search engine is known for its animated homepage doodles?
+      TrueAnswer: Google
+      FalseAnswer:
+      - Bing
+      - Yahoo
+      - DuckDuckGo
+      Explanation: Google frequently showcases creative and interactive animated
+        doodles on its homepage, commemorating significant events and figures.
+    - Question: What is the term for the process of a search engine organizing web
+        pages for easy retrieval?
+      TrueAnswer: Indexing
+      FalseAnswer:
+      - Crawling
+      - Scraping
+      - Querying
+      Explanation: Indexing involves storing and organizing the information obtained
+        during crawling, making it quickly accessible for search queries.

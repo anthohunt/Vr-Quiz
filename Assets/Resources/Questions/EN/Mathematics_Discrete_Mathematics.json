@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the number of edges in a complete graph with 7 vertices?",
+            "TrueAnswer": "21",
+            "FalseAnswer": [
+              "15",
+              "28",
+              "36"
+            ],
+            "Explanation": "A complete graph with n vertices has n(n-1)/2 edges. In this case, 7*6/2 = 21 edges."
+          },
+          {
+            "Question": "What is the number of subsets of a set with 5 elements?",
+            "TrueAnswer": "32",
+            "FalseAnswer": [
+              "15",
+              "25",
+              "40"
+            ],
+            "Explanation": "A set with n elements has 2^n subsets. Here, 2^5 = 32 subsets."
+          },
+          {
+            "Question": "Which of the following is a non-planar graph?",
+            "TrueAnswer": "K3,3",
+            "FalseAnswer": [
+              "K4",
+              "Petersen graph",
+              "Complete graph"
+            ],
+            "Explanation": "The K3,3 (complete bipartite graph with 3 vertices in each partition) is non-planar by Kuratowski's theorem."
+          },
+          {
+            "Question": "What is the chromatic number of a complete graph?",
+            "TrueAnswer": "N",
+            "FalseAnswer": [
+              "1",
+              "2",
+              "N-1"
+            ],
+            "Explanation": "The chromatic number of a complete graph with n vertices is n. It requires n colors to color each vertex such that no two adjacent vertices have the same color."
+          },
+          {
+            "Question": "What is the complement of the graph G with 4 vertices and 3 edges?",
+            "TrueAnswer": "Complete graph K4",
+            "FalseAnswer": [
+              "Star graph K1,3",
+              "Cycle graph C4",
+              "Bipartite graph K2,2"
+            ],
+            "Explanation": "The complement of G has an edge between every pair of distinct vertices that are not already connected by an edge in G."
+          },
+          {
+            "Question": "Which statement about tree graphs is true?",
+            "TrueAnswer": "Every connected graph with n vertices and n-1 edges is a tree.",
+            "FalseAnswer": [
+              "Trees have cycles",
+              "Trees can have multiple root nodes",
+              "Graphs with loops can be trees"
+            ],
+            "Explanation": "This is a fundamental property of trees according to the definition of a tree in graph theory."
+          },
+          {
+            "Question": "What is the minimum number of vertices needed for a graph to be connected?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "2",
+              "3",
+              "4"
+            ],
+            "Explanation": "A graph with one vertex is always connected by definition, as there are no disconnected vertices."
+          },
+          {
+            "Question": "Which of the following is a Hamiltonian cycle?",
+            "TrueAnswer": "A cycle that visits each vertex exactly once and ends at the starting vertex.",
+            "FalseAnswer": [
+              "A cycle with one vertex",
+              "A cycle with repeated vertices",
+              "A cycle with multiple starting points"
+            ],
+            "Explanation": "A Hamiltonian cycle is a special kind of cycle in a graph that traverses each vertex exactly once and ends at the starting vertex."
+          },
+          {
+            "Question": "What is the degree sequence of a complete graph?",
+            "TrueAnswer": "n-1 repeated n times",
+            "FalseAnswer": [
+              "n repeated n-1 times",
+              "Even numbers",
+              "Ascending sequence"
+            ],
+            "Explanation": "In a complete graph with n vertices, each vertex is connected to every other vertex, resulting in a degree sequence of n-1 repeated n times."
+          },
+          {
+            "Question": "What is the maximum number of edges in a bipartite graph with m and n vertices?",
+            "TrueAnswer": "m*n",
+            "FalseAnswer": [
+              "m+n",
+              "m^2",
+              "2^n"
+            ],
+            "Explanation": "In a bipartite graph, the maximum number of edges is achieved when each vertex in one set is connected to all vertices in the other set, resulting in m*n edges."
+          },
+          {
+            "Question": "What is the minimum degree of a vertex in a tree with n vertices?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "0",
+              "2",
+              "n-1"
+            ],
+            "Explanation": "In a tree, the minimum degree of a vertex is 1, as every vertex, except the root, is connected to at least one other vertex through an edge."
+          },
+          {
+            "Question": "What is the maximum number of edges in a simple graph with n vertices?",
+            "TrueAnswer": "n*(n-1)/2",
+            "FalseAnswer": [
+              "n",
+              "n^2",
+              "2^n"
+            ],
+            "Explanation": "A graph with n vertices can have a maximum of n*(n-1)/2 edges if each pair of distinct vertices is connected by an edge, and no loops or multiple edges exist."
+          },
+          {
+            "Question": "Which of these is a property of an Eulerian graph?",
+            "TrueAnswer": "It has all vertices with even degree.",
+            "FalseAnswer": [
+              "It is always planar",
+              "It has a Hamiltonian cycle",
+              "It has no bridges"
+            ],
+            "Explanation": "An Eulerian graph is a connected graph in which every vertex has an even degree. This property is essential for the existence of an Eulerian circuit or path."
+          },
+          {
+            "Question": "What is the number of edges in a tree with n vertices?",
+            "TrueAnswer": "n-1",
+            "FalseAnswer": [
+              "n",
+              "2n",
+              "n^2"
+            ],
+            "Explanation": "A tree with n vertices has n-1 edges, forming a connected acyclic graph with the fewest number of edges."
+          },
+          {
+            "Question": "What is the number of simple paths between two vertices in a tree?",
+            "TrueAnswer": "1",
+            "FalseAnswer": [
+              "n",
+              "n-1",
+              "n^2"
+            ],
+            "Explanation": "In a tree, there is only one simple path between any pair of vertices, as there are no cycles and unique paths exist between vertices."
+          },
+          {
+            "Question": "Which statement about planar graphs is true?",
+            "TrueAnswer": "A planar graph can be drawn on a plane without any edge intersections.",
+            "FalseAnswer": [
+              "All complete graphs are planar",
+              "Planar graphs have a Hamiltonian cycle",
+              "A planar graph has a chromatic number greater than 4"
+            ],
+            "Explanation": "This statement aligns with the definition of planar graphs, which can be represented in a plane with their edges drawn without intersection."
+          },
+          {
+            "Question": "What is the maximum number of edges in a connected graph with n vertices?",
+            "TrueAnswer": "n*(n-1)/2",
+            "FalseAnswer": [
+              "n-1",
+              "n+1",
+              "2^n"
+            ],
+            "Explanation": "This is the maximum number of edges in any graph, not just simple graphs. It represents a fully connected graph with no loops or multiple edges."
+          },
+          {
+            "Question": "Which of the following is a property of a planar graph?",
+            "TrueAnswer": "It does not contain K5 or K3,3 as a minor.",
+            "FalseAnswer": [
+              "It has a Hamiltonian cycle",
+              "All vertices have the same degree",
+              "It has only one component"
+            ],
+            "Explanation": "This property prevents the existence of a complete graph with 5 vertices (K5) or a complete bipartite graph with partitions of 3 vertices (K3,3) within the planar graph."
+          },
+          {
+            "Question": "What is the number of edges in a wheel graph with n vertices?",
+            "TrueAnswer": "n",
+            "FalseAnswer": [
+              "2n",
+              "n-1",
+              "n^2"
+            ],
+            "Explanation": "A wheel graph with n vertices consists of a cycle graph on n-1 vertices and an additional vertex connected to all other vertices, resulting in n edges."
+          }
+        ]
+      }
+    }
+  ]
+}

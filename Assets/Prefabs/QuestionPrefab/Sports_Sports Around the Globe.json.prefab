@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2346411082765239875
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8932360134776178111}
+  - component: {fileID: 2775332941294177558}
+  m_Layer: 0
+  m_Name: Sports_Sports Around the Globe.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8932360134776178111
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2346411082765239875}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2775332941294177558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2346411082765239875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country won the FIFA World Cup in 2018?
+      TrueAnswer: France
+      FalseAnswer:
+      - Brazil
+      - Germany
+      - Spain
+      Explanation: France won the FIFA World Cup in 2018, defeating Croatia in the
+        final.
+    - Question: Which country is known for its dominance in cricket?
+      TrueAnswer: India
+      FalseAnswer:
+      - Australia
+      - England
+      - South Africa
+      Explanation: India is known for its strong cricket team and passionate cricket
+        culture.
+    - Question: Which country hosted the 2016 Summer Olympics?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - United States
+      - China
+      - Russia
+      Explanation: Brazil hosted the 2016 Summer Olympics in Rio de Janeiro, showcasing
+        its vibrant culture.
+    - Question: Which country is famous for its love of rugby?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - England
+      - South Africa
+      - Australia
+      Explanation: New Zealand is renowned for its passion and success in the sport
+        of rugby.
+    - Question: Which country is home to the Tour de France?
+      TrueAnswer: France
+      FalseAnswer:
+      - Italy
+      - Spain
+      - Belgium
+      Explanation: The Tour de France, one of the most prestigious cycling races,
+        takes place in France.
+    - Question: Which country has won the most Olympic gold medals?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Germany
+      Explanation: The United States has won the most Olympic gold medals in history,
+        showcasing its sporting prowess.
+    - Question: Which country is known for its excellence in tennis?
+      TrueAnswer: Switzerland
+      FalseAnswer:
+      - Spain
+      - Serbia
+      - United States
+      Explanation: Switzerland is known for producing tennis legends like Roger Federer
+        and Martina Hingis.
+    - Question: Which country is famous for its passion for basketball?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Spain
+      - Argentina
+      - China
+      Explanation: The United States is renowned for its love of basketball and its
+        dominant NBA league.
+    - Question: Which country has won the most FIFA World Cup titles?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - Germany
+      - Italy
+      - Argentina
+      Explanation: Brazil has won the most FIFA World Cup titles, with a total of
+        five championships.
+    - Question: Which country is known for its success in Formula 1 racing?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - Italy
+      - United Kingdom
+      - Australia
+      Explanation: Germany has produced many successful Formula 1 drivers and teams,
+        including Michael Schumacher and Mercedes.
+    - Question: Which country is famous for its dominance in field hockey?
+      TrueAnswer: Netherlands
+      FalseAnswer:
+      - India
+      - Australia
+      - Germany
+      Explanation: The Netherlands is known for its strong field hockey teams, both
+        in men's and women's competitions.
+    - Question: Which country is home to the All Blacks, a famous rugby team?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - England
+      - South Africa
+      - Australia
+      Explanation: New Zealand's national rugby team, the All Blacks, is one of the
+        most successful and iconic teams in the sport.
+    - Question: Which country is known for its passion for ice hockey?
+      TrueAnswer: Canada
+      FalseAnswer:
+      - Russia
+      - Sweden
+      - Finland
+      Explanation: Canada is famous for its love of ice hockey and has produced many
+        top NHL players.
+    - Question: Which country has won the most Rugby World Cup titles?
+      TrueAnswer: New Zealand
+      FalseAnswer:
+      - South Africa
+      - Australia
+      - England
+      Explanation: New Zealand has won the most Rugby World Cup titles, with a total
+        of three championships.
+    - Question: Which country is known for its excellence in gymnastics?
+      TrueAnswer: Russia
+      FalseAnswer:
+      - United States
+      - China
+      - Romania
+      Explanation: Russia has a strong tradition of producing world-class gymnasts
+        and has achieved great success in the sport.
+    - Question: Which country is famous for its love of cricket?
+      TrueAnswer: Australia
+      FalseAnswer:
+      - England
+      - India
+      - South Africa
+      Explanation: Australia is known for its passion for cricket and has a storied
+        history in the sport.
+    - Question: Which country has won the most Olympic medals overall?
+      TrueAnswer: United States
+      FalseAnswer:
+      - China
+      - Russia
+      - Germany
+      Explanation: The United States has won the most Olympic medals overall, showcasing
+        its sporting dominance.
+    - Question: Which country is known for its success in rugby league?
+      TrueAnswer: Australia
+      FalseAnswer:
+      - New Zealand
+      - England
+      - Fiji
+      Explanation: Australia has a strong rugby league culture and has consistently
+        performed well in international competitions.
+    - Question: Which country is famous for its passion for cricket?
+      TrueAnswer: England
+      FalseAnswer:
+      - Australia
+      - India
+      - South Africa
+      Explanation: England is known as the birthplace of cricket and has a rich cricketing
+        heritage.
+    - Question: Which country is home to the famous soccer club Barcelona?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Italy
+      - Germany
+      - England
+      Explanation: Barcelona, one of the most successful soccer clubs, is located
+        in Spain.

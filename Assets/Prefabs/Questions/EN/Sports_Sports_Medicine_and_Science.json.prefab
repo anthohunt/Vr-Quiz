@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3831275297917228528
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2899115761280491025}
+  - component: {fileID: 6304338519670679345}
+  m_Layer: 0
+  m_Name: Sports_Sports_Medicine_and_Science.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2899115761280491025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3831275297917228528}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6304338519670679345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3831275297917228528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most common injury in American football?
+      TrueAnswer: Concussion
+      FalseAnswer:
+      - Fracture
+      - Sprain
+      - Tendonitis
+      Explanation: Concussions often occur due to high-impact collisions. They can
+        have long-term effects on brain health and cognitive function.
+    - Question: Which nutrient is essential for muscle recovery after exercise?
+      TrueAnswer: Protein
+      FalseAnswer:
+      - Iron
+      - Vitamin C
+      - Calcium
+      Explanation: Protein aids in repairing and rebuilding muscles after physical
+        activity. It helps promote muscle growth and reduce muscle soreness.
+    - Question: What is the term for excessive sweating during physical activity?
+      TrueAnswer: Hyperhidrosis
+      FalseAnswer:
+      - Hypoglycemia
+      - Hypertension
+      - Hypothermia
+      Explanation: Hyperhidrosis can affect athletes, causing discomfort and impacting
+        performance. Proper hydration and clothing choices can help manage it.
+    - Question: What is the ideal time for post-workout stretching?
+      TrueAnswer: After exercising
+      FalseAnswer:
+      - Before exercising
+      - During exercise
+      - Random times
+      Explanation: Stretching after exercise helps improve flexibility, reduce muscle
+        tension, and decrease the risk of injury during physical activities.
+    - Question: Which sport is associated with the term 'runner's knee'?
+      TrueAnswer: Running
+      FalseAnswer:
+      - Cycling
+      - Swimming
+      - Tennis
+      Explanation: Runner's knee, or patellofemoral pain syndrome, is a common injury
+        among runners due to repetitive stress on the knee joint.
+    - Question: What role does the ACL play in sports injuries?
+      TrueAnswer: Stabilizing the knee
+      FalseAnswer:
+      - Supporting the ankle
+      - Protecting the hip
+      - Stabilizing the elbow
+      Explanation: The anterior cruciate ligament (ACL) helps stabilize the knee,
+        and injuries to it often require surgical intervention and extensive rehabilitation.
+    - Question: What is the recommended hydration strategy for endurance athletes?
+      TrueAnswer: Regular fluid intake
+      FalseAnswer:
+      - Dehydration before exercise
+      - Drinking large volumes at once
+      - Hydrating only after the activity
+      Explanation: Endurance athletes should maintain regular fluid intake during
+        training and competitions to prevent dehydration and maintain performance
+        levels.
+    - Question: Which muscle group is commonly strained in baseball pitchers?
+      TrueAnswer: Rotator cuff
+      FalseAnswer:
+      - Quadriceps
+      - Hamstrings
+      - Glutes
+      Explanation: The repetitive throwing motion places strain on the rotator cuff,
+        often leading to overuse injuries and requiring careful rehabilitation.
+    - Question: What is the ideal duration for an athlete's warm-up prior to training
+        or competition?
+      TrueAnswer: 15-20 minutes
+      FalseAnswer:
+      - 5 minutes
+      - 30 minutes
+      - 1 hour
+      Explanation: A 15-20 minute warm-up allows for gradual increases in heart rate,
+        body temperature, and blood flow, preparing the body for activity.
+    - Question: What is the most common cause of ankle sprains in athletes?
+      TrueAnswer: Inversion
+      FalseAnswer:
+      - Eversion
+      - Plantar flexion
+      - Dorsiflexion
+      Explanation: Inversion ankle sprains occur when the foot rolls inward, stressing
+        the outer ligaments. Proper rehabilitation is crucial for preventing recurrent
+        sprains.

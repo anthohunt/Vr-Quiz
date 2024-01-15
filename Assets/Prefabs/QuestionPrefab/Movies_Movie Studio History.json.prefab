@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4601369840973514706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5146231129094850175}
+  - component: {fileID: 5238849701125942872}
+  m_Layer: 0
+  m_Name: Movies_Movie Studio History.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5146231129094850175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4601369840973514706}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5238849701125942872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4601369840973514706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which movie studio is known for its animated films like 'Toy Story'
+        and 'Finding Nemo'?
+      TrueAnswer: Pixar
+      FalseAnswer:
+      - Disney
+      - DreamWorks
+      - Universal
+      Explanation: Pixar is a renowned movie studio famous for its groundbreaking
+        animated films, including 'Toy Story' and 'Finding Nemo'.
+    - Question: Which movie studio is responsible for the 'Harry Potter' film series?
+      TrueAnswer: Warner Bros.
+      FalseAnswer:
+      - Paramount Pictures
+      - 20th Century Fox
+      - Sony Pictures
+      Explanation: Warner Bros. is the movie studio that produced the successful
+        'Harry Potter' film series based on J.K. Rowling's books.
+    - Question: Which movie studio is known for its superhero films like 'Iron Man'
+        and 'The Avengers'?
+      TrueAnswer: Marvel Studios
+      FalseAnswer:
+      - DC Films
+      - Universal Pictures
+      - Paramount Pictures
+      Explanation: Marvel Studios is renowned for its blockbuster superhero films,
+        including 'Iron Man' and 'The Avengers'.
+    - Question: Which movie studio is famous for its horror films like 'Psycho' and
+        'The Exorcist'?
+      TrueAnswer: Universal Pictures
+      FalseAnswer:
+      - Paramount Pictures
+      - Warner Bros.
+      - 20th Century Fox
+      Explanation: Universal Pictures is known for its iconic horror films, such
+        as 'Psycho' and 'The Exorcist'.
+    - Question: Which movie studio is responsible for the 'Star Wars' film franchise?
+      TrueAnswer: Lucasfilm
+      FalseAnswer:
+      - Disney
+      - Paramount Pictures
+      - Warner Bros.
+      Explanation: Lucasfilm is the movie studio behind the beloved 'Star Wars' film
+        franchise created by George Lucas.
+    - Question: Which movie studio is known for its animated classics like 'Snow
+        White' and 'The Lion King'?
+      TrueAnswer: Disney
+      FalseAnswer:
+      - DreamWorks
+      - Pixar
+      - Universal Pictures
+      Explanation: Disney is renowned for its timeless animated classics, including
+        'Snow White' and 'The Lion King'.
+    - Question: Which movie studio is famous for its action-packed films like 'Die
+        Hard' and 'The Terminator'?
+      TrueAnswer: 20th Century Fox
+      FalseAnswer:
+      - Paramount Pictures
+      - Warner Bros.
+      - Universal Pictures
+      Explanation: 20th Century Fox is known for its thrilling action films, such
+        as 'Die Hard' and 'The Terminator'.
+    - Question: Which movie studio is responsible for the 'Jurassic Park' film series?
+      TrueAnswer: Universal Pictures
+      FalseAnswer:
+      - Warner Bros.
+      - Paramount Pictures
+      - Sony Pictures
+      Explanation: Universal Pictures produced the popular 'Jurassic Park' film series
+        featuring dinosaurs brought back to life.
+    - Question: Which movie studio is known for its animated films like 'Shrek' and
+        'Kung Fu Panda'?
+      TrueAnswer: DreamWorks
+      FalseAnswer:
+      - Disney
+      - Pixar
+      - Warner Bros.
+      Explanation: DreamWorks is renowned for its animated films, including 'Shrek'
+        and 'Kung Fu Panda'.
+    - Question: Which movie studio is famous for its romantic films like 'The Notebook'
+        and 'Titanic'?
+      TrueAnswer: New Line Cinema
+      FalseAnswer:
+      - Paramount Pictures
+      - Warner Bros.
+      - Universal Pictures
+      Explanation: New Line Cinema is known for producing romantic films, such as
+        'The Notebook' and 'Titanic'.
+    - Question: Which movie studio is responsible for the 'Fast & Furious' film franchise?
+      TrueAnswer: Universal Pictures
+      FalseAnswer:
+      - Warner Bros.
+      - Paramount Pictures
+      - Sony Pictures
+      Explanation: Universal Pictures is the movie studio behind the high-octane
+        'Fast & Furious' film franchise.
+    - Question: Which movie studio is known for its fantasy films like 'The Lord
+        of the Rings' trilogy?
+      TrueAnswer: New Line Cinema
+      FalseAnswer:
+      - Disney
+      - Warner Bros.
+      - Universal Pictures
+      Explanation: New Line Cinema produced the epic fantasy films based on J.R.R.
+        Tolkien's 'The Lord of the Rings' trilogy.
+    - Question: Which movie studio is famous for its animated films like 'Ice Age'
+        and 'Rio'?
+      TrueAnswer: Blue Sky Studios
+      FalseAnswer:
+      - Disney
+      - Pixar
+      - DreamWorks
+      Explanation: Blue Sky Studios is renowned for its animated films, including
+        'Ice Age' and 'Rio'.
+    - Question: Which movie studio is responsible for the 'Twilight' film series?
+      TrueAnswer: Summit Entertainment
+      FalseAnswer:
+      - Warner Bros.
+      - Paramount Pictures
+      - Universal Pictures
+      Explanation: Summit Entertainment produced the popular 'Twilight' film series
+        based on Stephenie Meyer's novels.
+    - Question: Which movie studio is known for its comedy films like 'Anchorman'
+        and 'Step Brothers'?
+      TrueAnswer: Paramount Pictures
+      FalseAnswer:
+      - Warner Bros.
+      - Universal Pictures
+      - Sony Pictures
+      Explanation: Paramount Pictures is famous for its hilarious comedy films, including
+        'Anchorman' and 'Step Brothers'.
+    - Question: Which movie studio is famous for its animated films like 'Despicable
+        Me' and 'Minions'?
+      TrueAnswer: Universal Pictures
+      FalseAnswer:
+      - Disney
+      - Pixar
+      - DreamWorks
+      Explanation: Universal Pictures is known for its successful animated films,
+        including 'Despicable Me' and 'Minions'.
+    - Question: Which movie studio is responsible for the 'James Bond' film franchise?
+      TrueAnswer: Eon Productions
+      FalseAnswer:
+      - Warner Bros.
+      - Paramount Pictures
+      - Universal Pictures
+      Explanation: Eon Productions is the movie studio behind the long-running 'James
+        Bond' film franchise.
+    - Question: Which movie studio is known for its science fiction films like 'Blade
+        Runner' and 'The Matrix'?
+      TrueAnswer: Warner Bros.
+      FalseAnswer:
+      - Paramount Pictures
+      - Universal Pictures
+      - 20th Century Fox
+      Explanation: Warner Bros. is renowned for its captivating science fiction films,
+        such as 'Blade Runner' and 'The Matrix'.
+    - Question: Which movie studio is famous for its animated films like 'Madagascar'
+        and 'How to Train Your Dragon'?
+      TrueAnswer: DreamWorks
+      FalseAnswer:
+      - Disney
+      - Pixar
+      - Universal Pictures
+      Explanation: DreamWorks is known for its entertaining animated films, including
+        'Madagascar' and 'How to Train Your Dragon'.
+    - Question: 'Which movie studio is responsible for the ''Mission: Impossible''
+        film series?'
+      TrueAnswer: Paramount Pictures
+      FalseAnswer:
+      - Warner Bros.
+      - Universal Pictures
+      - Sony Pictures
+      Explanation: 'Paramount Pictures is the movie studio behind the thrilling ''Mission:
+        Impossible'' film series starring Tom Cruise.'

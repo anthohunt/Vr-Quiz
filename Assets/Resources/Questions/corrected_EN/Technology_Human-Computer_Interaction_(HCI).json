@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What does GUI stand for in computing?",
+          "TrueAnswer": "Graphical User Interface",
+          "FalseAnswer": [
+            "Global User Interaction",
+            "General Utility Icon",
+            "Gaming User Input"
+          ],
+          "Explanation": "GUI is a type of user interface that allows users to interact with electronic devices using graphical icons and visual indicators."
+        },
+        {
+          "Question": "Which interaction design principle focuses on keeping users informed about system status?",
+          "TrueAnswer": "Feedback",
+          "FalseAnswer": [
+            "Consistency",
+            "Hierarchy",
+            "Affordance"
+          ],
+          "Explanation": "Feedback is crucial in HCI to inform users about the system's response to their actions, providing a sense of control."
+        },
+        {
+          "Question": "What is the term for designing products to be used by as many people as possible?",
+          "TrueAnswer": "Universal Design",
+          "FalseAnswer": [
+            "Customization",
+            "Adaptive Design",
+            "Individualized Innovation"
+          ],
+          "Explanation": "Universal Design aims to create products and environments that are accessible and usable by people of all abilities and disabilities."
+        },
+        {
+          "Question": "Which HCI component focuses on the physical aspects of human-computer interaction?",
+          "TrueAnswer": "Input Devices",
+          "FalseAnswer": [
+            "User Interface",
+            "Feedback Systems",
+            "Information Architecture"
+          ],
+          "Explanation": "Input devices such as keyboards, mice, and touchscreens facilitate the physical interaction between users and computers."
+        },
+        {
+          "Question": "What is the term for designing computer systems to support human tasks and activities?",
+          "TrueAnswer": "Activity-Centered Design",
+          "FalseAnswer": [
+            "System-Centric Approach",
+            "Task-Based Development",
+            "User-Driven Optimization"
+          ],
+          "Explanation": "Activity-Centered Design focuses on understanding and supporting the activities that people want to perform with computer systems."
+        },
+        {
+          "Question": "Which HCI design concept refers to the ease of use and learnability of a system?",
+          "TrueAnswer": "Usability",
+          "FalseAnswer": [
+            "Aesthetics",
+            "Innovation",
+            "Robustness"
+          ],
+          "Explanation": "Usability focuses on how effectively, efficiently, and satisfactorily a user can achieve specific goals within a particular environment."
+        },
+        {
+          "Question": "What type of design ensures that users can accomplish their goals efficiently and effectively?",
+          "TrueAnswer": "Task-Centered Design",
+          "FalseAnswer": [
+            "Effortless Interaction",
+            "Performance-Based Interface",
+            "Seamless Navigation"
+          ],
+          "Explanation": "Task-Centered Design emphasizes designing systems that support users in accomplishing their tasks with minimal effort and time."
+        },
+        {
+          "Question": "What theory suggests that users evaluate a system based on their perceived effort and performance?",
+          "TrueAnswer": "Cognitive Load Theory",
+          "FalseAnswer": [
+            "Hick's Law",
+            "Fitts's Law",
+            "Gestalt Principles"
+          ],
+          "Explanation": "Cognitive Load Theory posits that users' mental efforts reflect their perceived complexity and ease of use of a system."
+        },
+        {
+          "Question": "Which HCI concept emphasizes the match between a system's capabilities and user expectations?",
+          "TrueAnswer": "Affordance",
+          "FalseAnswer": [
+            "Consciousness",
+            "Expectation Bias",
+            "Capability Perception"
+          ],
+          "Explanation": "Affordance refers to the perceived and actual properties of a system that suggest how it can be used, promoting intuitive interaction."
+        },
+        {
+          "Question": "What aspect of user experience design involves understanding users' needs and goals to inform system development?",
+          "TrueAnswer": "User Research",
+          "FalseAnswer": [
+            "Graphical Design",
+            "Prototype Testing",
+            "Usability Evaluation"
+          ],
+          "Explanation": "User Research is essential for creating HCI systems that align with users' preferences, behaviors, and expectations."
+        },
+        {
+          "Question": "Which type of interface requires direct physical contact between the user and the system?",
+          "TrueAnswer": "Tangible Interface",
+          "FalseAnswer": [
+            "Virtual Interface",
+            "Augmented Interface",
+            "Immersive Interface"
+          ],
+          "Explanation": "Tangible Interfaces enable physical interaction by allowing users to manipulate and control digital elements through direct touch or manipulation."
+        },
+        {
+          "Question": "Which HCI model emphasizes the dialogue between user actions and system responses?",
+          "TrueAnswer": "Conversational Model",
+          "FalseAnswer": [
+            "Transactional Model",
+            "Input-Output Model",
+            "Linear Model"
+          ],
+          "Explanation": "The Conversational Model views HCI as a natural dialogue between users and systems, focusing on smooth and meaningful interactions."
+        },
+        {
+          "Question": "Which term describes a system's ability to adapt and respond to individual user needs?",
+          "TrueAnswer": "Personalization",
+          "FalseAnswer": [
+            "Standardization",
+            "Generalization",
+            "Normalization"
+          ],
+          "Explanation": "Personalization tailors system features and content to align with specific user preferences and behaviors, enhancing user satisfaction and engagement."
+        },
+        {
+          "Question": "What technique gathers users' feedback and observations during system use?",
+          "TrueAnswer": "User Testing",
+          "FalseAnswer": [
+            "Usability Inspection",
+            "Heuristic Evaluation",
+            "Expert Review"
+          ],
+          "Explanation": "User Testing involves observing and analyzing how users interact with a system to identify usability issues and areas for improvement."
+        },
+        {
+          "Question": "Which HCI design approach focuses on creating interfaces that adapt to changes in user context?",
+          "TrueAnswer": "Adaptive Interface Design",
+          "FalseAnswer": [
+            "Static Interface Modeling",
+            "Responsive Design",
+            "Fixed Interaction Design"
+          ],
+          "Explanation": "Adaptive Interface Design aims to adjust interface elements based on user context, preferences, and behavior, enhancing user experience."
+        },
+        {
+          "Question": "What design concept involves predicting users' actions and providing system responses in anticipation?",
+          "TrueAnswer": "Predictive Design",
+          "FalseAnswer": [
+            "Reactive Interface",
+            "Dynamic Feedback",
+            "Proactive System"
+          ],
+          "Explanation": "Predictive Design anticipates users' needs and actions, proactively offering relevant information and choices to streamline interactions."
+        },
+        {
+          "Question": "Which method involves analyzing and categorizing user behaviors and preferences?",
+          "TrueAnswer": "User Profiling",
+          "FalseAnswer": [
+            "Usage Monitoring",
+            "Activity Tracking",
+            "Behavioral Segmentation"
+          ],
+          "Explanation": "User Profiling aims to understand users' characteristics, preferences, and habits, guiding the design of personalized interfaces and experiences."
+        },
+        {
+          "Question": "What is the term for designing interfaces that accommodate various user skill levels and preferences?",
+          "TrueAnswer": "Flexible Design",
+          "FalseAnswer": [
+            "Rigid Interface",
+            "Uniform Interaction",
+            "Standardized Layout"
+          ],
+          "Explanation": "Flexible Design adapts to diverse user needs and capabilities, offering customizable settings and options to enhance accessibility and usability."
+        },
+        {
+          "Question": "Which approach focuses on designing systems based on users' mental models and perceptions?",
+          "TrueAnswer": "Mental Model Design",
+          "FalseAnswer": [
+            "Behavioral Psychology",
+            "Cognitive Planning",
+            "Perception Prototyping"
+          ],
+          "Explanation": "Mental Model Design aligns system interfaces with users' conceptual models and expectations, improving user understanding and interaction."
+        },
+        {
+          "Question": "What term describes the study of how users interact with digital interfaces and systems?",
+          "TrueAnswer": "Human-Computer Interaction",
+          "FalseAnswer": [
+            "User Experience Design",
+            "Interface Engineering",
+            "Digital Interaction Science"
+          ],
+          "Explanation": "HCI encompasses the study, design, and evaluation of interactive systems, focusing on usability, user experience, and human-centered design principles."
+        }
+      ]
+    }
+  ]
+}

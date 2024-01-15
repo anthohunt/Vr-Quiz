@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est le vrai nom de Spider-Man?",
+            "BonneRéponse": "Peter Parker",
+            "MauvaiseRéponse": [
+              "Tony Stark",
+              "Bruce Banner",
+              "Clark Kent"
+            ],
+            "Explication": "Peter Parker est le pseudonyme de Spider-Man, créé par l'écrivain Stan Lee et l'artiste Steve Ditko. Il est apparu pour la première fois dans 'Amazing Fantasy' #15 en 1962."
+          },
+          {
+            "Question": "Quel super-héros est connu sous le nom de 'l'Homme d'Acier'?",
+            "BonneRéponse": "Superman",
+            "MauvaiseRéponse": [
+              "Batman",
+              "Iron Man",
+              "The Flash"
+            ],
+            "Explication": "Superman, créé par l'écrivain Jerry Siegel et l'artiste Joe Shuster, est apparu pour la première fois dans 'Action Comics' #1 en 1938."
+          },
+          {
+            "Question": "Quel est l'identité secrète de Batman?",
+            "BonneRéponse": "Bruce Wayne",
+            "MauvaiseRéponse": [
+              "Clark Kent",
+              "Peter Parker",
+              "Tony Stark"
+            ],
+            "Explication": "Bruce Wayne, un philanthrope milliardaire et propriétaire de Wayne Enterprises, est le justicier masqué connu sous le nom de Batman."
+          },
+          {
+            "Question": "Qui est l'ennemi juré de The Flash?",
+            "BonneRéponse": "Reverse-Flash",
+            "MauvaiseRéponse": [
+              "Joker",
+              "Lex Luthor",
+              "Doctor Octopus"
+            ],
+            "Explication": "Reverse-Flash, aussi connu sous le nom de Professeur Zoom ou Eobard Thawne, est un super-vilain capable de super-vitesse qui s'oppose à The Flash."
+          },
+          {
+            "Question": "Quel roman graphique met en scène le personnage V et un Royaume-Uni dystopique?",
+            "BonneRéponse": "V pour Vendetta",
+            "MauvaiseRéponse": [
+              "Watchmen",
+              "The Sandman",
+              "Batman: The Killing Joke"
+            ],
+            "Explication": "'V pour Vendetta,' écrit par Alan Moore et illustré par David Lloyd, présente un vigilant masqué luttant contre un régime totalitaire dans un Royaume-Uni dystopique."
+          },
+          {
+            "Question": "Qui est le créateur du roman graphique 'Sin City'?",
+            "BonneRéponse": "Frank Miller",
+            "MauvaiseRéponse": [
+              "Alan Moore",
+              "Neil Gaiman",
+              "Brian K. Vaughan"
+            ],
+            "Explication": "Frank Miller a écrit et illustré 'Sin City', une série de bandes dessinées néo-noir, connue pour son récit cru et graphique."
+          },
+          {
+            "Question": "Quel super-héros de Marvel manie Mjolnir, le marteau enchanté?",
+            "BonneRéponse": "Thor",
+            "MauvaiseRéponse": [
+              "Captain America",
+              "Iron Man",
+              "Wolverine"
+            ],
+            "Explication": "Thor, le Dieu nordique du Tonnerre, est connu pour manier Mjolnir, une arme puissante qu'il peut invoquer à volonté."
+          },
+          {
+            "Question": "Quel est le vrai nom du membre des X-Men connu sous le nom de Wolverine?",
+            "BonneRéponse": "Logan",
+            "MauvaiseRéponse": [
+              "Scott Summers",
+              "Charles Xavier",
+              "Jean Grey"
+            ],
+            "Explication": "Wolverine, un mutant doté d'un facteur de guérison régénératif et de griffes en adamantium, se nomme Logan dans la vie réelle."
+          },
+          {
+            "Question": "Dans quelle ville le vigilant Daredevil protège-t-il les rues?",
+            "BonneRéponse": "New York City",
+            "MauvaiseRéponse": [
+              "Gotham City",
+              "Metropolis",
+              "Hell's Kitchen"
+            ],
+            "Explication": "Daredevil, également connu sous le nom de Matt Murdock, opère dans le quartier Hell's Kitchen de New York City, utilisant ses sens améliorés pour lutter contre la criminalité."
+          },
+          {
+            "Question": "Quel super-héros de DC Comics est connu comme le Roi de l'Atlantide?",
+            "BonneRéponse": "Aquaman",
+            "MauvaiseRéponse": [
+              "Green Lantern",
+              "The Flash",
+              "Cyborg"
+            ],
+            "Explication": "Aquaman, également connu sous le nom d'Arthur Curry, est le Roi de l'Atlantide, doté d'une force surhumaine et de la faculté de communiquer avec la vie marine."
+          },
+          {
+            "Question": "Quel est le vrai nom du Green Lantern Hal Jordan?",
+            "BonneRéponse": "Harold Jordan",
+            "MauvaiseRéponse": [
+              "Henry Jordan",
+              "Howard Jordan",
+              "Hank Jordan"
+            ],
+            "Explication": "Hal Jordan est un pilote d'essai devenu le premier membre humain du Corps des Green Lanterns, maniant l'anneau de pouvoir et la lanterne."
+          },
+          {
+            "Question": "Quel super-vilain est célèbrement connu sous le nom du 'Prince Clown du Crime'?",
+            "BonneRéponse": "Joker",
+            "MauvaiseRéponse": [
+              "Lex Luthor",
+              "Magneto",
+              "Doctor Doom"
+            ],
+            "Explication": "Le Joker, créé par Bill Finger, Bob Kane et Jerry Robinson, est un adversaire chaotique et célèbre de Batman."
+          },
+          {
+            "Question": "Qui est le mutant télépathe et leader des X-Men?",
+            "BonneRéponse": "Professeur X",
+            "MauvaiseRéponse": [
+              "Magneto",
+              "Wolverine",
+              "Cyclope"
+            ],
+            "Explication": "Charles Xavier, également connu sous le nom de Professeur X, a fondé les X-Men pour promouvoir la paix et la coexistence entre mutants et humains."
+          },
+          {
+            "Question": "Qui est le membre androïde des Avengers, créé par Ultron?",
+            "BonneRéponse": "Vision",
+            "MauvaiseRéponse": [
+              "Iron Man",
+              "Hawkeye",
+              "Black Widow"
+            ],
+            "Explication": "Vision, un androïde aux capacités avancées, a été créé par le vilain Ultron, mais a finalement rejoint les Avengers en tant que membre héroïque."
+          },
+          {
+            "Question": "Quel roman graphique présente une histoire alternative où des super-héros existent?",
+            "BonneRéponse": "Watchmen",
+            "MauvaiseRéponse": [
+              "V pour Vendetta",
+              "The Dark Knight Returns",
+              "Sandman"
+            ],
+            "Explication": "'Watchmen,' écrit par Alan Moore et illustré par Dave Gibbons, dépeint un monde où des héros masqués émergent au milieu des tensions de la Guerre froide."
+          },
+          {
+            "Question": "Qui est le super-héros adolescent et protégé de Batman connu sous le nom de Robin?",
+            "BonneRéponse": "Dick Grayson",
+            "MauvaiseRéponse": [
+              "Jason Todd",
+              "Damian Wayne",
+              "Tim Drake"
+            ],
+            "Explication": "Dick Grayson, le Robin original, devient plus tard Nightwing, suivant son propre chemin héroïque après avoir été le loyal partenaire de Batman."
+          },
+          {
+            "Question": "Quel roman graphique sert de récit d'origine pour le Joker, l'ennemi de Batman?",
+            "BonneRéponse": "Batman: The Killing Joke",
+            "MauvaiseRéponse": [
+              "The Dark Knight Returns",
+              "Arkham Asylum: A Serious House on Serious Earth",
+              "Batman: Year One"
+            ],
+            "Explication": "'Batman: The Killing Joke,' écrit par Alan Moore et illustré par Brian Bolland, explore le passé troublant du Joker et son affrontement avec Batman."
+          },
+          {
+            "Question": "Quelle est l'équipe de super-héros réunie par Nick Fury dans l'univers Marvel?",
+            "BonneRéponse": "Les Avengers",
+            "MauvaiseRéponse": [
+              "X-Men",
+              "Fantastic Four",
+              "Guardians of the Galaxy"
+            ],
+            "Explication": "Nick Fury forme les Avengers pour combattre les menaces mondiales, dirigeant une équipe emblématique composée de Iron Man, Captain America, Thor, et d'autres."
+          },
+          {
+            "Question": "Quel super-héros de Marvel est connu pour son humour sarcastique et son costume rouge?",
+            "BonneRéponse": "Deadpool",
+            "MauvaiseRéponse": [
+              "Spider-Man",
+              "Wolverine",
+              "Iron Man"
+            ],
+            "Explication": "Deadpool, également connu sous le nom de Wade Wilson, est un anti-héros mercenaire célèbre pour son humour, son habitude de briser le quatrième mur, et ses capacités de guérison régénérative."
+          },
+          {
+            "Question": "Qui est le mutant puissant capable de manipuler les phénomènes météorologiques chez les X-Men?",
+            "BonneRéponse": "Storm",
+            "MauvaiseRéponse": [
+              "Rogue",
+              "Jean Grey",
+              "Mystique"
+            ],
+            "Explication": "Ororo Munroe, aussi connue sous le nom de Storm, est une mutante capable de contrôler les phénomènes météorologiques et est un membre clé des X-Men."
+          }
+        ]
+      }
+    }
+  ]
+}

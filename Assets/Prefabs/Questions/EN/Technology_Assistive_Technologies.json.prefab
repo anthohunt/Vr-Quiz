@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2368234176515382662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2928791681019774289}
+  - component: {fileID: 8475436844722004095}
+  m_Layer: 0
+  m_Name: Technology_Assistive_Technologies.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2928791681019774289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2368234176515382662}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8475436844722004095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2368234176515382662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the purpose of a screen reader in Assistive Technology?
+      TrueAnswer: To convert text to speech for visually impaired users.
+      FalseAnswer:
+      - To translate languages for users.
+      - To project tactile images for users.
+      - To enable touch screen interactions for users.
+      Explanation: Screen readers provide audible descriptions of the content on
+        the screen, allowing visually impaired users to access digital information.
+    - Question: Which input device can be used with eye tracking technology?
+      TrueAnswer: Eye gaze tracker.
+      FalseAnswer:
+      - Joystick controller.
+      - Keyboard and mouse.
+      - Touchpad.
+      Explanation: Eye gaze trackers enable individuals with limited mobility to
+        control a computer or communicate using only their eye movements.
+    - Question: What is the primary function of a wearable exoskeleton?
+      TrueAnswer: To assist with mobility and physical rehabilitation.
+      FalseAnswer:
+      - To enhance gaming experiences.
+      - To provide haptic feedback.
+      - To monitor fitness and health data.
+      Explanation: Wearable exoskeletons are designed to support and augment the
+        user's physical abilities, primarily aiding in walking or standing.
+    - Question: What is the purpose of a sip-and-puff switch?
+      TrueAnswer: To enable control of devices using breath input.
+      FalseAnswer:
+      - To measure air quality.
+      - To simulate taste sensations.
+      - To regulate temperature settings.
+      Explanation: Sip-and-puff switches allow individuals with limited mobility
+        to perform various functions by inhaling and exhaling into a mouthpiece.
+    - Question: How does a closed-captioning system support users with hearing impairments?
+      TrueAnswer: By displaying text corresponding to spoken dialogue or audio.
+      FalseAnswer:
+      - By amplifying sound volumes.
+      - By providing sign language interpretation.
+      - By transmitting vibrations for audio cues.
+      Explanation: Closed-captioning provides visual representation of audio content,
+        enabling individuals with hearing impairments to access information in audiovisual
+        media.
+    - Question: Which sensory substitution device converts visual information into
+        tactile sensations?
+      TrueAnswer: The vOICe.
+      FalseAnswer:
+      - The NavBelt.
+      - The BrainPort Vision Pro.
+      - The OrCam MyEye.
+      Explanation: The vOICe technology converts visual stimuli into auditory signals,
+        allowing visually impaired users to interpret visual scenes through soundscapes.
+    - Question: What is the primary function of a text-to-braille converter?
+      TrueAnswer: To translate digital text into braille output.
+      FalseAnswer:
+      - To generate 3D printed models.
+      - To convert speech into written text.
+      - To provide haptic feedback for touch interactions.
+      Explanation: Text-to-braille converters facilitate access to digital content
+        for braille readers by transforming electronic text into tactile braille
+        output.
+    - Question: What type of sensor is commonly used in prosthetic limbs for movement
+        detection?
+      TrueAnswer: EMG (Electromyography) sensor.
+      FalseAnswer:
+      - Accelerometer sensor.
+      - Temperature sensor.
+      - Ultrasonic sensor.
+      Explanation: EMG sensors detect electrical signals from muscles, enabling intuitive
+        control of prosthetic limbs based on the user's muscle movements.
+    - Question: How does a tongue-operated assistive switch function?
+      TrueAnswer: By utilizing tongue movements for input commands.
+      FalseAnswer:
+      - By interpreting brainwave patterns.
+      - By tracking facial expressions.
+      - By recognizing voice commands.
+      Explanation: Tongue-operated switches enable individuals with limited motor
+        control to trigger electronic devices by moving their tongue in specific
+        patterns or positions.
+    - Question: What role does a screen magnifier play in Assistive Technology?
+      TrueAnswer: To enlarge on-screen content for individuals with low vision.
+      FalseAnswer:
+      - To filter out color contrasts for better visibility.
+      - To create 3D visual representations.
+      - To convert handwritten text to digital format.
+      Explanation: Screen magnifiers help individuals with low vision by increasing
+        the size of on-screen elements and text, enhancing their readability and
+        accessibility.
+    - Question: Which type of environmental control system can be triggered through
+        voice commands?
+      TrueAnswer: Smart home automation system.
+      FalseAnswer:
+      - Thermostat with manual controls.
+      - Motion sensor-activated lighting system.
+      - Remote-controlled window blinds.
+      Explanation: Smart home automation systems allow individuals with mobility
+        or physical challenges to control various aspects of their home environment
+        using voice commands.
+    - Question: What is the primary function of a screen navigation device in Assistive
+        Technology?
+      TrueAnswer: To facilitate on-screen interactions for users with limited hand
+        mobility.
+      FalseAnswer:
+      - To create holographic projections.
+      - To generate tactile maps.
+      - To convert auditory signals to visual indicators.
+      Explanation: Screen navigation devices, like joysticks or trackballs, enable
+        individuals with limited hand dexterity to control on-screen functions and
+        navigate digital interfaces.
+    - Question: Which of the following is a common feature of communication devices
+        for non-verbal individuals?
+      TrueAnswer: Symbol-based communication grids.
+      FalseAnswer:
+      - Text-to-speech synthesis software.
+      - Handwriting recognition capabilities.
+      - Voice modulation and pitch adjustment.
+      Explanation: Symbol-based communication grids provide non-verbal individuals
+        with a structured visual tool to convey messages and communicate using pre-defined
+        symbols or pictures.
+    - Question: What function does a mind-controlled assistive technology device
+        serve?
+      TrueAnswer: To interpret brain signals for controlling external devices.
+      FalseAnswer:
+      - To induce deep relaxation through sound therapy.
+      - To enhance cognitive performance using neurofeedback.
+      - To analyze sleep patterns and quality.
+      Explanation: Mind-controlled assistive technology devices harness brain signals
+        to enable individuals with severe physical disabilities to interact with
+        and control external devices or interfaces.
+    - Question: What capability does a cognitive aid support in Assistive Technology?
+      TrueAnswer: Memory enhancement and task management.
+      FalseAnswer:
+      - Physical strength augmentation.
+      - Dexterity improvement for fine motor skills.
+      - Sensory perception optimization.
+      Explanation: Cognitive aids assist individuals with memory-related challenges
+        by providing tools for organization, reminders, and task management to enhance
+        daily functioning and independence.
+    - Question: How does a proximity sensor benefit users of mobility aids?
+      TrueAnswer: By detecting obstacles and avoiding collisions.
+      FalseAnswer:
+      - By providing real-time GPS navigation.
+      - By monitoring heart rate and blood pressure.
+      - By alerting to adverse weather conditions.
+      Explanation: Proximity sensors integrated into mobility aids help prevent accidents
+        by sensing nearby obstacles and alerting the user to potential collisions
+        or obstructions.
+    - Question: What is the primary purpose of a wearable alert system in Assistive
+        Technology?
+      TrueAnswer: To notify caregivers or emergency services in case of medical issues.
+      FalseAnswer:
+      - To track physical activity and fitness levels.
+      - To provide real-time language translation assistance.
+      - To generate immersive audio environments.
+      Explanation: Wearable alert systems offer a safety net by automatically alerting
+        designated contacts or emergency services when the wearer requires assistance
+        due to medical emergencies or health-related events.
+    - Question: Which type of input device can be used in conjunction with a mouth-operated
+        joystick?
+      TrueAnswer: Head-controlled mouse.
+      FalseAnswer:
+      - Foot-operated keyboard.
+      - Voice-activated remote control.
+      - Hand gesture recognition sensor.
+      Explanation: Mouth-operated joysticks, often used by individuals with limited
+        hand mobility, can be combined with head-controlled mice to expand the range
+        of accessible computer interactions.
+    - Question: What is the primary role of an adaptive keyboard in Assistive Technology?
+      TrueAnswer: To customize key layouts and adapt to individual needs.
+      FalseAnswer:
+      - To enable dual-screen setup on a single computer.
+      - To project virtual keyboard interfaces.
+      - To record and playback personalized typing rhythms.
+      Explanation: Adaptive keyboards offer customizable key arrangements and features
+        to accommodate the unique needs and preferences of individuals with diverse
+        motor control challenges.

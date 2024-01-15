@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7142225621072335215
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4261455921586692956}
+  - component: {fileID: 3559272718124483143}
+  m_Layer: 0
+  m_Name: Music_World Music Traditions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4261455921586692956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7142225621072335215}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3559272718124483143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7142225621072335215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which country is known for the flamenco music tradition?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Brazil
+      - India
+      - Japan
+      Explanation: Spain is famous for the flamenco music tradition, characterized
+        by passionate singing, guitar playing, and dancing.
+    - Question: Which instrument is commonly used in traditional Irish music?
+      TrueAnswer: Fiddle
+      FalseAnswer:
+      - Bagpipes
+      - Sitar
+      - Didgeridoo
+      Explanation: The fiddle is a popular instrument in traditional Irish music,
+        known for its lively and energetic melodies.
+    - Question: Which country is associated with the sitar, a stringed instrument?
+      TrueAnswer: India
+      FalseAnswer:
+      - Mexico
+      - Greece
+      - Egypt
+      Explanation: India is closely associated with the sitar, a plucked stringed
+        instrument used in classical and folk music.
+    - Question: Which country is known for the traditional music style called reggae?
+      TrueAnswer: Jamaica
+      FalseAnswer:
+      - Argentina
+      - Russia
+      - South Africa
+      Explanation: Jamaica is renowned for reggae, a music style characterized by
+        its offbeat rhythms and social and political lyrics.
+    - Question: Which country is famous for the traditional music genre called samba?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - China
+      - France
+      - Kenya
+      Explanation: Brazil is known for samba, a lively and rhythmic music genre often
+        associated with carnival celebrations.
+    - Question: Which country is associated with the traditional music style called
+        flamenco?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Australia
+      - Sweden
+      - Thailand
+      Explanation: Spain is closely associated with flamenco, a passionate and expressive
+        music style featuring guitar, singing, and dancing.
+    - Question: Which instrument is commonly used in traditional Japanese music?
+      TrueAnswer: Shamisen
+      FalseAnswer:
+      - Accordion
+      - Tabla
+      - Bagpipes
+      Explanation: The shamisen, a three-stringed instrument, is commonly used in
+        traditional Japanese music, adding a unique sound to the melodies.
+    - Question: Which country is known for the traditional music style called mariachi?
+      TrueAnswer: Mexico
+      FalseAnswer:
+      - Canada
+      - Italy
+      - Nigeria
+      Explanation: Mexico is famous for mariachi, a vibrant music style featuring
+        trumpets, violins, guitars, and passionate singing.
+    - Question: Which instrument is commonly used in traditional Scottish music?
+      TrueAnswer: Bagpipes
+      FalseAnswer:
+      - Sitar
+      - Accordion
+      - Didgeridoo
+      Explanation: The bagpipes are a distinctive instrument commonly used in traditional
+        Scottish music, evoking a sense of Scottish heritage.
+    - Question: Which country is associated with the traditional music style called
+        flamenco?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Brazil
+      - India
+      - Japan
+      Explanation: Spain is closely associated with flamenco, a passionate and expressive
+        music style featuring guitar, singing, and dancing.
+    - Question: Which country is famous for the traditional music genre called samba?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - China
+      - France
+      - Kenya
+      Explanation: Brazil is known for samba, a lively and rhythmic music genre often
+        associated with carnival celebrations.
+    - Question: Which country is associated with the traditional music style called
+        flamenco?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Australia
+      - Sweden
+      - Thailand
+      Explanation: Spain is closely associated with flamenco, a passionate and expressive
+        music style featuring guitar, singing, and dancing.
+    - Question: Which instrument is commonly used in traditional Japanese music?
+      TrueAnswer: Shamisen
+      FalseAnswer:
+      - Accordion
+      - Tabla
+      - Bagpipes
+      Explanation: The shamisen, a three-stringed instrument, is commonly used in
+        traditional Japanese music, adding a unique sound to the melodies.
+    - Question: Which country is known for the traditional music style called mariachi?
+      TrueAnswer: Mexico
+      FalseAnswer:
+      - Canada
+      - Italy
+      - Nigeria
+      Explanation: Mexico is famous for mariachi, a vibrant music style featuring
+        trumpets, violins, guitars, and passionate singing.
+    - Question: Which instrument is commonly used in traditional Scottish music?
+      TrueAnswer: Bagpipes
+      FalseAnswer:
+      - Sitar
+      - Accordion
+      - Didgeridoo
+      Explanation: The bagpipes are a distinctive instrument commonly used in traditional
+        Scottish music, evoking a sense of Scottish heritage.
+    - Question: Which country is known for the traditional music style called reggae?
+      TrueAnswer: Jamaica
+      FalseAnswer:
+      - Argentina
+      - Russia
+      - South Africa
+      Explanation: Jamaica is renowned for reggae, a music style characterized by
+        its offbeat rhythms and social and political lyrics.
+    - Question: Which country is famous for the traditional music genre called samba?
+      TrueAnswer: Brazil
+      FalseAnswer:
+      - China
+      - France
+      - Kenya
+      Explanation: Brazil is known for samba, a lively and rhythmic music genre often
+        associated with carnival celebrations.
+    - Question: Which country is associated with the sitar, a stringed instrument?
+      TrueAnswer: India
+      FalseAnswer:
+      - Mexico
+      - Greece
+      - Egypt
+      Explanation: India is closely associated with the sitar, a plucked stringed
+        instrument used in classical and folk music.
+    - Question: Which country is known for the flamenco music tradition?
+      TrueAnswer: Spain
+      FalseAnswer:
+      - Brazil
+      - India
+      - Japan
+      Explanation: Spain is famous for the flamenco music tradition, characterized
+        by passionate singing, guitar playing, and dancing.
+    - Question: Which instrument is commonly used in traditional Irish music?
+      TrueAnswer: Fiddle
+      FalseAnswer:
+      - Bagpipes
+      - Sitar
+      - Didgeridoo
+      Explanation: The fiddle is a popular instrument in traditional Irish music,
+        known for its lively and energetic melodies.
+    - Question: Which country is associated with the traditional music style called
+        mariachi?
+      TrueAnswer: Mexico
+      FalseAnswer:
+      - Canada
+      - Italy
+      - Nigeria
+      Explanation: Mexico is famous for mariachi, a vibrant music style featuring
+        trumpets, violins, guitars, and passionate singing.

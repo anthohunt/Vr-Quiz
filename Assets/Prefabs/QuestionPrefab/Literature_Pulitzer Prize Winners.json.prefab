@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6690382778787123574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1365253632424418200}
+  - component: {fileID: 7505322672818670502}
+  m_Layer: 0
+  m_Name: Literature_Pulitzer Prize Winners.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1365253632424418200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6690382778787123574}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7505322672818670502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6690382778787123574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the novel 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - John Steinbeck
+      - Ernest Hemingway
+      Explanation: '''To Kill a Mockingbird'' was written by Harper Lee and published
+        in 1960.'
+    - Question: Which Pulitzer Prize-winning novel is set during the Great Depression?
+      TrueAnswer: The Grapes of Wrath
+      FalseAnswer:
+      - The Color Purple
+      - Beloved
+      - The Road
+      Explanation: '''The Grapes of Wrath'' by John Steinbeck is a classic novel
+        that depicts the hardships of the Great Depression.'
+    - Question: Who won the Pulitzer Prize for Fiction in 2020?
+      TrueAnswer: Colson Whitehead
+      FalseAnswer:
+      - Jhumpa Lahiri
+      - Donna Tartt
+      - Jennifer Egan
+      Explanation: Colson Whitehead won the Pulitzer Prize for Fiction in 2020 for
+        his novel 'The Nickel Boys'.
+    - Question: Which Pulitzer Prize-winning play is set in the town of Grover's
+        Corners?
+      TrueAnswer: Our Town
+      FalseAnswer:
+      - A Streetcar Named Desire
+      - Death of a Salesman
+      - 'August: Osage County'
+      Explanation: '''Our Town'' by Thornton Wilder is a play that explores the lives
+        of people in the fictional town of Grover''s Corners.'
+    - Question: Who wrote the Pulitzer Prize-winning novel 'The Old Man and the Sea'?
+      TrueAnswer: Ernest Hemingway
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - John Steinbeck
+      - Harper Lee
+      Explanation: '''The Old Man and the Sea'' was written by Ernest Hemingway and
+        published in 1952.'
+    - Question: Which Pulitzer Prize-winning novel is set in the fictional town of
+        West Egg?
+      TrueAnswer: The Great Gatsby
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - Beloved
+      - The Catcher in the Rye
+      Explanation: '''The Great Gatsby'' by F. Scott Fitzgerald is a novel set in
+        the fictional town of West Egg on Long Island in the 1920s.'
+    - Question: Who won the Pulitzer Prize for Drama in 2019?
+      TrueAnswer: Jackie Sibblies Drury
+      FalseAnswer:
+      - Lynn Nottage
+      - Annie Baker
+      - Suzan-Lori Parks
+      Explanation: Jackie Sibblies Drury won the Pulitzer Prize for Drama in 2019
+        for her play 'Fairview'.
+    - Question: Which Pulitzer Prize-winning novel is set in the fictional town of
+        Maycomb?
+      TrueAnswer: To Kill a Mockingbird
+      FalseAnswer:
+      - The Grapes of Wrath
+      - The Color Purple
+      - Beloved
+      Explanation: '''To Kill a Mockingbird'' by Harper Lee is a novel set in the
+        fictional town of Maycomb, Alabama in the 1930s.'
+    - Question: Who won the Pulitzer Prize for Fiction in 2018?
+      TrueAnswer: Andrew Sean Greer
+      FalseAnswer:
+      - Jennifer Egan
+      - Colson Whitehead
+      - Donna Tartt
+      Explanation: Andrew Sean Greer won the Pulitzer Prize for Fiction in 2018 for
+        his novel 'Less'.
+    - Question: Which Pulitzer Prize-winning play explores the complexities of family
+        dynamics?
+      TrueAnswer: 'August: Osage County'
+      FalseAnswer:
+      - Our Town
+      - A Streetcar Named Desire
+      - Death of a Salesman
+      Explanation: '''August: Osage County'' by Tracy Letts is a play that delves
+        into the intricacies of family relationships and dysfunction.'
+    - Question: Who won the Pulitzer Prize for Fiction in 2017?
+      TrueAnswer: Colson Whitehead
+      FalseAnswer:
+      - Jhumpa Lahiri
+      - Donna Tartt
+      - Jennifer Egan
+      Explanation: Colson Whitehead won the Pulitzer Prize for Fiction in 2017 for
+        his novel 'The Underground Railroad'.
+    - Question: Which Pulitzer Prize-winning novel is set in the fictional town of
+        Stamps?
+      TrueAnswer: I Know Why the Caged Bird Sings
+      FalseAnswer:
+      - The Great Gatsby
+      - The Catcher in the Rye
+      - To Kill a Mockingbird
+      Explanation: '''I Know Why the Caged Bird Sings'' by Maya Angelou is a memoir
+        set in the fictional town of Stamps, Arkansas.'
+    - Question: Who won the Pulitzer Prize for Drama in 2016?
+      TrueAnswer: Lin-Manuel Miranda
+      FalseAnswer:
+      - Annie Baker
+      - Suzan-Lori Parks
+      - Jackie Sibblies Drury
+      Explanation: Lin-Manuel Miranda won the Pulitzer Prize for Drama in 2016 for
+        his musical 'Hamilton'.
+    - Question: Which Pulitzer Prize-winning novel is set in the fictional town of
+        Yoknapatawpha County?
+      TrueAnswer: The Sound and the Fury
+      FalseAnswer:
+      - Beloved
+      - The Grapes of Wrath
+      - The Color Purple
+      Explanation: '''The Sound and the Fury'' by William Faulkner is a novel set
+        in the fictional town of Yoknapatawpha County, Mississippi.'
+    - Question: Who won the Pulitzer Prize for Fiction in 2015?
+      TrueAnswer: Anthony Doerr
+      FalseAnswer:
+      - Jennifer Egan
+      - Colson Whitehead
+      - Donna Tartt
+      Explanation: Anthony Doerr won the Pulitzer Prize for Fiction in 2015 for his
+        novel 'All the Light We Cannot See'.
+    - Question: Which Pulitzer Prize-winning play explores the themes of race and
+        injustice in the South?
+      TrueAnswer: A Streetcar Named Desire
+      FalseAnswer:
+      - Our Town
+      - Death of a Salesman
+      - 'August: Osage County'
+      Explanation: '''A Streetcar Named Desire'' by Tennessee Williams is a play
+        that delves into the complexities of race and injustice in the South.'
+    - Question: Who won the Pulitzer Prize for Fiction in 2014?
+      TrueAnswer: Donna Tartt
+      FalseAnswer:
+      - Jhumpa Lahiri
+      - Colson Whitehead
+      - Jennifer Egan
+      Explanation: Donna Tartt won the Pulitzer Prize for Fiction in 2014 for her
+        novel 'The Goldfinch'.
+    - Question: Which Pulitzer Prize-winning novel is set in the fictional town of
+        Macondo?
+      TrueAnswer: One Hundred Years of Solitude
+      FalseAnswer:
+      - To Kill a Mockingbird
+      - The Great Gatsby
+      - Beloved
+      Explanation: '''One Hundred Years of Solitude'' by Gabriel Garcia Marquez is
+        a novel set in the fictional town of Macondo, Colombia.'
+    - Question: Who won the Pulitzer Prize for Drama in 2013?
+      TrueAnswer: Ayad Akhtar
+      FalseAnswer:
+      - Lynn Nottage
+      - Annie Baker
+      - Suzan-Lori Parks
+      Explanation: Ayad Akhtar won the Pulitzer Prize for Drama in 2013 for his play
+        'Disgraced'.
+    - Question: Which Pulitzer Prize-winning novel is set in the fictional town of
+        Jefferson?
+      TrueAnswer: A Light in August
+      FalseAnswer:
+      - The Color Purple
+      - The Grapes of Wrath
+      - Beloved
+      Explanation: '''A Light in August'' by William Faulkner is a novel set in the
+        fictional town of Jefferson, Mississippi.'
+    - Question: Who won the Pulitzer Prize for Fiction in 2012?
+      TrueAnswer: No award given
+      FalseAnswer:
+      - Jennifer Egan
+      - Colson Whitehead
+      - Donna Tartt
+      Explanation: No Pulitzer Prize for Fiction was awarded in 2012, breaking the
+        tradition that started in 1918.

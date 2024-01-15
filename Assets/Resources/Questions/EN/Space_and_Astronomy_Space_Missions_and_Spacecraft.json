@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What was the first human spacecraft to reach the surface of the Moon?",
+            "TrueAnswer": "Apollo 11",
+            "FalseAnswer": [
+              "Vostok 1",
+              "Gemini 7",
+              "Mir"
+            ],
+            "Explanation": "Apollo 11, on July 20, 1969, became the first crewed mission to land on the Moon, with Neil Armstrong and Buzz Aldrin."
+          },
+          {
+            "Question": "Which spacecraft was the first to visit Jupiter?",
+            "TrueAnswer": "Pioneer 10",
+            "FalseAnswer": [
+              "Voyager 2",
+              "Galileo",
+              "New Horizons"
+            ],
+            "Explanation": "Pioneer 10 made the first flyby of Jupiter in 1973, providing valuable data about the planet and its moons."
+          },
+          {
+            "Question": "What is the name of the spacecraft that carries the Mars rover Curiosity?",
+            "TrueAnswer": "Mars Science Laboratory",
+            "FalseAnswer": [
+              "Viking 1",
+              "Opportunity",
+              "ExoMars"
+            ],
+            "Explanation": "The Mars Science Laboratory mission, launched in 2011, delivered the Curiosity rover to explore the surface of Mars."
+          },
+          {
+            "Question": "Which spacecraft landed the first human on the surface of Mars in a fictional movie?",
+            "TrueAnswer": "Hermes",
+            "FalseAnswer": [
+              "Endurance",
+              "Discovery One",
+              "Event Horizon"
+            ],
+            "Explanation": "In the movie 'The Martian', the Hermes spacecraft transports the crew to and from Mars, with Mark Watney being stranded on the planet."
+          },
+          {
+            "Question": "When was the Hubble Space Telescope launched into space?",
+            "TrueAnswer": "1990",
+            "FalseAnswer": [
+              "1986",
+              "1995",
+              "2000"
+            ],
+            "Explanation": "Launched on April 24, 1990, the Hubble Space Telescope has provided stunning images and invaluable astronomical data for over three decades."
+          },
+          {
+            "Question": "Which spacecraft holds the record for the farthest human-made object from Earth?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "New Horizons",
+              "Cassini",
+              "Mars Reconnaissance Orbiter"
+            ],
+            "Explanation": "Launched in 1977, Voyager 1 is over 14 billion miles from Earth and is entering interstellar space, carrying the Golden Record."
+          },
+          {
+            "Question": "What was the first reusable spacecraft to carry humans into space?",
+            "TrueAnswer": "Space Shuttle Columbia",
+            "FalseAnswer": [
+              "SpaceX Dragon",
+              "Soyuz",
+              "Apollo 13"
+            ],
+            "Explanation": "Columbia, on April 12, 1981, completed the first orbital spaceflight and flew missions until the tragic disaster in 2003."
+          },
+          {
+            "Question": "Which space agency launched the Chandrayaan-2 mission to explore the Moon?",
+            "TrueAnswer": "ISRO",
+            "FalseAnswer": [
+              "NASA",
+              "Roscosmos",
+              "ESA"
+            ],
+            "Explanation": "The Indian Space Research Organisation (ISRO) successfully launched Chandrayaan-2 in 2019, aiming to study the lunar surface."
+          },
+          {
+            "Question": "What type of spacecraft is the Juno mission currently orbiting around?",
+            "TrueAnswer": "Jupiter",
+            "FalseAnswer": [
+              "Mars",
+              "Saturn",
+              "Neptune"
+            ],
+            "Explanation": "The Juno spacecraft has been in orbit around Jupiter since 2016, studying the planet's composition, gravity field, and magnetic field."
+          },
+          {
+            "Question": "Which country's space agency developed the Hayabusa2 spacecraft that collected asteroid samples?",
+            "TrueAnswer": "Japan",
+            "FalseAnswer": [
+              "China",
+              "Russia",
+              "India"
+            ],
+            "Explanation": "The Japan Aerospace Exploration Agency (JAXA) launched Hayabusa2 in 2014 to rendezvous with asteroid Ryugu and retrieve samples for analysis on Earth."
+          },
+          {
+            "Question": "What was the first privately funded spacecraft to reach the International Space Station (ISS)?",
+            "TrueAnswer": "Dragon",
+            "FalseAnswer": [
+              "Cygnus",
+              "Dream Chaser",
+              "Starliner"
+            ],
+            "Explanation": "The SpaceX Dragon became the first commercially built and operated spacecraft to be recovered successfully from orbit in 2012."
+          },
+          {
+            "Question": "Which spacecraft is responsible for carrying out the James Webb Space Telescope (JWST) mission?",
+            "TrueAnswer": "Ariane 5",
+            "FalseAnswer": [
+              "Falcon Heavy",
+              "Delta IV",
+              "Soyuz"
+            ],
+            "Explanation": "The Ariane 5, a European heavy-lift launch vehicle, was selected to deliver the delicate and powerful James Webb Space Telescope into its designated orbit."
+          },
+          {
+            "Question": "Which spacecraft completed the first ever rendezvous, docking, and return mission with the Chinese Tiangong-1 space laboratory?",
+            "TrueAnswer": "Shenzhou 8",
+            "FalseAnswer": [
+              "Tiangong 1",
+              "Chang'e 3",
+              "Long March 5"
+            ],
+            "Explanation": "Shenzhou 8, part of China's human spaceflight program, demonstrated automatic rendezvous and docking capabilities with Tiangong-1 in 2011."
+          },
+          {
+            "Question": "What is the name of the spacecraft that carried the Opportunity rover to the surface of Mars?",
+            "TrueAnswer": "MER-A",
+            "FalseAnswer": [
+              "Viking 1",
+              "Pathfinder",
+              "Mars Express"
+            ],
+            "Explanation": "MER-A, part of NASA's Mars Exploration Rover mission, landed the Opportunity rover on the surface of Mars on January 25, 2004."
+          },
+          {
+            "Question": "Which spacecraft holds the record for the longest continuous human presence in space?",
+            "TrueAnswer": "ISS",
+            "FalseAnswer": [
+              "Mir",
+              "Salyut 7",
+              "Skylab"
+            ],
+            "Explanation": "The International Space Station (ISS) has been manned continuously since November 2, 2000, marking over two decades of human presence in space."
+          },
+          {
+            "Question": "What was the first spacecraft to land on a comet and send data back to Earth?",
+            "TrueAnswer": "Philae",
+            "FalseAnswer": [
+              "Rosetta",
+              "Giotto",
+              "Deep Impact"
+            ],
+            "Explanation": "Philae, part of the ESA's Rosetta mission, achieved the historic comet landing on November 12, 2014, providing valuable scientific data."
+          },
+          {
+            "Question": "Which spacecraft performed the historic flyby of Pluto and its moons in 2015?",
+            "TrueAnswer": "New Horizons",
+            "FalseAnswer": [
+              "Cassini",
+              "Pioneer 11",
+              "Voyager 2"
+            ],
+            "Explanation": "New Horizons, launched by NASA in 2006, conducted the first-ever flyby of Pluto and its moons, providing unprecedented images and data."
+          },
+          {
+            "Question": "What type of spacecraft carried the first module for the International Space Station (ISS) into space?",
+            "TrueAnswer": "Zarya",
+            "FalseAnswer": [
+              "Soyuz",
+              "Unity",
+              "Tranquility"
+            ],
+            "Explanation": "Zarya, a Russian-built module, was the first component launched for the ISS, providing crucial propulsion and power for the early stages of construction."
+          },
+          {
+            "Question": "Which spacecraft completed the first successful soft landing on the surface of Venus?",
+            "TrueAnswer": "Venera 7",
+            "FalseAnswer": [
+              "Mars Reconnaissance Orbiter",
+              "Magellan",
+              "Vega 1"
+            ],
+            "Explanation": "Venera 7, launched by the Soviet Union, became the first spacecraft to successfully transmit data from the surface of another planet, Venus, in 1970."
+          },
+          {
+            "Question": "What is the name of the spacecraft launched by China to successfully land a rover on the far side of the Moon?",
+            "TrueAnswer": "Chang'e 4",
+            "FalseAnswer": [
+              "Yutu",
+              "Chandrayaan-2",
+              "Lunar Reconnaissance Orbiter"
+            ],
+            "Explanation": "Chang'e 4, launched in 2018, achieved the historic first soft landing on the far side of the Moon and deployed the Yutu-2 rover for exploration."
+          }
+        ]
+      }
+    }
+  ]
+}

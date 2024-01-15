@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What programming language is frequently used for iOS app development?",
+            "TrueAnswer": "Swift",
+            "FalseAnswer": [
+              "Java",
+              "Python",
+              "C++"
+            ],
+            "Explanation": "Swift is a popular programming language for iOS app development, known for its safety features and modern syntax."
+          },
+          {
+            "Question": "What does API stand for in the context of app development?",
+            "TrueAnswer": "Application Programming Interface",
+            "FalseAnswer": [
+              "Advanced Protocol Interface",
+              "Application Protocol Integration",
+              "Automated Program Interaction"
+            ],
+            "Explanation": "An API is a set of protocols and tools for building software applications, specifying how software components should interact."
+          },
+          {
+            "Question": "What is the maximum size for an app in the Apple App Store?",
+            "TrueAnswer": "4GB",
+            "FalseAnswer": [
+              "2GB",
+              "6GB",
+              "8GB"
+            ],
+            "Explanation": "The maximum app size for the Apple App Store is 4GB, including the executable and all assets."
+          },
+          {
+            "Question": "What is the primary database used for Android app development?",
+            "TrueAnswer": "SQLite",
+            "FalseAnswer": [
+              "MySQL",
+              "NoSQL",
+              "Oracle"
+            ],
+            "Explanation": "SQLite is a self-contained, server-less, zero-configuration, transactional SQL database engine primarily used in Android app development."
+          },
+          {
+            "Question": "What is the purpose of a mobile app framework like React Native?",
+            "TrueAnswer": "Cross-platform development",
+            "FalseAnswer": [
+              "Native app optimization",
+              "Server-side integration",
+              "Data encryption"
+            ],
+            "Explanation": "React Native allows developers to build mobile apps using JavaScript that can run on both iOS and Android platforms."
+          },
+          {
+            "Question": "Which programming language is primarily used for building Android apps?",
+            "TrueAnswer": "Java",
+            "FalseAnswer": [
+              "C#",
+              "Kotlin",
+              "Objective-C"
+            ],
+            "Explanation": "Java is the traditional and primary programming language used for Android app development due to its versatility and long-standing support."
+          },
+          {
+            "Question": "What does SDK stand for in the context of app development?",
+            "TrueAnswer": "Software Development Kit",
+            "FalseAnswer": [
+              "System Development Kernel",
+              "Source Data Kit",
+              "Security Development Key"
+            ],
+            "Explanation": "An SDK is a set of tools and libraries specifically designed for creating applications for a specific platform or development environment."
+          },
+          {
+            "Question": "What is the main difference between mobile web apps and native mobile apps?",
+            "TrueAnswer": "Access to device features",
+            "FalseAnswer": [
+              "Performance",
+              "Development time",
+              "User interface"
+            ],
+            "Explanation": "Native mobile apps have access to device features like camera and GPS, unlike web apps, which are limited in terms of hardware access."
+          },
+          {
+            "Question": "What purpose does the manifest file serve in mobile app development for Android?",
+            "TrueAnswer": "Describes essential information about the app",
+            "FalseAnswer": [
+              "Manages network requests",
+              "Handles user authentication",
+              "Optimizes app performance"
+            ],
+            "Explanation": "The AndroidManifest.xml file contains essential information about the app, such as its package name, permissions, and declared components."
+          },
+          {
+            "Question": "Which testing method evaluates the behavior of a mobile app by simulating user interactions?",
+            "TrueAnswer": "UI/UX testing",
+            "FalseAnswer": [
+              "Load testing",
+              "Integration testing",
+              "Compatibility testing"
+            ],
+            "Explanation": "UI/UX testing evaluates how users interact with the app's interface to identify and address design and usability issues."
+          },
+          {
+            "Question": "In mobile app development, what is a popular method for securing user data during transmission?",
+            "TrueAnswer": "SSL/TLS encryption",
+            "FalseAnswer": [
+              "Hashing algorithm",
+              "Rotating credentials",
+              "IP whitelisting"
+            ],
+            "Explanation": "SSL/TLS encryption secures data transmitted between the app and server, protecting it from interception and tampering."
+          },
+          {
+            "Question": "What does APK stand for in the context of Android app distribution?",
+            "TrueAnswer": "Android Application Package",
+            "FalseAnswer": [
+              "Application Programming Key",
+              "Advanced Provisioning Kit",
+              "Automated Package Manager"
+            ],
+            "Explanation": "An APK file is the package file format used for distributing and installing Android apps on devices, similar to .exe files on Windows."
+          },
+          {
+            "Question": "What is the purpose of the Google Play Console in app development?",
+            "TrueAnswer": "App management and distribution",
+            "FalseAnswer": [
+              "Code analysis and optimization",
+              "User feedback collection",
+              "Ad monetization"
+            ],
+            "Explanation": "The Google Play Console allows developers to manage apps, monitor performance, and distribute updates and new releases on the Play Store."
+          },
+          {
+            "Question": "What is a common approach to monetizing free mobile apps?",
+            "TrueAnswer": "In-app advertisements",
+            "FalseAnswer": [
+              "Subscription model",
+              "Pay-per-download",
+              "In-app purchases"
+            ],
+            "Explanation": "Many free mobile apps generate revenue through in-app advertisements, where advertisers pay to display ads to app users."
+          },
+          {
+            "Question": "What is the purpose of the Info.plist file in iOS app development?",
+            "TrueAnswer": "Configuration and system settings",
+            "FalseAnswer": [
+              "User interface layout",
+              "Data storage management",
+              "Network communication protocols"
+            ],
+            "Explanation": "The Info.plist file contains configuration information for the app, including system settings, permissions, and supported device orientations."
+          },
+          {
+            "Question": "What is the minimum requirement for an app to be considered a Progressive Web App (PWA)?",
+            "TrueAnswer": "Works offline",
+            "FalseAnswer": [
+              "Supports push notifications",
+              "Uses a particular programming language",
+              "Requires user authentication"
+            ],
+            "Explanation": "A key feature of PWAs is the ability to work offline, enabling users to access app content even when they are not connected to the internet."
+          },
+          {
+            "Question": "What is an essential step in app development to ensure accessibility for users with disabilities?",
+            "TrueAnswer": "Implementing inclusive design",
+            "FalseAnswer": [
+              "Performance optimization",
+              "Social media integration",
+              "Implementing microtransactions"
+            ],
+            "Explanation": "Inclusive design ensures that apps are accessible and usable by people with disabilities, enhancing the overall user experience for all users."
+          },
+          {
+            "Question": "What is the primary benefit of using cloud-based mobile app development platforms?",
+            "TrueAnswer": "Scalability and flexibility",
+            "FalseAnswer": [
+              "Enhanced security measures",
+              "Offline functionality",
+              "Compatibility with legacy systems"
+            ],
+            "Explanation": "Cloud-based platforms provide scalability and flexibility, allowing developers to efficiently build, test, and deploy mobile apps while adapting to varying user demands."
+          },
+          {
+            "Question": "What is the role of an IDE in mobile app development?",
+            "TrueAnswer": "Integrated Development Environment",
+            "FalseAnswer": [
+              "Internet Data Encryption",
+              "Interactive Development Environment",
+              "Integrated Debugging Environment"
+            ],
+            "Explanation": "An IDE is a software application that provides comprehensive facilities for app development, including code editing, debugging, and automatic building."
+          },
+          {
+            "Question": "What is a significant consideration when designing the user interface for a mobile app?",
+            "TrueAnswer": "Screen size and resolution",
+            "FalseAnswer": [
+              "App loading speed",
+              "Backend database architecture",
+              "Server-side routing logic"
+            ],
+            "Explanation": "Designing for various screen sizes and resolutions ensures that the user interface is consistent and visually appealing across different devices."
+          }
+        ]
+      }
+    }
+  ]
+}

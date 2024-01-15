@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &54187780451334915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8769016758105767825}
+  - component: {fileID: 326756848987542510}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes on Leadership and Vision.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8769016758105767825
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54187780451334915}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &326756848987542510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 54187780451334915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who said 'The only way to do great work is to love what you do'?
+      TrueAnswer: Steve Jobs
+      FalseAnswer:
+      - Bill Gates
+      - Mark Zuckerberg
+      - Elon Musk
+      Explanation: Steve Jobs, co-founder of Apple Inc., emphasized the importance
+        of passion in achieving greatness.
+    - Question: Which leader said 'The best way to predict the future is to create
+        it'?
+      TrueAnswer: Peter Drucker
+      FalseAnswer:
+      - Warren Buffett
+      - Jeff Bezos
+      - Richard Branson
+      Explanation: Peter Drucker, a renowned management consultant, believed in taking
+        proactive steps to shape the future.
+    - Question: Who said 'Leadership is not about being in charge. It is about taking
+        care of those in your charge'?
+      TrueAnswer: Simon Sinek
+      FalseAnswer:
+      - Tony Robbins
+      - Gary Vaynerchuk
+      - Brene Brown
+      Explanation: Simon Sinek, a motivational speaker, emphasized the responsibility
+        of leaders to care for their team members.
+    - Question: Which visionary said 'The only limit to our realization of tomorrow
+        will be our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - Winston Churchill
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        encouraged overcoming doubts to achieve progress.
+    - Question: Who said 'The function of leadership is to produce more leaders,
+        not more followers'?
+      TrueAnswer: Ralph Nader
+      FalseAnswer:
+      - Malcolm X
+      - Mahatma Gandhi
+      - Napoleon Bonaparte
+      Explanation: Ralph Nader, an American political activist, believed in empowering
+        others to become leaders.
+    - Question: Which leader said 'The greatest leader is not necessarily the one
+        who does the greatest things'?
+      TrueAnswer: Ronald Reagan
+      FalseAnswer:
+      - Barack Obama
+      - Angela Merkel
+      - Nelson Mandela
+      Explanation: Ronald Reagan, the 40th President of the United States, emphasized
+        the importance of character over achievements.
+    - Question: Who said 'A leader is one who knows the way, goes the way, and shows
+        the way'?
+      TrueAnswer: John C. Maxwell
+      FalseAnswer:
+      - Oprah Winfrey
+      - Richard Branson
+      - Warren Buffett
+      Explanation: John C. Maxwell, an author and speaker, defined a leader as someone
+        who guides others by example.
+    - Question: Which visionary said 'The future belongs to those who believe in
+        the beauty of their dreams'?
+      TrueAnswer: Eleanor Roosevelt
+      FalseAnswer:
+      - Mother Teresa
+      - Albert Einstein
+      - Steve Jobs
+      Explanation: Eleanor Roosevelt, a former First Lady of the United States, emphasized
+        the power of believing in one's dreams.
+    - Question: Who said 'Leadership is the capacity to translate vision into reality'?
+      TrueAnswer: Warren Bennis
+      FalseAnswer:
+      - Simon Sinek
+      - Tony Robbins
+      - Richard Branson
+      Explanation: Warren Bennis, a pioneer in leadership studies, described leadership
+        as the ability to turn vision into tangible results.
+    - Question: Which leader said 'The art of leadership is saying no, not saying
+        yes'?
+      TrueAnswer: Tony Blair
+      FalseAnswer:
+      - Justin Trudeau
+      - Jacinda Ardern
+      - Angela Merkel
+      Explanation: Tony Blair, the former Prime Minister of the United Kingdom, highlighted
+        the importance of setting boundaries as a leader.
+    - Question: Who said 'The greatest leader is not necessarily the one who does
+        the greatest things'?
+      TrueAnswer: Ronald Reagan
+      FalseAnswer:
+      - Barack Obama
+      - Angela Merkel
+      - Nelson Mandela
+      Explanation: Ronald Reagan, the 40th President of the United States, emphasized
+        the importance of character over achievements.
+    - Question: Which visionary said 'The only limit to our realization of tomorrow
+        will be our doubts of today'?
+      TrueAnswer: Franklin D. Roosevelt
+      FalseAnswer:
+      - Winston Churchill
+      - Nelson Mandela
+      - Martin Luther King Jr.
+      Explanation: Franklin D. Roosevelt, the 32nd President of the United States,
+        encouraged overcoming doubts to achieve progress.
+    - Question: Who said 'The function of leadership is to produce more leaders,
+        not more followers'?
+      TrueAnswer: Ralph Nader
+      FalseAnswer:
+      - Malcolm X
+      - Mahatma Gandhi
+      - Napoleon Bonaparte
+      Explanation: Ralph Nader, an American political activist, believed in empowering
+        others to become leaders.
+    - Question: Which leader said 'The best way to predict the future is to create
+        it'?
+      TrueAnswer: Peter Drucker
+      FalseAnswer:
+      - Warren Buffett
+      - Jeff Bezos
+      - Richard Branson
+      Explanation: Peter Drucker, a renowned management consultant, believed in taking
+        proactive steps to shape the future.
+    - Question: Who said 'Leadership is not about being in charge. It is about taking
+        care of those in your charge'?
+      TrueAnswer: Simon Sinek
+      FalseAnswer:
+      - Tony Robbins
+      - Gary Vaynerchuk
+      - Brene Brown
+      Explanation: Simon Sinek, a motivational speaker, emphasized the responsibility
+        of leaders to care for their team members.
+    - Question: Which visionary said 'The future belongs to those who believe in
+        the beauty of their dreams'?
+      TrueAnswer: Eleanor Roosevelt
+      FalseAnswer:
+      - Mother Teresa
+      - Albert Einstein
+      - Steve Jobs
+      Explanation: Eleanor Roosevelt, a former First Lady of the United States, emphasized
+        the power of believing in one's dreams.
+    - Question: Who said 'A leader is one who knows the way, goes the way, and shows
+        the way'?
+      TrueAnswer: John C. Maxwell
+      FalseAnswer:
+      - Oprah Winfrey
+      - Richard Branson
+      - Warren Buffett
+      Explanation: John C. Maxwell, an author and speaker, defined a leader as someone
+        who guides others by example.
+    - Question: Which leader said 'The art of leadership is saying no, not saying
+        yes'?
+      TrueAnswer: Tony Blair
+      FalseAnswer:
+      - Justin Trudeau
+      - Jacinda Ardern
+      - Angela Merkel
+      Explanation: Tony Blair, the former Prime Minister of the United Kingdom, highlighted
+        the importance of setting boundaries as a leader.
+    - Question: Who said 'Leadership is the capacity to translate vision into reality'?
+      TrueAnswer: Warren Bennis
+      FalseAnswer:
+      - Simon Sinek
+      - Tony Robbins
+      - Richard Branson
+      Explanation: Warren Bennis, a pioneer in leadership studies, described leadership
+        as the ability to turn vision into tangible results.
+    - Question: Which leader said 'The best way to predict the future is to create
+        it'?
+      TrueAnswer: Peter Drucker
+      FalseAnswer:
+      - Warren Buffett
+      - Jeff Bezos
+      - Richard Branson
+      Explanation: Peter Drucker, a renowned management consultant, believed in taking
+        proactive steps to shape the future.

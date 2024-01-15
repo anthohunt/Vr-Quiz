@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle protéine se dénature lors de la cuisson et affecte la texture de la viande?",
+            "TrueAnswer": "Collagène",
+            "FalseAnswer": [
+              "Kératine",
+              "Myoglobine",
+              "Hémoglobine"
+            ],
+            "Explanation": "Le collagène est la principale protéine structurale des tissus conjonctifs, se décomposant en gélatine lors d'une cuisson lente, ce qui rend la viande plus tendre."
+          },
+          {
+            "Question": "Quel processus détruit les micro-organismes nocifs dans le lait par un traitement thermique?",
+            "TrueAnswer": "Pasteurisation",
+            "FalseAnswer": [
+              "Fermentation",
+              "Stérilisation",
+              "Homogénéisation"
+            ],
+            "Explanation": "La pasteurisation consiste à chauffer le lait à une température spécifique pour tuer les bactéries pathogènes, ce qui prolonge sa durée de conservation tout en préservant les nutriments essentiels."
+          },
+          {
+            "Question": "Quel est le but principal de l'utilisation de sulfites dans la transformation des aliments?",
+            "TrueAnswer": "Conservation",
+            "FalseAnswer": [
+              "Coloration",
+              "Arôme",
+              "Agents levants"
+            ],
+            "Explanation": "Les sulfites agissent comme des antioxydants et des agents antimicrobiens, empêchant la croissance bactérienne et préservant la couleur et la saveur des aliments transformés."
+          },
+          {
+            "Question": "Quelle enzyme convertit l'amidon en sucres fermentescibles lors du maltage?",
+            "TrueAnswer": "Amylase",
+            "FalseAnswer": [
+              "Lipase",
+              "Protéase",
+              "Pectinase"
+            ],
+            "Explanation": "L'amylase décompose les glucides complexes dans les céréales maltées, facilitant la fermentation dans la brasserie et créant la base des boissons alcoolisées."
+          },
+          {
+            "Question": "Quelle est la fonction principale des agents levants dans la pâtisserie?",
+            "TrueAnswer": "Faire lever",
+            "FalseAnswer": [
+              "Coloration",
+              "Arôme",
+              "Attendrir"
+            ],
+            "Explanation": "Les agents levants libèrent du dioxyde de carbone, créant des bulles d'air dans les pâtes et les pâtes, ce qui donne une texture légère et aérée."
+          },
+          {
+            "Question": "Quel composé confère à l'ail son odeur et sa saveur piquante lorsqu'il est écrasé ou haché?",
+            "TrueAnswer": "Allicine",
+            "FalseAnswer": [
+              "acide caféique",
+              "Capsaïcine",
+              "Oléuropéine"
+            ],
+            "Explanation": "L'allicine se forme lorsque l'ail est écrasé, offrant son arôme caractéristique, sa saveur et divers bienfaits pour la santé."
+          },
+          {
+            "Question": "Qu'est-ce qui cause la réaction de Maillard en cuisine, qui améliore la saveur et la couleur?",
+            "TrueAnswer": "Acides aminés et sucres réducteurs",
+            "FalseAnswer": [
+              "Sels et acides",
+              "Alcools et esters",
+              "Enzymes et peroxyde d'hydrogène"
+            ],
+            "Explanation": "La réaction de Maillard se produit entre les acides aminés et les sucres réducteurs à haute température, ce qui entraîne un brunissement et un développement de saveurs complexes."
+          },
+          {
+            "Question": "Quelle classe de composés est responsable de l'amertume du houblon utilisé en brasserie?",
+            "TrueAnswer": "Isohumulones",
+            "FalseAnswer": [
+              "Tanins",
+              "Aldéhydes",
+              "Esters"
+            ],
+            "Explanation": "Les isohumulones sont des composés amers dérivés du houblon, équilibrant la douceur du malt dans la bière et offrant des profils de saveurs distincts."
+          },
+          {
+            "Question": "Qu'est-ce qui contribue à la consistance gélatineuse des confitures et des gelées de fruits?",
+            "TrueAnswer": "Pectine",
+            "FalseAnswer": [
+              "Agar",
+              "Gélatine",
+              "Gomme xanthane"
+            ],
+            "Explanation": "La pectine, présente naturellement dans les fruits, forme un réseau de gel lorsqu'elle est combinée avec du sucre et de l'acide, donnant à ces préparations leur texture caractéristique."
+          },
+          {
+            "Question": "Quel processus implique la fragmentation des globules de graisse dans le lait en particules plus petites et plus uniformes?",
+            "TrueAnswer": "Homogénéisation",
+            "FalseAnswer": [
+              "Pasteurisation",
+              "Fermentation",
+              "Clarification"
+            ],
+            "Explanation": "L'homogénéisation empêche la séparation de la crème en dispersant uniformément les globules de graisse dans le lait, assurant ainsi une texture et une sensation en bouche homogènes."
+          },
+          {
+            "Question": "Quel type de molécules est principalement responsable de la texture des crèmes glacées?",
+            "TrueAnswer": "Globules de graisse et cristaux de glace",
+            "FalseAnswer": [
+              "Protéines et sucres",
+              "Bulles d'air et émulsifiants",
+              "Particules de fruits et sirops"
+            ],
+            "Explanation": "L'équilibre entre les globules de graisse et les cristaux de glace dicte la douceur, la crémeuseté et la sensation en bouche des crèmes glacées."
+          },
+          {
+            "Question": "Quel composé contribue à l'arôme floral et d'agrumes de nombreux vins?",
+            "TrueAnswer": "Terpènes",
+            "FalseAnswer": [
+              "Esters",
+              "Lactones",
+              "Phénols"
+            ],
+            "Explanation": "Les terpènes, naturellement présents dans la peau des raisins, sont responsables de la complexité aromatique et du caractère variétal des vins."
+          },
+          {
+            "Question": "Quelle enzyme décompose les protéines en peptides plus petits lors de l'affinage du fromage?",
+            "TrueAnswer": "Protéase",
+            "FalseAnswer": [
+              "Lipase",
+              "Amylase",
+              "Présure"
+            ],
+            "Explanation": "Les enzymes protéases hydrolysent les protéines de caséine, contribuant au développement de la texture et de la saveur des fromages affinés."
+          },
+          {
+            "Question": "Qu'est-ce qui contribue à la stabilité des émulsions dans les vinaigrettes et la mayonnaise?",
+            "TrueAnswer": "Émulsifiants",
+            "FalseAnswer": [
+              "Épaississants",
+              "Stabilisateurs",
+              "Antioxydants"
+            ],
+            "Explanation": "Les émulsifiants, tels que le jaune d'œuf ou la lécithine, aident à stabiliser les gouttelettes d'huile et d'eau dans les émulsions, évitant ainsi leur séparation."
+          },
+          {
+            "Question": "Quelle forme de sucre contribue au brunissement dans la caramélisation et les produits de boulangerie?",
+            "TrueAnswer": "Sucres réducteurs",
+            "FalseAnswer": [
+              "Sucres inverti",
+              "Sucres non réducteurs",
+              "Sucres naturels"
+            ],
+            "Explanation": "Les sucres réducteurs, tels que le glucose et le fructose, subissent un brunissement de Maillard et une caramélisation, créant des couleurs et des saveurs désirables."
+          },
+          {
+            "Question": "Qu'est-ce qui provoque la formation de mousse et sa stabilité dans la crème fouettée et les meringues?",
+            "TrueAnswer": "Dénaturation des protéines et incorporation d'air",
+            "FalseAnswer": [
+              "Dissolution du sucre et ajout de matière grasse",
+              "Neutralisation de l'acide et refroidissement",
+              "Évaporation de l'alcool et cristallisation du sucre"
+            ],
+            "Explanation": "Les protéines de la crème ou des blancs d'œufs se déplient et se lient aux bulles d'air, créant une structure de mousse stable lorsqu'elles sont fouettées."
+          },
+          {
+            "Question": "Quel type d'enzyme convertit l'amidon en sucres fermentescibles lors du brassage?",
+            "TrueAnswer": "Amylase",
+            "FalseAnswer": [
+              "Levure",
+              "Lipase",
+              "Protéase"
+            ],
+            "Explanation": "Pendant le brassage, les enzymes amylases des céréales maltées décomposent l'amidon en sucres, fournissant ainsi des nutriments pour la fermentation de la levure lors du brassage."
+          },
+          {
+            "Question": "Quel composé contribue à l'amertume et à l'astringence du thé?",
+            "TrueAnswer": "Polyphénols",
+            "FalseAnswer": [
+              "Alcaloïdes",
+              "Tanins",
+              "Terpènes"
+            ],
+            "Explanation": "Les polyphénols, dont les catéchines et les théarubigines, confèrent à thé son amertume et son astringence, ainsi que des propriétés antioxydantes."
+          },
+          {
+            "Question": "Quel processus crée la texture caractéristique du pain en développant les brins de gluten?",
+            "TrueAnswer": "Pétrissage",
+            "FalseAnswer": [
+              "Fermentation",
+              "Détente",
+              "Cuisson"
+            ],
+            "Explanation": "Le pétrissage aligne et renforce les protéines de gluten dans la pâte, formant un réseau qui retient le gaz produit pendant la fermentation, donnant ainsi une texture moelleuse."
+          },
+          {
+            "Question": "Qu'est-ce qui contribue à la gélification de l'agar-agar, une alternative végétarienne courante à la gélatine?",
+            "TrueAnswer": "Polysaccharides d'algues",
+            "FalseAnswer": [
+              "Gommes végétales",
+              "Protéines d'algues",
+              "Extraits de champignon"
+            ],
+            "Explanation": "L'agar-agar est extrait d'algues et se compose principalement de polysaccharides qui forment un gel stable lorsqu'ils sont hydratés et refroidis."
+          }
+        ]
+      }
+    }
+  ]
+}

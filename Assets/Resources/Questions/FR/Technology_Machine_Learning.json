@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel est le but de l'apprentissage par renforcement en apprentissage automatique?",
+            "BonneRéponse": "Apprentissage des actions optimales",
+            "MauvaiseRéponse": [
+              "Génération de données",
+              "Résolution d'équations",
+              "Test d'algorithmes"
+            ],
+            "Explication": "L'apprentissage par renforcement est un type d'apprentissage automatique où un agent apprend à prendre des décisions en interagissant avec un environnement."
+          },
+          {
+            "Question": "Quel algorithme est utilisé pour l'apprentissage non supervisé en apprentissage automatique?",
+            "BonneRéponse": "K-moyennes",
+            "MauvaiseRéponse": [
+              "Arbre de décision",
+              "Régression linéaire",
+              "Forêt aléatoire"
+            ],
+            "Explication": "Les K-moyennes sont un type d'algorithme de regroupement utilisé pour partitionner des données en groupes distincts sur la base de leurs similitudes."
+          },
+          {
+            "Question": "Quel est le but du dropout dans les réseaux neuronaux?",
+            "BonneRéponse": "Prévenir le surajustement",
+            "MauvaiseRéponse": [
+              "Augmentation de la complexité du modèle",
+              "Réduction du coût computationnel",
+              "Amélioration de la vitesse de convergence"
+            ],
+            "Explication": "Le dropout est une technique de régularisation utilisée pour réduire le surajustement en désactivant aléatoirement certains neurones lors de l'entraînement."
+          },
+          {
+            "Question": "Quel type d'apprentissage utilise l'algorithme de rétropropagation?",
+            "BonneRéponse": "Apprentissage supervisé",
+            "MauvaiseRéponse": [
+              "Apprentissage non supervisé",
+              "Apprentissage semi-supervisé",
+              "Apprentissage par renforcement"
+            ],
+            "Explication": "La rétropropagation est un algorithme d'apprentissage supervisé couramment utilisé pour entraîner les réseaux neuronaux artificiels."
+          },
+          {
+            "Question": "Dans les réseaux neuronaux, à quoi fait référence le terme 'fonction d'activation'?",
+            "BonneRéponse": "Transformation non linéaire",
+            "MauvaiseRéponse": [
+              "Couche d'entrée des données",
+              "Fonction de perte",
+              "Calcul du terme de biais"
+            ],
+            "Explication": "Les fonctions d'activation introduisent une non-linéarité dans le réseau, lui permettant d'apprendre et de représenter des motifs complexes dans les données."
+          },
+          {
+            "Question": "Quel est le but de la validation croisée en apprentissage automatique?",
+            "BonneRéponse": "Évaluation du modèle",
+            "MauvaiseRéponse": [
+              "Visualisation des données",
+              "Réglage de paramètres",
+              "Sélection de caractéristiques"
+            ],
+            "Explication": "La validation croisée est une technique utilisée pour évaluer dans quelle mesure un modèle prédictif se généralise à un ensemble de données indépendant."
+          },
+          {
+            "Question": "Quelle technique est utilisée pour gérer les ensembles de données déséquilibrés en apprentissage automatique?",
+            "BonneRéponse": "SMOTE",
+            "MauvaiseRéponse": [
+              "Analyse en composantes principales",
+              "Mise à l'échelle des caractéristiques",
+              "Régularisation"
+            ],
+            "Explication": "SMOTE (Synthetic Minority Over-sampling Technique) est une méthode permettant de générer des échantillons synthétiques pour équilibrer la distribution des classes."
+          },
+          {
+            "Question": "Quel est l'objectif de la réduction de dimensionnalité en apprentissage automatique?",
+            "BonneRéponse": "Simplification des caractéristiques",
+            "MauvaiseRéponse": [
+              "Augmentation de la complexité du modèle",
+              "Amélioration de l'interprétabilité",
+              "Amélioration de la vitesse d'entraînement"
+            ],
+            "Explication": "La réduction de dimensionnalité vise à réduire le nombre de variables d'entrée tout en conservant des informations significatives pour la modélisation."
+          },
+          {
+            "Question": "Quelle méthode est utilisée pour l'optimisation des hyperparamètres en apprentissage automatique?",
+            "BonneRéponse": "Recherche en grille",
+            "MauvaiseRéponse": [
+              "Descente de gradient stochastique",
+              "Boosting de gradient",
+              "K plus proches voisins"
+            ],
+            "Explication": "La recherche en grille est une méthode systématique permettant de régler les hyperparamètres en explorant un sous-ensemble spécifié manuellement de l'espace des hyperparamètres."
+          },
+          {
+            "Question": "Quel est le but de l'ingénierie des caractéristiques en apprentissage automatique?",
+            "BonneRéponse": "Amélioration des performances du modèle",
+            "MauvaiseRéponse": [
+              "Optimisation du stockage des données",
+              "Visualisation des motifs de données",
+              "Sélection d'algorithmes"
+            ],
+            "Explication": "L'ingénierie des caractéristiques consiste à créer de nouvelles caractéristiques d'entrée à partir de données existantes pour améliorer les performances prédictives d'un modèle."
+          },
+          {
+            "Question": "Que mesure l'AUC-ROC dans l'évaluation de l'apprentissage automatique?",
+            "BonneRéponse": "Performance du classifieur",
+            "MauvaiseRéponse": [
+              "Importance des caractéristiques",
+              "Distribution des données",
+              "Convergence du modèle"
+            ],
+            "Explication": "L'AUC-ROC (aire sous la courbe ROC) mesure les performances d'un classifieur pour divers seuils de décision."
+          },
+          {
+            "Question": "Quel est le rôle du taux d'apprentissage dans l'optimisation de la descente de gradient?",
+            "BonneRéponse": "Contrôle de la taille des pas",
+            "MauvaiseRéponse": [
+              "Ajustement de la taille des lots",
+              "Sélection de l'algorithme d'optimisation",
+              "Réglage des initialisations de poids"
+            ],
+            "Explication": "Le taux d'apprentissage détermine la taille des pas effectués lors de la descente de gradient pour atteindre un minimum local de la fonction de perte."
+          },
+          {
+            "Question": "Quelle technique est utilisée pour gérer les données manquantes en apprentissage automatique?",
+            "BonneRéponse": "Imputation",
+            "MauvaiseRéponse": [
+              "Encodage one-hot",
+              "Normalisation",
+              "Sélection de caractéristiques"
+            ],
+            "Explication": "L'imputation consiste à remplir les valeurs manquantes par des substituts estimés, permettant ainsi d'utiliser des ensembles de données complets pour la modélisation."
+          },
+          {
+            "Question": "Quelle est la fonction de l'activation softmax dans les réseaux neuronaux?",
+            "BonneRéponse": "Classification multiclasse",
+            "MauvaiseRéponse": [
+              "Régression",
+              "Classification binaire",
+              "Regroupement"
+            ],
+            "Explication": "La fonction softmax est utilisée pour convertir les scores de sortie d'un réseau neuronal en probabilités pour la classification multiclasse."
+          },
+          {
+            "Question": "Quelle technique de régularisation pénalise les poids importants dans un réseau neuronal?",
+            "BonneRéponse": "Régularisation L2",
+            "MauvaiseRéponse": [
+              "Dropout",
+              "Régularisation L1",
+              "Filet élastique"
+            ],
+            "Explication": "La régularisation L2, également connue sous le nom de décroissance des poids, ajoute la magnitude au carré des poids comme pénalité à la fonction de perte."
+          },
+          {
+            "Question": "Quel est l'objectif principal d'un réseau neuronal convolutif (CNN)?",
+            "BonneRéponse": "Extraction de caractéristiques",
+            "MauvaiseRéponse": [
+              "Génération de texte",
+              "Prévision de séries chronologiques",
+              "Reconnaissance de caractères optiques"
+            ],
+            "Explication": "Les CNN sont conçus pour apprendre automatiquement et de manière adaptative des hiérarchies spatiales de caractéristiques à partir d'images en entrée."
+          },
+          {
+            "Question": "Que désigne le terme 'apprentissage par ensemble' en apprentissage automatique?",
+            "BonneRéponse": "Combinaison de plusieurs modèles",
+            "MauvaiseRéponse": [
+              "Extraction de caractéristiques",
+              "Réglage de paramètres",
+              "Réduction de dimensionnalité"
+            ],
+            "Explication": "L'apprentissage par ensemble tire parti des prédictions de plusieurs modèles pour améliorer la précision, la robustesse ou la généralisation d'un modèle."
+          },
+          {
+            "Question": "Quel est le but principal d'un réseau neuronal récurrent (RNN)?",
+            "BonneRéponse": "Modélisation de données séquentielles",
+            "MauvaiseRéponse": [
+              "Synthèse audio",
+              "Segmentation sémantique",
+              "Détection d'anomalies"
+            ],
+            "Explication": "Les RNN sont spécialisés dans le traitement de données séquentielles et sont couramment utilisés pour des tâches telles que la modélisation du langage et l'analyse de séries temporelles."
+          },
+          {
+            "Question": "Quelle technique est utilisée pour le transfert d'apprentissage en apprentissage automatique?",
+            "BonneRéponse": "Ajustement fin",
+            "MauvaiseRéponse": [
+              "Optimiseur SGD",
+              "Extraction de caractéristiques",
+              "Initialisation aléatoire"
+            ],
+            "Explication": "L'ajustement fin consiste à prendre un modèle pré-entraîné et à ajuster ses paramètres pour mieux correspondre à une nouvelle tâche ou un nouvel ensemble de données connexe."
+          }
+        ]
+      }
+    }
+  ]
+}

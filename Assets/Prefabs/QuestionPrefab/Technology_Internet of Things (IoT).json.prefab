@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1131709046240130294
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3791549155798248980}
+  - component: {fileID: 5281709330621886972}
+  m_Layer: 0
+  m_Name: Technology_Internet of Things (IoT).json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3791549155798248980
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1131709046240130294}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5281709330621886972
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1131709046240130294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What does IoT stand for?
+      TrueAnswer: Internet of Things
+      FalseAnswer:
+      - Internet of Technology
+      - Internet of Telecommunications
+      - Internet of Toys
+      Explanation: IoT stands for Internet of Things, which refers to the network
+        of physical devices connected to the internet.
+    - Question: Which of the following is NOT an example of an IoT device?
+      TrueAnswer: Microwave
+      FalseAnswer:
+      - Smartwatch
+      - Thermostat
+      - Refrigerator
+      Explanation: While smartwatches, thermostats, and refrigerators can be IoT
+        devices, microwaves typically are not connected to the internet.
+    - Question: What is the main purpose of IoT?
+      TrueAnswer: Collecting and sharing data
+      FalseAnswer:
+      - Playing video games
+      - Streaming movies
+      - Sending emails
+      Explanation: The main purpose of IoT is to collect and share data between devices,
+        enabling automation and improved decision-making.
+    - Question: Which technology is commonly used for IoT communication?
+      TrueAnswer: Wireless
+      FalseAnswer:
+      - Ethernet
+      - Fiber optic
+      - Bluetooth
+      Explanation: Wireless communication technologies, such as Wi-Fi and cellular
+        networks, are commonly used for IoT devices.
+    - Question: What is a smart home?
+      TrueAnswer: A home with IoT devices
+      FalseAnswer:
+      - A home with no technology
+      - A home with only smartphones
+      - A home with robots
+      Explanation: A smart home is a residence equipped with IoT devices that can
+        be controlled remotely and automate various tasks.
+    - Question: What is the benefit of IoT in agriculture?
+      TrueAnswer: Improved crop monitoring
+      FalseAnswer:
+      - Faster internet browsing
+      - Enhanced music streaming
+      - Better video gaming
+      Explanation: IoT in agriculture allows for improved crop monitoring, enabling
+        farmers to optimize irrigation, fertilization, and pest control.
+    - Question: What is a potential security concern with IoT?
+      TrueAnswer: Data privacy
+      FalseAnswer:
+      - Battery life
+      - Device compatibility
+      - Internet speed
+      Explanation: One of the main security concerns with IoT is data privacy, as
+        personal information can be vulnerable to breaches.
+    - Question: What is the role of sensors in IoT?
+      TrueAnswer: Collecting data
+      FalseAnswer:
+      - Playing music
+      - Displaying images
+      - Sending text messages
+      Explanation: Sensors in IoT devices are responsible for collecting data from
+        the environment, such as temperature, humidity, or motion.
+    - Question: What is the concept of smart cities?
+      TrueAnswer: Using IoT to improve urban life
+      FalseAnswer:
+      - Building taller skyscrapers
+      - Creating virtual reality worlds
+      - Developing flying cars
+      Explanation: Smart cities leverage IoT technologies to enhance urban life,
+        including efficient transportation, energy management, and public safety.
+    - Question: What is the potential impact of IoT on healthcare?
+      TrueAnswer: Remote patient monitoring
+      FalseAnswer:
+      - Cooking delicious meals
+      - Playing musical instruments
+      - Designing fashion accessories
+      Explanation: IoT can enable remote patient monitoring, allowing healthcare
+        professionals to track vital signs and provide timely interventions.
+    - Question: What is the purpose of IoT in transportation?
+      TrueAnswer: Enhancing vehicle safety
+      FalseAnswer:
+      - Creating traffic congestion
+      - Increasing fuel consumption
+      - Slowing down travel time
+      Explanation: IoT in transportation aims to enhance vehicle safety through technologies
+        like collision avoidance systems and real-time traffic monitoring.
+    - Question: What is the potential benefit of IoT in retail?
+      TrueAnswer: Personalized shopping experiences
+      FalseAnswer:
+      - Limited product availability
+      - Higher prices
+      - Longer checkout lines
+      Explanation: IoT in retail can provide personalized shopping experiences by
+        analyzing customer data and offering tailored recommendations.
+    - Question: What is the role of actuators in IoT?
+      TrueAnswer: Controlling physical devices
+      FalseAnswer:
+      - Singing songs
+      - Drawing pictures
+      - Calculating mathematical equations
+      Explanation: Actuators in IoT devices are responsible for controlling physical
+        devices based on the data collected by sensors.
+    - Question: What is the potential impact of IoT on energy management?
+      TrueAnswer: Optimizing energy consumption
+      FalseAnswer:
+      - Increasing energy waste
+      - Depleting natural resources
+      - Raising energy costs
+      Explanation: IoT can optimize energy consumption by monitoring and controlling
+        devices, reducing waste and promoting sustainability.
+    - Question: What is the concept of industrial IoT (IIoT)?
+      TrueAnswer: Applying IoT in industrial settings
+      FalseAnswer:
+      - Using IoT for recreational activities
+      - Implementing IoT in space exploration
+      - Integrating IoT in fashion design
+      Explanation: Industrial IoT (IIoT) refers to the application of IoT technologies
+        in industrial settings to improve efficiency and productivity.
+    - Question: What is the potential benefit of IoT in logistics?
+      TrueAnswer: Real-time tracking
+      FalseAnswer:
+      - Delayed deliveries
+      - Lost packages
+      - Inaccurate inventory
+      Explanation: IoT in logistics enables real-time tracking of shipments, improving
+        supply chain visibility and reducing delivery delays.
+    - Question: What is the role of cloud computing in IoT?
+      TrueAnswer: Storing and analyzing data
+      FalseAnswer:
+      - Playing online games
+      - Streaming movies
+      - Sending emails
+      Explanation: Cloud computing is used in IoT to store and analyze the vast amount
+        of data collected by IoT devices.
+    - Question: What is the potential impact of IoT on environmental monitoring?
+      TrueAnswer: Early detection of pollution
+      FalseAnswer:
+      - Creating more pollution
+      - Destroying natural habitats
+      - Wasting natural resources
+      Explanation: IoT can enable early detection of pollution by monitoring air
+        and water quality, helping to protect the environment.
+    - Question: What is the purpose of IoT in manufacturing?
+      TrueAnswer: Improving production efficiency
+      FalseAnswer:
+      - Slowing down production
+      - Increasing defects
+      - Raising costs
+      Explanation: IoT in manufacturing aims to improve production efficiency through
+        real-time monitoring, predictive maintenance, and automation.
+    - Question: What is the potential benefit of IoT in home security?
+      TrueAnswer: Remote monitoring and control
+      FalseAnswer:
+      - Unlocking doors for strangers
+      - Disabling security systems
+      - Broadcasting security footage
+      Explanation: IoT in home security allows for remote monitoring and control
+        of security systems, enhancing safety and convenience.

@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7173928322775896783
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6070355602979374372}
+  - component: {fileID: 3149999233822558606}
+  m_Layer: 0
+  m_Name: History_Social_Movements_and_Protests.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6070355602979374372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7173928322775896783}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3149999233822558606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7173928322775896783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What event sparked the Women's Suffrage Movement in the United States?
+      TrueAnswer: Seneca Falls Convention
+      FalseAnswer:
+      - Boston Tea Party
+      - Emancipation Proclamation
+      - Civil Rights Act
+      Explanation: The Seneca Falls Convention in 1848 was the first women's rights
+        convention in the U.S., marking the beginning of the women's suffrage movement.
+    - Question: Which organization was founded by Nelson Mandela to fight apartheid?
+      TrueAnswer: ANC
+      FalseAnswer:
+      - NAACP
+      - SCLC
+      - IRA
+      Explanation: The African National Congress (ANC) was founded in 1912 to fight
+        for the rights of black South Africans and played a crucial role in ending
+        apartheid.
+    - Question: What was the slogan of the Civil Rights Movement in the 1960s?
+      TrueAnswer: Freedom Now
+      FalseAnswer:
+      - Equality Forever
+      - Justice for All
+      - Peace and Love
+      Explanation: The slogan 'Freedom Now' became a rallying cry for civil rights
+        activists advocating for racial equality and an end to segregation.
+    - Question: Who organized the famous March on Washington for Jobs and Freedom
+        in 1963?
+      TrueAnswer: A. Philip Randolph
+      FalseAnswer:
+      - Malcolm X
+      - Cesar Chavez
+      - Ella Baker
+      Explanation: A. Philip Randolph, a civil rights leader and labor activist,
+        was the primary organizer of the historic march, where Martin Luther King
+        Jr. delivered his iconic 'I Have a Dream' speech.
+    - Question: In which country did the Tiananmen Square protests of 1989 take place?
+      TrueAnswer: China
+      FalseAnswer:
+      - Russia
+      - Germany
+      - South Korea
+      Explanation: The Tiananmen Square protests in Beijing, China, were a pro-democracy
+        movement that ended in a brutal military crackdown, shaping the nation's
+        future and global perception.
+    - Question: Which social movement emerged in the 1980s to advocate for LGBTQ
+        rights?
+      TrueAnswer: ACT UP
+      FalseAnswer:
+      - Greenpeace
+      - Black Lives Matter
+      - Tea Party
+      Explanation: ACT UP (AIDS Coalition to Unleash Power) was a prominent activist
+        group during the HIV/AIDS crisis, fighting for medical research and policies
+        to address the epidemic.
+    - Question: What was the name of the organization that initiated the Stonewall
+        Riots in 1969?
+      TrueAnswer: GLF
+      FalseAnswer:
+      - NOW
+      - ACLU
+      - MADD
+      Explanation: The Gay Liberation Front (GLF) played a key role in the Stonewall
+        Riots, marking a turning point for LGBTQ rights and amplifying the movement
+        for equality.
+    - Question: Who led the Salt March against British salt monopoly in India?
+      TrueAnswer: Mahatma Gandhi
+      FalseAnswer:
+      - Jawaharlal Nehru
+      - Subhas Chandra Bose
+      - Sardar Patel
+      Explanation: Mahatma Gandhi, known for his nonviolent resistance, led the Salt
+        March as a powerful act of civil disobedience against British colonial rule.
+    - Question: What was the name of the student organization involved in the 1960
+        Greensboro sit-ins?
+      TrueAnswer: SNCC
+      FalseAnswer:
+      - AARP
+      - UNICEF
+      - NCAA
+      Explanation: The Student Nonviolent Coordinating Committee (SNCC) played a
+        crucial role in organizing sit-ins and other nonviolent protests during the
+        civil rights movement.
+    - Question: Which movement aimed at ending racial segregation and discrimination
+        against South Asians in South Africa?
+      TrueAnswer: Passive Resistance Movement
+      FalseAnswer:
+      - Quit India Movement
+      - Pan-Africanism
+      - Mau Mau Uprising
+      Explanation: The Passive Resistance Movement, led by Mahatma Gandhi, sought
+        to challenge discriminatory laws and policies targeting South Asian communities
+        in South Africa.
+    - Question: What was the name of the organization formed by Ella Baker for civil
+        rights activism?
+      TrueAnswer: SCLC
+      FalseAnswer:
+      - ACLU
+      - NAACP
+      - SNCC
+      Explanation: Ella Baker was a prominent figure in the Southern Christian Leadership
+        Conference (SCLC), working alongside Martin Luther King Jr. and others to
+        advance civil rights initiatives.
+    - Question: Which women's organization fought for workplace rights in the early
+        20th century?
+      TrueAnswer: ILGWU
+      FalseAnswer:
+      - NOW
+      - Planned Parenthood
+      - League of Women Voters
+      Explanation: The International Ladies' Garment Workers' Union (ILGWU) advocated
+        for improved working conditions and fair labor practices for women in the
+        garment industry.
+    - Question: Who is known for co-founding the Black Lives Matter movement?
+      TrueAnswer: Alicia Garza
+      FalseAnswer:
+      - Angela Davis
+      - Rosa Parks
+      - Shirley Chisholm
+      Explanation: Alicia Garza, along with Opal Tometi and Patrisse Cullors, co-founded
+        the Black Lives Matter movement in response to the acquittal of Trayvon Martin's
+        killer.
+    - Question: Which nonviolent resistance campaign aimed to end British rule in
+        India?
+      TrueAnswer: Quit India Movement
+      FalseAnswer:
+      - Khilafat Movement
+      - Revolt of 1857
+      - Swarajya Movement
+      Explanation: The Quit India Movement, led by Mahatma Gandhi, called for the
+        immediate end of British colonial rule in India, resulting in widespread
+        protests and arrests.
+    - Question: What was the name of the Chicano student organization that led the
+        1968 walkouts in East Los Angeles?
+      TrueAnswer: MEChA
+      FalseAnswer:
+      - NAFTA
+      - LULAC
+      - Sierra Club
+      Explanation: Movimiento Estudiantil Chicano de Aztlan (MEChA) played a pivotal
+        role in organizing the East L.A. walkouts to protest educational inequalities
+        and discrimination against Mexican-American students.
+    - Question: Which women's rights organization was founded at the first National
+        Women's Rights Convention in 1850?
+      TrueAnswer: AWSA
+      FalseAnswer:
+      - NOW
+      - ACLU
+      - Suffragette Fellowship
+      Explanation: The American Woman Suffrage Association (AWSA) was founded to
+        campaign for women's right to vote and played a significant role in the suffrage
+        movement.
+    - Question: Who led the United Farm Workers in the 1960s and 1970s, advocating
+        for the rights of agricultural laborers?
+      TrueAnswer: Cesar Chavez
+      FalseAnswer:
+      - Dolores Huerta
+      - Helen Chavez
+      - Larry Itliong
+      Explanation: Cesar Chavez, together with Dolores Huerta, co-founded and led
+        the United Farm Workers, successfully organizing strikes and boycotts to
+        improve labor conditions for farmworkers.
+    - Question: Which organization organized the 1963 March on Washington for Jobs
+        and Freedom?
+      TrueAnswer: SCLC
+      FalseAnswer:
+      - NAACP
+      - CORE
+      - SNCC
+      Explanation: The Southern Christian Leadership Conference (SCLC), under Martin
+        Luther King Jr.'s leadership, was a key organizer of the historic March on
+        Washington for civil rights.
+    - Question: Who was the leader of the Indian National Congress during the Salt
+        Satyagraha?
+      TrueAnswer: Jawaharlal Nehru
+      FalseAnswer:
+      - Mahatma Gandhi
+      - Sardar Patel
+      - Subhas Chandra Bose
+      Explanation: Jawaharlal Nehru, later India's first Prime Minister, played a
+        crucial role in supporting Gandhi's nonviolent resistance campaign during
+        the Salt Satyagraha.
+    - Question: What event in 1969 is widely regarded as the birth of the gay rights
+        movement in the U.S.?
+      TrueAnswer: Stonewall Riots
+      FalseAnswer:
+      - Compton's Cafeteria Riot
+      - Mattachine Society founding
+      - Anita Bryant protests
+      Explanation: The Stonewall Riots in New York City became a catalyst for the
+        LGBTQ rights movement, sparking increased visibility, advocacy, and community
+        mobilization.

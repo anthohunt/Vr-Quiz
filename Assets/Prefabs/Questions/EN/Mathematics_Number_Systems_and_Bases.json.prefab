@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6149144462101668391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2242121211555968366}
+  - component: {fileID: 3614514436265093506}
+  m_Layer: 0
+  m_Name: Mathematics_Number_Systems_and_Bases.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2242121211555968366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6149144462101668391}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3614514436265093506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6149144462101668391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the decimal equivalent of binary number 1011?
+      TrueAnswer: 11
+      FalseAnswer:
+      - 7
+      - 13
+      - 15
+      Explanation: The binary number 1011 is equivalent to 11 in decimal as (1x2^3)
+        + (0x2^2) + (1x2^1) + (1x2^0) = 8 + 0 + 2 + 1 = 11.
+    - Question: In the hexadecimal system, what is the value of the letter 'A'?
+      TrueAnswer: 10
+      FalseAnswer:
+      - 7
+      - 12
+      - 15
+      Explanation: In the hexadecimal system, 'A' represents the value 10. The numbers
+        0-9 are represented as usual.
+    - Question: What base is the octal number '52' in decimal?
+      TrueAnswer: 42
+      FalseAnswer:
+      - 12
+      - 23
+      - 68
+      Explanation: The octal number 52 is equivalent to 42 in decimal, as (5x8^1)
+        + (2x8^0) = 40 + 2 = 42.
+    - Question: Which of the following is a valid base for number systems?
+      TrueAnswer: Base-5
+      FalseAnswer:
+      - Base-11
+      - Base-8
+      - Base-16
+      Explanation: Base-5 is a valid number system base, while Base-11, Base-8, and
+        Base-16 are also common.
+    - Question: What is the next line in the Fibonacci sequence after 13?
+      TrueAnswer: 21
+      FalseAnswer:
+      - 16
+      - 18
+      - 24
+      Explanation: The next number in the Fibonacci sequence after 13 is 21, derived
+        by adding the previous two numbers (8 + 13 = 21).
+    - Question: What is the Roman numeral representation of the number 50?
+      TrueAnswer: L
+      FalseAnswer:
+      - C
+      - X
+      - D
+      Explanation: The Roman numeral representation of the number 50 is 'L', representing
+        50 in the Roman numeral system.
+    - Question: What is the base-3 equivalent of the decimal number 20?
+      TrueAnswer: 202
+      FalseAnswer:
+      - 212
+      - 102
+      - 120
+      Explanation: The base-3 equivalent of the decimal number 20 is 202, as (2x3^2)
+        + (0x3^1) + (2x3^0) = 18 + 0 + 2 = 20.
+    - Question: What is the value of the digit '6' in base-7 system?
+      TrueAnswer: 6
+      FalseAnswer:
+      - 36
+      - 12
+      - 20
+      Explanation: In the base-7 system, the digit '6' holds the value 6, similar
+        to the value in the decimal system.
+    - Question: How do you represent the number 1011 in octal base?
+      TrueAnswer: 13
+      FalseAnswer:
+      - 12
+      - 15
+      - 17
+      Explanation: The number 1011 in octal base is represented as 13, as with every
+        3 binary digits mapping to 1 octal digit.
+    - Question: Which number system uses the fewest number of symbols?
+      TrueAnswer: Binary
+      FalseAnswer:
+      - Ternary
+      - Quinary
+      - Quaternary
+      Explanation: The binary number system uses only 0 and 1, making it the number
+        system with the fewest symbols.

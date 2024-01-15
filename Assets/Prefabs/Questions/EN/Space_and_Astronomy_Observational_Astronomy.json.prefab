@@ -1,0 +1,240 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4322210012973680415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3996213420639008722}
+  - component: {fileID: 59113561810664002}
+  m_Layer: 0
+  m_Name: Space_and_Astronomy_Observational_Astronomy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3996213420639008722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4322210012973680415}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &59113561810664002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4322210012973680415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest radio telescope in the world?
+      TrueAnswer: FAST
+      FalseAnswer:
+      - Arecibo
+      - Green Bank
+      - Lovell
+      Explanation: The Five-hundred-meter Aperture Spherical radio Telescope (FAST)
+        in China is the largest filled-aperture radio telescope in the world, surpassing
+        Arecibo.
+    - Question: What is the primary purpose of a spectrograph in astronomy?
+      TrueAnswer: Analyzing light
+      FalseAnswer:
+      - Collecting asteroid samples
+      - Detecting cosmic rays
+      - Mapping planetary surfaces
+      Explanation: Spectrographs break light down into its component colors, allowing
+        astronomers to study the chemical compositions, temperatures, and velocities
+        of celestial objects.
+    - Question: What is the name of the first exoplanet ever discovered?
+      TrueAnswer: 51 Pegasi b
+      FalseAnswer:
+      - Kepler-186f
+      - HD 209458 b
+      - TRAPPIST-1e
+      Explanation: Discovered in 1995, 51 Pegasi b was the first confirmed exoplanet
+        orbiting a main-sequence star, revolutionizing our understanding of planetary
+        systems beyond our own.
+    - Question: Which type of telescopes are used to study faint, distant objects
+        in space?
+      TrueAnswer: Reflecting telescopes
+      FalseAnswer:
+      - Refracting telescopes
+      - Radio telescopes
+      - X-ray telescopes
+      Explanation: Reflecting telescopes, utilizing mirrors, are better able to gather
+        and focus light compared to refracting telescopes, making them ideal for
+        studying faint, distant objects.
+    - Question: What is the phenomenon where light bends as it passes through a gravitational
+        field?
+      TrueAnswer: Gravitational lensing
+      FalseAnswer:
+      - Light refraction
+      - Asteroid deflection
+      - Magnetic resonance
+      Explanation: Gravitational lensing is a key tool for astronomers to study distant
+        galaxies and dark matter, as the bending of light can act as a cosmic magnifying
+        glass.
+    - Question: What is the purpose of a charge-coupled device (CCD) in astronomical
+        observations?
+      TrueAnswer: Capturing images
+      FalseAnswer:
+      - Measuring temperature
+      - Detecting magnetic fields
+      - Recording audio
+      Explanation: CCDs are the primary detectors in modern telescopes, converting
+        light into electronic signals to produce digital images for analysis and
+        study by astronomers.
+    - Question: What is the name of the Hubble Space Telescope's primary mirror diameter?
+      TrueAnswer: 2.4 meters
+      FalseAnswer:
+      - 3.5 meters
+      - 5 meters
+      - 1 meter
+      Explanation: The primary mirror of the Hubble Space Telescope, with a diameter
+        of 2.4 meters, captures and focuses light to produce high-resolution images
+        of celestial objects.
+    - Question: What is the celestial phenomenon linked to the appearance of bright,
+        colorful lights in the Earth's polar regions?
+      TrueAnswer: Auroras
+      FalseAnswer:
+      - Meteor showers
+      - Solar eclipses
+      - Comet tails
+      Explanation: Auroras, such as the Northern and Southern Lights, are caused
+        by solar wind particles interacting with the Earth's magnetosphere, producing
+        stunning displays of light.
+    - Question: What is a pulsar, often referred to as a 'cosmic lighthouse'?
+      TrueAnswer: Spinning neutron star
+      FalseAnswer:
+      - Supermassive black hole
+      - Red giant star
+      - Magnetar
+      Explanation: Pulsars are highly magnetized, rotating neutron stars that emit
+        beams of electromagnetic radiation, resembling the rhythmic flashes of a
+        lighthouse.
+    - Question: What is the process by which a star converts hydrogen into helium,
+        releasing energy in the form of light and heat?
+      TrueAnswer: Nuclear fusion
+      FalseAnswer:
+      - Nuclear fission
+      - Sublimation
+      - Ionization
+      Explanation: Nuclear fusion powers the core of stars, where the extreme heat
+        and pressure cause hydrogen atoms to combine and form helium, releasing a
+        tremendous amount of energy.
+    - Question: Which instrument is used to measure the brightness of stars and other
+        celestial objects?
+      TrueAnswer: Photometer
+      FalseAnswer:
+      - Spectrometer
+      - Chronometer
+      - Barometer
+      Explanation: Photometers quantify the light output of stars and other objects,
+        providing crucial data for astronomers to study the variable brightness and
+        behavior of these celestial bodies.
+    - Question: What is the primary goal of direct imaging in observational astronomy?
+      TrueAnswer: Visualizing exoplanets
+      FalseAnswer:
+      - Studying star clusters
+      - Mapping asteroid surfaces
+      - Detecting gamma-ray bursts
+      Explanation: Direct imaging aims to capture actual images of exoplanets, allowing
+        astronomers to study their atmospheres and properties directly, rather than
+        inferring them through indirect methods.
+    - Question: What is the name of the telescope that discovered the remnants of
+        an exploded star, the Crab Nebula?
+      TrueAnswer: Palomar Observatory's Hale Telescope
+      FalseAnswer:
+      - James Webb Space Telescope
+      - Keck Observatory
+      - VLT (Very Large Telescope)
+      Explanation: The Hale Telescope at Palomar Observatory was instrumental in
+        the discovery of the Crab Nebula, providing detailed images of the expanding
+        remnants of this  supernova explosion.
+    - Question: What is the study of the movement and relative positions of celestial
+        bodies called?
+      TrueAnswer: Celestial mechanics
+      FalseAnswer:
+      - Astrophotography
+      - Planetary geology
+      - Stellar evolution
+      Explanation: Celestial mechanics focuses on the mathematical modeling of the
+        gravitational interactions between celestial bodies, contributing to our
+        understanding of orbital dynamics and predictions of celestial events.
+    - Question: What are the two primary types of astronomical observations carried
+        out using ground-based observatories?
+      TrueAnswer: Photometry and spectroscopy
+      FalseAnswer:
+      - Radiometry and microwave astronomy
+      - Polarimetry and interferometry
+      - Astrometry and planetology
+      Explanation: Photometry measures the brightness of celestial objects, while
+        spectroscopy analyzes their light to determine composition, temperature,
+        and motion, both crucial for astronomical research.
+    - Question: Which space observatory is dedicated to the study of high-energy
+        astrophysical phenomena like gamma-ray bursts and black holes?
+      TrueAnswer: Fermi Gamma-ray Space Telescope
+      FalseAnswer:
+      - Hubble Space Telescope
+      - Spitzer Space Telescope
+      - Chandra X-ray Observatory
+      Explanation: The Fermi Gamma-ray Space Telescope plays a vital role in detecting
+        and studying gamma-ray bursts, offering insights into the most energetic
+        events in the universe and the nature of black holes.
+    - Question: What technology is used to correct for atmospheric turbulence in
+        ground-based telescopes?
+      TrueAnswer: Adaptive optics
+      FalseAnswer:
+      - Radio interferometry
+      - Infrared spectroscopy
+      - Laser ranging
+      Explanation: Adaptive optics systems utilize deformable mirrors to counteract
+        the blurring effects of Earth's atmosphere, enabling ground-based telescopes
+        to achieve sharper, more detailed images of celestial objects.
+    - Question: What is the purpose of interferometry in observational astronomy?
+      TrueAnswer: Combining multiple telescopes' signals
+      FalseAnswer:
+      - Detecting cosmic microwaves
+      - Mapping planetary orbits
+      - Classifying galaxies
+      Explanation: Interferometry involves combining signals from separate telescopes
+        to create a virtual, larger telescope, enhancing the resolution and sensitivity
+        for studying fine details of celestial objects.
+    - Question: What is the primary function of a coronagraph in astronomical observations?
+      TrueAnswer: Blocking a star's light
+      FalseAnswer:
+      - Measuring cosmic ray flux
+      - Detecting asteroid collisions
+      - Studying lunar eclipses
+      Explanation: Coronagraphs create an artificial eclipse, blocking the intense
+        light of stars to reveal fainter objects in their vicinity, including exoplanets,
+        protoplanetary disks, and distant galaxies.
+    - Question: Which country is home to the Mauna Kea Observatories, a world-renowned
+        site for astronomical research?
+      TrueAnswer: United States
+      FalseAnswer:
+      - Australia
+      - Chile
+      - Russia
+      Explanation: Located on the island of Hawaii, the Mauna Kea Observatories host
+        numerous telescopes and astronomical facilities, contributing to significant
+        discoveries and ongoing research in astronomy.

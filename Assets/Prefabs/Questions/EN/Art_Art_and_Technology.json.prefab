@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6572602482245163214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6440687203250708876}
+  - component: {fileID: 8388392221082643619}
+  m_Layer: 0
+  m_Name: Art_Art_and_Technology.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6440687203250708876
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572602482245163214}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8388392221082643619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6572602482245163214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: When was the first 3D printed sculpture created?
+      TrueAnswer: 1984
+      FalseAnswer:
+      - 1992
+      - 2001
+      - 2010
+      Explanation: The first 3D printed sculpture, 'Rabbit', was created by artist
+        Michael W. Rees in 1984, pioneering the use of 3D printing in art.
+    - Question: What software did Andy Warhol use to create digital art?
+      TrueAnswer: Amiga
+      FalseAnswer:
+      - Photoshop
+      - Illustrator
+      - CorelDRAW
+      Explanation: Andy Warhol used the Amiga 1000 computer and the software 'Graphicraft'
+        and 'ProPaint' to create digital art in the 1980s.
+    - Question: Who coined the term 'virtual reality' and in what year?
+      TrueAnswer: Jaron Lanier, 1987
+      FalseAnswer:
+      - Walt Disney, 1964
+      - Timothy Leary, 1970
+      - Hiroshi Ishiguro, 1993
+      Explanation: Jaron Lanier conceived the term 'virtual reality' in 1987, describing
+        it as a fully immersive digital environment experienced through a computer.
+    - Question: Which artist created a robotic painting device called 'e-David'?
+      TrueAnswer: Uli Aschenborn
+      FalseAnswer:
+      - Banksy
+      - Yayoi Kusama
+      - Damien Hirst
+      Explanation: Uli Aschenborn, a German artist, created the 'e-David' robotic
+        system that autonomously creates paintings based on visual data and algorithms.
+    - Question: In what year was the first digital photograph created?
+      TrueAnswer: 1957
+      FalseAnswer:
+      - 1972
+      - 1986
+      - 1999
+      Explanation: Russell Kirsch created the first digital photograph in 1957 using
+        a device called a 'drum scanner' that converted an image into a digital file.
+    - Question: The animated film 'Beauty and the Beast' used what pioneering technology?
+      TrueAnswer: CAPS
+      FalseAnswer:
+      - 3D printing
+      - Virtual Reality
+      - Motion Capture
+      Explanation: Disney's 'Beauty and the Beast' (1991) was the first animated
+        film to use the Computer Animation Production System (CAPS) for creating
+        and coloring animation.
+    - Question: What technology did Marcel Duchamp use in his artwork 'Rotoreliefs'?
+      TrueAnswer: An optical disc
+      FalseAnswer:
+      - Augmented Reality
+      - Laser projection
+      - Holography
+      Explanation: Marcel Duchamp created 'Rotoreliefs' in 1935, utilizing optical
+        discs that produced optical illusions when spun on a turntable, blending
+        art and technology.
+    - Question: Which museum hosted the first major exhibition dedicated to digital
+        art?
+      TrueAnswer: Museum of Modern Art (MoMA)
+      FalseAnswer:
+      - Louvre Museum
+      - The British Museum
+      - The Guggenheim Museum
+      Explanation: MoMA hosted the 'Digital Art' exhibition in 1989, recognizing
+        and showcasing digital works challenging traditional notions of art and medium.
+    - Question: Which term describes the blending of virtual and physical worlds
+        in art?
+      TrueAnswer: Augmented Reality
+      FalseAnswer:
+      - Virtual Reality
+      - Cybernetic Art
+      - Algorithmic Art
+      Explanation: Augmented Reality integrates digital elements into a real-world
+        environment, expanding artistic expression through interactive and immersive
+        experiences.
+    - Question: What technology enabled Olafur Eliasson's 'The Weather Project' installation?
+      TrueAnswer: Mono-frequency lights
+      FalseAnswer:
+      - Projection mapping
+      - 3D printing
+      - Artificial Intelligence
+      Explanation: Eliasson used mono-frequency lights in 'The Weather Project' (2003)
+        at Tate Modern to create a sun-like artificial light effect, altering viewers'
+        perception.
+    - Question: Who created the first artwork entirely generated by artificial intelligence?
+      TrueAnswer: Harold Cohen
+      FalseAnswer:
+      - Damien Hirst
+      - Yayoi Kusama
+      - Banksy
+      Explanation: Harold Cohen's program, AARON, produced computer-generated artworks,
+        exploring the intersection of creativity, technology, and the role of the
+        artist.
+    - Question: What technology did Chris Milk use to create 'Treasures' art installation?
+      TrueAnswer: Virtual Reality
+      FalseAnswer:
+      - 3D Printing
+      - Motion Capture
+      - Projection Mapping
+      Explanation: Chris Milk utilized Virtual Reality to immerse viewers in 'Treasures',
+        an interactive art installation where participants could create and interact
+        with digital art.
+    - Question: Which artist utilized 3D scanning and printing to create sculptural
+        forms?
+      TrueAnswer: Nick Ervinck
+      FalseAnswer:
+      - Kara Walker
+      - JR
+      - Olafur Eliasson
+      Explanation: Nick Ervinck employs 3D scanning and printing to craft intricate
+        sculptural forms, merging digital and traditional techniques in his artistic
+        practice.
+    - Question: What technology enabled Rafael Lozano-Hemmer's 'Pulse Room' installation?
+      TrueAnswer: Heart rate sensors
+      FalseAnswer:
+      - Facial recognition
+      - Biometric scanning
+      - Brainwave monitoring
+      Explanation: Lozano-Hemmer used heart rate sensors in 'Pulse Room' to create
+        a visual display based on participants' pulses, blending technology and audience
+        interaction.
+    - Question: Who designed the interactive light and sound installation 'Spectral
+        Diffractions'?
+      TrueAnswer: Ryoji Ikeda
+      FalseAnswer:
+      - Olafur Eliasson
+      - Yayoi Kusama
+      - Ai Weiwei
+      Explanation: Ryoji Ikeda's 'Spectral Diffractions' utilized advanced audiovisual
+        technology to create an immersive multisensory experience for the audience.
+    - Question: Which artist pioneered using holography in art displays?
+      TrueAnswer: Harriet Casdin-Silver
+      FalseAnswer:
+      - Damien Hirst
+      - Banksy
+      - Yoko Ono
+      Explanation: Harriet Casdin-Silver explored the use of holographic images and
+        laser technology in her pioneering art displays from the 1960s onwards.
+    - Question: What technology did Refik Anadol use in the 'Infinity Room' installation?
+      TrueAnswer: Generative algorithms
+      FalseAnswer:
+      - Drone photography
+      - Smart sensors
+      - Nanotechnology
+      Explanation: Refik Anadol employed generative algorithms to create 'Infinity
+        Room', an immersive audiovisual environment that reimagines the perception
+        of space and reality.
+    - Question: In what year was the first digital artwork auctioned using blockchain
+        technology?
+      TrueAnswer: 2018
+      FalseAnswer:
+      - 2005
+      - 2012
+      - 2016
+      Explanation: The first digital artwork auctioned using blockchain was 'Edmond
+        de Belamy' by the collective Obvious in 2018, revolutionizing art sales.
+    - Question: Which technology did TeamLab use to create interactive digital art
+        installations?
+      TrueAnswer: Projection mapping
+      FalseAnswer:
+      - Augmented Reality
+      - Digital painting
+      - Neural networks
+      Explanation: TeamLab combines projection mapping with digital sensors to create
+        immersive, interactive environments integrating audience movement and dynamic
+        visuals.

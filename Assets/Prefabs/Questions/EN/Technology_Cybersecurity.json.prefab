@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3717706275729890378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5792987154348848051}
+  - component: {fileID: 6906152705933569655}
+  m_Layer: 0
+  m_Name: Technology_Cybersecurity.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5792987154348848051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3717706275729890378}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6906152705933569655
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3717706275729890378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary goal of a hacker when attempting a SQL injection
+        attack?
+      TrueAnswer: Access data
+      FalseAnswer:
+      - Delete data
+      - Encrypt data
+      - Backup data
+      Explanation: The primary goal of a hacker in a SQL injection attack is to access
+        or extract sensitive data from a database, such as usernames, passwords,
+        or personal information.
+    - Question: Which encryption method is considered the most secure for transmitting
+        sensitive data over the internet?
+      TrueAnswer: AES
+      FalseAnswer:
+      - RSA
+      - DES
+      - MD5
+      Explanation: AES (Advanced Encryption Standard) is widely considered the most
+        secure encryption method for transmitting sensitive data over the internet,
+        offering a high level of protection against cyber attacks.
+    - Question: What is the most effective way to prevent phishing attacks?
+      TrueAnswer: Employee training
+      FalseAnswer:
+      - Antivirus software
+      - Firewall implementation
+      - Data encryption
+      Explanation: Employee training is the most effective way to prevent phishing
+        attacks, as it educates staff about recognizing and avoiding suspicious emails,
+        links, and social engineering tactics.
+    - Question: Which type of malware is designed to block access to a computer system
+        until a ransom is paid?
+      TrueAnswer: Ransomware
+      FalseAnswer:
+      - Spyware
+      - Adware
+      - Trojan horse
+      Explanation: Ransomware is a type of malware that locks or encrypts a computer
+        system's files, demanding payment (usually in cryptocurrencies) for their
+        release, posing a significant threat to cybersecurity.
+    - Question: What is the purpose of the principle of least privilege in cybersecurity?
+      TrueAnswer: Limit access
+      FalseAnswer:
+      - Grant unlimited access
+      - Increase vulnerability
+      - Enhance authentication
+      Explanation: The principle of least privilege aims to limit access rights for
+        users and applications to the minimum necessary for performing their tasks,
+        reducing the risk of unauthorized access and cyber attacks.
+    - Question: Which method of multi-factor authentication is considered the most
+        secure?
+      TrueAnswer: Biometrics
+      FalseAnswer:
+      - SMS codes
+      - Email verification
+      - Security questions
+      Explanation: Biometrics, such as fingerprint or facial recognition, is considered
+        the most secure method for multi-factor authentication, as it uniquely identifies
+        individuals based on physical characteristics.
+    - Question: What is the main purpose of a VPN (Virtual Private Network) in cybersecurity?
+      TrueAnswer: Secure communication
+      FalseAnswer:
+      - Increase internet speed
+      - Bypass firewalls
+      - Encrypt local files
+      Explanation: The main purpose of a VPN in cybersecurity is to provide secure
+        and encrypted communication over public networks, ensuring data privacy,
+        confidentiality, and protection against eavesdropping.
+    - Question: Which type of cyber attack involves flooding a network with an overwhelming
+        amount of traffic?
+      TrueAnswer: DDoS
+      FalseAnswer:
+      - Phishing
+      - Malware
+      - DNS spoofing
+      Explanation: A DDoS (Distributed Denial of Service) attack floods a network
+        with a massive volume of traffic, rendering it inaccessible to legitimate
+        users, disrupting services, and causing significant downtime.
+    - Question: What is the primary purpose of a firewall in cybersecurity?
+      TrueAnswer: Monitor network traffic
+      FalseAnswer:
+      - Detect physical intruders
+      - Encrypt stored data
+      - Block email attachments
+      Explanation: The primary purpose of a firewall is to monitor and control incoming
+        and outgoing network traffic, implementing security policies to filter and
+        block potentially malicious or unauthorized access attempts.
+    - Question: Which type of security testing aims to identify and exploit vulnerabilities
+        in a system?
+      TrueAnswer: Penetration testing
+      FalseAnswer:
+      - Usability testing
+      - Load testing
+      - Compatibility testing
+      Explanation: Penetration testing, also known as ethical hacking, aims to identify
+        and exploit system vulnerabilities, providing valuable insights for strengthening
+        cybersecurity defenses and remediation of potential threats.
+    - Question: What is a common method for authenticating users in secure systems
+        that uses a physical device for access?
+      TrueAnswer: Smart card
+      FalseAnswer:
+      - Two-factor authentication
+      - Single sign-on
+      - Biometric scan
+      Explanation: Smart cards are a common method for authenticating users in secure
+        systems, requiring the physical possession of a token or card for access,
+        enhancing security and access control.
+    - Question: What is the primary function of antivirus software in maintaining
+        cybersecurity?
+      TrueAnswer: Detect and remove malware
+      FalseAnswer:
+      - Encrypt data
+      - Block internet access
+      - Prevent physical theft
+      Explanation: The primary function of antivirus software is to detect and remove
+        various types of malware, such as viruses, worms, and Trojans, safeguarding
+        systems from malicious threats and cyber attacks.
+    - Question: What is the primary purpose of SSL/TLS certificates in web security?
+      TrueAnswer: Secure data transmission
+      FalseAnswer:
+      - Monitor website traffic
+      - Verify domain ownership
+      - Change website design
+      Explanation: SSL/TLS certificates are used to secure and encrypt data transmission
+        between web browsers and servers, ensuring the confidentiality and integrity
+        of sensitive information exchanged over the internet.
+    - Question: Which cybersecurity measure mitigates the risk of data loss due to
+        hardware failures or system disruptions?
+      TrueAnswer: Data backups
+      FalseAnswer:
+      - Firewall installation
+      - Software patching
+      - Biometric authentication
+      Explanation: Data backups are a critical cybersecurity measure that safeguards
+        against data loss caused by hardware failures, system malfunctions, cyber
+        attacks, or accidental deletions, ensuring business continuity and data recovery.
+    - Question: What is the primary goal of a man-in-the-middle (MitM) attack?
+      TrueAnswer: Eavesdrop communication
+      FalseAnswer:
+      - Corrupt data integrity
+      - Delete system files
+      - Overload network bandwidth
+      Explanation: The primary goal of a man-in-the-middle attack is to intercept
+        and eavesdrop on communication between two parties, allowing the attacker
+        to monitor, modify, or steal sensitive information without detection.
+    - Question: Which type of cyber attack involves manipulating the Domain Name
+        System to redirect users to malicious websites?
+      TrueAnswer: DNS spoofing
+      FalseAnswer:
+      - Cross-site scripting
+      - SQL injection
+      - Zero-day exploit
+      Explanation: DNS spoofing, or DNS cache poisoning, involves manipulating the
+        Domain Name System to redirect users to malicious websites or fake versions
+        of legitimate sites to steal sensitive information or distribute malware.
+    - Question: What is the primary purpose of network segmentation in cybersecurity?
+      TrueAnswer: Isolate sensitive data
+      FalseAnswer:
+      - Increase internet speed
+      - Consolidate network traffic
+      - Expand Wi-Fi coverage
+      Explanation: Network segmentation aims to isolate sensitive data, systems,
+        or user groups from other parts of the network, reducing the impact of potential
+        cyber attacks and limiting unauthorized access.
+    - Question: Which type of cyber attack targets the exploitation of software vulnerabilities
+        to gain unauthorized access?
+      TrueAnswer: Zero-day exploit
+      FalseAnswer:
+      - Phishing scam
+      - Social engineering
+      - Ransomware attack
+      Explanation: Zero-day exploits target previously unknown software vulnerabilities,
+        enabling attackers to gain unauthorized access before the vulnerability is
+        identified and patched by software developers, posing significant cybersecurity
+        threats.
+    - Question: What is the primary purpose of security incident response planning
+        in cybersecurity?
+      TrueAnswer: Minimize impact
+      FalseAnswer:
+      - Prohibit internet access
+      - Increase attack visibility
+      - Verify user identities
+      Explanation: Security incident response planning aims to minimize the impact
+        of security breaches and cyber attacks by establishing effective procedures,
+        coordination, and response strategies to mitigate potential damage and restore
+        normal operations.
+    - Question: What is the primary purpose of a security assessment in cybersecurity?
+      TrueAnswer: Identify vulnerabilities
+      FalseAnswer:
+      - Install antivirus software
+      - Optimize network performance
+      - Enhance user interface
+      Explanation: The primary purpose of a security assessment is to identify and
+        analyze potential vulnerabilities in an organization's systems, networks,
+        and infrastructure, enabling the implementation of targeted security measures
+        and risk mitigation.

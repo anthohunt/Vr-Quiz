@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3946354365500971610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4415149357620327734}
+  - component: {fileID: 6319489677495987015}
+  m_Layer: 0
+  m_Name: Internet_Online Gaming Communities.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4415149357620327734
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3946354365500971610}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6319489677495987015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3946354365500971610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What does URL stand for?
+      TrueAnswer: Uniform Resource Locator
+      FalseAnswer:
+      - Universal Resource Locator
+      - Uniform Retrieval Locator
+      - Universal Retrieval Locator
+      Explanation: URL stands for Uniform Resource Locator, which is the address
+        of a resource on the internet.
+    - Question: What does HTML stand for?
+      TrueAnswer: Hypertext Markup Language
+      FalseAnswer:
+      - Hyperlink Markup Language
+      - Hypertext Modeling Language
+      - Hyperlink Modeling Language
+      Explanation: HTML stands for Hypertext Markup Language, which is used to create
+        web pages.
+    - Question: What does ISP stand for?
+      TrueAnswer: Internet Service Provider
+      FalseAnswer:
+      - Internet Security Protocol
+      - Internet Speed Provider
+      - Internet Signal Provider
+      Explanation: ISP stands for Internet Service Provider, which is a company that
+        provides internet access to customers.
+    - Question: What does VPN stand for?
+      TrueAnswer: Virtual Private Network
+      FalseAnswer:
+      - Virtual Public Network
+      - Virtual Personal Network
+      - Virtual Protected Network
+      Explanation: VPN stands for Virtual Private Network, which allows users to
+        securely access a private network over the internet.
+    - Question: What is the most widely used web browser?
+      TrueAnswer: Google Chrome
+      FalseAnswer:
+      - Mozilla Firefox
+      - Microsoft Edge
+      - Safari
+      Explanation: Google Chrome is the most widely used web browser, known for its
+        speed and user-friendly interface.
+    - Question: What is the main function of a search engine?
+      TrueAnswer: To retrieve information from the internet
+      FalseAnswer:
+      - To create websites
+      - To send emails
+      - To play online games
+      Explanation: The main function of a search engine is to retrieve information
+        from the internet based on user queries.
+    - Question: What is the purpose of a firewall?
+      TrueAnswer: To protect a network from unauthorized access
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To encrypt data
+      Explanation: A firewall is used to protect a network from unauthorized access
+        and prevent malicious attacks.
+    - Question: What is the maximum number of characters allowed in a tweet on Twitter?
+      TrueAnswer: 280
+      FalseAnswer:
+      - 140
+      - 200
+      - 320
+      Explanation: The maximum number of characters allowed in a tweet on Twitter
+        is 280, increased from the previous limit of 140.
+    - Question: What is the purpose of a CAPTCHA?
+      TrueAnswer: To verify that the user is human
+      FalseAnswer:
+      - To block internet access
+      - To encrypt data
+      - To create user accounts
+      Explanation: A CAPTCHA is used to verify that the user is human and not a computer
+        program attempting to access a website.
+    - Question: What is the most popular social media platform?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - Snapchat
+      Explanation: Facebook is the most popular social media platform, with billions
+        of active users worldwide.
+    - Question: What is the purpose of a cookie on a website?
+      TrueAnswer: To store user preferences and data
+      FalseAnswer:
+      - To block advertisements
+      - To track user location
+      - To increase website speed
+      Explanation: A cookie is used to store user preferences and data, allowing
+        websites to remember information about the user.
+    - Question: What is the purpose of a pop-up blocker?
+      TrueAnswer: To prevent unwanted pop-up windows
+      FalseAnswer:
+      - To increase internet speed
+      - To block websites
+      - To encrypt data
+      Explanation: A pop-up blocker is used to prevent unwanted pop-up windows from
+        appearing while browsing the internet.
+    - Question: What is the purpose of a spam filter?
+      TrueAnswer: To block unwanted email messages
+      FalseAnswer:
+      - To increase internet speed
+      - To encrypt data
+      - To create email accounts
+      Explanation: A spam filter is used to block unwanted email messages, often
+        containing advertisements or malicious content.
+    - Question: What is the purpose of a forum in an online gaming community?
+      TrueAnswer: To facilitate discussions and interactions among players
+      FalseAnswer:
+      - To provide game updates
+      - To sell virtual items
+      - To host online tournaments
+      Explanation: A forum in an online gaming community is used to facilitate discussions
+        and interactions among players, allowing them to share tips, strategies,
+        and experiences.
+    - Question: What is the purpose of a guild in an online game?
+      TrueAnswer: To form a group of players who cooperate and play together
+      FalseAnswer:
+      - To create game mods
+      - To design game levels
+      - To provide customer support
+      Explanation: A guild in an online game is formed by a group of players who
+        cooperate and play together, often helping each other progress in the game.
+    - Question: What is the purpose of a leaderboard in an online game?
+      TrueAnswer: To display rankings and achievements of players
+      FalseAnswer:
+      - To provide game tutorials
+      - To sell virtual items
+      - To host online tournaments
+      Explanation: A leaderboard in an online game is used to display rankings and
+        achievements of players, creating a competitive environment.
+    - Question: What is the purpose of a voice chat in an online game?
+      TrueAnswer: To allow players to communicate verbally during gameplay
+      FalseAnswer:
+      - To provide game updates
+      - To sell virtual items
+      - To host online tournaments
+      Explanation: A voice chat in an online game allows players to communicate verbally
+        during gameplay, enhancing teamwork and coordination.
+    - Question: What is the purpose of a game server in an online game?
+      TrueAnswer: To host and manage game sessions for multiple players
+      FalseAnswer:
+      - To create game mods
+      - To design game levels
+      - To provide customer support
+      Explanation: A game server in an online game is responsible for hosting and
+        managing game sessions, allowing multiple players to connect and play together.
+    - Question: What is the purpose of a patch in an online game?
+      TrueAnswer: To update and fix issues in the game
+      FalseAnswer:
+      - To provide game tutorials
+      - To sell virtual items
+      - To host online tournaments
+      Explanation: A patch in an online game is used to update and fix issues, such
+        as bugs or balance problems, improving the overall gameplay experience.
+    - Question: What is the purpose of a microtransaction in an online game?
+      TrueAnswer: To purchase virtual items or in-game currency with real money
+      FalseAnswer:
+      - To unlock new game levels
+      - To provide game tutorials
+      - To host online tournaments
+      Explanation: A microtransaction in an online game allows players to purchase
+        virtual items or in-game currency using real money, often providing convenience
+        or cosmetic enhancements.

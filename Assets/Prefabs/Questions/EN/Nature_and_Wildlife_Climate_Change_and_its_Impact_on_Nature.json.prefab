@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3407370940523327117
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2789681292045043592}
+  - component: {fileID: 3748749315504434799}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Climate_Change_and_its_Impact_on_Nature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2789681292045043592
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407370940523327117}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3748749315504434799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3407370940523327117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the leading cause of deforestation?
+      TrueAnswer: Logging
+      FalseAnswer:
+      - Wildfires
+      - Urbanization
+      - Mining
+      Explanation: Logging for timber and commercial agriculture is the primary cause
+        of deforestation, leading to habitat loss and biodiversity decline.
+    - Question: Which greenhouse gas has the highest impact on global warming?
+      TrueAnswer: Carbon dioxide (CO2)
+      FalseAnswer:
+      - Methane (CH4)
+      - Nitrous oxide (N2O)
+      - Ozone (O3)
+      Explanation: CO2 has the highest impact due to its abundance and long-lasting
+        nature in the atmosphere, contributing to climate change.
+    - Question: What percentage of global greenhouse gas emissions comes from the
+        burning of fossil fuels?
+      TrueAnswer: Around 75%
+      FalseAnswer:
+      - Around 50%
+      - Around 90%
+      - Around 60%
+      Explanation: Approximately 75% of global greenhouse gas emissions are from
+        the burning of fossil fuels, primarily for energy and transportation.
+    - Question: Which region is experiencing the most rapid melting of glaciers?
+      TrueAnswer: Arctic
+      FalseAnswer:
+      - Antarctic
+      - Himalayas
+      - Andes
+      Explanation: The Arctic region is experiencing rapid glacier melt due to rising
+        temperatures, causing sea-level rise and impacting wildlife habitats.
+    - Question: What is the primary threat to coral reefs due to climate change?
+      TrueAnswer: Ocean acidification
+      FalseAnswer:
+      - Overfishing
+      - Pollution
+      - Coral bleaching
+      Explanation: Ocean acidification, caused by increased CO2 absorption, poses
+        a significant threat to coral reefs by weakening their skeletal structure
+        and hindering growth.
+    - Question: Which ocean phenomenon is associated with more intense hurricanes
+        and typhoons?
+      TrueAnswer: Warmer sea surface temperatures
+      FalseAnswer:
+      - Ocean currents
+      - "El Ni\xF1o"
+      - Sea level rise
+      Explanation: Warmer sea surface temperatures fuel the intensity of hurricanes
+        and typhoons, providing the energy needed for their formation and strengthening.
+    - Question: What is a key impact of climate change on bird migration patterns?
+      TrueAnswer: Disruption of breeding and feeding habitats
+      FalseAnswer:
+      - Increased population
+      - Shorter migration distances
+      - Earlier migration start
+      Explanation: Climate change disrupts bird migration patterns by altering the
+        availability of food and suitable breeding grounds, leading to population
+        declines.
+    - Question: Which ecosystems are particularly vulnerable to rising temperatures
+        and changing precipitation patterns?
+      TrueAnswer: Tundra and alpine ecosystems
+      FalseAnswer:
+      - Tropical rainforests
+      - Deserts
+      - Coral reefs
+      Explanation: Tundra and alpine ecosystems are highly sensitive to climate change,
+        as they experience rapid shifts in temperature and precipitation, affecting
+        plant and animal life.
+    - Question: What impact does climate change have on the timing of plant flowering
+        and fruiting?
+      TrueAnswer: Earlier timing
+      FalseAnswer:
+      - No impact
+      - Delayed timing
+      - Consistent timing
+      Explanation: Climate change causes plants to flower and fruit earlier as they
+        respond to warmer temperatures, disrupting natural pollination and seasonal
+        dynamics.
+    - Question: Which type of species is more vulnerable to extinction due to climate
+        change?
+      TrueAnswer: Endemic species with limited habitat range
+      FalseAnswer:
+      - Generalist species with wide habitat range
+      - Large-bodied mammals
+      - Reptiles
+      Explanation: Endemic species with limited habitat range are highly vulnerable
+        to climate change due to their specific ecological niche and limited adaptability.
+    - Question: What role do melting ice caps play in sea-level rise due to climate
+        change?
+      TrueAnswer: Significant contributor
+      FalseAnswer:
+      - Minimal impact
+      - No impact
+      - Fluctuating impact
+      Explanation: Melting ice caps contribute significantly to sea-level rise by
+        releasing stored water into the oceans, posing risks to coastal communities
+        and ecosystems.
+    - Question: How does climate change impact the distribution of infectious diseases
+        carried by vectors like mosquitoes?
+      TrueAnswer: Expanded range and transmission
+      FalseAnswer:
+      - Decreased transmission
+      - No impact
+      - Limited range expansion
+      Explanation: Climate change expands the range of vector-borne diseases by creating
+        favorable conditions for disease-carrying organisms, affecting human and
+        wildlife health.
+    - Question: In which way does climate change affect food security for communities
+        reliant on agriculture?
+      TrueAnswer: Decreased crop yields and stability
+      FalseAnswer:
+      - Increased crop yields
+      - Consistent crop production
+      - Reduced need for irrigation
+      Explanation: Climate change leads to decreased crop yields and stability through
+        extreme weather events, heat stress, and changes in precipitation patterns,
+        impacting food availability and access.
+    - Question: What impact does ocean warming have on marine biodiversity and ecosystems?
+      TrueAnswer: Loss of habitat and species diversity
+      FalseAnswer:
+      - Increase in habitat area
+      - Enhanced species resilience
+      - Marine productivity boost
+      Explanation: Ocean warming threatens marine biodiversity by causing habitat
+        loss, disrupting ecosystems, and increasing the vulnerability of species
+        to extinction.
+    - Question: Which natural process is affected by climate change, leading to increased
+        wildfire frequency and severity?
+      TrueAnswer: Vegetation drying and flammability
+      FalseAnswer:
+      - Soil erosion
+      - Rainfall distribution
+      - Volcanic activity
+      Explanation: Climate change affects vegetation drying and flammability, creating
+        favorable conditions for wildfires, contributing to forest degradation and
+        air pollution.
+    - Question: What impact does climate change have on the stability of permafrost
+        regions?
+      TrueAnswer: Thawing and ground subsidence
+      FalseAnswer:
+      - Permafrost expansion
+      - Enhanced soil stability
+      - Reduced groundwater recharge
+      Explanation: Climate change causes permafrost regions to thaw, leading to ground
+        subsidence, release of greenhouse gases, and disruption of infrastructure
+        and ecosystems.
+    - Question: How does climate change influence the availability and quality of
+        freshwater resources?
+      TrueAnswer: Shifts in precipitation patterns and reduced availability
+      FalseAnswer:
+      - Increased availability
+      - Consistent quality
+      - No impact on availability
+      Explanation: Climate change alters precipitation patterns, leading to droughts
+        and floods, affecting the availability and quality of freshwater resources
+        for ecosystems and human use.
+    - Question: Which factor contributes to the decline of polar bear populations
+        as a result of climate change?
+      TrueAnswer: Loss of sea ice habitat for hunting and denning
+      FalseAnswer:
+      - Increase in seal populations
+      - Expanded hunting territories
+      - Adaptation to terrestrial habitats
+      Explanation: Climate change leads to the loss of sea ice, affecting polar bears'
+        ability to hunt for seals and find suitable denning sites, resulting in population
+        declines.
+    - Question: How does climate change influence the frequency and severity of extreme
+        weather events such as hurricanes and heatwaves?
+      TrueAnswer: Increased frequency and severity
+      FalseAnswer:
+      - Decreased frequency
+      - Consistent severity
+      - No impact on frequency
+      Explanation: Climate change intensifies extreme weather events, leading to
+        increased frequency and severity of hurricanes, heatwaves, and heavy rainfall,
+        posing risks to ecosystems and human communities.
+    - Question: What impact does climate change have on the migration patterns of
+        marine species?
+      TrueAnswer: Shifts in distribution and abundance
+      FalseAnswer:
+      - Consistent migration routes
+      - Limited range expansion
+      - Population declines
+      Explanation: Climate change alters ocean temperatures and currents, causing
+        shifts in the distribution and abundance of marine species, impacting ecosystem
+        dynamics and fisheries.

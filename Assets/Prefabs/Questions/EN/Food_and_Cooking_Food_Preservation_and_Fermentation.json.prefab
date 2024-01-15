@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1012417754271227680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6824735954801754152}
+  - component: {fileID: 8614074613470301558}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Food_Preservation_and_Fermentation.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6824735954801754152
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012417754271227680}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8614074613470301558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1012417754271227680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the primary purpose of pickling?
+      TrueAnswer: Preservation
+      FalseAnswer:
+      - Enhancement
+      - Coloring
+      - Drying
+      Explanation: Pickling is a preservation method that uses brine or vinegar to
+        extend the shelf life of foods like cucumbers and onions.
+    - Question: Which microorganisms are responsible for fermentation?
+      TrueAnswer: Bacteria and yeast
+      FalseAnswer:
+      - Viruses and fungi
+      - Protozoa and algae
+      - Mold and mildew
+      Explanation: Bacteria and yeast convert sugars into acids, gases, or alcohol
+        during the fermentation process in food preservation.
+    - Question: What is the primary role of sugar in fermentation?
+      TrueAnswer: Food for microorganisms
+      FalseAnswer:
+      - Coloring agent
+      - Preservative
+      - Flavor enhancer
+      Explanation: Sugar serves as a source of energy for the microorganisms that
+        drive fermentation, transforming it into alcohol, lactic acid, or carbon
+        dioxide.
+    - Question: Which of the following methods is a form of anaerobic food preservation?
+      TrueAnswer: Canning
+      FalseAnswer:
+      - Dehydration
+      - Vacuum sealing
+      - Freezing
+      Explanation: Canning is a process that removes oxygen from the food, creating
+        an anaerobic environment to prevent the growth of spoilage microorganisms.
+    - Question: What is the purpose of brining in food preservation?
+      TrueAnswer: Enhances flavor and texture
+      FalseAnswer:
+      - Extends shelf life
+      - Adds color
+      - Reduces acidity
+      Explanation: Brining improves flavor and texture by adding moisture, infusing
+        seasoning, and tenderizing food, but it does not directly extend shelf life.
+    - Question: Which microorganism is responsible for the fermentation of kimchi?
+      TrueAnswer: Lactic acid bacteria
+      FalseAnswer:
+      - Acetic acid bacteria
+      - Wild yeast
+      - Mold
+      Explanation: Lactic acid bacteria in kimchi fermentation produce lactic acid,
+        contributing to its unique tangy flavor and preserving properties.
+    - Question: Which substance is essential for fermenting beer?
+      TrueAnswer: Yeast
+      FalseAnswer:
+      - Sugar
+      - Hops
+      - Water
+      Explanation: Yeast metabolizes sugars in beer wort, producing alcohol and carbon
+        dioxide during fermentation, crucial for brewing a palatable beverage.
+    - Question: Which method of preserving meat involves the use of salt?
+      TrueAnswer: Curing
+      FalseAnswer:
+      - Freezing
+      - Canning
+      - Dehydration
+      Explanation: Curing involves the application of salt to meat, drawing out moisture,
+        inhibiting bacterial growth, and extending its shelf life.
+    - Question: What do probiotics contribute to fermented foods?
+      TrueAnswer: Health benefits
+      FalseAnswer:
+      - Preservation
+      - Sweetness
+      - Aroma
+      Explanation: Probiotics in fermented foods can promote a healthy gut microbiome,
+        aid digestion, and enhance nutrient absorption.
+    - Question: What does pasteurization aim to achieve in food preservation?
+      TrueAnswer: Harmful microorganism elimination
+      FalseAnswer:
+      - Enhanced flavor
+      - Texture improvement
+      - Increased shelf life
+      Explanation: Pasteurization uses heat to eliminate harmful bacteria, extending
+        the shelf life of perishable foods like milk and juices.

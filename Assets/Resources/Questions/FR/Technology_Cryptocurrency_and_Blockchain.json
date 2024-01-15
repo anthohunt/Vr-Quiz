@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quelle est la première cryptomonnaie jamais créée?",
+            "TrueAnswer": "Bitcoin",
+            "FalseAnswer": [
+              "Ethereum",
+              "Ripple",
+              "Litecoin"
+            ],
+            "Explanation": "Le Bitcoin, créé en 2009 par une personne ou un groupe inconnu utilisant le pseudonyme Satoshi Nakamoto, a été la première cryptomonnaie décentralisée."
+          },
+          {
+            "Question": "Quel est le processus de validation et d'enregistrement des transactions sur une blockchain?",
+            "TrueAnswer": "Minage",
+            "FalseAnswer": [
+              "Trading",
+              "Staking",
+              "Fiat"
+            ],
+            "Explanation": "Le minage est le processus d'ajout et de vérification des transactions sur une blockchain, souvent effectué par de puissants ordinateurs résolvant des énigmes mathématiques complexes."
+          },
+          {
+            "Question": "Quelle est l'offre maximale de Bitcoin?",
+            "TrueAnswer": "21 millions",
+            "FalseAnswer": [
+              "10 millions",
+              "15 millions",
+              "30 millions"
+            ],
+            "Explanation": "L'offre maximale de Bitcoin est plafonnée à 21 millions de pièces, créant la rareté et le potentiel d'appréciation à long terme."
+          },
+          {
+            "Question": "Quel algorithme de consensus Ethereum utilise-t-il?",
+            "TrueAnswer": "Preuve d'enjeu (PoS)",
+            "FalseAnswer": [
+              "Preuve de travail (PoW)",
+              "Preuve d'enjeu déléguée (DPoS)",
+              "Tolérance aux fautes byzantines (BFT)"
+            ],
+            "Explanation": "Ethereum est en train de passer de la preuve de travail à l'algorithme de consensus de preuve d'enjeu, visant à améliorer la scalabilité et à réduire l'impact environnemental."
+          },
+          {
+            "Question": "Quel est le terme utilisé pour décrire le processus de vérification des transactions sur une blockchain sans nécessiter d'autorité centrale?",
+            "TrueAnswer": "Décentralisation",
+            "FalseAnswer": [
+              "Centralisation",
+              "Intermédiation",
+              "Consolidation"
+            ],
+            "Explanation": "La décentralisation garantit qu'aucune entité unique n'a le contrôle sur le réseau, promouvant la transparence, la sécurité et la résistance à la censure."
+          },
+          {
+            "Question": "Quel type de portefeuille permet le stockage hors ligne de cryptomonnaies?",
+            "TrueAnswer": "Portefeuille matériel",
+            "FalseAnswer": [
+              "Portefeuille papier",
+              "Portefeuille de bureau",
+              "Portefeuille mobile"
+            ],
+            "Explanation": "Les portefeuilles matériels stockent les cryptomonnaies hors ligne, offrant une sécurité renforcée contre les attaques en ligne et l'accès non autorisé."
+          },
+          {
+            "Question": "Quelle technique cryptographique assure la sécurité et l'intégrité des transactions sur une blockchain?",
+            "TrueAnswer": "Hachage",
+            "FalseAnswer": [
+              "Chiffrement",
+              "Tokenisation",
+              "Salage"
+            ],
+            "Explanation": "Le hachage convertit les données en une chaîne de caractères de taille fixe, offrant une empreinte numérique unique pour chaque bloc, assurant l'intégrité et la sécurité des données."
+          },
+          {
+            "Question": "Qui est le créateur d'Ethereum?",
+            "TrueAnswer": "Vitalik Buterin",
+            "FalseAnswer": [
+              "Satoshi Nakamoto",
+              "Charlie Lee",
+              "Roger Ver"
+            ],
+            "Explanation": "Vitalik Buterin, un programmeur russo-canadien, a proposé Ethereum à la fin de 2013 et le développement a commencé début 2014, dans le but de créer une plateforme blockchain plus polyvalente."
+          },
+          {
+            "Question": "Quel rôle les nœuds jouent-ils dans un réseau blockchain?",
+            "TrueAnswer": "Vérification et validation",
+            "FalseAnswer": [
+              "Minage de cryptomonnaie",
+              "Exécution de contrats intelligents",
+              "Génération de jetons"
+            ],
+            "Explanation": "Les nœuds vérifient et valident les transactions, garantissant le consensus, la sécurité et l'enregistrement précis des données sur un réseau blockchain."
+          },
+          {
+            "Question": "Quelle caractéristique de la technologie blockchain assure l'immutabilité et la résistance à la manipulation?",
+            "TrueAnswer": "Mécanisme de consensus",
+            "FalseAnswer": [
+              "Finalité de la transaction",
+              "Confirmation de bloc",
+              "Compression des données historiques"
+            ],
+            "Explanation": "Les mécanismes de consensus tels que la preuve de travail ou la preuve d'enjeu garantissent que les transactions sont irréversibles et résistantes à la manipulation, renforçant la confiance dans les données de la blockchain."
+          },
+          {
+            "Question": "Quel est le terme utilisé pour décrire une division temporaire dans la blockchain, souvent due à des transactions conflictuelles?",
+            "TrueAnswer": "Fourche (Fork)",
+            "FalseAnswer": [
+              "Dip",
+              "Division",
+              "Branche"
+            ],
+            "Explanation": "Une fourche se produit lorsque la blockchain se divise en deux chaînes distinctes, généralement en raison d'un changement dans le protocole ou les règles de consensus du réseau."
+          },
+          {
+            "Question": "Quel type d'attaque implique qu'un individu ou un groupe prenne le contrôle de la majorité de la puissance de minage d'un réseau blockchain?",
+            "TrueAnswer": "Attaque des 51%",
+            "FalseAnswer": [
+              "Attaque de double dépense",
+              "Attaque de Sybil",
+              "Attaque de manipulation de l'horodatage"
+            ],
+            "Explanation": "Dans une attaque des 51%, l'attaquant peut manipuler les transactions et potentiellement annuler des transactions confirmées, sapant la sécurité et l'intégrité de la blockchain."
+          },
+          {
+            "Question": "Quel langage de programmation est couramment utilisé pour écrire des contrats intelligents sur Ethereum?",
+            "TrueAnswer": "Solidity",
+            "FalseAnswer": [
+              "Java",
+              "Python",
+              "C++"
+            ],
+            "Explanation": "Solidity est un langage de haut niveau pour implémenter des contrats intelligents sur Ethereum, spécialement conçu pour créer et exécuter du code sécurisé et fiable."
+          },
+          {
+            "Question": "Quel est le terme pour un processus qui rend les fonds de cryptomonnaie illégitimes ou non dépensables?",
+            "TrueAnswer": "Liste noire (Blacklisting)",
+            "FalseAnswer": [
+              "Liste blanche (Whitelisting)",
+              "Gel",
+              "Saisie"
+            ],
+            "Explanation": "La liste noire rend les fonds de cryptomonnaie inutilisables, souvent en raison de la conformité réglementaire, d'activités suspectes ou de leur participation à des transactions illicites."
+          },
+          {
+            "Question": "Dans le contexte des cryptomonnaies, que signifie l'acronyme ICO?",
+            "TrueAnswer": "Offre initiale de pièces (Initial Coin Offering)",
+            "FalseAnswer": [
+              "Offre publique initiale (Initial Public Offering)",
+              "Organisation internationale de devises (International Currency Organization)",
+              "Opération de cryptomonnaie innovante (Innovative Cryptocurrency Operation)"
+            ],
+            "Explanation": "Une ICO est une méthode de collecte de fonds où un nouveau projet de cryptomonnaie vend une partie de ses jetons à des investisseurs précoces, similaire à une IPO dans la finance traditionnelle."
+          },
+          {
+            "Question": "Qui a proposé le concept d'une cryptomonnaie dans un livre blanc en 1998?",
+            "TrueAnswer": "Wei Dai",
+            "FalseAnswer": [
+              "David Chaum",
+              "Nick Szabo",
+              "Hal Finney"
+            ],
+            "Explanation": "Wei Dai, un ingénieur informaticien, a proposé le concept d'une forme décentralisée de monnaie dans une liste de diffusion cypherpunk en 1998, inspirant les futures cryptomonnaies telles que Bitcoin."
+          },
+          {
+            "Question": "Quel est le but du Lightning Network dans le contexte du Bitcoin?",
+            "TrueAnswer": "Scalabilité et paiements instantanés",
+            "FalseAnswer": [
+              "Anonymat des transactions",
+              "Mise à niveau du protocole de consensus",
+              "Exécution de contrats intelligents"
+            ],
+            "Explanation": "Le Lightning Network vise à permettre des transactions Bitcoin plus rapides et moins chères en les traitant hors chaîne, améliorant ainsi la scalabilité du réseau et permettant des micropaiements instantanés."
+          },
+          {
+            "Question": "Quel est le terme pour un programme malveillant qui peut modifier les détails des transactions et détourner des cryptomonnaies vers des destinataires non autorisés?",
+            "TrueAnswer": "Vulnérabilité des contrats intelligents (Smart contract vulnerability)",
+            "FalseAnswer": [
+              "Enregistreur de frappe (Keylogger)",
+              "Malware",
+              "Phishing"
+            ],
+            "Explanation": "Les vulnérabilités des contrats intelligents peuvent être exploitées pour manipuler des transactions, conduisant à des transferts de fonds non autorisés, soulignant l'importance des audits approfondis du code et des tests de sécurité."
+          },
+          {
+            "Question": "Sur quel type de consensus le réseau Ripple (XRP) s'appuie-t-il principalement?",
+            "TrueAnswer": "Protocole de consensus",
+            "FalseAnswer": [
+              "Preuve de travail (PoW)",
+              "Preuve d'enjeu (PoS)",
+              "Preuve d'enjeu déléguée (DPoS)"
+            ],
+            "Explanation": "Ripple utilise son propre algorithme de consensus pour valider les transactions, visant à fournir des paiements transfrontaliers rapides et économiques sans recourir à un minage énergivore."
+          }
+        ]
+      }
+    }
+  ]
+}

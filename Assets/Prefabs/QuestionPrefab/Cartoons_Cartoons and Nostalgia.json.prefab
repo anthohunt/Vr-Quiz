@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5917323932548930070
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8383215625234904709}
+  - component: {fileID: 5723958459436931509}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoons and Nostalgia.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8383215625234904709
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5917323932548930070}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5723958459436931509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5917323932548930070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cartoon features a group of crime-fighting turtles named after
+        famous artists?
+      TrueAnswer: Teenage Mutant Ninja Turtles
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Scooby-Doo
+      - The Flintstones
+      Explanation: Teenage Mutant Ninja Turtles, created in 1984, follows the adventures
+        of Leonardo, Donatello, Michelangelo, and Raphael.
+    - Question: What is the name of the main character in the cartoon 'He-Man and
+        the Masters of the Universe'?
+      TrueAnswer: He-Man
+      FalseAnswer:
+      - She-Ra
+      - Skeletor
+      - Lion-O
+      Explanation: He-Man, also known as Prince Adam, is the heroic alter ego of
+        the cartoon's main character.
+    - Question: Which cartoon features a group of friends solving mysteries with
+        their talking dog?
+      TrueAnswer: Scooby-Doo
+      FalseAnswer:
+      - Tom and Jerry
+      - The Simpsons
+      - The Jetsons
+      Explanation: Scooby-Doo, created in 1969, follows the adventures of Mystery
+        Inc. as they unmask villains and solve crimes.
+    - Question: What is the name of the cartoon character who lives in a pineapple
+        under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Bugs Bunny
+      - Mickey Mouse
+      - Dora the Explorer
+      Explanation: SpongeBob SquarePants, created in 1999, is a beloved character
+        who lives in the fictional underwater city of Bikini Bottom.
+    - Question: Which cartoon features a group of superhero children with unique
+        powers?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - The Rugrats
+      - The Smurfs
+      - The Flintstones
+      Explanation: The Powerpuff Girls, created in 1998, follows the adventures of
+        Blossom, Bubbles, and Buttercup as they protect Townsville.
+    - Question: What is the name of the cartoon character who constantly tries to
+        catch a clever mouse?
+      TrueAnswer: Tom
+      FalseAnswer:
+      - Jerry
+      - Spike
+      - Daffy
+      Explanation: Tom, the cat, is the main character in the cartoon series 'Tom
+        and Jerry', created in 1940.
+    - Question: Which cartoon features a futuristic family living in a floating city
+        in space?
+      TrueAnswer: The Jetsons
+      FalseAnswer:
+      - The Flintstones
+      - The Simpsons
+      - The Powerpuff Girls
+      Explanation: The Jetsons, created in 1962, portrays the daily life of the Jetson
+        family in a technologically advanced future.
+    - Question: What is the name of the cartoon character who is a mischievous rabbit?
+      TrueAnswer: Bugs Bunny
+      FalseAnswer:
+      - Daffy Duck
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Bugs Bunny, created in 1940, is known for his catchphrase 'What's
+        up, Doc?' and his clever antics.
+    - Question: Which cartoon features a family living in the prehistoric town of
+        Bedrock?
+      TrueAnswer: The Flintstones
+      FalseAnswer:
+      - The Jetsons
+      - The Simpsons
+      - The Powerpuff Girls
+      Explanation: The Flintstones, created in 1960, showcases the daily life of
+        Fred Flintstone, his family, and their Stone Age adventures.
+    - Question: What is the name of the cartoon character who is a yellow sponge?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - Patrick Star
+      - Squidward Tentacles
+      - Plankton
+      Explanation: SpongeBob SquarePants, created in 1999, is a cheerful and optimistic
+        character who works at the Krusty Krab.
+    - Question: Which cartoon features a group of babies who go on imaginative adventures?
+      TrueAnswer: The Rugrats
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Smurfs
+      - The Flintstones
+      Explanation: The Rugrats, created in 1991, follows the adventures of Tommy,
+        Chuckie, and their friends as they explore the world around them.
+    - Question: What is the name of the cartoon character who is a mischievous duck?
+      TrueAnswer: Daffy Duck
+      FalseAnswer:
+      - Bugs Bunny
+      - Porky Pig
+      - Tweety Bird
+      Explanation: Daffy Duck, created in 1937, is known for his zany personality
+        and his rivalry with Bugs Bunny.
+    - Question: Which cartoon features a yellow bird who often outsmarts his enemies?
+      TrueAnswer: Tweety Bird
+      FalseAnswer:
+      - Bugs Bunny
+      - Daffy Duck
+      - Porky Pig
+      Explanation: Tweety Bird, created in 1942, is a small yellow canary who is
+        often pursued by Sylvester the cat.
+    - Question: What is the name of the cartoon character who is a friendly ghost?
+      TrueAnswer: Casper
+      FalseAnswer:
+      - Cruella de Vil
+      - Slimer
+      - Casper the Friendly Ghost
+      Explanation: Casper, created in 1945, is a friendly ghost who prefers making
+        friends rather than scaring people.
+    - Question: Which cartoon features a group of small blue creatures who live in
+        mushroom-shaped houses?
+      TrueAnswer: The Smurfs
+      FalseAnswer:
+      - The Powerpuff Girls
+      - The Rugrats
+      - The Flintstones
+      Explanation: The Smurfs, created in 1958, follows the adventures of Papa Smurf
+        and his fellow Smurfs in their magical village.
+    - Question: What is the name of the cartoon character who is a mischievous pig?
+      TrueAnswer: Porky Pig
+      FalseAnswer:
+      - Bugs Bunny
+      - Daffy Duck
+      - Tweety Bird
+      Explanation: Porky Pig, created in 1935, is known for his stuttering speech
+        and his role as a sidekick to other Looney Tunes characters.
+    - Question: Which cartoon features a family living in the fictional town of Springfield?
+      TrueAnswer: The Simpsons
+      FalseAnswer:
+      - The Jetsons
+      - The Flintstones
+      - The Powerpuff Girls
+      Explanation: The Simpsons, created in 1989, is a long-running animated sitcom
+        that satirizes American culture and family life.
+    - Question: What is the name of the cartoon character who is a mischievous cat?
+      TrueAnswer: Garfield
+      FalseAnswer:
+      - Snoopy
+      - Sylvester
+      - Felix the Cat
+      Explanation: Garfield, created in 1978, is a lazy and sarcastic cat who loves
+        lasagna and hates Mondays.
+    - Question: Which cartoon features a group of friends who embark on adventures
+        in the Land of Ooo?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - Teenage Mutant Ninja Turtles
+      - Scooby-Doo
+      - The Flintstones
+      Explanation: Adventure Time, created in 2010, follows the adventures of Finn
+        the Human and Jake the Dog in a post-apocalyptic world.
+    - Question: What is the name of the cartoon character who is a mischievous squirrel?
+      TrueAnswer: Sandy Cheeks
+      FalseAnswer:
+      - SpongeBob SquarePants
+      - Patrick Star
+      - Squidward Tentacles
+      Explanation: Sandy Cheeks, created in 1999, is a squirrel from Texas who is
+        a close friend of SpongeBob SquarePants.

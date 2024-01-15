@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6383367401790891519
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4933806043727097471}
+  - component: {fileID: 4165040399256558326}
+  m_Layer: 0
+  m_Name: Nature_and_Wildlife_Human-Wildlife_Conflict_Resolution.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4933806043727097471
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6383367401790891519}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4165040399256558326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6383367401790891519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most common method for resolving conflicts between humans
+        and wild animals?
+      TrueAnswer: Education and Awareness
+      FalseAnswer:
+      - Hunting and Culling
+      - Fencing and Barriers
+      - Trapping and Relocation
+      Explanation: Educating communities about coexisting with wildlife reduces negative
+        interactions and fosters greater understanding and tolerance.
+    - Question: Which species is often blamed for raiding crops and causing damage
+        in agricultural areas?
+      TrueAnswer: Elephants
+      FalseAnswer:
+      - Rabbits
+      - Squirrels
+      - Deer
+      Explanation: Elephants are known to venture into farmlands, leading to conflict
+        due to their size and large appetite.
+    - Question: What is a potential non-lethal method for deterring wildlife from
+        entering human settlements?
+      TrueAnswer: Use of Scare Devices
+      FalseAnswer:
+      - Poison Baits
+      - Trapping and Killing
+      - Hunting for Sport
+      Explanation: Scare devices like bright lights and loud noises can deter wildlife
+        from entering areas of human activity without harming them.
+    - Question: Which of the following is a primary reason for the decline in lion
+        populations in Africa?
+      TrueAnswer: Retaliatory Killing
+      FalseAnswer:
+      - Natural Disease Outbreaks
+      - Habitat Loss
+      - Climate Change
+      Explanation: Retaliatory killing of lions by farmers is a significant threat
+        to lion populations due to livestock predation.
+    - Question: What is the term used to describe the capture and relocation of wild
+        animals causing conflict?
+      TrueAnswer: Translocation
+      FalseAnswer:
+      - Revenge Killing
+      - Habituation
+      - Habitat Fragmentation
+      Explanation: Translocation involves safely capturing and moving wildlife to
+        more suitable and less conflict-prone habitats.
+    - Question: Which response to human-wildlife conflict focuses on restoring natural
+        habitats and connectivity for animals?
+      TrueAnswer: Conservation Corridors
+      FalseAnswer:
+      - Electric Fences
+      - Zoos and Captivity
+      - Lethal Removal
+      Explanation: Conservation corridors create pathways for wildlife to move freely,
+        reducing conflicts by allowing animals to access necessary resources without
+        venturing into human settlements.
+    - Question: What is the primary method for dealing with conflicts caused by large
+        carnivores such as bears and big cats?
+      TrueAnswer: Non-Lethal Deterrents
+      FalseAnswer:
+      - Extermination Programs
+      - Habitat Destruction
+      - Poisoning
+      Explanation: Non-lethal deterrents include techniques like bear-proofing containers
+        and using predator-resistant livestock enclosures to minimize conflicts without
+        harming the animals.
+    - Question: Which practice aims to minimize the impact of wildlife on agriculture
+        while maintaining the natural balance of ecosystems?
+      TrueAnswer: Integrated Pest Management
+      FalseAnswer:
+      - Open Hunting Seasons
+      - Invasive Species Removal
+      - Pesticide Overuse
+      Explanation: Integrated Pest Management promotes natural pest control methods,
+        reducing the need for lethal measures against wildlife in agricultural areas.
+    - Question: What is a common reason for human-elephant conflict in certain regions?
+      TrueAnswer: Habitat Fragmentation
+      FalseAnswer:
+      - Elephant Overpopulation
+      - Insect Pest Infestation
+      - Crop Diversity
+      Explanation: Habitat fragmentation leads to elephants coming into contact with
+        human settlements as their natural habitat becomes increasingly fragmented
+        and degraded.
+    - Question: Which approach focuses on involving local communities in conservation
+        efforts to mitigate human-wildlife conflicts?
+      TrueAnswer: Community-based Conservation
+      FalseAnswer:
+      - Private Game Reserves
+      - Zoo Rehabilitation Programs
+      - Hunting Safaris
+      Explanation: Involving local communities in conservation decisions fosters
+        a sense of ownership and responsibility, leading to more sustainable solutions
+        for conflict resolution.
+    - Question: What is the practice of using scent to deter wildlife from entering
+        specific areas?
+      TrueAnswer: Scent Marking
+      FalseAnswer:
+      - Taste Aversion
+      - Foraging Enclosures
+      - Decoy Predators
+      Explanation: Scent marking uses natural or artificial odors to create a barrier
+        that repels wildlife from human-dominated spaces without causing harm.
+    - Question: How do electric fences contribute to resolving human-wildlife conflicts?
+      TrueAnswer: Preventing Crop Damage
+      FalseAnswer:
+      - Attracting Predators
+      - Creating Habitat Barriers
+      - Encouraging Human-Wildlife Contact
+      Explanation: Electric fences provide a physical barrier that deters wildlife
+        from entering agricultural areas, reducing conflicts and crop damage.
+    - Question: Which method promotes the understanding and coexistence of wildlife
+        within human settlements?
+      TrueAnswer: Wildlife-friendly Agriculture
+      FalseAnswer:
+      - Heavy Metal Poisoning
+      - Fur Trapping
+      - Extermination Programs
+      Explanation: Wildlife-friendly agriculture methods integrate wildlife conservation
+        measures with farming practices, creating mutually beneficial environments
+        for both humans and wildlife.
+    - Question: What is a natural predator of many agricultural pests, contributing
+        to the balance of ecosystems?
+      TrueAnswer: Barn Owl
+      FalseAnswer:
+      - Fox
+      - Raccoon
+      - Skunk
+      Explanation: Barn owls are effective natural pest controllers, feeding on rodents
+        and insects that pose threats to crops, reducing the need for chemical control
+        methods.
+    - Question: How does human-wildlife conflict affect the conservation status of
+        endangered species?
+      TrueAnswer: Increases Conservation Pressure
+      FalseAnswer:
+      - Boosts Population Recovery
+      - Reduces Habitat Loss
+      - Promotes Genetic Diversity
+      Explanation: Conflicts with humans exacerbate the conservation challenges for
+        already endangered species, leading to increased pressure on their survival
+        and recovery efforts.
+    - Question: What can be used to create safe passages for wildlife to cross roads
+        and highways, reducing conflicts?
+      TrueAnswer: Wildlife Overpasses
+      FalseAnswer:
+      - Speed Bumps
+      - Road Closures
+      - Reflective Signage
+      Explanation: Wildlife overpasses allow animals to cross roads safely, reducing
+        the risk of wildlife-vehicle collisions and mitigating conflicts with human
+        infrastructure.
+    - Question: What is a potential downside of using lethal methods to resolve human-wildlife
+        conflicts?
+      TrueAnswer: Disruption of Ecosystem Balance
+      FalseAnswer:
+      - Enhanced Biodiversity
+      - Minimal Social Impact
+      - Increase in Species Populations
+      Explanation: Lethal methods can disrupt predator-prey relationships, leading
+        to imbalances in ecosystems and impacting other species within the food web.
+    - Question: Which conservation strategy involves creating buffer zones to minimize
+        conflicts between protected areas and human settlements?
+      TrueAnswer: Buffer Zone Management
+      FalseAnswer:
+      - Captive Breeding Programs
+      - Artificial Insemination
+      - Zoo Enclosures
+      Explanation: Buffer zone management aims to reduce conflicts by establishing
+        areas that provide a transition between wildlife habitats and human-inhabited
+        areas, promoting coexistence.
+    - Question: What can be utilized to estimate the abundance and distribution of
+        wildlife populations for effective conflict management?
+      TrueAnswer: Camera Traps
+      FalseAnswer:
+      - Wire Snares
+      - Noise Pollution Devices
+      - Pesticide Sprayers
+      Explanation: Camera traps offer non-invasive methods to monitor wildlife, capturing
+        images and videos for researchers to assess wildlife presence and behavior,
+        aiding in conflict management strategies.
+    - Question: How do properly managed sustainable hunting programs contribute to
+        resolving human-wildlife conflicts?
+      TrueAnswer: Supporting Livelihoods
+      FalseAnswer:
+      - Declining Biodiversity
+      - Increased Human-Wildlife Conflicts
+      - Accelerated Habitat Destruction
+      Explanation: Sustainable hunting programs can provide economic opportunities
+        for local communities, reducing dependency on wildlife for livelihoods and
+        promoting conservation.

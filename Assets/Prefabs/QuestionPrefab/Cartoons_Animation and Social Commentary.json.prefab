@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3104981164406981679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8449177900233894089}
+  - component: {fileID: 5250695862505074073}
+  m_Layer: 0
+  m_Name: Cartoons_Animation and Social Commentary.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8449177900233894089
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3104981164406981679}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5250695862505074073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3104981164406981679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which cartoon series features a talking sponge who lives in a pineapple
+        under the sea?
+      TrueAnswer: SpongeBob SquarePants
+      FalseAnswer:
+      - The Simpsons
+      - Family Guy
+      - South Park
+      Explanation: SpongeBob SquarePants is a popular cartoon series known for its
+        humor and social commentary on various topics.
+    - Question: In the cartoon 'The Powerpuff Girls', who is the leader of the trio?
+      TrueAnswer: Blossom
+      FalseAnswer:
+      - Bubbles
+      - Buttercup
+      - Mojo Jojo
+      Explanation: Blossom is the red-haired leader of the Powerpuff Girls, known
+        for her intelligence and leadership skills.
+    - Question: Which cartoon series follows the adventures of a boy and his magical
+        dog in the Land of Ooo?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - Regular Show
+      - Steven Universe
+      - Gravity Falls
+      Explanation: Adventure Time is a cartoon series that combines fantasy, humor,
+        and social commentary in a post-apocalyptic setting.
+    - Question: In the cartoon 'Rick and Morty', what is the name of Rick's grandson?
+      TrueAnswer: Morty
+      FalseAnswer:
+      - Jerry
+      - Summer
+      - Beth
+      Explanation: Morty is the name of Rick's grandson, who often gets involved
+        in interdimensional adventures with his grandfather.
+    - Question: Which cartoon series features a group of anthropomorphic animals
+        fighting against the evil Shredder?
+      TrueAnswer: Teenage Mutant Ninja Turtles
+      FalseAnswer:
+      - Transformers
+      - G.I. Joe
+      - He-Man and the Masters of the Universe
+      Explanation: Teenage Mutant Ninja Turtles is a cartoon series that combines
+        action, comedy, and social commentary on teamwork and friendship.
+    - Question: In the cartoon 'BoJack Horseman', what type of animal is the main
+        character?
+      TrueAnswer: Horse
+      FalseAnswer:
+      - Dog
+      - Cat
+      - Bird
+      Explanation: BoJack Horseman is a dark comedy cartoon series that explores
+        themes of depression, addiction, and fame through the life of a horse.
+    - Question: Which cartoon series follows the adventures of a young boy and his
+        dog in the Land of Ooo?
+      TrueAnswer: Adventure Time
+      FalseAnswer:
+      - Regular Show
+      - Steven Universe
+      - Gravity Falls
+      Explanation: Adventure Time is a cartoon series that combines fantasy, humor,
+        and social commentary in a post-apocalyptic setting.
+    - Question: In the cartoon 'The Simpsons', what is the name of the town where
+        the family lives?
+      TrueAnswer: Springfield
+      FalseAnswer:
+      - Quahog
+      - South Park
+      - Bikini Bottom
+      Explanation: The Simpsons is a long-running cartoon series set in the fictional
+        town of Springfield, known for its satirical take on American culture.
+    - Question: Which cartoon series features a group of kids with superpowers fighting
+        against villains?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - Teen Titans Go!
+      - Ben 10
+      - 'My Little Pony: Friendship is Magic'
+      Explanation: The Powerpuff Girls is a cartoon series that combines action,
+        comedy, and social commentary on gender roles and female empowerment.
+    - Question: In the cartoon 'Rick and Morty', what is the name of Rick's daughter?
+      TrueAnswer: Beth
+      FalseAnswer:
+      - Jerry
+      - Summer
+      - Morty
+      Explanation: Beth is the name of Rick's daughter, who often struggles with
+        her relationship with her father and her own identity.
+    - Question: Which cartoon series features a dysfunctional family living in the
+        fictional town of Quahog?
+      TrueAnswer: Family Guy
+      FalseAnswer:
+      - The Simpsons
+      - American Dad!
+      - Bob's Burgers
+      Explanation: Family Guy is a cartoon series known for its irreverent humor
+        and social commentary on various aspects of American society.
+    - Question: In the cartoon 'BoJack Horseman', what type of animal is Mr. Peanutbutter?
+      TrueAnswer: Dog
+      FalseAnswer:
+      - Horse
+      - Cat
+      - Bird
+      Explanation: Mr. Peanutbutter is a Labrador Retriever and a main character
+        in BoJack Horseman, known for his energetic and optimistic personality.
+    - Question: Which cartoon series features a group of magical beings protecting
+        the Earth from evil forces?
+      TrueAnswer: Winx Club
+      FalseAnswer:
+      - 'My Little Pony: Friendship is Magic'
+      - Sailor Moon
+      - 'Miraculous: Tales of Ladybug & Cat Noir'
+      Explanation: Winx Club is a cartoon series that combines fantasy, adventure,
+        and social commentary on friendship and girl power.
+    - Question: In the cartoon 'South Park', who is the main character with a blue
+        hat?
+      TrueAnswer: Stan
+      FalseAnswer:
+      - Kyle
+      - Cartman
+      - Kenny
+      Explanation: Stan is one of the main characters in South Park, known for his
+        moral compass and often being the voice of reason.
+    - Question: Which cartoon series features a group of kids with superpowers fighting
+        against villains?
+      TrueAnswer: Teen Titans Go!
+      FalseAnswer:
+      - The Powerpuff Girls
+      - Ben 10
+      - 'My Little Pony: Friendship is Magic'
+      Explanation: Teen Titans Go! is a cartoon series that combines action, comedy,
+        and social commentary on teamwork and teenage life.
+    - Question: In the cartoon 'The Simpsons', what is the name of the family's baby?
+      TrueAnswer: Maggie
+      FalseAnswer:
+      - Lisa
+      - Bart
+      - Marge
+      Explanation: Maggie is the name of the youngest member of the Simpson family,
+        known for her pacifier and mischievous adventures.
+    - Question: Which cartoon series features a group of magical ponies spreading
+        friendship and harmony?
+      TrueAnswer: 'My Little Pony: Friendship is Magic'
+      FalseAnswer:
+      - Winx Club
+      - Sailor Moon
+      - 'Miraculous: Tales of Ladybug & Cat Noir'
+      Explanation: 'My Little Pony: Friendship is Magic is a cartoon series known
+        for its positive messages about friendship and inclusivity.'
+    - Question: In the cartoon 'Bob's Burgers', what is the name of the family's
+        restaurant?
+      TrueAnswer: Bob's Burgers
+      FalseAnswer:
+      - The Krusty Krab
+      - Central Perk
+      - Paddy's Pub
+      Explanation: Bob's Burgers is a cartoon series centered around the Belcher
+        family and their struggles to run their own burger restaurant.
+    - Question: Which cartoon series features a group of magical girls fighting against
+        evil forces?
+      TrueAnswer: Sailor Moon
+      FalseAnswer:
+      - Winx Club
+      - 'My Little Pony: Friendship is Magic'
+      - 'Miraculous: Tales of Ladybug & Cat Noir'
+      Explanation: Sailor Moon is a classic cartoon series that combines action,
+        romance, and social commentary on love and justice.
+    - Question: In the cartoon 'Gravity Falls', what is the name of the main character's
+        twin sister?
+      TrueAnswer: Mabel
+      FalseAnswer:
+      - Dipper
+      - Stan
+      - Wendy
+      Explanation: Mabel is the name of the main character's twin sister in Gravity
+        Falls, known for her quirky personality and love for sweaters.
+    - Question: Which cartoon series features a group of kids solving supernatural
+        mysteries in a small town?
+      TrueAnswer: Gravity Falls
+      FalseAnswer:
+      - Regular Show
+      - Steven Universe
+      - Adventure Time
+      Explanation: Gravity Falls is a cartoon series that combines mystery, humor,
+        and social commentary on growing up and family dynamics.

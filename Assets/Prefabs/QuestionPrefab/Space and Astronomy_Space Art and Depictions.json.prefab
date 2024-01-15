@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2188766540885354430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3317010637285113250}
+  - component: {fileID: 3535514125281573974}
+  m_Layer: 0
+  m_Name: Space and Astronomy_Space Art and Depictions.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3317010637285113250
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2188766540885354430}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3535514125281573974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2188766540885354430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the largest planet in our solar system?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Mars
+      - Neptune
+      Explanation: Jupiter is the largest planet in our solar system, with a diameter
+        of about 86,881 miles.
+    - Question: Which planet is known for its beautiful rings?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Uranus
+      - Jupiter
+      - Mercury
+      Explanation: Saturn is famous for its stunning ring system, composed of ice
+        particles and rocky debris.
+    - Question: What is the closest star to Earth?
+      TrueAnswer: Sun
+      FalseAnswer:
+      - Proxima Centauri
+      - Alpha Centauri
+      - Betelgeuse
+      Explanation: The Sun is the closest star to Earth, providing us with light,
+        heat, and energy.
+    - Question: Which planet is known as the 'Red Planet'?
+      TrueAnswer: Mars
+      FalseAnswer:
+      - Venus
+      - Mercury
+      - Jupiter
+      Explanation: Mars is often called the 'Red Planet' due to its reddish appearance
+        caused by iron oxide on its surface.
+    - Question: What is the largest moon in our solar system?
+      TrueAnswer: Ganymede
+      FalseAnswer:
+      - Titan
+      - Europa
+      - Callisto
+      Explanation: Ganymede, a moon of Jupiter, is the largest moon in our solar
+        system, even larger than the planet Mercury.
+    - Question: Which planet has the most moons?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Saturn
+      - Uranus
+      - Neptune
+      Explanation: Jupiter has the most moons in our solar system, with over 79 known
+        moons orbiting around it.
+    - Question: What is the name of the galaxy that contains our solar system?
+      TrueAnswer: Milky Way
+      FalseAnswer:
+      - Andromeda
+      - Whirlpool
+      - Sombrero
+      Explanation: Our solar system is located in the Milky Way galaxy, a barred
+        spiral galaxy with billions of stars.
+    - Question: Which planet is known for its beautiful blue color?
+      TrueAnswer: Neptune
+      FalseAnswer:
+      - Uranus
+      - Saturn
+      - Jupiter
+      Explanation: Neptune is often referred to as the 'Blue Planet' due to its vibrant
+        blue color caused by methane in its atmosphere.
+    - Question: What is the name of the largest volcano in our solar system?
+      TrueAnswer: Olympus Mons
+      FalseAnswer:
+      - Mount Everest
+      - Mauna Loa
+      - Mount Kilimanjaro
+      Explanation: Olympus Mons, located on Mars, is the largest volcano in our solar
+        system, standing about 13.6 miles high.
+    - Question: Which planet has the shortest day?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Venus
+      - Mercury
+      - Saturn
+      Explanation: Jupiter has the shortest day among all the planets in our solar
+        system, completing one rotation in about 9.9 hours.
+    - Question: What is the name of the first artificial satellite launched into
+        space?
+      TrueAnswer: Sputnik 1
+      FalseAnswer:
+      - Apollo 11
+      - Hubble Space Telescope
+      - Voyager 1
+      Explanation: Sputnik 1, launched by the Soviet Union in 1957, was the first
+        artificial satellite to orbit the Earth.
+    - Question: Which planet is known for its iconic Great Red Spot?
+      TrueAnswer: Jupiter
+      FalseAnswer:
+      - Mars
+      - Saturn
+      - Neptune
+      Explanation: Jupiter is known for its iconic Great Red Spot, a giant storm
+        that has been raging for centuries.
+    - Question: What is the name of the largest asteroid in our solar system?
+      TrueAnswer: Ceres
+      FalseAnswer:
+      - Vesta
+      - Eros
+      - Psyche
+      Explanation: Ceres, located in the asteroid belt between Mars and Jupiter,
+        is the largest asteroid in our solar system.
+    - Question: Which planet has the highest average surface temperature?
+      TrueAnswer: Venus
+      FalseAnswer:
+      - Mercury
+      - Mars
+      - Earth
+      Explanation: Venus has the highest average surface temperature, reaching about
+        900 degrees Fahrenheit due to its thick atmosphere.
+    - Question: What is the name of the first human-made object to reach interstellar
+        space?
+      TrueAnswer: Voyager 1
+      FalseAnswer:
+      - New Horizons
+      - Cassini
+      - Pioneer 10
+      Explanation: Voyager 1, launched in 1977, became the first human-made object
+        to enter interstellar space in 2012.
+    - Question: Which planet has the most extreme temperature changes?
+      TrueAnswer: Mercury
+      FalseAnswer:
+      - Venus
+      - Mars
+      - Jupiter
+      Explanation: Mercury experiences the most extreme temperature changes, ranging
+        from -290 degrees Fahrenheit to 800 degrees Fahrenheit.
+    - Question: What is the name of the largest moon of Saturn?
+      TrueAnswer: Titan
+      FalseAnswer:
+      - Enceladus
+      - Mimas
+      - Rhea
+      Explanation: Titan, the largest moon of Saturn, is known for its thick atmosphere
+        and hydrocarbon lakes.
+    - Question: Which planet has the highest density?
+      TrueAnswer: Earth
+      FalseAnswer:
+      - Mercury
+      - Mars
+      - Venus
+      Explanation: Earth has the highest density among all the planets in our solar
+        system, primarily due to its iron core.
+    - Question: What is the name of the largest moon of Neptune?
+      TrueAnswer: Triton
+      FalseAnswer:
+      - Nereid
+      - Proteus
+      - Larissa
+      Explanation: Triton, the largest moon of Neptune, is unique as it orbits in
+        the opposite direction of Neptune's rotation.
+    - Question: Which planet is known for its prominent ring system?
+      TrueAnswer: Saturn
+      FalseAnswer:
+      - Jupiter
+      - Uranus
+      - Neptune
+      Explanation: Saturn is famous for its prominent ring system, consisting of
+        ice particles, dust, and rocky debris.

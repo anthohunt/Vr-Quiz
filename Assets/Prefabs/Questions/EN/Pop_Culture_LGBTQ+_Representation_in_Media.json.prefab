@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1360218230076934436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4611847704050515156}
+  - component: {fileID: 5722573269528247537}
+  m_Layer: 0
+  m_Name: Pop_Culture_LGBTQ+_Representation_in_Media.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4611847704050515156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360218230076934436}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5722573269528247537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1360218230076934436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which character is a non-binary alien in the Steven Universe series?
+      TrueAnswer: Garnet
+      FalseAnswer:
+      - Pearl
+      - Amethyst
+      - Steven
+      Explanation: Garnet, the fusion of Ruby and Sapphire, is a non-binary character
+        in the 'Steven Universe' series, representing LGBTQ+ characters.
+    - Question: Which movie won the first Academy Award for Best Picture with LGBTQ+
+        themes?
+      TrueAnswer: Midnight Cowboy
+      FalseAnswer:
+      - Brokeback Mountain
+      - Milk
+      - Carol
+      Explanation: In 1970, 'Midnight Cowboy' became the first and only X-rated film
+        to win the Academy Award for Best Picture.
+    - Question: Who played the first openly gay character in a leading role on American
+        network television?
+      TrueAnswer: Billy Crystal
+      FalseAnswer:
+      - Ellen DeGeneres
+      - Neil Patrick Harris
+      - Rupert Everett
+      Explanation: Billy Crystal portrayed the character of Jodie Dallas on the TV
+        show 'Soap,' which aired in 1977-1981.
+    - Question: Which show featured the first transgender actress nominated for an
+        Emmy?
+      TrueAnswer: Orange Is the New Black
+      FalseAnswer:
+      - Transparent
+      - Pose
+      - Sense8
+      Explanation: Laverne Cox, who played Sophia Burset in 'Orange Is the New Black,'
+        received the historic Emmy nomination in 2014.
+    - Question: In the series 'Brooklyn Nine-Nine,' which actress plays a bisexual
+        detective?
+      TrueAnswer: Stephanie Beatriz
+      FalseAnswer:
+      - Chelsea Peretti
+      - Melissa Fumero
+      - Terry Crews
+      Explanation: Stephanie Beatriz's character Rosa Diaz came out as bisexual,
+        representing LGBTQ+ diversity in the show.
+    - Question: What was the first animated series to win an Outstanding Animated
+        Program Emmy with LGBTQ+ representation?
+      TrueAnswer: Steven Universe
+      FalseAnswer:
+      - The Legend of Korra
+      - Adventure Time
+      - She-Ra and the Princesses of Power
+      Explanation: '''Steven Universe'' won the Emmy in 2019 for the episode ''Reunited,''
+        which featured a same-sex wedding.'
+    - Question: Which actor portrayed a transgender woman in the film 'The Danish
+        Girl'?
+      TrueAnswer: Eddie Redmayne
+      FalseAnswer:
+      - Jared Leto
+      - Hilary Swank
+      - Cate Blanchett
+      Explanation: Eddie Redmayne's performance as Lili Elbe earned him an Academy
+        Award nomination for Best Actor in 2016.
+    - Question: In the TV series 'Pose,' which city provides the backdrop for LGBTQ+
+        ballroom culture?
+      TrueAnswer: New York City
+      FalseAnswer:
+      - San Francisco
+      - Chicago
+      - Los Angeles
+      Explanation: '''Pose'' is set in New York City during the late 1980s and early
+        1990s, showcasing the ballroom culture and LGBTQ+ community.'
+    - Question: What was the first feature film to specifically address AIDS?
+      TrueAnswer: Philadelphia
+      FalseAnswer:
+      - Dallas Buyers Club
+      - And the Band Played On
+      - Longtime Companion
+      Explanation: '''Philadelphia'' starring Tom Hanks and Denzel Washington was
+        one of the first mainstream films to tackle the topic of HIV/AIDS.'
+    - Question: Which pop singer released the album 'Confessions of a Drag Queen'
+        in 1992?
+      TrueAnswer: Jackie Curtis
+      FalseAnswer:
+      - David Bowie
+      - Prince
+      - Madonna
+      Explanation: Jackie Curtis, an influential figure in the glam rock and LGBTQ+
+        scenes, released the album as a part of their artistry.

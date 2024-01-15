@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the study of creating secure communication through codes and ciphers?",
+            "TrueAnswer": "Cryptography",
+            "FalseAnswer": [
+              "Steganography",
+              "Hacking",
+              "Algebra"
+            ],
+            "Explanation": "Cryptography is the practice and study of techniques for secure communication in the presence of third parties called adversaries. It is derived from the Greek words kryptós, meaning 'hidden,' and gráphein, meaning 'writing.'"
+          },
+          {
+            "Question": "Which encryption method shifts the alphabet by a certain number of positions?",
+            "TrueAnswer": "Caesar",
+            "FalseAnswer": [
+              "Vigenère",
+              "RSA",
+              "Diffie-Hellman"
+            ],
+            "Explanation": "The Caesar cipher is a type of substitution cipher in which each letter in the plaintext is shifted a certain number of places down or up the alphabet. It is one of the earliest and simplest known encryption techniques."
+          },
+          {
+            "Question": "What is the process of converting plaintext into unreadable text?",
+            "TrueAnswer": "Encryption",
+            "FalseAnswer": [
+              "Decryption",
+              "Compression",
+              "Encoding"
+            ],
+            "Explanation": "Encryption is the process of converting plaintext into ciphertext, which can be decoded or decrypted only by authorized parties possessing the secret key. It is a fundamental component of modern cryptographic systems."
+          },
+          {
+            "Question": "Which mathematical problem is the backbone of RSA encryption?",
+            "TrueAnswer": "Integer factorization",
+            "FalseAnswer": [
+              "Fermat's Last Theorem",
+              "Monty Hall Problem",
+              "Riemann Hypothesis"
+            ],
+            "Explanation": "RSA encryption is based on the difficulty of factoring the product of two large prime numbers. Integer factorization is considered a computationally hard problem, forming the basis of RSA's security."
+          },
+          {
+            "Question": "What type of function is commonly used in public-key cryptography?",
+            "TrueAnswer": "One-way",
+            "FalseAnswer": [
+              "Linear",
+              "Polynomial",
+              "Exponential"
+            ],
+            "Explanation": "One-way functions in public-key cryptography are easy to compute in one direction but significantly hard to invert, effectively preventing the reverse engineering of the original input from the output. This property underpins the security of cryptographic protocols like RSA and Diffie-Hellman."
+          },
+          {
+            "Question": "Which organization created the Data Encryption Standard (DES) in the 1970s?",
+            "TrueAnswer": "NIST",
+            "FalseAnswer": [
+              "NSA",
+              "CIA",
+              "FBI"
+            ],
+            "Explanation": "The U.S. National Institute of Standards and Technology (NIST) developed the Data Encryption Standard (DES) as a federal standard for data encryption in the 1970s. Despite its eventual replacement, DES significantly influenced the development of modern cryptographic algorithms."
+          },
+          {
+            "Question": "What key length is considered secure for modern symmetric key ciphers?",
+            "TrueAnswer": "256-bit",
+            "FalseAnswer": [
+              "64-bit",
+              "128-bit",
+              "512-bit"
+            ],
+            "Explanation": "In modern cryptography, a key length of 256 bits is typically regarded as secure against brute-force attacks due to the immense number of possible combinations. Longer key lengths provide increased resistance to cryptographic attacks."
+          },
+          {
+            "Question": "Which cryptographic protocol secures internet communications through encryption?",
+            "TrueAnswer": "SSL/TLS",
+            "FalseAnswer": [
+              "HTTP",
+              "SMTP",
+              "DNS"
+            ],
+            "Explanation": "SSL/TLS (Secure Sockets Layer/Transport Layer Security) is a protocol that ensures privacy and data integrity for online communications. It is widely used to secure web browsing, email, instant messaging, and other data transfers over the internet."
+          },
+          {
+            "Question": "What is the process of converting encrypted text back into its original form?",
+            "TrueAnswer": "Decryption",
+            "FalseAnswer": [
+              "Hacking",
+              "Brute force",
+              "Cracking"
+            ],
+            "Explanation": "Decryption is the inverse operation of encryption, transforming ciphertext into plaintext using the appropriate key. It allows authorized recipients to recover the original information from the encrypted data, ensuring the confidentiality of the communication."
+          },
+          {
+            "Question": "Who introduced the concept of public-key cryptography in 1976?",
+            "TrueAnswer": "Whitfield Diffie & Martin Hellman",
+            "FalseAnswer": [
+              "Alan Turing",
+              "Ron Rivest",
+              "Adi Shamir"
+            ],
+            "Explanation": "Whitfield Diffie and Martin Hellman revolutionized the field of cryptography by proposing the concept of public-key cryptography in their seminal paper 'New Directions in Cryptography.' This breakthrough led to the development of modern asymmetric encryption algorithms."
+          },
+          {
+            "Question": "Which algorithm is used for secure digital signatures and key exchange in TLS?",
+            "TrueAnswer": "RSA",
+            "FalseAnswer": [
+              "AES",
+              "MD5",
+              "Blowfish"
+            ],
+            "Explanation": "RSA is widely utilized in the TLS protocol for secure key exchange, digital signatures, and asymmetric encryption. Its security is based on the computational complexity of integer factorization, forming the cornerstone of secure communication on the internet."
+          },
+          {
+            "Question": "What type of attack aims to decipher encrypted information without the key?",
+            "TrueAnswer": "Cryptanalysis",
+            "FalseAnswer": [
+              "Phishing",
+              "Distributed Denial of Service (DDoS)",
+              "Brute force attack"
+            ],
+            "Explanation": "Cryptanalysis is the practice of analyzing and breaking cryptographic systems to gain unauthorized access to the encrypted information. It involves exploiting weaknesses in encryption algorithms or keys through mathematical, statistical, or computational methods."
+          },
+          {
+            "Question": "Who is considered the father of modern cryptography?",
+            "TrueAnswer": "Claude Shannon",
+            "FalseAnswer": [
+              "Alan Turing",
+              "Ron Rivest",
+              "Adi Shamir"
+            ],
+            "Explanation": "Claude Shannon, an American mathematician, electrical engineer, and cryptographer, is often regarded as the father of modern cryptography. His groundbreaking work laid the foundation for information theory, digital circuit design, and cryptography."
+          },
+          {
+            "Question": "What is the term for a predetermined value used in encryption algorithms?",
+            "TrueAnswer": "Key",
+            "FalseAnswer": [
+              "Salt",
+              "Hash",
+              "Nonce"
+            ],
+            "Explanation": "In cryptography, a key is a piece of information used to control the operation of the encryption process. It is essential for ensuring the confidentiality, integrity, and authenticity of the encrypted data and communication."
+          },
+          {
+            "Question": "Which type of encryption relies on two keys - a public key and a private key?",
+            "TrueAnswer": "Asymmetric",
+            "FalseAnswer": [
+              "Symmetric",
+              "Stream",
+              "Transposition"
+            ],
+            "Explanation": "Asymmetric encryption employs a pair of keys for encryption and decryption, enabling secure communication without the need for prior key exchange. This approach addresses the key distribution challenges inherently present in symmetric key cryptography."
+          },
+          {
+            "Question": "What is the result of applying the XOR operation to two identical bits?",
+            "TrueAnswer": "0",
+            "FalseAnswer": [
+              "1",
+              "2",
+              "Bitwise AND"
+            ],
+            "Explanation": "The XOR (exclusive OR) operation yields 0 when applied to two identical bits and 1 when applied to two different bits. In cryptography, XOR is used in encryption, error detection, and generation of random numbers."
+          },
+          {
+            "Question": "What is the age of quantum computing posing a potential threat to current cryptographic methods?",
+            "TrueAnswer": "Threat",
+            "FalseAnswer": [
+              "Solution",
+              "Enhancement",
+              "Stabilization"
+            ],
+            "Explanation": "With the development of quantum computing, current cryptographic methods relying on mathematical problems like integer factorization and discrete logarithms face the risk of being defeated. Quantum computers have the potential to break widely-used encryption algorithms, prompting the need for post-quantum cryptography."
+          },
+          {
+            "Question": "What is the term for embedding secret messages within innocent-looking cover media?",
+            "TrueAnswer": "Steganography",
+            "FalseAnswer": [
+              "Obfuscation",
+              "Camouflage",
+              "Evasion"
+            ],
+            "Explanation": "Steganography is the art and science of concealing information within other data to make it imperceptible to casual observation. Unlike cryptography, which focuses on making a message unintelligible, steganography aims to keep the existence of the message secret."
+          },
+          {
+            "Question": "Which ancient Greek historian used a simple substitution cipher for secret communication?",
+            "TrueAnswer": "Herodotus",
+            "FalseAnswer": [
+              "Plutarch",
+              "Thucydides",
+              "Plato"
+            ],
+            "Explanation": "Herodotus, often hailed as the 'father of history,' described a rudimentary form of secret writing in his works from the 5th century BCE. This early example of cryptography involved using a simple substitution cipher to convey confidential messages."
+          }
+        ]
+      }
+    }
+  ]
+}

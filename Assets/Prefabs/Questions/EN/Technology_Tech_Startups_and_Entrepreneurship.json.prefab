@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8946916863272388919
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2597828635474088001}
+  - component: {fileID: 9112425472136047719}
+  m_Layer: 0
+  m_Name: Technology_Tech_Startups_and_Entrepreneurship.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2597828635474088001
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8946916863272388919}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9112425472136047719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8946916863272388919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: 'What is the primary purpose of a pitch deck for a tech startup? '
+      TrueAnswer: To attract investors
+      FalseAnswer:
+      - To onboard new employees
+      - To market products
+      - To showcase company culture
+      Explanation: A pitch deck is a brief presentation that provides investors with
+        an overview of a business idea, outlining the company's vision, growth potential,
+        and investment opportunity.
+    - Question: What is a common funding stage for tech startups before Series A?
+      TrueAnswer: Seed funding
+      FalseAnswer:
+      - Series B
+      - Angel investment
+      - IPO
+      Explanation: Seed funding is the earliest stage of venture funding and represents
+        the initial capital raised to start a business idea.
+    - Question: Which of the following does an angel investor typically provide to
+        a tech startup?
+      TrueAnswer: Capital and mentorship
+      FalseAnswer:
+      - Marketing services
+      - Product design
+      - Legal assistance
+      Explanation: Angel investors provide early-stage capital and mentorship to
+        entrepreneurs in exchange for ownership equity or convertible debt in the
+        startup.
+    - Question: What is the term used to describe the first sale of shares to the
+        public by a private company?
+      TrueAnswer: Initial Public Offering (IPO)
+      FalseAnswer:
+      - Seed round
+      - Series A funding
+      - Bridge financing
+      Explanation: An IPO is the process through which a private company becomes
+        public, allowing investors to buy shares of the company on a stock exchange.
+    - Question: What is a common measure of a startup's growth and traction?
+      TrueAnswer: Monthly Recurring Revenue (MRR)
+      FalseAnswer:
+      - Website traffic
+      - Social media followers
+      - Number of employees
+      Explanation: MRR measures the predictable revenue that a company expects to
+        receive every month from customers, indicating the sustainability and growth
+        potential of a startup.
+    - Question: Which startup accelerator is known for its Demo Day event where founders
+        pitch to investors?
+      TrueAnswer: Y Combinator
+      FalseAnswer:
+      - Techstars
+      - 500 Startups
+      - Plug and Play
+      Explanation: Y Combinator's Demo Day is a key event where startups present
+        their businesses to a room full of investors, aiming to secure funding and
+        partnerships.
+    - Question: What is a common objective of a tech startup's minimum viable product
+        (MVP)?
+      TrueAnswer: To quickly test product hypothesis
+      FalseAnswer:
+      - To launch a fully-featured product
+      - To dominate the market
+      - To secure long-term funding
+      Explanation: An MVP aims to validate a startup's core idea by testing the product
+        with minimal features, gathering feedback, and making iterations based on
+        user responses.
+    - Question: What does the term 'unicorn' typically refer to in the context of
+        tech startups?
+      TrueAnswer: A startup valued at $1 billion or more
+      FalseAnswer:
+      - A startup with a single founder
+      - A startup focused on sustainability
+      - A startup with no external funding
+      Explanation: Unicorn is a colloquial term for a privately held startup company
+        valued at over $1 billion, signifying exceptional growth and potential in
+        the tech industry.
+    - Question: Which type of company structure is often favored by tech startups
+        due to its flexibility and scalability?
+      TrueAnswer: Limited Liability Company (LLC)
+      FalseAnswer:
+      - Sole proprietorship
+      - Corporation
+      - Partnership
+      Explanation: An LLC provides limited liability protection to its owners and
+        allows for pass-through taxation, making it a popular choice for tech startups
+        seeking flexibility and legal protection.
+    - Question: What is the term used to describe the rate at which a company's customer
+        base is growing?
+      TrueAnswer: Customer acquisition rate
+      FalseAnswer:
+      - Churn rate
+      - Break-even point
+      - Return on Investment (ROI)
+      Explanation: Customer acquisition rate measures the speed at which a company
+        is able to gain new customers, indicating its ability to grow its customer
+        base over time.
+    - Question: Which of the following is a common form of equity-based compensation
+        for startup employees?
+      TrueAnswer: Stock options
+      FalseAnswer:
+      - Cash bonuses
+      - Pension plans
+      - Profit sharing
+      Explanation: Stock options give employees the right to buy a specific number
+        of company shares at a fixed price, aligning their incentives with the company's
+        long-term success.
+    - Question: What is the term for an early-stage investment in a startup made
+        by venture capitalists?
+      TrueAnswer: Series A funding
+      FalseAnswer:
+      - Crowdfunding
+      - IPO
+      - Bridge financing
+      Explanation: Series A funding represents the first significant round of venture
+        capital financing, usually following a seed investment, in a startup's growth
+        phase.
+    - Question: What type of intellectual property protection is commonly sought
+        by tech startups for their unique inventions or processes?
+      TrueAnswer: Patent
+      FalseAnswer:
+      - Trademark
+      - Copyright
+      - Trade secret
+      Explanation: A patent provides legal protection for a new invention, granting
+        the patent holder exclusive rights to commercially exploit the invention
+        for a limited period.
+    - Question: Which of the following platforms is commonly used for crowdfunding
+        tech startup projects?
+      TrueAnswer: Kickstarter
+      FalseAnswer:
+      - Indiegogo
+      - GoFundMe
+      - Patreon
+      Explanation: Kickstarter is a popular crowdfunding platform that enables tech
+        startups to raise funds by offering rewards or pre-selling products to a
+        community of backers.
+    - Question: What term is used to describe the process of securing venture capital
+        investments for a startup?
+      TrueAnswer: Venture fundraising
+      FalseAnswer:
+      - Angel networking
+      - Incubator fostering
+      - IPO launch
+      Explanation: Venture fundraising involves pitching a startup's business concept
+        to potential investors, aiming to secure financial support for growth and
+        expansion.
+    - Question: What is a common legal structure adopted by tech startups to incentivize
+        key employees with a share in the company's ownership?
+      TrueAnswer: Employee Stock Ownership Plan (ESOP)
+      FalseAnswer:
+      - Non-Disclosure Agreement (NDA)
+      - Limited Liability Partnership (LLP)
+      - Convertible Note
+      Explanation: ESOPs are widely used to attract and retain talent in tech startups,
+        offering employees the opportunity to acquire ownership shares in the company
+        over time.
+    - Question: What is a common feature of a tech startup's advisory board?
+      TrueAnswer: Industry expertise and networks
+      FalseAnswer:
+      - Legal oversight
+      - Financial auditing
+      - Public relations
+      Explanation: An advisory board provides strategic guidance and industry connections
+        to a tech startup, leveraging the members' expertise to support growth and
+        market positioning.
+    - Question: In a tech startup, what is the term for a process of rapidly iterating
+        on product features?
+      TrueAnswer: Agile development
+      FalseAnswer:
+      - Waterfall model
+      - Spiral model
+      - V-model
+      Explanation: Agile development emphasizes short development cycles, continuous
+        improvement, and flexibility in responding to changing customer needs, commonly
+        used in tech startups.
+    - Question: What is a common challenge for tech startups in the early stages
+        of growth?
+      TrueAnswer: Securing funding
+      FalseAnswer:
+      - Regulatory compliance
+      - Market saturation
+      - Global expansion
+      Explanation: Securing funding is crucial for the early growth of tech startups,
+        enabling product development, market entry, and scaling operations to reach
+        broader customer segments.

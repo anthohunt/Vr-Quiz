@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7181968226623537065
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4859504608786846548}
+  - component: {fileID: 6872051721230579220}
+  m_Layer: 0
+  m_Name: Sports_Youth_Sports_and_Development.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4859504608786846548
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7181968226623537065}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6872051721230579220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7181968226623537065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What organization is the largest youth soccer association in the
+        US?
+      TrueAnswer: AYSO
+      FalseAnswer:
+      - US Youth Soccer
+      - AYSA
+      - FIFA
+      Explanation: AYSO (American Youth Soccer Organization) has over 50 years of
+        experience and more than 50,000 teams nationwide.
+    - Question: At what age can kids officially start playing Little League baseball?
+      TrueAnswer: 4
+      FalseAnswer:
+      - 6
+      - 8
+      - 10
+      Explanation: Children as young as 4 can start playing in the Tee Ball division
+        of Little League baseball.
+    - Question: Which is not a required skill in rhythmic gymnastics?
+      TrueAnswer: Swimming
+      FalseAnswer:
+      - Flexibility
+      - Coordination
+      - Balance
+      Explanation: While strength and flexibility are essential, rhythmic gymnasts
+        do not need to know how to swim.
+    - Question: What is the primary focus of specialized youth sports academies?
+      TrueAnswer: Player development
+      FalseAnswer:
+      - Winning championships
+      - Attracting sponsors
+      - Social media promotion
+      Explanation: Specialized academies aim to nurture skills and facilitate personal
+        growth, prioritizing player improvement over winning titles.
+    - Question: What age range does the term 'pee-wee' often refer to in sports programs?
+      TrueAnswer: 5-8
+      FalseAnswer:
+      - 9-12
+      - 13-16
+      - 17-20
+      Explanation: The term 'pee-wee' commonly refers to youth athletes aged 5 to
+        8, especially in football and baseball programs.
+    - Question: In skateboarding, what is a 'kickflip'?
+      TrueAnswer: A trick
+      FalseAnswer:
+      - A type of skateboard
+      - A skatepark obstacle
+      - A safety gear
+      Explanation: A kickflip is a popular skateboarding trick where the skateboarder
+        flips the board 360 degrees along its long axis.
+    - Question: What is not a governing body for youth basketball in the US?
+      TrueAnswer: British Basketball Federation
+      FalseAnswer:
+      - AAU
+      - USA Basketball
+      - NBA
+      Explanation: The British Basketball Federation operates in the UK, while AAU
+        and USA Basketball influence youth basketball in the US.
+    - Question: Which of these sports does not typically have a youth co-ed league?
+      TrueAnswer: American football
+      FalseAnswer:
+      - Soccer
+      - Basketball
+      - Volleyball
+      Explanation: While soccer, basketball, and volleyball often have co-ed youth
+        leagues, American football leagues are mostly gender-segregated.
+    - Question: What is the minimum age requirement to participate in the Olympic
+        Games?
+      TrueAnswer: 16
+      FalseAnswer:
+      - 14
+      - 18
+      - 20
+      Explanation: The official minimum age for participating in the Olympic Games
+        is set at 16 years old, established by the IOC.
+    - Question: What importance does 'safety' hold in youth sports development programs?
+      TrueAnswer: Paramount
+      FalseAnswer:
+      - Secondary
+      - Negligible
+      - Irrelevant
+      Explanation: Ensuring the safety of young athletes is paramount for the well-being
+        and long-term development of youth involved in sports programs.
+    - Question: What percentage of youth athletes drop out of sports by age 13?
+      TrueAnswer: 70%
+      FalseAnswer:
+      - 40%
+      - 60%
+      - 80%
+      Explanation: Approximately 70% of young athletes stop participating in organized
+        sports by the time they are 13 years old, often due to burnout or lack of
+        enjoyment.
+    - Question: What age group is typically categorized as 'junior' in various sports
+        competitions?
+      TrueAnswer: Under 18
+      FalseAnswer:
+      - 18-21
+      - 13-17
+      - 21-25
+      Explanation: Junior categories usually encompass participants under 18 years
+        old, serving as a developmental stage before entering senior competition
+        levels.
+    - Question: Which is a common method to combat early specialization in youth
+        sports?
+      TrueAnswer: Multi-sport participation
+      FalseAnswer:
+      - Extensive training camps
+      - Year-round competition
+      - Parental pressure
+      Explanation: Encouraging multi-sport participation helps prevent physical and
+        psychological burnout and fosters overall athletic development.
+    - Question: What is the most prevalent form of youth sports injury?
+      TrueAnswer: Sprains
+      FalseAnswer:
+      - Concussions
+      - Fractures
+      - Muscle strains
+      Explanation: Sprains, often ankle and wrist sprains, are common due to sudden
+        twists, falls, and collision in fast-paced youth sports activities.
+    - Question: What is not a recommended approach in coaching youth sports?
+      TrueAnswer: Aggressive behavior
+      FalseAnswer:
+      - Positive reinforcement
+      - Communication
+      - Skill development
+      Explanation: An aggressive coaching approach can lead to increased stress,
+        lower enthusiasm, and diminished mental well-being among young athletes.
+    - Question: What does the abbreviation 'NGB' stand for in the context of youth
+        sports?
+      TrueAnswer: National Governing Body
+      FalseAnswer:
+      - Non-Genetic Disorder
+      - Nations Global Bureau
+      - Nurturing Growth and Belonging
+      Explanation: The NGB oversees the administration and development of a specific
+        sport at the national level, setting rules and regulations for youth participation.
+    - Question: What role do 'volunteers' play in youth sports organizations?
+      TrueAnswer: Critical
+      FalseAnswer:
+      - Non-essential
+      - Insignificant
+      - Detrimental
+      Explanation: Volunteers provide vital support in coaching, officiating, organizing
+        events, and ensuring positive experiences for young athletes in sports programs.
+    - Question: In youth sports, what is the purpose of the 'Long-Term Athlete Development'
+        model?
+      TrueAnswer: Holistic growth
+      FalseAnswer:
+      - Immediate competition success
+      - Specialized skill acquisition
+      - Early professional contracts
+      Explanation: The LTAD model prioritizes overall personal growth, health, and
+        well-being, focusing on long-term athletic and personal development rather
+        than immediate success.
+    - Question: Regarding youth sports, what is 'sportsmanship' defined as?
+      TrueAnswer: Fair and respectful conduct
+      FalseAnswer:
+      - Dominating opponents
+      - Excessive celebrations
+      - Targeting weaker players
+      Explanation: Sportsmanship emphasizes fair play, ethical behavior, and respect
+        for competitors, coaches, officials, and spectators during sports activities.
+    - Question: What is the fundamental goal of youth sports programs?
+      TrueAnswer: Positive youth development
+      FalseAnswer:
+      - Nationwide championships
+      - Professional athlete recruitment
+      - Revenue generation
+      Explanation: The primary goal is to foster character-building, leadership skills,
+        and a healthy lifestyle while promoting positive youth development through
+        sports participation.

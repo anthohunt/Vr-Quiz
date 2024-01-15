@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5518759486001886915
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7690578140995600624}
+  - component: {fileID: 6563957511164144283}
+  m_Layer: 0
+  m_Name: Music_Punk_Rock.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7690578140995600624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5518759486001886915}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6563957511164144283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5518759486001886915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year did the punk rock movement emerge?
+      TrueAnswer: 1970s
+      FalseAnswer:
+      - 1980s
+      - 1960s
+      - 1990s
+      Explanation: Punk rock emerged in the mid-1970s as a response to the perceived
+        excesses of mainstream music.
+    - Question: Which band is often credited with starting the punk rock movement?
+      TrueAnswer: The Ramones
+      FalseAnswer:
+      - Sex Pistols
+      - The Clash
+      - The Misfits
+      Explanation: The Ramones are widely regarded as the first punk rock band, with
+        their energetic and simplistic musical style.
+    - Question: What color is often associated with punk rock fashion?
+      TrueAnswer: Black
+      FalseAnswer:
+      - Blue
+      - Yellow
+      - Green
+      Explanation: Black is a dominant color in punk rock fashion, symbolizing rebellion
+        and non-conformity.
+    - Question: Which city is considered the birthplace of punk rock?
+      TrueAnswer: New York City
+      FalseAnswer:
+      - London
+      - Los Angeles
+      - Detroit
+      Explanation: New York City, particularly the music scene at CBGB, played a
+        crucial role in the early development of punk rock.
+    - Question: What is the title of The Clash's debut album?
+      TrueAnswer: The Clash
+      FalseAnswer:
+      - London Calling
+      - Combat Rock
+      - Sandinista!
+      Explanation: The Clash's self-titled debut album was released in 1977 and featured
+        influential punk tracks.
+    - Question: Which musical instrument is typically associated with punk rock music?
+      TrueAnswer: Electric Guitar
+      FalseAnswer:
+      - Piano
+      - Saxophone
+      - Violin
+      Explanation: The electric guitar is a signature instrument in punk rock, known
+        for its raw and aggressive sound.
+    - Question: What is the primary influence behind punk rock lyrics and themes?
+      TrueAnswer: Rebellion
+      FalseAnswer:
+      - Romance
+      - Optimism
+      - Conformity
+      Explanation: Punk rock lyrics often express anti-establishment sentiments,
+        rebellion, and social critique.
+    - Question: Which of these punk rock bands is known for pioneering the 'Oi!'
+        subgenre?
+      TrueAnswer: The Cockney Rejects
+      FalseAnswer:
+      - The Damned
+      - The Exploited
+      - Stiff Little Fingers
+      Explanation: The Cockney Rejects are credited with pioneering the 'Oi!' subgenre,
+        known for its working-class themes.
+    - Question: What is the title of the Sex Pistols' only studio album?
+      TrueAnswer: Never Mind the Bollocks, Here's the Sex Pistols
+      FalseAnswer:
+      - Anarchy in the U.K.
+      - God Save the Queen
+      - Pretty Vacant
+      Explanation: The Sex Pistols' album 'Never Mind the Bollocks, Here's the Sex
+        Pistols' is a landmark in punk rock history.
+    - Question: Which punk rock band popularized the 'mosh pit' at their concerts?
+      TrueAnswer: The Misfits
+      FalseAnswer:
+      - Black Flag
+      - Dead Kennedys
+      - Minor Threat
+      Explanation: The Misfits are often credited with popularizing the 'mosh pit'
+        as part of their intense live performances.
+    - Question: What is the name of the influential punk rock fanzine founded in
+        1976?
+      TrueAnswer: Sniffin' Glue
+      FalseAnswer:
+      - Maximum Rocknroll
+      - Punk
+      - Slash
+      Explanation: Sniffin' Glue was a pivotal punk rock fanzine that chronicled
+        the emerging punk music scene in London.
+    - Question: Which punk rock band released the album 'Fresh Fruit for Rotting
+        Vegetables'?
+      TrueAnswer: Dead Kennedys
+      FalseAnswer:
+      - The Germs
+      - Circle Jerks
+      - Black Flag
+      Explanation: '''Fresh Fruit for Rotting Vegetables'' is the debut album by
+        the Dead Kennedys, known for its satire and social commentary.'
+    - Question: Who is often credited as the godfather of punk rock?
+      TrueAnswer: Iggy Pop
+      FalseAnswer:
+      - Johnny Rotten
+      - Lou Reed
+      - Sid Vicious
+      Explanation: Iggy Pop, through his work with The Stooges, is recognized for
+        his pioneering influence on punk rock music and ethos.
+    - Question: Which punk rock band released the song 'Anarchy in the U.K.'?
+      TrueAnswer: Sex Pistols
+      FalseAnswer:
+      - The Clash
+      - Ramones
+      - Buzzcocks
+      Explanation: The Sex Pistols' 'Anarchy in the U.K.' became an anthem for the
+        punk rock movement and rebellion against social norms.
+    - Question: What is the name of the DIY record label founded by Ian MacKaye of
+        Minor Threat?
+      TrueAnswer: Dischord Records
+      FalseAnswer:
+      - Epitaph Records
+      - Sub Pop Records
+      - Fat Wreck Chords
+      Explanation: Dischord Records, founded in 1980, played a pivotal role in promoting
+        the punk rock and hardcore music scenes in Washington, D.C.
+    - Question: Which punk rock band released the album 'Germfree Adolescents'?
+      TrueAnswer: X-Ray Spex
+      FalseAnswer:
+      - Black Flag
+      - Bad Religion
+      - Operation Ivy
+      Explanation: X-Ray Spex's 'Germfree Adolescents' is a significant punk rock
+        album highlighting Poly Styrene's unique vocals and feminist themes.
+    - Question: Who is the lead vocalist of the punk rock band The Dead Boys?
+      TrueAnswer: Stiv Bators
+      FalseAnswer:
+      - Johnny Thunders
+      - Joey Ramone
+      - Dee Dee Ramone
+      Explanation: Stiv Bators was known for his charismatic stage presence and the
+        gritty vocals in the punk rock band The Dead Boys.
+    - Question: Which record label signed bands like Black Flag and Descendents?
+      TrueAnswer: SST Records
+      FalseAnswer:
+      - Lookout! Records
+      - Fat Wreck Chords
+      - Rough Trade Records
+      Explanation: SST Records, founded by Greg Ginn of Black Flag, became a prominent
+        label in the American punk rock scene.
+    - Question: What is the name of the lead vocalist of the punk rock band The Exploited?
+      TrueAnswer: Wattie Buchan
+      FalseAnswer:
+      - Jello Biafra
+      - Ian Curtis
+      - Jello Biafra
+      Explanation: Wattie Buchan is known for his ferocious vocals and outspoken
+        political views in the influential punk rock band The Exploited.
+    - Question: Which band released the influential punk rock album 'Zen Arcade'?
+      TrueAnswer: "H\xFCsker D\xFC"
+      FalseAnswer:
+      - Minutemen
+      - Sonic Youth
+      - Fugazi
+      Explanation: "'Zen Arcade' by H\xFCsker D\xFC is a seminal double album that
+        expanded punk rock's sonic and emotional boundaries."

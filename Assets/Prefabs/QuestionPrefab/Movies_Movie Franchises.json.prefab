@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3745262798127909842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1481217738456358006}
+  - component: {fileID: 1365555696728870140}
+  m_Layer: 0
+  m_Name: Movies_Movie Franchises.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1481217738456358006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3745262798127909842}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1365555696728870140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3745262798127909842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the main character in the 'Harry Potter' series?
+      TrueAnswer: Harry Potter
+      FalseAnswer:
+      - Ron Weasley
+      - Hermione Granger
+      - Severus Snape
+      Explanation: Harry Potter is the protagonist of the 'Harry Potter' series,
+        a young wizard who battles against the dark wizard Lord Voldemort.
+    - Question: Which actor portrays Iron Man in the Marvel Cinematic Universe?
+      TrueAnswer: Robert Downey Jr.
+      FalseAnswer:
+      - Chris Evans
+      - Chris Hemsworth
+      - Mark Ruffalo
+      Explanation: Robert Downey Jr. plays the role of Tony Stark, also known as
+        Iron Man, in the Marvel Cinematic Universe.
+    - Question: In the 'Star Wars' franchise, who is Luke Skywalker's father?
+      TrueAnswer: Darth Vader
+      FalseAnswer:
+      - Obi-Wan Kenobi
+      - Emperor Palpatine
+      - Yoda
+      Explanation: 'Darth Vader, formerly known as Anakin Skywalker, is revealed
+        to be Luke Skywalker''s father in ''Star Wars: Episode V - The Empire Strikes
+        Back.'''
+    - Question: Which actress portrays Katniss Everdeen in 'The Hunger Games' series?
+      TrueAnswer: Jennifer Lawrence
+      FalseAnswer:
+      - Emma Watson
+      - Shailene Woodley
+      - Natalie Portman
+      Explanation: Jennifer Lawrence plays the role of Katniss Everdeen, the brave
+        and resourceful protagonist in 'The Hunger Games' series.
+    - Question: Who directed the 'Lord of the Rings' trilogy?
+      TrueAnswer: Peter Jackson
+      FalseAnswer:
+      - Christopher Nolan
+      - Steven Spielberg
+      - James Cameron
+      Explanation: Peter Jackson directed the epic fantasy adventure films based
+        on J.R.R. Tolkien's 'The Lord of the Rings' novels.
+    - Question: Which actor portrays Captain Jack Sparrow in the 'Pirates of the
+        Caribbean' series?
+      TrueAnswer: Johnny Depp
+      FalseAnswer:
+      - Orlando Bloom
+      - Geoffrey Rush
+      - Javier Bardem
+      Explanation: Johnny Depp brings the eccentric and charismatic Captain Jack
+        Sparrow to life in the 'Pirates of the Caribbean' series.
+    - Question: Who is the main villain in the 'James Bond' franchise?
+      TrueAnswer: Ernst Stavro Blofeld
+      FalseAnswer:
+      - Auric Goldfinger
+      - Hugo Drax
+      - Le Chiffre
+      Explanation: Ernst Stavro Blofeld is the recurring arch-nemesis of James Bond,
+        appearing in multiple films in the franchise.
+    - Question: Which actress portrays Black Widow in the Marvel Cinematic Universe?
+      TrueAnswer: Scarlett Johansson
+      FalseAnswer:
+      - Zoe Saldana
+      - Gal Gadot
+      - Margot Robbie
+      Explanation: Scarlett Johansson plays the role of Natasha Romanoff, also known
+        as Black Widow, in the Marvel Cinematic Universe.
+    - Question: In the 'Fast and Furious' franchise, what is Dominic Toretto's catchphrase?
+      TrueAnswer: I live my life a quarter mile at a time.
+      FalseAnswer:
+      - Family is everything.
+      - Ride or die.
+      - It's all about the cars.
+      Explanation: Dominic Toretto's catchphrase, 'I live my life a quarter mile
+        at a time,' reflects his love for cars and the thrill of racing.
+    - Question: Which actor portrays Wolverine in the 'X-Men' film series?
+      TrueAnswer: Hugh Jackman
+      FalseAnswer:
+      - Ryan Reynolds
+      - Chris Pratt
+      - Tom Hardy
+      Explanation: Hugh Jackman is known for his portrayal of the mutant superhero
+        Wolverine in the 'X-Men' film series.
+    - Question: Who is the main antagonist in the 'Jurassic Park' franchise?
+      TrueAnswer: Tyrannosaurus Rex
+      FalseAnswer:
+      - Velociraptor
+      - Indominus Rex
+      - Mosasaurus
+      Explanation: The Tyrannosaurus Rex, often referred to as T-Rex, is the iconic
+        and fearsome antagonist in the 'Jurassic Park' franchise.
+    - Question: Which actor portrays Batman in 'The Dark Knight' trilogy?
+      TrueAnswer: Christian Bale
+      FalseAnswer:
+      - Ben Affleck
+      - Michael Keaton
+      - Adam West
+      Explanation: Christian Bale dons the cape and cowl to portray the brooding
+        and complex character of Batman in 'The Dark Knight' trilogy.
+    - Question: Who is the main character in the 'Toy Story' franchise?
+      TrueAnswer: Woody
+      FalseAnswer:
+      - Buzz Lightyear
+      - Mr. Potato Head
+      - Jessie
+      Explanation: Woody, a pull-string cowboy doll, is the central character in
+        the heartwarming 'Toy Story' franchise.
+    - Question: Which actress portrays Hermione Granger in the 'Harry Potter' series?
+      TrueAnswer: Emma Watson
+      FalseAnswer:
+      - Emma Stone
+      - Daisy Ridley
+      - Lily Collins
+      Explanation: Emma Watson brings intelligence and bravery to the role of Hermione
+        Granger in the 'Harry Potter' series.
+    - Question: In the 'Avengers' film series, who is Thor's adoptive brother?
+      TrueAnswer: Loki
+      FalseAnswer:
+      - Thanos
+      - Hulk
+      - Ultron
+      Explanation: Loki, the God of Mischief, is Thor's adoptive brother and a recurring
+        antagonist in the 'Avengers' film series.
+    - Question: Which actor portrays James Bond in the 007 film series?
+      TrueAnswer: Daniel Craig
+      FalseAnswer:
+      - Pierce Brosnan
+      - Sean Connery
+      - Roger Moore
+      Explanation: Daniel Craig is the current actor who portrays the iconic British
+        spy James Bond in the 007 film series.
+    - Question: Who is the main character in the 'John Wick' film series?
+      TrueAnswer: John Wick
+      FalseAnswer:
+      - Marcus
+      - Viggo Tarasov
+      - Winston
+      Explanation: John Wick, a retired hitman seeking vengeance, is the central
+        character in the action-packed 'John Wick' film series.
+    - Question: Which actress portrays Rey in the 'Star Wars' sequel trilogy?
+      TrueAnswer: Daisy Ridley
+      FalseAnswer:
+      - Felicity Jones
+      - Natalie Portman
+      - Carrie Fisher
+      Explanation: Daisy Ridley plays the role of Rey, a powerful Force-sensitive
+        scavenger, in the 'Star Wars' sequel trilogy.
+    - Question: In the 'Transformers' film series, who is the leader of the Autobots?
+      TrueAnswer: Optimus Prime
+      FalseAnswer:
+      - Megatron
+      - Bumblebee
+      - Sentinel Prime
+      Explanation: Optimus Prime, a noble and courageous Autobot, is the revered
+        leader in the 'Transformers' film series.
+    - Question: Which actor portrays Tony Stark's best friend, James Rhodes, in the
+        Marvel Cinematic Universe?
+      TrueAnswer: Don Cheadle
+      FalseAnswer:
+      - Terrence Howard
+      - Samuel L. Jackson
+      - Chadwick Boseman
+      Explanation: Don Cheadle takes on the role of James Rhodes, also known as War
+        Machine, in the Marvel Cinematic Universe.
+    - Question: 'Who is the main antagonist in the ''Mission: Impossible'' film series?'
+      TrueAnswer: Solomon Lane
+      FalseAnswer:
+      - Ethan Hunt
+      - August Walker
+      - Owen Davian
+      Explanation: 'Solomon Lane, the leader of the Syndicate, serves as the primary
+        antagonist in the ''Mission: Impossible'' film series.'

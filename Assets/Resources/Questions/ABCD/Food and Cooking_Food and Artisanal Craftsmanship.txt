@@ -1,0 +1,128 @@
+{
+    "Food and Cooking": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the main ingredient in a classic Margherita pizza?",
+                    "TrueAnswer": "Tomatoes",
+                    "FalseAnswer": ["Mushrooms", "Pepperoni", "Pineapple"],
+                    "Explanation": "A classic Margherita pizza is topped with fresh tomatoes, mozzarella cheese, and basil leaves."
+                },
+                {
+                    "Question": "Which country is known for its traditional sushi?",
+                    "TrueAnswer": "Japan",
+                    "FalseAnswer": ["Italy", "Mexico", "India"],
+                    "Explanation": "Sushi is a traditional Japanese dish that consists of vinegared rice and various ingredients like raw fish or vegetables."
+                },
+                {
+                    "Question": "What is the primary ingredient in guacamole?",
+                    "TrueAnswer": "Avocado",
+                    "FalseAnswer": ["Tomato", "Onion", "Lime"],
+                    "Explanation": "Guacamole is a Mexican dip made from mashed avocados, mixed with lime juice, onions, tomatoes, and seasonings."
+                },
+                {
+                    "Question": "Which spice is commonly used in Indian curry dishes?",
+                    "TrueAnswer": "Turmeric",
+                    "FalseAnswer": ["Cinnamon", "Paprika", "Ginger"],
+                    "Explanation": "Turmeric is a key spice in Indian cuisine, giving curry dishes their vibrant yellow color and earthy flavor."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic Caesar salad dressing?",
+                    "TrueAnswer": "Anchovies",
+                    "FalseAnswer": ["Parmesan cheese", "Garlic", "Lemon juice"],
+                    "Explanation": "A classic Caesar salad dressing is made with anchovies, garlic, egg yolks, olive oil, and other seasonings."
+                },
+                {
+                    "Question": "Which country is famous for its Swiss cheese?",
+                    "TrueAnswer": "Switzerland",
+                    "FalseAnswer": ["France", "Italy", "Germany"],
+                    "Explanation": "Swiss cheese, known for its distinctive holes, originates from Switzerland and is a popular cheese worldwide."
+                },
+                {
+                    "Question": "What is the main ingredient in a traditional French baguette?",
+                    "TrueAnswer": "Flour",
+                    "FalseAnswer": ["Yeast", "Water", "Salt"],
+                    "Explanation": "A traditional French baguette is made with flour, water, yeast, and salt, resulting in a crispy crust and soft interior."
+                },
+                {
+                    "Question": "Which fruit is used to make the traditional Italian liqueur Limoncello?",
+                    "TrueAnswer": "Lemons",
+                    "FalseAnswer": ["Oranges", "Grapes", "Apples"],
+                    "Explanation": "Limoncello, a popular Italian liqueur, is made from the zest of lemons, alcohol, water, and sugar."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic Greek moussaka?",
+                    "TrueAnswer": "Eggplant",
+                    "FalseAnswer": ["Ground beef", "Potatoes", "Tomatoes"],
+                    "Explanation": "A classic Greek moussaka is a layered dish made with eggplant, ground meat, tomatoes, and béchamel sauce."
+                },
+                {
+                    "Question": "Which country is known for its traditional paella dish?",
+                    "TrueAnswer": "Spain",
+                    "FalseAnswer": ["Mexico", "Thailand", "Greece"],
+                    "Explanation": "Paella is a traditional Spanish dish that typically includes rice, saffron, vegetables, and various meats or seafood."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic French croissant?",
+                    "TrueAnswer": "Butter",
+                    "FalseAnswer": ["Sugar", "Eggs", "Yeast"],
+                    "Explanation": "A classic French croissant is made with layers of buttery dough, resulting in a flaky and buttery pastry."
+                },
+                {
+                    "Question": "Which country is famous for its traditional kimchi?",
+                    "TrueAnswer": "Korea",
+                    "FalseAnswer": ["China", "Thailand", "Vietnam"],
+                    "Explanation": "Kimchi is a traditional Korean side dish made from fermented vegetables, such as cabbage and radishes, with spices."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic Mexican mole sauce?",
+                    "TrueAnswer": "Chocolate",
+                    "FalseAnswer": ["Chili peppers", "Tomatoes", "Cilantro"],
+                    "Explanation": "A classic Mexican mole sauce is made with chocolate, chili peppers, nuts, spices, and other ingredients."
+                },
+                {
+                    "Question": "Which country is known for its traditional baklava dessert?",
+                    "TrueAnswer": "Turkey",
+                    "FalseAnswer": ["Greece", "Egypt", "Lebanon"],
+                    "Explanation": "Baklava, a sweet pastry dessert, is popular in Turkey and made with layers of filo pastry, nuts, and syrup."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic British fish and chips dish?",
+                    "TrueAnswer": "Potatoes",
+                    "FalseAnswer": ["Cod", "Vinegar", "Peas"],
+                    "Explanation": "A classic British fish and chips dish consists of deep-fried battered fish and thick-cut potatoes."
+                },
+                {
+                    "Question": "Which fruit is used to make the traditional French liqueur Chartreuse?",
+                    "TrueAnswer": "Herbs",
+                    "FalseAnswer": ["Apples", "Oranges", "Grapes"],
+                    "Explanation": "Chartreuse, a traditional French liqueur, is made from a secret blend of herbs and plants."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic Italian risotto?",
+                    "TrueAnswer": "Arborio rice",
+                    "FalseAnswer": ["Chicken broth", "Parmesan cheese", "Mushrooms"],
+                    "Explanation": "A classic Italian risotto is made with Arborio rice, broth, onions, butter, and Parmesan cheese."
+                },
+                {
+                    "Question": "Which country is famous for its traditional pho soup?",
+                    "TrueAnswer": "Vietnam",
+                    "FalseAnswer": ["China", "Thailand", "Japan"],
+                    "Explanation": "Pho, a traditional Vietnamese soup, consists of broth, rice noodles, herbs, and various meats or vegetables."
+                },
+                {
+                    "Question": "What is the main ingredient in a classic Indian curry dish?",
+                    "TrueAnswer": "Spices",
+                    "FalseAnswer": ["Coconut milk", "Yogurt", "Ginger"],
+                    "Explanation": "A classic Indian curry dish is made with a blend of spices, creating a flavorful and aromatic sauce."
+                },
+                {
+                    "Question": "Which country is known for its traditional bratwurst sausage?",
+                    "TrueAnswer": "Germany",
+                    "FalseAnswer": ["United States", "Italy", "France"],
+                    "Explanation": "Bratwurst, a traditional German sausage, is made from pork, beef, or veal, seasoned with spices and herbs."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est l'ingrédient principal du tempeh?",
+            "TrueAnswer": "Soja",
+            "FalseAnswer": [
+              "Quinoa",
+              "Pois chiches",
+              "Lentilles"
+            ],
+            "Explanation": "Le tempeh est un plat traditionnel indonésien à base de soja fermenté, connu pour sa teneur élevée en protéines et en fibres."
+          },
+          {
+            "Question": "Lequel de ces ingrédients est couramment utilisé pour remplacer les œufs dans la pâtisserie végane?",
+            "TrueAnswer": "Graines de lin",
+            "FalseAnswer": [
+              "Chapelure",
+              "Farine d'amande",
+              "Huile de noix de coco"
+            ],
+            "Explanation": "Les graines de lin trempées dans l'eau forment un mélange gélatineux pouvant être utilisé comme agent de liaison dans les recettes de pâtisserie végane."
+          },
+          {
+            "Question": "Quel est l'ingrédient clé dans une recette classique de houmous?",
+            "TrueAnswer": "Pois chiches",
+            "FalseAnswer": [
+              "Haricots noirs",
+              "Haricots rouges",
+              "Lentilles"
+            ],
+            "Explanation": "Le houmous, un dip populaire du Moyen-Orient, est préparé à partir de pois chiches cuits et écrasés mélangés avec du tahini, de l'huile d'olive, du jus de citron et de l'ail."
+          },
+          {
+            "Question": "Lequel de ces grains est sans gluten?",
+            "TrueAnswer": "Quinoa",
+            "FalseAnswer": [
+              "Orge",
+              "Bulgur",
+              "Épeautre"
+            ],
+            "Explanation": "Le quinoa est un super-aliment sans gluten, riche en protéines et contenant tous les acides aminés essentiels, ce qui en fait une alternative nutritive pour les personnes intolérantes au gluten."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans une soupe miso traditionnelle?",
+            "TrueAnswer": "Pâte de soja",
+            "FalseAnswer": [
+              "Lait de coco",
+              "Beurre d'amande",
+              "Tofu"
+            ],
+            "Explanation": "La soupe miso, un pilier de la cuisine japonaise, est assaisonnée avec de la pâte de soja fermentée, offrant une saveur umami riche et une source de probiotiques."
+          },
+          {
+            "Question": "Quel lait végétal est dérivé d'une légumineuse?",
+            "TrueAnswer": "Lait de soja",
+            "FalseAnswer": [
+              "Lait d'amande",
+              "Lait d'avoine",
+              "Lait de coco"
+            ],
+            "Explanation": "Le lait de soja est produit en trempant et en broyant des graines de soja, puis en faisant bouillir le mélange pour créer une alternative laitière crémeuse sans produits laitiers."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans une vinaigrette César végane?",
+            "TrueAnswer": "Noix de cajou",
+            "FalseAnswer": [
+              "Graines de citrouille",
+              "Huile de tournesol",
+              "Tahini"
+            ],
+            "Explanation": "Les noix de cajou, une fois mélangées avec de l'eau et d'autres arômes, créent une base crémeuse pour la vinaigrette César végane, imitant la texture des vinaigrettes à base de produits laitiers traditionnels."
+          },
+          {
+            "Question": "Lequel de ces légumes est couramment utilisé comme substitut du riz?",
+            "TrueAnswer": "Chou-fleur",
+            "FalseAnswer": [
+              "Brocoli",
+              "Courgette",
+              "Épinards"
+            ],
+            "Explanation": "Le riz de chou-fleur, préparé en pulsant des bouquets de chou-fleur dans un robot culinaire, offre une alternative faible en glucides et riche en nutriments au riz traditionnel pour les régimes faibles en glucides et paléo."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans une garniture de quiche végane?",
+            "TrueAnswer": "Tofu",
+            "FalseAnswer": [
+              "Seitan",
+              "Aubergine",
+              "Graines de chia"
+            ],
+            "Explanation": "Le tofu, une fois mélangé avec des assaisonnements et des légumes, crée une garniture façon crème pour les recettes de quiche végane, offrant une alternative végétalienne aux œufs."
+          },
+          {
+            "Question": "Quel est le principal liant dans les galettes de burger véganes?",
+            "TrueAnswer": "Haricots noirs",
+            "FalseAnswer": [
+              "Farine de pois chiches",
+              "Nouilles de riz",
+              "Purée de potiron"
+            ],
+            "Explanation": "Les haricots noirs écrasés, associés à des céréales et des assaisonnements, offrent une texture ferme et un agent de liaison pour les hamburgers véganes faits maison, améliorant leur teneur en protéines."
+          },
+          {
+            "Question": "Lequel de ces édulcorants est couramment utilisé dans les desserts véganes?",
+            "TrueAnswer": "Sirop d'érable",
+            "FalseAnswer": [
+              "Miel",
+              "Sirop d'agave",
+              "Stevia"
+            ],
+            "Explanation": "Le sirop d'érable, issu de la sève des érables à sucre, sert d'édulcorant végane naturel, apportant une saveur distincte aux desserts véganes."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans une frittata végane?",
+            "TrueAnswer": "Farine de pois chiches",
+            "FalseAnswer": [
+              "Pommes de terre",
+              "Artichauts",
+              "Chou frisé"
+            ],
+            "Explanation": "La farine de pois chiches, également appelée besan ou farine de pois chiches, forme la base de la pâte de frittata végane, offrant une alternative riche en protéines aux œufs."
+          },
+          {
+            "Question": "Lequel de ces légumes est couramment utilisé pour créer des rouleaux de sushi véganes?",
+            "TrueAnswer": "Avocat",
+            "FalseAnswer": [
+              "Concombre",
+              "Carotte",
+              "Asperge"
+            ],
+            "Explanation": "L'avocat, avec sa texture crémeuse et son goût doux, est un ingrédient populaire dans les rouleaux de sushi véganes, ajoutant de l'onctuosité et des textures contrastées."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans une sauce végane macaroni au fromage?",
+            "TrueAnswer": "Noix de cajou",
+            "FalseAnswer": [
+              "Huile de coco",
+              "Levure alimentaire",
+              "Chou-fleur"
+            ],
+            "Explanation": "Les noix de cajou trempées, mélangées avec de la levure alimentaire et des assaisonnements, créent une sauce crémeuse et indulgente pour les macaronis au fromage végans, imitant la richesse des sauces à base de produits laitiers."
+          },
+          {
+            "Question": "Lequel de ces légumineuses est couramment utilisé dans les recettes de chili végan?",
+            "TrueAnswer": "Haricots rouges",
+            "FalseAnswer": [
+              "Lentilles",
+              "Haricots à œil noir",
+              "Haricots cannellini"
+            ],
+            "Explanation": "Les haricots rouges, avec leur texture ferme et leur capacité à absorber les saveurs, sont un ingrédient de base des plats de chili végans copieux et satisfaisants."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans une sauce pesto végane?",
+            "TrueAnswer": "Basilic",
+            "FalseAnswer": [
+              "Persil",
+              "Épinards",
+              "Roquette"
+            ],
+            "Explanation": "Les feuilles de basilic frais, combinées avec des pignons de pin, de l'ail et de l'huile d'olive, constituent la base classique du pesto végane, offrant une sauce parfumée et herbacée pour les pâtes et les trempettes."
+          },
+          {
+            "Question": "Lequel de ces fruits est couramment utilisé comme édulcorant naturel dans les recettes véganes?",
+            "TrueAnswer": "Dattes",
+            "FalseAnswer": [
+              "Mangue",
+              "Ananas",
+              "Papaye"
+            ],
+            "Explanation": "Les dattes, riches en sucres naturels et en nutriments, sont souvent mélangées en pâtes ou sirops pour sucrer les desserts végans et les produits de boulangerie sans recourir à des sucres raffinés."
+          },
+          {
+            "Question": "Quel est l'ingrédient principal dans un substitut de beurre végane?",
+            "TrueAnswer": "Huile de coco",
+            "FalseAnswer": [
+              "Beurre d'amande",
+              "Lécithine de soja",
+              "Tahini"
+            ],
+            "Explanation": "L'huile de coco, une fois solidifiée, peut être utilisée comme substitut de beurre dans la pâtisserie et la cuisine véganes, offrant une texture et une richesse similaires dans les recettes."
+          },
+          {
+            "Question": "Quelle de ces farines est couramment utilisée dans la pâtisserie végane sans gluten?",
+            "TrueAnswer": "Farine de riz complet",
+            "FalseAnswer": [
+              "Farine d'épeautre",
+              "Farine d'orge",
+              "Farine de seigle"
+            ],
+            "Explanation": "La farine de riz complet, moulue à partir de grains de riz brun entier, offre une alternative nutritive sans gluten pour la pâtisserie végane, comme le pain, les gâteaux et les pâtisseries."
+          }
+        ]
+      }
+    }
+  ]
+}

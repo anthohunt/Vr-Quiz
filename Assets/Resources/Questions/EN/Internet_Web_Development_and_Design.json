@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What does CSS stand for in web development?",
+            "TrueAnswer": "Cascading Style Sheets",
+            "FalseAnswer": [
+              "Creative Style Sheets",
+              "Cascading Script Sheets",
+              "Coded Style Sheets"
+            ],
+            "Explanation": "CSS stands for Cascading Style Sheets and is used to style the layout of web pages written in HTML."
+          },
+          {
+            "Question": "Which tag is used to define an image in HTML?",
+            "TrueAnswer": "img",
+            "FalseAnswer": [
+              "image",
+              "src",
+              "picture"
+            ],
+            "Explanation": "The 'img' tag is used to define an image in HTML and requires the 'src' attribute to specify the URL of the image."
+          },
+          {
+            "Question": "What programming language is commonly used for web development?",
+            "TrueAnswer": "JavaScript",
+            "FalseAnswer": [
+              "Python",
+              "Ruby",
+              "Java"
+            ],
+            "Explanation": "JavaScript is a widely used programming language for web development, enabling interactive and dynamic web content."
+          },
+          {
+            "Question": "Which of the following is not a web development framework?",
+            "TrueAnswer": "Photoshop",
+            "FalseAnswer": [
+              "React",
+              "Angular",
+              "Vue.js"
+            ],
+            "Explanation": "Photoshop is not a web development framework. It is a graphic design software used for creating visual assets for web projects."
+          },
+          {
+            "Question": "What does SEO stand for in the context of web development?",
+            "TrueAnswer": "Search Engine Optimization",
+            "FalseAnswer": [
+              "Site Experience Organization",
+              "Social Engagement Optimization",
+              "Secure Email Outreach"
+            ],
+            "Explanation": "SEO, or Search Engine Optimization, is the practice of increasing the quantity and quality of traffic to a website through organic search engine results."
+          },
+          {
+            "Question": "Which file type is commonly used for web page structure and content?",
+            "TrueAnswer": "HTML",
+            "FalseAnswer": [
+              "PDF",
+              "MP3",
+              "JPEG"
+            ],
+            "Explanation": "HTML (Hypertext Markup Language) is the standard language for creating web pages and web applications."
+          },
+          {
+            "Question": "What is the purpose of the <div> tag in HTML?",
+            "TrueAnswer": "To create a division or section in the HTML document",
+            "FalseAnswer": [
+              "To display an image",
+              "To define a hyperlink",
+              "To format text"
+            ],
+            "Explanation": "The <div> tag is a block-level element used to create a division or section in an HTML document, facilitating easier styling and structuring of content."
+          },
+          {
+            "Question": "Which term refers to the process of ensuring a website is compatible across different devices and browsers?",
+            "TrueAnswer": "Cross-browser compatibility",
+            "FalseAnswer": [
+              "Multi-platform optimization",
+              "Universal device adaptation",
+              "Browser diversity manipulation"
+            ],
+            "Explanation": "Cross-browser compatibility refers to the ability of a website or web application to function across different web browsers, ensuring consistent user experience."
+          },
+          {
+            "Question": "What does the acronym HTTP stand for?",
+            "TrueAnswer": "Hypertext Transfer Protocol",
+            "FalseAnswer": [
+              "Hyperspeed Transmission Path",
+              "Hyperlink Textual Transition Protocol",
+              "Host Transfer Transaction Pathway"
+            ],
+            "Explanation": "HTTP (Hypertext Transfer Protocol) is the foundation of data communication for the World Wide Web, governing the transmission of various media types."
+          },
+          {
+            "Question": "Which attribute is used to specify the CSS class of an HTML element?",
+            "TrueAnswer": "class",
+            "FalseAnswer": [
+              "style",
+              "id",
+              "name"
+            ],
+            "Explanation": "The 'class' attribute is used to specify one or more class names for an HTML element, allowing the application of CSS styles to the element."
+          },
+          {
+            "Question": "What is the primary purpose of a media query in web design?",
+            "TrueAnswer": "To apply different styles for different devices or screen sizes",
+            "FalseAnswer": [
+              "To embed media content in a web page",
+              "To optimize server media transmission",
+              "To categorize media files for storage"
+            ],
+            "Explanation": "Media queries in CSS allow the adaptation of styles based on various factors like screen size, resolution, or device orientation for responsive web design."
+          },
+          {
+            "Question": "Which CSS property is used for changing the font size of text?",
+            "TrueAnswer": "font-size",
+            "FalseAnswer": [
+              "text-style",
+              "font-change",
+              "size-font"
+            ],
+            "Explanation": "The 'font-size' property in CSS is used to specify the size of text. It can be set in various units like pixels, em, or percentages."
+          },
+          {
+            "Question": "What type of file is a .js file in web development?",
+            "TrueAnswer": "JavaScript",
+            "FalseAnswer": [
+              "Java Source",
+              "JSON Schema",
+              "JScript"
+            ],
+            "Explanation": ".js files contain JavaScript code, which is commonly used for scripting behavior, interactivity, and dynamic content on websites."
+          },
+          {
+            "Question": "What is the purpose of the <a> tag in HTML?",
+            "TrueAnswer": "To create hyperlinks",
+            "FalseAnswer": [
+              "To align text",
+              "To insert an image",
+              "To define a table"
+            ],
+            "Explanation": "The <a> tag in HTML is used to create hyperlinks, allowing users to navigate between web pages or access external content through clickable text or images."
+          },
+          {
+            "Question": "Which of the following is an example of a frontend web development framework?",
+            "TrueAnswer": "React",
+            "FalseAnswer": [
+              "Node.js",
+              "Express",
+              "Django"
+            ],
+            "Explanation": "React is a popular front-end JavaScript library for building user interfaces, focusing on component-based development for interactive web applications."
+          },
+          {
+            "Question": "What does FTP stand for in the context of web development?",
+            "TrueAnswer": "File Transfer Protocol",
+            "FalseAnswer": [
+              "Fast Transmission Protocol",
+              "Field Testing Procedure",
+              "Frontend Technology Platform"
+            ],
+            "Explanation": "FTP (File Transfer Protocol) is a standard network protocol used for the transfer of computer files between a client and server on a computer network."
+          },
+          {
+            "Question": "Which symbol is used to indicate the ID selector in CSS?",
+            "TrueAnswer": "#",
+            "FalseAnswer": [
+              ".",
+              "&",
+              "$"
+            ],
+            "Explanation": "The pound symbol '#' is used to indicate the ID selector in CSS, allowing styling to be applied to a specific HTML element with a corresponding ID attribute."
+          },
+          {
+            "Question": "Which type of CSS rule takes precedence if both are specified for the same element?",
+            "TrueAnswer": "Inline style",
+            "FalseAnswer": [
+              "Internal style",
+              "External style",
+              "Imported style"
+            ],
+            "Explanation": "Inline styles, defined within the HTML element, take the highest precedence in CSS, overriding both internal and external styles specified for the same element."
+          },
+          {
+            "Question": "What semantic tag is used for grouping together navigation links in HTML?",
+            "TrueAnswer": "nav",
+            "FalseAnswer": [
+              "header",
+              "section",
+              "aside"
+            ],
+            "Explanation": "The 'nav' tag in HTML is used to define a section with navigation links, such as menus or table of contents, within the context of a web page."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3391984181181725320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3423429994633590740}
+  - component: {fileID: 2114443454902057671}
+  m_Layer: 0
+  m_Name: Video_Games_Racing_Games.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3423429994633590740
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3391984181181725320}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2114443454902057671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3391984181181725320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which racing game franchise features the character Sonic the Hedgehog?
+      TrueAnswer: Sonic & All-Stars Racing
+      FalseAnswer:
+      - Gran Turismo
+      - Forza Motorsport
+      - Need for Speed
+      Explanation: Sonic & All-Stars Racing is a kart racing game featuring various
+        Sega characters, including Sonic the Hedgehog.
+    - Question: In which racing game can you use 'blue shells' to hinder opponents?
+      TrueAnswer: Mario Kart
+      FalseAnswer:
+      - Burnout
+      - Gran Turismo
+      - Project CARS
+      Explanation: The 'blue shell' is a notorious item in Mario Kart that targets
+        the leading racer and is famously difficult to evade.
+    - Question: What is the primary goal in the game 'Trackmania'?
+      TrueAnswer: Setting the fastest time
+      FalseAnswer:
+      - Destroying opponents' vehicles
+      - Collecting coins
+      - Completing laps first
+      Explanation: Players aim to set the fastest time on a variety of imaginative
+        and challenging tracks in the 'Trackmania' series.
+    - Question: Which racing game series is known for its realistic damage and crashes?
+      TrueAnswer: Burnout
+      FalseAnswer:
+      - Mario Kart
+      - Crazy Taxi
+      - Need for Speed
+      Explanation: Burnout is celebrated for its emphasis on causing and profiting
+        from vehicular damage through aggressive driving and crashes.
+    - Question: What does 'NOS' stand for in the game 'Need for Speed'?
+      TrueAnswer: Nitrous Oxide System
+      FalseAnswer:
+      - Never-ending Speed
+      - Notorious Overdrive Setup
+      - Noble Outlaw Supercar
+      Explanation: NOS, or Nitrous Oxide System, provides a temporary speed boost
+        in 'Need for Speed' games, aiding in overtaking opponents.
+    - Question: Which racing game shares its name with a famous Formula One circuit?
+      TrueAnswer: Monaco Grand Prix
+      FalseAnswer:
+      - Daytona USA
+      - Indianapolis 500
+      - Le Mans 24 Hours
+      Explanation: The Monaco Grand Prix game pays homage to the iconic Formula One
+        circuit known for its tight, challenging street course.
+    - Question: What is the name of the intergalactic racing game series developed
+        by Nintendo?
+      TrueAnswer: F-Zero
+      FalseAnswer:
+      - Star Racer
+      - Galactic Speedway
+      - Space Circuit
+      Explanation: F-Zero features fast-paced, futuristic, anti-gravity racing, with
+        iconic characters such as Captain Falcon and innovative track designs.
+    - Question: Which racing game requires players to strategically manage tire wear
+        and fuel consumption?
+      TrueAnswer: Project CARS 2
+      FalseAnswer:
+      - Forza Horizon
+      - Dirt Rally
+      - GRID Autosport
+      Explanation: '''Project CARS 2'' emphasizes realistic simulation, forcing players
+        to monitor tire and fuel usage, adding depth and strategy to races.'
+    - Question: What is the original name of the racing game released as 'World Circuit'
+        in the United States?
+      TrueAnswer: F1 Pole Position
+      FalseAnswer:
+      - Ridge Racer
+      - Top Gear
+      - Gran Turismo
+      Explanation: Originally titled 'Human Grand Prix' in Japan, the game was localized
+        as 'F1 Pole Position' for its US release in 1992.
+    - Question: In the game 'Wipeout', what do players use to attack opponents?
+      TrueAnswer: Weapons
+      FalseAnswer:
+      - Power-ups
+      - Boost Pads
+      - Shields
+      Explanation: Players utilize an array of futuristic weapons to gain an advantage
+        and disrupt opponents' progress in the high-speed 'Wipeout' races.
+    - Question: Which racing game introduced the innovative 'Rewind' feature to undo
+        mistakes during races?
+      TrueAnswer: GRID
+      FalseAnswer:
+      - F1 2020
+      - NASCAR Heat
+      - TrackMania Turbo
+      Explanation: '''GRID'' popularized the ''Rewind'' feature, allowing players
+        to undo crashes or errors, adding a strategic element to races.'
+    - Question: In the 'Twisted Metal' series, what do players battle with in vehicle
+        combat?
+      TrueAnswer: Weapons
+      FalseAnswer:
+      - Power-ups
+      - Energy Fields
+      - Traps
+      Explanation: The 'Twisted Metal' series revolves around vehicular combat, with
+        an array of destructive weapons available for use in battles.
+    - Question: 'What is the iconic red car driven by the protagonist in ''Need for
+        Speed: Most Wanted''?'
+      TrueAnswer: BMW M3 GTR
+      FalseAnswer:
+      - Audi R8
+      - Porsche 911 Turbo S
+      - Ferrari 458 Italia
+      Explanation: 'The BMW M3 GTR, with its distinctive livery, is the iconic car
+        driven by the player in the thrilling ''Need for Speed: Most Wanted'' races.'
+    - Question: Which racing game series features a blue anthropomorphic hedgehog
+        as a playable character?
+      TrueAnswer: Sonic & Sega All-Stars Racing
+      FalseAnswer:
+      - Crash Team Racing
+      - Diddy Kong Racing
+      - 'Star Wars Episode I: Racer'
+      Explanation: Sonic, the iconic blue hedgehog, takes part in high-speed kart
+        racing alongside other Sega characters in this competitive series.
+    - Question: What was the first arcade racing game to feature 3D polygon graphics
+        and interactive race environments?
+      TrueAnswer: Virtua Racing
+      FalseAnswer:
+      - Pole Position
+      - Out Run
+      - Daytona USA
+      Explanation: '''Virtua Racing'' revolutionized arcade racing with its pioneering
+        3D polygon graphics and immersive, interactive race tracks.'
+    - Question: In the game 'Gran Turismo', what term is used for purchasing and
+        acquiring new vehicles?
+      TrueAnswer: Car Dealerships
+      FalseAnswer:
+      - Car Customization
+      - Vehicle Upgrades
+      - Auction Houses
+      Explanation: Players access a variety of car dealerships within the game to
+        purchase new vehicles, enhancing their collection and racing options.
+    - Question: Which racing game series features the iconic 'Blue Falcon' vehicle
+        driven by Captain Falcon?
+      TrueAnswer: F-Zero
+      FalseAnswer:
+      - Wipeout
+      - Mario Kart
+      - Burnout
+      Explanation: The 'F-Zero' series showcases the futuristic 'Blue Falcon' driven
+        by the bounty hunter and racer, Captain Falcon, in high-speed races.
+    - Question: In 'ModNation Racers', what can players create and customize in addition
+        to characters and vehicles?
+      TrueAnswer: Tracks
+      FalseAnswer:
+      - Power-ups
+      - Weather Effects
+      - Emotes
+      Explanation: Players have the freedom to design and customize intricate race
+        tracks with various themes and challenges in 'ModNation Racers'.
+    - Question: What is the name of the beloved Italian plumber's go-karting spinoff
+        series?
+      TrueAnswer: Mario Kart
+      FalseAnswer:
+      - Luigi's Raceway
+      - Yoshi's Island Race
+      - Peach's Speedway
+      Explanation: Mario Kart features Mario and other beloved Nintendo characters
+        racing in go-karts, engaging in frenetic and competitive races.
+    - Question: 'In ''Need for Speed: Underground'', what customization options are
+        prominent for vehicles?'
+      TrueAnswer: Visual
+      FalseAnswer:
+      - Performance
+      - Audio
+      - Interior
+      Explanation: The focus of vehicle customization is on visual enhancements such
+        as body kits, paint colors, decals, and other aesthetic modifications.

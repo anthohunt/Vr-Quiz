@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but principal d'une station de travail audionumérique (DAW) ?",
+            "TrueAnswer": "Production musicale",
+            "FalseAnswer": [
+              "Conception graphique",
+              "Montage vidéo",
+              "Développement web"
+            ],
+            "Explanation": "Une DAW est une application logicielle permettant l'enregistrement, l'édition et la production de fichiers audio, ce qui en fait un élément essentiel pour la production musicale."
+          },
+          {
+            "Question": "Que signifie MIDI ?",
+            "TrueAnswer": "Interface numérique d'instruments de musique",
+            "FalseAnswer": [
+              "Interface de données d'instruments de musique",
+              "Entrée numérique d'instrument de musique",
+              "Interface numérique d'instrument de musique"
+            ],
+            "Explanation": "MIDI est une norme technique décrivant un protocole, une interface numérique et des connecteurs permettant à une grande variété d'instruments de musique électroniques et d'ordinateurs de communiquer entre eux."
+          },
+          {
+            "Question": "Quel type de microphone est communément utilisé pour l'enregistrement vocal ?",
+            "TrueAnswer": "Condensateur",
+            "FalseAnswer": [
+              "Dynamique",
+              "Ruban",
+              "Carbone"
+            ],
+            "Explanation": "Les microphones à condensateur sont connus pour leur sensibilité et leur précision, ce qui les rend populaires pour capturer les nuances des performances vocales en studio."
+          },
+          {
+            "Question": "Quel type d'effet audio est utilisé pour simuler l'environnement d'une salle de concert ?",
+            "TrueAnswer": "Réverbération",
+            "FalseAnswer": [
+              "Retard",
+              "Chœur",
+              "Flanger"
+            ],
+            "Explanation": "La réverbération ajoute un sentiment d'espace et de profondeur à l'audio, imitant l'acoustique de différents environnements tels que des salles de concert, des pièces ou des cathédrales."
+          },
+          {
+            "Question": "Quel est le rôle d'un compresseur en production audio ?",
+            "TrueAnswer": "Contrôle de la plage dynamique",
+            "FalseAnswer": [
+              "Élargissement stéréo",
+              "Correction de hauteur",
+              "Distorsion harmonique"
+            ],
+            "Explanation": "Un compresseur réduit la plage dynamique d'un signal audio, rendant les sons faibles plus forts et les sons forts plus silencieux, ce qui donne un son plus homogène."
+          },
+          {
+            "Question": "Quel type de synthétiseur génère du son à travers des circuits électroniques analogiques ?",
+            "TrueAnswer": "Synthétiseur analogique",
+            "FalseAnswer": [
+              "Synthétiseur numérique",
+              "Synthétiseur FM",
+              "Synthétiseur à base d'échantillons"
+            ],
+            "Explanation": "Les synthétiseurs analogiques créent du son en manipulant des tensions électriques, ce qui résulte en un caractère sonore chaud, organique et souvent imprévisible."
+          },
+          {
+            "Question": "Quelle technologie permet l'édition non destructive des enregistrements audio ?",
+            "TrueAnswer": "Édition de formes d'onde audio",
+            "FalseAnswer": [
+              "Édition binaire",
+              "Édition linéaire",
+              "Édition non linéaire"
+            ],
+            "Explanation": "L'édition non destructive permet d'éditer des fichiers audio sans altérer définitivement les enregistrements originaux, préservant l'intégrité du matériel source."
+          },
+          {
+            "Question": "Quel type de moniteur de studio est conçu pour reproduire un son plat et non coloré ?",
+            "TrueAnswer": "Moniteur de proximité",
+            "FalseAnswer": [
+              "Moniteur lointain",
+              "Subwoofer",
+              "Enceinte hi-fi"
+            ],
+            "Explanation": "Les moniteurs de proximité offrent une représentation équilibrée et précise de l'audio, ce qui les rend idéaux pour des tâches de surveillance et de mixage critiques en studio."
+          },
+          {
+            "Question": "Quel est le rôle d'un filtre passe-bas dans le traitement audio ?",
+            "TrueAnswer": "Atténuer les hautes fréquences",
+            "FalseAnswer": [
+              "Accentuer les basses fréquences",
+              "Créer une résonance",
+              "Ajouter de la distorsion"
+            ],
+            "Explanation": "Un filtre passe-bas permet aux fréquences en dessous d'un certain point de coupure de passer tout en atténuant les fréquences au-dessus, réduisant efficacement le contenu en hautes fréquences dans le signal."
+          },
+          {
+            "Question": "Quel type de connecteur est communément utilisé pour les signaux audio symétriques ?",
+            "TrueAnswer": "XLR",
+            "FalseAnswer": [
+              "TRS",
+              "RCA",
+              "USB"
+            ],
+            "Explanation": "Les connecteurs XLR sont préférés pour les connexions audio symétriques en raison de leur capacité à minimiser les interférences et à transmettre les signaux audio sur de plus longues distances avec une meilleure intégrité du signal."
+          },
+          {
+            "Question": "Quel format de fichier audio est connu pour sa compression sans perte et sa haute qualité sonore ?",
+            "TrueAnswer": "FLAC",
+            "FalseAnswer": [
+              "MP3",
+              "AAC",
+              "WAV"
+            ],
+            "Explanation": "FLAC (Free Lossless Audio Codec) préserve la qualité audio originale sans sacrifier la taille du fichier, en faisant un choix populaire pour l'archivage et la distribution audio haute fidélité."
+          },
+          {
+            "Question": "Quel est le rôle d'une porte en production audio ?",
+            "TrueAnswer": "Suppression du bruit",
+            "FalseAnswer": [
+              "Effet d'écho",
+              "Modulation de hauteur",
+              "Décalage de fréquence"
+            ],
+            "Explanation": "Une porte est utilisée pour contrôler le volume des signaux audio, ne laissant passer que les signaux au-dessus d'un certain seuil, réduisant efficacement le bruit de fond et les sons indésirables."
+          },
+          {
+            "Question": "Quel paramètre un effet de tremolo module-t-il dans un signal audio ?",
+            "TrueAnswer": "Amplitude",
+            "FalseAnswer": [
+              "Fréquence",
+              "Phase",
+              "Temps"
+            ],
+            "Explanation": "Le tremolo modifie le volume d'un signal à un taux régulier et rythmique, créant un effet pulsatoire en modulant son amplitude au fil du temps."
+          },
+          {
+            "Question": "À quoi se réfère le terme 'dithering' dans le traitement audio numérique ?",
+            "TrueAnswer": "Façonnage du bruit",
+            "FalseAnswer": [
+              "Modulation de fréquence",
+              "Inversion de phase",
+              "Filtrage numérique"
+            ],
+            "Explanation": "Le dithering consiste à ajouter du bruit de faible niveau à un signal audio numérique pour améliorer la résolution, réduisant la distorsion de quantification et les artefacts dans les signaux de faible niveau."
+          },
+          {
+            "Question": "Quel est le rôle d'un bus de mixage dans le mixage audio ?",
+            "TrueAnswer": "Addition de multiples canaux",
+            "FalseAnswer": [
+              "Compression de mastering",
+              "Imagerie stéréo",
+              "Traitement de pistes individuelles"
+            ],
+            "Explanation": "Le bus de mixage combine et traite les signaux audio provenant de multiples canaux, permettant des ajustements globaux et des améliorations sur l'ensemble du mixage."
+          },
+          {
+            "Question": "Quel type d'effet de traitement audio est utilisé pour altérer la signature temporelle d'un signal ?",
+            "TrueAnswer": "Allongement du temps",
+            "FalseAnswer": [
+              "Décalage de hauteur",
+              "Harmonisation",
+              "Filtrage"
+            ],
+            "Explanation": "L'allongement du temps modifie la durée d'un signal audio sans affecter sa hauteur, permettant la manipulation du tempo et du timing tout en préservant la hauteur et la tonalité."
+          },
+          {
+            "Question": "Quel est le rôle d'un compresseur à détection latérale en production audio ?",
+            "TrueAnswer": "Effet de compression",
+            "FalseAnswer": [
+              "Façonnage de la réverbération",
+              "Élargissement stéréo",
+              "Annulation de phase"
+            ],
+            "Explanation": "Un compresseur à détection latérale est utilisé pour créer l'effet de 'compression' en réduisant dynamiquement le niveau d'un signal en fonction du niveau d'un autre, couramment utilisé dans la musique électronique pour son effet pompage."
+          },
+          {
+            "Question": "Quel type d'interface musicale permet le contrôle direct des paramètres logiciels via des boutons et des curseurs physiques ?",
+            "TrueAnswer": "Contrôleur MIDI",
+            "FalseAnswer": [
+              "Interface audio",
+              "Console numérique",
+              "Sampleur"
+            ],
+            "Explanation": "Les contrôleurs MIDI offrent un contrôle tactile sur les instruments virtuels et les effets dans une DAW, offrant une manipulation expressive et intuitive des outils musicaux numériques."
+          },
+          {
+            "Question": "Quelle technologie est utilisée pour synchroniser plusieurs appareils musicaux et applications logicielles ?",
+            "TrueAnswer": "Synchronisation MIDI",
+            "FalseAnswer": [
+              "Transmission sans fil",
+              "Horloge analogique",
+              "Connectivité Bluetooth"
+            ],
+            "Explanation": "La synchronisation MIDI permet un timing précis et une coordination entre différents appareils musicaux et logiciels, assurant une intégration et des performances harmonieuses dans des configurations musicales complexes."
+          }
+        ]
+      }
+    }
+  ]
+}

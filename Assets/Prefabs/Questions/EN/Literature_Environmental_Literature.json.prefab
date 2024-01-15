@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2234504537255318978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5432657484818452517}
+  - component: {fileID: 8863430365647045714}
+  m_Layer: 0
+  m_Name: Literature_Environmental_Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5432657484818452517
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2234504537255318978}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8863430365647045714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2234504537255318978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the novel 'Silent Spring'?
+      TrueAnswer: Rachel Carson
+      FalseAnswer:
+      - John Steinbeck
+      - Jack London
+      - Harper Lee
+      Explanation: Rachel Carson, an American marine biologist, is credited with
+        sparking the modern environmental movement with her 1962 book 'Silent Spring',
+        which discussed the harmful effects of pesticides.
+    - Question: In which novel does the term 'ecofeminism' first appear?
+      TrueAnswer: The Death of Nature
+      FalseAnswer:
+      - Walden
+      - The Lorax
+      - The Song of the Lark
+      Explanation: The term 'ecofeminism' was first introduced by feminist author
+        Carolyn Merchant in her influential work 'The Death of Nature' in 1980.
+    - Question: Which author wrote 'The Overstory', a novel about trees and activism?
+      TrueAnswer: Richard Powers
+      FalseAnswer:
+      - Barbara Kingsolver
+      - Michael Pollan
+      - Barry Lopez
+      Explanation: Richard Powers won the Pulitzer Prize for Fiction in 2019 for
+        'The Overstory', which intertwines the lives of humans and trees while addressing
+        environmental issues.
+    - Question: What is the setting of the novel 'Barren Ground' by Ellen Glasgow?
+      TrueAnswer: Chesapeake Bay
+      FalseAnswer:
+      - Amazon Rainforest
+      - Sahara Desert
+      - Great Barrier Reef
+      Explanation: Set in Virginia's Chesapeake Bay region, 'Barren Ground' is a
+        portrayal of the environmental and social impact of industrialization on
+        the area.
+    - Question: Who penned the influential essay 'The Trouble with Wilderness'?
+      TrueAnswer: William Cronon
+      FalseAnswer:
+      - Aldo Leopold
+      - Henry David Thoreau
+      - Edward Abbey
+      Explanation: In his essay, William Cronon critiques the romanticized view of
+        wilderness and advocates for a more nuanced understanding of nature and human
+        interaction.
+    - Question: In the novel 'Flight Behavior', what natural phenomenon is central
+        to the plot?
+      TrueAnswer: Monarch butterfly migration
+      FalseAnswer:
+      - Northern Lights
+      - Coral reef bleaching
+      - Sahara Desert dust storms
+      Explanation: Barbara Kingsolver's 'Flight Behavior' explores the impact of
+        climate change through the disrupted migration patterns of monarch butterflies
+        in rural Tennessee.
+    - Question: Which novel by J.R.R. Tolkien features themes of environmental stewardship?
+      TrueAnswer: The Lord of the Rings
+      FalseAnswer:
+      - The Hobbit
+      - The Silmarillion
+      - "The Children of H\xFArin"
+      Explanation: In 'The Lord of the Rings', Tolkien emphasizes the importance
+        of preserving nature and harmony with the environment, as depicted in the
+        character of Treebeard and the Ents.
+    - Question: Who is the author of 'The Sea Around Us', a classic of environmental
+        literature?
+      TrueAnswer: Rachel Carson
+      FalseAnswer:
+      - Aldo Leopold
+      - Henry David Thoreau
+      - Annie Dillard
+      Explanation: Rachel Carson's 'The Sea Around Us' is celebrated for its lyrical
+        portrayal of the ocean and its influence on marine science and conservation
+        efforts.
+    - Question: Which author's work features the concept of 'solastalgia' in the
+        context of environmental degradation?
+      TrueAnswer: Alison Hawthorne Deming
+      FalseAnswer:
+      - Louise Erdrich
+      - Terry Tempest Williams
+      - Wendell Berry
+      Explanation: Alison Hawthorne Deming's writings often explore the psychological
+        distress caused by environmental change, using the term 'solastalgia' to
+        describe a sense of homesickness for a place experiencing environmental decline.
+    - Question: Who penned the thought-provoking book 'Braiding Sweetgrass'?
+      TrueAnswer: Robin Wall Kimmerer
+      FalseAnswer:
+      - Barbara Kingsolver
+      - Edward Abbey
+      - Richard Powers
+      Explanation: Robin Wall Kimmerer, a botanist and member of the Citizen Potawatomi
+        Nation, weaves together indigenous wisdom and scientific insights in 'Braiding
+        Sweetgrass' to advocate for ecological consciousness and reciprocity with
+        the natural world.
+    - Question: What is the central theme of 'Ecotopia' by Ernest Callenbach?
+      TrueAnswer: Ecological sustainability
+      FalseAnswer:
+      - Technological advancement
+      - Political revolution
+      - Consumerism critique
+      Explanation: Ernest Callenbach's 'Ecotopia' envisions a utopian society in
+        the Pacific Northwest that prioritizes environmental harmony, sustainable
+        living, and ecological wisdom.
+    - Question: In 'The Grapes of Wrath', what environmental theme is vividly portrayed?
+      TrueAnswer: Dust Bowl devastation
+      FalseAnswer:
+      - Deforestation impact
+      - Polar ice melting
+      - Urban sprawl consequences
+      Explanation: John Steinbeck's novel powerfully captures the human and ecological
+        devastation caused by the Dust Bowl in the Great Plains during the 1930s.
+    - Question: Which literary work by Barry Lopez focuses on the Arctic landscape
+        and indigenous cultures?
+      TrueAnswer: Arctic Dreams
+      FalseAnswer:
+      - Desert Notes
+      - Of Wolves and Men
+      - Crossing Open Ground
+      Explanation: Barry Lopez's 'Arctic Dreams' provides an immersive exploration
+        of the Arctic environment and the intricate relationships between humans,
+        wildlife, and the landscape.
+    - Question: Who crafted the novel 'The Monkey Wrench Gang', a rallying cry for
+        environmental activism?
+      TrueAnswer: Edward Abbey
+      FalseAnswer:
+      - John Muir
+      - Terry Tempest Williams
+      - Aldo Leopold
+      Explanation: Edward Abbey's irreverent and spirited novel 'The Monkey Wrench
+        Gang' follows a group's plot to sabotage industrial development in the American
+        Southwest, igniting discussions on eco-sabotage and preservation.
+    - Question: What is the central environmental issue addressed in 'The World Without
+        Us'?
+      TrueAnswer: Ecological aftermath of human extinction
+      FalseAnswer:
+      - Rapid deforestation
+      - Ocean acidification
+      - Industrial pollution impact
+      Explanation: Alan Weisman's book delves into the potential consequences for
+        nature and ecosystems if humans were to suddenly vanish, examining the resilience
+        and reclamation of the planet.
+    - Question: Which novel by Ursula K. Le Guin is set in a future society focused
+        on attunement with nature?
+      TrueAnswer: Always Coming Home
+      FalseAnswer:
+      - The Left Hand of Darkness
+      - The Dispossessed
+      - The Lathe of Heaven
+      Explanation: Le Guin's 'Always Coming Home' portrays an ecotopian future society
+        based on sustainable living, indigenous wisdom, and a deep connection with
+        the natural world.
+    - Question: Who authored 'The Sixth Extinction', a profound exploration of biodiversity
+        loss?
+      TrueAnswer: Elizabeth Kolbert
+      FalseAnswer:
+      - David Quammen
+      - E. O. Wilson
+      - Richard Dawkins
+      Explanation: Elizabeth Kolbert's Pulitzer Prize-winning book meticulously examines
+        past and present extinctions, warning about the ongoing human-induced mass
+        extinction and its implications for life on Earth.
+    - Question: In 'State of Wonder' by Ann Patchett, what environmental setting
+        is central to the story?
+      TrueAnswer: Amazon rainforest
+      FalseAnswer:
+      - Sahara Desert
+      - Great Barrier Reef
+      - Himalayan mountains
+      Explanation: The lush and mysterious Amazon rainforest provides the backdrop
+        for the novel's exploration of scientific ethics, cultural clashes, and the
+        impact of development on indigenous communities.
+    - Question: Which author's work often examines the intersection of nature and
+        human spirituality, as seen in 'A Sand County Almanac'?
+      TrueAnswer: Aldo Leopold
+      FalseAnswer:
+      - Barry Lopez
+      - Annie Dillard
+      - Terry Tempest Williams
+      Explanation: Aldo Leopold's classic collection of essays reflects on the beauty
+        of nature, the ethics of land stewardship, and the spiritual significance
+        of the natural world, shaping modern environmental ethics.
+    - Question: What ecological issue is central to 'Where the Crawdads Sing' by
+        Delia Owens?
+      TrueAnswer: Marsh habitat conservation
+      FalseAnswer:
+      - Coral reef preservation
+      - Tundra ecosystem restoration
+      - Grassland rewilding
+      Explanation: Set in the marshlands of North Carolina, the novel illuminates
+        the beauty of the marsh ecosystem and the threats it faces from human development
+        and exploitation.

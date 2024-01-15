@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3017173861077903860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2285767819943764448}
+  - component: {fileID: 1330422382500326504}
+  m_Layer: 0
+  m_Name: Sports_Sports Equipment Evolution.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2285767819943764448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3017173861077903860}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1330422382500326504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3017173861077903860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What year was the first basketball invented?
+      TrueAnswer: 1891
+      FalseAnswer:
+      - 1905
+      - 1920
+      - 1876
+      Explanation: The first basketball was invented in 1891 by Dr. James Naismith.
+    - Question: Which company introduced the first modern soccer ball?
+      TrueAnswer: Adidas
+      FalseAnswer:
+      - Nike
+      - Puma
+      - Under Armour
+      Explanation: Adidas introduced the first modern soccer ball in 1970 for the
+        FIFA World Cup.
+    - Question: When was the first baseball glove used in a professional game?
+      TrueAnswer: 1875
+      FalseAnswer:
+      - 1900
+      - 1925
+      - 1850
+      Explanation: The first baseball glove was used in a professional game in 1875.
+    - Question: Which material was the first tennis racket made of?
+      TrueAnswer: Wood
+      FalseAnswer:
+      - Metal
+      - Graphite
+      - Plastic
+      Explanation: The first tennis racket was made of wood, commonly ash or maple.
+    - Question: When was the first modern hockey stick introduced?
+      TrueAnswer: 1850
+      FalseAnswer:
+      - 1900
+      - 1925
+      - 1800
+      Explanation: The first modern hockey stick was introduced in 1850, made of
+        wood.
+    - Question: Which company introduced the first fiberglass ski?
+      TrueAnswer: K2
+      FalseAnswer:
+      - Rossignol
+      - Atomic
+      - Salomon
+      Explanation: K2 introduced the first fiberglass ski in 1961, revolutionizing
+        the skiing industry.
+    - Question: When was the first modern golf ball invented?
+      TrueAnswer: 1848
+      FalseAnswer:
+      - 1900
+      - 1925
+      - 1800
+      Explanation: The first modern golf ball was invented in 1848, replacing the
+        featherie ball.
+    - Question: Which company introduced the first aluminum baseball bat?
+      TrueAnswer: Louisville Slugger
+      FalseAnswer:
+      - Easton
+      - Rawlings
+      - Mizuno
+      Explanation: Louisville Slugger introduced the first aluminum baseball bat
+        in 1970.
+    - Question: When was the first modern football helmet introduced?
+      TrueAnswer: 1939
+      FalseAnswer:
+      - 1900
+      - 1925
+      - 1955
+      Explanation: The first modern football helmet was introduced in 1939 by Riddell.
+    - Question: Which company introduced the first carbon fiber tennis racket?
+      TrueAnswer: Prince
+      FalseAnswer:
+      - Wilson
+      - Head
+      - Babolat
+      Explanation: Prince introduced the first carbon fiber tennis racket in 1976,
+        improving performance and durability.
+    - Question: When was the first modern cricket bat introduced?
+      TrueAnswer: 1771
+      FalseAnswer:
+      - 1800
+      - 1850
+      - 1900
+      Explanation: The first modern cricket bat was introduced in 1771, made of willow
+        wood.
+    - Question: Which company introduced the first synthetic basketball?
+      TrueAnswer: Spalding
+      FalseAnswer:
+      - Wilson
+      - Molten
+      - Nike
+      Explanation: Spalding introduced the first synthetic basketball in 1973, improving
+        grip and durability.
+    - Question: When was the first modern tennis ball invented?
+      TrueAnswer: 1872
+      FalseAnswer:
+      - 1900
+      - 1925
+      - 1850
+      Explanation: The first modern tennis ball was invented in 1872, replacing the
+        previous rubber balls.
+    - Question: Which company introduced the first carbon fiber hockey stick?
+      TrueAnswer: Bauer
+      FalseAnswer:
+      - CCM
+      - Sher-Wood
+      - Warrior
+      Explanation: Bauer introduced the first carbon fiber hockey stick in 2000,
+        improving performance and durability.
+    - Question: When was the first modern baseball bat invented?
+      TrueAnswer: 1859
+      FalseAnswer:
+      - 1800
+      - 1900
+      - 1925
+      Explanation: The first modern baseball bat was invented in 1859, made of ash
+        wood.
+    - Question: Which company introduced the first plastic golf ball?
+      TrueAnswer: Titleist
+      FalseAnswer:
+      - Callaway
+      - TaylorMade
+      - Bridgestone
+      Explanation: Titleist introduced the first plastic golf ball in 1932, replacing
+        the gutta-percha ball.
+    - Question: When was the first modern soccer cleat introduced?
+      TrueAnswer: 1925
+      FalseAnswer:
+      - 1900
+      - 1950
+      - 1975
+      Explanation: The first modern soccer cleat was introduced in 1925, featuring
+        replaceable studs.
+    - Question: Which company introduced the first carbon fiber baseball bat?
+      TrueAnswer: Easton
+      FalseAnswer:
+      - Louisville Slugger
+      - Rawlings
+      - Mizuno
+      Explanation: Easton introduced the first carbon fiber baseball bat in 1982,
+        improving power and performance.
+    - Question: When was the first modern basketball shoe introduced?
+      TrueAnswer: 1917
+      FalseAnswer:
+      - 1900
+      - 1925
+      - 1950
+      Explanation: The first modern basketball shoe was introduced in 1917 by Converse,
+        known as the Chuck Taylor All-Stars.
+    - Question: Which company introduced the first graphite tennis racket?
+      TrueAnswer: Head
+      FalseAnswer:
+      - Wilson
+      - Babolat
+      - Prince
+      Explanation: Head introduced the first graphite tennis racket in 1969, revolutionizing
+        the sport.

@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6205415989989167680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 990572619557829604}
+  - component: {fileID: 4487794852141783934}
+  m_Layer: 0
+  m_Name: Art_Photography.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &990572619557829604
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6205415989989167680}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4487794852141783934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6205415989989167680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the first photographer?
+      TrueAnswer: "Joseph Nic\xE9phore Ni\xE9pce"
+      FalseAnswer:
+      - Ansel Adams
+      - Dorothea Lange
+      - Daguerre
+      Explanation: "Joseph Nic\xE9phore Ni\xE9pce is credited with creating the world's
+        first permanent photograph, 'View from the Window at Le Gras', in 1826 using
+        a technique called heliography."
+    - Question: What is the process of producing a photograph using light-sensitive
+        materials and chemicals?
+      TrueAnswer: Silver halide process
+      FalseAnswer:
+      - Digital printing
+      - Cyanotype
+      - Daguerreotype
+      Explanation: The silver halide process involves exposing light-sensitive paper
+        or film to create a latent image, followed by chemical development to produce
+        the photograph.
+    - Question: Who is known for their street photography capturing New York City
+        in the 1940s and 1950s?
+      TrueAnswer: Robert Frank
+      FalseAnswer:
+      - Annie Leibovitz
+      - Diane Arbus
+      - Alfred Stieglitz
+      Explanation: Robert Frank's book 'The Americans', published in 1958, is a seminal
+        work of street photography and a critical portrayal of American society at
+        the time.
+    - Question: What type of camera uses a non-interchangeable lens and a fold-out
+        bellows for focusing?
+      TrueAnswer: View camera
+      FalseAnswer:
+      - SLR camera
+      - Point-and-shoot camera
+      - Mirrorless camera
+      Explanation: View cameras are large format cameras designed for precise control
+        over perspective and focus, commonly used in architectural and landscape
+        photography.
+    - Question: In photography, what does the term 'bokeh' refer to?
+      TrueAnswer: Blurry out-of-focus area
+      FalseAnswer:
+      - Sharp subject
+      - High contrast
+      - Vignetting effect
+      Explanation: Bokeh describes the aesthetic quality of the out-of-focus areas
+        in a photograph, influenced by factors such as lens aperture shape and depth
+        of field.
+    - Question: Who is known for capturing iconic images of the Great Depression,
+        such as 'Migrant Mother'?
+      TrueAnswer: Dorothea Lange
+      FalseAnswer:
+      - Man Ray
+      - Irving Penn
+      - Margaret Bourke-White
+      Explanation: Dorothea Lange's documentary photography humanized the consequences
+        of the depression and became emblematic of the era's social injustice.
+    - Question: Which photographic process involves creating a positive image on
+        a metal plate coated with a light-sensitive silver compound?
+      TrueAnswer: Daguerreotype
+      FalseAnswer:
+      - Ambrotype
+      - Tintype
+      - Cyanotype
+      Explanation: The daguerreotype, named after Louis Daguerre, was the first widely
+        used photographic process and produced highly detailed images on silver-coated
+        copper plates.
+    - Question: What is the standard focal length for a 'normal' lens on a 35mm camera?
+      TrueAnswer: 50mm
+      FalseAnswer:
+      - 35mm
+      - 85mm
+      - 24mm
+      Explanation: A 50mm lens on a 35mm camera closely approximates the perspective
+        of the human eye, making it a versatile choice for general photography.
+    - Question: Who is known for their pioneering work in color photography, particularly
+        in the American West?
+      TrueAnswer: William Eggleston
+      FalseAnswer:
+      - Ansel Adams
+      - Sally Mann
+      - Joel Meyerowitz
+      Explanation: William Eggleston's use of color in fine art photography challenged
+        the then-dominant black-and-white aesthetic, revolutionizing the medium's
+        expressive possibilities.
+    - Question: Which type of lens is commonly used for capturing a wide field of
+        view, such as landscapes and architecture?
+      TrueAnswer: Wide-angle lens
+      FalseAnswer:
+      - Telephoto lens
+      - Standard lens
+      - Macro lens
+      Explanation: Wide-angle lenses have a shorter focal length, allowing for a
+        broader perspective and inclusion of more of the scene within the frame.
+    - Question: What is the term for the visual message or story conveyed by a photograph?
+      TrueAnswer: Photographic narrative
+      FalseAnswer:
+      - Composition
+      - Exposure
+      - Saturation
+      Explanation: Photographic narrative refers to the storytelling aspect of an
+        image, encompassing elements such as subject matter, framing, and visual
+        engagement with the viewer.
+    - Question: Which iconic American photographer is known for his precise, large-format
+        black-and-white images of natural landscapes?
+      TrueAnswer: Ansel Adams
+      FalseAnswer:
+      - Richard Avedon
+      - Edward Weston
+      - Garry Winogrand
+      Explanation: Ansel Adams' meticulous and technically accomplished photographs
+        of the American West played a pivotal role in elevating landscape photography
+        to an art form.
+    - Question: In photography, what is the function of the 'depth of field'?
+      TrueAnswer: Control over focus
+      FalseAnswer:
+      - Color balance
+      - Shutter speed
+      - Exposure time
+      Explanation: Depth of field refers to the range of distance in a scene that
+        appears acceptably sharp, providing a creative tool for isolating subjects
+        or emphasizing context.
+    - Question: What does the 'ISO' setting on a camera control?
+      TrueAnswer: Sensitivity to light
+      FalseAnswer:
+      - White balance
+      - Aperture size
+      - Shutter speed
+      Explanation: ISO determines the camera sensor's sensitivity to light. Higher
+        ISO settings are used in low-light conditions, increasing the sensor's ability
+        to capture images.
+    - Question: What does the term 'rule of thirds' refer to in photography?
+      TrueAnswer: Composition guideline
+      FalseAnswer:
+      - Color temperature
+      - Dynamic range
+      - Lens distortion
+      Explanation: The rule of thirds involves dividing the image into nine equal
+        sections with two horizontal and two vertical lines, providing a guide for
+        balanced and dynamic composition.
+    - Question: What is the term for a photographic print made by exposing light-sensitive
+        paper through a negative?
+      TrueAnswer: Gelatin silver print
+      FalseAnswer:
+      - Digital print
+      - Platinum print
+      - Cyanotype print
+      Explanation: Gelatin silver prints, popular in the 20th century, are created
+        through a process involving light-sensitive silver salts suspended in a gelatin
+        emulsion.
+    - Question: Who is known for their conceptual photographs exploring themes of
+        identity, gender, and race?
+      TrueAnswer: Cindy Sherman
+      FalseAnswer:
+      - Nan Goldin
+      - Richard Prince
+      - Andres Serrano
+      Explanation: Cindy Sherman's influential work consists of self-portraits in
+        various personas, challenging societal constructs and the representation
+        of women in art and media.
+    - Question: What photographic technique involves manipulating exposure during
+        printing to enhance or alter the image?
+      TrueAnswer: Dodging and burning
+      FalseAnswer:
+      - Sepia toning
+      - Vignetting
+      - Solarization
+      Explanation: Dodging and burning are darkroom techniques where exposure is
+        selectively adjusted to control the light on specific areas of the print,
+        enhancing tonal range and emphasizing details.
+    - Question: Which influential photographer is known for their stark, high-contrast
+        images of industrial landscapes and architecture?
+      TrueAnswer: Berenice Abbott
+      FalseAnswer:
+      - Robert Capa
+      - Diane Arbus
+      - Weegee
+      Explanation: Berenice Abbott's body of work, particularly the 'Changing New
+        York' project, documents the architectural transformation of the city during
+        the 1930s in striking monochromatic images.
+    - Question: What type of camera uses a mirror to reflect light to the viewfinder,
+        providing an accurate representation of the final image?
+      TrueAnswer: SLR camera
+      FalseAnswer:
+      - Rangefinder camera
+      - Medium format camera
+      - Toy camera
+      Explanation: Single-lens reflex (SLR) cameras utilize a mirror and pentaprism
+        system to display the view through the lens directly in the viewfinder, aiding
+        precise framing and focusing.

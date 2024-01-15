@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7330199554530802944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5196771660096402901}
+  - component: {fileID: 4548295320976314465}
+  m_Layer: 0
+  m_Name: Art_Sculpture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5196771660096402901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7330199554530802944}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4548295320976314465
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7330199554530802944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What famous sculpture features a seated woman with an enigmatic smile?
+      TrueAnswer: Mona Lisa
+      FalseAnswer:
+      - Venus de Milo
+      - David
+      - The Thinker
+      Explanation: The Mona Lisa is a half-length portrait painting by the Italian
+        artist Leonardo da Vinci, widely considered an archetype of the Renaissance
+        art movement.
+    - Question: Who sculpted the statue of David, depicting the biblical hero?
+      TrueAnswer: Michelangelo
+      FalseAnswer:
+      - Donatello
+      - Bernini
+      - Raphael
+      Explanation: Michelangelo's 'David' is a masterpiece of Renaissance sculpture
+        created between 1501 and 1504, representing the strength and beauty of the
+        human form.
+    - Question: Which ancient Greek sculpture depicts the goddess of love and beauty?
+      TrueAnswer: Venus de Milo
+      FalseAnswer:
+      - Nike of Samothrace
+      - Discobolus
+      - "Laoco\xF6n and His Sons"
+      Explanation: The Venus de Milo is an ancient Greek statue and one of the most
+        famous works of ancient Greek sculpture. It is currently on display at the
+        Louvre Museum in Paris.
+    - Question: What type of sculpture involves carving away material to create the
+        final form?
+      TrueAnswer: Carving
+      FalseAnswer:
+      - Modeling
+      - Casting
+      - Assembling
+      Explanation: Carving involves removing material, such as wood or stone, to
+        reveal the desired sculpture. It requires skill and precision to create intricate
+        and detailed forms.
+    - Question: Who created the monumental sculpture 'The Thinker', originally titled
+        'The Poet'?
+      TrueAnswer: Auguste Rodin
+      FalseAnswer:
+      - Pablo Picasso
+      - Henry Moore
+      - Constantin Brancusi
+      Explanation: Auguste Rodin, a French sculptor, created 'The Thinker' in 1902
+        as part of his larger work, 'The Gates of Hell.' It is a symbol of intellectual
+        activity and contemplation.
+    - Question: Which ancient Greek sculpture depicts a winged goddess of victory?
+      TrueAnswer: Nike of Samothrace
+      FalseAnswer:
+      - Venus de Milo
+      - Discobolus
+      - "Laoco\xF6n and His Sons"
+      Explanation: The Nike of Samothrace is a Hellenistic sculpture of Nike, the
+        Greek goddess of victory, and is considered one of the greatest masterpieces
+        of ancient Greek sculpture.
+    - Question: What Renaissance artist sculpted the statue of Perseus holding the
+        head of Medusa?
+      TrueAnswer: Benvenuto Cellini
+      FalseAnswer:
+      - Gian Lorenzo Bernini
+      - Michelangelo
+      - Leonardo da Vinci
+      Explanation: Benvenuto Cellini, an Italian goldsmith, sculptor, and artist
+        created 'Perseus with the Head of Medusa.' The statue is a prime example
+        of Mannerist sculpture.
+    - Question: Which type of sculpture involves a process of shaping and manipulating
+        a malleable material?
+      TrueAnswer: Modeling
+      FalseAnswer:
+      - Assembling
+      - Casting
+      - Carving
+      Explanation: Modeling is the process of shaping a pliable material, such as
+        clay or wax, to create a sculpture. It allows for intricate and expressive
+        forms to be crafted.
+    - Question: What is the name of the famous sculpture depicting a Trojan priest
+        and his sons being killed by sea serpents?
+      TrueAnswer: "Laoco\xF6n and His Sons"
+      FalseAnswer:
+      - Apollo Belvedere
+      - Discobolus
+      - Winged Victory of Samothrace
+      Explanation: "The sculpture 'Laoco\xF6n and His Sons' is a monumental example
+        of Hellenistic art, showcasing the emotional intensity and narrative complexity
+        of ancient sculpture."
+    - Question: Which sculptor is known for creating abstract, fluid forms in bronze
+        and marble?
+      TrueAnswer: Henry Moore
+      FalseAnswer:
+      - Alberto Giacometti
+      - Isamu Noguchi
+      - Alexander Calder
+      Explanation: Henry Moore was a renowned British sculptor known for his organic
+        and abstract forms, often inspired by natural shapes and landscapes, crafted
+        in various materials.
+    - Question: What is the process of creating a sculpture by pouring molten material
+        into a mold?
+      TrueAnswer: Casting
+      FalseAnswer:
+      - Modeling
+      - Carving
+      - Assembling
+      Explanation: Casting involves pouring molten material, such as metal, into
+        a mold to create a sculpture. It allows for intricate and multi-dimensional
+        forms to be produced.
+    - Question: Who sculpted the elaborate Baroque fountain known as the 'Trevi Fountain'
+        in Rome?
+      TrueAnswer: Gian Lorenzo Bernini
+      FalseAnswer:
+      - Alessandro Algardi
+      - Andrea del Verrocchio
+      - Donatello
+      Explanation: Gian Lorenzo Bernini, an Italian sculptor and architect, designed
+        the iconic 'Trevi Fountain' with its dramatic portrayal of Neptune, horses,
+        and mythical sea creatures.
+    - Question: Which famous sculptor created the 'Burghers of Calais', a poignant
+        depiction of civic heroism?
+      TrueAnswer: Auguste Rodin
+      FalseAnswer:
+      - Camille Claudel
+      - Aristide Maillol
+      - Jacques Lipchitz
+      Explanation: Auguste Rodin's 'Burghers of Calais' portrays the self-sacrifice
+        of six prominent citizens in the face of an invading English army during
+        the Hundred Years' War.
+    - Question: What type of sculpture involves joining different materials to construct
+        a unified form?
+      TrueAnswer: Assembling
+      FalseAnswer:
+      - Modeling
+      - Casting
+      - Carving
+      Explanation: Assembling sculptures are created by assembling various materials
+        or found objects to compose a unified and often unconventional artwork.
+    - Question: Who sculpted the iconic seated Buddha statue at the Dhyana Mudra
+        position in Thailand?
+      TrueAnswer: Acharn Chalermchai Kositpipat
+      FalseAnswer:
+      - Ananda Coomaraswamy
+      - Thot Kathy Sukhara
+      - Prasit Wongnak
+      Explanation: Acharn Chalermchai Kositpipat, a renowned Thai artist, sculpted
+        the majestic seated Buddha statue at the Dhyana Mudra position as part of
+        the White Temple complex in Chiang Rai.
+    - Question: What is the name of the famous ancient Greek sculpture of a discus-thrower?
+      TrueAnswer: Discobolus
+      FalseAnswer:
+      - Nike of Samothrace
+      - Venus de Milo
+      - "Laoco\xF6n and His Sons"
+      Explanation: The Discobolus is a renowned ancient Greek sculpture depicting
+        a discus-thrower in a moment of athletic tension, showcasing idealized athleticism
+        and harmony of form.
+    - Question: Which sculptor is known for creating surreal and elongated figures
+        in bronze and stone?
+      TrueAnswer: Alberto Giacometti
+      FalseAnswer:
+      - Constantin Brancusi
+      - Louise Bourgeois
+      - Barbara Hepworth
+      Explanation: Alberto Giacometti, a Swiss sculptor, is celebrated for his distinctive
+        style, often portraying figure sculptures with surreal elongation and existential
+        intensity.
+    - Question: What method of sculpting involves building up forms with a pliable
+        material like clay?
+      TrueAnswer: Modeling
+      FalseAnswer:
+      - Casting
+      - Carving
+      - Assembling
+      Explanation: Modeling is a versatile sculpting technique where an artist builds
+        up forms by manipulating malleable materials, allowing for creative exploration
+        and expressive detailing.
+    - Question: What is the name of the renowned ancient Greek sculpture depicting
+        the god Apollo?
+      TrueAnswer: Apollo Belvedere
+      FalseAnswer:
+      - Doryphoros
+      - "Laoco\xF6n and His Sons"
+      - Discobolus
+      Explanation: The Apollo Belvedere is a celebrated ancient Roman marble copy
+        of a lost ancient Greek bronze original, depicting Apollo in a timeless portrayal
+        of youthful idealism and divine grace.
+    - Question: Who sculpted 'The Kiss', a sensual and evocative depiction of intimate
+        love?
+      TrueAnswer: Auguste Rodin
+      FalseAnswer:
+      - Camille Claudel
+      - Edgar Degas
+      - Aristide Maillol
+      Explanation: Auguste Rodin's sculpture 'The Kiss' captures the passion and
+        emotion of romantic love, embodying sensuality and tenderness in a timeless
+        embrace between two lovers.

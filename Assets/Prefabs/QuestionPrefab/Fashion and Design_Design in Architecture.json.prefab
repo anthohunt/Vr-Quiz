@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7777261619102889954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3727077929187612456}
+  - component: {fileID: 3101411119927855455}
+  m_Layer: 0
+  m_Name: Fashion and Design_Design in Architecture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3727077929187612456
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7777261619102889954}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3101411119927855455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7777261619102889954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is the famous fashion designer known for the little black dress?
+      TrueAnswer: Coco Chanel
+      FalseAnswer:
+      - Christian Dior
+      - Ralph Lauren
+      - Giorgio Armani
+      Explanation: Coco Chanel is renowned for her iconic little black dress, a timeless
+        fashion staple.
+    - Question: What is the primary color in the color wheel?
+      TrueAnswer: Red
+      FalseAnswer:
+      - Blue
+      - Yellow
+      - Green
+      Explanation: Red is considered a primary color in the color wheel, along with
+        blue and yellow.
+    - Question: Which fashion designer is known for the red-soled shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for his signature red-soled shoes,
+        a symbol of luxury and style.
+    - Question: What is the main function of a fashion sketch?
+      TrueAnswer: Visualize design ideas
+      FalseAnswer:
+      - Measurements for tailoring
+      - Fabric selection
+      - Pattern making
+      Explanation: Fashion sketches are primarily used to visualize design ideas
+        and communicate them to others.
+    - Question: Which fashion designer is known for the wrap dress?
+      TrueAnswer: Diane von Furstenberg
+      FalseAnswer:
+      - Donatella Versace
+      - Stella McCartney
+      - Vera Wang
+      Explanation: Diane von Furstenberg popularized the wrap dress, a versatile
+        and flattering garment.
+    - Question: What is the purpose of a mood board in fashion design?
+      TrueAnswer: Inspiration and visualization
+      FalseAnswer:
+      - Fabric sourcing
+      - Pattern drafting
+      - Garment construction
+      Explanation: Mood boards help designers gather inspiration and visualize the
+        overall aesthetic of a collection.
+    - Question: Which fashion designer is known for the iconic trench coat?
+      TrueAnswer: Burberry
+      FalseAnswer:
+      - Chanel
+      - Gucci
+      - Prada
+      Explanation: Burberry is famous for its timeless and iconic trench coat, a
+        classic outerwear piece.
+    - Question: What is the purpose of a fashion runway show?
+      TrueAnswer: Present new collections
+      FalseAnswer:
+      - Sell clothing directly
+      - Promote accessories
+      - Host fashion competitions
+      Explanation: Fashion runway shows are organized to present new collections
+        to buyers, press, and industry professionals.
+    - Question: Which fashion designer is known for the red carpet gowns?
+      TrueAnswer: Versace
+      FalseAnswer:
+      - Valentino
+      - Elie Saab
+      - Alexander McQueen
+      Explanation: Versace is renowned for its glamorous and show-stopping red carpet
+        gowns worn by celebrities.
+    - Question: What is the purpose of a fashion lookbook?
+      TrueAnswer: Showcase a collection
+      FalseAnswer:
+      - Provide fashion tips
+      - Display individual garments
+      - Advertise fashion events
+      Explanation: Fashion lookbooks are created to showcase an entire collection
+        and highlight the designer's vision.
+    - Question: Which fashion designer is known for the iconic Birkin bag?
+      TrueAnswer: "Herm\xE8s"
+      FalseAnswer:
+      - Louis Vuitton
+      - Chanel
+      - Gucci
+      Explanation: "Herm\xE8s is famous for its luxurious and highly coveted Birkin
+        bag, a symbol of status and craftsmanship."
+    - Question: What is the purpose of a fashion editorial?
+      TrueAnswer: Display fashion trends and concepts
+      FalseAnswer:
+      - Advertise specific brands
+      - Provide fashion advice
+      - Promote fashion events
+      Explanation: Fashion editorials are created to showcase fashion trends, concepts,
+        and artistic interpretations.
+    - Question: Which fashion designer is known for the iconic double-C logo?
+      TrueAnswer: Chanel
+      FalseAnswer:
+      - Gucci
+      - Louis Vuitton
+      - Prada
+      Explanation: Chanel is recognized for its iconic double-C logo, a symbol of
+        elegance and luxury.
+    - Question: What is the purpose of a fashion showroom?
+      TrueAnswer: Display and sell collections
+      FalseAnswer:
+      - Fashion workshops
+      - Fashion exhibitions
+      - Fashion trend analysis
+      Explanation: Fashion showrooms are spaces where designers display and sell
+        their collections to buyers and retailers.
+    - Question: Which fashion designer is known for the little blue box?
+      TrueAnswer: Tiffany & Co.
+      FalseAnswer:
+      - Cartier
+      - Harry Winston
+      - Bulgari
+      Explanation: Tiffany & Co. is famous for its little blue box, a symbol of luxury
+        and fine jewelry.
+    - Question: What is the purpose of a fashion trade show?
+      TrueAnswer: Connect designers and buyers
+      FalseAnswer:
+      - Fashion competitions
+      - Fashion trend forecasting
+      - Fashion brand collaborations
+      Explanation: Fashion trade shows provide a platform for designers to connect
+        with buyers and showcase their collections.
+    - Question: Which fashion designer is known for the iconic red sole shoes?
+      TrueAnswer: Christian Louboutin
+      FalseAnswer:
+      - Jimmy Choo
+      - Manolo Blahnik
+      - Gucci
+      Explanation: Christian Louboutin is famous for his signature red-soled shoes,
+        a symbol of luxury and style.
+    - Question: What is the purpose of a fashion magazine?
+      TrueAnswer: Provide fashion inspiration and information
+      FalseAnswer:
+      - Sell clothing directly
+      - Promote specific brands
+      - Host fashion events
+      Explanation: Fashion magazines serve as a source of fashion inspiration and
+        provide information on trends, designers, and industry news.
+    - Question: Which fashion designer is known for the iconic monogram print?
+      TrueAnswer: Louis Vuitton
+      FalseAnswer:
+      - Gucci
+      - Chanel
+      - Prada
+      Explanation: Louis Vuitton is recognized for its iconic monogram print, a symbol
+        of luxury and craftsmanship.
+    - Question: What is the purpose of a fashion stylist?
+      TrueAnswer: Create cohesive looks
+      FalseAnswer:
+      - Design clothing patterns
+      - Manage fashion events
+      - Conduct fashion market research
+      Explanation: Fashion stylists are responsible for creating cohesive looks by
+        selecting clothing, accessories, and creating outfits.
+    - Question: Which fashion designer is known for the iconic red and green stripe?
+      TrueAnswer: Gucci
+      FalseAnswer:
+      - Versace
+      - Dolce & Gabbana
+      - Balenciaga
+      Explanation: Gucci is famous for its iconic red and green stripe, a recognizable
+        symbol of the brand.

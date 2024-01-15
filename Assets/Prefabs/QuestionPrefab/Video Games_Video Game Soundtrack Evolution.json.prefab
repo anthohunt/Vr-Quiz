@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1269590925808776789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4768875878811816675}
+  - component: {fileID: 4362871714436466671}
+  m_Layer: 0
+  m_Name: Video Games_Video Game Soundtrack Evolution.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4768875878811816675
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269590925808776789}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4362871714436466671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1269590925808776789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which game is known for its iconic 'Tetris Theme'?
+      TrueAnswer: Tetris
+      FalseAnswer:
+      - Super Mario Bros.
+      - The Legend of Zelda
+      - Minecraft
+      Explanation: Tetris is a puzzle game released in 1984 and is famous for its
+        catchy 'Tetris Theme' music.
+    - Question: Which game features the song 'Still Alive'?
+      TrueAnswer: Portal
+      FalseAnswer:
+      - World of Warcraft
+      - Grand Theft Auto V
+      - Call of Duty
+      Explanation: The song 'Still Alive' is the ending theme of the puzzle-platform
+        game Portal, released in 2007.
+    - Question: Which game introduced the concept of dynamic music?
+      TrueAnswer: Super Mario 64
+      FalseAnswer:
+      - Pac-Man
+      - Street Fighter II
+      - Final Fantasy VII
+      Explanation: Super Mario 64, released in 1996, was one of the first games to
+        have dynamic music that changed based on player actions.
+    - Question: Which game's soundtrack was composed by Nobuo Uematsu?
+      TrueAnswer: Final Fantasy VII
+      FalseAnswer:
+      - Minecraft
+      - The Sims
+      - Assassin's Creed
+      Explanation: Nobuo Uematsu composed the soundtrack for Final Fantasy VII, a
+        role-playing game released in 1997.
+    - Question: Which game's soundtrack features the song 'One-Winged Angel'?
+      TrueAnswer: Final Fantasy VII
+      FalseAnswer:
+      - 'The Legend of Zelda: Ocarina of Time'
+      - Super Mario 64
+      - Minecraft
+      Explanation: The song 'One-Winged Angel' is a memorable track from the Final
+        Fantasy VII soundtrack.
+    - Question: Which game's soundtrack was composed by Koji Kondo?
+      TrueAnswer: Super Mario Bros.
+      FalseAnswer:
+      - Grand Theft Auto V
+      - 'The Elder Scrolls V: Skyrim'
+      - Minecraft
+      Explanation: Koji Kondo composed the iconic soundtrack for Super Mario Bros.,
+        released in 1985.
+    - Question: Which game's soundtrack features the song 'Gerudo Valley'?
+      TrueAnswer: 'The Legend of Zelda: Ocarina of Time'
+      FalseAnswer:
+      - Minecraft
+      - Tetris
+      - Call of Duty
+      Explanation: 'The song ''Gerudo Valley'' is a popular track from The Legend
+        of Zelda: Ocarina of Time.'
+    - Question: Which game's soundtrack was composed by Jeremy Soule?
+      TrueAnswer: 'The Elder Scrolls V: Skyrim'
+      FalseAnswer:
+      - Super Mario Bros.
+      - Minecraft
+      - Grand Theft Auto V
+      Explanation: 'Jeremy Soule composed the epic soundtrack for The Elder Scrolls
+        V: Skyrim, an open-world RPG.'
+    - Question: Which game's soundtrack features the song 'Sweden'?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - Portal
+      - Final Fantasy VII
+      - Tetris
+      Explanation: The song 'Sweden' is a calming track from the Minecraft soundtrack,
+        composed by C418.
+    - Question: Which game's soundtrack was composed by Michael Hunter?
+      TrueAnswer: Grand Theft Auto V
+      FalseAnswer:
+      - Super Mario Bros.
+      - 'The Legend of Zelda: Ocarina of Time'
+      - Minecraft
+      Explanation: Michael Hunter composed the soundtrack for Grand Theft Auto V,
+        an action-adventure game.
+    - Question: Which game's soundtrack features the song 'Dragonborn'?
+      TrueAnswer: 'The Elder Scrolls V: Skyrim'
+      FalseAnswer:
+      - Super Mario Bros.
+      - Minecraft
+      - Final Fantasy VII
+      Explanation: 'The song ''Dragonborn'' is the main theme of The Elder Scrolls
+        V: Skyrim.'
+    - Question: Which game's soundtrack was composed by C418?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - Portal
+      - Tetris
+      - 'The Legend of Zelda: Ocarina of Time'
+      Explanation: C418 composed the ambient and atmospheric soundtrack for the sandbox
+        game Minecraft.
+    - Question: Which game's soundtrack features the song 'Aerith's Theme'?
+      TrueAnswer: Final Fantasy VII
+      FalseAnswer:
+      - Super Mario Bros.
+      - 'The Legend of Zelda: Ocarina of Time'
+      - Minecraft
+      Explanation: The song 'Aerith's Theme' is a beautiful and emotional track from
+        Final Fantasy VII.
+    - Question: Which game's soundtrack was composed by Kenta Nagata?
+      TrueAnswer: Mario Kart 64
+      FalseAnswer:
+      - Grand Theft Auto V
+      - 'The Elder Scrolls V: Skyrim'
+      - Minecraft
+      Explanation: Kenta Nagata composed the energetic and catchy soundtrack for
+        Mario Kart 64.
+    - Question: Which game's soundtrack features the song 'Lost Woods'?
+      TrueAnswer: 'The Legend of Zelda: Ocarina of Time'
+      FalseAnswer:
+      - Minecraft
+      - Tetris
+      - Portal
+      Explanation: 'The song ''Lost Woods'' is a memorable track from The Legend
+        of Zelda: Ocarina of Time.'
+    - Question: Which game's soundtrack was composed by Yasunori Mitsuda?
+      TrueAnswer: Chrono Trigger
+      FalseAnswer:
+      - Super Mario Bros.
+      - Minecraft
+      - 'The Elder Scrolls V: Skyrim'
+      Explanation: Yasunori Mitsuda composed the highly regarded soundtrack for the
+        role-playing game Chrono Trigger.
+    - Question: Which game's soundtrack features the song 'Main Theme'?
+      TrueAnswer: 'The Legend of Zelda: Breath of the Wild'
+      FalseAnswer:
+      - Minecraft
+      - Tetris
+      - Super Mario Bros.
+      Explanation: 'The song ''Main Theme'' is the epic and sweeping opening track
+        of The Legend of Zelda: Breath of the Wild.'
+    - Question: Which game's soundtrack was composed by Martin O'Donnell?
+      TrueAnswer: 'Halo: Combat Evolved'
+      FalseAnswer:
+      - Grand Theft Auto V
+      - 'The Elder Scrolls V: Skyrim'
+      - Minecraft
+      Explanation: 'Martin O''Donnell composed the iconic and atmospheric soundtrack
+        for Halo: Combat Evolved.'
+    - Question: Which game's soundtrack features the song 'Eyes on Me'?
+      TrueAnswer: Final Fantasy VIII
+      FalseAnswer:
+      - Super Mario Bros.
+      - 'The Legend of Zelda: Ocarina of Time'
+      - Minecraft
+      Explanation: The song 'Eyes on Me' is a popular and emotional track from Final
+        Fantasy VIII.
+    - Question: Which game's soundtrack was composed by Yoko Shimomura?
+      TrueAnswer: Kingdom Hearts
+      FalseAnswer:
+      - Minecraft
+      - Tetris
+      - 'The Legend of Zelda: Ocarina of Time'
+      Explanation: Yoko Shimomura composed the enchanting and melodic soundtrack
+        for the action role-playing game Kingdom Hearts.

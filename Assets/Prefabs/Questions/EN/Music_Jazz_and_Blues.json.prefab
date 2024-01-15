@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &963515368519775997
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6593339112111401311}
+  - component: {fileID: 4106331792626594110}
+  m_Layer: 0
+  m_Name: Music_Jazz_and_Blues.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6593339112111401311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963515368519775997}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4106331792626594110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963515368519775997}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the 'King of Jazz'?
+      TrueAnswer: Louis Armstrong
+      FalseAnswer:
+      - Duke Ellington
+      - Charlie Parker
+      - Miles Davis
+      Explanation: Louis Armstrong, also known as Satchmo, was a pioneering jazz
+        musician, renowned for his trumpet playing and distinctive gravelly voice.
+    - Question: Which jazz musician is associated with the Blue Note label?
+      TrueAnswer: Thelonious Monk
+      FalseAnswer:
+      - John Coltrane
+      - Miles Davis
+      - Chet Baker
+      Explanation: Thelonious Monk was a pianist and composer closely associated
+        with the Blue Note Records during his influential career in jazz music.
+    - Question: What is the birthplace of blues music?
+      TrueAnswer: Mississippi
+      FalseAnswer:
+      - New Orleans
+      - Chicago
+      - New York
+      Explanation: Mississippi is widely regarded as the birthplace of blues music,
+        with its rich history of Delta blues and influential blues artists.
+    - Question: Who is known as the 'Father of the Delta Blues'?
+      TrueAnswer: Robert Johnson
+      FalseAnswer:
+      - B.B. King
+      - Muddy Waters
+      - Howlin' Wolf
+      Explanation: Robert Johnson's influential recordings and innovative guitar
+        playing solidified his legacy as a key figure in the development of Delta
+        blues music.
+    - Question: Which city is often referred to as the 'Jazz Capital of the World'?
+      TrueAnswer: New Orleans
+      FalseAnswer:
+      - Chicago
+      - New York City
+      - Kansas City
+      Explanation: New Orleans has a rich musical heritage and is widely recognized
+        as the birthplace of jazz, making it the 'Jazz Capital of the World.'
+    - Question: Who is known for pioneering the bebop style of jazz?
+      TrueAnswer: Charlie Parker
+      FalseAnswer:
+      - Dizzy Gillespie
+      - Thelonious Monk
+      - Benny Goodman
+      Explanation: Charlie Parker, also known as 'Bird,' was a highly influential
+        saxophonist and composer who played a pivotal role in the development of
+        bebop jazz.
+    - Question: What is the blues? A joyful or sorrowful musical genre?
+      TrueAnswer: Sorrowful
+      FalseAnswer:
+      - Joyful
+      - Energetic
+      - Upbeat
+      Explanation: Blues music is characterized by its expressive and sorrowful themes,
+        often reflecting the hardships and emotions of the performers and their communities.
+    - Question: Who is known as the 'Empress of the Blues'?
+      TrueAnswer: Bessie Smith
+      FalseAnswer:
+      - Ma Rainey
+      - Etta James
+      - Ella Fitzgerald
+      Explanation: Bessie Smith's powerful and emotive vocal style earned her the
+        title of the 'Empress of the Blues,' solidifying her legacy in blues music
+        history.
+    - Question: Which instrument is central to traditional jazz bands?
+      TrueAnswer: Trumpet
+      FalseAnswer:
+      - Saxophone
+      - Piano
+      - Bass
+      Explanation: The trumpet plays a pivotal role in traditional jazz ensembles,
+        often leading the brass section and contributing to the energetic sound of
+        the genre.
+    - Question: Who is often regarded as the 'First Lady of Song'?
+      TrueAnswer: Ella Fitzgerald
+      FalseAnswer:
+      - Billie Holiday
+      - Sarah Vaughan
+      - Nina Simone
+      Explanation: Ella Fitzgerald's virtuosic and versatile vocal abilities earned
+        her the title of the 'First Lady of Song,' becoming a jazz icon.
+    - Question: What is the 'Great Migration' in relation to blues and jazz?
+      TrueAnswer: Movement of African Americans from the South to urban areas
+      FalseAnswer:
+      - Formation of blues music
+      - Spread of jazz to Europe
+      - Birth of major jazz festivals
+      Explanation: The Great Migration facilitated the diffusion of blues and jazz
+        from the rural South to urban centers, significantly impacting the development
+        and popularization of these musical genres.
+    - Question: What distinctive feature characterizes the call-and-response style
+        in blues music?
+      TrueAnswer: Repetition and interaction between vocal phrases
+      FalseAnswer:
+      - Solo instrumental improvisation
+      - Polyrhythmic drum patterns
+      - Harmonized vocal melodies
+      Explanation: Call-and-response is a fundamental element of blues music, involving
+        the repetition and interplay of vocal phrases between a lead singer and a
+        responding group or instrument.
+    - Question: Which blues musician is known for his bottleneck slide guitar technique?
+      TrueAnswer: Robert Johnson
+      FalseAnswer:
+      - B.B. King
+      - Muddy Waters
+      - John Lee Hooker
+      Explanation: Robert Johnson's mastery of the bottleneck slide guitar technique
+        contributed to his distinct sound and enduring influence on blues and rock
+        music.
+    - Question: In jazz, what term describes spontaneous musical creation or improvisation?
+      TrueAnswer: Jamming
+      FalseAnswer:
+      - Arrangement
+      - Composition
+      - Harmonization
+      Explanation: Jamming, or improvisation, is a cornerstone of jazz music, allowing
+        musicians to spontaneously create and interact within the framework of a
+        musical piece.
+    - Question: Which artist is renowned for blending jazz and soul music styles?
+      TrueAnswer: Nina Simone
+      FalseAnswer:
+      - Ella Fitzgerald
+      - Dinah Washington
+      - Sarah Vaughan
+      Explanation: Nina Simone's distinctive fusion of jazz and soul music, coupled
+        with her powerful and emotive performances, solidified her legacy in both
+        genres.
+    - Question: What is unique about the 'blue note' in jazz music?
+      TrueAnswer: It incorporates dissonant or bent pitches
+      FalseAnswer:
+      - It indicates a slow tempo
+      - It refers to a solo instrumental section
+      - It signifies the end of a musical piece
+      Explanation: The 'blue note' in jazz music features dissonant or bent pitches,
+        adding an expressive and emotive quality to melodies, characteristic of the
+        blues influence in jazz.
+    - Question: What music genre strongly influenced the evolution of jazz?
+      TrueAnswer: Ragtime
+      FalseAnswer:
+      - Classical
+      - Reggae
+      - Folk
+      Explanation: Ragtime music, with its syncopated rhythms and lively piano melodies,
+        played a significant role in shaping the early development of jazz music
+        in America.
+    - Question: Who is known for experimenting with electric instruments and jazz
+        fusion?
+      TrueAnswer: Miles Davis
+      FalseAnswer:
+      - Louis Armstrong
+      - John Coltrane
+      - Dizzy Gillespie
+      Explanation: Miles Davis was a pioneering figure in jazz fusion, incorporating
+        electric instruments and elements of rock and funk into his innovative musical
+        compositions and performances.
+    - Question: What instrument is central to the sound of traditional Delta blues
+        music?
+      TrueAnswer: Guitar
+      FalseAnswer:
+      - Harmonica
+      - Piano
+      - Banjo
+      Explanation: The guitar, particularly the acoustic and bottleneck slide guitar,
+        plays a central role in defining the distinctive sound and emotive expression
+        of traditional Delta blues music.
+    - Question: Which jazz musician led the fusion of African and Latin musical elements?
+      TrueAnswer: Dizzy Gillespie
+      FalseAnswer:
+      - Charlie Parker
+      - Thelonious Monk
+      - John Coltrane
+      Explanation: Dizzy Gillespie was a key figure in popularizing Afro-Cuban jazz,
+        fusing African and Latin musical influences to create an innovative and vibrant
+        style within the jazz genre.

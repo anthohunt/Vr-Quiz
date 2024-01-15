@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Qui a été la première princesse Disney?",
+            "TrueAnswer": "Blanche-Neige",
+            "FalseAnswer": [
+              "Cendrillon",
+              "Ariel",
+              "Belle"
+            ],
+            "Explanation": "Blanche-Neige, du film de 1937 'Blanche-Neige et les Sept Nains', a été la première princesse Disney."
+          },
+          {
+            "Question": "Quel est le nom du marin qui aime les épinards?",
+            "TrueAnswer": "Popeye",
+            "FalseAnswer": [
+              "Brutus",
+              "Olive Oyl",
+              "Wimpy"
+            ],
+            "Explanation": "Popeye est un célèbre personnage de dessin animé connu pour sa force acquise en mangeant des épinards."
+          },
+          {
+            "Question": "Quelle figure historique les personnages de dessins animés Pinky et le Cerveau essaient-ils de conquérir le monde?",
+            "TrueAnswer": "Napoléon",
+            "FalseAnswer": [
+              "Jules César",
+              "Cléopâtre",
+              "Gengis Khan"
+            ],
+            "Explanation": "Les personnages de dessins animés Pinky et le Cerveau tentent de conquérir le monde à la manière de Napoléon Bonaparte."
+          },
+          {
+            "Question": "Quel est le nom du célèbre lapin qui apparaît dans 'Quel opéra, docteur?'?",
+            "TrueAnswer": "Bugs Bunny",
+            "FalseAnswer": [
+              "Daffy Duck",
+              "Elmer Fudd",
+              "Sylvester"
+            ],
+            "Explanation": "Bugs Bunny est un personnage de dessin animé bien connu qui apparaît souvent aux côtés d'Elmer Fudd dans Looney Tunes."
+          },
+          {
+            "Question": "Quel personnage de dessin animé est célèbre pour dire \"J'ai cru voir un gros minet!\"?",
+            "TrueAnswer": "Titi",
+            "FalseAnswer": [
+              "Sylvester",
+              "Daffy Duck",
+              "Porky Pig"
+            ],
+            "Explanation": "Titi, souvent poursuivi par le chat Sylvestre, est connu pour cette phrase accrocheuse."
+          },
+          {
+            "Question": "Dans 'Les Pierrafeu', quel est le nom du dinosaure de compagnie des Pierrafeu?",
+            "TrueAnswer": "Dino",
+            "FalseAnswer": [
+              "Rex",
+              "Barney",
+              "Spike"
+            ],
+            "Explanation": "Dino est le dinosaure de compagnie des Pierrafeu qui agit comme un chien et attire souvent Fred dans des ennuis."
+          },
+          {
+            "Question": "Quel dessin animé mettait en vedette un groupe d'adolescents résolvant des crimes avec leur chien parlant?",
+            "TrueAnswer": "Scooby-Doo",
+            "FalseAnswer": [
+              "Les Schtroumpfs",
+              "Les Tortues Ninja",
+              "Les Jetson"
+            ],
+            "Explanation": "Scooby-Doo et la bande Mystère voyagent dans la Mystery Machine et résolvent des mystères avec des déguisements ingénieux et des pièges."
+          },
+          {
+            "Question": "Dans quelle ville SpongeBob SquarePants habite-t-il?",
+            "TrueAnswer": "Fond-de-Bikini",
+            "FalseAnswer": [
+              "Atoll de Bikini",
+              "Épongebourg",
+              "Le Crabe Croustillant"
+            ],
+            "Explanation": "SpongeBob SquarePants vit dans la ville sous-marine de Fond-de-Bikini, connue pour ses personnages colorés et ses aventures."
+          },
+          {
+            "Question": "Quels sont les noms des deux souris dans le dessin animé 'Pinky et le Cerveau'?",
+            "TrueAnswer": "Pinky et Cerveau",
+            "FalseAnswer": [
+              "Tom et Jerry",
+              "Itchy et Scratchy",
+              "Tic et Tac"
+            ],
+            "Explanation": "'Pinky et Cerveau' met en scène deux souris de laboratoire, l'une très intelligente et l'autre peu futée, qui cherchent à conquérir le monde."
+          },
+          {
+            "Question": "Quelle est la phrase fétiche du personnage de dessin animé Homer Simpson?",
+            "TrueAnswer": "D'oh!",
+            "FalseAnswer": [
+              "Ay caramba!",
+              "Mmm...donuts",
+              "Cowabunga!"
+            ],
+            "Explanation": "La phrase fétiche d'Homer Simpson, 'D'oh!', est souvent prononcée lorsqu'il commet une erreur ou éprouve de la frustration."
+          },
+          {
+            "Question": "Quel est le nom de la famille futuriste dans 'Les Jetson'?",
+            "TrueAnswer": "Les Jetson",
+            "FalseAnswer": [
+              "Les Pierrafeu",
+              "Les Indestructibles",
+              "Les Robots"
+            ],
+            "Explanation": "'Les Jetson' est une série de dessins animés futuriste mettant en scène la famille Jetson, vivant à Orbit City en 2062."
+          },
+          {
+            "Question": "Dans 'Pokémon', quel est le nom du premier Pokémon d'Ash Ketchum?",
+            "TrueAnswer": "Pikachu",
+            "FalseAnswer": [
+              "Salamèche",
+              "Carapuce",
+              "Bulbizarre"
+            ],
+            "Explanation": "Pikachu, un Pokémon de type Électrik, est le premier et le plus fidèle partenaire Pokémon d'Ash Ketchum."
+          },
+          {
+            "Question": "Quel personnage de dessin animé réside dans un ananas sous la mer?",
+            "TrueAnswer": "Bob l'Éponge",
+            "FalseAnswer": [
+              "Patrick Étoile",
+              "Carlo Tentacule",
+              "M. Krabs"
+            ],
+            "Explanation": "Bob l'Éponge, une éponge de mer éternellement optimiste, vit dans un ananas sous la mer à Fond-de-Bikini."
+          },
+          {
+            "Question": "Qui est connu pour chercher la cité perdue de l'or dans le dessin animé 'La Bande à Picsou'?",
+            "TrueAnswer": "Oncle Picsou",
+            "FalseAnswer": [
+              "Zig, Flag",
+              "Houy, Dewey",
+              "Louie Duck"
+            ],
+            "Explanation": "Oncle Picsou, le canard riche et aventureux, conduit ses neveux dans des aventures à la recherche de la cité perdue de l'or."
+          },
+          {
+            "Question": "Quel personnage de dessin animé crie toujours 'Je viens te rejoindre, Élisabeth!'?",
+            "TrueAnswer": "Fred Sanford",
+            "FalseAnswer": [
+              "Bugs Bunny",
+              "Popeye",
+              "Bob l'Éponge"
+            ],
+            "Explanation": "Fred Sanford, du dessin animé 'Sanford and Son', crie souvent cette phrase de manière comique en réponse au stress ou à la surprise."
+          },
+          {
+            "Question": "Qui est l'ennemi juré des Super Nanas?",
+            "TrueAnswer": "Mojo Jojo",
+            "FalseAnswer": [
+              "Him",
+              "Loulou",
+              "Princesse Morbucks"
+            ],
+            "Explanation": "Mojo Jojo est un chimpanzé très intelligent et maléfique, servant d'ennemi juré des Super Nanas dans la série animée."
+          },
+          {
+            "Question": "Dans 'Les Simpsons', comment s'appelle le commerce de Ned Flanders?",
+            "TrueAnswer": "La Boutique du gaucher",
+            "FalseAnswer": [
+              "Flanders' Furniture",
+              "Ameublements du voisin",
+              "Flanders' Fix-Its"
+            ],
+            "Explanation": "Le magasin de Ned Flanders, La Boutique du gaucher, vend des produits pour gauchers et devient une partie indéfectible de la légende des 'Simpson'."
+          },
+          {
+            "Question": "Quel est le nom du groupe de bébés dans 'Les Razmoket'?",
+            "TrueAnswer": "Les Razmoket",
+            "FalseAnswer": [
+              "Les Bébés Muppets",
+              "Les Schtroumpflings",
+              "Les Oursons Bébés"
+            ],
+            "Explanation": "'Les Razmoket' suit les aventures d'un groupe de bébés, Tommy, Chuckie et d'autres, alors qu'ils explorent le monde qui les entoure."
+          },
+          {
+            "Question": "Quelle série de dessins animés raconte les aventures d'un chien voyageant dans le temps et de son compagnon humain?",
+            "TrueAnswer": "M. Peabody et Sherman",
+            "FalseAnswer": [
+              "Dora l'exploratrice",
+              "Les Clues de Blue",
+              "Le Bus magique"
+            ],
+            "Explanation": "M. Peabody, un chien génial, et Sherman, son fils adopté, utilisent leur machine à remonter le temps pour vivre des aventures historiques."
+          },
+          {
+            "Question": "Dans 'Rocky et Bullwinkle', comment s'appellent les espions incompétents poursuivant l'orignal et l'écureuil?",
+            "TrueAnswer": "Boris et Natasha",
+            "FalseAnswer": [
+              "Spyder et Morgana",
+              "Rollo et Marge",
+              "Fritz et Hilda"
+            ],
+            "Explanation": "Boris Badenov et Natasha Fatale sont les espions comiquement incompétents représentés dans 'The Rocky and Bullwinkle Show'."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7544948237506948911
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8257928747546091816}
+  - component: {fileID: 5286888411614688300}
+  m_Layer: 0
+  m_Name: TV_Shows_Streaming_Originals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8257928747546091816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7544948237506948911}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5286888411614688300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7544948237506948911}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which streaming service is known for 'Stranger Things'?
+      TrueAnswer: Netflix
+      FalseAnswer:
+      - Hulu
+      - Amazon Prime Video
+      - Disney+
+      Explanation: '''Stranger Things'' is a popular science fiction horror series
+        exclusively available on Netflix since its release in 2016.'
+    - Question: What is the alias of the lead character in 'The Mandalorian'?
+      TrueAnswer: Mando
+      FalseAnswer:
+      - Solo
+      - Skywalker
+      - Kenobi
+      Explanation: The lead character in 'The Mandalorian' is known as Din Djarin,
+        but is commonly referred to as Mando.
+    - Question: Where is 'The Crown' set during its first season?
+      TrueAnswer: United Kingdom
+      FalseAnswer:
+      - France
+      - Russia
+      - Italy
+      Explanation: The first season of 'The Crown' primarily focuses on Queen Elizabeth
+        II's early reign in the United Kingdom.
+    - Question: What is the title of the first episode of 'Black Mirror'?
+      TrueAnswer: The National Anthem
+      FalseAnswer:
+      - Nosedive
+      - San Junipero
+      - Shut Up and Dance
+      Explanation: '''The National Anthem'' is the first episode of ''Black Mirror,''
+        featuring a dystopian twist on contemporary society.'
+    - Question: Which Emmy-winning show centers around the fictional Roy family?
+      TrueAnswer: Succession
+      FalseAnswer:
+      - The Crown
+      - The Mandalorian
+      - Stranger Things
+      Explanation: '''Succession'' is a darkly satirical drama following the power
+        struggles of the wealthy Roy family and their media empire.'
+    - Question: Which actress plays the lead role in 'The Marvelous Mrs. Maisel'?
+      TrueAnswer: Rachel Brosnahan
+      FalseAnswer:
+      - Alex Borstein
+      - Marin Hinkle
+      - Amy Sherman-Palladino
+      Explanation: Rachel Brosnahan portrays Miriam 'Midge' Maisel, a housewife turned
+        stand-up comedian in the acclaimed series set in the 1950s and 1960s.
+    - Question: In 'The Witcher,' who does Henry Cavill portray?
+      TrueAnswer: Geralt of Rivia
+      FalseAnswer:
+      - Triss Merigold
+      - Yennefer of Vengerberg
+      - Ciri
+      Explanation: Henry Cavill stars as the monster hunter and protagonist Geralt
+        of Rivia, based on the book series by Andrzej Sapkowski.
+    - Question: Which actor plays the character 'Eleven' in 'Stranger Things'?
+      TrueAnswer: Millie Bobby Brown
+      FalseAnswer:
+      - Finn Wolfhard
+      - David Harbour
+      - Winona Ryder
+      Explanation: Millie Bobby Brown brings the enigmatic and powerful character
+        'Eleven' to life in the hit series 'Stranger Things.'
+    - Question: What is the name of the AI in 'Westworld'?
+      TrueAnswer: Dolores
+      FalseAnswer:
+      - Arnold
+      - Maeve
+      - Bernard
+      Explanation: Dolores, portrayed by Evan Rachel Wood, is both a central character
+        and an AI within the complex and thought-provoking narrative of 'Westworld.'
+    - Question: Which streaming service premiered 'The Boys'?
+      TrueAnswer: Amazon Prime Video
+      FalseAnswer:
+      - HBO Max
+      - Apple TV+
+      - Peacock
+      Explanation: '''The Boys'' is a dark and irreverent take on superhero culture,
+        available exclusively on Amazon Prime Video.'
+    - Question: In 'Ozark,' what illegal activity does the Byrde family become involved
+        in?
+      TrueAnswer: Money laundering
+      FalseAnswer:
+      - Drug trafficking
+      - Arms dealing
+      - Human smuggling
+      Explanation: The Byrde family navigates the dangerous world of money laundering
+        as they relocate to the Ozarks to escape a dire predicament.
+    - Question: Which character becomes the 'Kingpin' in 'Daredevil'?
+      TrueAnswer: Wilson Fisk
+      FalseAnswer:
+      - Matt Murdock
+      - Foggy Nelson
+      - Karen Page
+      Explanation: Wilson Fisk, portrayed by Vincent D'Onofrio, transforms into the
+        formidable criminal mastermind known as the 'Kingpin' in 'Daredevil.'
+    - Question: What is the title of the app used for dating in 'Black Mirror'?
+      TrueAnswer: Coach
+      FalseAnswer:
+      - Pair
+      - Match
+      - SoulMate
+      Explanation: In the episode 'Hang the DJ,' the dating app is named 'Coach,'
+        which guides individuals through a series of relationships to find their
+        ultimate match.
+    - Question: Which character is the primary focus of the series 'Fleabag'?
+      TrueAnswer: Fleabag
+      FalseAnswer:
+      - Claire
+      - Martin
+      - Godmother
+      Explanation: The series revolves around the complex and darkly humorous experiences
+        of the titular character, played by Phoebe Waller-Bridge.
+    - Question: In 'The Umbrella Academy,' who is Number Five?
+      TrueAnswer: Aidan Gallagher
+      FalseAnswer:
+      - Ellen Page
+      - Tom Hopper
+      - "David Casta\xF1eda"
+      Explanation: Aidan Gallagher portrays Number Five, a member of the dysfunctional
+        superhero family with the ability to travel through time.
+    - Question: Which actor portrays 'Pablo Escobar' in 'Narcos'?
+      TrueAnswer: Wagner Moura
+      FalseAnswer:
+      - Pedro Pascal
+      - Diego Luna
+      - "Javier Pe\xF1a"
+      Explanation: Wagner Moura delivers a captivating performance as the notorious
+        Colombian drug lord Pablo Escobar in the gripping crime drama series 'Narcos.'
+    - Question: What is the main premise of 'The Haunting of Hill House'?
+      TrueAnswer: Supernatural occurrences
+      FalseAnswer:
+      - Alien invasion
+      - Zombie outbreak
+      - Natural disaster
+      Explanation: The series delves into the psychological effects of supernatural
+        events and haunting experiences on the fractured Crain family.
+    - Question: Which individual leads the team in 'The Expanse'?
+      TrueAnswer: James Holden
+      FalseAnswer:
+      - Naomi Nagata
+      - Alex Kamal
+      - Amos Burton
+      Explanation: As a key protagonist, James Holden assumes leadership as the captain
+        of the Rocinante in the expansive and immersive narrative of 'The Expanse.'
+    - Question: What is the main focus of 'Mindhunter'?
+      TrueAnswer: Criminal psychology
+      FalseAnswer:
+      - Space exploration
+      - Medical mysteries
+      - Time travel
+      Explanation: The series delves into the early days of criminal psychology and
+        criminal profiling in the FBI, focusing on the Behavioral Science Unit.
+    - Question: Where does the dystopian society of 'The Handmaid's Tale' take place?
+      TrueAnswer: Gilead
+      FalseAnswer:
+      - Panem
+      - Westeros
+      - Narnia
+      Explanation: The oppressive society depicted in 'The Handmaid's Tale' is situated
+        in the totalitarian regime of Gilead, a theonomic military dictatorship.

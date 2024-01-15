@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5525140605824985977
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8246665353593359436}
+  - component: {fileID: 7137290064556491588}
+  m_Layer: 0
+  m_Name: Cartoons_Cartoon_Revivals.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8246665353593359436
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5525140605824985977}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7137290064556491588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5525140605824985977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which Hanna-Barbera classic cartoon returned for a 2015 Adult Swim
+        series?
+      TrueAnswer: The Jetsons
+      FalseAnswer:
+      - Scooby-Doo
+      - The Flintstones
+      - Yogi Bear
+      Explanation: 'The Jetsons, a space-age family first aired in 1962, made a comeback
+        with a futuristic twist on Adult Swim as ''The Jetsons & WWE: Robo-WrestleMania!'''
+    - Question: What was the popular Japanese anime series that got a 2019 remake
+        titled 'Sailor Moon Crystal'?
+      TrueAnswer: Sailor Moon
+      FalseAnswer:
+      - Dragon Ball
+      - Naruto
+      - One Piece
+      Explanation: Sailor Moon, a beloved magical girl anime, was reimagined as 'Sailor
+        Moon Crystal' in 2014, staying true to the original manga's storyline.
+    - Question: Which animated TV show was revived in 2017 with a new series titled
+        'DuckTales'?
+      TrueAnswer: DuckTales
+      FalseAnswer:
+      - Darkwing Duck
+      - 'Chip ''n Dale: Rescue Rangers'
+      - TaleSpin
+      Explanation: The original 'DuckTales' aired from 1987 to 1990, and its reboot
+        in 2017 brought back the adventurous tales of Scrooge McDuck and his nephews.
+    - Question: What animated series returned in 2016 with 'The Powerpuff Girls'
+        reboot on Cartoon Network?
+      TrueAnswer: The Powerpuff Girls
+      FalseAnswer:
+      - Dexter's Laboratory
+      - Johnny Bravo
+      - Courage the Cowardly Dog
+      Explanation: The Powerpuff Girls' 2016 reboot brought back Blossom, Bubbles,
+        and Buttercup to fight crime and navigate girlhood in Townsville.
+    - Question: 'Which classic cartoon series was revived in 2019 as ''Rocko''s Modern
+        Life: Static Cling'' on Netflix?'
+      TrueAnswer: Rocko's Modern Life
+      FalseAnswer:
+      - Ren & Stimpy
+      - Aaahh!!! Real Monsters
+      - CatDog
+      Explanation: The '90s hit 'Rocko's Modern Life' returned with a one-hour special
+        on Netflix, catching up with Rocko, Heffer, and Filburt in the 21st century.

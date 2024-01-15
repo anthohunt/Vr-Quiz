@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5363900475016449441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3246996788230655582}
+  - component: {fileID: 7841652074343446461}
+  m_Layer: 0
+  m_Name: Pop_Culture_Gaming_Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3246996788230655582
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5363900475016449441}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7841652074343446461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5363900475016449441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What was the first commercially successful video game?
+      TrueAnswer: Pong
+      FalseAnswer:
+      - Space Invaders
+      - Pac-Man
+      - Tetris
+      Explanation: Pong, released in 1972, was the first commercially successful
+        arcade video game, setting the stage for the industry.
+    - Question: Who created the game Minecraft?
+      TrueAnswer: Markus Persson
+      FalseAnswer:
+      - Hideo Kojima
+      - Shigeru Miyamoto
+      - Tim Schafer
+      Explanation: Markus Persson, also known as Notch, created Minecraft and released
+        it in 2011, gaining widespread popularity.
+    - Question: What year was the first PlayStation console released?
+      TrueAnswer: 1994
+      FalseAnswer:
+      - 1998
+      - 2000
+      - 1995
+      Explanation: The original PlayStation was released in 1994, revolutionizing
+        console gaming and introducing iconic titles.
+    - Question: Which iconic video game character made his debut in 'The Legend of
+        Zelda'?
+      TrueAnswer: Link
+      FalseAnswer:
+      - Mario
+      - Sonic the Hedgehog
+      - Donkey Kong
+      Explanation: Link made his first appearance in 'The Legend of Zelda' in 1986,
+        establishing himself as a legendary protagonist in gaming history.
+    - Question: What is the best-selling video game of all time?
+      TrueAnswer: Minecraft
+      FalseAnswer:
+      - Tetris
+      - Grand Theft Auto V
+      - Wii Sports
+      Explanation: Minecraft holds the title of the best-selling video game of all
+        time, with over 200 million copies sold across all platforms.
+    - Question: Which platform is known for the game series 'Halo'?
+      TrueAnswer: Xbox
+      FalseAnswer:
+      - PlayStation
+      - Nintendo Switch
+      - PC
+      Explanation: The 'Halo' series is a flagship title for Xbox, developed by Bungie
+        and later 343 Industries.
+    - Question: Who is the creator of 'The Witcher' game series?
+      TrueAnswer: CD Projekt
+      FalseAnswer:
+      - Blizzard Entertainment
+      - Valve Corporation
+      - Ubisoft
+      Explanation: '''The Witcher'' game series was developed by CD Projekt, based
+        on the fantasy novels by Andrzej Sapkowski.'
+    - Question: Which video game introduced the concept of first-person shooting?
+      TrueAnswer: Wolfenstein 3D
+      FalseAnswer:
+      - Doom
+      - Quake
+      - Half-Life
+      Explanation: '''Wolfenstein 3D'' pioneered the first-person shooting genre
+        in 1992, influencing the future of video game design.'
+    - Question: What is the highest-grossing media title, surpassing films and music?
+      TrueAnswer: Grand Theft Auto V
+      FalseAnswer:
+      - 'Avengers: Endgame'
+      - Thriller by Michael Jackson
+      - Harry Potter and the Deathly Hallows
+      Explanation: '''Grand Theft Auto V'' exceeded both film and music industries,
+        achieving over $6 billion in revenue as of 2021.'
+    - Question: Which video game series features a protagonist named 'Solid Snake'?
+      TrueAnswer: Metal Gear Solid
+      FalseAnswer:
+      - Resident Evil
+      - Final Fantasy
+      - Assassin's Creed
+      Explanation: The 'Metal Gear Solid' series follows the adventures of protagonist
+        'Solid Snake' as he navigates complex espionage missions.
+    - Question: What was the first successful arcade game to feature scrolling levels?
+      TrueAnswer: Defender
+      FalseAnswer:
+      - Galaga
+      - Donkey Kong
+      - Space Invaders
+      Explanation: Released in 1981, 'Defender' was one of the first successful arcade
+        games to feature horizontal scrolling levels, influencing future titles.
+    - Question: Which company developed the game 'Overwatch'?
+      TrueAnswer: Blizzard Entertainment
+      FalseAnswer:
+      - Ubisoft
+      - Electronic Arts
+      - Rebellion Developments
+      Explanation: '''Overwatch'' was developed by Blizzard Entertainment and released
+        in 2016, introducing a popular team-based first-person shooter.'
+    - Question: In 'The Sims' series, who is the creator of the simulated characters?
+      TrueAnswer: Will Wright
+      FalseAnswer:
+      - Peter Molyneux
+      - Sid Meier
+      - John Romero
+      Explanation: Will Wright is the creator of 'The Sims' series, allowing players
+        to simulate and control virtual characters in various life situations.
+    - Question: Which genre of video games does 'Street Fighter' belong to?
+      TrueAnswer: Fighting
+      FalseAnswer:
+      - Role-Playing
+      - Adventure
+      - Simulation
+      Explanation: '''Street Fighter'' is a classic fighting game series known for
+        its competitive gameplay and memorable characters.'
+    - Question: What is the best-selling gaming console of all time?
+      TrueAnswer: PlayStation 2
+      FalseAnswer:
+      - Nintendo Switch
+      - Xbox 360
+      - Wii
+      Explanation: The PlayStation 2 holds the title of the best-selling gaming console,
+        with over 155 million units sold worldwide.
+    - Question: Which game introduced the concept of a 'boss fight' against a powerful
+        enemy?
+      TrueAnswer: Space Invaders
+      FalseAnswer:
+      - Pac-Man
+      - Asteroids
+      - Pong
+      Explanation: '''Space Invaders'' popularized the concept of a boss fight, featuring
+        a powerful enemy spaceship at the end of each level.'
+    - Question: What is the primary objective of the game 'League of Legends'?
+      TrueAnswer: Destroy the enemy Nexus
+      FalseAnswer:
+      - Collect coins
+      - Solve puzzles
+      - Survive the longest
+      Explanation: In 'League of Legends', players aim to destroy the enemy team's
+        Nexus while defending their own, requiring strategic teamwork and skill.
+    - Question: Which game introduced the concept of an open-world environment for
+        players to explore?
+      TrueAnswer: The Legend of Zelda
+      FalseAnswer:
+      - Super Mario Bros.
+      - Sonic the Hedgehog
+      - Pac-Man
+      Explanation: '''The Legend of Zelda'', released in 1986, pioneered the open-world
+        concept, allowing players to explore a vast, interconnected environment.'
+    - Question: Who is the creator of the gaming series 'Final Fantasy'?
+      TrueAnswer: Hironobu Sakaguchi
+      FalseAnswer:
+      - Yuji Naka
+      - Shigeru Miyamoto
+      - Hideo Kojima
+      Explanation: Hironobu Sakaguchi created the 'Final Fantasy' series, a renowned
+        RPG franchise known for its elaborate storytelling and immersive worlds.
+    - Question: Which iconic video game character is known for breaking blocks with
+        their head?
+      TrueAnswer: Steve (Minecraft)
+      FalseAnswer:
+      - Donkey Kong
+      - Link (Zelda)
+      - Sonic the Hedgehog
+      Explanation: In 'Minecraft', the player character Steve is known for breaking
+        blocks with various tools, including their head, to gather resources.

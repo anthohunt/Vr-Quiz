@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but du logiciel SIG?",
+            "TrueAnswer": "L'analyse spatiale",
+            "FalseAnswer": [
+              "Conception graphique",
+              "Traitement audio",
+              "Édition de texte"
+            ],
+            "Explanation": "Le logiciel SIG est conçu pour capturer, stocker, manipuler, analyser, gérer et présenter tous types de données géographiques. Il permet l'analyse spatiale pour diverses applications."
+          },
+          {
+            "Question": "Lequel des éléments suivants est un système de navigation par satellite?",
+            "TrueAnswer": "GPS",
+            "FalseAnswer": [
+              "RADAR",
+              "Sonar",
+              "LIDAR"
+            ],
+            "Explanation": "Le système de positionnement global (GPS) est un système de navigation par satellite qui fournit des informations de localisation et de temps dans toutes les conditions météorologiques, n'importe où sur ou près de la Terre."
+          },
+          {
+            "Question": "Quelle est la fonction principale de la technologie LiDAR?",
+            "TrueAnswer": "Cartographie 3D",
+            "FalseAnswer": [
+              "Enregistrement audio",
+              "Prévision météorologique",
+              "Réseautage social"
+            ],
+            "Explanation": "La technologie LiDAR (Light Detection and Ranging) est utilisée pour générer des cartes et des modèles 3D précis et précis de la surface de la Terre, du terrain et des environnements urbains."
+          },
+          {
+            "Question": "Quelle technologie est utilisée pour créer des cartes topographiques?",
+            "TrueAnswer": "Télédétection",
+            "FalseAnswer": [
+              "Réalité augmentée",
+              "Blockchain",
+              "Biométrie"
+            ],
+            "Explanation": "La technologie de télédétection, telle que la photographie aérienne et les images satellites, est essentielle pour capturer des données utilisées dans la création de cartes topographiques."
+          },
+          {
+            "Question": "Quelle technique est utilisée dans les systèmes d'information géographique (SIG) pour la visualisation des données?",
+            "TrueAnswer": "L'interpolation spatiale",
+            "FalseAnswer": [
+              "Agrégation temporelle",
+              "Régression statistique",
+              "Analyse de sentiments"
+            ],
+            "Explanation": "L'interpolation spatiale est la méthode utilisée dans les SIG pour prédire les valeurs à des emplacements non échantillonnés en fonction des mesures provenant d'emplacements échantillonnés, facilitant la visualisation et l'analyse des données."
+          }
+        ]
+      }
+    }
+  ]
+}

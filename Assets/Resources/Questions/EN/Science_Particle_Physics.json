@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Which scientist proposed the famous equation E=mc^2?",
+            "TrueAnswer": "Albert Einstein",
+            "FalseAnswer": [
+              "Isaac Newton",
+              "Stephen Hawking",
+              "Marie Curie"
+            ],
+            "Explanation": "Albert Einstein, in his theory of special relativity, derived the formula to relate mass and energy."
+          },
+          {
+            "Question": "What is the smallest fundamental particle in the Standard Model of particle physics?",
+            "TrueAnswer": "Quark",
+            "FalseAnswer": [
+              "Neutrino",
+              "Electron",
+              "Photon"
+            ],
+            "Explanation": "Quarks are the building blocks of protons and neutrons, and are affected by the strong nuclear force."
+          },
+          {
+            "Question": "What is the name of the particle associated with the Higgs field?",
+            "TrueAnswer": "Higgs Boson",
+            "FalseAnswer": [
+              "Fermion",
+              "Gluon",
+              "Z Boson"
+            ],
+            "Explanation": "The Higgs Boson is the particle responsible for giving other particles mass through the Higgs mechanism."
+          },
+          {
+            "Question": "What experiment confirmed the existence of the neutrino's mass?",
+            "TrueAnswer": "Solar Neutrino Experiment",
+            "FalseAnswer": [
+              "Double-slit Experiment",
+              "Large Hadron Collider",
+              "Millikan Oil Drop Experiment"
+            ],
+            "Explanation": "The Solar Neutrino Experiment in the 1960s observed a deficit of expected neutrinos from the sun, suggesting neutrinos change flavor and have mass."
+          },
+          {
+            "Question": "What is the theoretical force-carrying particle for the weak nuclear force?",
+            "TrueAnswer": "W and Z Bosons",
+            "FalseAnswer": [
+              "Gluon",
+              "Graviton",
+              "Photon"
+            ],
+            "Explanation": "The W and Z Bosons are responsible for mediating the weak nuclear force interactions between particles."
+          },
+          {
+            "Question": "Which subatomic particle was discovered in 2012 at the Large Hadron Collider?",
+            "TrueAnswer": "Higgs Boson",
+            "FalseAnswer": [
+              "Top Quark",
+              "Graviton",
+              "Muon"
+            ],
+            "Explanation": "The discovery of the Higgs Boson confirmed the mechanism through which particles acquire mass in the Standard Model."
+          },
+          {
+            "Question": "What are the quarks that make up a proton?",
+            "TrueAnswer": "Two up quarks and one down quark",
+            "FalseAnswer": [
+              "Two down quarks and one up quark",
+              "Three up quarks",
+              "Three down quarks"
+            ],
+            "Explanation": "Protons are composed of two up quarks and one down quark, while neutrons are composed of two down quarks and one up quark."
+          },
+          {
+            "Question": "What type of decay does a neutron undergo in beta decay?",
+            "TrueAnswer": "Conversion to a proton, electron, and antineutrino",
+            "FalseAnswer": [
+              "Conversion to a proton and electron",
+              "Emission of an electron",
+              "Emission of a positron"
+            ],
+            "Explanation": "Neutrons decay via the weak nuclear force, converting into a proton, electron, and antineutrino to conserve charge and lepton number."
+          },
+          {
+            "Question": "What is the name of the concept that explains the behavior of particles at quantum scales?",
+            "TrueAnswer": "Quantum Field Theory",
+            "FalseAnswer": [
+              "String Theory",
+              "General Relativity",
+              "Quantum Mechanics"
+            ],
+            "Explanation": "Quantum Field Theory describes the dynamics of particle interactions and is fundamental to the understanding of the Standard Model."
+          },
+          {
+            "Question": "Which force acts between quarks within a hadron?",
+            "TrueAnswer": "Strong Nuclear Force",
+            "FalseAnswer": [
+              "Electromagnetic Force",
+              "Weak Nuclear Force",
+              "Gravitational Force"
+            ],
+            "Explanation": "The strong nuclear force is responsible for binding quarks together to form hadrons, overcoming the repulsive electromagnetic force at small distances."
+          },
+          {
+            "Question": "What property of particles is described by isospin symmetry?",
+            "TrueAnswer": "Strangeness",
+            "FalseAnswer": [
+              "Electric Charge",
+              "Spin",
+              "Color Charge"
+            ],
+            "Explanation": "Isospin symmetry is a concept in the Standard Model that describes the similarity between particles with different strangeness but similar interactions."
+          },
+          {
+            "Question": "What is the predicted carrier particle for the force of gravity?",
+            "TrueAnswer": "Graviton",
+            "FalseAnswer": [
+              "Photon",
+              "W Boson",
+              "Z Boson"
+            ],
+            "Explanation": "In the framework of quantum field theory, the graviton is theorized to mediate the force of gravity at the quantum level."
+          },
+          {
+            "Question": "What is the sum of the electric charges of the three families of quarks in the Standard Model?",
+            "TrueAnswer": "Zero",
+            "FalseAnswer": [
+              "+1",
+              "-1",
+              "Fractional values"
+            ],
+            "Explanation": "The three families of quarks balance out to have a total electric charge of zero, contributing to the overall charge neutrality of matter."
+          },
+          {
+            "Question": "What determines the handedness of the weak force interactions involving fermions?",
+            "TrueAnswer": "Chirality",
+            "FalseAnswer": [
+              "Spin",
+              "Color Charge",
+              "Flavor"
+            ],
+            "Explanation": "Chirality, or handedness, differentiates between left- and right-handed fermions in weak force interactions, as described by the Weinberg-Salam theory."
+          },
+          {
+            "Question": "What fundamental force is associated with the exchange of virtual gluons?",
+            "TrueAnswer": "Strong Nuclear Force",
+            "FalseAnswer": [
+              "Electromagnetic Force",
+              "Weak Nuclear Force",
+              "Gravitational Force"
+            ],
+            "Explanation": "The exchange of gluons mediates the strong nuclear force interactions between quarks and gluons themselves within hadrons."
+          },
+          {
+            "Question": "What is the name of the quantum field responsible for electromagnetic interactions?",
+            "TrueAnswer": "Photon Field",
+            "FalseAnswer": [
+              "Gluon Field",
+              "Higgs Field",
+              "W and Z Boson Fields"
+            ],
+            "Explanation": "The photon field describes the exchange of virtual photons that convey the electromagnetic force between charged particles."
+          },
+          {
+            "Question": "Which interaction is responsible for beta decay in atomic nuclei?",
+            "TrueAnswer": "Weak Nuclear Force",
+            "FalseAnswer": [
+              "Strong Nuclear Force",
+              "Electromagnetic Force",
+              "Gravitational Force"
+            ],
+            "Explanation": "The weak nuclear force governs beta decay involving the conversion of a neutron to a proton inside atomic nuclei."
+          },
+          {
+            "Question": "What conservation law is associated with the lack of decay channels for protons?",
+            "TrueAnswer": "Baryon Number Conservation",
+            "FalseAnswer": [
+              "Lepton Number Conservation",
+              "Electric Charge Conservation",
+              "Energy Conservation"
+            ],
+            "Explanation": "Baryon number conservation is linked to the stability of protons, preventing their decay into lighter particles due to the absence of corresponding antiparticles."
+          },
+          {
+            "Question": "In high-energy particle collisions, what quantity is conserved along with energy and momentum?",
+            "TrueAnswer": "Transverse Momentum",
+            "FalseAnswer": [
+              "Electron Charge",
+              "Spin",
+              "Color Charge"
+            ],
+            "Explanation": "Transverse momentum conservation is crucial in evaluating the outcomes of high-energy collisions, providing insights into the properties of particles and their interactions."
+          },
+          {
+            "Question": "What is the symmetry principle associated with the conservation of electric charge?",
+            "TrueAnswer": "U(1) Symmetry",
+            "FalseAnswer": [
+              "SU(2) Symmetry",
+              "SU(3) Symmetry",
+              "Poincaré Symmetry"
+            ],
+            "Explanation": "U(1) symmetry is fundamental to quantum field theory and underpins the conservation of electric charge in particle interactions, as described by the electromagnetic force."
+          }
+        ]
+      }
+    }
+  ]
+}

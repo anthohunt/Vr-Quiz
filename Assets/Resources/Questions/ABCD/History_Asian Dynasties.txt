@@ -1,0 +1,128 @@
+{
+    "Asian Dynasties": [
+        {
+            "Questions": [
+                {
+                    "Question": "Which dynasty built the Great Wall of China?",
+                    "TrueAnswer": "Qin",
+                    "FalseAnswer": ["Han", "Ming", "Tang"],
+                    "Explanation": "The Qin dynasty, ruled by Emperor Qin Shi Huang, built the Great Wall of China for defense purposes."
+                },
+                {
+                    "Question": "Who was the first emperor of the Maurya dynasty in ancient India?",
+                    "TrueAnswer": "Chandragupta Maurya",
+                    "FalseAnswer": ["Ashoka the Great", "Harsha", "Samudragupta"],
+                    "Explanation": "Chandragupta Maurya founded the Maurya dynasty and established the first centralized empire in ancient India."
+                },
+                {
+                    "Question": "Which dynasty was responsible for the construction of Angkor Wat in Cambodia?",
+                    "TrueAnswer": "Khmer",
+                    "FalseAnswer": ["Chola", "Pallava", "Srivijaya"],
+                    "Explanation": "The Khmer dynasty, specifically King Suryavarman II, built the magnificent temple complex of Angkor Wat."
+                },
+                {
+                    "Question": "Who was the first emperor of the Ming dynasty in China?",
+                    "TrueAnswer": "Zhu Yuanzhang",
+                    "FalseAnswer": ["Kublai Khan", "Emperor Taizong", "Emperor Kangxi"],
+                    "Explanation": "Zhu Yuanzhang, also known as Emperor Hongwu, founded the Ming dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled Japan during the Heian period?",
+                    "TrueAnswer": "Heian",
+                    "FalseAnswer": ["Yamato", "Tokugawa", "Meiji"],
+                    "Explanation": "The Heian dynasty, also known as the Fujiwara dynasty, ruled Japan during the Heian period from 794 to 1185."
+                },
+                {
+                    "Question": "Who was the founder of the Gupta dynasty in ancient India?",
+                    "TrueAnswer": "Chandragupta I",
+                    "FalseAnswer": ["Ashoka the Great", "Harsha", "Samudragupta"],
+                    "Explanation": "Chandragupta I established the Gupta dynasty, which is often referred to as the Golden Age of India."
+                },
+                {
+                    "Question": "Which dynasty was responsible for the construction of the Taj Mahal in India?",
+                    "TrueAnswer": "Mughal",
+                    "FalseAnswer": ["Gupta", "Maurya", "Vijayanagara"],
+                    "Explanation": "The Mughal dynasty, under Emperor Shah Jahan, built the iconic Taj Mahal as a mausoleum for his wife."
+                },
+                {
+                    "Question": "Who was the first emperor of the Tang dynasty in China?",
+                    "TrueAnswer": "Emperor Gaozu",
+                    "FalseAnswer": ["Emperor Taizong", "Emperor Wu", "Emperor Xuanzong"],
+                    "Explanation": "Emperor Gaozu, also known as Li Yuan, founded the Tang dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled Korea during the Joseon period?",
+                    "TrueAnswer": "Joseon",
+                    "FalseAnswer": ["Goryeo", "Baekje", "Silla"],
+                    "Explanation": "The Joseon dynasty, also spelled Choson, ruled Korea from 1392 to 1897, establishing Confucianism as the state ideology."
+                },
+                {
+                    "Question": "Who was the first emperor of the Song dynasty in China?",
+                    "TrueAnswer": "Emperor Taizu",
+                    "FalseAnswer": ["Emperor Gaozu", "Emperor Wu", "Emperor Xuanzong"],
+                    "Explanation": "Emperor Taizu, also known as Zhao Kuangyin, founded the Song dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled Vietnam during the Tran dynasty?",
+                    "TrueAnswer": "Tran",
+                    "FalseAnswer": ["Nguyen", "Ly", "Le"],
+                    "Explanation": "The Tran dynasty ruled Vietnam from 1225 to 1400, successfully defending against Mongol invasions."
+                },
+                {
+                    "Question": "Who was the first emperor of the Yuan dynasty in China?",
+                    "TrueAnswer": "Kublai Khan",
+                    "FalseAnswer": ["Emperor Gaozu", "Emperor Taizong", "Emperor Kangxi"],
+                    "Explanation": "Kublai Khan, the grandson of Genghis Khan, established the Yuan dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled India during the Gupta Empire?",
+                    "TrueAnswer": "Gupta",
+                    "FalseAnswer": ["Maurya", "Mughal", "Vijayanagara"],
+                    "Explanation": "The Gupta dynasty, under rulers like Chandragupta I and Samudragupta, established the Gupta Empire in India."
+                },
+                {
+                    "Question": "Who was the first emperor of the Ming dynasty in China?",
+                    "TrueAnswer": "Zhu Yuanzhang",
+                    "FalseAnswer": ["Kublai Khan", "Emperor Taizong", "Emperor Kangxi"],
+                    "Explanation": "Zhu Yuanzhang, also known as Emperor Hongwu, founded the Ming dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled Japan during the Kamakura period?",
+                    "TrueAnswer": "Kamakura",
+                    "FalseAnswer": ["Heian", "Yamato", "Meiji"],
+                    "Explanation": "The Kamakura dynasty, also known as the Minamoto dynasty, ruled Japan from 1185 to 1333."
+                },
+                {
+                    "Question": "Who was the first emperor of the Qing dynasty in China?",
+                    "TrueAnswer": "Emperor Taizu",
+                    "FalseAnswer": ["Emperor Gaozu", "Emperor Wu", "Emperor Xuanzong"],
+                    "Explanation": "Emperor Taizu, also known as Nurhaci, founded the Qing dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled Korea during the Goryeo period?",
+                    "TrueAnswer": "Goryeo",
+                    "FalseAnswer": ["Joseon", "Baekje", "Silla"],
+                    "Explanation": "The Goryeo dynasty, also spelled Koryo, ruled Korea from 918 to 1392, adopting Buddhism as the state religion."
+                },
+                {
+                    "Question": "Who was the first emperor of the Sui dynasty in China?",
+                    "TrueAnswer": "Emperor Wen",
+                    "FalseAnswer": ["Emperor Gaozu", "Emperor Wu", "Emperor Xuanzong"],
+                    "Explanation": "Emperor Wen, also known as Yang Jian, founded the Sui dynasty and became its first emperor."
+                },
+                {
+                    "Question": "Which dynasty ruled Vietnam during the Nguyen dynasty?",
+                    "TrueAnswer": "Nguyen",
+                    "FalseAnswer": ["Tran", "Ly", "Le"],
+                    "Explanation": "The Nguyen dynasty, ruling from 1802 to 1945, was the last imperial dynasty of Vietnam."
+                },
+                {
+                    "Question": "Who was the first emperor of the Chola dynasty in India?",
+                    "TrueAnswer": "Vijayalaya Chola",
+                    "FalseAnswer": ["Raja Raja Chola", "Rajendra Chola", "Parantaka Chola"],
+                    "Explanation": "Vijayalaya Chola established the Chola dynasty, which went on to become one of the longest-ruling dynasties in Indian history."
+                }
+            ]
+        }
+    ]
+}

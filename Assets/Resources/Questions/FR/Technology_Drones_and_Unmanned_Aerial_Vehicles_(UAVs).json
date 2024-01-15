@@ -1,0 +1,200 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "À quelle époque les premiers UAV ont-ils été développés ?",
+            "TrueAnswer": "Première Guerre mondiale",
+            "FalseAnswer": [
+              "Seconde Guerre mondiale",
+              "Guerre froide",
+              "Ère moderne"
+            ],
+            "Explanation": "Les premiers UAV ont été développés pendant la Première Guerre mondiale, principalement à des fins de reconnaissance militaire."
+          },
+          {
+            "Question": "Quel pays a mené la première frappe de l'histoire avec un UAV ?",
+            "TrueAnswer": "Israël",
+            "FalseAnswer": [
+              "États-Unis",
+              "Russie",
+              "Chine"
+            ],
+            "Explanation": "En 1982, Israël a mené la première frappe avec un UAV, en bombardant une cible au Liban à l'aide d'un UAV Scout modifié de l'IAI."
+          },
+          {
+            "Question": "Quelle est l'altitude maximale pour la plupart des drones de loisir ?",
+            "TrueAnswer": "400 pieds",
+            "FalseAnswer": [
+              "1 000 pieds",
+              "200 pieds",
+              "5 000 pieds"
+            ],
+            "Explanation": "Aux États-Unis, la FAA limite l'altitude de vol des drones de loisir à 400 pieds pour éviter les conflits d'espace aérien avec les aéronefs pilotés."
+          },
+          {
+            "Question": "Laquelle des utilisations suivantes n'est pas courante pour les drones ?",
+            "TrueAnswer": "Exploitation minière",
+            "FalseAnswer": [
+              "Agriculture",
+              "Réalisation de films",
+              "Recherche et sauvetage"
+            ],
+            "Explanation": "Alors que les drones sont utilisés dans diverses industries, l'exploitation minière implique généralement des engins lourds et des instruments de télédétection plutôt que des drones."
+          },
+          {
+            "Question": "Quelle est la portée maximale typique des modèles grand public de drones ?",
+            "TrueAnswer": "3 milles",
+            "FalseAnswer": [
+              "10 milles",
+              "1 mille",
+              "20 milles"
+            ],
+            "Explanation": "En général, les drones grand public ont une portée maximale d'environ 3 milles avant de perdre le signal ou d'entrer dans un espace aérien restreint."
+          },
+          {
+            "Question": "Quelle organisation réglemente couramment les opérations de drones aux États-Unis ?",
+            "TrueAnswer": "Federal Aviation Administration (FAA)",
+            "FalseAnswer": [
+              "National Aeronautics and Space Administration (NASA)",
+              "Environmental Protection Agency (EPA)",
+              "Department of Defense (DOD)"
+            ],
+            "Explanation": "La FAA est chargée de réglementer l'aviation civile et de superviser les opérations de drones pour garantir la sécurité et le respect des règles d'espace aérien."
+          },
+          {
+            "Question": "Quelle est la principale source d'énergie pour la plupart des UAV ?",
+            "TrueAnswer": "Batteries au lithium-ion",
+            "FalseAnswer": [
+              "Moteurs à essence",
+              "Panneaux solaires",
+              "Piles à combustible à hydrogène"
+            ],
+            "Explanation": "Les batteries au lithium-ion sont couramment utilisées dans les UAV en raison de leur densité énergétique, de leur légèreté et de leur caractère rechargeable pour un vol soutenu."
+          },
+          {
+            "Question": "Quel type d'UAV est conçu pour des missions de longue durée ?",
+            "TrueAnswer": "À voilure fixe",
+            "FalseAnswer": [
+              "Multirotor",
+              "Mono-rotor",
+              "Hybride"
+            ],
+            "Explanation": "Les UAV à voilure fixe ont une efficacité aérodynamique supérieure, ce qui leur permet de voler sur de plus longues distances et de supporter des missions prolongées par rapport aux drones à multirotors."
+          },
+          {
+            "Question": "Quel est le but de la fonction 'retour à la maison' des drones ?",
+            "TrueAnswer": "Atterrissage automatique",
+            "FalseAnswer": [
+              "Arrêt d'urgence",
+              "Maintien en vol stationnaire",
+              "Recalibrage GPS"
+            ],
+            "Explanation": "La fonction 'retour à la maison' guide le drone pour atterrir de manière autonome à son lieu de décollage, assurant un retour en toute sécurité en cas de perte de signal ou de batterie faible."
+          },
+          {
+            "Question": "Quel composant d'UAV aide à stabiliser le vol et la navigation ?",
+            "TrueAnswer": "Gyroscope",
+            "FalseAnswer": [
+              "Appareil photo",
+              "Hélice",
+              "Émetteur"
+            ],
+            "Explanation": "Les gyroscopes fournissent une stabilité d'orientation en détectant et corrigeant les écarts par rapport à la trajectoire de vol prévue du drone, aidant à une navigation plus fluide."
+          },
+          {
+            "Question": "Quel est le mécanisme typique de décollage et d'atterrissage pour les UAV à voilure fixe ?",
+            "TrueAnswer": "Piste",
+            "FalseAnswer": [
+              "Décollage et atterrissage vertical (VTOL)",
+              "Lancement par catapulte",
+              "Atterrissage en parachute"
+            ],
+            "Explanation": "Les UAV à voilure fixe nécessitent une piste pour le décollage et l'atterrissage en raison de leur conception aérodynamique et du besoin de vitesse avant pour générer de la portance."
+          },
+          {
+            "Question": "Quel est le principal système de détection d'obstacles sur la plupart des drones grand public ?",
+            "TrueAnswer": "Capteurs ultrasoniques",
+            "FalseAnswer": [
+              "Lidar",
+              "Caméras infrarouges",
+              "Radar"
+            ],
+            "Explanation": "Les capteurs ultrasoniques mesurent la distance en émettant et en recevant des ondes sonores, fournissant une détection d'obstacles à courte portée pour les drones grand public afin d'éviter les collisions."
+          },
+          {
+            "Question": "Quel facteur influence principalement l'endurance de vol d'un drone ?",
+            "TrueAnswer": "Capacité de la batterie",
+            "FalseAnswer": [
+              "Vitesse maximale",
+              "Taille des moteurs",
+              "Nombre d'hélices"
+            ],
+            "Explanation": "La capacité de la batterie affecte directement l'endurance de vol d'un drone, car elle détermine la quantité d'énergie disponible pour soutenir le vol et alimenter les systèmes embarqués."
+          },
+          {
+            "Question": "Quelle est la fonction principale d'une nacelle de drone ?",
+            "TrueAnswer": "Stabilisation de la caméra",
+            "FalseAnswer": [
+              "Ajustement de l'altitude",
+              "Surveillance de la batterie",
+              "Contrôle GPS"
+            ],
+            "Explanation": "Les nacelles stabilisent la caméra pour compenser les mouvements du drone, permettant une capture vidéo fluide et stable lors des opérations aériennes."
+          },
+          {
+            "Question": "Quel protocole de communication est couramment utilisé pour le contrôle des drones ?",
+            "TrueAnswer": "Radio-commande (RC)",
+            "FalseAnswer": [
+              "Bluetooth",
+              "Wi-Fi",
+              "Réseau cellulaire"
+            ],
+            "Explanation": "La radio-commande (RC) est le protocole le plus courant pour piloter manuellement les drones, fournissant une entrée de commande en temps réel pour le contrôle et les manœuvres de vol."
+          },
+          {
+            "Question": "Quel est le rôle typique des altimètres dans la navigation des drones ?",
+            "TrueAnswer": "Mesure de l'altitude",
+            "FalseAnswer": [
+              "Positionnement GPS",
+              "Surveillance météorologique",
+              "Détection d'obstacles"
+            ],
+            "Explanation": "Les altimètres mesurent précisément l'altitude du drone au-dessus du niveau de la mer, fournissant des données d'altitude essentielles pour la navigation, les systèmes de pilotage automatique et la sécurité des vols."
+          },
+          {
+            "Question": "Quelle charge utile est souvent transportée par les drones agricoles ?",
+            "TrueAnswer": "Équipement de pulvérisation de cultures",
+            "FalseAnswer": [
+              "Caméras d'imagerie thermique",
+              "Capteurs LiDAR",
+              "Dispositifs de relais de communication"
+            ],
+            "Explanation": "Les drones agricoles transportent généralement un équipement de pulvérisation de cultures pour appliquer efficacement des pesticides, des engrais ou des herbicides sur les terres agricoles avec précision et automatisation."
+          },
+          {
+            "Question": "Quel est l'objectif principal des opérations de drones au-delà de la portée visuelle (BVLOS) ?",
+            "TrueAnswer": "Portée étendue",
+            "FalseAnswer": [
+              "Navigation de nuit",
+              "Vol à basse altitude",
+              "Évitement d'obstacles"
+            ],
+            "Explanation": "Les opérations BVLOS visent à permettre aux drones de voler au-delà de la portée visuelle du pilote, étendant leur portée opérationnelle pour des applications telles que la livraison à longue distance ou la télédétection à distance."
+          },
+          {
+            "Question": "Quelle autorité de l'aviation délivre les licences de pilote de drone commerciales aux États-Unis ?",
+            "TrueAnswer": "Federal Aviation Administration (FAA)",
+            "FalseAnswer": [
+              "Transportation Security Administration (TSA)",
+              "National Transportation Safety Board (NTSB)",
+              "Civil Air Patrol (CAP)"
+            ],
+            "Explanation": "La FAA délivre des licences de pilote de drone commerciales, appelées certification Part 107, aux personnes qui réussissent l'examen de connaissances requis et remplissent les critères opérationnels."
+          }
+        ]
+      }
+    }
+  ]
+}

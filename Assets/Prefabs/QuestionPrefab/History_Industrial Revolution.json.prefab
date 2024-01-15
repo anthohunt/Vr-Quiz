@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8613265407899684608
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2962941321570286025}
+  - component: {fileID: 3892161960614467617}
+  m_Layer: 0
+  m_Name: History_Industrial Revolution.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2962941321570286025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8613265407899684608}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3892161960614467617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8613265407899684608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the father of the Industrial Revolution?
+      TrueAnswer: James Watt
+      FalseAnswer:
+      - Thomas Edison
+      - Henry Ford
+      - Alexander Graham Bell
+      Explanation: James Watt is credited with inventing the steam engine, a key
+        innovation of the Industrial Revolution.
+    - Question: In which country did the Industrial Revolution begin?
+      TrueAnswer: Great Britain
+      FalseAnswer:
+      - United States
+      - France
+      - Germany
+      Explanation: The Industrial Revolution started in Great Britain in the late
+        18th century.
+    - Question: What industry saw the first major advancements during the Industrial
+        Revolution?
+      TrueAnswer: Textile
+      FalseAnswer:
+      - Automotive
+      - Agriculture
+      - Mining
+      Explanation: The textile industry was the first to undergo significant mechanization
+        and modernization during the Industrial Revolution.
+    - Question: Which invention revolutionized transportation during the Industrial
+        Revolution?
+      TrueAnswer: Steam locomotive
+      FalseAnswer:
+      - Airplane
+      - Bicycle
+      - Automobile
+      Explanation: The steam locomotive transformed transportation by enabling faster
+        and more efficient movement of goods and people.
+    - Question: Who wrote the Communist Manifesto, which criticized the effects of
+        the Industrial Revolution?
+      TrueAnswer: Karl Marx
+      FalseAnswer:
+      - Adam Smith
+      - John Locke
+      - Thomas Malthus
+      Explanation: Karl Marx, along with Friedrich Engels, wrote the Communist Manifesto,
+        which addressed the social and economic consequences of industrialization.
+    - Question: What was the main source of power during the early stages of the
+        Industrial Revolution?
+      TrueAnswer: Water
+      FalseAnswer:
+      - Coal
+      - Wind
+      - Electricity
+      Explanation: Water power, particularly from rivers and streams, was commonly
+        used to drive early industrial machinery.
+    - Question: Which industry experienced significant growth due to the availability
+        of coal during the Industrial Revolution?
+      TrueAnswer: Iron and steel
+      FalseAnswer:
+      - Textile
+      - Chemical
+      - Printing
+      Explanation: The iron and steel industry expanded rapidly during the Industrial
+        Revolution, fueled by the abundant supply of coal for smelting and forging.
+    - Question: Who invented the spinning jenny, a key textile manufacturing machine?
+      TrueAnswer: James Hargreaves
+      FalseAnswer:
+      - Eli Whitney
+      - Samuel Slater
+      - Richard Arkwright
+      Explanation: James Hargreaves developed the spinning jenny, which allowed multiple
+        spindles of thread to be spun simultaneously.
+    - Question: What was the name of the first successful steam-powered ship?
+      TrueAnswer: SS Great Western
+      FalseAnswer:
+      - HMS Victory
+      - USS Constitution
+      - HMS Beagle
+      Explanation: The SS Great Western, designed by Isambard Kingdom Brunel, was
+        the first steamship to provide regular transatlantic service.
+    - Question: Which industry experienced a decline as a result of the Industrial
+        Revolution?
+      TrueAnswer: Cottage industry
+      FalseAnswer:
+      - Mining
+      - Agriculture
+      - Printing
+      Explanation: The cottage industry, which involved small-scale production in
+        people's homes, suffered as large-scale factories emerged during the Industrial
+        Revolution.
+    - Question: Who invented the cotton gin, a machine that revolutionized cotton
+        production?
+      TrueAnswer: Eli Whitney
+      FalseAnswer:
+      - Samuel Morse
+      - Alexander Graham Bell
+      - Thomas Edison
+      Explanation: Eli Whitney's invention of the cotton gin greatly increased the
+        efficiency of cotton processing, leading to a boom in cotton production.
+    - Question: What was the name of the first commercially successful steam-powered
+        locomotive?
+      TrueAnswer: The Rocket
+      FalseAnswer:
+      - The Flying Scotsman
+      - The Orient Express
+      - The Mallard
+      Explanation: The Rocket, designed by George Stephenson, won the Rainhill Trials
+        and became the standard for steam locomotives.
+    - Question: Which industry saw the rise of labor unions during the Industrial
+        Revolution?
+      TrueAnswer: Factory
+      FalseAnswer:
+      - Agriculture
+      - Mining
+      - Transportation
+      Explanation: The factory industry, with its harsh working conditions, led to
+        the formation of labor unions to advocate for workers' rights.
+    - Question: Who invented the telegraph, a revolutionary communication device?
+      TrueAnswer: Samuel Morse
+      FalseAnswer:
+      - Alexander Graham Bell
+      - Thomas Edison
+      - Nikola Tesla
+      Explanation: Samuel Morse developed the telegraph, which allowed for long-distance
+        communication through the use of electrical signals.
+    - Question: What was the name of the first successful commercially available
+        automobile?
+      TrueAnswer: Ford Model T
+      FalseAnswer:
+      - Chevrolet Corvette
+      - Volkswagen Beetle
+      - Toyota Corolla
+      Explanation: The Ford Model T, produced by Henry Ford, was the first affordable
+        and mass-produced automobile.
+    - Question: Which industry experienced significant growth due to the invention
+        of the power loom?
+      TrueAnswer: Textile
+      FalseAnswer:
+      - Steel
+      - Chemical
+      - Printing
+      Explanation: The textile industry expanded further with the invention of the
+        power loom, which automated the weaving process.
+    - Question: Who is credited with inventing the first practical steam engine?
+      TrueAnswer: Thomas Newcomen
+      FalseAnswer:
+      - James Watt
+      - George Stephenson
+      - Robert Fulton
+      Explanation: Thomas Newcomen developed the first practical steam engine, although
+        it was later improved upon by James Watt.
+    - Question: What was the name of the first successful transatlantic telegraph
+        cable?
+      TrueAnswer: The Atlantic Telegraph
+      FalseAnswer:
+      - The Pacific Telegraph
+      - The Transcontinental Telegraph
+      - The Submarine Telegraph
+      Explanation: The Atlantic Telegraph, laid in 1858, allowed for near-instantaneous
+        communication between Europe and North America.
+    - Question: Which industry saw the rise of child labor during the Industrial
+        Revolution?
+      TrueAnswer: Factory
+      FalseAnswer:
+      - Agriculture
+      - Mining
+      - Transportation
+      Explanation: The factory industry often employed children, who were subjected
+        to long hours and dangerous working conditions.
+    - Question: Who is considered the pioneer of assembly line production?
+      TrueAnswer: Henry Ford
+      FalseAnswer:
+      - Andrew Carnegie
+      - John D. Rockefeller
+      - J.P. Morgan
+      Explanation: Henry Ford revolutionized manufacturing with the implementation
+        of the assembly line, increasing efficiency and lowering costs.

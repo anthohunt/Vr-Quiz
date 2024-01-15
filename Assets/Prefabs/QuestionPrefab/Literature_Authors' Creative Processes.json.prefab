@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4859465652819944726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8031416429003610294}
+  - component: {fileID: 6673344092034176584}
+  m_Layer: 0
+  m_Name: Literature_Authors' Creative Processes.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8031416429003610294
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4859465652819944726}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6673344092034176584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4859465652819944726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who wrote the novel 'Pride and Prejudice'?
+      TrueAnswer: Jane Austen
+      FalseAnswer:
+      - "Emily Bront\xEB"
+      - Virginia Woolf
+      - "Charlotte Bront\xEB"
+      Explanation: Jane Austen is the author of the classic novel 'Pride and Prejudice',
+        published in 1813.
+    - Question: Which author wrote the play 'Romeo and Juliet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Oscar Wilde
+      - Tennessee Williams
+      - Arthur Miller
+      Explanation: William Shakespeare is the playwright behind the tragic love story
+        'Romeo and Juliet'.
+    - Question: Who is the author of the novel 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - John Steinbeck
+      - Ernest Hemingway
+      Explanation: Harper Lee wrote the Pulitzer Prize-winning novel 'To Kill a Mockingbird'
+        in 1960.
+    - Question: Which author wrote the epic poem 'Paradise Lost'?
+      TrueAnswer: John Milton
+      FalseAnswer:
+      - Geoffrey Chaucer
+      - William Wordsworth
+      - Alexander Pope
+      Explanation: John Milton is the poet who penned the epic masterpiece 'Paradise
+        Lost' in 1667.
+    - Question: Who is the author of the novel '1984'?
+      TrueAnswer: George Orwell
+      FalseAnswer:
+      - Aldous Huxley
+      - Ray Bradbury
+      - Kurt Vonnegut
+      Explanation: George Orwell wrote the dystopian novel '1984' in 1949, depicting
+        a totalitarian society.
+    - Question: Which author wrote the play 'Hamlet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Anton Chekhov
+      - Henrik Ibsen
+      - Samuel Beckett
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Hamlet',
+        written in the early 17th century.
+    - Question: Who is the author of the novel 'Moby-Dick'?
+      TrueAnswer: Herman Melville
+      FalseAnswer:
+      - Mark Twain
+      - Nathaniel Hawthorne
+      - Edgar Allan Poe
+      Explanation: Herman Melville wrote the iconic novel 'Moby-Dick' in 1851, exploring
+        themes of obsession and revenge.
+    - Question: Which author wrote the novel 'The Great Gatsby'?
+      TrueAnswer: F. Scott Fitzgerald
+      FalseAnswer:
+      - Ernest Hemingway
+      - John Steinbeck
+      - Toni Morrison
+      Explanation: F. Scott Fitzgerald is the author of the classic novel 'The Great
+        Gatsby', published in 1925.
+    - Question: Who is the author of the play 'Macbeth'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Arthur Miller
+      - Samuel Beckett
+      - Tennessee Williams
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Macbeth',
+        written in the early 17th century.
+    - Question: Which author wrote the novel 'Jane Eyre'?
+      TrueAnswer: "Charlotte Bront\xEB"
+      FalseAnswer:
+      - "Emily Bront\xEB"
+      - Virginia Woolf
+      - Louisa May Alcott
+      Explanation: "Charlotte Bront\xEB is the author of the classic novel 'Jane
+        Eyre', published in 1847."
+    - Question: Who is the author of the novel 'The Catcher in the Rye'?
+      TrueAnswer: J.D. Salinger
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - Ernest Hemingway
+      - Mark Twain
+      Explanation: J.D. Salinger wrote the influential novel 'The Catcher in the
+        Rye' in 1951.
+    - Question: Which author wrote the play 'A Streetcar Named Desire'?
+      TrueAnswer: Tennessee Williams
+      FalseAnswer:
+      - Arthur Miller
+      - Samuel Beckett
+      - Eugene O'Neill
+      Explanation: Tennessee Williams is the playwright behind the drama 'A Streetcar
+        Named Desire', written in 1947.
+    - Question: Who is the author of the novel 'Wuthering Heights'?
+      TrueAnswer: "Emily Bront\xEB"
+      FalseAnswer:
+      - "Charlotte Bront\xEB"
+      - Virginia Woolf
+      - Louisa May Alcott
+      Explanation: "Emily Bront\xEB wrote the gothic novel 'Wuthering Heights', published
+        in 1847."
+    - Question: Which author wrote the novel 'The Lord of the Rings'?
+      TrueAnswer: J.R.R. Tolkien
+      FalseAnswer:
+      - C.S. Lewis
+      - George R.R. Martin
+      - J.K. Rowling
+      Explanation: J.R.R. Tolkien is the author of the epic fantasy novel 'The Lord
+        of the Rings', published between 1954 and 1955.
+    - Question: Who is the author of the play 'Othello'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Anton Chekhov
+      - Henrik Ibsen
+      - Samuel Beckett
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Othello',
+        written in the early 17th century.
+    - Question: Which author wrote the novel 'Pride and Prejudice'?
+      TrueAnswer: Jane Austen
+      FalseAnswer:
+      - "Emily Bront\xEB"
+      - Virginia Woolf
+      - "Charlotte Bront\xEB"
+      Explanation: Jane Austen is the author of the classic novel 'Pride and Prejudice',
+        published in 1813.
+    - Question: Who is the author of the novel 'To Kill a Mockingbird'?
+      TrueAnswer: Harper Lee
+      FalseAnswer:
+      - F. Scott Fitzgerald
+      - John Steinbeck
+      - Ernest Hemingway
+      Explanation: Harper Lee wrote the Pulitzer Prize-winning novel 'To Kill a Mockingbird'
+        in 1960.
+    - Question: Which author wrote the epic poem 'Paradise Lost'?
+      TrueAnswer: John Milton
+      FalseAnswer:
+      - Geoffrey Chaucer
+      - William Wordsworth
+      - Alexander Pope
+      Explanation: John Milton is the poet who penned the epic masterpiece 'Paradise
+        Lost' in 1667.
+    - Question: Who is the author of the novel '1984'?
+      TrueAnswer: George Orwell
+      FalseAnswer:
+      - Aldous Huxley
+      - Ray Bradbury
+      - Kurt Vonnegut
+      Explanation: George Orwell wrote the dystopian novel '1984' in 1949, depicting
+        a totalitarian society.
+    - Question: Which author wrote the play 'Hamlet'?
+      TrueAnswer: William Shakespeare
+      FalseAnswer:
+      - Anton Chekhov
+      - Henrik Ibsen
+      - Samuel Beckett
+      Explanation: William Shakespeare is the playwright behind the tragedy 'Hamlet',
+        written in the early 17th century.

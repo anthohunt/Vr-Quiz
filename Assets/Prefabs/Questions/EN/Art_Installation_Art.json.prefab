@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &449174089760636530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8200036159383593323}
+  - component: {fileID: 2396732330284487535}
+  m_Layer: 0
+  m_Name: Art_Installation_Art.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8200036159383593323
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 449174089760636530}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2396732330284487535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 449174089760636530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who coined the term 'installation art'?
+      TrueAnswer: Allan Kaprow
+      FalseAnswer:
+      - Marcel Duchamp
+      - Joseph Beuys
+      - Yoko Ono
+      Explanation: Allan Kaprow, an American artist, coined the term 'installation
+        art' in the late 1950s to describe his environmental constructions.
+    - Question: Where was the first large-scale exhibition of installation art held?
+      TrueAnswer: Germany
+      FalseAnswer:
+      - United States
+      - France
+      - Italy
+      Explanation: The first large-scale exhibition of installation art was held
+        in Germany, known for its influential avant-garde art movements.
+    - Question: What material did Yayoi Kusama famously use in her installation art?
+      TrueAnswer: Mirrors
+      FalseAnswer:
+      - Ceramics
+      - Wood
+      - Fabric
+      Explanation: Yayoi Kusama is known for her use of mirrors to create immersive
+        infinity rooms in her installation art pieces.
+    - Question: Who created the iconic 'The Dinner Party' installation?
+      TrueAnswer: Judy Chicago
+      FalseAnswer:
+      - Louise Bourgeois
+      - "Marina Abramovi\u0107"
+      - Yoko Ono
+      Explanation: Judy Chicago created 'The Dinner Party', a seminal installation
+        that celebrates women's history and achievements.
+    - Question: What is the purpose of site-specific installation art?
+      TrueAnswer: Interact with a particular location
+      FalseAnswer:
+      - Exist independently
+      - Travel between galleries
+      - Convey political messages
+      Explanation: The purpose of site-specific installation art is to interact with
+        a specific location, integrating its physical and architectural elements
+        into the artwork.
+    - Question: Who is known for using found objects in their installation art?
+      TrueAnswer: Marcel Duchamp
+      FalseAnswer:
+      - Yoko Ono
+      - Hans Haacke
+      - Chris Burden
+      Explanation: Marcel Duchamp was a pioneer of using found objects in installation
+        art, challenging traditional notions of art and the art object.
+    - Question: In which decade did installation art gain prominence as a distinct
+        art form?
+      TrueAnswer: 1960s
+      FalseAnswer:
+      - 1950s
+      - 1970s
+      - 1980s
+      Explanation: The 1960s marked the emergence of installation art as a distinct
+        art form, particularly with the rise of artists like Allan Kaprow.
+    - Question: What is the term for immersive environment in installation art?
+      TrueAnswer: Installation
+      FalseAnswer:
+      - Exhibition
+      - Environment
+      - Display
+      Explanation: The term for an immersive environment in installation art is simply
+        called an 'installation', emphasizing its immersive and spatial nature.
+    - Question: Who created the 'Sunflower Seeds' installation at Tate Modern?
+      TrueAnswer: Ai Weiwei
+      FalseAnswer:
+      - Anish Kapoor
+      - Damien Hirst
+      - Yoko Ono
+      Explanation: The 'Sunflower Seeds' installation at Tate Modern was created
+        by Chinese artist and activist Ai Weiwei, consisting of millions of handmade
+        porcelain sunflower seeds.
+    - Question: What is the main characteristic of ephemeral installation art?
+      TrueAnswer: Temporary
+      FalseAnswer:
+      - Permanent
+      - Interactive
+      - Political
+      Explanation: Ephemeral installation art is characterized by its temporary nature,
+        often designed to exist only for a specific duration before being dismantled
+        or destroyed.
+    - Question: Who is known for using light and space in their installation art?
+      TrueAnswer: James Turrell
+      FalseAnswer:
+      - Barbara Kruger
+      - Kara Walker
+      - Cindy Sherman
+      Explanation: James Turrell is renowned for using light and space as the primary
+        mediums in his immersive and perception-altering installation artworks.
+    - Question: What is the role of the viewer in participatory installation art?
+      TrueAnswer: Co-creator
+      FalseAnswer:
+      - Observer
+      - Critic
+      - Collector
+      Explanation: In participatory installation art, the viewer is invited to become
+        a co-creator, actively contributing to the evolving nature of the artwork.
+    - Question: Which artist is known for large-scale outdoor installation artworks?
+      TrueAnswer: Christo and Jeanne-Claude
+      FalseAnswer:
+      - Yayoi Kusama
+      - Olafur Eliasson
+      - Meg Webster
+      Explanation: Christo and Jeanne-Claude are renowned for their monumental, site-specific
+        outdoor installation artworks, often involving wrapping or altering landscape
+        features.
+    - Question: What is the key characteristic of installation art compared to traditional
+        sculpture?
+      TrueAnswer: Spatial relationship
+      FalseAnswer:
+      - Material used
+      - Artistic style
+      - Historical context
+      Explanation: The spatial relationship and interaction with the surrounding
+        environment are central to installation art, contrasting with the static
+        nature of traditional sculpture.
+    - Question: Which movement heavily influenced the development of installation
+        art?
+      TrueAnswer: Conceptual art
+      FalseAnswer:
+      - Minimalism
+      - Pop art
+      - Abstract expressionism
+      Explanation: Conceptual art heavily influenced the development of installation
+        art, emphasizing ideas and concepts over the physical art object.
+    - Question: What is the term for an artwork composed of multiple elements in
+        a unified installation?
+      TrueAnswer: Assemblage
+      FalseAnswer:
+      - Collage
+      - Mosaic
+      - Sculpture
+      Explanation: An assemblage refers to an artwork created from multiple elements
+        or found objects assembled together within an installation setting.
+    - Question: Which artist is known for using interactive technology in their installation
+        art?
+      TrueAnswer: Rafael Lozano-Hemmer
+      FalseAnswer:
+      - Kara Walker
+      - Banksy
+      - Cai Guo-Qiang
+      Explanation: Rafael Lozano-Hemmer is known for integrating interactive technologies,
+        such as robotics and surveillance systems, into his immersive installation
+        artworks.
+    - Question: What is the primary focus of process-based installation art?
+      TrueAnswer: Creative process
+      FalseAnswer:
+      - Final product
+      - Audience reaction
+      - Historical context
+      Explanation: Process-based installation art emphasizes the creative process
+        and the act of making, often blurring the distinction between the artist's
+        studio and the exhibition space.
+    - Question: Who is known for 'Boneyard' and 'House of Dust' installation artworks?
+      TrueAnswer: Allan Kaprow
+      FalseAnswer:
+      - Nam June Paik
+      - Dan Flavin
+      - Cindy Sherman
+      Explanation: Allan Kaprow created the groundbreaking 'Boneyard' and 'House
+        of Dust' installation artworks, showcasing the transformative potential of
+        ordinary materials.
+    - Question: What is the purpose of kinetic installation art?
+      TrueAnswer: Movement and energy
+      FalseAnswer:
+      - Stillness and calm
+      - Visual harmony
+      - Narrative storytelling
+      Explanation: Kinetic installation art aims to capture movement and energy,
+        often incorporating mechanical or motorized elements to create dynamic and
+        ever-changing visual experiences.

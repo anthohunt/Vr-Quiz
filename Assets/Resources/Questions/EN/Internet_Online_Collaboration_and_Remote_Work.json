@@ -1,0 +1,110 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is the most popular video conferencing software for remote work?",
+            "TrueAnswer": "Zoom",
+            "FalseAnswer": [
+              "Skype",
+              "Microsoft Teams",
+              "Google Meet"
+            ],
+            "Explanation": "Zoom gained immense popularity in 2020 for its user-friendly interface, high-quality video, and large participant capacity."
+          },
+          {
+            "Question": "What is a common online platform for collaborative document editing?",
+            "TrueAnswer": "Google Docs",
+            "FalseAnswer": [
+              "Microsoft Word",
+              "Dropbox Paper",
+              "Evernote"
+            ],
+            "Explanation": "Google Docs allows real-time editing and commenting, making it ideal for remote collaboration on documents and reports."
+          },
+          {
+            "Question": "Which tool is best for asynchronous communication in remote teams?",
+            "TrueAnswer": "Slack",
+            "FalseAnswer": [
+              "Microsoft Teams",
+              "Trello",
+              "Zoom"
+            ],
+            "Explanation": "Slack is designed for team-communication and collaboration, offering channels, direct messages, and integrations for seamless remote interactions."
+          },
+          {
+            "Question": "What is a key benefit of using Trello for remote project management?",
+            "TrueAnswer": "Visual organization",
+            "FalseAnswer": [
+              "Advanced analytics",
+              "Real-time notifications",
+              "Integrated video conferencing"
+            ],
+            "Explanation": "Trello's visual boards and card system provide a clear, intuitive way to manage tasks and projects remotely."
+          },
+          {
+            "Question": "Which platform is known for hosting virtual water cooler conversations in remote teams?",
+            "TrueAnswer": "Remo",
+            "FalseAnswer": [
+              "Zoom",
+              "Slack",
+              "Microsoft Teams"
+            ],
+            "Explanation": "Remo simulates office space, allowing remote employees to move between virtual 'tables' for casual conversations and networking."
+          },
+          {
+            "Question": "What is the recommended platform for conducting remote code reviews and collaboration?",
+            "TrueAnswer": "GitHub",
+            "FalseAnswer": [
+              "Bitbucket",
+              "GitLab",
+              "SourceForge"
+            ],
+            "Explanation": "GitHub offers a seamless code review process through pull requests, ensuring effective collaboration among remote development teams."
+          },
+          {
+            "Question": "Which platform is commonly used for remote design collaboration and feedback?",
+            "TrueAnswer": "Figma",
+            "FalseAnswer": [
+              "Sketch",
+              "Adobe Creative Cloud",
+              "Canva"
+            ],
+            "Explanation": "'Figma' enables real-time collaboration on designs, promoting remote teamwork and efficient feedback exchange among designers."
+          },
+          {
+            "Question": "What feature of Miro makes it ideal for remote brainstorming and visual collaboration?",
+            "TrueAnswer": "Infinite canvas",
+            "FalseAnswer": [
+              "Built-in video chat",
+              "3D virtual boards",
+              "Voice commands"
+            ],
+            "Explanation": "Miro's infinite canvas allows remote teams to brainstorm and map out ideas without space limitations, fostering creative collaboration."
+          },
+          {
+            "Question": "Which tool is often used for remote group task management and agile workflow?",
+            "TrueAnswer": "Jira",
+            "FalseAnswer": [
+              "Asana",
+              "Monday.com",
+              "Basecamp"
+            ],
+            "Explanation": "Jira offers extensive customization and agile project management features, making it suitable for remote teams' collaborative task tracking."
+          },
+          {
+            "Question": "What is an advantage of using asynchronous video messaging for remote team communication?",
+            "TrueAnswer": "Flexibility",
+            "FalseAnswer": [
+              "Real-time response",
+              "Higher engagement",
+              "Instant feedback"
+            ],
+            "Explanation": "Asynchronous video messages allow remote employees to communicate flexibly across time zones and schedules, promoting work-life balance."
+          }
+        ]
+      }
+    }
+  ]
+}

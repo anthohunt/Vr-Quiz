@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le nom du premier satellite artificiel de la Terre lancé par l'Union soviétique?",
+            "TrueAnswer": "Spoutnik 1",
+            "FalseAnswer": [
+              "Vostok 1",
+              "Apollo 11",
+              "Hubble"
+            ],
+            "Explanation": "Spoutnik 1 a été le premier satellite artificiel de la Terre, lancé par l'Union soviétique le 4 octobre 1957, marquant le début de l'ère spatiale."
+          },
+          {
+            "Question": "Quel est le nom de la première navette spatiale de la NASA à entrer dans l'espace?",
+            "TrueAnswer": "Columbia",
+            "FalseAnswer": [
+              "Challenger",
+              "Endeavour",
+              "Atlantis"
+            ],
+            "Explanation": "La navette spatiale Columbia a été la première navette spatiale de la NASA à entrer dans l'espace, lors de son vol inaugural le 12 avril 1981."
+          },
+          {
+            "Question": "Quel vaisseau spatial a établi un record de distance parcourue loin de la Terre?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "Hubble",
+              "ISS",
+              "Mars Rover"
+            ],
+            "Explanation": "Voyager 1, lancé en 1977, détient le record de la plus grande distance parcourue par un objet fabriqué par l'homme par rapport à la Terre."
+          },
+          {
+            "Question": "Quel est le nom du premier vaisseau spatial habité construit et exploité commercialement lancé vers l'ISS?",
+            "TrueAnswer": "Crew Dragon",
+            "FalseAnswer": [
+              "Soyouz",
+              "Orion",
+              "Apollo"
+            ],
+            "Explanation": "Le vaisseau spatial Crew Dragon, développé par SpaceX, est devenu le premier vaisseau spatial habité construit et exploité commercialement à être lancé vers la Station spatiale internationale (ISS) en mai 2020."
+          },
+          {
+            "Question": "Quel télescope spatial a été lancé en orbite en 1990 pour fournir des images de l'univers?",
+            "TrueAnswer": "Télescope spatial Hubble",
+            "FalseAnswer": [
+              "Observatoire Chandra Rayons-X",
+              "Télescope spatial Spitzer",
+              "Télescope spatial James Webb"
+            ],
+            "Explanation": "Le télescope spatial Hubble, lancé en 1990, a fourni des images impressionnantes et des données précieuses sur l'univers, révolutionnant l'astronomie et notre compréhension de l'espace."
+          },
+          {
+            "Question": "Quel est le nom de la plus grande fusée opérationnelle actuellement en service?",
+            "TrueAnswer": "Falcon Heavy",
+            "FalseAnswer": [
+              "Delta IV Heavy",
+              "SLS",
+              "Ariane 5"
+            ],
+            "Explanation": "À l'heure actuelle, la Falcon Heavy, développée par SpaceX, est la plus grande fusée opérationnelle, capable de transporter des charges lourdes dans l'espace et de réduire le coût des missions de lancement."
+          },
+          {
+            "Question": "Quel est le nom du premier satellite artificiel à orbiter autour de la Lune?",
+            "TrueAnswer": "Luna 1",
+            "FalseAnswer": [
+              "Apollo 11",
+              "Chang'e 4",
+              "Hubble"
+            ],
+            "Explanation": "Luna 1, lancé par l'Union soviétique en 1959, a été le premier satellite artificiel à orbiter autour de la Lune et le premier vaisseau spatial à atteindre la vitesse d'échappement de la Terre."
+          },
+          {
+            "Question": "Quel vaisseau spatial a amené les premiers humains sur la Lune?",
+            "TrueAnswer": "Apollo 11",
+            "FalseAnswer": [
+              "Mars Rover",
+              "Voyager 1",
+              "ISS"
+            ],
+            "Explanation": "Apollo 11, lancé par la NASA en 1969, a amené les premiers humains sur la Lune, Neil Armstrong et Buzz Aldrin faisant des pas historiques à sa surface."
+          },
+          {
+            "Question": "Quel est le terme pour une station spatiale qui tourne pour créer une gravité artificielle?",
+            "TrueAnswer": "Centrifuge",
+            "FalseAnswer": [
+              "Orbitron",
+              "Spintron",
+              "Graviton"
+            ],
+            "Explanation": "Une centrifuge est une conception de station spatiale rotative qui crée une gravité artificielle par la force centrifuge, permettant potentiellement des missions spatiales de longue durée plus confortables."
+          },
+          {
+            "Question": "Quel est le nom du dernier rover martien conçu pour rechercher des signes de vie microbienne passée?",
+            "TrueAnswer": "Persévérance",
+            "FalseAnswer": [
+              "Curiosity",
+              "Opportunity",
+              "Spirit"
+            ],
+            "Explanation": "Persévérance, lancé par la NASA en 2020, est le dernier rover martien, équipé d'instruments avancés pour explorer la surface martienne et rechercher des preuves de vie ancienne."
+          },
+          {
+            "Question": "Quel est le nom du premier vaisseau spatial réutilisable développé par la NASA?",
+            "TrueAnswer": "Navette spatiale",
+            "FalseAnswer": [
+              "Saturn V",
+              "Falcon 9",
+              "Soyouz"
+            ],
+            "Explanation": "La navette spatiale, également connue sous le nom de système de transport spatial (STS), a été le premier vaisseau spatial réutilisable développé par la NASA pour des missions de vol habité, révolutionnant les voyages spatiaux."
+          },
+          {
+            "Question": "Quelle planète a été la première à être visitée par un vaisseau spatial de la Terre?",
+            "TrueAnswer": "Vénus",
+            "FalseAnswer": [
+              "Mars",
+              "Jupiter",
+              "Saturne"
+            ],
+            "Explanation": "Le vaisseau spatial soviétique Venera 1 a été le premier à survoler Vénus en 1961, suivi de Venera 7, qui a atterri avec succès sur Vénus en 1970."
+          },
+          {
+            "Question": "En quelle année la Station spatiale internationale (ISS) a-t-elle été habitée pour la première fois par des humains?",
+            "TrueAnswer": "2000",
+            "FalseAnswer": [
+              "1998",
+              "2005",
+              "2010"
+            ],
+            "Explanation": "En 2000, la première équipage, l'Expédition 1, est arrivée à la Station spatiale internationale, marquant le début d'une présence humaine continue sur la station spatiale pendant plus de deux décennies."
+          },
+          {
+            "Question": "Quel est le terme pour la frontière où l'atmosphère terrestre rencontre l'espace extérieur?",
+            "TrueAnswer": "Ligne de Kármán",
+            "FalseAnswer": [
+              "Ligne de Karol",
+              "Ligne de Kepler",
+              "Ligne de Kosmo"
+            ],
+            "Explanation": "La ligne de Kármán, à environ 100 kilomètres (62 miles) au-dessus du niveau de la mer, est largement acceptée comme la frontière entre l'atmosphère terrestre et l'espace extérieur."
+          },
+          {
+            "Question": "Quelle entreprise a été la première à réussir à faire atterrir un propulseur de fusée réutilisable sur Terre?",
+            "TrueAnswer": "SpaceX",
+            "FalseAnswer": [
+              "Blue Origin",
+              "Boeing",
+              "Lockheed Martin"
+            ],
+            "Explanation": "SpaceX a franchi le cap d'atterrir commercialement un propulseur de fusée réutilisable sur Terre, réduisant considérablement le coût des lancements spatiaux."
+          },
+          {
+            "Question": "Quel est le nom du premier vaisseau spatial financé par des fonds privés à atteindre la surface de la Lune?",
+            "TrueAnswer": "Beresheet",
+            "FalseAnswer": [
+              "Apollo 11",
+              "Chang'e 4",
+              "Luna 2"
+            ],
+            "Explanation": "Beresheet, lancé par l'organisation à but non lucratif israélienne SpaceIL, a été le premier vaisseau spatial financé par des fonds privés à atteindre la surface de la Lune en 2019."
+          },
+          {
+            "Question": "Quelle agence spatiale a réussi à faire atterrir avec succès un rover sur Mars pour la première fois en 2021?",
+            "TrueAnswer": "La CNSA de la Chine",
+            "FalseAnswer": [
+              "NASA",
+              "ESA",
+              "Roscosmos"
+            ],
+            "Explanation": "La CNSA de la Chine a réussi à faire atterrir avec succès le rover Zhurong sur Mars en mai 2021, devenant le premier pays à réaliser un atterrissage réussi sur Mars lors de sa mission inaugurale."
+          },
+          {
+            "Question": "Quel est le nom du rover qui a découvert des preuves d'eau sur Mars?",
+            "TrueAnswer": "Opportunity",
+            "FalseAnswer": [
+              "Curiosity",
+              "Spirit",
+              "Perseverance"
+            ],
+            "Explanation": "Le rover martien Opportunity, faisant partie de la mission de rover d'exploration de Mars de la NASA, a découvert des preuves convaincantes de l'activité passée de l'eau à la surface martienne en 2004."
+          },
+          {
+            "Question": "Quelle entreprise prévoit d'offrir des vols spatiaux commerciaux pour des particuliers?",
+            "TrueAnswer": "Virgin Galactic",
+            "FalseAnswer": [
+              "Boeing",
+              "SpaceX",
+              "Blue Origin"
+            ],
+            "Explanation": "Virgin Galactic vise à offrir des vols spatiaux commerciaux pour des particuliers à bord de son SpaceShipTwo, offrant une opportunité unique pour le tourisme spatial."
+          },
+          {
+            "Question": "Quel est le nom du premier vaisseau spatial à orbiter autour de Jupiter?",
+            "TrueAnswer": "Galileo",
+            "FalseAnswer": [
+              "Juno",
+              "Voyager 1",
+              "Cassini"
+            ],
+            "Explanation": "Le vaisseau spatial Galileo, lancé par la NASA en 1989, est devenu le premier vaisseau spatial à orbiter autour de Jupiter et a fourni des informations précieuses sur la géante gazeuse et ses lunes."
+          }
+        ]
+      }
+    }
+  ]
+}

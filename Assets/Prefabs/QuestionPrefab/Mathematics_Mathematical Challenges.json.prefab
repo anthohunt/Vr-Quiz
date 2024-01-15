@@ -1,0 +1,205 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3797719733515580194
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4921462671118828342}
+  - component: {fileID: 8821681814551474770}
+  m_Layer: 0
+  m_Name: Mathematics_Mathematical Challenges.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4921462671118828342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3797719733515580194}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8821681814551474770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3797719733515580194}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: "What is the value of pi (\u03C0)?"
+      TrueAnswer: 3.14159
+      FalseAnswer:
+      - 2.71828
+      - 1.61803
+      - 4.66920
+      Explanation: "Pi (\u03C0) is a mathematical constant that represents the ratio
+        of a circle's circumference to its diameter."
+    - Question: What is the square root of 64?
+      TrueAnswer: 8
+      FalseAnswer:
+      - 4
+      - 16
+      - 32
+      Explanation: The square root of a number is a value that, when multiplied by
+        itself, gives the original number.
+    - Question: What is the sum of the angles in a triangle?
+      TrueAnswer: 180
+      FalseAnswer:
+      - 90
+      - 360
+      - 120
+      Explanation: The sum of the interior angles of a triangle is always 180 degrees.
+    - Question: What is the value of 2 + 2?
+      TrueAnswer: 4
+      FalseAnswer:
+      - 2
+      - 6
+      - 8
+      Explanation: The sum of 2 and 2 is equal to 4.
+    - Question: What is the formula for the area of a circle?
+      TrueAnswer: "\u03C0r^2"
+      FalseAnswer:
+      - "2\u03C0r"
+      - "\u03C0d"
+      - r^2
+      Explanation: "The area of a circle can be calculated by multiplying the square
+        of the radius (r) by pi (\u03C0)."
+    - Question: What is the value of 10 factorial (10!)?
+      TrueAnswer: 3628800
+      FalseAnswer:
+      - 100
+      - 1000
+      - 10000
+      Explanation: The factorial of a non-negative integer n, denoted by n!, is the
+        product of all positive integers less than or equal to n.
+    - Question: What is the value of 3 squared?
+      TrueAnswer: 9
+      FalseAnswer:
+      - 6
+      - 12
+      - 15
+      Explanation: To square a number, you multiply it by itself. Therefore, 3 squared
+        is equal to 9.
+    - Question: What is the value of 5 cubed?
+      TrueAnswer: 125
+      FalseAnswer:
+      - 15
+      - 25
+      - 50
+      Explanation: To cube a number, you multiply it by itself twice. Therefore,
+        5 cubed is equal to 125.
+    - Question: What is the formula for the volume of a sphere?
+      TrueAnswer: "(4/3)\u03C0r^3"
+      FalseAnswer:
+      - "2\u03C0r"
+      - "\u03C0r^2"
+      - "(4/3)\u03C0r^2"
+      Explanation: "The volume of a sphere can be calculated by multiplying the cube
+        of the radius (r) by four-thirds and pi (\u03C0)."
+    - Question: What is the value of 9 divided by 3?
+      TrueAnswer: 3
+      FalseAnswer:
+      - 6
+      - 9
+      - 12
+      Explanation: The division of 9 by 3 results in a quotient of 3.
+    - Question: What is the formula for the Pythagorean theorem?
+      TrueAnswer: a^2 + b^2 = c^2
+      FalseAnswer:
+      - a + b = c
+      - a^2 - b^2 = c^2
+      - a^3 + b^3 = c^3
+      Explanation: The Pythagorean theorem states that in a right triangle, the square
+        of the hypotenuse (c) is equal to the sum of the squares of the other two
+        sides (a and b).
+    - Question: What is the value of 10 multiplied by 5?
+      TrueAnswer: 50
+      FalseAnswer:
+      - 15
+      - 25
+      - 100
+      Explanation: The product of 10 and 5 is equal to 50.
+    - Question: What is the formula for the perimeter of a rectangle?
+      TrueAnswer: 2(length + width)
+      FalseAnswer:
+      - length + width
+      - 2length + 2width
+      - length * width
+      Explanation: The perimeter of a rectangle can be calculated by adding twice
+        the length and twice the width.
+    - Question: What is the value of 7 minus 3?
+      TrueAnswer: 4
+      FalseAnswer:
+      - 10
+      - 5
+      - 2
+      Explanation: The difference between 7 and 3 is equal to 4.
+    - Question: What is the formula for the area of a triangle?
+      TrueAnswer: (1/2)base * height
+      FalseAnswer:
+      - base + height
+      - length * width
+      - base^2 + height^2
+      Explanation: The area of a triangle can be calculated by multiplying half the
+        base by the height.
+    - Question: What is the value of 12 divided by 4?
+      TrueAnswer: 3
+      FalseAnswer:
+      - 6
+      - 12
+      - 8
+      Explanation: The division of 12 by 4 results in a quotient of 3.
+    - Question: What is the formula for the circumference of a circle?
+      TrueAnswer: "2\u03C0r"
+      FalseAnswer:
+      - "\u03C0r^2"
+      - "2\u03C0d"
+      - r^2
+      Explanation: "The circumference of a circle can be calculated by multiplying
+        the diameter (d) by pi (\u03C0)."
+    - Question: What is the value of 2 to the power of 4?
+      TrueAnswer: 16
+      FalseAnswer:
+      - 8
+      - 4
+      - 32
+      Explanation: To raise a number to a power, you multiply it by itself the number
+        of times indicated by the exponent. Therefore, 2 to the power of 4 is equal
+        to 16.
+    - Question: What is the value of 20 percent of 80?
+      TrueAnswer: 16
+      FalseAnswer:
+      - 8
+      - 20
+      - 40
+      Explanation: To calculate a percentage of a number, you multiply the number
+        by the percentage expressed as a decimal. Therefore, 20 percent of 80 is
+        equal to 16.
+    - Question: What is the formula for the area of a rectangle?
+      TrueAnswer: length * width
+      FalseAnswer:
+      - 2(length + width)
+      - length + width
+      - length^2 + width^2
+      Explanation: The area of a rectangle can be calculated by multiplying the length
+        by the width.

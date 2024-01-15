@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8883722449204341234
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4145021833410301991}
+  - component: {fileID: 6864520641600842820}
+  m_Layer: 0
+  m_Name: Movies_Film_Adaptations_from_Literature.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4145021833410301991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8883722449204341234}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6864520641600842820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8883722449204341234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which 1994 movie stars Tom Hanks as Forrest Gump?
+      TrueAnswer: Forrest Gump
+      FalseAnswer:
+      - Saving Private Ryan
+      - Toy Story
+      - The Green Mile
+      Explanation: Forrest Gump is a 1994 American comedy-drama film based on the
+        1986 novel of the same name by Winston Groom.
+    - Question: Which actress portrayed the protagonist in 'Gone Girl'?
+      TrueAnswer: Rosamund Pike
+      FalseAnswer:
+      - Meryl Streep
+      - Jennifer Lawrence
+      - Charlize Theron
+      Explanation: Rosamund Pike plays the complex character Amy Dunne in the film
+        adaptation of Gillian Flynn's best-selling novel 'Gone Girl'.
+    - Question: Which literary classic inspired the film 'Clueless'?
+      TrueAnswer: Emma
+      FalseAnswer:
+      - Pride and Prejudice
+      - Sense and Sensibility
+      - Jane Eyre
+      Explanation: '''Clueless'' is a modern retelling of Jane Austen''s 1815 novel
+        ''Emma'', set in a Beverly Hills high school.'
+    - Question: Who wrote the 2002 novel adapted into the film 'The Hours'?
+      TrueAnswer: Michael Cunningham
+      FalseAnswer:
+      - Donna Tartt
+      - Jonathan Franzen
+      - Zadie Smith
+      Explanation: Michael Cunningham's Pulitzer Prize-winning novel 'The Hours'
+        was adapted into a critically acclaimed film in 2002.
+    - Question: Which Shakespeare play was adapted into the 1996 film 'Romeo + Juliet'?
+      TrueAnswer: Romeo and Juliet
+      FalseAnswer:
+      - Macbeth
+      - Hamlet
+      - Othello
+      Explanation: Director Baz Luhrmann's film 'Romeo + Juliet' offers a modern,
+        stylized take on the classic tragic love story.
+    - Question: Who directed the film adaptation of 'The Great Gatsby' released in
+        2013?
+      TrueAnswer: Baz Luhrmann
+      FalseAnswer:
+      - Woody Allen
+      - Christopher Nolan
+      - Martin Scorsese
+      Explanation: Baz Luhrmann directed the visually lavish adaptation of F. Scott
+        Fitzgerald's timeless novel 'The Great Gatsby'.
+    - Question: Which Stephen King novel inspired the film 'The Shawshank Redemption'?
+      TrueAnswer: Rita Hayworth and Shawshank Redemption
+      FalseAnswer:
+      - The Shining
+      - Carrie
+      - Pet Sematary
+      Explanation: Frank Darabont's 'The Shawshank Redemption' is based on Stephen
+        King's novella from his collection 'Different Seasons'.
+    - Question: Who played the lead role in the film adaptation of 'Lolita' in 1962?
+      TrueAnswer: James Mason
+      FalseAnswer:
+      - Marlon Brando
+      - Humphrey Bogart
+      - Cary Grant
+      Explanation: James Mason portrayed the controversial character Humbert in Stanley
+        Kubrick's adaptation of Vladimir Nabokov's novel.
+    - Question: Which Charles Dickens novel is the basis for the 2019 film 'The Personal
+        History of David Copperfield'?
+      TrueAnswer: David Copperfield
+      FalseAnswer:
+      - Oliver Twist
+      - A Tale of Two Cities
+      - Great Expectations
+      Explanation: Armando Iannucci's film is a contemporary take on Dickens' novel,
+        featuring Dev Patel in the lead role.
+    - Question: What novel by Alice Walker was adapted into a film directed by Steven
+        Spielberg in 1985?
+      TrueAnswer: The Color Purple
+      FalseAnswer:
+      - Their Eyes Were Watching God
+      - Beloved
+      - The Bluest Eye
+      Explanation: Steven Spielberg's adaptation of 'The Color Purple' received widespread
+        acclaim and garnered several Academy Award nominations.
+    - Question: Who portrayed the character 'Lisbeth Salander' in the 2011 film adaptation
+        of 'The Girl with the Dragon Tattoo'?
+      TrueAnswer: Rooney Mara
+      FalseAnswer:
+      - Scarlett Johansson
+      - Emma Stone
+      - Kristen Stewart
+      Explanation: Rooney Mara's compelling portrayal of Lisbeth Salander earned
+        critical praise and an Academy Award nomination.
+    - Question: In 'Silence of the Lambs', what notable book does Hannibal Lecter
+        frequently discuss?
+      TrueAnswer: The Divine Comedy
+      FalseAnswer:
+      - Moby Dick
+      - Anna Karenina
+      - To Kill a Mockingbird
+      Explanation: Hannibal Lecter discusses 'The Divine Comedy' by Dante Alighieri
+        in the acclaimed film 'Silence of the Lambs'.
+    - Question: Which literary classic inspired the film adaptation '10 Things I
+        Hate About You'?
+      TrueAnswer: The Taming of the Shrew
+      FalseAnswer:
+      - A Midsummer Night's Dream
+      - Hamlet
+      - Romeo and Juliet
+      Explanation: Inspired by Shakespeare's play, '10 Things I Hate About You' is
+        a modern high school romantic comedy.
+    - Question: In the film 'The Princess Bride', what novel does the grandfather
+        read to his grandson?
+      TrueAnswer: The Princess Bride
+      FalseAnswer:
+      - The Neverending Story
+      - The Hobbit
+      - Watership Down
+      Explanation: The film's metafictional narrative involves a grandfather reading
+        'The Princess Bride' by William Goldman to his sick grandson.
+    - Question: Who wrote the novel 'The Graduate', later adapted into the iconic
+        film released in 1967?
+      TrueAnswer: Charles Webb
+      FalseAnswer:
+      - Philip Roth
+      - Saul Bellow
+      - John Updike
+      Explanation: Charles Webb's novel provided the basis for Mike Nichols' critically
+        acclaimed film 'The Graduate' starring Dustin Hoffman.
+    - Question: What classic novel was the basis for the film adaptation 'Little
+        Women' released in 2019?
+      TrueAnswer: Little Women
+      FalseAnswer:
+      - Jane Eyre
+      - Pride and Prejudice
+      - Wuthering Heights
+      Explanation: Greta Gerwig's adaptation brought Louisa May Alcott's beloved
+        novel 'Little Women' to the screen with a fresh perspective.
+    - Question: Who directed the adaptation of 'To Kill a Mockingbird' released in
+        1962?
+      TrueAnswer: Robert Mulligan
+      FalseAnswer:
+      - David Lean
+      - Stanley Kubrick
+      - Martin Scorsese
+      Explanation: Robert Mulligan's adaptation of Harper Lee's classic novel 'To
+        Kill a Mockingbird' won three Academy Awards including Best Actor for Gregory
+        Peck.
+    - Question: What literary work inspired the film 'Bridget Jones's Diary'?
+      TrueAnswer: Pride and Prejudice
+      FalseAnswer:
+      - Emma
+      - Sense and Sensibility
+      - Jane Eyre
+      Explanation: The film 'Bridget Jones's Diary' draws inspiration from Jane Austen's
+        novel 'Pride and Prejudice', with a modern twist.
+    - Question: Which Roald Dahl book became the basis for the film 'Matilda' released
+        in 1996?
+      TrueAnswer: Matilda
+      FalseAnswer:
+      - Charlie and the Chocolate Factory
+      - The BFG
+      - James and the Giant Peach
+      Explanation: Danny DeVito directed the film adaptation of Roald Dahl's novel
+        'Matilda', showcasing the story of a brilliant young girl with telekinetic
+        abilities.
+    - Question: In the film 'The Hunchback of Notre Dame', which classic novel is
+        Quasimodo seen reading?
+      TrueAnswer: Tale of Two Cities
+      FalseAnswer:
+      - "Les Mis\xE9rables"
+      - Moby Dick
+      - War and Peace
+      Explanation: In the Disney adaptation, Quasimodo is seen reading 'A Tale of
+        Two Cities' by Charles Dickens, reflecting themes of social justice and sacrifice.

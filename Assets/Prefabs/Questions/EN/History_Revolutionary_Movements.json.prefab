@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5086576292600760760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5603392952840375032}
+  - component: {fileID: 2712100672385054132}
+  m_Layer: 0
+  m_Name: History_Revolutionary_Movements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5603392952840375032
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5086576292600760760}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2712100672385054132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5086576292600760760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What was the main reason behind the French Revolution?
+      TrueAnswer: Social inequality
+      FalseAnswer:
+      - Religious conflict
+      - Economic prosperity
+      - Monarchical support
+      Explanation: Social inequality arising from the feudal system and the privileges
+        of the nobility and clergy led to widespread dissatisfaction among the common
+        people, ultimately fueling the French Revolution.
+    - Question: Who wrote the famous pamphlet 'Common Sense' that advocated American
+        independence?
+      TrueAnswer: Thomas Paine
+      FalseAnswer:
+      - John Adams
+      - Benjamin Franklin
+      - Thomas Jefferson
+      Explanation: Thomas Paine's 'Common Sense', published in 1776, argued for American
+        independence from British rule and significantly influenced the revolutionary
+        sentiment at the time.
+    - Question: Which country did Che Guevara play a pivotal role in its revolutionary
+        movement?
+      TrueAnswer: Cuba
+      FalseAnswer:
+      - Mexico
+      - Argentina
+      - Chile
+      Explanation: Che Guevara played a crucial role in the Cuban Revolution, where
+        he worked alongside Fidel Castro in overthrowing the Batista regime in 1959.
+    - Question: What was the primary cause of the Russian Revolution of 1917?
+      TrueAnswer: Economic hardship
+      FalseAnswer:
+      - Foreign invasion
+      - Monarchical reforms
+      - Religious persecution
+      Explanation: The Russian Revolution was largely fueled by socio-economic grievances,
+        including widespread poverty, inequality, and food shortages that intensified
+        during World War I.
+    - Question: Who was the leader of the Chinese Communist Party during the Chinese
+        Revolution?
+      TrueAnswer: Mao Zedong
+      FalseAnswer:
+      - Sun Yat-sen
+      - Deng Xiaoping
+      - Chiang Kai-shek
+      Explanation: Mao Zedong, as the founding father of the People's Republic of
+        China, led the Chinese Communist Party in their successful revolution against
+        the Kuomintang, ultimately establishing the communist state in 1949.

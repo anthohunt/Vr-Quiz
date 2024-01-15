@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8649143023901498008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3630715362880456271}
+  - component: {fileID: 1920101116261887644}
+  m_Layer: 0
+  m_Name: Fashion and Design_Fashion Accessories.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3630715362880456271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8649143023901498008}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1920101116261887644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8649143023901498008}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular fashion accessory for women?
+      TrueAnswer: Handbag
+      FalseAnswer:
+      - Necklace
+      - Sunglasses
+      - Belt
+      Explanation: Handbags are a staple accessory for women, providing both style
+        and functionality.
+    - Question: Which accessory is commonly worn on the wrist?
+      TrueAnswer: Bracelet
+      FalseAnswer:
+      - Earrings
+      - Brooch
+      - Anklet
+      Explanation: Bracelets are worn around the wrist and come in various styles
+        and materials.
+    - Question: What accessory is worn to protect the eyes from the sun?
+      TrueAnswer: Sunglasses
+      FalseAnswer:
+      - Gloves
+      - Scarf
+      - Hat
+      Explanation: Sunglasses are designed to protect the eyes from harmful UV rays
+        and add a fashionable touch.
+    - Question: Which accessory is used to hold up pants or skirts?
+      TrueAnswer: Belt
+      FalseAnswer:
+      - Headband
+      - Gloves
+      - Tie
+      Explanation: Belts are worn around the waist to provide support and add a stylish
+        element to an outfit.
+    - Question: What accessory is worn around the neck?
+      TrueAnswer: Necklace
+      FalseAnswer:
+      - Ring
+      - Watch
+      - Brooch
+      Explanation: Necklaces are decorative accessories worn around the neck, often
+        made of precious metals and gemstones.
+    - Question: Which accessory is worn on the head?
+      TrueAnswer: Hat
+      FalseAnswer:
+      - Belt
+      - Gloves
+      - Scarf
+      Explanation: Hats are worn on the head for various purposes, including protection
+        from the sun or as a fashion statement.
+    - Question: What accessory is worn on the finger?
+      TrueAnswer: Ring
+      FalseAnswer:
+      - Earrings
+      - Bracelet
+      - Anklet
+      Explanation: Rings are worn on the finger and can symbolize various things,
+        such as commitment or fashion.
+    - Question: Which accessory is worn on the ankle?
+      TrueAnswer: Anklet
+      FalseAnswer:
+      - Necklace
+      - Watch
+      - Brooch
+      Explanation: Anklets are decorative accessories worn around the ankle, often
+        associated with beachwear or bohemian style.
+    - Question: What accessory is worn on the ears?
+      TrueAnswer: Earrings
+      FalseAnswer:
+      - Bracelet
+      - Ring
+      - Hat
+      Explanation: Earrings are worn on the ears and come in various styles, such
+        as studs, hoops, or dangly earrings.
+    - Question: Which accessory is worn on the waist?
+      TrueAnswer: Belt
+      FalseAnswer:
+      - Necklace
+      - Sunglasses
+      - Gloves
+      Explanation: Belts are worn around the waist to provide support and add a stylish
+        element to an outfit.
+    - Question: What accessory is worn on the shoulder?
+      TrueAnswer: Bag
+      FalseAnswer:
+      - Scarf
+      - Hat
+      - Bracelet
+      Explanation: Bags, such as shoulder bags or tote bags, are worn on the shoulder
+        for carrying personal belongings.
+    - Question: Which accessory is worn on the feet?
+      TrueAnswer: Shoes
+      FalseAnswer:
+      - Necklace
+      - Watch
+      - Brooch
+      Explanation: Shoes are worn on the feet to provide protection and comfort,
+        and they come in various styles.
+    - Question: What accessory is worn around the waist to hold up pants?
+      TrueAnswer: Belt
+      FalseAnswer:
+      - Headband
+      - Gloves
+      - Tie
+      Explanation: Belts are worn around the waist to provide support and add a stylish
+        element to an outfit.
+    - Question: Which accessory is commonly worn on the face?
+      TrueAnswer: Glasses
+      FalseAnswer:
+      - Necklace
+      - Watch
+      - Brooch
+      Explanation: Glasses are worn on the face to correct vision or as a fashion
+        statement.
+    - Question: What accessory is worn on the wrist to tell time?
+      TrueAnswer: Watch
+      FalseAnswer:
+      - Earrings
+      - Bracelet
+      - Anklet
+      Explanation: Watches are worn on the wrist and serve the purpose of telling
+        time.
+    - Question: Which accessory is commonly worn on the hand?
+      TrueAnswer: Gloves
+      FalseAnswer:
+      - Scarf
+      - Hat
+      - Bracelet
+      Explanation: Gloves are worn on the hands to provide warmth, protection, or
+        as a fashion statement.
+    - Question: What accessory is worn around the neck to keep warm?
+      TrueAnswer: Scarf
+      FalseAnswer:
+      - Ring
+      - Watch
+      - Brooch
+      Explanation: Scarves are worn around the neck to provide warmth and add a stylish
+        touch to an outfit.
+    - Question: Which accessory is commonly worn on the shoulder?
+      TrueAnswer: Bag
+      FalseAnswer:
+      - Necklace
+      - Sunglasses
+      - Belt
+      Explanation: Bags, such as shoulder bags or tote bags, are worn on the shoulder
+        for carrying personal belongings.
+    - Question: What accessory is worn on the head to keep warm?
+      TrueAnswer: Hat
+      FalseAnswer:
+      - Belt
+      - Gloves
+      - Scarf
+      Explanation: Hats are worn on the head to provide warmth or as a fashion statement.
+    - Question: Which accessory is commonly worn on the waist?
+      TrueAnswer: Belt
+      FalseAnswer:
+      - Necklace
+      - Sunglasses
+      - Gloves
+      Explanation: Belts are worn around the waist to provide support and add a stylish
+        element to an outfit.

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "thème": [
+          {
+            "Question": "Quel a été le premier vaisseau spatial habité à atteindre la surface de la Lune?",
+            "TrueAnswer": "Apollo 11",
+            "FalseAnswer": [
+              "Vostok 1",
+              "Gemini 7",
+              "Mir"
+            ],
+            "Explanation": "Apollo 11 est devenu, le 20 juillet 1969, la première mission habitée à se poser sur la Lune, avec Neil Armstrong et Buzz Aldrin."
+          },
+          {
+            "Question": "Quel vaisseau spatial a été le premier à visiter Jupiter?",
+            "TrueAnswer": "Pioneer 10",
+            "FalseAnswer": [
+              "Voyager 2",
+              "Galileo",
+              "New Horizons"
+            ],
+            "Explanation": "Pioneer 10 a effectué le premier survol de Jupiter en 1973, fournissant des données précieuses sur la planète et ses lunes."
+          },
+          {
+            "Question": "Quel est le nom du vaisseau spatial transportant le rover Curiosity sur Mars?",
+            "TrueAnswer": "Mars Science Laboratory",
+            "FalseAnswer": [
+              "Viking 1",
+              "Opportunity",
+              "ExoMars"
+            ],
+            "Explanation": "La mission Mars Science Laboratory, lancée en 2011, a livré le rover Curiosity pour explorer la surface de Mars."
+          },
+          {
+            "Question": "Quel vaisseau spatial a transporté le premier humain sur la surface de Mars dans un film de fiction?",
+            "TrueAnswer": "Hermes",
+            "FalseAnswer": [
+              "Endurance",
+              "Discovery One",
+              "Event Horizon"
+            ],
+            "Explanation": "Dans le film 'Seul sur Mars', le vaisseau spatial Hermes transporte l'équipage vers Mars, où Mark Watney se retrouve coincé sur la planète."
+          },
+          {
+            "Question": "Quand le télescope spatial Hubble a-t-il été lancé dans l'espace?",
+            "TrueAnswer": "1990",
+            "FalseAnswer": [
+              "1986",
+              "1995",
+              "2000"
+            ],
+            "Explanation": "Lancé le 24 avril 1990, le télescope spatial Hubble a fourni des images époustouflantes et des données astronomiques inestimables pendant plus de trois décennies."
+          },
+          {
+            "Question": "Quel vaisseau spatial détient le record de l'objet fabriqué par l'homme le plus éloigné de la Terre?",
+            "TrueAnswer": "Voyager 1",
+            "FalseAnswer": [
+              "New Horizons",
+              "Cassini",
+              "Mars Reconnaissance Orbiter"
+            ],
+            "Explanation": "Lancé en 1977, Voyager 1 se trouve à plus de 14 milliards de miles de la Terre et entre dans l'espace interstellaire, transportant le Golden Record."
+          },
+          {
+            "Question": "Quel a été le premier vaisseau spatial réutilisable à transporter des humains dans l'espace?",
+            "TrueAnswer": "Space Shuttle Columbia",
+            "FalseAnswer": [
+              "SpaceX Dragon",
+              "Soyuz",
+              "Apollo 13"
+            ],
+            "Explanation": "Columbia a réalisé le premier vol spatial orbital le 12 avril 1981 et a effectué des missions jusqu'à la tragédie de 2003."
+          },
+          {
+            "Question": "Quelle agence spatiale a lancé la mission Chandrayaan-2 pour explorer la Lune?",
+            "TrueAnswer": "ISRO",
+            "FalseAnswer": [
+              "NASA",
+              "Roscosmos",
+              "ESA"
+            ],
+            "Explanation": "L'Organisation indienne de recherche spatiale (ISRO) a lancé avec succès Chandrayaan-2 en 2019, dans le but d'étudier la surface lunaire."
+          },
+          {
+            "Question": "Quel type de vaisseau spatial la mission Juno orbite-t-elle actuellement?",
+            "TrueAnswer": "Jupiter",
+            "FalseAnswer": [
+              "Mars",
+              "Saturne",
+              "Neptune"
+            ],
+            "Explanation": "Le vaisseau spatial Juno orbite autour de Jupiter depuis 2016, étudiant la composition, le champ gravitationnel et le champ magnétique de la planète."
+          },
+          {
+            "Question": "Quel pays a développé le vaisseau spatial Hayabusa2 qui a collecté des échantillons d'astéroïdes?",
+            "TrueAnswer": "Japon",
+            "FalseAnswer": [
+              "Chine",
+              "Russie",
+              "Inde"
+            ],
+            "Explanation": "L'Agence japonaise d'exploration aérospatiale (JAXA) a lancé Hayabusa2 en 2014 pour rejoindre l'astéroïde Ryugu et récupérer des échantillons pour analyse sur Terre."
+          },
+          {
+            "Question": "Quel a été le premier vaisseau spatial financé par des fonds privés à atteindre la Station spatiale internationale (ISS)?",
+            "TrueAnswer": "Dragon",
+            "FalseAnswer": [
+              "Cygnus",
+              "Dream Chaser",
+              "Starliner"
+            ],
+            "Explanation": "Le SpaceX Dragon est devenu le premier vaisseau spatial construit et exploité commercialement à être récupéré avec succès en orbite en 2012."
+          },
+          {
+            "Question": "Quel vaisseau spatial est responsable de la mission du télescope spatial James Webb (JWST)?",
+            "TrueAnswer": "Ariane 5",
+            "FalseAnswer": [
+              "Falcon Heavy",
+              "Delta IV",
+              "Soyuz"
+            ],
+            "Explanation": "L'Ariane 5, un lanceur lourd européen, a été sélectionné pour mettre en orbite le télescope spatial James Webb délicat et puissant."
+          },
+          {
+            "Question": "Quel vaisseau spatial a réalisé le premier rendez-vous, amarrage et mission de retour avec succès avec le laboratoire spatial chinois Tiangong-1?",
+            "TrueAnswer": "Shenzhou 8",
+            "FalseAnswer": [
+              "Tiangong 1",
+              "Chang'e 3",
+              "Long March 5"
+            ],
+            "Explanation": "Shenzhou 8, dans le cadre du programme spatial habité chinois, a démontré des capacités de rendez-vous automatique et d'amarrage avec Tiangong-1 en 2011."
+          },
+          {
+            "Question": "Quel est le nom du vaisseau spatial qui a transporté le rover Opportunity sur la surface de Mars?",
+            "TrueAnswer": "MER-A",
+            "FalseAnswer": [
+              "Viking 1",
+              "Pathfinder",
+              "Mars Express"
+            ],
+            "Explanation": "MER-A, dans le cadre de la mission de rover d'exploration de Mars de la NASA, a déposé le rover Opportunity sur la surface de Mars le 25 janvier 2004."
+          },
+          {
+            "Question": "Quel vaisseau spatial détient le record de la plus longue présence humaine continue dans l'espace?",
+            "TrueAnswer": "ISS",
+            "FalseAnswer": [
+              "Mir",
+              "Salyut 7",
+              "Skylab"
+            ],
+            "Explanation": "La Station spatiale internationale (ISS) est habitée en continu depuis le 2 novembre 2000, marquant plus de deux décennies de présence humaine dans l'espace."
+          },
+          {
+            "Question": "Quel a été le premier vaisseau spatial à se poser sur une comète et à envoyer des données sur Terre?",
+            "TrueAnswer": "Philae",
+            "FalseAnswer": [
+              "Rosetta",
+              "Giotto",
+              "Deep Impact"
+            ],
+            "Explanation": "Philae, dans le cadre de la mission Rosetta de l'ESA, a réussi l'exploit d'atterrir sur une comète le 12 novembre 2014, fournissant des données scientifiques précieuses."
+          },
+          {
+            "Question": "Quel vaisseau spatial a réalisé le survol historique de Pluton et de ses lunes en 2015?",
+            "TrueAnswer": "New Horizons",
+            "FalseAnswer": [
+              "Cassini",
+              "Pioneer 11",
+              "Voyager 2"
+            ],
+            "Explanation": "New Horizons, lancé par la NASA en 2006, a effectué le tout premier survol de Pluton et de ses lunes, fournissant des images et données sans précédent."
+          },
+          {
+            "Question": "Quel type de vaisseau spatial a transporté le premier module de la Station spatiale internationale (ISS) dans l'espace?",
+            "TrueAnswer": "Zarya",
+            "FalseAnswer": [
+              "Soyuz",
+              "Unity",
+              "Tranquility"
+            ],
+            "Explanation": "Zarya, un module russe, a été le premier composant lancé pour l'ISS, fournissant une propulsion et une alimentation cruciales pour les premières étapes de construction."
+          },
+          {
+            "Question": "Quel vaisseau spatial a réalisé le premier atterrissage en douceur réussi sur la surface de Vénus?",
+            "TrueAnswer": "Venera 7",
+            "FalseAnswer": [
+              "Mars Reconnaissance Orbiter",
+              "Magellan",
+              "Vega 1"
+            ],
+            "Explanation": "Venera 7, lancé par l'Union soviétique, est devenu le premier vaisseau spatial à transmettre avec succès des données depuis la surface d'une autre planète, Vénus, en 1970."
+          },
+          {
+            "Question": "Quel est le nom du vaisseau spatial lancé par la Chine pour poser avec succès un rover sur la face cachée de la Lune?",
+            "TrueAnswer": "Chang'e 4",
+            "FalseAnswer": [
+              "Yutu",
+              "Chandrayaan-2",
+              "Lunar Reconnaissance Orbiter"
+            ],
+            "Explanation": "Chang'e 4, lancé en 2018, a réalisé le premier atterrissage en douceur historique sur la face cachée de la Lune et a déployé le rover Yutu-2 pour l'exploration."
+          }
+        ]
+      }
+    }
+  ]
+}

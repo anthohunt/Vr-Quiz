@@ -1,0 +1,208 @@
+{
+  "theme": [
+    {
+      "Questions": [
+        {
+          "Question": "What is the average lifespan of a communication satellite in geostationary orbit?",
+          "TrueAnswer": "15 years",
+          "FalseAnswer": [
+            "5 years",
+            "10 years",
+            "20 years"
+          ],
+          "Explanation": "Communication satellites in geostationary orbit typically have a lifespan of around 15 years due to fuel constraints and radiation exposure."
+        },
+        {
+          "Question": "Which organization launched the first man-made satellite, Sputnik 1, in 1957?",
+          "TrueAnswer": "Soviet Union (USSR)",
+          "FalseAnswer": [
+            "United States",
+            "China",
+            "European Union"
+          ],
+          "Explanation": "The Soviet Union achieved a major milestone in space exploration by launching Sputnik 1, marking the beginning of the space age."
+        },
+        {
+          "Question": "What is the purpose of a weather satellite?",
+          "TrueAnswer": "Monitoring weather patterns",
+          "FalseAnswer": [
+            "Studying black holes",
+            "Communicating with submarines",
+            "Mapping ocean currents"
+          ],
+          "Explanation": "Weather satellites are equipped with instruments to observe and track cloud cover, precipitation, temperature, and other atmospheric conditions for meteorological purposes."
+        },
+        {
+          "Question": "Which type of orbit is commonly used for Earth observation satellites?",
+          "TrueAnswer": "Sun-synchronous orbit",
+          "FalseAnswer": [
+            "Geostationary orbit",
+            "Low Earth orbit",
+            "Molniya orbit"
+          ],
+          "Explanation": "Sun-synchronous orbit allows satellites to pass over the same region of the Earth at the same local solar time, providing consistent lighting conditions for imaging."
+        },
+        {
+          "Question": "What is the primary function of a navigation satellite?",
+          "TrueAnswer": "Determining precise locations",
+          "FalseAnswer": [
+            "Broadcasting TV signals",
+            "Measuring atmospheric pressure",
+            "Detecting seismic activity"
+          ],
+          "Explanation": "Navigation satellites, such as GPS, enable users to determine their exact geographic position anywhere on Earth using signals from multiple satellites."
+        },
+        {
+          "Question": "In which layer of the Earth's atmosphere do most  communication satellites operate?",
+          "TrueAnswer": "Exosphere",
+          "FalseAnswer": [
+            "Stratosphere",
+            "Mesosphere",
+            "Ionosphere"
+          ],
+          "Explanation": "Communication satellites typically operate in the exosphere, the outermost layer of the Earth's atmosphere, to minimize atmospheric drag and signal interference."
+        },
+        {
+          "Question": "Which country launched the first communication satellite, Telstar 1, in 1962?",
+          "TrueAnswer": "United States",
+          "FalseAnswer": [
+            "Soviet Union (USSR)",
+            "China",
+            "India"
+          ],
+          "Explanation": "Telstar 1, the first active communications satellite, was launched by NASA for transmitting television and telephone signals."
+        },
+        {
+          "Question": "What technology do reconnaissance satellites use to gather intelligence?",
+          "TrueAnswer": "High-resolution imaging",
+          "FalseAnswer": [
+            "Infrared radiation detection",
+            "Particle acceleration",
+            "Radioactive decay measurement"
+          ],
+          "Explanation": "Reconnaissance satellites utilize high-resolution imaging to capture detailed visual intelligence and surveillance data for military and strategic purposes."
+        },
+        {
+          "Question": "Which of the following is NOT a benefit of satellite-based internet service?",
+          "TrueAnswer": "Low latency",
+          "FalseAnswer": [
+            "Global coverage",
+            "Remote access",
+            "High-speed connectivity"
+          ],
+          "Explanation": "Satellite-based internet service is known for global coverage and remote access, but it often faces challenges with high latency due to signal travel distance."
+        },
+        {
+          "Question": "What is the primary application of a remote sensing satellite?",
+          "TrueAnswer": "Monitoring environmental changes",
+          "FalseAnswer": [
+            "Broadcasting live events",
+            "Interplanetary communication",
+            "Geological mapping"
+          ],
+          "Explanation": "Remote sensing satellites capture data to monitor changes in land use, vegetation, natural disasters, and other environmental factors for scientific and resource management purposes."
+        },
+        {
+          "Question": "Which type of satellite provides real-time aerial imagery for civilian and commercial use?",
+          "TrueAnswer": "Earth observation satellite",
+          "FalseAnswer": [
+            "Military reconnaissance satellite",
+            "Astrophysical observatory satellite",
+            "Deep space telescope satellite"
+          ],
+          "Explanation": "Earth observation satellites capture high-resolution imagery of the Earth's surface, enabling applications such as urban planning, agriculture, and disaster response."
+        },
+        {
+          "Question": "What is the average altitude of a satellite in medium Earth orbit (MEO)?",
+          "TrueAnswer": "20,200 kilometers",
+          "FalseAnswer": [
+            "500 kilometers",
+            "12,000 kilometers",
+            "36,000 kilometers"
+          ],
+          "Explanation": "Medium Earth orbit satellites typically operate at altitudes ranging from 12,000 to 36,000 kilometers, providing extended coverage for navigation and communication systems."
+        },
+        {
+          "Question": "How does a satellite maintain its precise position in geostationary orbit?",
+          "TrueAnswer": "Station-keeping thrusters",
+          "FalseAnswer": [
+            "Solar panel adjustments",
+            "Magnetic field alignment",
+            "Gravity wave propulsion"
+          ],
+          "Explanation": "Station-keeping thrusters are used to counteract the effects of gravitational perturbations and orbital drift, maintaining the satellite's fixed position above the Earth."
+        },
+        {
+          "Question": "What is the main limitation of satellite-based broadcasting in rural areas?",
+          "TrueAnswer": "Line-of-sight obstruction",
+          "FalseAnswer": [
+            "Frequency interference",
+            "Atmospheric turbulence",
+            "Solar radiation distortion"
+          ],
+          "Explanation": "Line-of-sight obstruction, caused by terrain or vegetation, can hinder satellite signals from reaching ground receivers in rural or remote locations."
+        },
+        {
+          "Question": "How do GPS satellites achieve accurate time synchronization for navigation signals?",
+          "TrueAnswer": "Atomic clocks",
+          "FalseAnswer": [
+            "Mechanical pendulums",
+            "Solar time calibration",
+            "Lunar phase observation"
+          ],
+          "Explanation": "GPS satellites rely on extremely precise atomic clocks to synchronize signals, enabling receivers to calculate accurate positional and timing information."
+        },
+        {
+          "Question": "Which space agency operates the Landsat program, dedicated to Earth observation and environmental monitoring?",
+          "TrueAnswer": "NASA",
+          "FalseAnswer": [
+            "ESA (European Space Agency)",
+            "CNSA (China National Space Administration)",
+            "ISRO (Indian Space Research Organisation)"
+          ],
+          "Explanation": "The Landsat program, initiated by NASA, has been instrumental in capturing continuous multispectral imagery of the Earth's surface since the first satellite launch in 1972."
+        },
+        {
+          "Question": "What is the primary purpose of a scientific research satellite?",
+          "TrueAnswer": "Data collection and experimentation",
+          "FalseAnswer": [
+            "Celestial object photography",
+            "Interstellar travel navigation",
+            "Astronaut transportation"
+          ],
+          "Explanation": "Scientific research satellites are designed to conduct experiments, gather scientific data, and study phenomena in space, planetary atmospheres, and terrestrial environments."
+        },
+        {
+          "Question": "How do communication satellites relay signals between ground stations?",
+          "TrueAnswer": "Microwave transmission",
+          "FalseAnswer": [
+            "Fiber optic cable connection",
+            "Radio wave modulation",
+            "Laser beam emission"
+          ],
+          "Explanation": "Communication satellites use microwave transmissions to relay signals between ground stations, allowing for long-distance data and voice communication."
+        },
+        {
+          "Question": "What type of satellite is used for monitoring sea surface temperatures, ocean color, and marine ecosystems?",
+          "TrueAnswer": "Oceanographic satellite",
+          "FalseAnswer": [
+            "Space debris tracking satellite",
+            "Solar radiation measurement satellite",
+            "Global navigation satellite"
+          ],
+          "Explanation": "Oceanographic satellites are equipped with specialized sensors to study ocean characteristics, including temperature variations, biological productivity, and coastal dynamics."
+        },
+        {
+          "Question": "What is the primary advantage of using small satellites, known as CubeSats, for space missions?",
+          "TrueAnswer": "Low cost and rapid deployment",
+          "FalseAnswer": [
+            "Extended operational lifespan",
+            "Advanced propulsion systems",
+            "High-resolution imaging capabilities"
+          ],
+          "Explanation": "CubeSats offer cost-effective opportunities for universities, research institutions, and startups to conduct space-based experiments and technology demonstrations with shorter development timelines."
+        }
+      ]
+    }
+  ]
+}

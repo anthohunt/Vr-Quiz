@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &159815641395673834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 918188407756734428}
+  - component: {fileID: 4974432045209775671}
+  m_Layer: 0
+  m_Name: Video_Games_Esports_and_Competitive_Gaming.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &918188407756734428
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159815641395673834}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4974432045209775671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 159815641395673834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who won the first international 'Dota 2' tournament, The International
+        2011?
+      TrueAnswer: Natus Vincere
+      FalseAnswer:
+      - Evil Geniuses
+      - Team Liquid
+      - Fnatic
+      Explanation: Natus Vincere, commonly known as Na'Vi, emerged victorious in
+        the first 'Dota 2' International, solidifying their place in Esports history.
+    - Question: Which of the following is a popular multiplayer online battle arena
+        (MOBA) game?
+      TrueAnswer: League of Legends
+      FalseAnswer:
+      - 'Counter-Strike: Global Offensive'
+      - Overwatch
+      - Fortnite
+      Explanation: '''League of Legends'' is a prominent MOBA game, known for its
+        competitive gameplay and massive Esports following.'
+    - Question: What nationality is Faker, one of the most famous professional 'League
+        of Legends' players?
+      TrueAnswer: Korean
+      FalseAnswer:
+      - Chinese
+      - American
+      - European
+      Explanation: Faker, whose real name is Lee Sang-hyeok, hails from South Korea
+        and is revered for his exceptional 'League of Legends' skills.
+    - Question: Which iconic fighting game features the character Ryu and Ken Masters?
+      TrueAnswer: Street Fighter
+      FalseAnswer:
+      - Tekken
+      - Mortal Kombat
+      - Super Smash Bros.
+      Explanation: Ryu and Ken are synonymous with 'Street Fighter,' a classic title
+        that has been a staple in competitive gaming for decades.
+    - Question: What is the in-game currency used in 'Fortnite' for purchasing cosmetic
+        items?
+      TrueAnswer: V-Bucks
+      FalseAnswer:
+      - Gold Coins
+      - Diamonds
+      - Battle Points
+      Explanation: '''Fortnite'' utilizes V-Bucks as its in-game currency, allowing
+        players to customize their characters with various cosmetic items.'
+    - Question: 'How many players are there on a standard ''Counter-Strike: Global
+        Offensive'' team?'
+      TrueAnswer: 5
+      FalseAnswer:
+      - 4
+      - 6
+      - 7
+      Explanation: 'A standard ''Counter-Strike: Global Offensive'' team comprises
+        5 players, each fulfilling specific roles crucial for competitive success.'
+    - Question: Which Esports organization is renowned for its dominance in the 'Call
+        of Duty' competitive scene?
+      TrueAnswer: OpTic Gaming
+      FalseAnswer:
+      - Fnatic
+      - Team Liquid
+      - T1
+      Explanation: OpTic Gaming has left an indelible mark in 'Call of Duty' Esports,
+        boasting numerous championship victories and a devoted fan base.
+    - Question: What gaming peripheral is essential for precise movements in competitive
+        'StarCraft II' matches?
+      TrueAnswer: Gaming Mouse
+      FalseAnswer:
+      - Arcade Stick
+      - VR Headset
+      - Mechanical Keyboard
+      Explanation: A high-quality gaming mouse is crucial for 'StarCraft II' players,
+        enabling precise and swift unit control during intense competitive battles.
+    - Question: In 'Rocket League,' what is the main objective of the game?
+      TrueAnswer: Score Goals
+      FalseAnswer:
+      - Eliminate Opponents
+      - Collect Power-Ups
+      - Build Structures
+      Explanation: '''Rocket League'' centers around scoring goals using rocket-powered
+        cars, combining elements of soccer and vehicular acrobatics for competitive
+        gameplay.'
+    - Question: Who is the main antagonist in the 'Halo' video game series?
+      TrueAnswer: The Covenant
+      FalseAnswer:
+      - The Flood
+      - The Prometheans
+      - The Guardians
+      Explanation: The Covenant, a militaristic alliance of alien species, serves
+        as the primary antagonist force in the 'Halo' series, challenging players'
+        combat skills.
+    - Question: What is the name of the annual global 'League of Legends' tournament
+        featuring top teams from multiple regions?
+      TrueAnswer: Worlds
+      FalseAnswer:
+      - All-Stars
+      - Mid-Season Invitational
+      - Rift Rivals
+      Explanation: The 'League of Legends' World Championship, commonly known as
+        Worlds, is a pinnacle event that showcases top-tier competition and strategic
+        prowess.
+    - Question: Which video game genre does 'Super Smash Bros. Melee' fall under?
+      TrueAnswer: Fighting
+      FalseAnswer:
+      - Platformer
+      - Role-Playing
+      - Simulation
+      Explanation: '''Super Smash Bros. Melee'' is a renowned fighting game that
+        emphasizes fast-paced combat and strategic character maneuvering for competitive
+        play.'
+    - Question: 'Who is considered the ''king'' of games for his mastery in ''StarCraft:
+        Brood War'' and ''StarCraft II''?'
+      TrueAnswer: Jaedong
+      FalseAnswer:
+      - Flash
+      - sOs
+      - INnoVation
+      Explanation: Jaedong, known for his exceptional Zerg play, earned the moniker
+        'The Tyrant' for his dominant performances in 'StarCraft' Esports.
+    - Question: What is the primary objective in 'Overwatch' Esports matches?
+      TrueAnswer: Complete Map Objectives
+      FalseAnswer:
+      - Eliminate Enemy Team
+      - Secure Power-Ups
+      - Protect Allies
+      Explanation: Successful completion of map objectives is paramount in 'Overwatch'
+        Esports matches, requiring teamwork and strategic coordination for victory.
+    - Question: Which game mode in 'Rainbow Six Siege' emphasizes strategic planning
+        and execution?
+      TrueAnswer: Bomb
+      FalseAnswer:
+      - Team Deathmatch
+      - Hostage
+      - Secure Area
+      Explanation: '''Bomb'' mode in ''Rainbow Six Siege'' demands tactical coordination
+        and map control, fostering intense strategic gameplay in competitive settings.'
+    - Question: What is the maximum number of players allowed on a team in 'Apex
+        Legends' competitive matches?
+      TrueAnswer: 3
+      FalseAnswer:
+      - 4
+      - 2
+      - 5
+      Explanation: In 'Apex Legends' competitive play, teams consist of 3 players,
+        each contributing unique abilities and tactics to secure victory in battle
+        royale engagements.
+    - Question: Which Esports organization is synonymous with dominant performances
+        in 'Dota 2' competitive circuits?
+      TrueAnswer: Team Secret
+      FalseAnswer:
+      - Virtus.pro
+      - OG
+      - Evil Geniuses
+      Explanation: Team Secret has established itself as a renowned force in 'Dota
+        2' Esports, consistently showcasing strategic brilliance and competitive
+        prowess in tournaments.
+    - Question: What is the primary battlefield in the popular battle royale game
+        'PUBG'?
+      TrueAnswer: Erangel
+      FalseAnswer:
+      - Miramar
+      - Vikendi
+      - Sanhok
+      Explanation: '''Erangel'' serves as the original battleground in ''PUBG,''
+        offering diverse terrains and strategic opportunities for intense competitive
+        engagements.'
+    - Question: Which Esports title features a unique hero selection system known
+        as 'drafting'?
+      TrueAnswer: Dota 2
+      FalseAnswer:
+      - Super Smash Bros. Ultimate
+      - Rainbow Six Siege
+      - 'Call of Duty: Warzone'
+      Explanation: '''Dota 2'' employs a drafting phase, where teams strategically
+        select heroes to form effective compositions, shaping the dynamics of competitive
+        matches.'
+    - Question: Which region has traditionally been dominant in 'Street Fighter'
+        Esports competitions?
+      TrueAnswer: Japan
+      FalseAnswer:
+      - United States
+      - South Korea
+      - Brazil
+      Explanation: Japan has historically showcased exceptional skill and strategic
+        mastery in 'Street Fighter' Esports, contributing to the game's global competitive
+        legacy.

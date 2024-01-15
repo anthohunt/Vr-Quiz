@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7264911368967673406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 547293664244755723}
+  - component: {fileID: 7509077140369379521}
+  m_Layer: 0
+  m_Name: Pop_Culture_Influencer_Culture.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &547293664244755723
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7264911368967673406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7509077140369379521
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7264911368967673406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who is considered the first social media influencer?
+      TrueAnswer: Justin Hall
+      FalseAnswer:
+      - Kim Kardashian
+      - PewDiePie
+      - Zoe Sugg
+      Explanation: Justin Hall, a journalist, is often regarded as the first social
+        media influencer due to his influential personal blog.
+    - Question: Which platform is known for Vine celebrities?
+      TrueAnswer: Vine
+      FalseAnswer:
+      - Instagram
+      - Snapchat
+      - YouTube
+      Explanation: Vine was the platform where many influencers rose to fame, popularizing
+        the six-second video format before it was discontinued in 2017.
+    - Question: What is the most followed TikTok account?
+      TrueAnswer: Charli D'Amelio
+      FalseAnswer:
+      - Addison Rae
+      - Loren Gray
+      - Bella Poarch
+      Explanation: As of now, Charli D'Amelio holds the title for the most followed
+        TikTok account with tens of millions of followers.
+    - Question: Who coined the term 'vlog'?
+      TrueAnswer: Adam Kontras
+      FalseAnswer:
+      - Casey Neistat
+      - Zoe Sugg
+      - Shane Dawson
+      Explanation: Adam Kontras is credited with coining the term 'vlog' in 2000
+        when he posted a video blog on his website.
+    - Question: Which influencer popularized the 'haul' video trend?
+      TrueAnswer: Blair Fowler
+      FalseAnswer:
+      - Zoella
+      - Bethany Mota
+      - Logan Paul
+      Explanation: Blair Fowler, known as Juicystar07, was one of the early YouTube
+        creators to popularize the 'haul' video trend.

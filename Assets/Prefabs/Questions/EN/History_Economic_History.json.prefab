@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &822952904817639958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4281663175704143887}
+  - component: {fileID: 5598112806767316706}
+  m_Layer: 0
+  m_Name: History_Economic_History.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4281663175704143887
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822952904817639958}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5598112806767316706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 822952904817639958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What was the name of the trading route linking the East and West
+        during ancient times?
+      TrueAnswer: Silk Road
+      FalseAnswer:
+      - Spice Route
+      - Salt Route
+      - Tea Route
+      Explanation: The Silk Road was a network of trade routes that connected the
+        East and West and was central to the economic, cultural, and technological
+        interactions between these regions.
+    - Question: What commodity was the basis of the Transatlantic Slave Trade during
+        the 18th century?
+      TrueAnswer: Sugar
+      FalseAnswer:
+      - Cotton
+      - Tobacco
+      - Rum
+      Explanation: The Transatlantic Slave Trade was driven by the demand for labor
+        in sugar plantations in the Americas, leading to the forced migration of
+        millions of Africans.
+    - Question: Which economic doctrine advocates minimal government intervention
+        in the economy?
+      TrueAnswer: Laissez-faire
+      FalseAnswer:
+      - Socialism
+      - Keynesianism
+      - Mercantilism
+      Explanation: Laissez-faire economics promotes free-market capitalism, where
+        the government refrains from interfering with economic transactions and allows
+        businesses to operate with minimal regulations.
+    - Question: In which country did the Industrial Revolution first begin?
+      TrueAnswer: United Kingdom
+      FalseAnswer:
+      - United States
+      - France
+      - Germany
+      Explanation: The Industrial Revolution originated in the United Kingdom, transforming
+        the economy from agrarian to industrial and leading to significant social
+        and economic changes.
+    - Question: Which of the following is a key feature of mercantilism?
+      TrueAnswer: Export-oriented economy
+      FalseAnswer:
+      - Free trade
+      - Market competition
+      - Labor specialization
+      Explanation: Mercantilist policies aimed to amass wealth through a favorable
+        balance of trade, emphasizing exports over imports and prioritizing the accumulation
+        of precious metals.
+    - Question: What event marked the beginning of the Great Depression in the 1930s?
+      TrueAnswer: Stock Market Crash of 1929
+      FalseAnswer:
+      - World War I
+      - Dust Bowl
+      - Spanish Flu Pandemic
+      Explanation: The Stock Market Crash of 1929 triggered a financial crisis, causing
+        widespread economic hardship, mass unemployment, and a prolonged period of
+        economic downturn.
+    - Question: Which ancient civilization is credited with inventing the concept
+        of coined money?
+      TrueAnswer: Lydia
+      FalseAnswer:
+      - Babylon
+      - Ancient Egypt
+      - Greece
+      Explanation: The Lydians introduced the first standardized metal coinage system
+        around 600 BCE, revolutionizing economic transactions and trade in the ancient
+        world.
+    - Question: Which economic theory advocates government spending to stimulate
+        demand during downturns?
+      TrueAnswer: Keynesianism
+      FalseAnswer:
+      - Monetarism
+      - Austrian School
+      - Supply-side Economics
+      Explanation: Keynesian economics proposes that government intervention through
+        fiscal policies, such as deficit spending and public works, can boost aggregate
+        demand and mitigate recessionary effects.
+    - Question: What is the term for a sudden and severe downturn in economic activity?
+      TrueAnswer: Depression
+      FalseAnswer:
+      - Recession
+      - Boom
+      - Stagnation
+      Explanation: A depression is characterized by a protracted period of economic
+        decline, high unemployment, reduced industrial production, and significant
+        hardship across the economy.
+    - Question: Which economic system is characterized by communal ownership of the
+        means of production?
+      TrueAnswer: Socialism
+      FalseAnswer:
+      - Capitalism
+      - Feudalism
+      - Anarchism
+      Explanation: Socialism advocates for collective ownership of resources and
+        equitable distribution of wealth, aiming to address disparities and create
+        a more equitable society.

@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &219811020627741012
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5954790424665973623}
+  - component: {fileID: 149674343374559290}
+  m_Layer: 0
+  m_Name: Music_Music_and_Social_Movements.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5954790424665973623
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219811020627741012}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &149674343374559290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219811020627741012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which band frontman is considered a pioneer of using music to promote
+        social and political activism?
+      TrueAnswer: Bob Marley
+      FalseAnswer:
+      - Elvis Presley
+      - David Bowie
+      - Michael Jackson
+      Explanation: Bob Marley's music, particularly his album 'Exodus', became a
+        symbol of social change and political resistance during the 1970s, especially
+        in Jamaica and South Africa.
+    - Question: What was the name of the iconic music festival that symbolized the
+        counterculture movement of the 1960s?
+      TrueAnswer: Woodstock
+      FalseAnswer:
+      - Burning Man
+      - Coachella
+      - Glastonbury
+      Explanation: Woodstock was a 1969 music festival in New York that served as
+        a pivotal moment for the 1960s countercultural movement, promoting peace,
+        love, and music.
+    - Question: Which musician is known for using their platform to address issues
+        like racial inequality and police brutality?
+      TrueAnswer: Kendrick Lamar
+      FalseAnswer:
+      - Taylor Swift
+      - Ed Sheeran
+      - Adele
+      Explanation: Kendrick Lamar's album 'To Pimp a Butterfly' and his performances
+        often confront societal issues, leading to important conversations about
+        race in America.
+    - Question: What genre of music is closely associated with the protest movements
+        of the 1960s and 1970s?
+      TrueAnswer: Folk
+      FalseAnswer:
+      - Heavy Metal
+      - Hip Hop
+      - Electronic
+      Explanation: Folk music, characterized by storytelling and acoustic instruments,
+        was a cornerstone of protest songs during the civil rights and anti-war movements.
+    - Question: Which iconic song became an anthem for the LGBTQ+ community and the
+        fight against discrimination?
+      TrueAnswer: I Will Survive
+      FalseAnswer:
+      - Bohemian Rhapsody
+      - Imagine
+      - Respect
+      Explanation: Gloria Gaynor's 'I Will Survive' became an anthem of resilience
+        amid discrimination, especially during the 1970s parallel to the LGBTQ+ rights
+        movement.

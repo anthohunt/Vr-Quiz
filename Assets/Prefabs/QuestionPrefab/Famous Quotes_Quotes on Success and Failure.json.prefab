@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8230012141788742058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2514198165838270384}
+  - component: {fileID: 8992243250873874101}
+  m_Layer: 0
+  m_Name: Famous Quotes_Quotes on Success and Failure.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2514198165838270384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8230012141788742058}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8992243250873874101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8230012141788742058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: 'Who said ''Success is not final, failure is not fatal: It is the
+        courage to continue that counts.''?'
+      TrueAnswer: Winston Churchill
+      FalseAnswer:
+      - Albert Einstein
+      - Nelson Mandela
+      - Steve Jobs
+      Explanation: Winston Churchill, the British Prime Minister during World War
+        II, emphasized the importance of perseverance in the face of success and
+        failure.
+    - Question: Which famous entrepreneur said 'Success is not the key to happiness.
+        Happiness is the key to success.'?
+      TrueAnswer: Albert Schweitzer
+      FalseAnswer:
+      - Elon Musk
+      - Oprah Winfrey
+      - Mark Zuckerberg
+      Explanation: Albert Schweitzer, a renowned philosopher and humanitarian, believed
+        that finding happiness is essential for achieving success.
+    - Question: Who said 'Success usually comes to those who are too busy to be looking
+        for it.'?
+      TrueAnswer: Henry David Thoreau
+      FalseAnswer:
+      - Thomas Edison
+      - Walt Disney
+      - Warren Buffett
+      Explanation: Henry David Thoreau, an American essayist and philosopher, suggested
+        that success often finds those who are fully engaged in their pursuits.
+    - Question: Which famous author said 'Success is not in what you have, but who
+        you are.'?
+      TrueAnswer: Bo Bennett
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Bo Bennett, an American author and motivational speaker, emphasized
+        that true success lies in personal growth and character.
+    - Question: Who said 'Failure is simply the opportunity to begin again, this
+        time more intelligently.'?
+      TrueAnswer: Henry Ford
+      FalseAnswer:
+      - Bill Gates
+      - Richard Branson
+      - Jeff Bezos
+      Explanation: Henry Ford, the founder of Ford Motor Company, believed that failure
+        provides a chance to learn and improve.
+    - Question: Which famous scientist said 'Success is not the absence of failure;
+        it's the persistence through failure.'?
+      TrueAnswer: Arianna Huffington
+      FalseAnswer:
+      - Marie Curie
+      - Albert Einstein
+      - Stephen Hawking
+      Explanation: Arianna Huffington, the co-founder of The Huffington Post, highlighted
+        the importance of perseverance in the face of failure.
+    - Question: Who said 'Success is not about the destination, it's about the journey.'?
+      TrueAnswer: Zig Ziglar
+      FalseAnswer:
+      - Tony Robbins
+      - Brian Tracy
+      - Jim Rohn
+      Explanation: Zig Ziglar, a renowned motivational speaker, emphasized that success
+        is found in the process of achieving goals.
+    - Question: Which famous athlete said 'Success is no accident. It is hard work,
+        perseverance, learning, studying, sacrifice, and most of all, love of what
+        you are doing or learning to do.'?
+      TrueAnswer: Pele
+      FalseAnswer:
+      - Michael Jordan
+      - Serena Williams
+      - Usain Bolt
+      Explanation: Pele, a legendary Brazilian footballer, believed that success
+        is the result of dedication, passion, and continuous improvement.
+    - Question: Who said 'Success is not the result of spontaneous combustion. You
+        must set yourself on fire.'?
+      TrueAnswer: Arnold H. Glasow
+      FalseAnswer:
+      - Warren Buffett
+      - Steve Jobs
+      - Elon Musk
+      Explanation: Arnold H. Glasow, an American businessman and humorist, emphasized
+        the need for self-motivation and enthusiasm in achieving success.
+    - Question: Which famous musician said 'Success is not the key to longevity.
+        It's the ability to change.'?
+      TrueAnswer: Bob Dylan
+      FalseAnswer:
+      - Michael Jackson
+      - Madonna
+      - Elvis Presley
+      Explanation: Bob Dylan, a legendary singer-songwriter, believed that adaptability
+        and evolution are crucial for long-term success.
+    - Question: Who said 'Failure is the condiment that gives success its flavor.'?
+      TrueAnswer: Truman Capote
+      FalseAnswer:
+      - Maya Angelou
+      - William Shakespeare
+      - Oscar Wilde
+      Explanation: Truman Capote, an American author, suggested that failure adds
+        depth and meaning to the experience of success.
+    - Question: Which famous politician said 'Success is not measured by what you
+        accomplish, but by the opposition you have encountered, and the courage with
+        which you have maintained the struggle against overwhelming odds.'?
+      TrueAnswer: Orison Swett Marden
+      FalseAnswer:
+      - Barack Obama
+      - Winston Churchill
+      - Nelson Mandela
+      Explanation: Orison Swett Marden, a prominent writer and founder of Success
+        magazine, believed that success is determined by resilience and perseverance
+        in the face of challenges.
+    - Question: Who said 'Success is not always about greatness. It's about consistency.
+        Consistent hard work leads to success. Greatness will come.'?
+      TrueAnswer: Dwayne Johnson
+      FalseAnswer:
+      - Tom Hanks
+      - Leonardo DiCaprio
+      - Brad Pitt
+      Explanation: Dwayne Johnson, also known as 'The Rock,' emphasized the importance
+        of consistent effort and dedication in achieving success.
+    - Question: Which famous artist said 'Success is not the key to art. Art is the
+        key to success.'?
+      TrueAnswer: Salvador Dali
+      FalseAnswer:
+      - Pablo Picasso
+      - Vincent van Gogh
+      - Leonardo da Vinci
+      Explanation: Salvador Dali, a renowned surrealist painter, believed that art
+        is a powerful tool for personal and professional success.
+    - Question: Who said 'Success is not in what you have, but who you are.'?
+      TrueAnswer: Bo Bennett
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Bo Bennett, an American author and motivational speaker, emphasized
+        that true success lies in personal growth and character.
+    - Question: Which famous entrepreneur said 'Success is not the key to happiness.
+        Happiness is the key to success.'?
+      TrueAnswer: Albert Schweitzer
+      FalseAnswer:
+      - Elon Musk
+      - Oprah Winfrey
+      - Mark Zuckerberg
+      Explanation: Albert Schweitzer, a renowned philosopher and humanitarian, believed
+        that finding happiness is essential for achieving success.
+    - Question: Who said 'Success usually comes to those who are too busy to be looking
+        for it.'?
+      TrueAnswer: Henry David Thoreau
+      FalseAnswer:
+      - Thomas Edison
+      - Walt Disney
+      - Warren Buffett
+      Explanation: Henry David Thoreau, an American essayist and philosopher, suggested
+        that success often finds those who are fully engaged in their pursuits.
+    - Question: Which famous author said 'Success is not in what you have, but who
+        you are.'?
+      TrueAnswer: Bo Bennett
+      FalseAnswer:
+      - J.K. Rowling
+      - Stephen King
+      - Ernest Hemingway
+      Explanation: Bo Bennett, an American author and motivational speaker, emphasized
+        that true success lies in personal growth and character.
+    - Question: Who said 'Failure is simply the opportunity to begin again, this
+        time more intelligently.'?
+      TrueAnswer: Henry Ford
+      FalseAnswer:
+      - Bill Gates
+      - Richard Branson
+      - Jeff Bezos
+      Explanation: Henry Ford, the founder of Ford Motor Company, believed that failure
+        provides a chance to learn and improve.
+    - Question: Which famous scientist said 'Success is not the absence of failure;
+        it's the persistence through failure.'?
+      TrueAnswer: Arianna Huffington
+      FalseAnswer:
+      - Marie Curie
+      - Albert Einstein
+      - Stephen Hawking
+      Explanation: Arianna Huffington, the co-founder of The Huffington Post, highlighted
+        the importance of perseverance in the face of failure.

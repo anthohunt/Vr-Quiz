@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4420424385790017572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4125582477887813528}
+  - component: {fileID: 4553564891580123334}
+  m_Layer: 0
+  m_Name: Pop_Culture_Sports_Entertainment.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4125582477887813528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4420424385790017572}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4553564891580123334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4420424385790017572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Who holds the record for the longest undefeated streak in WWE history?
+      TrueAnswer: Asuka
+      FalseAnswer:
+      - Goldberg
+      - Undertaker
+      - Brock Lesnar
+      Explanation: Asuka holds the longest undefeated streak in WWE history with
+        a streak of 914 days in NXT and Raw.
+    - Question: What is the signature move of John Cena?
+      TrueAnswer: Attitude Adjustment
+      FalseAnswer:
+      - Stone Cold Stunner
+      - Pedigree
+      - RKO
+      Explanation: John Cena's signature move is the 'Attitude Adjustment', previously
+        known as the 'F-U'.
+    - Question: Which wrestler has the nickname 'The Beast'?
+      TrueAnswer: Brock Lesnar
+      FalseAnswer:
+      - The Rock
+      - Roman Reigns
+      - AJ Styles
+      Explanation: Brock Lesnar is commonly known as 'The Beast' due to his dominant
+        and fierce wrestling style and athleticism.
+    - Question: Which WWE event is famous for the 'Hell in a Cell' match type?
+      TrueAnswer: WrestleMania
+      FalseAnswer:
+      - Royal Rumble
+      - SummerSlam
+      - Survivor Series
+      Explanation: The 'Hell in a Cell' match type is often associated with WrestleMania
+        due to various historic and brutal encounters.
+    - Question: Who is known for introducing the 'Yes!' chant in WWE?
+      TrueAnswer: Daniel Bryan
+      FalseAnswer:
+      - Seth Rollins
+      - Dean Ambrose
+      - Kevin Owens
+      Explanation: Daniel Bryan popularized the 'Yes!' chant as a gesture of affirmation
+        and positivity during his WWE career.
+    - Question: Which WWE superstar's real name is Dwayne Johnson?
+      TrueAnswer: The Rock
+      FalseAnswer:
+      - Stone Cold Steve Austin
+      - Triple H
+      - Scott Hall
+      Explanation: Dwayne Johnson is a former WWE wrestler known by his ring name
+        'The Rock' and is now a Hollywood actor.
+    - Question: Who is known as 'The Phenom' in WWE?
+      TrueAnswer: The Undertaker
+      FalseAnswer:
+      - Shawn Michaels
+      - Edge
+      - Kurt Angle
+      Explanation: The Undertaker earned the moniker 'The Phenom' due to his mystique,
+        longevity, and legendary status in WWE.
+    - Question: Which WWE superstar is known for the '619' finishing move?
+      TrueAnswer: Rey Mysterio
+      FalseAnswer:
+      - Eddie Guerrero
+      - CM Punk
+      - Bret Hart
+      Explanation: Rey Mysterio popularized the '619' move, a unique and acrobatic
+        finishing maneuver involving the ring ropes.
+    - Question: Who won the first-ever Women's Royal Rumble match?
+      TrueAnswer: Asuka
+      FalseAnswer:
+      - Becky Lynch
+      - Charlotte Flair
+      - Sasha Banks
+      Explanation: Asuka won the inaugural Women's Royal Rumble match, solidifying
+        her place in WWE's women's division history.
+    - Question: Which WWE superstar uses the catchphrase 'It's True, It's Damn True'?
+      TrueAnswer: Kurt Angle
+      FalseAnswer:
+      - Brock Lesnar
+      - Randy Orton
+      - Chris Jericho
+      Explanation: Kurt Angle often used the catchphrase 'It's True, It's Damn True'
+        during his WWE career, emphasizing sincerity and conviction.
+    - Question: Who is known for the 'Spear' as a signature move in WWE?
+      TrueAnswer: Edge
+      FalseAnswer:
+      - Roman Reigns
+      - Goldberg
+      - Dolph Ziggler
+      Explanation: Edge gained fame for utilizing the 'Spear' as his signature move,
+        delivering impactful and dramatic moments in WWE matches.
+    - Question: Which WWE superstar is known for the finishing move 'RKO'?
+      TrueAnswer: Randy Orton
+      FalseAnswer:
+      - The Miz
+      - John Morrison
+      - Big Show
+      Explanation: Randy Orton is renowned for executing the 'RKO', a spontaneous
+        and sudden finishing move that often leads to victory.
+    - Question: Which WWE event features the annual 'Elimination Chamber' match type?
+      TrueAnswer: No Mercy
+      FalseAnswer:
+      - Backlash
+      - Extreme Rules
+      - Fastlane
+      Explanation: The 'Elimination Chamber' match type is prominently featured in
+        WWE's No Mercy event, known for intense and high-stakes encounters.
+    - Question: Who was the first WWE superstar to win both the Women's and Divas
+        Championships?
+      TrueAnswer: Michelle McCool
+      FalseAnswer:
+      - Nikki Bella
+      - Layla
+      - AJ Lee
+      Explanation: Michelle McCool achieved the remarkable feat of winning both the
+        Women's and Divas Championships during her WWE career.
+    - Question: Which WWE superstar is often associated with the 'Stunner' move?
+      TrueAnswer: Stone Cold Steve Austin
+      FalseAnswer:
+      - Triple H
+      - The Rock
+      - Kane
+      Explanation: Stone Cold Steve Austin popularized the 'Stunner', a stunning
+        and crowd-thrilling maneuver that became an iconic part of WWE history.
+    - Question: Who is known for the 'Sharpshooter' as a signature move in WWE?
+      TrueAnswer: Bret Hart
+      FalseAnswer:
+      - Shawn Michaels
+      - Kevin Nash
+      - Chris Benoit
+      Explanation: Bret Hart's mastery of the 'Sharpshooter' contributed to his status
+        as one of the greatest technical wrestlers in WWE history.
+    - Question: Which WWE event is associated with the concept of 'Money in the Bank'
+        ladder matches?
+      TrueAnswer: WrestleMania
+      FalseAnswer:
+      - SummerSlam
+      - Survivor Series
+      - Royal Rumble
+      Explanation: The 'Money in the Bank' ladder matches are traditionally held
+        at WrestleMania, offering an opportunity for a championship contract.
+    - Question: Who is known for the 'Frog Splash' as a signature move in WWE?
+      TrueAnswer: Eddie Guerrero
+      FalseAnswer:
+      - Rob Van Dam
+      - Jeff Hardy
+      - Seth Rollins
+      Explanation: Eddie Guerrero's mastery of the 'Frog Splash' showcased his agility
+        and charisma, leaving a lasting impact on WWE fans.
+    - Question: Which WWE superstar is famous for the 'GTS' finishing move?
+      TrueAnswer: CM Punk
+      FalseAnswer:
+      - Daniel Bryan
+      - Kevin Owens
+      - Randy Savage
+      Explanation: CM Punk innovated the 'GTS', a powerful and impactful finishing
+        move named the 'Go to Sleep' in WWE competition.
+    - Question: Who holds the record for most WrestleMania main event appearances?
+      TrueAnswer: The Undertaker
+      FalseAnswer:
+      - John Cena
+      - Hulk Hogan
+      - Stone Cold Steve Austin
+      Explanation: The Undertaker holds the record for most WrestleMania main event
+        appearances with a total of 27 appearances over his illustrious career.

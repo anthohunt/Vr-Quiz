@@ -1,0 +1,180 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Quel est le but principal de la logique mathématique ?",
+            "TrueAnswer": "Formaliser le raisonnement",
+            "FalseAnswer": [
+              "Calculer des valeurs numériques",
+              "Résoudre des équations",
+              "Concevoir des algorithmes"
+            ],
+            "Explanation": "La logique mathématique vise à formaliser le raisonnement et les arguments à l'aide de systèmes formels et de principes mathématiques pour garantir la validité et la vérité."
+          },
+          {
+            "Question": "Comment appelle-t-on l'étude de la cohérence et de la complétude des systèmes formels ?",
+            "TrueAnswer": "Métalogique",
+            "FalseAnswer": [
+              "Théorie des ensembles",
+              "Théorie des nombres",
+              "Théorie des graphes"
+            ],
+            "Explanation": "La métalogique est l'étude des propriétés des systèmes formels, y compris la cohérence et la complétude, en utilisant la logique mathématique elle-même."
+          },
+          {
+            "Question": "Comment appelle-t-on une déclaration qui n'est ni prouvable ni réfutable dans un système formel ?",
+            "TrueAnswer": "Indécidable",
+            "FalseAnswer": [
+              "Valide",
+              "Incohérente",
+              "Contradictoire"
+            ],
+            "Explanation": "Les énoncés indécidables dans les systèmes formels ne peuvent être prouvés vrais ou faux, ce qui conduit à l'incomplétude et aux limitations de la logique mathématique."
+          },
+          {
+            "Question": "Quel mathématicien a formulé les célèbres théorèmes d'incomplétude ?",
+            "TrueAnswer": "Gödel",
+            "FalseAnswer": [
+              "Euler",
+              "Euclide",
+              "Fermat"
+            ],
+            "Explanation": "Le mathématicien autrichien Kurt Gödel a formulé les théorèmes d'incomplétude, qui ont révolutionné l'étude de la logique mathématique et de la théorie des ensembles."
+          },
+          {
+            "Question": "Quel est le symbole de la conjonction logique (ET) en logique mathématique ?",
+            "TrueAnswer": "∧",
+            "FalseAnswer": [
+              "∨",
+              "→",
+              "¬"
+            ],
+            "Explanation": "Le symbole '∧' représente la conjonction logique, souvent utilisé pour relier deux propositions dans les expressions de la logique mathématique."
+          },
+          {
+            "Question": "Quel type de raisonnement logique utilise les règles d'inférence pour dériver des conclusions valides ?",
+            "TrueAnswer": "Déductif",
+            "FalseAnswer": [
+              "Inductif",
+              "Abductif",
+              "Analogique"
+            ],
+            "Explanation": "Le raisonnement déductif exploite les règles d'inférence pour dériver des conclusions valides à partir de prémisses données, un concept fondamental en logique mathématique."
+          },
+          {
+            "Question": "Quel connecteur logique est utilisé pour représenter la quantification universelle en logique mathématique ?",
+            "TrueAnswer": "∀",
+            "FalseAnswer": [
+              "∃",
+              "∨",
+              "→"
+            ],
+            "Explanation": "Le symbole '∀' signifie la quantification universelle, indiquant qu'une déclaration est vraie pour tous les éléments d'un domaine en logique mathématique."
+          },
+          {
+            "Question": "Dans la logique propositionnelle classique, qu'est-ce que le principe de l'exclu ?",
+            "TrueAnswer": "Chaque déclaration est soit vraie, soit fausse",
+            "FalseAnswer": [
+              "Toutes les déclarations sont fausses",
+              "Certaines déclarations sont indécidables",
+              "Les déclarations ont plusieurs valeurs de vérité"
+            ],
+            "Explanation": "Le principe de l'exclu affirme que chaque déclaration doit être vraie ou fausse, sans terrain intermédiaire, en tant que concept fondamental de la logique propositionnelle classique."
+          },
+          {
+            "Question": "Quel type de raisonnement logique vise à trouver l'explication la plus plausible pour un ensemble donné d'observations ?",
+            "TrueAnswer": "Abductif",
+            "FalseAnswer": [
+              "Raisonnement déductif",
+              "Raisonnement inductif",
+              "Dédution analogique"
+            ],
+            "Explanation": "Le raisonnement abductif cherche l'explication la plus plausible pour les observations, un outil précieux dans le raisonnement scientifique et quotidien, distinct du raisonnement déductif et inductif."
+          },
+          {
+            "Question": "Qu'est-ce que le processus d'attribution de valeurs de vérité aux composants d'une expression logique?",
+            "TrueAnswer": "Affectation de vérité",
+            "FalseAnswer": [
+              "Dédution logique",
+              "Vérification de la preuve",
+              "Résolution d'inférences"
+            ],
+            "Explanation": "Une affectation de vérité consiste à attribuer des valeurs de vérité aux propositions atomiques dans une expression logique, essentiel pour évaluer la vérité de toute l'expression en logique mathématique."
+          },
+          {
+            "Question": "Quel logicien a introduit le concept de modus ponens ?",
+            "TrueAnswer": "Aristote",
+            "FalseAnswer": [
+              "Platon",
+              "Euclide",
+              "Pythagore"
+            ],
+            "Explanation": "Modus ponens, une règle fondamentale d'inférence, a été introduite par le philosophe et logicien grec antique Aristote, influençant la logique mathématique pendant des siècles."
+          },
+          {
+            "Question": "Quelle est l'étude des modèles mathématiques de calcul et de leur complexité computationnelle ?",
+            "TrueAnswer": "Théorie de la complexité computationnelle",
+            "FalseAnswer": [
+              "Théorie des jeux",
+              "Topologie",
+              "Cryptanalyse"
+            ],
+            "Explanation": "La théorie de la complexité computationnelle explore l'efficacité des algorithmes et la difficulté inhérente des problèmes de calcul, croisant la logique mathématique et l'informatique."
+          },
+          {
+            "Question": "Dans quelle branche de la logique mathématique les chercheurs étudient-ils les théories à l'aide d'outils mathématiques ?",
+            "TrueAnswer": "Théorie des modèles",
+            "FalseAnswer": [
+              "Théorie de la preuve",
+              "Théorie des ensembles",
+              "Théorie des types"
+            ],
+            "Explanation": "La théorie des modèles se concentre sur l'analyse des structures mathématiques et l'interprétation des théories à l'aide d'outils mathématiques, contribuant à divers domaines des mathématiques et de la logique."
+          },
+          {
+            "Question": "Qu'est-ce que l'étude des systèmes logiques et de leur sémantique ?",
+            "TrueAnswer": "Sémantique de la logique",
+            "FalseAnswer": [
+              "Syntaxe de la logique",
+              "Pragmatique de la logique",
+              "Rhétorique de la logique"
+            ],
+            "Explanation": "L'étude de la sémantique de la logique explore le sens et l'interprétation des systèmes logiques, sous-tendant la précision et la clarté de la logique mathématique."
+          },
+          {
+            "Question": "Quel logicien a développé le système influent de la théorie des types ?",
+            "TrueAnswer": "Russell",
+            "FalseAnswer": [
+              "Turing",
+              "Cantor",
+              "Frege"
+            ],
+            "Explanation": "Le philosophe et logicien britannique Bertrand Russell a contribué de manière significative à la logique mathématique, y compris au développement de la théorie des types, un système fondamental important en logique et en philosophie."
+          },
+          {
+            "Question": "Quel concept en logique mathématique décrit la relation entre les valeurs de vérité d'une proposition composée ?",
+            "TrueAnswer": "Connecteur logique vérité-fonctionnel",
+            "FalseAnswer": [
+              "Algèbre de Boole",
+              "Cardinalité des ensembles",
+              "Géométrie euclidienne"
+            ],
+            "Explanation": "Les connecteurs logiques vérité-fonctionnels expriment la relation entre les valeurs de vérité des propositions composées, formant la base des opérations logiques et des tables de vérité en logique mathématique."
+          },
+          {
+            "Question": "Quelle forme d'argument valide en logique mathématique garantit la vérité de la conclusion si les prémisses sont vraies ?",
+            "TrueAnswer": "Argument déductif valide",
+            "FalseAnswer": [
+              "Raisonnement inductif",
+              "Inférence abductive",
+              "Dédution analogique"
+            ],
+            "Explanation": "Un argument déductif valide garantit que si les prémisses sont vraies, la conclusion doit également être vraie, fondamental pour la justesse du raisonnement en logique mathématique et en philosophie."
+          }
+        ]
+      }
+    }
+  ]
+}

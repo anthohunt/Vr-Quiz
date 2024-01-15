@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1102003919819462174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2969494132893575287}
+  - component: {fileID: 2194147108342322525}
+  m_Layer: 0
+  m_Name: Music_K-Pop_and_J-Pop.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2969494132893575287
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102003919819462174}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2194147108342322525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102003919819462174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the name of the popular K-Pop group BTS' fanbase?
+      TrueAnswer: ARMY
+      FalseAnswer:
+      - BLINK
+      - ONCE
+      - EXO-L
+      Explanation: ARMY is the official fandom name for BTS, derived from the bulletproof
+        vest concept to signify protection for BTS and their fans.
+    - Question: Who is known as the 'Queen of K-Pop'?
+      TrueAnswer: BoA
+      FalseAnswer:
+      - CL
+      - HyunA
+      - G-Dragon
+      Explanation: BoA, with her debut in 2000, is credited as one of the pioneers
+        of the Hallyu wave and K-Pop's international success.
+    - Question: Which J-Pop group is famous for the song 'Doki Doki Morning'?
+      TrueAnswer: BABYMETAL
+      FalseAnswer:
+      - Arashi
+      - Perfume
+      - AKB48
+      Explanation: BABYMETAL is a unique fusion of metal and idol music, gaining
+        international fame with their energetic performances and catchy tunes.
+    - Question: What is the debut single of the popular J-Pop group Nogizaka46?
+      TrueAnswer: Guruguru Curtain
+      FalseAnswer:
+      - Influencer
+      - Synchronicity
+      - Kizuitara Kataomoi
+      Explanation: Guruguru Curtain was released in 2012 and became a chart-topping
+        hit for Nogizaka46, propelling them to fame in the J-Pop scene.
+    - Question: Which K-Pop group is known for their unique 'concept kings' image?
+      TrueAnswer: VIXX
+      FalseAnswer:
+      - BTS
+      - Blackpink
+      - TWICE
+      Explanation: VIXX is known for their diverse and innovative concepts with each
+        comeback, earning them the 'concept kings' title in the K-Pop industry.
+    - Question: Who is the leader of the K-Pop group EXO?
+      TrueAnswer: Suho
+      FalseAnswer:
+      - Chen
+      - Baekhyun
+      - Kai
+      Explanation: Suho, known for his strong leadership and exceptional vocals,
+        has been the leader of EXO since the group's debut in 2012.
+    - Question: Which K-Pop group gained global recognition with the viral song 'Gangnam
+        Style'?
+      TrueAnswer: PSY
+      FalseAnswer:
+      - Big Bang
+      - BTS
+      - Blackpink
+      Explanation: PSY's 'Gangnam Style' became a global phenomenon in 2012, showcasing
+        K-Pop's reach and influence in the international music scene.
+    - Question: Who is the influential producer known for shaping the K-Pop industry
+        and founding SM Entertainment?
+      TrueAnswer: Lee Soo-man
+      FalseAnswer:
+      - Park Jin-young
+      - Yang Hyun-suk
+      - Teddy Park
+      Explanation: Lee Soo-man played a pivotal role in establishing the K-Pop idol
+        system and founded SM Entertainment, home to legendary groups like H.O.T
+        and S.E.S.
+    - Question: Which J-Pop group is famous for their distinct 'kawaii metal' genre?
+      TrueAnswer: Kawaii Metal
+      FalseAnswer:
+      - Morning Musume
+      - AKB48
+      - Perfume
+      Explanation: Kawaii Metal blends J-Pop idol aesthetics with heavy metal, and
+        the group has garnered a dedicated global following for their genre fusion.
+    - Question: What is the name of the hit song by K-Pop girl group BLACKPINK with
+        a powerful EDM sound?
+      TrueAnswer: DDU-DU DDU-DU
+      FalseAnswer:
+      - Boombayah
+      - As If It's Your Last
+      - Kill This Love
+      Explanation: '''DDU-DU DDU-DU'' marked BLACKPINK''s breakthrough with its intense
+        EDM beat, solidifying their global presence and massive fanbase.'
+    - Question: Which J-Pop idol group is associated with the concept of 'graduation'
+        as members leave the group upon reaching a certain age?
+      TrueAnswer: Morning Musume
+      FalseAnswer:
+      - AKB48
+      - Perfume
+      - Nogizaka46
+      Explanation: Morning Musume's concept of 'graduating' members contributed to
+        their long-standing legacy, creating a tradition within the J-Pop idol industry.
+    - Question: What is the title of the K-Pop group TWICE's debut extended play?
+      TrueAnswer: The Story Begins
+      FalseAnswer:
+      - Page Two
+      - What Is Love?
+      - Signal
+      Explanation: '''The Story Begins'' marked TWICE''s debut in 2015, signaling
+        the start of their journey as a prominent K-Pop girl group with catchy songs.'
+    - Question: Who is the 'Golden Maknae' known for his talent and versatility in
+        the K-Pop group BTS?
+      TrueAnswer: Jungkook
+      FalseAnswer:
+      - V
+      - Jimin
+      - Jin
+      Explanation: Jungkook is renowned for his exceptional skills in singing, dancing,
+        and even producing music, earning him the title of 'Golden Maknae' in BTS.
+    - Question: Which K-Pop group became the first to win both the 'Artist of the
+        Year' and 'Song of the Year' at the Melon Music Awards in the same year?
+      TrueAnswer: BIGBANG
+      FalseAnswer:
+      - EXO
+      - BTS
+      - Blackpink
+      Explanation: BIGBANG's monumental achievement in 2015 solidified their status
+        as one of K-Pop's most influential groups, setting a remarkable milestone
+        in the industry.
+    - Question: Which J-Pop group is known for its futuristic and techno-pop style,
+        often incorporating sci-fi elements in their music videos?
+      TrueAnswer: Perfume
+      FalseAnswer:
+      - Nogizaka46
+      - AKB48
+      - Morning Musume
+      Explanation: Perfume's captivating blend of futuristic visuals and techno-pop
+        has garnered international acclaim, shaping the J-Pop scene with their innovative
+        approach.
+    - Question: What is the name of the J-Pop group AKB48's theater in Akihabara,
+        Tokyo?
+      TrueAnswer: AKB48 Theater
+      FalseAnswer:
+      - Hatsune Miku Theater
+      - Stardust Theater
+      - Nogizaka Theater
+      Explanation: AKB48 Theater in Akihabara serves as the group's main performance
+        venue, hosting daily shows and providing a platform for member interactions
+        with fans.
+    - Question: Which K-Pop group is renowned for their 'Infinite' music style and
+        synchronized choreography?
+      TrueAnswer: INFINITE
+      FalseAnswer:
+      - SHINee
+      - Super Junior
+      - GOT7
+      Explanation: INFINITE gained widespread recognition for their intricate choreography
+        and distinctive music style, earning them the title of 'synchronization idols'
+        within K-Pop.
+    - Question: Who is the Korean singer known for her iconic hit 'Good Day' and
+        exceptional vocal range?
+      TrueAnswer: IU
+      FalseAnswer:
+      - Ailee
+      - Taeyeon
+      - Sunmi
+      Explanation: IU's 'Good Day' showcased her remarkable vocal prowess and cemented
+        her status as a leading soloist in the K-Pop industry, with widespread acclaim
+        for her emotional performances.
+    - Question: Which J-Pop group is known for their 'parallel world' concept and
+        elaborate storytelling in their music videos?
+      TrueAnswer: Nogizaka46
+      FalseAnswer:
+      - BABYMETAL
+      - AKB48
+      - Arashi
+      Explanation: Nogizaka46 has integrated intricate storytelling with their 'parallel
+        world' concept, captivating audiences with visually stunning and narrative-driven
+        music videos.
+    - Question: What is the name of the lead vocalist of the J-Pop group Arashi?
+      TrueAnswer: Satoshi Ohno
+      FalseAnswer:
+      - Jun Matsumoto
+      - Kazunari Ninomiya
+      - Masaki Aiba
+      Explanation: Satoshi Ohno is the lead vocalist of Arashi, known for his versatile
+        talents and contributions to the group's success in the J-Pop industry.

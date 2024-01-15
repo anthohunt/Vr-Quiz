@@ -1,0 +1,60 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "In the TV series 'Sherlock', what is Sherlock Holmes' address?",
+            "TrueAnswer": "221B Baker Street",
+            "FalseAnswer": [
+              "123A Baker Street",
+              "333C Baker Street",
+              "456D Baker Street"
+            ],
+            "Explanation": "221B Baker Street is the fictional London address of the detective Sherlock Holmes, created by author Sir Arthur Conan Doyle. The address has become synonymous with the famous character."
+          },
+          {
+            "Question": "Which character is known as 'The Mentalist' in the mystery show of the same name?",
+            "TrueAnswer": "Patrick Jane",
+            "FalseAnswer": [
+              "Teresa Lisbon",
+              "Kimball Cho",
+              "Wayne Rigsby"
+            ],
+            "Explanation": "Patrick Jane, the main character portrayed by Simon Baker, is dubbed 'The Mentalist' due to his remarkable observational and deduction skills used to solve crimes."
+          },
+          {
+            "Question": "Which actress plays the detective in the TV series 'Veronica Mars'?",
+            "TrueAnswer": "Kristen Bell",
+            "FalseAnswer": [
+              "Blake Lively",
+              "Alyson Hannigan",
+              "Leighton Meester"
+            ],
+            "Explanation": "Kristen Bell portrays the character Veronica Mars, a witty and resourceful high school student and later a college student who moonlights as a private investigator."
+          },
+          {
+            "Question": "In 'Twin Peaks', who killed Laura Palmer, the central mystery of the series?",
+            "TrueAnswer": "Leland Palmer",
+            "FalseAnswer": [
+              "Dale Cooper",
+              "Ben Horne",
+              "Bobby Briggs"
+            ],
+            "Explanation": "Leland Palmer, Laura's father, is revealed to be the killer possessed by a malevolent spirit, unraveling a complex web of supernatural and psychological elements in the show."
+          },
+          {
+            "Question": "What is the pen name used by the anonymous informant in 'Castle'?",
+            "TrueAnswer": "Nikki Heat",
+            "FalseAnswer": [
+              "Jameson Rook",
+              "Derrick Storm",
+              "Richard Castle"
+            ],
+            "Explanation": "Nikki Heat is the pen name of the character Jameson Rook in Richard Castle's Nikki Heat book series, inspired by his experiences working with detective Kate Beckett."
+          }
+        ]
+      }
+    }
+  ]
+}

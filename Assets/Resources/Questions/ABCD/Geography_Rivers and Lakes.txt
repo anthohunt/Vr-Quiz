@@ -1,0 +1,128 @@
+{
+    "Geography": [
+        {
+            "Questions": [
+                {
+                    "Question": "What is the longest river in the world?",
+                    "TrueAnswer": "Nile",
+                    "FalseAnswer": ["Amazon", "Mississippi", "Yangtze"],
+                    "Explanation": "The Nile is the longest river in the world, flowing through northeastern Africa."
+                },
+                {
+                    "Question": "Which lake is the largest by surface area?",
+                    "TrueAnswer": "Caspian Sea",
+                    "FalseAnswer": ["Lake Superior", "Lake Victoria", "Lake Huron"],
+                    "Explanation": "The Caspian Sea is the largest lake by surface area, located between Europe and Asia."
+                },
+                {
+                    "Question": "Which river runs through the Grand Canyon?",
+                    "TrueAnswer": "Colorado River",
+                    "FalseAnswer": ["Mississippi River", "Amazon River", "Nile River"],
+                    "Explanation": "The Colorado River runs through the Grand Canyon, carving out its iconic landscape."
+                },
+                {
+                    "Question": "Which lake is the deepest in the world?",
+                    "TrueAnswer": "Lake Baikal",
+                    "FalseAnswer": ["Lake Superior", "Lake Victoria", "Lake Tanganyika"],
+                    "Explanation": "Lake Baikal is the deepest lake in the world, located in Siberia, Russia."
+                },
+                {
+                    "Question": "Which river is considered the cradle of civilization?",
+                    "TrueAnswer": "Tigris-Euphrates",
+                    "FalseAnswer": ["Nile", "Indus", "Yellow River"],
+                    "Explanation": "The Tigris-Euphrates river system is often referred to as the cradle of civilization, as it was home to ancient Mesopotamia."
+                },
+                {
+                    "Question": "Which lake is known for its salt content?",
+                    "TrueAnswer": "Dead Sea",
+                    "FalseAnswer": ["Lake Tahoe", "Lake Titicaca", "Great Salt Lake"],
+                    "Explanation": "The Dead Sea is known for its extremely high salt content, making it impossible for most organisms to survive."
+                },
+                {
+                    "Question": "Which river forms part of the border between the United States and Mexico?",
+                    "TrueAnswer": "Rio Grande",
+                    "FalseAnswer": ["Mississippi River", "Amazon River", "Yangtze River"],
+                    "Explanation": "The Rio Grande forms part of the border between the United States and Mexico, flowing from Colorado to the Gulf of Mexico."
+                },
+                {
+                    "Question": "Which lake is famous for its Loch Ness Monster legend?",
+                    "TrueAnswer": "Loch Ness",
+                    "FalseAnswer": ["Lake Tahoe", "Lake Titicaca", "Great Bear Lake"],
+                    "Explanation": "Loch Ness in Scotland is famous for the legend of the Loch Ness Monster, a mythical creature said to inhabit its waters."
+                },
+                {
+                    "Question": "Which river is known as the 'River of Five Colors'?",
+                    "TrueAnswer": "Caño Cristales",
+                    "FalseAnswer": ["Amazon River", "Nile River", "Yangtze River"],
+                    "Explanation": "Caño Cristales in Colombia is known as the 'River of Five Colors' due to its vibrant aquatic plants."
+                },
+                {
+                    "Question": "Which lake is the largest by volume?",
+                    "TrueAnswer": "Lake Baikal",
+                    "FalseAnswer": ["Lake Superior", "Lake Victoria", "Lake Tanganyika"],
+                    "Explanation": "Lake Baikal is the largest lake by volume, containing about 20% of the world's unfrozen freshwater."
+                },
+                {
+                    "Question": "Which river is considered the lifeline of Egypt?",
+                    "TrueAnswer": "Nile",
+                    "FalseAnswer": ["Amazon", "Mississippi", "Yangtze"],
+                    "Explanation": "The Nile is considered the lifeline of Egypt, providing water and fertile soil for agriculture."
+                },
+                {
+                    "Question": "Which lake is the highest navigable lake in the world?",
+                    "TrueAnswer": "Lake Titicaca",
+                    "FalseAnswer": ["Lake Tahoe", "Lake Baikal", "Great Slave Lake"],
+                    "Explanation": "Lake Titicaca, located in the Andes Mountains, is the highest navigable lake in the world."
+                },
+                {
+                    "Question": "Which river is known as the 'Yellow River'?",
+                    "TrueAnswer": "Huang He",
+                    "FalseAnswer": ["Mississippi River", "Amazon River", "Nile River"],
+                    "Explanation": "The Huang He, also known as the Yellow River, is the second-longest river in China."
+                },
+                {
+                    "Question": "Which lake is the largest in North America?",
+                    "TrueAnswer": "Lake Superior",
+                    "FalseAnswer": ["Lake Victoria", "Great Bear Lake", "Lake Huron"],
+                    "Explanation": "Lake Superior is the largest lake in North America, shared by the United States and Canada."
+                },
+                {
+                    "Question": "Which river is known as the 'River of Gold'?",
+                    "TrueAnswer": "Amazon River",
+                    "FalseAnswer": ["Mississippi River", "Nile River", "Yangtze River"],
+                    "Explanation": "The Amazon River is known as the 'River of Gold' due to the gold deposits found in its basin."
+                },
+                {
+                    "Question": "Which lake is the largest in Africa?",
+                    "TrueAnswer": "Lake Victoria",
+                    "FalseAnswer": ["Lake Superior", "Lake Baikal", "Lake Tanganyika"],
+                    "Explanation": "Lake Victoria is the largest lake in Africa, shared by Uganda, Kenya, and Tanzania."
+                },
+                {
+                    "Question": "Which river is known as the 'River of Sorrows'?",
+                    "TrueAnswer": "Huang He",
+                    "FalseAnswer": ["Mississippi River", "Amazon River", "Nile River"],
+                    "Explanation": "The Huang He, also known as the Yellow River, is known as the 'River of Sorrows' due to its frequent flooding."
+                },
+                {
+                    "Question": "Which lake is the largest in South America?",
+                    "TrueAnswer": "Lake Titicaca",
+                    "FalseAnswer": ["Lake Superior", "Lake Victoria", "Lake Maracaibo"],
+                    "Explanation": "Lake Titicaca is the largest lake in South America, located on the border of Bolivia and Peru."
+                },
+                {
+                    "Question": "Which river is known as the 'River of Kings'?",
+                    "TrueAnswer": "Chao Phraya",
+                    "FalseAnswer": ["Mississippi River", "Amazon River", "Nile River"],
+                    "Explanation": "The Chao Phraya River in Thailand is known as the 'River of Kings' due to its historical significance."
+                },
+                {
+                    "Question": "Which lake is the largest in Europe?",
+                    "TrueAnswer": "Lake Ladoga",
+                    "FalseAnswer": ["Lake Superior", "Lake Victoria", "Lake Geneva"],
+                    "Explanation": "Lake Ladoga is the largest lake in Europe, located in northwestern Russia."
+                }
+            ]
+        }
+    ]
+}

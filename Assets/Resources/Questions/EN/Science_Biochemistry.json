@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "What is a major function of DNA?",
+            "TrueAnswer": "Genetic information storage",
+            "FalseAnswer": [
+              "Enzyme production",
+              "Blood clotting",
+              "Vitamin synthesis"
+            ],
+            "Explanation": "DNA is responsible for storing genetic instructions used in the development and functioning of all known living organisms."
+          },
+          {
+            "Question": "What kind of bond links the nitrogenous bases of DNA?",
+            "TrueAnswer": "Hydrogen",
+            "FalseAnswer": [
+              "Covalent",
+              "Ionic",
+              "Metallic"
+            ],
+            "Explanation": "Hydrogen bonds are relatively weak bonds that are important in the structure of DNA, holding the base pairs together."
+          },
+          {
+            "Question": "In which cellular organelle does glycolysis take place?",
+            "TrueAnswer": "Cytosol",
+            "FalseAnswer": [
+              "Mitochondria",
+              "Endoplasmic reticulum",
+              "Nucleus"
+            ],
+            "Explanation": "Glycolysis is the process of breaking down glucose and occurs in the cytosol of the cell."
+          },
+          {
+            "Question": "What is the primary function of the enzyme DNA polymerase?",
+            "TrueAnswer": "DNA replication",
+            "FalseAnswer": [
+              "Protein synthesis",
+              "Lipid digestion",
+              "Glycogen storage"
+            ],
+            "Explanation": "DNA polymerase is responsible for synthesizing new DNA strands by adding complementary nucleotides during DNA replication."
+          },
+          {
+            "Question": "Which molecule carries amino acids to the ribosome during protein synthesis?",
+            "TrueAnswer": "Transfer RNA (tRNA)",
+            "FalseAnswer": [
+              "Messenger RNA (mRNA)",
+              "Ribosomal RNA (rRNA)",
+              "Deoxyribonucleic acid (DNA)"
+            ],
+            "Explanation": "tRNA delivers specific amino acids to the ribosome, where they are assembled into a polypeptide chain during translation."
+          },
+          {
+            "Question": "What type of bond stabilizes the secondary structure of proteins?",
+            "TrueAnswer": "Hydrogen",
+            "FalseAnswer": [
+              "Disulfide",
+              "Ionic",
+              "Peptide"
+            ],
+            "Explanation": "Hydrogen bonds contribute to the formation of alpha helices and beta sheets, which are key in the secondary structure of proteins."
+          },
+          {
+            "Question": "Which biological macromolecule is composed of nucleotides?",
+            "TrueAnswer": "RNA",
+            "FalseAnswer": [
+              "Protein",
+              "Lipid",
+              "Carbohydrate"
+            ],
+            "Explanation": "RNA is a nucleic acid composed of nucleotides that play crucial roles in gene expression and protein synthesis."
+          },
+          {
+            "Question": "What is the primary function of ATP in the cell?",
+            "TrueAnswer": "Energy currency",
+            "FalseAnswer": [
+              "Cell signaling",
+              "DNA replication",
+              "Osmotic regulation"
+            ],
+            "Explanation": "ATP serves as the main energy currency in the cell, providing the energy needed for various cellular processes."
+          },
+          {
+            "Question": "What is the main pigment responsible for capturing light in photosynthesis?",
+            "TrueAnswer": "Chlorophyll",
+            "FalseAnswer": [
+              "Carotenoid",
+              "Phycobilin",
+              "Melanin"
+            ],
+            "Explanation": "Chlorophyll is the primary pigment in plants that absorbs light energy for the process of photosynthesis."
+          },
+          {
+            "Question": "In which cellular compartment do most of the citric acid cycle reactions occur?",
+            "TrueAnswer": "Mitochondrial matrix",
+            "FalseAnswer": [
+              "Golgi apparatus",
+              "Endoplasmic reticulum",
+              "Lysosome"
+            ],
+            "Explanation": "The citric acid cycle, or Krebs cycle, takes place in the mitochondrial matrix to produce energy-carrying molecules."
+          },
+          {
+            "Question": "What type of biological molecule is the enzyme amylase?",
+            "TrueAnswer": "Carbohydrate",
+            "FalseAnswer": [
+              "Protein",
+              "Lipid",
+              "Nucleic acid"
+            ],
+            "Explanation": "Amylase is an enzyme that catalyzes the hydrolysis of starch, which is a complex carbohydrate into simpler sugars."
+          },
+          {
+            "Question": "Which DNA repair mechanism utilizes an undamaged sister chromatid as a template?",
+            "TrueAnswer": "Homologous recombination",
+            "FalseAnswer": [
+              "Base excision repair",
+              "Nucleotide excision repair",
+              "Mismatch repair"
+            ],
+            "Explanation": "Homologous recombination is a DNA repair process that uses the intact sister chromatid as a template to accurately repair double-strand breaks."
+          },
+          {
+            "Question": "Which type of lipid serves as a major component of cell membranes?",
+            "TrueAnswer": "Phospholipid",
+            "FalseAnswer": [
+              "Triglyceride",
+              "Steroid",
+              "Wax"
+            ],
+            "Explanation": "Phospholipids form the basic structure of cell membranes, consisting of a hydrophilic head and two hydrophobic tails."
+          },
+          {
+            "Question": "What is the primary function of the enzyme RNA polymerase?",
+            "TrueAnswer": "Transcription",
+            "FalseAnswer": [
+              "Translation",
+              "DNA replication",
+              "Glycolysis"
+            ],
+            "Explanation": "RNA polymerase is responsible for transcribing DNA into RNA during the process of gene expression."
+          },
+          {
+            "Question": "Which of the following is a component of a nucleotide in RNA?",
+            "TrueAnswer": "Ribose sugar",
+            "FalseAnswer": [
+              "Deoxyribose sugar",
+              "Thymine base",
+              "Phosphate group"
+            ],
+            "Explanation": "Ribose sugar is a crucial component of RNA nucleotides, distinguishing them from DNA which contains deoxyribose sugar."
+          },
+          {
+            "Question": "What is the primary role of the enzyme catalase in the cell?",
+            "TrueAnswer": "Breaks down hydrogen peroxide",
+            "FalseAnswer": [
+              "Synthesizes lipids",
+              "Creates ATP",
+              "Regulates pH"
+            ],
+            "Explanation": "Catalase acts as a catalyst to break down toxic hydrogen peroxide into water and oxygen, protecting the cell from oxidative damage."
+          },
+          {
+            "Question": "Which molecule acts as the final electron acceptor in the electron transport chain of cellular respiration?",
+            "TrueAnswer": "Oxygen",
+            "FalseAnswer": [
+              "Glucose",
+              "Water",
+              "Carbon dioxide"
+            ],
+            "Explanation": "Oxygen is the ultimate electron acceptor in the electron transport chain, leading to the formation of water as a byproduct."
+          },
+          {
+            "Question": "In which cellular compartment are proteasomes responsible for protein degradation?",
+            "TrueAnswer": "Cytosol",
+            "FalseAnswer": [
+              "Endoplasmic reticulum",
+              "Lysosome",
+              "Nucleus"
+            ],
+            "Explanation": "Proteasomes in the cytosol perform the degradation of unwanted or damaged proteins via targeted proteolysis."
+          },
+          {
+            "Question": "Which amino acid is coded by the start codon AUG?",
+            "TrueAnswer": "Methionine",
+            "FalseAnswer": [
+              "Glycine",
+              "Leucine",
+              "Valine"
+            ],
+            "Explanation": "The start codon AUG not only initiates translation but also codes for the amino acid methionine in most eukaryotic organisms."
+          },
+          {
+            "Question": "What is the primary function of the enzyme DNA ligase?",
+            "TrueAnswer": "Joins Okazaki fragments",
+            "FalseAnswer": [
+              "Unwinds double helix",
+              "Proofreads DNA",
+              "Removes introns"
+            ],
+            "Explanation": "DNA ligase plays a crucial role in DNA replication by sealing the nicks between the newly synthesized Okazaki fragments on the lagging strand."
+          }
+        ]
+      }
+    }
+  ]
+}

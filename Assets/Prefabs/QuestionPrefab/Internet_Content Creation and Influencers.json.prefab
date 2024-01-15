@@ -1,0 +1,226 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4534890844839369471
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3207940986573090946}
+  - component: {fileID: 8280971447396029096}
+  m_Layer: 0
+  m_Name: Internet_Content Creation and Influencers.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3207940986573090946
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534890844839369471}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8280971447396029096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4534890844839369471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most popular search engine?
+      TrueAnswer: Google
+      FalseAnswer:
+      - Yahoo
+      - Bing
+      - DuckDuckGo
+      Explanation: Google is the most widely used search engine, with a market share
+        of over 90%.
+    - Question: Which social media platform has the most monthly active users?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Instagram
+      - Twitter
+      - LinkedIn
+      Explanation: Facebook has the highest number of monthly active users, with
+        over 2.8 billion as of 2021.
+    - Question: What is the maximum number of characters allowed in a tweet?
+      TrueAnswer: 280
+      FalseAnswer:
+      - 140
+      - 200
+      - 320
+      Explanation: Twitter initially had a 140-character limit, but it was increased
+        to 280 characters in 2017.
+    - Question: Which video-sharing platform is known for its 15-second vertical
+        videos?
+      TrueAnswer: TikTok
+      FalseAnswer:
+      - YouTube
+      - Vimeo
+      - Dailymotion
+      Explanation: TikTok gained popularity for its short-form videos, initially
+        limited to 15 seconds in length.
+    - Question: What does SEO stand for?
+      TrueAnswer: Search Engine Optimization
+      FalseAnswer:
+      - Social Engagement Optimization
+      - Site Enhancement Optimization
+      - Search Engine Outreach
+      Explanation: SEO refers to the practice of optimizing a website to improve
+        its visibility in search engine results.
+    - Question: Which platform is known for its disappearing photo and video messages?
+      TrueAnswer: Snapchat
+      FalseAnswer:
+      - WhatsApp
+      - Telegram
+      - WeChat
+      Explanation: Snapchat allows users to send photos and videos that disappear
+        after being viewed.
+    - Question: What is the largest online marketplace for buying and selling goods?
+      TrueAnswer: Amazon
+      FalseAnswer:
+      - eBay
+      - Alibaba
+      - Etsy
+      Explanation: Amazon is the largest e-commerce platform, offering a wide range
+        of products from various sellers.
+    - Question: Which platform is known for its professional networking and job searching?
+      TrueAnswer: LinkedIn
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - Twitter
+      Explanation: LinkedIn is a social networking platform primarily used for professional
+        connections and job opportunities.
+    - Question: What is the term for creating and sharing online content to attract
+        and engage an audience?
+      TrueAnswer: Content creation
+      FalseAnswer:
+      - Social media marketing
+      - Digital advertising
+      - Influencer marketing
+      Explanation: Content creation involves producing and sharing various forms
+        of media to engage and attract an online audience.
+    - Question: Which platform is known for its short, looping videos?
+      TrueAnswer: Vine
+      FalseAnswer:
+      - Instagram
+      - YouTube
+      - TikTok
+      Explanation: Vine was a popular platform for creating and sharing short, looping
+        videos before it was discontinued.
+    - Question: What is the term for individuals who have a significant online following
+        and influence?
+      TrueAnswer: Influencers
+      FalseAnswer:
+      - Creators
+      - Celebrities
+      - Subscribers
+      Explanation: Influencers are individuals who have built a substantial online
+        following and can impact the opinions and behaviors of their audience.
+    - Question: Which platform is known for its live streaming of video games?
+      TrueAnswer: Twitch
+      FalseAnswer:
+      - Netflix
+      - Hulu
+      - Disney+
+      Explanation: Twitch is a popular platform for live streaming video games, allowing
+        viewers to watch and interact with streamers.
+    - Question: What is the term for the process of gaining followers and engagement
+        on social media?
+      TrueAnswer: Social media growth
+      FalseAnswer:
+      - Digital marketing
+      - Audience expansion
+      - Online promotion
+      Explanation: Social media growth refers to the strategies and techniques used
+        to increase followers and engagement on social media platforms.
+    - Question: Which platform is known for its short, informative videos on various
+        topics?
+      TrueAnswer: YouTube
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - Instagram
+      Explanation: YouTube is a video-sharing platform where users can upload and
+        watch videos on a wide range of topics.
+    - Question: What is the term for the process of optimizing a website to rank
+        higher in search engine results?
+      TrueAnswer: Search engine optimization
+      FalseAnswer:
+      - Website enhancement
+      - Digital advertising
+      - Online promotion
+      Explanation: Search engine optimization (SEO) involves making changes to a
+        website to improve its visibility and ranking in search engine results.
+    - Question: Which platform is known for its 24-hour disappearing stories?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - LinkedIn
+      Explanation: Instagram introduced the concept of 24-hour disappearing stories,
+        which are popular among users for sharing temporary content.
+    - Question: What is the term for the process of collaborating with online influencers
+        to promote a product or service?
+      TrueAnswer: Influencer marketing
+      FalseAnswer:
+      - Social media advertising
+      - Digital partnership
+      - Brand sponsorship
+      Explanation: Influencer marketing involves partnering with online influencers
+        to promote a product or service to their audience.
+    - Question: Which platform is known for its character-limited posts and hashtags?
+      TrueAnswer: Twitter
+      FalseAnswer:
+      - Facebook
+      - Instagram
+      - LinkedIn
+      Explanation: Twitter is a microblogging platform where users can share posts
+        limited to 280 characters and use hashtags to categorize content.
+    - Question: What is the term for the process of creating and maintaining a positive
+        online reputation?
+      TrueAnswer: Online reputation management
+      FalseAnswer:
+      - Social media monitoring
+      - Digital branding
+      - Online presence building
+      Explanation: Online reputation management involves actively monitoring and
+        maintaining a positive image and perception of a person or brand on the internet.
+    - Question: Which platform is known for its short, text-based posts and upvoting
+        system?
+      TrueAnswer: Reddit
+      FalseAnswer:
+      - Tumblr
+      - Pinterest
+      - Quora
+      Explanation: Reddit is a social news aggregation and discussion platform where
+        users can submit text-based posts and vote on content.
+    - Question: What is the term for the process of creating and sharing visual content
+        on social media?
+      TrueAnswer: Visual storytelling
+      FalseAnswer:
+      - Digital design
+      - Social media curation
+      - Content distribution
+      Explanation: Visual storytelling involves using images, videos, and other visual
+        elements to convey a narrative or message on social media platforms.

@@ -1,0 +1,210 @@
+{
+  "theme": [
+    {
+      "Questions": {
+        "theme": [
+          {
+            "Question": "Dans quel jeu les joueurs contrôlent-ils Solid Snake?",
+            "TrueAnswer": "Metal Gear Solid",
+            "FalseAnswer": [
+              "Splinter Cell",
+              "Assassin's Creed",
+              "Hitman"
+            ],
+            "Explanation": "Solid Snake est le protagoniste de la série 'Metal Gear', connue pour son gameplay furtif et son histoire complexe."
+          },
+          {
+            "Question": "Que signifie l'acronyme 'NPC' dans les jeux vidéo?",
+            "TrueAnswer": "Personnage Non-Joueur",
+            "FalseAnswer": [
+              "Contrôle de Puissance Ninja",
+              "Centre de Physique Nucléaire",
+              "Corporation Planète Nébuleuse"
+            ],
+            "Explanation": "Les PNJ sont des personnages contrôlés par l'IA du jeu plutôt que par le joueur, souvent utilisés pour donner des quêtes ou développer l'univers du jeu."
+          },
+          {
+            "Question": "Quel jeu a initié l'utilisation de la lumière et de l'ombre en tant que mécaniques de gameplay?",
+            "TrueAnswer": "Thief: The Dark Project",
+            "FalseAnswer": [
+              "Halo",
+              "Final Fantasy",
+              "Uncharted"
+            ],
+            "Explanation": "'Thief' a introduit le gameplay furtif en utilisant la lumière et l'ombre, obligeant les joueurs à être attentifs à la visibilité et au bruit pour éviter la détection."
+          },
+          {
+            "Question": "Quel est l'objectif principal de la série 'Splinter Cell'?",
+            "TrueAnswer": "Espionnage",
+            "FalseAnswer": [
+              "Extermination d'aliens",
+              "Chasse au trésor",
+              "Chasse de monstres"
+            ],
+            "Explanation": "La série 'Splinter Cell' se concentre sur le furtif et l'espionnage, les joueurs incarnant Sam Fisher, un agent hautement entraîné."
+          },
+          {
+            "Question": "Que utilisent généralement les joueurs pour distraire les ennemis dans les jeux furtifs?",
+            "TrueAnswer": "Leurres",
+            "FalseAnswer": [
+              "Musique forte",
+              "Feux d'artifice",
+              "Nourriture"
+            ],
+            "Explanation": "Les leurres sont couramment utilisés pour détourner l'attention d'un ennemi, créant une diversion pour faciliter le passage furtif ou pour mettre en place des pièges dans des scénarios de furtivité."
+          },
+          {
+            "Question": "Quel jeu présente la phrase emblématique 'Fission mailed' comme un jeu de mots sur 'Mission failed'?",
+            "TrueAnswer": "Metal Gear Solid 2: Sons of Liberty",
+            "FalseAnswer": [
+              "Splinter Cell: Chaos Theory",
+              "Thief: Deadly Shadows",
+              "Assassin's Creed II"
+            ],
+            "Explanation": "Dans 'Metal Gear Solid 2', la phrase est utilisée pour contrecarrer les attentes du joueur et remettre en question le récit du jeu."
+          },
+          {
+            "Question": "Quelle capacité permet aux personnages de se fondre dans la foule dans 'Assassin's Creed'?",
+            "TrueAnswer": "Fusion",
+            "FalseAnswer": [
+              "Marche des ombres",
+              "Vision d'aigle",
+              "Téléportation"
+            ],
+            "Explanation": "La capacité 'Fusion' dans 'Assassin's Creed' permet au joueur de s'intégrer parfaitement dans la foule, échappant à la détection des ennemis."
+          },
+          {
+            "Question": "Quel est le nom du protagoniste de la série 'Hitman'?",
+            "TrueAnswer": "Agent 47",
+            "FalseAnswer": [
+              "John Wick",
+              "Max Payne",
+              "Ezio Auditore"
+            ],
+            "Explanation": "L'agent 47, un assassin génétiquement modifié, est le personnage central de la série 'Hitman' connue pour ses mécaniques de furtivité."
+          },
+          {
+            "Question": "Quelle est la monnaie utilisée pour acheter des améliorations dans 'Dishonored'?",
+            "TrueAnswer": "Runes",
+            "FalseAnswer": [
+              "Pièces d'or",
+              "Pierres d'âme",
+              "Points technologiques"
+            ],
+            "Explanation": "Les 'Runes' sont des objets mystiques dans 'Dishonored' qui débloquent et améliorent les capacités surnaturelles, offrant des options de gameplay uniques."
+          },
+          {
+            "Question": "Que utilisent les joueurs dans 'Mark of the Ninja' pour surpasser les ennemis?",
+            "TrueAnswer": "Furtivité et agilité",
+            "FalseAnswer": [
+              "Distractions bruyantes",
+              "Combat direct",
+              "Améliorations de vitesse"
+            ],
+            "Explanation": "Dans 'Mark of the Ninja', maîtriser la furtivité et l'agilité est crucial pour contourner les adversaires et remplir les objectifs sans les alerter."
+          },
+          {
+            "Question": "Quel jeu introduit un mécanisme permettant aux joueurs de se cacher dans des boîtes en carton comme tactique furtive?",
+            "TrueAnswer": "Metal Gear Solid",
+            "FalseAnswer": [
+              "The Last of Us",
+              "Shadow of the Colossus",
+              "Bayonetta"
+            ],
+            "Explanation": "Se cacher dans des boîtes en carton est une tactique bien connue utilisée par Solid Snake dans 'Metal Gear Solid' pour échapper à la détection et se déplacer sans être repéré."
+          },
+          {
+            "Question": "Quel objet est crucial pour les joueurs afin d'éteindre les lumières dans 'Hitman'?",
+            "TrueAnswer": "Pièce",
+            "FalseAnswer": [
+              "Bouteille d'eau",
+              "Lampe de poche",
+              "Canard en caoutchouc"
+            ],
+            "Explanation": "Utiliser une 'Pièce' pour distraire ou briser les lumières dans 'Hitman' peut créer des opportunités pour des déplacements furtifs et des actions discrètes."
+          },
+          {
+            "Question": "Dans 'Thief', quel terme est utilisé pour un objectif de mission visant à voler un objet spécifique?",
+            "TrueAnswer": "Butin",
+            "FalseAnswer": [
+              "Objet de collection",
+              "Artéfact",
+              "Trésor"
+            ],
+            "Explanation": "Le terme 'Butin' dans 'Thief' désigne des objets de valeur que les joueurs sont chargés de voler, correspondant au thème de vol du jeu."
+          },
+          {
+            "Question": "Quel jeu présente un mécanisme permettant aux joueurs de siffler pour attirer l'attention des ennemis?",
+            "TrueAnswer": "Mark of the Ninja",
+            "FalseAnswer": [
+              "The Elder Scrolls V: Skyrim",
+              "Mirror's Edge",
+              "Resident Evil 4"
+            ],
+            "Explanation": "Siffler dans 'Mark of the Ninja' sert de moyen pour attirer les ennemis vers des positions contrôlées facilitant les éliminations stratégiques."
+          },
+          {
+            "Question": "Quel est le nom de l'agence secrète de Sam Fisher dans la série 'Splinter Cell'?",
+            "TrueAnswer": "Third Echelon",
+            "FalseAnswer": [
+              "Division des Opérations Spéciales",
+              "Syndicat Furtif",
+              "Initiative d'Opérations Clandestines"
+            ],
+            "Explanation": "Le 'Third Echelon' est l'organisation secrète qui déploie Fisher dans diverses missions clandestines de la trame de fond de 'Splinter Cell'."
+          },
+          {
+            "Question": "Quel jeu voit le protagoniste utiliser une lame montée sur le poignet pour des éliminations furtives?",
+            "TrueAnswer": "Assassin's Creed",
+            "FalseAnswer": [
+              "Devil May Cry",
+              "Bioshock",
+              "Overwatch"
+            ],
+            "Explanation": "Dans 'Assassin's Creed', le protagoniste utilise une lame dissimulée, symbolisant l'accent de la série sur les assassinats et manœuvres furtives."
+          },
+          {
+            "Question": "Quelle compétence permet aux joueurs de fabriquer et déployer des pièges dans 'The Last of Us'?",
+            "TrueAnswer": "Artisanat",
+            "FalseAnswer": [
+              "Télékinésie",
+              "Super saut",
+              "Contrôle mental"
+            ],
+            "Explanation": "La compétence 'Artisanat' dans 'The Last of Us' permet aux joueurs de créer divers pièges et objets pour obtenir un avantage stratégique dans des situations de furtivité et de combat."
+          },
+          {
+            "Question": "Dans 'Stealth Inc: A Clone in the Dark', que guident les joueurs à travers des chambres d'essai sombres et mortelles?",
+            "TrueAnswer": "Un clone",
+            "FalseAnswer": [
+              "Un robot",
+              "Un fantôme",
+              "Un voyageur du temps"
+            ],
+            "Explanation": "Les joueurs contrôlent un clone dans 'Stealth Inc', naviguant à travers des dangers et des énigmes tout en évitant la détection dans un environnement dynamique et exigeant."
+          },
+          {
+            "Question": "Quel jeu voit le protagoniste équipé d'une vision sonar pour détecter les ennemis à travers les murs?",
+            "TrueAnswer": "Splinter Cell: Blacklist",
+            "FalseAnswer": [
+              "Street Fighter V",
+              "Tomb Raider",
+              "Need for Speed: Rivals"
+            ],
+            "Explanation": "Dans 'Splinter Cell: Blacklist', Sam Fisher utilise la vision sonar pour identifier et suivre les ennemis, ajoutant un avantage tactique au gameplay furtif."
+          },
+          {
+            "Question": "Quelle est la monnaie principale pour acheter des équipements et gadgets dans la série 'Deus Ex'?",
+            "TrueAnswer": "Crédits",
+            "FalseAnswer": [
+              "Drones",
+              "Biopiles",
+              "Modules d'amélioration"
+            ],
+            "Explanation": "Les 'Crédits' sont la forme standard de monnaie dans la série 'Deus Ex', utilisés pour acquérir des armes, des améliorations et d'autres ressources pour un gameplay tactique."
+          }
+        ]
+      }
+    }
+  ]
+}

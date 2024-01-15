@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7646730736250722748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2836254835382593492}
+  - component: {fileID: 8962040871758918270}
+  m_Layer: 0
+  m_Name: Food_and_Cooking_Food_and_Social_Media.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2836254835382593492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7646730736250722748}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8962040871758918270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7646730736250722748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: Which social media platform has a 'foodie' community known for sharing
+        food photos and recipes?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Facebook
+      - Twitter
+      - TikTok
+      Explanation: Instagram is widely popular among food lovers for its visually
+        appealing food posts and recipe sharing culture.
+    - Question: What term refers to influencers who specialize in creating food and
+        cooking content on social media?
+      TrueAnswer: Food influencers
+      FalseAnswer:
+      - Beauty bloggers
+      - Travel vloggers
+      - Fitness coaches
+      Explanation: Food influencers are social media personalities who focus on creating
+        and sharing content related to food, cooking, and recipes.
+    - Question: Which hashtag is commonly used to accompany pictures of food on social
+        media?
+      TrueAnswer: '#foodporn'
+      FalseAnswer:
+      - '#selfie'
+      - '#travel'
+      - '#workout'
+      Explanation: The hashtag #foodporn is widely used on social media platforms
+        to indicate visually stunning and appetizing food photos.
+    - Question: What type of social media content is popular for sharing quick recipe
+        tutorials?
+      TrueAnswer: Food videos
+      FalseAnswer:
+      - Travel diaries
+      - Challenge videos
+      - Makeup tutorials
+      Explanation: Food videos have gained immense popularity on social media platforms
+        for their quick recipe tutorials and visually engaging cooking demonstrations.
+    - Question: Which platform has a specific feature dedicated to sharing cooking
+        recipes and instructional videos?
+      TrueAnswer: YouTube
+      FalseAnswer:
+      - LinkedIn
+      - Snapchat
+      - Pinterest
+      Explanation: YouTube hosts a wide range of cooking channels and is a popular
+        platform for sharing recipe tutorials and instructional cooking videos.
+    - Question: What food-related challenge became a viral trend on social media
+        with participants attempting creative plating or cooking techniques?
+      TrueAnswer: Food art challenge
+      FalseAnswer:
+      - Dance challenge
+      - Lip-sync challenge
+      - Fashion challenge
+      Explanation: The food art challenge gained traction on social media platforms,
+        inspiring users to showcase their creativity in food presentation and cooking
+        techniques.
+    - Question: What social media platform launched a feature allowing users to save
+        and categorize food recipes?
+      TrueAnswer: Pinterest
+      FalseAnswer:
+      - Reddit
+      - Tumblr
+      - TikTok
+      Explanation: Pinterest's 'Save' feature enables users to collect and organize
+        food recipes and cooking ideas, making it a popular platform for food enthusiasts.
+    - Question: Which term refers to the act of using social media to find restaurant
+        recommendations and reviews?
+      TrueAnswer: Foodie research
+      FalseAnswer:
+      - Travel planning
+      - Event organizing
+      - Product marketing
+      Explanation: Foodie research is the practice of using social media to seek
+        recommendations and reviews for dining establishments, offering valuable
+        insights into local food scenes.
+    - Question: What is the name of the food-sharing feature on Instagram, where
+        users can post multiple photos and videos in a single story?
+      TrueAnswer: Carousel
+      FalseAnswer:
+      - Exhibition
+      - Chronicle
+      - Gallery
+      Explanation: The Instagram Carousel feature allows users to share multiple
+        photos and videos in a single story, making it popular for showcasing food
+        experiences.
+    - Question: Which social media platform is known for its emphasis on short, engaging
+        cooking video content?
+      TrueAnswer: TikTok
+      FalseAnswer:
+      - LinkedIn
+      - Reddit
+      - Snapchat
+      Explanation: TikTok's format lends itself well to quick and engaging cooking
+        videos, leading to the rise of food-related content on the platform.
+    - Question: What is the name of the virtual community where people discuss and
+        share food-related content on Reddit?
+      TrueAnswer: Food subreddits
+      FalseAnswer:
+      - Gaming forums
+      - Movie clubs
+      - Music playlists
+      Explanation: Food subreddits are virtual communities within Reddit where users
+        share, discuss, and seek food-related content, recipes, and dining experiences.
+    - Question: Which social media feature allows users to ask for food recommendations
+        from their followers?
+      TrueAnswer: Polls
+      FalseAnswer:
+      - Quizzes
+      - Surveys
+      - Challenges
+      Explanation: Polls enable users to gather opinions from their followers, making
+        them suitable for seeking food recommendations and preferences on social
+        media.
+    - Question: What is the term for the process of using social media platforms
+        to promote food-related products or businesses?
+      TrueAnswer: Food marketing
+      FalseAnswer:
+      - Personal branding
+      - Event management
+      - Travel agencies
+      Explanation: Food marketing encompasses the use of social media to promote
+        and advertise food-related products, establishments, and culinary experiences.
+    - Question: Which social media platform features a 'Explore' tab dedicated to
+        food and cooking-related content?
+      TrueAnswer: Instagram
+      FalseAnswer:
+      - Twitter
+      - LinkedIn
+      - Snapchat
+      Explanation: Instagram's 'Explore' tab showcases personalized food and cooking-related
+        content, providing a platform for food discovery and inspiration.
+    - Question: What social media hashtag is commonly used to share personal cooking
+        achievements and innovative recipes?
+      TrueAnswer: '#foodexperiment'
+      FalseAnswer:
+      - '#vacationgoals'
+      - '#fitnessmotivation'
+      - '#beautyinspo'
+      Explanation: The #foodexperiment hashtag is used to share unique and experimental
+        cooking creations, fostering a community of culinary innovation on social
+        media.
+    - Question: Which social media platform is known for its engagement-driven recipe
+        and cooking challenges?
+      TrueAnswer: Facebook
+      FalseAnswer:
+      - Tumblr
+      - Pinterest
+      - Reddit
+      Explanation: Facebook's user groups and pages often host recipe and cooking
+        challenges, driving engagement and fostering culinary creativity within the
+        community.
+    - Question: What term describes the practice of showcasing food and cooking techniques
+        through captivating visual content on social media?
+      TrueAnswer: Gastronomic storytelling
+      FalseAnswer:
+      - Budget planning
+      - Fitness coaching
+      - Travel photography
+      Explanation: Gastronomic storytelling refers to the art of visually narrating
+        culinary experiences and cooking techniques, evoking emotions and engagement
+        through food content on social media.
+    - Question: What social media platform is popular for sharing live cooking and
+        baking tutorials?
+      TrueAnswer: Twitch
+      FalseAnswer:
+      - Tumblr
+      - LinkedIn
+      - Snapchat
+      Explanation: Twitch's live streaming feature has become a hub for cooking and
+        baking tutorials, offering real-time interaction and engagement with viewers.
+    - Question: What term refers to food-related content creators who gain recognition
+        and following on social media platforms?
+      TrueAnswer: Food influencers
+      FalseAnswer:
+      - Music producers
+      - Tech reviewers
+      - Travel bloggers
+      Explanation: Food influencers are content creators who specialize in food-related
+        content, growing their following and influence within the culinary community
+        on social media.
+    - Question: What is the name of the social media feature where users can tag
+        the locations of food establishments they visit?
+      TrueAnswer: Geotagging
+      FalseAnswer:
+      - Hashtagging
+      - Mentioning
+      - Retweeting
+      Explanation: Geotagging allows users to tag the locations of food establishments
+        they visit, creating a digital map of culinary experiences on social media
+        platforms.

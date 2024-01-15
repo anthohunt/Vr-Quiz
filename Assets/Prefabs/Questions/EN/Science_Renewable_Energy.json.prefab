@@ -1,0 +1,249 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5204069755853155209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9097548502162072856}
+  - component: {fileID: 7132364182528915418}
+  m_Layer: 0
+  m_Name: Science_Renewable_Energy.json
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9097548502162072856
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5204069755853155209}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7132364182528915418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5204069755853155209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b25df20d1643f4787b3faac30e2b94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  loadedThemesData:
+  - Questions:
+    - Question: What is the most widely used renewable energy source in the world?
+      TrueAnswer: Hydropower
+      FalseAnswer:
+      - Solar
+      - Wind
+      - Geothermal
+      Explanation: Hydropower accounts for the largest share of renewable electricity
+        generation globally, providing sustainable and consistent energy from flowing
+        water sources.
+    - Question: Which renewable energy source converts sunlight directly into electricity?
+      TrueAnswer: Solar photovoltaic
+      FalseAnswer:
+      - Solar thermal
+      - Wind
+      - Biomass
+      Explanation: Solar photovoltaic technology converts sunlight into electricity
+        using semiconductor materials, contributing significantly to the growth of
+        solar energy capacity.
+    - Question: What is the main component of wind energy conversion systems?
+      TrueAnswer: Turbine
+      FalseAnswer:
+      - Panel
+      - Generator
+      - Battery
+      Explanation: Wind turbines contain blades that capture kinetic energy from
+        the wind and convert it into rotational energy to generate electricity.
+    - Question: Which type of bioenergy derives from plant and animal waste?
+      TrueAnswer: Biogas
+      FalseAnswer:
+      - Bioethanol
+      - Biodiesel
+      - Hydropower
+      Explanation: Biogas is produced from organic wastes through anaerobic digestion,
+        offering a renewable and sustainable energy source for heating and electricity.
+    - Question: What is the process of converting heat from the Earth into electricity
+        called?
+      TrueAnswer: Geothermal power
+      FalseAnswer:
+      - Hydropower
+      - Tidal energy
+      - Wind power
+      Explanation: Geothermal power harnesses the Earth's natural heat to generate
+        electricity, providing a consistent and reliable source of renewable energy.
+    - Question: Which fossil fuel is commonly replaced by biomass in energy production?
+      TrueAnswer: Coal
+      FalseAnswer:
+      - Natural gas
+      - Oil
+      - Nuclear power
+      Explanation: Biomass energy can offset the use of coal by converting organic
+        materials such as wood and crop residues into renewable fuel and reducing
+        carbon emissions.
+    - Question: What is the name of the phenomenon where solar cells generate electricity
+        directly from sunlight?
+      TrueAnswer: Photovoltaic effect
+      FalseAnswer:
+      - Conduction effect
+      - Radiation effect
+      - Solarization effect
+      Explanation: The photovoltaic effect allows solar cells to convert photons
+        from sunlight into electrical current and voltage, enabling the production
+        of solar power.
+    - Question: Which ocean energy technology utilizes the rise and fall of tides
+        to generate electricity?
+      TrueAnswer: Tidal energy
+      FalseAnswer:
+      - Wave energy
+      - Ocean thermal energy conversion
+      - Hydropower
+      Explanation: Tidal energy systems capture the kinetic energy from the movement
+        of tides to generate clean and predictable electricity, utilizing the gravitational
+        forces of the Earth and moon.
+    - Question: What is the primary function of a solar thermal collector?
+      TrueAnswer: Heat water or air
+      FalseAnswer:
+      - Generate electricity
+      - Cooling buildings
+      - Store energy
+      Explanation: Solar thermal collectors absorb sunlight to heat a fluid, typically
+        water or air, for various applications such as heating water for domestic
+        use or air for space heating and cooling.
+    - Question: Which renewable energy source is known for its minimal impact on
+        the environment?
+      TrueAnswer: Hydropower
+      FalseAnswer:
+      - Biomass
+      - Geothermal
+      - Tidal energy
+      Explanation: Hydropower systems produce clean and renewable electricity with
+        minimal greenhouse gas emissions and limited environmental impact, supporting
+        sustainable energy development.
+    - Question: What is the process where nuclear particles decay and produce heat
+        for power generation?
+      TrueAnswer: Nuclear fission
+      FalseAnswer:
+      - Nuclear fusion
+      - Radioactive decay
+      - Atomic disintegration
+      Explanation: Nuclear fission involves the splitting of atomic nuclei, releasing
+        large amounts of energy to generate electricity, but also producing radioactive
+        waste requiring careful management.
+    - Question: Which type of ocean energy technology utilizes the energy from ocean
+        waves to generate electricity?
+      TrueAnswer: Wave energy
+      FalseAnswer:
+      - Tidal energy
+      - Ocean thermal energy conversion
+      - Magnetic energy
+      Explanation: Wave energy devices capture the kinetic energy of ocean waves
+        to produce renewable electricity, offering potential for sustainable energy
+        generation near coastal regions.
+    - Question: What is the most abundant greenhouse gas produced from the combustion
+        of fossil fuels?
+      TrueAnswer: Carbon dioxide
+      FalseAnswer:
+      - Methane
+      - Nitrous oxide
+      - Sulfur dioxide
+      Explanation: Carbon dioxide is the primary greenhouse gas emitted from human
+        activities, contributing to climate change and the warming of the Earth's
+        atmosphere.
+    - Question: Which renewable energy source requires a significant amount of land
+        for large-scale installations?
+      TrueAnswer: Wind power
+      FalseAnswer:
+      - Solar energy
+      - Geothermal power
+      - Tidal energy
+      Explanation: Wind power farms require vast areas for multiple wind turbines,
+        impacting land use and spatial planning for sustainable deployment of renewable
+        energy.
+    - Question: What is the energy storage technology that utilizes gravitational
+        potential energy?
+      TrueAnswer: Pumped hydro storage
+      FalseAnswer:
+      - Battery storage
+      - Flywheel storage
+      - Supercapacitor storage
+      Explanation: Pumped hydro storage facilities store energy by pumping water
+        to an elevated reservoir and releasing it to generate electricity during
+        periods of high demand, offering grid stability and energy balancing.
+    - Question: What is the process of converting organic matter into biofuels through
+        chemical reactions?
+      TrueAnswer: Bioconversion
+      FalseAnswer:
+      - Biodigestion
+      - Biorefining
+      - Biomanufacturing
+      Explanation: Bioconversion involves the transformation of biomass into biofuels
+        such as bioethanol or biodiesel, contributing to the production of sustainable
+        and renewable transportation fuels.
+    - Question: Which renewable energy source is associated with the least intermittent
+        energy output?
+      TrueAnswer: Geothermal power
+      FalseAnswer:
+      - Solar energy
+      - Wind power
+      - Tidal energy
+      Explanation: Geothermal power provides a reliable and continuous supply of
+        electricity by utilizing heat from the Earth's core, offering consistent
+        and stable energy generation.
+    - Question: What is the primary component in a photovoltaic solar panel for converting
+        sunlight into electricity?
+      TrueAnswer: Semiconductor material
+      FalseAnswer:
+      - Glass panel
+      - Aluminum frame
+      - Conductive wire
+      Explanation: Semiconductor materials, such as silicon, form the basis of photovoltaic
+        solar cells, enabling the conversion of sunlight into electrical energy for
+        solar power generation.
+    - Question: Which renewable energy source can directly replace traditional fossil
+        fuel for transportation?
+      TrueAnswer: Biomass
+      FalseAnswer:
+      - Hydropower
+      - Geothermal power
+      - Wave energy
+      Explanation: Biomass can be processed into biofuels like ethanol and biodiesel,
+        serving as renewable alternatives to conventional fossil fuels for transportation
+        and reducing carbon emissions.
+    - Question: What is the primary element used in the production of wind turbines
+        for energy generation?
+      TrueAnswer: Steel
+      FalseAnswer:
+      - Aluminum
+      - Carbon fiber
+      - Titanium
+      Explanation: Steel is a crucial material in the manufacturing of wind turbine
+        components such as tower structures and rotor blades, providing strength
+        and durability for renewable energy production.
+    - Question: What is the energy conversion process where organic material decomposes
+        to produce biogas?
+      TrueAnswer: Anaerobic digestion
+      FalseAnswer:
+      - Fermentation
+      - Gasification
+      - Pyrolysis
+      Explanation: Anaerobic digestion breaks down organic matter in the absence
+        of oxygen, generating biogas as a renewable energy source from agricultural
+        and organic waste.
