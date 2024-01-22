@@ -49,6 +49,3 @@ The VrQuiz project is VR quiz application, where all questions (12000+) are gene
 
 ## Visuals
 - **DynamicSkyboxController.cs**: Controls the skybox visuals dynamically based on game events or settings.
-
-# Conclusion
-The VrQuiz project comprises a variety of scripts, each contributing to the immersive and interactive nature of the VR quiz experience. This overview provides a glimpse into the functionalities and roles of each script within the project.
